@@ -1,0 +1,173 @@
+{
+    "release": {
+        "_id": "239053",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "Namlook",
+                "id": "1910",
+                "join": "",
+                "name": "Pete Namlook",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": {
+                "catno": "",
+                "entity_type": "23",
+                "entity_type_name": "Recorded At",
+                "id": "265012",
+                "name": "Klanglabor Hödeshof",
+                "resource_url": "https://api.discogs.com/labels/265012"
+            }
+        },
+        "country": "Germany",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "andre@sansserif.com",
+                    "id": "2022694",
+                    "join": "",
+                    "name": "Andre Ruello",
+                    "role": "Graphics",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "58657",
+                    "join": "",
+                    "name": "Peter Kuhlmann",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_type": "Label Code",
+                "_value": "LC 6269"
+            }
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "585",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "599",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "583",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "597",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "595",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/167",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Limitation 1.000",
+        "released": "2004-02-00",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Drone",
+                "Minimal"
+            ]
+        },
+        "title": "Namlook XIX - Music For Urban Meditation",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "14:09",
+                    "position": "1",
+                    "title": "Music For Urban Meditation Part I"
+                },
+                {
+                    "duration": "13:36",
+                    "position": "2",
+                    "title": "Music For Urban Meditation Part II"
+                },
+                {
+                    "duration": "9:04",
+                    "position": "3",
+                    "title": "Music For Urban Meditation Part III"
+                },
+                {
+                    "duration": "4:17",
+                    "position": "4",
+                    "title": "Music For Urban Meditation Part IV"
+                },
+                {
+                    "duration": "6:16",
+                    "position": "5",
+                    "title": "Music For Urban Meditation Part V"
+                },
+                {
+                    "duration": "4:38",
+                    "position": "6",
+                    "title": "Music For Urban Meditation Part VI"
+                },
+                {
+                    "duration": "9:56",
+                    "position": "7",
+                    "title": "Music For Urban Meditation Part VII"
+                }
+            ]
+        }
+    }
+}

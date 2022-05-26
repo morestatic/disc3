@@ -1,0 +1,147 @@
+{
+    "release": {
+        "_id": "109323",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "15289",
+                "join": "",
+                "name": "Syn",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "1910",
+                "join": "",
+                "name": "Pete Namlook",
+                "role": "Written-By",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Side-A",
+                    "_type": "Matrix / Runout",
+                    "_value": "= PRODUCED AT SONIC STUDIOS FRANKFURT FOR NAMLOOK PRODUCTIONS ="
+                },
+                {
+                    "_description": "Side-B",
+                    "_type": "Matrix / Runout",
+                    "_value": "NO MORE VIOLENCE ANYWHERE...."
+                }
+            ]
+        },
+        "images": {
+            "image": {
+                "_height": "230",
+                "_type": "secondary",
+                "_uri": "",
+                "_uri150": "",
+                "_width": "230"
+            }
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/66",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "1756070"
+        },
+        "notes": "Limitation: 500",
+        "released": "1993-05-17",
+        "styles": {
+            "style": [
+                "Trance",
+                "Industrial",
+                "Ambient"
+            ]
+        },
+        "title": "Syn 4",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "8:20",
+                    "position": "A1",
+                    "title": "Painamplifier I"
+                },
+                {
+                    "duration": "4:08",
+                    "position": "A2",
+                    "title": "Painamplifier II"
+                },
+                {
+                    "duration": "11:48",
+                    "position": "B",
+                    "title": "Yugoslavia"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "500",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=XhnxF7DaA1I",
+                    "description": "Label:Fax +49-69/450464\nCatalog#:PK 08/066\nFormat:Vinyl, 12, Limited Edition\nCountry:Germany\nReleased:17 May 1993\nGenre:Electronic\nStyle:Trance, Industrial, Ambient\nCredits:Written-By - Pete Namlook\nNotes:Limitation: 500\nRating: 3.88/5",
+                    "title": "Syn - Painamplifier I (1993)"
+                },
+                {
+                    "_duration": "271",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=jqiM_Kwizf8",
+                    "description": "Intrance feat. D-Sign - Te Quierro ('93 Club Remix)\n\n+++Listen to Intrance feat. D-Sign - Te Quierro Remixes: +++\n\n►Amazon digital: http://amzn.to/2tenGIi\n►Apple Music: http://apple.co/2t2A1et\n►Google Play: http://bit.ly/2uqabVo\n►iTunes: http://",
+                    "title": "Intrance feat. D-Sign - Te Quierro ('93 Club Remix)"
+                },
+                {
+                    "_duration": "252",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=ePEnzddp08o",
+                    "description": "http://www.discogs.com/Syn-Syn-4/release/109323\n\r\n\r-uploaded in HD at http://www.TunesToTube.com",
+                    "title": "Syn - Painamplifier II (Hardcore 1993)"
+                },
+                {
+                    "_duration": "309",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=lAwn_GwAtL4",
+                    "description": "Intrance feat. D-Sign - Te Quierro (Zaffarano Deep Underground Mix)\n\n+++Listen to Intrance feat. D-Sign - Te Quierro Remixes: +++\n\n►Amazon digital: http://amzn.to/2tenGIi\n►Apple Music: http://apple.co/2t2A1et\n►Google Play: http://bit.ly/2uqabVo",
+                    "title": "Intrance feat. D-Sign - Te Quierro (Zaffarano Deep Underground Mix)"
+                },
+                {
+                    "_duration": "687",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=rQY4hH4VNmY",
+                    "description": "Released on the SYN 2XCD album, On Syn 4 12 EP  and  on the FAX Label Ambient Compilation 4 CD, 1993  / 1994\nMusic by:  Pete Namlook 1994\nVideo by: Abstructure",
+                    "title": "SYN - Juguslavia"
+                }
+            ]
+        }
+    }
+}

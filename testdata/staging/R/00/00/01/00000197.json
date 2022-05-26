@@ -1,0 +1,151 @@
+{
+    "release": {
+        "_id": "197",
+        "_status": "Accepted",
+        "artists": {
+            "artist": [
+                {
+                    "anv": "A.D.N.Y.",
+                    "id": "50",
+                    "join": "\u0026",
+                    "name": "ADNY",
+                    "role": "",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "9468",
+                    "join": "",
+                    "name": "Denard Henry",
+                    "role": "",
+                    "tracks": ""
+                }
+            ]
+        },
+        "companies": {
+            "company": {
+                "catno": "",
+                "entity_type": "9",
+                "entity_type_name": "Distributed By",
+                "id": "285289",
+                "name": "Prime Distribution",
+                "resource_url": "https://api.discogs.com/labels/285289"
+            }
+        },
+        "country": "Switzerland",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "26",
+                    "join": "",
+                    "name": "Alexi Delano",
+                    "role": "Recorded By, Written By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "9468",
+                    "join": "",
+                    "name": "Denard Henry",
+                    "role": "Recorded By, Written By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "12\""
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "593",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "595",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "Super001",
+                "_id": "83",
+                "_name": "SuperBra"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "677837"
+        },
+        "notes": "Written \u0026 recorded in New York. \r\n\"The Question\" contains a sample from David Lynch's \"Eraserhead\" movie.",
+        "released": "1999-00-00",
+        "styles": {
+            "style": "Techno"
+        },
+        "title": "Collective Behaviour",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A",
+                    "title": "The Question"
+                },
+                {
+                    "duration": "",
+                    "position": "B1",
+                    "title": "Phuture Funk"
+                },
+                {
+                    "duration": "",
+                    "position": "B2",
+                    "title": "What Meets The Eye"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "416",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=8UrcwLfDvH4",
+                    "description": "https://www.discogs.com/ADNY-Denard-Henry-Collective-Behaviour/release/197\n\nSubscribe to our channel: http://bit.ly/231fWQm\n\nFacebook: http://bit.ly/1T9uCYp\n\nTwitter: http://bit.ly/1SIYOiL\n\nGoogle+: http://bit.ly/1UcF8mw\n\nA.D.N.Y. \u0026 Denard Henry - Phuture",
+                    "title": "A.D.N.Y. \u0026 Denard Henry - Phuture Funk"
+                },
+                {
+                    "_duration": "426",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=yi1PeSQeDTM",
+                    "description": "https://www.discogs.com/ADNY-Denard-Henry-Collective-Behaviour/release/197\n\nSubscribe to our channel: http://bit.ly/231fWQm\n\nFacebook: http://bit.ly/1T9uCYp\n\nTwitter: http://bit.ly/1SIYOiL\n\nGoogle+: http://bit.ly/1UcF8mw\n\nA.D.N.Y. \u0026 Denard Henry - The Que",
+                    "title": "A.D.N.Y. \u0026 Denard Henry - The Question"
+                },
+                {
+                    "_duration": "315",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=QP0Qi5NZ1oA",
+                    "description": "https://www.discogs.com/ADNY-Denard-Henry-Collective-Behaviour/release/197\n\nSubscribe to our channel: http://bit.ly/231fWQm\n\nFacebook: http://bit.ly/1T9uCYp\n\nTwitter: http://bit.ly/1SIYOiL\n\nGoogle+: http://bit.ly/1UcF8mw\n\nA.D.N.Y. \u0026 Denard Henry - What Me",
+                    "title": "A.D.N.Y. \u0026 Denard Henry - What Meets The Eye"
+                }
+            ]
+        }
+    }
+}

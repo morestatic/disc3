@@ -1,0 +1,191 @@
+{
+    "release": {
+        "_id": "166381",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "127274",
+                "join": "",
+                "name": "The Freaky Afronaut",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "9",
+                    "entity_type_name": "Distributed By",
+                    "id": "290468",
+                    "name": "Syntax Distribution",
+                    "resource_url": "https://api.discogs.com/labels/290468"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "9",
+                    "entity_type_name": "Distributed By",
+                    "id": "290468",
+                    "name": "Syntax Distribution",
+                    "resource_url": "https://api.discogs.com/labels/290468"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "29",
+                    "entity_type_name": "Mastered At",
+                    "id": "199325",
+                    "name": "Frankford/Wayne Mastering Labs",
+                    "resource_url": "https://api.discogs.com/labels/199325"
+                }
+            ]
+        },
+        "country": "US",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": {
+                "anv": "ds",
+                "id": "356907",
+                "join": "",
+                "name": "Duncan Stanbury",
+                "role": "Mastered By",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM",
+                        "45 RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Runout Side A, etched",
+                    "_type": "Matrix / Runout",
+                    "_value": "FPR-015 A  fwds"
+                },
+                {
+                    "_description": "Runout Side B, etched",
+                    "_type": "Matrix / Runout",
+                    "_value": "FPR-015 B  fwds"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "500",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                },
+                {
+                    "_height": "500",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "FPR015",
+                "_id": "50",
+                "_name": "Fair Park"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "286391"
+        },
+        "released": "2003-08-14",
+        "styles": {
+            "style": [
+                "House",
+                "Deep House"
+            ]
+        },
+        "title": "Can You Hear Me",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "26579",
+                            "join": "",
+                            "name": "Demarkus Lewis",
+                            "role": "Remix, Producer [Additional Production]",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "A1",
+                    "title": "Can You Hear Me (D's Main Pass)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "968019",
+                            "join": "",
+                            "name": "Brandon Harris (2)",
+                            "role": "Producer",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "B1",
+                    "title": "Can You Hear Me (The Freaky Afronaut's Original Mix)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "Loose Heads",
+                            "id": "44019",
+                            "join": "",
+                            "name": "Loose Headz",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "B2",
+                    "title": "Can You Hear Me (Loose Heads Lover Dub)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "494",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=4jw8NjByk94",
+                    "description": "",
+                    "title": "Freaky Afronaut-Can you hear me"
+                },
+                {
+                    "_duration": "495",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=E_wg9JYrZZw",
+                    "description": "Remix - Demarkus Lewis\r\nFair Park ‎– FPR015 | 2003\r\nVinyl Rips On This Channel Are Recorded From The Original 12 By Me",
+                    "title": "The Freaky Afronaut | Can You Hear Me (D's Main Pass)"
+                }
+            ]
+        }
+    }
+}

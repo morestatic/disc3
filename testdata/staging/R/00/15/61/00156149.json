@@ -1,0 +1,178 @@
+{
+    "release": {
+        "_id": "156149",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "119849",
+                "join": "",
+                "name": "Suggestive",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "UK",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "1821119",
+                    "join": "",
+                    "name": "Greg Williams (8)",
+                    "role": "Engineer",
+                    "tracks": "A1"
+                },
+                {
+                    "anv": "",
+                    "id": "1028190",
+                    "join": "",
+                    "name": "Paul Hawker",
+                    "role": "Written-By, Producer, Mixed By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1028191",
+                    "join": "",
+                    "name": "Rob Sinclair",
+                    "role": "Written-By, Producer, Mixed By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_type": "Barcode",
+                "_value": "5 025425 350665"
+            }
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "594",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "LOAD6",
+                "_id": "40",
+                "_name": "Loaded Records"
+            }
+        },
+        "released": "1993",
+        "styles": {
+            "style": [
+                "House",
+                "Progressive House"
+            ]
+        },
+        "title": "Advances",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A1",
+                    "title": "Advances"
+                },
+                {
+                    "duration": "",
+                    "position": "A2",
+                    "title": "Movin'"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "28522",
+                            "join": "",
+                            "name": "Play Boys",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "AA1",
+                    "title": "Advances (Play Boys Dub)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "28522",
+                            "join": "",
+                            "name": "Play Boys",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "AA2",
+                    "title": "Movin' (Play Boys Dub)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "499",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=LPDcJzmfen8",
+                    "description": "http://itunes.apple.com/gb/album/advances-moves-ep/id379068563",
+                    "title": "Suggestive - Advances"
+                },
+                {
+                    "_duration": "350",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=wSX4bpqgkV0",
+                    "description": "http://itunes.apple.com/gb/album/advances-moves-ep/id379068563",
+                    "title": "Suggestive - Advances (Playboys remix)"
+                },
+                {
+                    "_duration": "405",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=ZCWlUutFYGs",
+                    "description": "http://itunes.apple.com/gb/album/advances-moves-ep/id379068563",
+                    "title": "Suggestive - Moves"
+                },
+                {
+                    "_duration": "430",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=AnYhz7OTlGo",
+                    "description": "http://itunes.apple.com/gb/album/advances-moves-ep/id379068563",
+                    "title": "Suggestive - Moves (Playboys remix)"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,115 @@
+{
+    "release": {
+        "_id": "13313",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "9880",
+                "join": "",
+                "name": "DJ Rhythm",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "US",
+        "data_quality": "Needs Vote",
+        "extraartists": "",
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "12\""
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": {
+                "_height": "455",
+                "_type": "secondary",
+                "_uri": "",
+                "_uri150": "",
+                "_width": "452"
+            }
+        },
+        "labels": {
+            "label": {
+                "_catno": "MDR9606-1",
+                "_id": "20",
+                "_name": "Moody Recordings"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "446608"
+        },
+        "released": "1998",
+        "styles": {
+            "style": "House"
+        },
+        "title": "The Funk Riot",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A1",
+                    "title": "Funk Music"
+                },
+                {
+                    "duration": "",
+                    "position": "A2",
+                    "title": "At The Club"
+                },
+                {
+                    "duration": "",
+                    "position": "B1",
+                    "title": "Catch A Groove"
+                },
+                {
+                    "duration": "",
+                    "position": "B2",
+                    "title": "Dfunk"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "316",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=ga3w2y1iz7g",
+                    "description": "DJ Rhythm - Funk Music",
+                    "title": "DJ Rhythm - Funk Music"
+                },
+                {
+                    "_duration": "316",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=vstaFCUKMLQ",
+                    "description": "DJ Rhythm - At The Club",
+                    "title": "DJ Rhythm - At The Club"
+                },
+                {
+                    "_duration": "344",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=F4th11vmnyQ",
+                    "description": "DJ Rhythm - Catch A Groove",
+                    "title": "DJ Rhythm - Catch A Groove"
+                },
+                {
+                    "_duration": "407",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=td3Vid1FlIg",
+                    "description": "DJ Rhythm - Dfunk",
+                    "title": "DJ Rhythm - Dfunk"
+                }
+            ]
+        }
+    }
+}

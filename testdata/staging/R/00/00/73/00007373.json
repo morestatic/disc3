@@ -1,0 +1,138 @@
+{
+    "release": {
+        "_id": "7373",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "60",
+                "join": "",
+                "name": "Pete Moss",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "US",
+        "data_quality": "Correct",
+        "extraartists": "",
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "EP",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "SM-002",
+                "_id": "4",
+                "_name": "Siesta Music"
+            }
+        },
+        "notes": "1200 copies pressed. Track B2 is listed on the center label as \"Lotus Remix (Big Let Down)\".",
+        "released": "1999-04-00",
+        "styles": {
+            "style": "Deep House"
+        },
+        "title": "The Ultrasonic E.P.",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A1",
+                    "title": "Never Let You Down"
+                },
+                {
+                    "duration": "",
+                    "position": "A2",
+                    "title": "Never Let You Down (Dub)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "266609",
+                            "join": "",
+                            "name": "DJ Fran",
+                            "role": "Co-producer",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "B1",
+                    "title": "Ultrasonic"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "166578",
+                            "join": "",
+                            "name": "Lotus (5)",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "B2",
+                    "title": "Never Let You Down (Big Let Down)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "425",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=x0tPaq4dVo8",
+                    "description": "https://www.discogs.com/es/Pete-Moss-The-Ultrasonic-EP/release/7373\r\n\r\nNo genre or movement in particular, only music for the soul.\r\nThe music that is uploaded to the channel is 128kbps or less.\r\nIf you are a producer / owner of the track and you want it",
+                    "title": "Pete Moss ‎- Ultrasonic .B1 [SM-002]"
+                },
+                {
+                    "_duration": "399",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=0ppzkOazcF0",
+                    "description": "░▒▓█ BEST VIEWED AT AND BEST HEARD AT 1080P60 IN FULL SCREEN █▓▒░\n\nThis track is posted for entertainment and nostalgic purposes only! I'm not making any money from this.\n\nHere's a groovy track from one of my favorite labels. I have severa",
+                    "title": "Pete Moss - Big Let Down ''Lotus Remix'' | 1080p60 HD | ©1999 Siesta Music"
+                },
+                {
+                    "_duration": "250",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=9x0JmwbNxw8",
+                    "description": "Label: Siesta Music ‎– SM-002\r\nCountry: US\r\nSortie: 1999\r\n\r\nLow Bitrate / Not for club use\r\n\r\nhttps://www.discogs.com/fr/Pete-Moss-The-Ultrasonic-EP/release/7373",
+                    "title": "Pete Moss - Never Let You Down (Dub)"
+                }
+            ]
+        }
+    }
+}

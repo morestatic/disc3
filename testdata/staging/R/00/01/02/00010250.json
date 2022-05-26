@@ -1,0 +1,127 @@
+{
+    "release": {
+        "_id": "10250",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "2395131",
+                "join": "",
+                "name": "Gemini Eyes",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "US",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "251",
+                "join": "",
+                "name": "Spencer Kincy",
+                "role": "Producer",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "12\""
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": {
+                "_height": "394",
+                "_type": "primary",
+                "_uri": "",
+                "_uri150": "",
+                "_width": "400"
+            }
+        },
+        "labels": {
+            "label": {
+                "_catno": "FPR 007",
+                "_id": "50",
+                "_name": "Fair Park"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "667056"
+        },
+        "released": "1997-00-00",
+        "styles": {
+            "style": [
+                "House",
+                "Deep House"
+            ]
+        },
+        "title": "Mr Foxtrot",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A1",
+                    "title": "Mr Foxtrot"
+                },
+                {
+                    "duration": "",
+                    "position": "A2",
+                    "title": "Beat + Bass"
+                },
+                {
+                    "duration": "",
+                    "position": "B1",
+                    "title": "Meditation (Think Deep Mix)"
+                },
+                {
+                    "duration": "",
+                    "position": "B2",
+                    "title": "Seance"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "365",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=R9fNg9PGbWc",
+                    "description": "Follow Gemini Eyes: https://www.facebook.com/pages/Gemini/209279762438885\r\nBuy Record: http://www.discogs.com/Spencer-Kincy-Gemini-Eyes/release/10250\r\nMore Music: https://www.facebook.com/DoFunkk\r\n\r\nI do not own the rights of anything uploaded and broadca",
+                    "title": "Gemini Eyes - Mr Foxtrot"
+                },
+                {
+                    "_duration": "365",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=B7pOqhB_xgg",
+                    "description": "Follow Gemini Eyes: https://www.facebook.com/pages/Gemini/209279762438885\r\nBuy Record: http://www.discogs.com/Spencer-Kincy-Gemini-Eyes/release/10250\r\nMore Music: https://www.facebook.com/DoFunkk\r\n\r\nI do not own the rights of anything uploaded and broadca",
+                    "title": "Gemini Eyes - Beat + Bass"
+                },
+                {
+                    "_duration": "455",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=O8lpKOazK6c",
+                    "description": "Follow Gemini Eyes: https://www.facebook.com/pages/Gemini/209279762438885\r\nBuy Record: http://www.discogs.com/Spencer-Kincy-Gemini-Eyes/release/10250\r\nMore Music: https://www.facebook.com/DoFunkk\r\n\r\nI do not own the rights of anything uploaded and broadca",
+                    "title": "Gemini Eyes - Meditation (Think Deep Mix)"
+                },
+                {
+                    "_duration": "255",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=pvRg3a8EpKU",
+                    "description": "Follow Gemini Eyes: https://www.facebook.com/pages/Gemini/209279762438885\r\nBuy Record: http://www.discogs.com/Spencer-Kincy-Gemini-Eyes/release/10250\r\nMore Music: https://www.facebook.com/DoFunkk\r\n\r\nI do not own the rights of anything uploaded and broadca",
+                    "title": "Gemini Eyes - Seance"
+                }
+            ]
+        }
+    }
+}

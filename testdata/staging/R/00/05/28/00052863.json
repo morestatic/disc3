@@ -1,0 +1,241 @@
+{
+    "release": {
+        "_id": "52863",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "13462",
+                "join": "",
+                "name": "Spyra",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "314582",
+                    "name": "Phön-Studio",
+                    "resource_url": "https://api.discogs.com/labels/314582"
+                },
+                {
+                    "catno": "41799",
+                    "entity_type": "10",
+                    "entity_type_name": "Manufactured By",
+                    "id": "277449",
+                    "name": "P+O Pallas",
+                    "resource_url": "https://api.discogs.com/labels/277449"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "2379615",
+                    "join": "",
+                    "name": "Sebastian \"HAL9000\" Fries",
+                    "role": "Graphics",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "2118078",
+                    "join": "",
+                    "name": "PEK (3)",
+                    "role": "Layout",
+                    "tracks": ""
+                },
+                {
+                    "anv": "Wolfram DER Spyra",
+                    "id": "13462",
+                    "join": "",
+                    "name": "Spyra",
+                    "role": "Producer, Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition",
+                        "Mixed"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_type": "Matrix / Runout",
+                "_value": "PS 08/93 P+O-41799-A1  02-99"
+            }
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "468",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "607",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "610",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "593",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "616",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PS 08/93",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "229011"
+        },
+        "notes": "\"This recording is dedicated to all Pirate radio stations\"\r\nRecorded at Phön-Studio, Kassel.\r\nMixed on Mackie consoles.\r\nLimitation: 2000",
+        "released": "1999-02-08",
+        "styles": {
+            "style": [
+                "Modern Classical",
+                "Downtempo",
+                "Ambient",
+                "Berlin-School"
+            ]
+        },
+        "title": "Etherlands",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "4:42",
+                    "position": "1",
+                    "title": "The Synthesizer Experience"
+                },
+                {
+                    "duration": "6:04",
+                    "position": "2",
+                    "title": "Radio Noordzee"
+                },
+                {
+                    "duration": "7:27",
+                    "position": "3",
+                    "title": "Monotonous Stereo Part I"
+                },
+                {
+                    "duration": "8:22",
+                    "position": "4",
+                    "title": "Birds On The Wire"
+                },
+                {
+                    "duration": "7:45",
+                    "position": "5",
+                    "title": "Six Miles South Of Hastings"
+                },
+                {
+                    "duration": "12:48",
+                    "position": "6",
+                    "title": "Monotonous Stereo Part II"
+                },
+                {
+                    "duration": "12:16",
+                    "position": "7",
+                    "title": "Etherlands Part I"
+                },
+                {
+                    "duration": "11:56",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "518862",
+                            "join": "",
+                            "name": "Steffen Dittmar",
+                            "role": "Programmed By [Additional Sequence Programming]",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "8",
+                    "title": "Etherlands Part II"
+                },
+                {
+                    "duration": "2:33",
+                    "position": "9",
+                    "title": "Mellotron Etude"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "4442",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=1hyd0gIaTdo",
+                    "description": "0:00:00 01. The Synthesizer Experience (4:44)\n0:04:44 02. Radio Noordzee (6:06)\n0:10:50 03. Monotonous Stereo, Part 1 (7:27)\n0:18:17 04. Birds On The Wire (8:21)\n0:26:38 05. Six Miles South Of Hastings (7:45)\n0:34:23 06. Monotonous Stereo, Part 2 (12:48)",
+                    "title": "Spyra - Etherlands (Full Album)"
+                },
+                {
+                    "_duration": "287",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=MZiAwz0tmuE",
+                    "description": "I do not own any of the contents ** \n\nSpyra says: This is the best CD that I've ever made! and in fact, we won't argue about that... although we also like his well-selling FAX releases Phonehead, Sferics and the co-production Virtual Vices with Pe",
+                    "title": "Spyra - The Synthesizer Experience"
+                },
+                {
+                    "_duration": "594",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Yc0uiAumwqs",
+                    "description": "Etherlands",
+                    "title": "Spyra - Monotonous Stereo Part II"
+                }
+            ]
+        }
+    }
+}

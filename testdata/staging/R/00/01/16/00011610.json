@@ -1,0 +1,291 @@
+{
+    "release": {
+        "_id": "11610",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "264616",
+                "join": "",
+                "name": "2350 Broadway",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "17877",
+                    "entity_type": "31",
+                    "entity_type_name": "Glass Mastered At",
+                    "id": "277449",
+                    "name": "P+O Pallas",
+                    "resource_url": "https://api.discogs.com/labels/277449"
+                },
+                {
+                    "catno": "17878",
+                    "entity_type": "31",
+                    "entity_type_name": "Glass Mastered At",
+                    "id": "277449",
+                    "name": "P+O Pallas",
+                    "resource_url": "https://api.discogs.com/labels/277449"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "26",
+                    "entity_type_name": "Produced At",
+                    "id": "856061",
+                    "name": "Bretton Hall, Manhattan",
+                    "resource_url": "https://api.discogs.com/labels/856061"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "25",
+                    "join": "",
+                    "name": "Tetsu Inoue",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": [
+                {
+                    "_name": "CD",
+                    "_qty": "1",
+                    "_text": "",
+                    "descriptions": {
+                        "description": [
+                            "Album",
+                            "Limited Edition"
+                        ]
+                    }
+                },
+                {
+                    "_name": "CD",
+                    "_qty": "1",
+                    "_text": "",
+                    "descriptions": {
+                        "description": [
+                            "Album",
+                            "Limited Edition",
+                            "Mixed"
+                        ]
+                    }
+                }
+            ]
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Disc 1",
+                    "_type": "Matrix / Runout",
+                    "_value": "PW 05-1 P+O-17877-A1 09-93"
+                },
+                {
+                    "_description": "Disc 2",
+                    "_type": "Matrix / Runout",
+                    "_value": "PW 05-2 P+O-17878-A1 09-93"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "470",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "465",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PW 05",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "146282"
+        },
+        "notes": "NEW YORK\r\n\r\nThis album is the soundtrack to a city unworthy for a human being.\r\nIt was made on two hot days in an apartment at the old hotel in 2350 Broadway with the inspiration of a better world in our minds.\r\n\r\n2350 Broadway\r\nNEW YORK\r\n\r\nSpecial thanks to:\r\n\r\nElisabeth\r\nFABiA\r\nMark Goeder\r\nGeir Jennsen\r\nLudwig Rehberg of EMS\r\n\r\nIngrid\r\n\r\nLimitation: 500\r\n\r\nTracklisting for the second CD only states one title, Hands Of Light, which is spread over 8 tracks, those tracks are collectively numbered \"4\". The durations here listed for the second disc were taken from the disc's table of contents except for the index track which is the duration printed on the booklet. The actual duration of the whole second disc is 72:52.",
+        "released": "1993-09-13",
+        "styles": {
+            "style": "Ambient"
+        },
+        "title": "2350 Broadway",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "34:17",
+                    "position": "1-1",
+                    "title": "Vision Of Pulse"
+                },
+                {
+                    "duration": "27:57",
+                    "position": "1-2",
+                    "title": "Raga"
+                },
+                {
+                    "duration": "9:37",
+                    "position": "1-3",
+                    "title": "Tokai"
+                },
+                {
+                    "duration": "72:50",
+                    "position": "",
+                    "sub_tracks": {
+                        "track": [
+                            {
+                                "duration": "10:00",
+                                "position": "2-1",
+                                "title": "Untitled"
+                            },
+                            {
+                                "duration": "10:00",
+                                "position": "2-2",
+                                "title": "Untitled"
+                            },
+                            {
+                                "duration": "10:00",
+                                "position": "2-3",
+                                "title": "Untitled"
+                            },
+                            {
+                                "duration": "10:00",
+                                "position": "2-4",
+                                "title": "Untitled"
+                            },
+                            {
+                                "duration": "10:00",
+                                "position": "2-5",
+                                "title": "Untitled"
+                            },
+                            {
+                                "duration": "10:00",
+                                "position": "2-6",
+                                "title": "Untitled"
+                            },
+                            {
+                                "duration": "10:00",
+                                "position": "2-7",
+                                "title": "Untitled"
+                            },
+                            {
+                                "duration": "2:52",
+                                "position": "2-8",
+                                "title": "Untitled"
+                            }
+                        ]
+                    },
+                    "title": "Hands Of Light"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "2055",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=x60LuMJU-JQ",
+                    "description": "2350 Broadway - Hands Of Light (Part 1)\n\r\n\r-uploaded in HD at http://www.TunesToTube.com",
+                    "title": "2350 Broadway - Vision Of Pulse (Ambient 1993)"
+                },
+                {
+                    "_duration": "1670",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=UGy4GLxIVw4",
+                    "description": "http://www.discogs.com/2350-Broadway-2350-Broadway/release/11610\n\r\n\r-uploaded in HD at http://www.TunesToTube.com",
+                    "title": "2350 Broadway  - Raga (Ambient 1993)"
+                },
+                {
+                    "_duration": "565",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=CdWgxrizAPc",
+                    "description": "http://www.discogs.com/2350-Broadway-2350-Broadway/release/11610\n\r\n\r-uploaded in HD at http://www.TunesToTube.com",
+                    "title": "2350 Broadway - Tokai (Ambient 1993)"
+                },
+                {
+                    "_duration": "8680",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=6sURYbrLFK8",
+                    "description": "Pete Namlook \u0026 Tetsu Inoue - 2350 Broadway [1993]\n\nCD I \u0026 CD II\n1. Vision Of Pulse (00:00)\n2. Raga (34:25)\n3. Tokai (43:57)\n4. Hands Of Light (01:11:55)\n\nWritten by – Pete Namlook, Tetsu Inoue",
+                    "title": "Pete Namlook \u0026 Tetsu Inoue - 2350 Broadway [full album]"
+                }
+            ]
+        }
+    }
+}

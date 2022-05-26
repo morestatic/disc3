@@ -1,0 +1,141 @@
+{
+    "release": {
+        "_id": "87181",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "2911",
+                "join": "",
+                "name": "Minimalistic Source",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "4865",
+                    "join": "",
+                    "name": "Pascal F.E.O.S.",
+                    "role": "Written-By",
+                    "tracks": "A1, B1"
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_description": "Etched B side",
+                "_type": "Matrix / Runout",
+                "_value": "\"TURN VOLUME KNOB FULLY CLOCKWISE AND LISTEN WITH A DISTANCE \u003e 5M\""
+            }
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "488",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "483"
+                },
+                {
+                    "_height": "486",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "484"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/41",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Limitation: 500\r\n\"TURN VOLUME KNOB FULLY CLOCKWISE AND LISTEN WITH A DISTANCE \u003e 5M\"   Is Etched On Side B Runout Groove",
+        "released": "1993-02-08",
+        "styles": {
+            "style": [
+                "Hard Trance",
+                "Ambient",
+                "Acid"
+            ]
+        },
+        "title": "Minimalistic Source 3",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "5:43",
+                    "position": "A1",
+                    "title": "Minimalistic Overload"
+                },
+                {
+                    "duration": "6:04",
+                    "position": "B1",
+                    "title": "Minimalistic Overboost"
+                },
+                {
+                    "duration": "5:10",
+                    "position": "B2",
+                    "title": "Minimalistic Overchill"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "1016",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=JNK7NbRtKck",
+                    "description": "Artist: Pete Namlook \u0026 Pascal F.E.O.S.\nAlbum: Minimalistic Source EP 3\nLabel: Fax +49-69/450464\nYear: 1993\n\nTracklist:\n1. Minimalistic Overload [0:00]\n2. Minimalistic Overboost [5:43]\n3. Minimalistic Overchill [11:48] **\n\n** THIS TRACK NEVER BEFORE HEARD",
+                    "title": "Pete Namlook \u0026 Pascal F.E.O.S. - Minimalistic Source EP 3 (Full Album) [1993]"
+                },
+                {
+                    "_duration": "344",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=-i8NhLp3yms",
+                    "description": "Minimalistic Source - Minimalistic Overload \r\nHard trance \r\nTechno Acid \r\n1993\r\n\r\n\r\n Acid Techno Hard Trance Hardcore  1993 1992 1991 1990 1994  Mayday Dance Rave Roland tb 303 808 909 606 Joey Beltram kenny Larkin woody mcbride Leo Anibaldi Biochip Dr Fe",
+                    "title": "Minimalistic Source - Minimalistic Overload ( 1993 )"
+                },
+                {
+                    "_duration": "363",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=iQEbx_n7EZI",
+                    "description": "Minimalistic Source - Minimalistic Overboost \r\nHard trance \r\nTechno Acid\r\n1993\r\n\r\n\r\n Acid Techno Hard Trance Hardcore  1993 1992 1991 1990 1994  Mayday Dance Rave Roland tb 303 808 909 606 Joey Beltram kenny Larkin woody mcbride Leo Anibaldi Biochip Dr Fe",
+                    "title": "Minimalistic Source - Minimalistic Overboost ( 1993 )"
+                }
+            ]
+        }
+    }
+}

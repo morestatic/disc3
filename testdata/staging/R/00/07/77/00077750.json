@@ -1,0 +1,263 @@
+{
+    "release": {
+        "_id": "77750",
+        "_status": "Accepted",
+        "artists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "829",
+                    "join": "\u0026",
+                    "name": "DiY",
+                    "role": "",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "585316",
+                    "join": "",
+                    "name": "Joel Zoch",
+                    "role": "",
+                    "tracks": ""
+                }
+            ]
+        },
+        "companies": "",
+        "country": "US",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "4524437",
+                    "join": "",
+                    "name": "Scott Osler",
+                    "role": "Executive Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "J. Zoch",
+                    "id": "585316",
+                    "join": "",
+                    "name": "Joel Zoch",
+                    "role": "Producer, Mixed By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "585316",
+                    "join": "",
+                    "name": "Joel Zoch",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "Rick",
+                    "id": "470758",
+                    "join": "",
+                    "name": "Richard Down",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "Simon",
+                    "id": "148855",
+                    "join": "",
+                    "name": "Simon White",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "12\""
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "FPR001",
+                "_id": "50",
+                "_name": "Fair Park"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "238567"
+        },
+        "released": "1996",
+        "styles": {
+            "style": [
+                "Deep House",
+                "Tech House"
+            ]
+        },
+        "title": "Lemon Drops",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A1",
+                    "title": "Lemon Drops (Original Well Mix)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "185",
+                                "join": "",
+                                "name": "J.T. Donaldson",
+                                "role": "Producer, Remix",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "M. Constantino",
+                                "id": "173901",
+                                "join": "",
+                                "name": "Mike Constantino",
+                                "role": "Producer, Remix",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "R. Taylor",
+                                "id": "326519",
+                                "join": "",
+                                "name": "Robert Taylor",
+                                "role": "Producer, Remix",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "A2",
+                    "title": "Lemon Drops (Tuaca Mix)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "185",
+                                "join": "",
+                                "name": "J.T. Donaldson",
+                                "role": "Producer, Remix",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "M. Constantino",
+                                "id": "173901",
+                                "join": "",
+                                "name": "Mike Constantino",
+                                "role": "Producer, Remix",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "B1",
+                    "title": "Lemon Drops (Monopolowa Dub)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "J. Zoch",
+                                "id": "585316",
+                                "join": "",
+                                "name": "Joel Zoch",
+                                "role": "Producer, Remix",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "P. Walker",
+                                "id": "932685",
+                                "join": "",
+                                "name": "Phillip Walker (2)",
+                                "role": "Producer, Remix",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "S. Holland",
+                                "id": "24045",
+                                "join": "",
+                                "name": "Sean Holland",
+                                "role": "Producer, Remix",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "B2",
+                    "title": "Lemon Drops (Citron Mix)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "442",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=vM_q3g7GD5s",
+                    "description": "",
+                    "title": "DIY - Lemondrops (Original Well Mix)"
+                },
+                {
+                    "_duration": "382",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=qGKjCj1J21c",
+                    "description": "https://www.discogs.com/de/DiY-Joel-Zoch-JT-Donaldson-Lemon-Drops-Mindsmoke/release/136382\r\n\r\nEmail kookyvinyl@outlook.de for a HQ audio file of this song\r\n\r\n- If there's any copyright issue please reach out to me and I'll be happy to put this video down.",
+                    "title": "Lemon Drops - Monopolowa Dub - 1996 U.S. DEEP HOUSE"
+                },
+                {
+                    "_duration": "446",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=8_6DpYie9oU",
+                    "description": "Fair Park ‎– FPR 019\n\r\n\r- video upload powered by https://www.TunesToTube.com",
+                    "title": "DiY \u0026 Joel Zoch / J.T. Donaldson ‎– Lemon Drops (Tuaca Mix)"
+                },
+                {
+                    "_duration": "292",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=y49KrSolifE",
+                    "description": "1996. Fist Fulla' Jeah Vinyl, 12  -  Fair Park\nProduced and written by JT Donaldson.",
+                    "title": "JT Donaldson  -  Mindsmoke"
+                },
+                {
+                    "_duration": "396",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=BGHYTn9236Q",
+                    "description": "Fair Park ‎– FPR 019\n\r\n\r- video upload powered by https://www.TunesToTube.com",
+                    "title": "DiY \u0026 Joel Zoch / J.T. Donaldson ‎-Blue Magic"
+                }
+            ]
+        }
+    }
+}

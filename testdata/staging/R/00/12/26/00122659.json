@@ -1,0 +1,170 @@
+{
+    "release": {
+        "_id": "122659",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "264616",
+                "join": "",
+                "name": "2350 Broadway",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "58657",
+                    "join": "",
+                    "name": "Peter Kuhlmann",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "25",
+                    "join": "",
+                    "name": "Tetsu Inoue",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_type": "Label Code",
+                "_value": "LC 6269"
+            }
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "603",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "467",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "297",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "602",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PW 25",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Let go...\r\n2350 BROADWAY\r\nNEW YORK 1995\r\n\r\nRecorded at Brighton Hotel Studio, NY\r\nLimited to 1000 copies.",
+        "released": "1996-01-29",
+        "styles": {
+            "style": "Ambient"
+        },
+        "title": "2350 Broadway 3",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "14:03",
+                    "position": "1",
+                    "title": "Morning Spirit"
+                },
+                {
+                    "duration": "24:51",
+                    "position": "2",
+                    "title": "Hear The Light"
+                },
+                {
+                    "duration": "5:29",
+                    "position": "3",
+                    "title": "Hidden Forces"
+                },
+                {
+                    "duration": "16:11",
+                    "position": "4",
+                    "title": "Rich Dreams"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "843",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=GFKE5YGVUF8",
+                    "description": "Track 1 - Morning Spirit\nArtists : Pete Namlook \u0026 Tetsu Inoue\nAlbum : 2350 Broadway 3\n1996 FAX +49-69/450464",
+                    "title": "Pete Namlook \u0026 Tetsu Inoue - Morning Spirit (2350 Broadway 3)"
+                },
+                {
+                    "_duration": "1495",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Czi2OQrD0KM",
+                    "description": "Track 2 - Hear The Light\nArtists : Pete Namlook \u0026 Tetsu Inoue\nAlbum : 2350 Broadway 3\n1996 FAX +49-69/450464",
+                    "title": "Pete Namlook \u0026 Tetsu Inoue - Hear The Light (2350 Broadway 3)"
+                },
+                {
+                    "_duration": "333",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=cPU4qasWbEc",
+                    "description": "Track 3 - Hidden Forces\nArtists : Pete Namlook \u0026 Tetsu Inoue\nAlbum : 2350 Broadway 3\n1996 FAX +49-69/450464",
+                    "title": "Pete Namlook \u0026 Tetsu Inoue - Hidden Forces (2350 Broadway 3)"
+                },
+                {
+                    "_duration": "974",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=WFyLvZGkqQo",
+                    "description": "Track 4 - Rich Dreams\nArtists : Pete Namlook \u0026 Tetsu Inoue\nAlbum : 2350 Broadway 3\n1996 FAX +49-69/450464",
+                    "title": "Pete Namlook \u0026 Tetsu Inoue - Rich Dreams (2350 Broadway 3)"
+                }
+            ]
+        }
+    }
+}

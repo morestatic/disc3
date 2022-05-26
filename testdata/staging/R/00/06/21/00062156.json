@@ -1,0 +1,183 @@
+{
+    "release": {
+        "_id": "62156",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "25",
+                "join": "",
+                "name": "Tetsu Inoue",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": "",
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Limited Edition",
+                        "Album"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "599",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "598"
+                },
+                {
+                    "_height": "246",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "498"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PS 08/80",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "45017"
+        },
+        "notes": "Limitation: 1000",
+        "released": "1995-08-21",
+        "styles": {
+            "style": [
+                "Experimental",
+                "Ambient"
+            ]
+        },
+        "title": "Slow And Low",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "10:49",
+                    "position": "1",
+                    "title": "Man Made Heaven"
+                },
+                {
+                    "duration": "12:59",
+                    "position": "2",
+                    "title": "Static Soul"
+                },
+                {
+                    "duration": "9:16",
+                    "position": "3",
+                    "title": "Automatic Motion"
+                },
+                {
+                    "duration": "13:16",
+                    "position": "4",
+                    "title": "Slow And Low"
+                },
+                {
+                    "duration": "7:04",
+                    "position": "5",
+                    "title": "Polychrome Chant"
+                },
+                {
+                    "duration": "10:05",
+                    "position": "6",
+                    "title": "Speculative Vision"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "3811",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=hXvw9fIXbrQ",
+                    "description": "00:00 - Man Made Heaven\n10:49 - Static Soul\n23:48 - Automatic Motion\n33:04 - Slow And Low\n46:20 - Polychrome Chant\n53:24 - Speculative Vision",
+                    "title": "Tetsu Inoue - Slow And Low (Full Album)"
+                },
+                {
+                    "_duration": "3810",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=OprKiOBWnQw",
+                    "description": "I miss this guy ,it disappeared ,no one can say where it is .I hope is not DEAD,it will be a tragic LOOSE for the electronic music comunity /Tetsu .GIVE US A SIGN/we miss YOU !!!\n\n\n .no profit -educational only \n\nenjoy!",
+                    "title": "Tetsu Inoue-Slow and Low  -  ambient"
+                },
+                {
+                    "_duration": "796",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Ia0PpR-nMt4",
+                    "description": "Track 4 - Slow And Low\nArtist : Tetsu Inoue\nAlbum : Slow And Low\n1995 FAX +49-69/450464",
+                    "title": "Tetsu Inoue - Slow And Low (Slow And Low)"
+                },
+                {
+                    "_duration": "606",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=o2AmOt_s1No",
+                    "description": "",
+                    "title": "Tetsu Inoue - Speculative Vision (Slow and Low)"
+                },
+                {
+                    "_duration": "545",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=-N_uuQNDg6s",
+                    "description": "Track 3 - Automatic Motion\nArtist : Tetsu Inoue\nAlbum : Slow And Low\n1995 FAX +49-69/450464",
+                    "title": "Tetsu Inoue - Automatic Motion (Slow And Low)"
+                },
+                {
+                    "_duration": "650",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=JkHLcLQdkgg",
+                    "description": "Track 1 - Man Made Heaven\nArtist : Tetsu Inoue\nAlbum : Slow And Low\n1995 FAX +49-69/450464",
+                    "title": "Tetsu Inoue - Man Made Heaven (Slow And Low)"
+                },
+                {
+                    "_duration": "779",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=l4-sELXWVGg",
+                    "description": "Track 2 - Static Soul\nArtist : Tetsu Inoue\nAlbum : Slow And Low\n1995 FAX +49-69/450464",
+                    "title": "Tetsu Inoue - Static Soul (Slow And Low)"
+                },
+                {
+                    "_duration": "606",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Y9O0wYcodfA",
+                    "description": "Track 6 - Speculative Vision\nArtist : Tetsu Inoue\nAlbum : Slow And Low\n1995 FAX +49-69/450464",
+                    "title": "Tetsu Inoue - Speculative Vision (Slow And Low)"
+                },
+                {
+                    "_duration": "425",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=uhE3Uof5G8I",
+                    "description": "Track 5 - Polychrome Chant\nArtist : Tetsu Inoue\nAlbum : Slow And Low\n1995 FAX +49-69/450464",
+                    "title": "Tetsu Inoue - Polychrome Chant (Slow And Low)"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,138 @@
+{
+    "release": {
+        "_id": "185673",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "2910",
+                "join": "",
+                "name": "Hearts Of Space",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "4865",
+                    "join": "",
+                    "name": "Pascal F.E.O.S.",
+                    "role": "Written-By",
+                    "tracks": "A1, B1"
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "498",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "494"
+                },
+                {
+                    "_height": "497",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "492"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK  08/29",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "779076"
+        },
+        "notes": "Limitation : 500\r\n\"DON'T LISTEN TO \"DRAWN\" AND DRIVE AT THE SAME TIME\" \r\nIs Etched On Runout Groove On Side B",
+        "released": "1992-12-21",
+        "styles": {
+            "style": [
+                "Trance",
+                "Ambient"
+            ]
+        },
+        "title": "Hearts Of Space 2",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "6:49",
+                    "position": "A1",
+                    "title": "Drawn To The Thrill Of Success"
+                },
+                {
+                    "duration": "5:33",
+                    "position": "B1",
+                    "title": "Drawn To The Thrill"
+                },
+                {
+                    "duration": "4:12",
+                    "position": "B2",
+                    "title": "Drawn"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "410",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=0_HFx76lbok",
+                    "description": "Hearts Of Space ‎– Hearts Of Space 2\nProduction:Pascal Dardoufas, Peter Kuhlmann\nLabel:Fax +49-69/450464\nCatalog#:PK 08/29\nFormat:Vinyl, 12, Limited Edition\nCountry:Germany\nReleased:21 Dec 1992\nGenre:Electronic \nStyle:Trance, Ambient\nNotice: All righ",
+                    "title": "Hearts Of Space - Drawn To The Thrill Of Success (1992)"
+                },
+                {
+                    "_duration": "338",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=uKhpglfYMW0",
+                    "description": "Old school trance classic. Release: Hearts Of Space - Hearts Of Space / Fax +49-69/450464",
+                    "title": "Hearts Of Space - Drawn To The Thrill (1992)"
+                },
+                {
+                    "_duration": "257",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=2c6BjE_xEXg",
+                    "description": "Full Track. Unmixed. Unpitched.\nImages edited from the video 3Lux-3.",
+                    "title": "Hearts Of Space (Namlook + F.E.O.S.) - Drawn"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,147 @@
+{
+    "release": {
+        "_id": "198",
+        "_status": "Accepted",
+        "artists": {
+            "artist": [
+                {
+                    "anv": "A.D.N.Y.",
+                    "id": "50",
+                    "join": "+",
+                    "name": "ADNY",
+                    "role": "",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "84692",
+                    "join": "",
+                    "name": "Moonchild",
+                    "role": "",
+                    "tracks": ""
+                }
+            ]
+        },
+        "companies": "",
+        "country": "UK",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "26",
+                    "join": "",
+                    "name": "Alexi Delano",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "57176",
+                    "join": "",
+                    "name": "Lucas Rodenbush",
+                    "role": "Producer",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "12\""
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "300",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "300"
+                },
+                {
+                    "_height": "586",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "480",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "477"
+                },
+                {
+                    "_height": "596",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "STR-002",
+                "_id": "84",
+                "_name": "Strive"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "394594"
+        },
+        "released": "1999",
+        "styles": {
+            "style": [
+                "Techno",
+                "Tech House"
+            ]
+        },
+        "title": "Falling / Afloat",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "257910",
+                            "join": "",
+                            "name": "Ihu",
+                            "role": "Vocals",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "A",
+                    "title": "Falling"
+                },
+                {
+                    "duration": "",
+                    "position": "B",
+                    "title": "Afloat"
+                }
+            ]
+        },
+        "videos": {
+            "video": {
+                "_duration": "351",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=XCuI5V_I3dc",
+                "description": "NOTICE:\r\nDear labels \u0026 artists, if anyone has any objections to the music or to the video and don't want them on youtube, please, contact ME, and I shall remove them immediately !\r\nhttp://www.discogs.com/ADNY--Moonchild-Falling/release/198\n\r\n\r-uploaded in",
+                "title": "A.D.N.Y.* + Moonchild Afloat"
+            }
+        }
+    }
+}

@@ -1,0 +1,123 @@
+{
+    "release": {
+        "_id": "12763",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "A.D.N.Y",
+                "id": "50",
+                "join": "",
+                "name": "ADNY",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "Sweden",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "Mike Devellis",
+                    "id": "235270",
+                    "join": "",
+                    "name": "Michael DeVellis",
+                    "role": "Saxophone",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "26",
+                    "join": "",
+                    "name": "Alexi Delano",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "10\""
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "534",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "550"
+                },
+                {
+                    "_height": "525",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "550"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "SK018",
+                "_id": "5",
+                "_name": "Svek"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "715159"
+        },
+        "notes": "Recorded at Satellite Studio NYC",
+        "released": "1997-12-00",
+        "styles": {
+            "style": [
+                "House",
+                "Future Jazz"
+            ]
+        },
+        "title": "On 10 Inch",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "5:10",
+                    "position": "A",
+                    "title": "That Sax Song"
+                },
+                {
+                    "duration": "6:46",
+                    "position": "B",
+                    "title": "Mi Gente"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "321",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=jZxnrGMIVVY",
+                    "description": "https://www.discogs.com/ADNY-On-10-Inch/release/12763WPD700-58202-88194-29915\n\nA.D.N.Y. - That Sax Song",
+                    "title": "A.D.N.Y. - That Sax Song"
+                },
+                {
+                    "_duration": "416",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=B77fq34H6YM",
+                    "description": "https://www.discogs.com/ADNY-On-10-Inch/release/12763WPD700-58202-88194-29915\n\nA.D.N.Y. - Mi Gente",
+                    "title": "A.D.N.Y. - Mi Gente"
+                }
+            ]
+        }
+    }
+}

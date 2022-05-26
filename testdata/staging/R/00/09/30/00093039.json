@@ -1,0 +1,194 @@
+{
+    "release": {
+        "_id": "93039",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "The Wildchild Experience",
+                "id": "6246",
+                "join": "",
+                "name": "Wildchild",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "29",
+                    "entity_type_name": "Mastered At",
+                    "id": "158759",
+                    "name": "The Exchange",
+                    "resource_url": "https://api.discogs.com/labels/158759"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "17",
+                    "entity_type_name": "Pressed By",
+                    "id": "266587",
+                    "name": "Orlake Records",
+                    "resource_url": "https://api.discogs.com/labels/266587"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "362251",
+                    "name": "Original Artists Music",
+                    "resource_url": "https://api.discogs.com/labels/362251"
+                }
+            ]
+        },
+        "country": "UK",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "Nilz",
+                    "id": "386598",
+                    "join": "",
+                    "name": "Nilesh Patel",
+                    "role": "Mastered By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "6246",
+                    "join": "",
+                    "name": "Wildchild",
+                    "role": "Written-By, Producer, Mixed By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Barcode",
+                    "_value": "5 025425 751066"
+                },
+                {
+                    "_description": "Etchings Side A",
+                    "_type": "Matrix / Runout",
+                    "_value": "LOAD 10A¹ .ORLAKE. The Exchange - Nilz"
+                },
+                {
+                    "_description": "Etchings Side AA",
+                    "_type": "Matrix / Runout",
+                    "_value": "LOAD 10 AA .ORLAKE. The Exchange - Nilz"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "LOAD10",
+                "_id": "40",
+                "_name": "Loaded Records"
+            }
+        },
+        "notes": "Mastered at The Exchange, Camden\r\nPublished by Original Artists Music\r\n\r\nA2 samples Steve Poindexter's classic [url=http://www.discogs.com/release/2031]Work That Mutha Fucker[/url].",
+        "released": "1993-00-00",
+        "styles": {
+            "style": "House"
+        },
+        "title": "Wildtrax Vol. 3 (Part 1)",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A1",
+                    "title": "Let Me Tell You"
+                },
+                {
+                    "duration": "",
+                    "position": "A2",
+                    "title": "Work"
+                },
+                {
+                    "duration": "",
+                    "position": "AA1",
+                    "title": "Bring It Down (Remix)"
+                },
+                {
+                    "duration": "",
+                    "position": "AA2",
+                    "title": "Yes! This Is My House (Remix)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "454",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=fLlnoQVKcvY",
+                    "description": "",
+                    "title": "The Wildchild Experience - Let Me Tell You"
+                },
+                {
+                    "_duration": "418",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=rHUeWaNU7pk",
+                    "description": "",
+                    "title": "The Wildchild Experience - Work"
+                },
+                {
+                    "_duration": "342",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=FGaRZSQeohw",
+                    "description": "The Big Bird Cage's take on Wild Child's 90's house classic Bring It Down! / Clásico House. \nGrab your copy now :)\n\nAlready supported by: \n#certifiedjackin by: soundcloud\n#allabouthouse by: soundcloud",
+                    "title": "BRING IT DOWN (THE BIG BIRD CAGE REMIX) THE WILDCHILD EXPERIENCE"
+                },
+                {
+                    "_duration": "407",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=EVkPiDRGxaE",
+                    "description": "http://itunes.apple.com/gb/album/wildtrax-vol-3-pt-1-ep/id379434781",
+                    "title": "Wildchild - Yes this is my house (Remix)"
+                }
+            ]
+        }
+    }
+}

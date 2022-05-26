@@ -1,0 +1,119 @@
+{
+    "release": {
+        "_id": "114519",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "2907",
+                "join": "",
+                "name": "Escape",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": {
+                "catno": "",
+                "entity_type": "26",
+                "entity_type_name": "Produced At",
+                "id": "294391",
+                "name": "Sonic Studios Frankfurt",
+                "resource_url": "https://api.discogs.com/labels/294391"
+            }
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "8521",
+                    "join": "",
+                    "name": "Dr. Atmo",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "230",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "230"
+                },
+                {
+                    "_height": "230",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "230"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK  08/23",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Produced at Sonic Studios Frankfurt for Namlook Productions. \r\nEtched in vinyl: \"We wish the Light J’s All the Best\".\r\nLimitation : 500",
+        "released": "1992-11-16",
+        "styles": {
+            "style": "Trance"
+        },
+        "title": "Escape",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "8:24",
+                    "position": "A",
+                    "title": "Escape To Earth"
+                },
+                {
+                    "duration": "6:37",
+                    "position": "B",
+                    "title": "Escape From Earth"
+                }
+            ]
+        },
+        "videos": {
+            "video": {
+                "_duration": "509",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=p_i3fqqsKCo",
+                "description": "Pete Namlook and Dr Atmo\r\nEscape To Earth\r\nFax Records\r\n1994\r\n(Also released on Trance Europe Express 2)",
+                "title": "Pete Namlook's Escape Escape To Earth"
+            }
+        }
+    }
+}

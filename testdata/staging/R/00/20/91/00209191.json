@@ -1,0 +1,263 @@
+{
+    "release": {
+        "_id": "209191",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "1344",
+                "join": "",
+                "name": "Steve Stoll",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "29",
+                    "entity_type_name": "Mastered At",
+                    "id": "265012",
+                    "name": "Klanglabor Hödeshof",
+                    "resource_url": "https://api.discogs.com/labels/265012"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "27",
+                    "entity_type_name": "Mixed At",
+                    "id": "394484",
+                    "name": "S.I.N.Y.",
+                    "resource_url": "https://api.discogs.com/labels/394484"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "394484",
+                    "name": "S.I.N.Y.",
+                    "resource_url": "https://api.discogs.com/labels/394484"
+                },
+                {
+                    "catno": "62377",
+                    "entity_type": "31",
+                    "entity_type_name": "Glass Mastered At",
+                    "id": "277449",
+                    "name": "P+O Pallas",
+                    "resource_url": "https://api.discogs.com/labels/277449"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "andre@sansserif.com.au",
+                    "id": "2022694",
+                    "join": "",
+                    "name": "Andre Ruello",
+                    "role": "Graphics",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Mastered By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "2759675",
+                    "join": "",
+                    "name": "Dominic Loliva",
+                    "role": "Photography By [Cover Photo]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1344",
+                    "join": "",
+                    "name": "Steve Stoll",
+                    "role": "Written-By, Producer",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Limited Edition",
+                        "Album"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Scanned",
+                    "_type": "Barcode",
+                    "_value": "807297037128"
+                },
+                {
+                    "_description": "Text",
+                    "_type": "Barcode",
+                    "_value": "8 07297 03712 8"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "PS 08/102 P+O-62377-A 10-03"
+                },
+                {
+                    "_type": "Mastering SID Code",
+                    "_value": "IFPI L963"
+                },
+                {
+                    "_type": "Barcode",
+                    "_value": "IFPI 3J01"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "472",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "594",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "596",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "606",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "596",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PS 08/102",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "New York 2003\nDedicated to Kai Thomas\n\nBack insert: Graphics: andre@sansserif.com.au\nBooklet: Grafik + Sansserifgrafik\n\nLimitation: 2000\nMade in Germany\n\nTrack durations are not printed on packaging.",
+        "released": "2003-10-30",
+        "styles": {
+            "style": [
+                "Experimental",
+                "Techno"
+            ]
+        },
+        "title": "Was Here",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "11:37",
+                    "position": "1",
+                    "title": "Was Here (Part I)"
+                },
+                {
+                    "duration": "7:13",
+                    "position": "2",
+                    "title": "Was Here (Part II)"
+                },
+                {
+                    "duration": "9:34",
+                    "position": "3",
+                    "title": "Was Here (Part III)"
+                },
+                {
+                    "duration": "6:31",
+                    "position": "4",
+                    "title": "Was Here (Part IV)"
+                },
+                {
+                    "duration": "5:35",
+                    "position": "5",
+                    "title": "Was Here (Part V)"
+                },
+                {
+                    "duration": "5:32",
+                    "position": "6",
+                    "title": "Was Here (Part VI)"
+                },
+                {
+                    "duration": "3:09",
+                    "position": "7",
+                    "title": "Was Here (Part VII)"
+                },
+                {
+                    "duration": "1:24",
+                    "position": "8",
+                    "title": "Was Here (Part VIII)"
+                },
+                {
+                    "duration": "6:33",
+                    "position": "9",
+                    "title": "Was Here (Part IX)"
+                }
+            ]
+        },
+        "videos": {
+            "video": {
+                "_duration": "3434",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=vRsUSKgY5eU",
+                "description": "Artist: Steve Stoll\nAlbum: Was Here\nLabel: Fax\nYear: 2003\n\n1. Part I [00:00]\n2. Part II [11:38]\n3. Part III [18:52]\n4. Part IV [28:26]\n5. Part V [34:57]\n6. Part VI [40:33]\n7. Part VII [46:05]\n8. Part VIII [49:14]\n9. Part IX [50:39]\n\n\nAll music uploaded to",
+                "title": "Steve Stoll - Was Here (Full Album) [2003]"
+            }
+        }
+    }
+}

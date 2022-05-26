@@ -1,0 +1,162 @@
+{
+    "release": {
+        "_id": "87135",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "5374582",
+                "join": "",
+                "name": "Cœur Atomique",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "29",
+                    "entity_type_name": "Mastered At",
+                    "id": "265113",
+                    "name": "SST Brüggemann GmbH",
+                    "resource_url": "https://api.discogs.com/labels/265113"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "26",
+                    "entity_type_name": "Produced At",
+                    "id": "294391",
+                    "name": "Sonic Studios Frankfurt",
+                    "resource_url": "https://api.discogs.com/labels/294391"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "5374582",
+                "join": "",
+                "name": "Cœur Atomique",
+                "role": "Written-By",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Side A",
+                    "_type": "Matrix / Runout",
+                    "_value": "= PRODUCED AT SONIC STUDIOS FRANKFURT FOR NAMLOOK PRODUCTIONS ="
+                },
+                {
+                    "_description": "Side B",
+                    "_type": "Matrix / Runout",
+                    "_value": "MENTAL SUPPORT AND MENTAL DESTRUCTION BY ARIELLE"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "599"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "598"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PS 08/18",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Limitation: 500",
+        "released": "1993-04-12",
+        "styles": {
+            "style": [
+                "House",
+                "Hard Trance",
+                "Ambient"
+            ]
+        },
+        "title": "Cœur Atomique",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "6:26",
+                    "position": "A1",
+                    "title": "Sundance (RZ-1 Mix)"
+                },
+                {
+                    "duration": "4:37",
+                    "position": "A2",
+                    "title": "Sundance (101 Mix)"
+                },
+                {
+                    "duration": "5:26",
+                    "position": "B1",
+                    "title": "Le Cœur"
+                },
+                {
+                    "duration": "5:31",
+                    "position": "B2",
+                    "title": "Tuff Transmitter"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "279",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=sXnmAViDUA8",
+                    "description": "Coeur Atomique  - Coeur Atomique  E.P.\nFax +49-69/450464\nAckid Techno \n1993",
+                    "title": "Coeur Atomique -- Sundance (RZ-1 Mix) 1993"
+                },
+                {
+                    "_duration": "385",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=wcDPTgHsH38",
+                    "description": "http://www.discogs.com/Coeur-Atomique-Coeur-Atomique/release/87135\n\r\n\r-uploaded in HD at http://www.TunesToTube.com",
+                    "title": "Coeur Atomique - Sundance (101 Mix) (Acid Techno 1993)"
+                },
+                {
+                    "_duration": "335",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=bH3rI1_jETc",
+                    "description": "Nice cut from Atom Heart. Good stuff!",
+                    "title": "Coeur Atomique - Tuff Transmitter - Atom Heart Uwe Schmidt Pete Namlook Fax Records"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,163 @@
+{
+    "release": {
+        "_id": "973",
+        "_status": "Accepted",
+        "artists": {
+            "artist": [
+                {
+                    "anv": "A.D.N.Y.",
+                    "id": "50",
+                    "join": "Presents",
+                    "name": "ADNY",
+                    "role": "",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1386",
+                    "join": "",
+                    "name": "Leiva",
+                    "role": "",
+                    "tracks": ""
+                }
+            ]
+        },
+        "companies": "",
+        "country": "Germany",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "53",
+                    "join": "",
+                    "name": "Casey Hogan",
+                    "role": "Co-producer",
+                    "tracks": "B1, B2"
+                },
+                {
+                    "anv": "A.D.N.Y.",
+                    "id": "50",
+                    "join": "",
+                    "name": "ADNY",
+                    "role": "Presenter",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1145948",
+                    "join": "",
+                    "name": "Rich Unapanta",
+                    "role": "Vocals",
+                    "tracks": "A"
+                },
+                {
+                    "anv": "",
+                    "id": "26",
+                    "join": "",
+                    "name": "Alexi Delano",
+                    "role": "Written-By, Producer",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM",
+                        "45 RPM",
+                        "EP"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_description": "Text",
+                "_type": "Barcode",
+                "_value": "4017866919991"
+            }
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "498",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "497"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PLAX014-6",
+                "_id": "244",
+                "_name": "Plastic City"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "1111694"
+        },
+        "notes": "Recorded at Minimum Studios, NYC.\r\nP+C 1999 Plastic City / UCMG (Germany)\r\nLC4675 | GEMA\r\n\r\nTaken from the forthcoming Leiva album",
+        "released": "1999",
+        "styles": {
+            "style": [
+                "Techno",
+                "Tech House"
+            ]
+        },
+        "title": "Overhead Thoughts EP",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "6:10",
+                    "position": "A",
+                    "title": "Something For The Souls"
+                },
+                {
+                    "duration": "6:11",
+                    "position": "B1",
+                    "title": "Solo Mas"
+                },
+                {
+                    "duration": "5:37",
+                    "position": "B2",
+                    "title": "Fragile"
+                }
+            ]
+        },
+        "videos": {
+            "video": {
+                "_duration": "369",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=31qNGUy3oS4",
+                "description": "A.D.N.Y.* Presents Leiva\nOverhead Thoughts EP\nA -Something For The Souls\nPlastic City 1999\n\nhttps://www.discogs.com/it/ADNY-Presents-Leiva-Overhead-Thoughts-EP/master/1111694",
+                "title": "A.D.N.Y.* Presents Leiva - Something For The Souls"
+            }
+        }
+    }
+}

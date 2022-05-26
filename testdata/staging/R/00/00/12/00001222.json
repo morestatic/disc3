@@ -1,0 +1,455 @@
+{
+    "release": {
+        "_id": "1222",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "739",
+                "join": "",
+                "name": "Jori Hulkkonen",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "Canada",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "739",
+                "join": "",
+                "name": "Jori Hulkkonen",
+                "role": "DJ Mix",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Compilation",
+                        "Mixed"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_type": "Barcode",
+                "_value": "671665001222"
+            }
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "597",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "512",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "604",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": [
+                {
+                    "_catno": "MARCD-012",
+                    "_id": "242",
+                    "_name": "Turbo"
+                },
+                {
+                    "_catno": "MARCD00122",
+                    "_id": "242",
+                    "_name": "Turbo"
+                }
+            ]
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "53892"
+        },
+        "notes": "Made in Canada",
+        "released": "2000-00-00",
+        "styles": {
+            "style": "Deep House"
+        },
+        "title": "Helsinki Mix Sessions",
+        "tracklist": {
+            "track": [
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1750",
+                            "join": "",
+                            "name": "Approximate",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "2:54",
+                    "position": "1",
+                    "title": "Fututoyshop"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "50",
+                            "join": "",
+                            "name": "ADNY",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "3:32",
+                    "position": "2",
+                    "title": "Tell Me"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "20803",
+                            "join": "",
+                            "name": "Spiro Projecto",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:48",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "54789",
+                                "join": "",
+                                "name": "Derek Huntsman",
+                                "role": "Featuring",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "739",
+                                "join": "",
+                                "name": "Jori Hulkkonen",
+                                "role": "Remix",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "3",
+                    "title": "Your Love Won't Let Me Wait (Jori Rmx)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "328",
+                            "join": "",
+                            "name": "Nick Holder",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:03",
+                    "position": "4",
+                    "title": "Summer Daze"
+                },
+                {
+                    "artists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "29795",
+                                "join": "Feat.",
+                                "name": "Jaymz Nylon",
+                                "role": "",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "69073",
+                                "join": "",
+                                "name": "Mooney",
+                                "role": "",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "duration": "4:18",
+                    "position": "5",
+                    "title": "I Know A Place"
+                },
+                {
+                    "artists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "13",
+                                "join": "Pres.",
+                                "name": "Blaze",
+                                "role": "",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "2571",
+                                "join": "",
+                                "name": "Funky People",
+                                "role": "",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "duration": "3:32",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "4493",
+                            "join": "",
+                            "name": "Freestyle Man",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "6",
+                    "title": "Funky People (Freestyle Man Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1754",
+                            "join": "",
+                            "name": "The Sunburst Band",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "3:17",
+                    "position": "7",
+                    "title": "Atlantic Forest"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1755",
+                            "join": "",
+                            "name": "Tuomas Salmela",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:05",
+                    "position": "8",
+                    "title": "The Becoming"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1",
+                            "join": "",
+                            "name": "The Persuader",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:05",
+                    "position": "9",
+                    "title": "From West To South"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "328",
+                            "join": "",
+                            "name": "Nick Holder",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "1:31",
+                    "position": "10",
+                    "title": "The Latin Thing"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1756",
+                            "join": "",
+                            "name": "Daniel Ibbotson",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:49",
+                    "position": "11",
+                    "title": "Coming 2 Get U (Original Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1757",
+                            "join": "",
+                            "name": "Slow Supreme",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:43",
+                    "position": "12",
+                    "title": "Granada"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "739",
+                            "join": "",
+                            "name": "Jori Hulkkonen",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:19",
+                    "position": "13",
+                    "title": "Sumthin'"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1758",
+                            "join": "",
+                            "name": "The Ananda Project",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "3:56",
+                    "position": "14",
+                    "title": "I Think I'm Losing You"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "227633",
+                            "join": "",
+                            "name": "Jori Juhanna",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:35",
+                    "position": "15",
+                    "title": "2 Mora I Will Luv Ya"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "227",
+                            "join": "",
+                            "name": "Step Time Orchestra",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "3:20",
+                    "position": "16",
+                    "title": "Restless Cinderella"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1529",
+                            "join": "",
+                            "name": "Martin Venetjoki",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "2:52",
+                    "position": "17",
+                    "title": "Solen Stiger"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "284",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=hoCdzlaJSbE",
+                    "description": "Track A5 from Lumi Records release The Jack Is Out There (LUMI003).",
+                    "title": "Approximate - Fututoyshop"
+                },
+                {
+                    "_duration": "463",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=PhDsqNO_YiY",
+                    "description": "http://www.discogs.com/Blaze-Funky-People/release/25553\n\n(Promotional Use Only. All Rights belong to their respective owners.\nSupport Artists, if You like, buy the Music. 'Please' if You want to remove a song just leave me a message and I will do it. Than",
+                    "title": "(2000) Funky People feat. Cassio Ware - Funky People [Sasse Freestyle Man Funk RMX]"
+                },
+                {
+                    "_duration": "267",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=6946h5a9gtk",
+                    "description": "Yep, it's that Dave Lee/Joey Negro guy again - sampled Mtume Love Lock + Planet Rock beat...",
+                    "title": "The Sunburst Band - Atlantic Forest"
+                },
+                {
+                    "_duration": "437",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=oTnSuyE7ivo",
+                    "description": "Lifetime views of the track as of 02.02.2016\nSerbia                   404\nFrance                  251\nGreece                  218\nUSA                      272\nGermany             169\nUK                        188\nMexico                   48\nSlovakia",
+                    "title": "Daniel Ibbotson - Coming To Get You"
+                },
+                {
+                    "_duration": "423",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=e8dLUMLwvos",
+                    "description": "",
+                    "title": "SlowSupreme   Granada"
+                },
+                {
+                    "_duration": "361",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=3vVECTvRo6Y",
+                    "description": "Jaymz Nylon Feat. Mooney - I Know a Place",
+                    "title": "Jaymz Nylon Feat. Mooney - I Know a Place"
+                }
+            ]
+        }
+    }
+}

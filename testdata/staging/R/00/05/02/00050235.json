@@ -1,0 +1,319 @@
+{
+    "release": {
+        "_id": "50235",
+        "_status": "Accepted",
+        "artists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "4472",
+                    "join": "Feat.",
+                    "name": "Tony Senghore",
+                    "role": "",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "67889",
+                    "join": "",
+                    "name": "Freeda",
+                    "role": "",
+                    "tracks": ""
+                }
+            ]
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "20",
+                    "name": "Moody Recordings",
+                    "resource_url": "https://api.discogs.com/labels/20"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "10",
+                    "entity_type_name": "Manufactured By",
+                    "id": "321147",
+                    "name": "Mix Connection",
+                    "resource_url": "https://api.discogs.com/labels/321147"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "9",
+                    "entity_type_name": "Distributed By",
+                    "id": "321147",
+                    "name": "Mix Connection",
+                    "resource_url": "https://api.discogs.com/labels/321147"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "29",
+                    "entity_type_name": "Mastered At",
+                    "id": "158759",
+                    "name": "The Exchange",
+                    "resource_url": "https://api.discogs.com/labels/158759"
+                }
+            ]
+        },
+        "country": "US",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "67889",
+                    "join": "",
+                    "name": "Freeda",
+                    "role": "Featuring",
+                    "tracks": ""
+                },
+                {
+                    "anv": "Mandy",
+                    "id": "384377",
+                    "join": "",
+                    "name": "Mandy Parnell",
+                    "role": "Mastered By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "Mandy",
+                    "id": "384377",
+                    "join": "",
+                    "name": "Mandy Parnell",
+                    "role": "Mastered By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "4472",
+                    "join": "",
+                    "name": "Tony Senghore",
+                    "role": "Producer, Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "778175",
+                    "join": "",
+                    "name": "Frida Engman",
+                    "role": "Vocals",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "2",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Barcode",
+                    "_value": "7 13405 96491 3"
+                },
+                {
+                    "_description": "Run-out side A",
+                    "_type": "Matrix / Runout",
+                    "_value": "MdR 9649 A I MANDY THE EXCHANGE"
+                },
+                {
+                    "_description": "Run-out side B",
+                    "_type": "Matrix / Runout",
+                    "_value": "MdR 9649 B I"
+                },
+                {
+                    "_description": "Run-out side C",
+                    "_type": "Matrix / Runout",
+                    "_value": "MdR 9649 C I"
+                },
+                {
+                    "_description": "Run-out side D",
+                    "_type": "Matrix / Runout",
+                    "_value": "MdR 9649 d I"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "480",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "480"
+                },
+                {
+                    "_height": "408",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "414"
+                },
+                {
+                    "_height": "412",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "422"
+                },
+                {
+                    "_height": "416",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "414"
+                },
+                {
+                    "_height": "416",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "418"
+                },
+                {
+                    "_height": "109",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "MDR9649-1",
+                "_id": "20",
+                "_name": "Moody Recordings"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "197092"
+        },
+        "released": "2002",
+        "styles": {
+            "style": [
+                "House",
+                "Deep House"
+            ]
+        },
+        "title": "Hey Chica",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "6:27",
+                    "position": "A",
+                    "title": "Hey Chica (Original Mix)"
+                },
+                {
+                    "duration": "6:03",
+                    "position": "B1",
+                    "title": "Hey Chica (Guernrilla Mix)"
+                },
+                {
+                    "duration": "4:59",
+                    "position": "B2",
+                    "title": "Hey Chica (Beatcapella)"
+                },
+                {
+                    "duration": "8:00",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "3338",
+                            "join": "",
+                            "name": "Derrick Carter",
+                            "role": "Remix, Producer [Additional]",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "C",
+                    "title": "Hey Chica (D's B.H.Q. Edition)"
+                },
+                {
+                    "duration": "9:28",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "3338",
+                            "join": "",
+                            "name": "Derrick Carter",
+                            "role": "Remix, Producer [Additional]",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "D",
+                    "title": "Hey Chica (D's Le Sous Terrain Reversion)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "574",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=SgplpE_5d-k",
+                    "description": "Provided to YouTube by Symphonic Distribution\n\nHey Chica (feat. Freeda) · Tony Senghore · Freeda · Derrick Carter\n\nHey Chica (feat. Freeda) - Remixes\n\n℗ 2014 Moody Recordings\n\nReleased on: 2014-07-27\n\nFeaturing: Freeda\nRemixer: Derrick Carter\n\nAuto-g",
+                    "title": "Hey Chica (feat. Freeda)"
+                },
+                {
+                    "_duration": "392",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=lWUOe41_Vf0",
+                    "description": "Provided to YouTube by Symphonic Distribution\n\nHey Chica (feat. Freeda) · Tony Senghore · Freeda\n\nHey Chica (feat. Freeda) - Remixes\n\n℗ 2014 Moody Recordings\n\nReleased on: 2014-07-27\n\nFeaturing: Freeda\n\nAuto-generated by YouTube.",
+                    "title": "Hey Chica (feat. Freeda)"
+                },
+                {
+                    "_duration": "305",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=hFnc8up4D2o",
+                    "description": "Provided to YouTube by Symphonic Distribution\n\nHey Chica (feat. Freeda) · Tony Senghore · Freeda\n\nHey Chica (feat. Freeda) - Remixes\n\n℗ 2014 Moody Recordings\n\nReleased on: 2014-07-27\n\nFeaturing: Freeda\n\nAuto-generated by YouTube.",
+                    "title": "Hey Chica (feat. Freeda)"
+                },
+                {
+                    "_duration": "404",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=_2UAB5fybQ0",
+                    "description": "Provided to YouTube by Symphonic Distribution\n\nHey Chica (feat. Freeda) · Tony Senghore · Freeda · Alyson Calagna\n\nHey Chica (feat. Freeda) - Remixes\n\n℗ 2014 Moody Recordings\n\nReleased on: 2014-07-27\n\nFeaturing: Freeda\nRemixer: Alyson Calagna\n\nAuto-g",
+                    "title": "Hey Chica (feat. Freeda)"
+                },
+                {
+                    "_duration": "416",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=M4eCG8SjdrU",
+                    "description": "Provided to YouTube by Symphonic Distribution\n\nHey Chica (feat. Freeda) · Tony Senghore · Freeda · Jonas Tempel · Vedic\n\nHey Chica (feat. Freeda) - Remixes\n\n℗ 2014 Moody Recordings\n\nReleased on: 2014-07-27\n\nFeaturing: Freeda\nRemixer: Jonas Tempel\nRe",
+                    "title": "Hey Chica (feat. Freeda)"
+                },
+                {
+                    "_duration": "484",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=JQpTsuUET3I",
+                    "description": "Provided to YouTube by Symphonic Distribution\n\nHey Chica (feat. Freeda) · Tony Senghore · Freeda · Derrick Carter\n\nHey Chica (feat. Freeda) - Remixes\n\n℗ 2014 Moody Recordings\n\nReleased on: 2014-07-27\n\nFeaturing: Freeda\nRemixer: Derrick Carter\n\nAuto-g",
+                    "title": "Hey Chica (feat. Freeda)"
+                },
+                {
+                    "_duration": "369",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=MfUXCk-YYw0",
+                    "description": "Provided to YouTube by Symphonic Distribution\n\nHey Chica (feat. Freeda) · Tony Senghore · Freeda · Guernrilla\n\nHey Chica (feat. Freeda) - Remixes\n\n℗ 2014 Moody Recordings\n\nReleased on: 2014-07-27\n\nFeaturing: Freeda\nRemixer: Guernrilla\n\nAuto-generated",
+                    "title": "Hey Chica (feat. Freeda)"
+                }
+            ]
+        }
+    }
+}

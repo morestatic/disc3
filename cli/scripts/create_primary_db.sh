@@ -1,0 +1,1 @@
+psql --set=db_name="discogs" -f indexes/sql/init_db.sql

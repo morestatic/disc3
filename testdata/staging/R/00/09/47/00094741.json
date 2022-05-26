@@ -1,0 +1,402 @@
+{
+    "release": {
+        "_id": "94741",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "194",
+                "join": "",
+                "name": "Various",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": {
+                "catno": "17615",
+                "entity_type": "31",
+                "entity_type_name": "Glass Mastered At",
+                "id": "277449",
+                "name": "P+O Pallas",
+                "resource_url": "https://api.discogs.com/labels/277449"
+            }
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": "",
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Compilation",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "PS 08-01 P+O-17615-A1 08-93"
+                },
+                {
+                    "_type": "Rights Society",
+                    "_value": "GEMA"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6260"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PS 08/01",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "This compilation does not feature any project credits for the tracks.\r\nThe back cover lists the titles and durations along with little logos corresponding with the original label art of the 12\" releases. The inner page of the booklet lists the composers also along the original label art. \r\n\r\nTracks 1 and 8 were originally published on [r178687].\r\nTrack 2 was originally published on [r109331].\r\nTrack 3 was originally published on [r87135].\r\nTrack 4 and 9 were originally published on [r162367].\r\nTrack 5 was originally published on [r194448].\r\nTrack 6 was originally published on [r129994].\r\nTrack 7 was originally published on [r200174].\r\n\r\nThe inside of the booklet proclaims \"Music without boundaries and restrictions\".\r\n\r\nLimited to 500 copies.",
+        "released": "1993-08-23",
+        "styles": {
+            "style": [
+                "Hard Trance",
+                "Techno"
+            ]
+        },
+        "title": "Compilation 1",
+        "tracklist": {
+            "track": [
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "27883",
+                            "join": "",
+                            "name": "Edenhouse",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "7:42",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "4865",
+                            "join": "",
+                            "name": "Pascal F.E.O.S.",
+                            "role": "Written-By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "1",
+                    "title": "Never Mind"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "86751",
+                            "join": "",
+                            "name": "Biosatellites",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:09",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "7649",
+                                "join": "",
+                                "name": "DJ Criss",
+                                "role": "Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "582903",
+                                "join": "",
+                                "name": "Tobias Balle-Petersen",
+                                "role": "Written-By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "2",
+                    "title": "Elephant Overload"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "5374582",
+                            "join": "",
+                            "name": "Cœur Atomique",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:29",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "5374582",
+                            "join": "",
+                            "name": "Cœur Atomique",
+                            "role": "Written-By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "3",
+                    "title": "Sundance (RZ-1 Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "76047",
+                            "join": "",
+                            "name": "The Tomorrow People (2)",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "7:50",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "7649",
+                                "join": "",
+                                "name": "DJ Criss",
+                                "role": "Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "4865",
+                                "join": "",
+                                "name": "Pascal F.E.O.S.",
+                                "role": "Written-By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "4",
+                    "title": "Lost In Motion"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "41720",
+                            "join": "",
+                            "name": "Gorn",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:59",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "145578",
+                                "join": "",
+                                "name": "Bela Cox",
+                                "role": "Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "16732",
+                                "join": "",
+                                "name": "Massimo Vivona",
+                                "role": "Written-By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "5",
+                    "title": "Giovenes"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "42333",
+                            "join": "",
+                            "name": "Modula Green",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "7:26",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "Mark P.",
+                                "id": "79820",
+                                "join": "",
+                                "name": "Mark Pfurtscheller",
+                                "role": "Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "785018",
+                                "join": "",
+                                "name": "Redrum (9)",
+                                "role": "Written-By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "6",
+                    "title": "Dune (Of Love)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "47682",
+                            "join": "",
+                            "name": "Sad World",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "10:16",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "8521",
+                                "join": "",
+                                "name": "Dr. Atmo",
+                                "role": "Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "Ramin",
+                                "id": "62865",
+                                "join": "",
+                                "name": "Ramin Naghachian",
+                                "role": "Written-By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "7",
+                    "title": "Terasury"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "27883",
+                            "join": "",
+                            "name": "Edenhouse",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:55",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "4865",
+                            "join": "",
+                            "name": "Pascal F.E.O.S.",
+                            "role": "Written-By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "8",
+                    "title": "Modul #1"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "76047",
+                            "join": "",
+                            "name": "The Tomorrow People (2)",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:35",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "7649",
+                                "join": "",
+                                "name": "DJ Criss",
+                                "role": "Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "4865",
+                                "join": "",
+                                "name": "Pascal F.E.O.S.",
+                                "role": "Written-By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "9",
+                    "title": "Chamber Of Dreams"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "446",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=uoExgIGJcDo",
+                    "description": "",
+                    "title": "A - Modula Green - Dune (Of Love)"
+                },
+                {
+                    "_duration": "397",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=MyYrk9hONvI",
+                    "description": "",
+                    "title": "THE TOMORROW PEOPLE - Chamber of Dreams (1993)"
+                }
+            ]
+        }
+    }
+}

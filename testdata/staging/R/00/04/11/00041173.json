@@ -1,0 +1,428 @@
+{
+    "release": {
+        "_id": "41173",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "30",
+                "join": "",
+                "name": "Groove Collective",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "37",
+                    "entity_type_name": "Produced For",
+                    "id": "663861",
+                    "name": "USG Productions",
+                    "resource_url": "https://api.discogs.com/labels/663861"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "663858",
+                    "name": "Cookin' With Gas Productions",
+                    "resource_url": "https://api.discogs.com/labels/663858"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "663858",
+                    "name": "Cookin' With Gas Productions",
+                    "resource_url": "https://api.discogs.com/labels/663858"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "663862",
+                    "name": "Chankleta Music",
+                    "resource_url": "https://api.discogs.com/labels/663862"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "390615",
+                    "name": "Tavisphere",
+                    "resource_url": "https://api.discogs.com/labels/390615"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "390616",
+                    "name": "Gioioso",
+                    "resource_url": "https://api.discogs.com/labels/390616"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "663859",
+                    "name": "Warp 9",
+                    "resource_url": "https://api.discogs.com/labels/663859"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "663860",
+                    "name": "The Cookin' With Gas Recording Lab",
+                    "resource_url": "https://api.discogs.com/labels/663860"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "663863",
+                    "name": "Gioioso (2)",
+                    "resource_url": "https://api.discogs.com/labels/663863"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "29",
+                    "entity_type_name": "Mastered At",
+                    "id": "199325",
+                    "name": "Frankford/Wayne Mastering Labs",
+                    "resource_url": "https://api.discogs.com/labels/199325"
+                }
+            ]
+        },
+        "country": "US",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "28896",
+                    "join": "",
+                    "name": "Jay Rodriguez",
+                    "role": "Baritone Saxophone",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "92196",
+                    "join": "",
+                    "name": "Jonathan Maron",
+                    "role": "Bass Guitar, Synthesizer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "566386",
+                    "join": "",
+                    "name": "Chris Theberge",
+                    "role": "Congas, Percussion",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "491028",
+                    "join": "",
+                    "name": "Ray Grappone",
+                    "role": "Executive-Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "132835",
+                    "join": "",
+                    "name": "Dennis Martin",
+                    "role": "Executive-Producer, Engineer, Mixed By, Design [Graphic]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "6549",
+                    "join": "",
+                    "name": "Richard Worth",
+                    "role": "Flute",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "316801",
+                    "join": "",
+                    "name": "Greg Vaughn",
+                    "role": "Mastered By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "158991",
+                    "join": "",
+                    "name": "Genji Siraisi",
+                    "role": "Producer, Engineer, Mixed By, Vocals, Electronic Drums",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "320005",
+                    "join": "",
+                    "name": "Dave Jensen",
+                    "role": "Tenor Saxophone",
+                    "tracks": ""
+                },
+                {
+                    "anv": "Josh Roseman",
+                    "id": "98556",
+                    "join": "",
+                    "name": "Joshua Roseman",
+                    "role": "Trombone",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "198364",
+                    "join": "",
+                    "name": "Fabio Morgera",
+                    "role": "Trumpet, Vocals",
+                    "tracks": ""
+                },
+                {
+                    "anv": "Bill Ware III",
+                    "id": "167514",
+                    "join": "",
+                    "name": "Bill Ware",
+                    "role": "Vibraphone",
+                    "tracks": ""
+                },
+                {
+                    "anv": "Gordon \"Nappy G\" Clay",
+                    "id": "799054",
+                    "join": "",
+                    "name": "Gordon Clay",
+                    "role": "Vocals, Timbales, Percussion",
+                    "tracks": ""
+                },
+                {
+                    "anv": "F. Morgera",
+                    "id": "198364",
+                    "join": "",
+                    "name": "Fabio Morgera",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "G. Siraisi",
+                    "id": "158991",
+                    "join": "",
+                    "name": "Genji Siraisi",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "G. Clay",
+                    "id": "799054",
+                    "join": "",
+                    "name": "Gordon Clay",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "J. Maron",
+                    "id": "92196",
+                    "join": "",
+                    "name": "Jonathan Maron",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "12\""
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Barcode",
+                    "_value": "6 54837 10611 6"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": " HB-1061-1-A F/W GSV\t"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "HB-1061-1-B F/W GSV\t"
+                },
+                {
+                    "_type": "Rights Society",
+                    "_value": "BMI"
+                },
+                {
+                    "_type": "Rights Society",
+                    "_value": "ASCAP"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "596"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "598"
+                },
+                {
+                    "_height": "472",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "472"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "HB-1061",
+                "_id": "1889",
+                "_name": "Hipbone Records"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "487309"
+        },
+        "released": "1998",
+        "styles": {
+            "style": "Deep House"
+        },
+        "title": "Deal With It",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "4:42",
+                    "position": "A1",
+                    "title": "Deal With It"
+                },
+                {
+                    "duration": "6:35",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "33569",
+                            "join": "",
+                            "name": "Rikiya Saito",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "A2",
+                    "title": "Deal With It (Riki Mix)"
+                },
+                {
+                    "duration": "5:54",
+                    "position": "A3",
+                    "title": "Deal With It (Extended Edit)"
+                },
+                {
+                    "duration": "8:50",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "694",
+                                "join": "",
+                                "name": "Anthony Nicholson",
+                                "role": "Remix",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "693",
+                                "join": "",
+                                "name": "Ron Trent",
+                                "role": "Remix",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "B1",
+                    "title": "Deal With It (The Gallery Collective Mix)"
+                },
+                {
+                    "duration": "6:35",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "11652",
+                            "join": "",
+                            "name": "Filthy Rich",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "B2",
+                    "title": "Deal With It (The Rio Deal)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "226",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=CQQCJSqyvUk",
+                    "description": "Dance of the Drunken\n1998",
+                    "title": "GROOVE COLLECTIVE deal with it"
+                },
+                {
+                    "_duration": "0",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=2F5PDBmPeNc",
+                    "description": "",
+                    "title": "Groove Collective - Deal With It [Filthy Rich The Rio Deal RMX] HQ"
+                },
+                {
+                    "_duration": "529",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=zzMyBhH8x_E",
+                    "description": "http://www.discogs.com/Groove-Collective-Deal-With-It/release/41173\n\nDeal With It (The Gallery Collective Mix)\n\nGroove Collective - Deal With It\nLabel: Hipbone Records\nCatalog#: HB-1061\nFormat: Vinyl, 12\nCountry: US\nReleased: 1998\nGenre: Electronic\nStyle",
+                    "title": "Groove Collective - Deal With It (USG Gallery Collective Mix) HipBone Records"
+                }
+            ]
+        }
+    }
+}

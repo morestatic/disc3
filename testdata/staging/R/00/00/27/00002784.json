@@ -1,0 +1,158 @@
+{
+    "release": {
+        "_id": "2784",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "20",
+                "join": "",
+                "name": "Percy X",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "UK",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "340794",
+                    "join": "",
+                    "name": "David Donaldson",
+                    "role": "Engineer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "366507",
+                    "join": "",
+                    "name": "John Davis (4)",
+                    "role": "Mastered By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "20",
+                    "join": "",
+                    "name": "Percy X",
+                    "role": "Producer, Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "12\""
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_type": "Barcode",
+                "_value": "7 96122 21056 3"
+            }
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "585"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "599"
+                },
+                {
+                    "_height": "143",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "soma 105",
+                "_id": "18",
+                "_name": "Soma Quality Recordings"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "37375"
+        },
+        "notes": "Published by Soma Music.\r\nMastered at Whitfield Street.\r\nPressed at MPO Averton.",
+        "released": "2000-12-00",
+        "styles": {
+            "style": [
+                "Tribal",
+                "Techno"
+            ]
+        },
+        "title": "Maintain",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "9:00",
+                    "position": "A",
+                    "title": "Maintain"
+                },
+                {
+                    "duration": "4:46",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1112",
+                            "join": "",
+                            "name": "Steve Bicknell",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "B1",
+                    "title": "Maintain (Steve Bicknell Mix)"
+                },
+                {
+                    "duration": "6:49",
+                    "position": "B2",
+                    "title": "Where's The Music?"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "540",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=m9pKmGzquUM",
+                    "description": "http://www.discogs.com/release/2784",
+                    "title": "Percy X - Maintain"
+                },
+                {
+                    "_duration": "284",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=1T0aZk-KxJM",
+                    "description": "Artist: Percy X \u0026 Steve Bicknell, Title: Maintain, Title Of EP: Maintain, Format: Vinyl, Label: Soma Quality Recordings‎, Catalog: soma 105, Country: United Kingdom, Released: December 2000, Genre: Electronic, Style: Tribal, Techno\nBUY - https://www.dis",
+                    "title": "Percy X - Maintain (Steve Bicknell Mix)"
+                }
+            ]
+        }
+    }
+}

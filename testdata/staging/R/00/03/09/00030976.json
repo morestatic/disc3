@@ -1,0 +1,129 @@
+{
+    "release": {
+        "_id": "30976",
+        "_status": "Accepted",
+        "artists": {
+            "artist": [
+                {
+                    "anv": "A.D.N.Y.",
+                    "id": "50",
+                    "join": "\u0026",
+                    "name": "ADNY",
+                    "role": "",
+                    "tracks": ""
+                },
+                {
+                    "anv": "J. Sheperd",
+                    "id": "882554",
+                    "join": "",
+                    "name": "John Sheperd",
+                    "role": "",
+                    "tracks": ""
+                }
+            ]
+        },
+        "companies": "",
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "J. Sheperd",
+                    "id": "882554",
+                    "join": "",
+                    "name": "John Sheperd",
+                    "role": "Guitar",
+                    "tracks": "1, 4"
+                },
+                {
+                    "anv": "",
+                    "id": "26",
+                    "join": "",
+                    "name": "Alexi Delano",
+                    "role": "Producer, Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "EP"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "461",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "486"
+                },
+                {
+                    "_height": "461",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "493"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "CSLTD104",
+                "_id": "2436",
+                "_name": "Corner Shots Ltd"
+            }
+        },
+        "released": "2001-00-00",
+        "styles": {
+            "style": "Deep House"
+        },
+        "title": "Alma Latina EP",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A1",
+                    "title": "Consejo Del Pero"
+                },
+                {
+                    "duration": "",
+                    "position": "A2",
+                    "title": "Trust Me"
+                },
+                {
+                    "duration": "",
+                    "position": "B1",
+                    "title": "In Essence"
+                },
+                {
+                    "duration": "",
+                    "position": "B2",
+                    "title": "Un Dia En Abril"
+                }
+            ]
+        },
+        "videos": {
+            "video": {
+                "_duration": "385",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=1MCFTrefBdg",
+                "description": "Nice jazzy house tune from A.D.N.Y. Included here in low resolution to share the love of his work",
+                "title": "A.D.N.Y -  Un Dia En Abril"
+            }
+        }
+    }
+}

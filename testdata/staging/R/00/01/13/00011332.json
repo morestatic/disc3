@@ -1,0 +1,189 @@
+{
+    "release": {
+        "_id": "11332",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "6347",
+                "join": "",
+                "name": "Halo",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "10",
+                    "entity_type_name": "Manufactured By",
+                    "id": "4146",
+                    "name": "Mix Connection Multimedia",
+                    "resource_url": "https://api.discogs.com/labels/4146"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "9",
+                    "entity_type_name": "Distributed By",
+                    "id": "4146",
+                    "name": "Mix Connection Multimedia",
+                    "resource_url": "https://api.discogs.com/labels/4146"
+                }
+            ]
+        },
+        "country": "US",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "6347",
+                "join": "",
+                "name": "Halo",
+                "role": "Producer",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Label PLU",
+                    "_type": "Barcode",
+                    "_value": "7-1340596141-7"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "MMM JR MDR9614-1"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "604",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "1172",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "601",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "594",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "MDR9614-1",
+                "_id": "20",
+                "_name": "Moody Recordings"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "568438"
+        },
+        "released": "1999",
+        "styles": {
+            "style": [
+                "House",
+                "Tech House"
+            ]
+        },
+        "title": "Mi'Casa",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A1",
+                    "title": "Mi'Casa (Spanish Fly)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "209",
+                            "join": "",
+                            "name": "Onionz \u0026 Master D",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "B1",
+                    "title": "Mi'Casa (Onionz \u0026 Master'D Electric Soul Remix)"
+                },
+                {
+                    "duration": "",
+                    "position": "B2",
+                    "title": "Mi'Casa (Halo's Bang Mix)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "613",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=ly_MXxdKlbU",
+                    "description": "",
+                    "title": "Halo - Mi' casa ( Spanish fly )"
+                },
+                {
+                    "_duration": "398",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=kTZ0xe7kLdk",
+                    "description": "",
+                    "title": "Halo - Mi' casa ( Onionz \u0026 Master'D electric soul mix )"
+                },
+                {
+                    "_duration": "403",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=WH4PqmksLPg",
+                    "description": "Still bangin'",
+                    "title": "Halo - Mi' casa ( Halo's bang mix )"
+                }
+            ]
+        }
+    }
+}

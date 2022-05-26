@@ -1,0 +1,150 @@
+{
+    "release": {
+        "_id": "8838",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "62",
+                "join": "",
+                "name": "John Tejada",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": {
+                "catno": "",
+                "entity_type": "21",
+                "entity_type_name": "Published By",
+                "id": "314115",
+                "name": "Parallax Muzik",
+                "resource_url": "https://api.discogs.com/labels/314115"
+            }
+        },
+        "country": "US",
+        "data_quality": "Needs Vote",
+        "extraartists": "",
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_type": "Rights Society",
+                "_value": "BMI"
+            }
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "599"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "005",
+                "_id": "30",
+                "_name": "Palette Recordings"
+            }
+        },
+        "released": "1998-00-00",
+        "styles": {
+            "style": "Tech House"
+        },
+        "title": "The Walk",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "",
+                    "title": "Top Side"
+                },
+                {
+                    "duration": "",
+                    "position": "A1",
+                    "title": "The Walk"
+                },
+                {
+                    "duration": "",
+                    "position": "A2",
+                    "title": "Lesson"
+                },
+                {
+                    "duration": "",
+                    "position": "",
+                    "title": "Bottom Side"
+                },
+                {
+                    "duration": "",
+                    "position": "B1",
+                    "title": "Soul Driven"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "8585",
+                            "join": "",
+                            "name": "Divine Styler",
+                            "role": "Vocals",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "B2",
+                    "title": "Polarity"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "327",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=oad7gMi76EE",
+                    "description": "John Tejada ‎– The Walk (Palette Recordings ‎– 005) https://www.discogs.com/John-Tejada-The-Walk/release/8838",
+                    "title": "John Tejada ‎– The Walk"
+                },
+                {
+                    "_duration": "363",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=jv9bDIbVh5k",
+                    "description": "(Palette) US 1998",
+                    "title": "John Tejada feat Divine Styler: Polarity"
+                },
+                {
+                    "_duration": "345",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=-POTAWpdWAw",
+                    "description": "(Palette) US 1998",
+                    "title": "John Tejada: The Lesson"
+                }
+            ]
+        }
+    }
+}

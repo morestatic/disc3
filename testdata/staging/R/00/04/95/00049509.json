@@ -1,0 +1,207 @@
+{
+    "release": {
+        "_id": "49509",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "25452",
+                "join": "",
+                "name": "Ozoona",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": {
+                "catno": "",
+                "entity_type": "23",
+                "entity_type_name": "Recorded At",
+                "id": "294386",
+                "name": "Klanglabor Frankfurt",
+                "resource_url": "https://api.discogs.com/labels/294386"
+            }
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "2118078",
+                    "join": "",
+                    "name": "PEK (3)",
+                    "role": "Graphics",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "41714",
+                    "join": "",
+                    "name": "Charles Uzzell-Edwards",
+                    "role": "Illustration [Ozoona Picture]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "58657",
+                    "join": "",
+                    "name": "Peter Kuhlmann",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "Rob Gordon",
+                    "id": "27036",
+                    "join": "",
+                    "name": "Robert Gordon",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "Rob Gordon",
+                    "id": "27036",
+                    "join": "",
+                    "name": "Robert Gordon",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_type": "Label Code",
+                "_value": "LC 6269"
+            }
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "589",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "465",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "597",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "248",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "246"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PW 30",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Some notes from P.N.:\n\nWe did not expect that this kind of music would come out when we decided to collaborate. The beats of Rob combined with my chords, bass and melody. I just let go during the making of this. Perhaps this is the reason for the rather melodic outcome as I just reacted on the beats.\nWhile I sat in the studio to work on track 2..a blackbird came to the window and sung along...in the same key and even in the same rhythmic sense...I watched this for 2 minutes and immediately built up the microphone...I recorded for 30 seconds and then I decreased the music to have some blackbird solo..but as soon as I decreased level the blackbird disappeared. Listen to the outcome at the end of track 2.\nThe next day...while I did the melody and chords for the third track the same thing happened...I was prepared and so I recorded the session...what you hear is the studio monitor sound and the blackbird on one channel (just added some slight delay and reverb) and the same mix on the other channel. \nOn the last track I had the beats from Rob and tried to do something which would make more -melodic-sense...but I started to experiment with a rather aggressive beats and ended up experimenting for 2 days. Most of you might hate the track...but on the other hand I assume you like me for not tailoring my music to your taste...\nP.N. 23.06.1996\n\nOZOONA\nFRANKFURT 1996\n\nSpecial thanks from Rob Gordon to:\n-Funk Master General-\n\nSpecial thanks from P.N. to:\nELISABETH \u0026 FABiA \u0026 KATHRiN\nUWE SCHMIDT \u0026 CHARLEY for Ozoona picture\nDAVID MOUFANG for connecting Rob and me\n\nRecorded at Klanglabor, Frankfurt.\nLimitation: 2000\nMade in Germany",
+        "released": "1996-07-12",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Drum n Bass",
+                "IDM"
+            ]
+        },
+        "title": "Ozoona",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "11:24",
+                    "position": "1",
+                    "title": "She Ship"
+                },
+                {
+                    "duration": "12:58",
+                    "position": "2",
+                    "title": "Flat Pack"
+                },
+                {
+                    "duration": "17:41",
+                    "position": "3",
+                    "title": "Blackbird Suite"
+                },
+                {
+                    "duration": "11:22",
+                    "position": "4",
+                    "title": "The Hunt"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "671",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=E0z-y3z8dj0",
+                    "description": "Released on the Ozoona Album (PW30) On FAX +49-69/450464 (Record Label)\nMusic:  Pete Namlook \u0026 Rob Gordon, 1996\nVideo: Abstructure\nDancing Robots: All over Youtube...",
+                    "title": "Ozoona - She Ship"
+                },
+                {
+                    "_duration": "784",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=dEue1TtA9OA",
+                    "description": "Track 2 - Flat Pack\nArtists : Pete Namlook \u0026 Rob Gordon\nAlbum : Ozoona\n1996 FAX +49-69/450464",
+                    "title": "Pete Namlook \u0026 Rob Gordon - Flat Pack (Ozoona)"
+                },
+                {
+                    "_duration": "1065",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=gPdnP-Vqyuk",
+                    "description": "Track 3 - Blackbird Suite\nArtists : Pete Namlook \u0026 Rob Gordon\nAlbum : Ozoona\n1996 FAX +49-69/450464",
+                    "title": "Pete Namlook \u0026 Rob Gordon - Blackbird Suite (Ozoona)"
+                },
+                {
+                    "_duration": "687",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=VqtAh-y_MJ4",
+                    "description": "Track 4 - The Hunt\nArtists : Pete Namlook \u0026 Rob Gordon\nAlbum : Ozoona\n1996 FAX +49-69/450464",
+                    "title": "Pete Namlook \u0026 Rob Gordon - The Hunt (Ozoona)"
+                }
+            ]
+        }
+    }
+}

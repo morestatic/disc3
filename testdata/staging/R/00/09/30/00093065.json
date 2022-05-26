@@ -1,0 +1,154 @@
+{
+    "release": {
+        "_id": "93065",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "9592",
+                "join": "",
+                "name": "Pizzaman",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "UK",
+        "data_quality": "Needs Vote",
+        "extraartists": "",
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_type": "Barcode",
+                "_value": "5 024086 003965 \u003e"
+            }
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "207",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "207"
+                },
+                {
+                    "_height": "298",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "300"
+                },
+                {
+                    "_height": "294",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "300"
+                }
+            ]
+        },
+        "labels": {
+            "label": [
+                {
+                    "_catno": "12LOAD39",
+                    "_id": "5495",
+                    "_name": "Cowboy Records"
+                },
+                {
+                    "_catno": "12LOAD39",
+                    "_id": "40",
+                    "_name": "Loaded Records"
+                }
+            ]
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "100624"
+        },
+        "released": "1996",
+        "styles": {
+            "style": [
+                "House",
+                "Big Beat"
+            ]
+        },
+        "title": "Hello Honky Tonks (Rock Your Body)",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "7:00",
+                    "position": "A1",
+                    "title": "Hello Honky Tonks (Rock Your Body) (Pizzaman Mix)"
+                },
+                {
+                    "duration": "7:33",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "229902",
+                            "join": "",
+                            "name": "Cotton Club",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "AA1",
+                    "title": "Hello Honky Tonks (Rock Your Body) (Cotton Club Dub)"
+                },
+                {
+                    "duration": "6:51",
+                    "position": "AA2",
+                    "title": "The Feeling (Pizzaman Mix)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "235",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=nmk6yB4LEyk",
+                    "description": "✖ TO OWNERS \u0026 COPYRIGHT HOLDERS:\nThis channel is created to promote magnificent songs, and as well, producers. Absolutely, NO COPYRIGHT INFRINGEMENT INTENDED. This CHANNEL CLAIMS NO RIGHTS OR OWNERSHIP over the contents posted. If you wish for a track t",
+                    "title": "Pizzaman - Hello Honky Tonks (Rock Your Body) [Official Music Video]"
+                },
+                {
+                    "_duration": "398",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=YBmA1eIDVYE",
+                    "description": "Pizzaman\nPizzamania\n006. The Feeling\n(1995)",
+                    "title": "Pizzaman - The Feeling"
+                },
+                {
+                    "_duration": "422",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=6LhRUspAH6g",
+                    "description": "The Cool Cuts Selection Part 25\n1996 Loaded Records (LOAD 39) If You like it ,buy it! (www.pulserecords.co.uk)",
+                    "title": "Pizzaman -- Hello Honky Tonks (Rock Your Body) (Cotton Club Brewery Dub)"
+                },
+                {
+                    "_duration": "244",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=DT9XOl8bWb0",
+                    "description": "Loaded records",
+                    "title": "Hello Honky Tonks by Pizzaman (high res\\official video)"
+                }
+            ]
+        }
+    }
+}

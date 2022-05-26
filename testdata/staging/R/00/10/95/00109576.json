@@ -1,0 +1,580 @@
+{
+    "release": {
+        "_id": "109576",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "194",
+                "join": "",
+                "name": "Various",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "6",
+                    "entity_type_name": "Licensed From",
+                    "id": "60",
+                    "name": "Fax +49-69/450464",
+                    "resource_url": "https://api.discogs.com/labels/60"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "10",
+                    "entity_type_name": "Manufactured By",
+                    "id": "264196",
+                    "name": "KAO Optical Products",
+                    "resource_url": "https://api.discogs.com/labels/264196"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "323057",
+                    "name": "Instinct Records, Inc.",
+                    "resource_url": "https://api.discogs.com/labels/323057"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "323057",
+                    "name": "Instinct Records, Inc.",
+                    "resource_url": "https://api.discogs.com/labels/323057"
+                }
+            ]
+        },
+        "country": "US",
+        "data_quality": "Needs Vote",
+        "extraartists": "",
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "2",
+                "_text": "",
+                "descriptions": {
+                    "description": "Compilation"
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Barcode",
+                    "_value": "7 20841 55602 2"
+                },
+                {
+                    "_description": "CD1, mirrored",
+                    "_type": "Matrix / Runout",
+                    "_value": "MANUFACTURED BY KAO OPTICAL PRODUCTS ✳✳✳AL008084-04✳✳✳ FAX5560-2"
+                },
+                {
+                    "_description": "CD2, mirrored",
+                    "_type": "Matrix / Runout",
+                    "_value": "MANUFACTURED BY KAO OPTICAL PRODUCTS ✳✳✳AL008085-01✳✳✳ FAX5560-2"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "601",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "466",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "613",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "598",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": [
+                {
+                    "_catno": "FAX-5560-2",
+                    "_id": "854027",
+                    "_name": "FAX USA"
+                },
+                {
+                    "_catno": "FAX-5560-2",
+                    "_id": "60",
+                    "_name": "Fax +49-69/450464"
+                }
+            ]
+        },
+        "notes": "License courtesy of Fax +49-69/450464\n℗ © 1995 Instinct Records\nPrinted in the USA\n\nFor the following tracks, the release tracklist incorrectly mentions the album titles as track artists:\n1-04 [r=52489]\n1-06 [m=183506]\n2-01 [r=16608]\n\nLabel [l63] appears only as copyright holder on the release. \n\nReleased in slim double jewel case.",
+        "released": "1995-03-28",
+        "styles": {
+            "style": "Ambient"
+        },
+        "title": "FAX Compilation II",
+        "tracklist": {
+            "track": [
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "126598",
+                            "join": "",
+                            "name": "Electro Harmonix",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "11:06",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "33693",
+                                "join": "",
+                                "name": "Jonah Sharp",
+                                "role": "Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "25",
+                                "join": "",
+                                "name": "Tetsu Inoue",
+                                "role": "Written-By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "1-01",
+                    "title": "Floating Sync"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "Namlook",
+                            "id": "1910",
+                            "join": "",
+                            "name": "Pete Namlook",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "8:37",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1910",
+                            "join": "",
+                            "name": "Pete Namlook",
+                            "role": "Written-By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "1-02",
+                    "title": "The Gate To The Milky Way (Excerpt)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "4771631",
+                            "join": "",
+                            "name": "Otras",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:48",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "13231",
+                            "join": "",
+                            "name": "David Reeves",
+                            "role": "Written-By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "1-03",
+                    "title": "Astralbohrer"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "13232",
+                            "join": "",
+                            "name": "Chris Meloche",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "10:01",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "13232",
+                            "join": "",
+                            "name": "Chris Meloche",
+                            "role": "Written-By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "1-04",
+                    "title": "Loop 6 (Excerpt)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "293200",
+                            "join": "",
+                            "name": "A Day In The Park",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "16:41",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "8521",
+                                "join": "",
+                                "name": "Dr. Atmo",
+                                "role": "Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "41716",
+                                "join": "",
+                                "name": "Pino \u0026 Wildjamin",
+                                "role": "Written-By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "1-05",
+                    "title": "Talk"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "3796",
+                            "join": "",
+                            "name": "Daniel Pemberton",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:34",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "3796",
+                            "join": "",
+                            "name": "Daniel Pemberton",
+                            "role": "Written-By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "1-06",
+                    "title": "Antarctica"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "293292",
+                            "join": "",
+                            "name": "Aerial Service Area",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "14:55",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "24",
+                                "join": "",
+                                "name": "Atom Heart",
+                                "role": "Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "36674",
+                                "join": "",
+                                "name": "Niko Heyduck",
+                                "role": "Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "32614",
+                                "join": "",
+                                "name": "Victor Sol",
+                                "role": "Written-By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "1-07",
+                    "title": "Another Green Airport"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1910",
+                            "join": "",
+                            "name": "Pete Namlook",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "7:27",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1910",
+                            "join": "",
+                            "name": "Pete Namlook",
+                            "role": "Written-By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "2-01",
+                    "title": "Electro Clips (Excerpt)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "38287",
+                            "join": "",
+                            "name": "Transonic",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:51",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "13227",
+                            "join": "",
+                            "name": "Robert Musso",
+                            "role": "Written-By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "2-02",
+                    "title": "Whirlpool (Slow Spiral Of Clouds) (Excerpt)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "4771692",
+                            "join": "",
+                            "name": "Solitaire (12)",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "15:57",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "152",
+                            "join": "",
+                            "name": "David Moufang",
+                            "role": "Written-By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "2-03",
+                    "title": "In / Out"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "32557",
+                            "join": "",
+                            "name": "XJacks",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "10:54",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "9847",
+                                "join": "",
+                                "name": "Dandy Jack",
+                                "role": "Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "32614",
+                                "join": "",
+                                "name": "Victor Sol",
+                                "role": "Written-By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "2-04",
+                    "title": "Celophane"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "264576",
+                            "join": "",
+                            "name": "Wechselspannung",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:46",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "33693",
+                                "join": "",
+                                "name": "Jonah Sharp",
+                                "role": "Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "1910",
+                                "join": "",
+                                "name": "Pete Namlook",
+                                "role": "Written-By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "2-05",
+                    "title": "220 V (Excerpt)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1948773",
+                            "join": "",
+                            "name": "Organic Cloud",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "12:55",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "25",
+                            "join": "",
+                            "name": "Tetsu Inoue",
+                            "role": "Written-By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "2-06",
+                    "title": "Chill In Chill Out"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "Namlook",
+                            "id": "1910",
+                            "join": "",
+                            "name": "Pete Namlook",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "11:25",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1910",
+                            "join": "",
+                            "name": "Pete Namlook",
+                            "role": "Written-By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "2-07",
+                    "title": "Subharmonic Interference (Excerpt)"
+                }
+            ]
+        },
+        "videos": {
+            "video": {
+                "_duration": "400",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=okTCbfwok6U",
+                "description": "Music by:  Daniel Pemberton 1995\nVideo by: Abstructure",
+                "title": "Bedroom - Antarctica"
+            }
+        }
+    }
+}

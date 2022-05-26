@@ -1,0 +1,126 @@
+{
+    "release": {
+        "_id": "233466",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "5511",
+                "join": "",
+                "name": "Slacker",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "UK",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "26042",
+                "join": "",
+                "name": "Joanna Law",
+                "role": "Vocals",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "12\""
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": {
+                "_height": "435",
+                "_type": "secondary",
+                "_uri": "",
+                "_uri150": "",
+                "_width": "441"
+            }
+        },
+        "labels": {
+            "label": {
+                "_catno": "LOAD 047",
+                "_id": "40",
+                "_name": "Loaded Records"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "77195"
+        },
+        "released": "1997",
+        "styles": {
+            "style": "Progressive Trance"
+        },
+        "title": "Your Face",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "7:23",
+                    "position": "A1",
+                    "title": "Your Face (In The Mirror)"
+                },
+                {
+                    "duration": "5:31",
+                    "position": "A2",
+                    "title": "Your Face (In The Crowd)"
+                },
+                {
+                    "duration": "11:51",
+                    "position": "B",
+                    "title": "Your Face (Schizoid)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "184",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=51N8c-3L0Q8",
+                    "description": "Slacker - Your face Clip, on Electric Circus.",
+                    "title": "Slacker - Your Face"
+                },
+                {
+                    "_duration": "444",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=7Xmlx-FU2Vo",
+                    "description": "Slacker - Your Face (In The Mirror)",
+                    "title": "Slacker - Your Face (In The Mirror) (HQ)"
+                },
+                {
+                    "_duration": "394",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=GjfQ2e_kXpw",
+                    "description": "https://www.junodownload.com/products/slacker-your-face/1245771-02/\nhttps://www.discogs.com/Slacker-Your-Face-The-Way-We-Are/master/77195",
+                    "title": "Slacker - Your Face (In The Crowd) [1997]"
+                },
+                {
+                    "_duration": "716",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=nmsFv-uvUP8",
+                    "description": "Buy here: https://www.junodownload.com/products/slacker-your-face/1245771-02/?track_number=3\n\nIF YOU ARE THE COPYRIGHT OWNER AND WANT ME TO REMOVE THE VIDEO, PLEASE CONTACT ME AND I WILL DELETE IT WITHIN 24HRS\n\nhttps://www.facebook.com/trance.classics.off",
+                    "title": "Slacker - Your Face (Schizoid) (1997)"
+                },
+                {
+                    "_duration": "431",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=WqTR0zEJkiM",
+                    "description": "https://www.discogs.com/Slacker-Your-Face-The-Way-We-Are/release/46166",
+                    "title": "Slacker - The Way We Are [1997]"
+                }
+            ]
+        }
+    }
+}

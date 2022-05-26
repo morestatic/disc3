@@ -1,0 +1,181 @@
+{
+    "release": {
+        "_id": "115132",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "82210",
+                "join": "",
+                "name": "Moisture Control",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "10",
+                    "entity_type_name": "Manufactured By",
+                    "id": "290468",
+                    "name": "Syntax Distribution",
+                    "resource_url": "https://api.discogs.com/labels/290468"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "9",
+                    "entity_type_name": "Distributed By",
+                    "id": "290468",
+                    "name": "Syntax Distribution",
+                    "resource_url": "https://api.discogs.com/labels/290468"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "50",
+                    "name": "Fair Park",
+                    "resource_url": "https://api.discogs.com/labels/50"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "50",
+                    "name": "Fair Park",
+                    "resource_url": "https://api.discogs.com/labels/50"
+                }
+            ]
+        },
+        "country": "US",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "173901",
+                    "join": "",
+                    "name": "Mike Constantino",
+                    "role": "Written-By, Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "80629",
+                    "join": "",
+                    "name": "Waric Cameron",
+                    "role": "Written-By, Producer",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "EP",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Runout Side A",
+                    "_type": "Matrix / Runout",
+                    "_value": "FPR-012 A Le"
+                },
+                {
+                    "_description": "Runout Side B",
+                    "_type": "Matrix / Runout",
+                    "_value": "FPR-012 B Le"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "498",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                },
+                {
+                    "_height": "286",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "284"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "FPR012",
+                "_id": "50",
+                "_name": "Fair Park"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "1838937"
+        },
+        "released": "2003-05-22",
+        "styles": {
+            "style": "Deep House"
+        },
+        "title": "Moisture Control E.P.",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A1",
+                    "title": "Baby"
+                },
+                {
+                    "duration": "",
+                    "position": "A2",
+                    "title": "Picadilly Parade"
+                },
+                {
+                    "duration": "",
+                    "position": "B1",
+                    "title": "Mind The Gap"
+                },
+                {
+                    "duration": "",
+                    "position": "B2",
+                    "title": "Tonite's Rubdown"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "358",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=MsqR1I4SKDY",
+                    "description": "For promotional purpose!\nhttp://www.discogs.com/Moisture-Control-Moisture-Control-EP/release/115132\n\nMoisture Control ‎– Moisture Control E.P.\n\nLabel: Fair Park ‎– FPR012\nFormat: Vinyl, 12, EP, 33 ⅓ RPM \nCountry: US\nReleased: 22 May 2003\nGenre:",
+                    "title": "Moisture Control - Mind The Gap"
+                },
+                {
+                    "_duration": "430",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=RHMdV5tRl_c",
+                    "description": "",
+                    "title": "Baby - Moisture Control EP"
+                }
+            ]
+        }
+    }
+}

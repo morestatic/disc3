@@ -1,0 +1,142 @@
+{
+    "release": {
+        "_id": "34028",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "10424",
+                "join": "",
+                "name": "Paul Jacobs",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "UK",
+        "data_quality": "Needs Vote",
+        "extraartists": "",
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_description": "Text",
+                "_type": "Barcode",
+                "_value": "5025 425 4 064 23"
+            }
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "296",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "296"
+                },
+                {
+                    "_height": "598",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "241",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "LOAD 64",
+                "_id": "40",
+                "_name": "Loaded Records"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "false",
+            "content": "209878"
+        },
+        "released": "2000",
+        "styles": {
+            "style": "House"
+        },
+        "title": "Soul Grabber Pt 2 (Remixes)",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A",
+                    "title": "Soulgrabber (Aggressive Dub)"
+                },
+                {
+                    "duration": "",
+                    "position": "AA1",
+                    "title": "Soulgrabber (Original)"
+                },
+                {
+                    "duration": "",
+                    "position": "AA2",
+                    "title": "Soulgrabber (Nude Order Mix)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "296",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=ymh0LKNqweg",
+                    "description": "Label: Loaded Records ‎– LOAD 64\r\nFormat: Vinyl, 12 \r\nCountry: UK\r\nReleased: 2000\r\nGenre: Electronic\r\nStyle: House\r\n\r\nhttps://www.discogs.com/Paul-Jacobs-Soul-Grabber-Part-2-Remixes/release/34028\r\n\r\nI don't make any money with the videos featured on",
+                    "title": "Paul Jacobs - Soulgrabber (Original)"
+                },
+                {
+                    "_duration": "625",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=pPrfH5sZ5vI",
+                    "description": "Paul Jacobs ‎- Soul Grabber Pt. 2\nLabel: Aquarius Recordings - disco 5A, Aquarius Recordings - disco 5B, Aquarius Recordings - Disco 5A, Aquarius Recordings - Disco 5B\nFormat: 2 × Vinyl, 12, 33 ⅓ RPM\nCountry: Canada\nReleased: 1997\nStyle: House, Drum",
+                    "title": "Paul Jacobs - Soul Grabber Pt. 2 (Dub Mix)"
+                },
+                {
+                    "_duration": "596",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=I_k3g-6xiSA",
+                    "description": "Label: Loaded Records ‎– LOAD 64\r\nFormat: Vinyl, 12 \r\nCountry: UK\r\nReleased: 2000\r\nGenre: Electronic\r\nStyle: House\r\n\r\nhttps://www.discogs.com/Paul-Jacobs-Soul-Grabber-Part-2-Remixes/release/34028\r\n\r\nI don't make any money with the videos featured on",
+                    "title": "Paul Jacobs - Soulgrabber (Aggressive Dub)"
+                },
+                {
+                    "_duration": "471",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=neQQSZnX9yM",
+                    "description": "Canada Deep\n\nSoul Grabber Pt. 2 - Disco 5B",
+                    "title": "Paul Jacobs - Untitled (Drum 'n Bass)"
+                }
+            ]
+        }
+    }
+}

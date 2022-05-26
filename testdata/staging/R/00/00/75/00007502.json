@@ -1,0 +1,121 @@
+{
+    "release": {
+        "_id": "7502",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "8436",
+                "join": "",
+                "name": "Mojolators",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "US",
+        "data_quality": "Correct",
+        "extraartists": "",
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "12\""
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "597",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "1816",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "MDR9627-1",
+                "_id": "20",
+                "_name": "Moody Recordings"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "1045577"
+        },
+        "released": "2000-00-00",
+        "styles": {
+            "style": "House"
+        },
+        "title": "To The Music",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A",
+                    "title": "To The Music"
+                },
+                {
+                    "duration": "",
+                    "position": "B",
+                    "title": "Drifting"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "557",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=l_USKzJdQp0",
+                    "description": "Very good track, always rocks dancefloors ! Ripped from my original vinyl collection.",
+                    "title": "Mojolators - To the music"
+                },
+                {
+                    "_duration": "563",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=dHh2p4VDXtg",
+                    "description": "Recuerda puedes encontrar el mejor repertorio con los temas que más sonaron en los mejores clubs en el canal de YouTube: \nJose Galan - Musica Vinilo - https://www.youtube.com/channel/UC3BTbm6jCARPCb5z11CifIQ\n\nY los mejores sets con los temas más actuale",
+                    "title": "Mojolators - Drifting"
+                }
+            ]
+        }
+    }
+}

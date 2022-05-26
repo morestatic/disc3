@@ -1,0 +1,181 @@
+{
+    "release": {
+        "_id": "74067",
+        "_status": "Accepted",
+        "artists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "939",
+                    "join": "/",
+                    "name": "The Higher Intelligence Agency",
+                    "role": "",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "",
+                    "tracks": ""
+                }
+            ]
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "30",
+                    "entity_type_name": "Lacquer Cut At",
+                    "id": "265113",
+                    "name": "SST Brüggemann GmbH",
+                    "resource_url": "https://api.discogs.com/labels/265113"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "294386",
+                    "name": "Klanglabor Frankfurt",
+                    "resource_url": "https://api.discogs.com/labels/294386"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "1584729",
+                    "join": "",
+                    "name": "SST (8)",
+                    "role": "Lacquer Cut By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "518861",
+                    "join": "",
+                    "name": "Bobby Bird (2)",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                },
+                {
+                    "_description": "Etched A side runout",
+                    "_type": "Matrix / Runout",
+                    "_value": "PW 35 A SST \u003c\u003c Recorded at Klanglabor Frankfurt \u003e\u003e"
+                },
+                {
+                    "_description": "Etched B side runout",
+                    "_type": "Matrix / Runout",
+                    "_value": "PW 35 B SST \u003c\u003cElektronik Fusion Music that describes a futuristic world on its own\u003e\u003e"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "500",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                },
+                {
+                    "_height": "500",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PW 35",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "894456"
+        },
+        "notes": "Limited to 500 copies",
+        "released": "1997-06-16",
+        "styles": {
+            "style": [
+                "Ambient",
+                "IDM"
+            ]
+        },
+        "title": "S.H.A.D.O",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "11:04",
+                    "position": "A",
+                    "title": "Intruder Detector"
+                },
+                {
+                    "duration": "9:42",
+                    "position": "B",
+                    "title": "Maintaining Scan For UFO's"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "666",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=k5EONSMrp10",
+                    "description": "The Higher Intelligence Agency / Pete Namlook ‎– S.H.A.D.O EP\nLabel: Fax +49-69/450464 ‎– PW 35\nFormat: Vinyl, 12, Limited Edition, EP \nCountry: Germany\nReleased: 16 Jun 1997\nGenre: Electronic\nStyle: Ambient\n\nhttps://www.discogs.com/Higher-Intell",
+                    "title": "The Higher Intelligence Agency / Pete Namlook  - Intruder Detector (A1)"
+                },
+                {
+                    "_duration": "584",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=19hin5FJDKU",
+                    "description": "LP : S.H.A.D.O. PW 34 (1997). Written \u0026 Produced By Robert Bird And Pete Namlook. HQ Audio.",
+                    "title": "The Higher Intelligence Agency \u0026 Pete Namlook - Maintaining Scan For UFO's"
+                }
+            ]
+        }
+    }
+}

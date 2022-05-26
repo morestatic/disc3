@@ -1,0 +1,288 @@
+{
+    "release": {
+        "_id": "126658",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "The Wildchild Experience",
+                "id": "6246",
+                "join": "",
+                "name": "Wildchild",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "9",
+                    "entity_type_name": "Distributed By",
+                    "id": "149122",
+                    "name": "3MV",
+                    "resource_url": "https://api.discogs.com/labels/149122"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "9",
+                    "entity_type_name": "Distributed By",
+                    "id": "19882",
+                    "name": "Sony",
+                    "resource_url": "https://api.discogs.com/labels/19882"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "40",
+                    "name": "Loaded Records",
+                    "resource_url": "https://api.discogs.com/labels/40"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "40",
+                    "name": "Loaded Records",
+                    "resource_url": "https://api.discogs.com/labels/40"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "16",
+                    "entity_type_name": "Made By",
+                    "id": "329811",
+                    "name": "Disctronics S",
+                    "resource_url": "https://api.discogs.com/labels/329811"
+                }
+            ]
+        },
+        "country": "UK",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "24997",
+                    "join": "",
+                    "name": "Damian Harris",
+                    "role": "Design [Sleeve Design]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "6246",
+                    "join": "",
+                    "name": "Wildchild",
+                    "role": "Written-By, Producer",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "Compilation"
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Barcode",
+                    "_value": "5 027731 716012"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "S LOADWCD 1 01 DISCTRONICS"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "588",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "463",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "590"
+                },
+                {
+                    "_height": "594",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "596",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "594",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "LOADW1CD",
+                "_id": "40",
+                "_name": "Loaded Records"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "125491"
+        },
+        "released": "1995",
+        "styles": {
+            "style": "House"
+        },
+        "title": "The Best Of Wildtrax",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "5:58",
+                    "position": "1",
+                    "title": "Bring It Down"
+                },
+                {
+                    "duration": "8:31",
+                    "position": "2",
+                    "title": "Meet The Pressure"
+                },
+                {
+                    "duration": "6:48",
+                    "position": "3",
+                    "title": "Do What You Like"
+                },
+                {
+                    "duration": "6:16",
+                    "position": "4",
+                    "title": "Keep It Going"
+                },
+                {
+                    "duration": "7:32",
+                    "position": "5",
+                    "title": "Let Me Tell You"
+                },
+                {
+                    "duration": "5:31",
+                    "position": "6",
+                    "title": "Deep Into The Night"
+                },
+                {
+                    "duration": "13:43",
+                    "position": "7",
+                    "title": "Know Eye"
+                },
+                {
+                    "duration": "6:11",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1965",
+                            "join": "",
+                            "name": "Mike Wertheim",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "8",
+                    "title": "Jump To My Beat (U.S. Remix)"
+                },
+                {
+                    "duration": "5:57",
+                    "position": "9",
+                    "title": "Jump To My Beat (Original Version)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "381",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=zNAxUadZfQA",
+                    "description": "",
+                    "title": "Wildchild Experience - Wildtrax Vol3 - Jump To My Beat (US Remix)"
+                },
+                {
+                    "_duration": "360",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=2Lzjf1i7UzY",
+                    "description": "",
+                    "title": "The Wildchild Experience - Bring It Down"
+                },
+                {
+                    "_duration": "515",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=B2sImHMurgo",
+                    "description": "",
+                    "title": "THE WILDCHILD EXPERIENCE - WildTrax VOL 4 - Meet The Pressure"
+                },
+                {
+                    "_duration": "374",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=GW83ZCZXE0Y",
+                    "description": "",
+                    "title": "The Wildchild Experience - Keep it Going"
+                },
+                {
+                    "_duration": "409",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=FhEEcPGSID8",
+                    "description": "",
+                    "title": "The Wildchild Experience - Do What You Like (Ten Minute Mix)"
+                },
+                {
+                    "_duration": "599",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=WsoKLXBpfWU",
+                    "description": "",
+                    "title": "The Wildchild Experience - Know Eye (Long As You Like Mix)"
+                },
+                {
+                    "_duration": "328",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=5UZ7YBW4RoI",
+                    "description": "",
+                    "title": "The Wildchild Experience - Deep In The Night"
+                },
+                {
+                    "_duration": "357",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=oABcfGMS7A4",
+                    "description": "",
+                    "title": "Wildchild - Jump 2 My Beat"
+                }
+            ]
+        }
+    }
+}

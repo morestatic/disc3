@@ -1,0 +1,202 @@
+{
+    "release": {
+        "_id": "92663",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "Venetjoki",
+                "id": "1529",
+                "join": "",
+                "name": "Martin Venetjoki",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "9",
+                    "entity_type_name": "Distributed By",
+                    "id": "285289",
+                    "name": "Prime Distribution",
+                    "resource_url": "https://api.discogs.com/labels/285289"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "40",
+                    "name": "Loaded Records",
+                    "resource_url": "https://api.discogs.com/labels/40"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "40",
+                    "name": "Loaded Records",
+                    "resource_url": "https://api.discogs.com/labels/40"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "265761",
+                    "name": "Container Publishing",
+                    "resource_url": "https://api.discogs.com/labels/265761"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "30",
+                    "entity_type_name": "Lacquer Cut At",
+                    "id": "158759",
+                    "name": "The Exchange",
+                    "resource_url": "https://api.discogs.com/labels/158759"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "17",
+                    "entity_type_name": "Pressed By",
+                    "id": "754",
+                    "name": "EMI Records",
+                    "resource_url": "https://api.discogs.com/labels/754"
+                }
+            ]
+        },
+        "country": "UK",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "Guy's",
+                    "id": "369860",
+                    "join": "",
+                    "name": "Guy Davie",
+                    "role": "Lacquer Cut By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1529",
+                    "join": "",
+                    "name": "Martin Venetjoki",
+                    "role": "Written-By, Producer",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Text",
+                    "_type": "Barcode",
+                    "_value": "5 025425 4073 21"
+                },
+                {
+                    "_description": "Side A runout",
+                    "_type": "Matrix / Runout",
+                    "_value": "LOAD 073 A-2-1-1 ∀ Guy's THE EXCHANGE"
+                },
+                {
+                    "_description": "Side B runout",
+                    "_type": "Matrix / Runout",
+                    "_value": "LOAD 073 B-2-1-1 ∀"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "604",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "596",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "602",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "LOAD 73",
+                "_id": "40",
+                "_name": "Loaded Records"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "349584"
+        },
+        "notes": "Distributed by Prime: 020 8601 2200\nMade in England\n℗ Loaded Records 2000\n© Loaded Records 2000",
+        "released": "2000",
+        "styles": {
+            "style": "House"
+        },
+        "title": "Cheap Heat",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A1",
+                    "title": "Cheap Heat"
+                },
+                {
+                    "duration": "",
+                    "position": "AA1",
+                    "title": "Festarinna"
+                },
+                {
+                    "duration": "",
+                    "position": "AA2",
+                    "title": "Big City"
+                }
+            ]
+        },
+        "videos": {
+            "video": {
+                "_duration": "536",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=zuoR-7pDnOU",
+                "description": "2000. Cheap Heat Vinyl, 12  -  Loaded Records\nWritten-By, Producer – Martin Venetjoki",
+                "title": "Venetjoki  -  Cheap Heat"
+            }
+        }
+    }
+}

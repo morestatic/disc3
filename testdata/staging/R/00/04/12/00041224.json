@@ -1,0 +1,150 @@
+{
+    "release": {
+        "_id": "41224",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "JT Donaldson",
+                "id": "185",
+                "join": "",
+                "name": "J.T. Donaldson",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "US",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "173901",
+                    "join": "",
+                    "name": "Mike Constantino",
+                    "role": "Executive Producer, Other [A \u0026 R]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "24045",
+                    "join": "",
+                    "name": "Sean Holland",
+                    "role": "Executive Producer, Other [A \u0026 R]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "30416",
+                    "join": "",
+                    "name": "Joseph Longo",
+                    "role": "Mastered By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "369955",
+                    "join": "",
+                    "name": "Don Grossinger",
+                    "role": "Mastered By [Cut]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "JT Donaldson",
+                    "id": "185",
+                    "join": "",
+                    "name": "J.T. Donaldson",
+                    "role": "Written-By, Producer",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "45 RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "FPR 010",
+                "_id": "50",
+                "_name": "Fair Park"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "65631"
+        },
+        "notes": "Fair Park's lost recordings\r\n\r\nFair Park Records Copyright Control.\r\nMastered for Pal Joey Productions.\r\nP\u0026C 2002 FPR0010 \r\nDistributed by Satellite Records Label Group.\r\n\r\n\u003cu\u003eRun-outs:\u003c/u\u003e\r\nFPR-010-A / FPR-010-B\r\nEUROPADISK DMM NY USA 57605 DON GROSSINGER\r\n\r\nAccurate artist: Money Flowers presents JT Donaldson",
+        "released": "2002",
+        "styles": {
+            "style": [
+                "House",
+                "Deep House"
+            ]
+        },
+        "title": "Sounds Like Fun",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A",
+                    "title": "Almost There (Re-Defined Mix)"
+                },
+                {
+                    "duration": "",
+                    "position": "B",
+                    "title": "Clockwork"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "462",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=dMiBFuspe8U",
+                    "description": "2002. Sounds Like Fun Vinyl, 12  -  Fair Park\nhttps://www.youtube.com/watch?v=WafagocjDqo\nhttps://www.discogs.com/JT-Donaldson-Sounds-Like-Fun/release/41224",
+                    "title": "JT Donaldson  -  Almost There (re-defined mix)"
+                },
+                {
+                    "_duration": "524",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=WafagocjDqo",
+                    "description": "2002. Sounds Like Fun Vinyl, 12  -  Fair Park\nhttps://www.discogs.com/JT-Donaldson-Sounds-Like-Fun/release/41224",
+                    "title": "JT Donaldson  -  Clockwork"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,161 @@
+{
+    "release": {
+        "_id": "107087",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "292739",
+                "join": "",
+                "name": "From Within",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": {
+                "catno": "",
+                "entity_type": "17",
+                "entity_type_name": "Pressed By",
+                "id": "291931",
+                "name": "CD Plant MFG",
+                "resource_url": "https://api.discogs.com/labels/291931"
+            }
+        },
+        "country": "Germany",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "835",
+                    "join": "",
+                    "name": "Richie Hawtin",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "CD PLANT MFG PW 11 CDMA1"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "592",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "594",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "465",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PW 11",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "21912"
+        },
+        "notes": "From Within Our Minds...to Yours\r\n\r\nFROM WITHIN\r\nFRANKFURT 1994\r\n\r\nSpecial thanks from P.N. to:\r\n\r\nElisabeth\r\nFABiA\r\nKathrin\r\nLudwig Rehberg of EMS\r\nCharles (the pervert)\r\nAnarchic\r\n\r\nSpecial thanks from R.H. to:\r\n\r\nMatthew\r\nMum \u0026 Dad\r\nJohn \u0026 everyone at Plus 8\r\nGreg \u0026 Mennie\r\nRob \u0026 Kate\r\nSimon \u0026 Karl (I'm not coming back)\r\nSam \u0026 Alan (big 3)\r\nCrazy Jason (hoover ?)\r\nMichelle van Lare\r\nand\r\nEveryone at Hardest\r\n\r\nLimitation: 500",
+        "released": "1994-02-12",
+        "styles": {
+            "style": [
+                "Experimental",
+                "Ambient",
+                "Acid",
+                "IDM"
+            ]
+        },
+        "title": "From Within",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "13:25",
+                    "position": "1",
+                    "title": "Snake Charmer"
+                },
+                {
+                    "duration": "12:25",
+                    "position": "2",
+                    "title": "Sad Alliance"
+                },
+                {
+                    "duration": "29:18",
+                    "position": "3",
+                    "title": "A Million Miles To Earth"
+                },
+                {
+                    "duration": "12:20",
+                    "position": "4",
+                    "title": "Homeward Bound"
+                },
+                {
+                    "duration": "3:19",
+                    "position": "5",
+                    "title": "Lost"
+                }
+            ]
+        },
+        "videos": {
+            "video": {
+                "_duration": "4245",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=t5iHc2OQsnQ",
+                "description": "Artist: Pete Namlook \u0026 Richie Hawtin\nAlbum: From Within\nLabel: Fax\nYear: 1994\n\n1. Snake Charmer [00:00]\n2. Sad Alliance [13:24]\n3. A Million Miles to Earth [25:50]\n4. Homeward Bound [55:08]\n5. Lost [1:07:28]\n\n\nAll music uploaded to this channel is availab",
+                "title": "Pete Namlook \u0026 Richie Hawtin - From Within (Full Album) [1994]"
+            }
+        }
+    }
+}

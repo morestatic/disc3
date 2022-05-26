@@ -1,0 +1,324 @@
+{
+    "release": {
+        "_id": "16569",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "194",
+                "join": "",
+                "name": "Various",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "17787",
+                    "entity_type": "17",
+                    "entity_type_name": "Pressed By",
+                    "id": "277449",
+                    "name": "P+O Pallas",
+                    "resource_url": "https://api.discogs.com/labels/277449"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "26",
+                    "entity_type_name": "Produced At",
+                    "id": "294391",
+                    "name": "Sonic Studios Frankfurt",
+                    "resource_url": "https://api.discogs.com/labels/294391"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Needs Vote",
+        "extraartists": "",
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Limited Edition",
+                        "Compilation"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "PK 08/06 P+O-17787-A1 08-93"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6229"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "587",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "586",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "589",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "594",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "594",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "472",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/06",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "280944"
+        },
+        "notes": "Ambient music was invented by nature !\r\n\r\n= Produced at Sonic Studios Frankfurt for Namlook Productions =\r\n\r\nLimitation: 500",
+        "released": "1993-08-30",
+        "styles": {
+            "style": "Ambient"
+        },
+        "title": "Ambient-Compilation 4",
+        "tracklist": {
+            "track": [
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "15287",
+                            "join": "",
+                            "name": "Deltraxx",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:03",
+                    "position": "1",
+                    "title": "Identification"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "15290",
+                            "join": "",
+                            "name": "Crypt Corp.",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:09",
+                    "position": "2",
+                    "title": "Mordor"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "5279",
+                            "join": "",
+                            "name": "Air (2)",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "7:35",
+                    "position": "3",
+                    "title": "Je Suis Triste Et Seule Ici"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "2908",
+                            "join": "",
+                            "name": "Sequential",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:27",
+                    "position": "4",
+                    "title": "Duane Sky"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "2907",
+                            "join": "",
+                            "name": "Escape",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "7:05",
+                    "position": "5",
+                    "title": "Trip To Polaris"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "15295",
+                            "join": "",
+                            "name": "Olympic",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:51",
+                    "position": "6",
+                    "title": "Subconscious Memories"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "2910",
+                            "join": "",
+                            "name": "Hearts Of Space",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "1:43",
+                    "position": "7",
+                    "title": "70's Beauty"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "14128",
+                            "join": "",
+                            "name": "4Voice",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "7:55",
+                    "position": "8",
+                    "title": "Light"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "14125",
+                            "join": "",
+                            "name": "Sextant",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "14:55",
+                    "position": "9",
+                    "title": "Live At XS I"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "15289",
+                            "join": "",
+                            "name": "Syn",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "9:04",
+                    "position": "10",
+                    "title": "Jugoslavia"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "2909",
+                            "join": "",
+                            "name": "Silence",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "11:04",
+                    "position": "11",
+                    "title": "Sweet Angels"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "4729",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=sXXK6qtVWag",
+                    "description": "Released in August, 1993 on FAX +49-69/450464\nCompilation of ambient tracks from early 12” vinyl EPs. Continous mix.\n\n\n00:00:00 Deltraxx (Pete Namlook) - Identification\n00:05:03 Crypt Corp. (Pete Namlook \u0026 Peter Prochir) - Mordor\n00:9:11 Air (Pete Namlo",
+                    "title": "[PK 08/06] Pete Namlook +various artists - FAX Ambient Compilation 4"
+                },
+                {
+                    "_duration": "4729",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=US5FS3Id7TI",
+                    "description": "1 –Deltraxx Identification 5:06\n2 –Crypt Corp. Mordor 5:10\n3 –Air (2) Je Suis Triste Et Seule Ici 8:27\n4 –Sequential Duane Sky 5:43\n5 –Escape Trip To Polaris 8:02\n6 –Olympic Subconscious Memory 5:33\n7 –Hearts Of Space 70's Beauty 2:27\n8 –4",
+                    "title": "FAX Ambient Compilation 4 1993"
+                },
+                {
+                    "_duration": "687",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=rQY4hH4VNmY",
+                    "description": "Released on the SYN 2XCD album, On Syn 4 12 EP  and  on the FAX Label Ambient Compilation 4 CD, 1993  / 1994\nMusic by:  Pete Namlook 1994\nVideo by: Abstructure",
+                    "title": "SYN - Juguslavia"
+                }
+            ]
+        }
+    }
+}

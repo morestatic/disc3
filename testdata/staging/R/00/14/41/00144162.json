@@ -1,0 +1,289 @@
+{
+    "release": {
+        "_id": "144162",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "194",
+                "join": "",
+                "name": "Various",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "France",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "444139",
+                    "join": "",
+                    "name": "Alexandre Jaillon",
+                    "role": "Compiled By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1970733",
+                    "join": "",
+                    "name": "Bertrand \"Bétail\" Lacanal",
+                    "role": "Design",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "Sampler"
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "362",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "357"
+                },
+                {
+                    "_height": "577",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "589"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "TRAX032",
+                "_id": "3349",
+                "_name": "Trax Sampler"
+            }
+        },
+        "notes": "Comes in a cardsleeve",
+        "released": "2000-07-00",
+        "styles": {
+            "style": [
+                "House",
+                "Dub",
+                "Techno",
+                "Deep House"
+            ]
+        },
+        "title": "Trax Sampler 032",
+        "tracklist": {
+            "track": [
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1375",
+                            "join": "",
+                            "name": "Benjamin Diamond",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:17",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1374",
+                            "join": "",
+                            "name": "Alan Braxe",
+                            "role": "Co-producer",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "1",
+                    "title": "Reading In Our Mind (Edit)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "19259",
+                            "join": "",
+                            "name": "Le Peuple De L'Herbe",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "3:41",
+                    "position": "2",
+                    "title": "THC"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "3272",
+                            "join": "",
+                            "name": "Aim",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:04",
+                    "position": "3",
+                    "title": "Demonique"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "50",
+                            "join": "",
+                            "name": "ADNY",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:46",
+                    "position": "4",
+                    "title": "Never Leave You"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "9379",
+                            "join": "",
+                            "name": "Commercial Breakup",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:39",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1544",
+                            "join": "",
+                            "name": "Steve Bug",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "5",
+                    "title": "All I Love Is Green (Steve Bug Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "51792",
+                            "join": "",
+                            "name": "Hilight Tribe",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "3:47",
+                    "position": "6",
+                    "title": "Electric Sage (Edit)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "15217",
+                            "join": "",
+                            "name": "Lab Insect",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "7:06",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "3893",
+                            "join": "",
+                            "name": "Justin Berkovi",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "7",
+                    "title": "Faubourg St Germain (Justin Berkovi Remix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "611",
+                            "join": "",
+                            "name": "Pole",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:12",
+                    "position": "8",
+                    "title": "Sachtesachte"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "351",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=vASmiqC6Rtk",
+                    "description": "Subscribe for more VOID music : http://bit.ly/1CcDSE0\nBuy « Strange Attitude » on iTunes : http://bit.ly/1pgBfJb\nListen to « Strange Attitude » on Youtube : http://bit.ly/YOMJyt",
+                    "title": "Benjamin Diamond - Read in Your Mind"
+                },
+                {
+                    "_duration": "320",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=R8R_WxVuzyY",
+                    "description": "© Grand Central Records 1999\n\nAim official site (archived): http://web.archive.org/web/20070930161609/http://www.aticrecords.com/artist_aim.html\nAim on Facebook: https://www.facebook.com/aticrecords\nGrand Central Records site (archived): http://web.archi",
+                    "title": "(((IEMN))) Aim - Demonique - Grand Central Records 1999 - Trip Hop, Downtempo"
+                },
+                {
+                    "_duration": "362",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=7n58pfc5Rso",
+                    "description": "May/01/2001. Never Leave You (Incl. Steve Bug, Mull \u0026 Rachmad and Mateo Murphy Remixes) Vinyl, 12, Maxi-Single  -  Turbo Recordings Canada\nADNY real name: Alexi Delano\nTurbo Recordings was founded by Tiga in Montreal back in 1998.\nhttp://www.discogs.com/",
+                    "title": "ADNY  -  Never Leave You (Original)"
+                },
+                {
+                    "_duration": "344",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=jWT-seaTYfA",
+                    "description": "",
+                    "title": "Commercial Breakup - All I love is green (Steve Bug Remix)"
+                },
+                {
+                    "_duration": "327",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=pL94eXgefyQ",
+                    "description": "ॐ Tribal trance\r\nKosmik Hoboes 2000",
+                    "title": "HILIGHT TRIBE - Electric sage"
+                },
+                {
+                    "_duration": "313",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=GxeLSvNQzn0",
+                    "description": "sixth track from 2000 compilation on ~scape 'Staedtizism'\n\nCatalog: ~scape 005\n\nhttps://www.discogs.com/Various-Staedtizism/release/35126",
+                    "title": "Pole - Sachtesachte"
+                }
+            ]
+        }
+    }
+}

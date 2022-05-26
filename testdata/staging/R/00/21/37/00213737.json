@@ -1,0 +1,87 @@
+{
+    "release": {
+        "_id": "213737",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "75000",
+                "join": "",
+                "name": "Emulsion",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "UK",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "532",
+                "join": "",
+                "name": "Ashley Beedle",
+                "role": "Remix",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "Single Sided",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": {
+                "_height": "500",
+                "_type": "primary",
+                "_uri": "",
+                "_uri150": "",
+                "_width": "500"
+            }
+        },
+        "labels": {
+            "label": {
+                "_catno": "LOAD 084",
+                "_id": "40",
+                "_name": "Loaded Records"
+            }
+        },
+        "released": "2002",
+        "styles": {
+            "style": [
+                "House",
+                "Deep House"
+            ]
+        },
+        "title": "Kinda Blue",
+        "tracklist": {
+            "track": {
+                "duration": "",
+                "position": "A",
+                "title": "Kinda Blue (Ashley Beedle Remix)"
+            }
+        },
+        "videos": {
+            "video": {
+                "_duration": "501",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=Imd2Fzul3tw",
+                "description": "Emulsion ‎– Kinda Blue\r\nLabel: Loaded Records ‎– LOAD 084\r\nFormat: Vinyl, 12, Single Sided, Limited Edition\r\nCountry: UK\r\nReleased: 2002\r\nGenre: Electronic\r\nStyle: House, Deep House",
+                "title": "Emulsion ‎- Kinda Blue (Ashley Beedle Remix)"
+            }
+        }
+    }
+}

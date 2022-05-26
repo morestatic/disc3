@@ -1,0 +1,459 @@
+{
+    "release": {
+        "_id": "3333",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "30",
+                "join": "",
+                "name": "Groove Collective",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "157",
+                    "name": "Reprise Records",
+                    "resource_url": "https://api.discogs.com/labels/157"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "157",
+                    "name": "Reprise Records",
+                    "resource_url": "https://api.discogs.com/labels/157"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "1255",
+                    "name": "WEA International Inc.",
+                    "resource_url": "https://api.discogs.com/labels/1255"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "1255",
+                    "name": "WEA International Inc.",
+                    "resource_url": "https://api.discogs.com/labels/1255"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "10",
+                    "entity_type_name": "Manufactured By",
+                    "id": "264250",
+                    "name": "WEA Manufacturing",
+                    "resource_url": "https://api.discogs.com/labels/264250"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "902395",
+                    "name": "Metropolis Cafe",
+                    "resource_url": "https://api.discogs.com/labels/902395"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "268051",
+                    "name": "Clinton Recording Studio",
+                    "resource_url": "https://api.discogs.com/labels/268051"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "288540",
+                    "name": "River Sound",
+                    "resource_url": "https://api.discogs.com/labels/288540"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "39",
+                    "entity_type_name": "Recorded By",
+                    "id": "316928",
+                    "name": "Effanel Music Mobile Truck",
+                    "resource_url": "https://api.discogs.com/labels/316928"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "27",
+                    "entity_type_name": "Mixed At",
+                    "id": "288540",
+                    "name": "River Sound",
+                    "resource_url": "https://api.discogs.com/labels/288540"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "36",
+                    "entity_type_name": "Edited At",
+                    "id": "391309",
+                    "name": "Shaolin Temple Of Soul",
+                    "resource_url": "https://api.discogs.com/labels/391309"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "31",
+                    "entity_type_name": "Glass Mastered At",
+                    "id": "27576",
+                    "name": "Specialty Records Corporation",
+                    "resource_url": "https://api.discogs.com/labels/27576"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "17",
+                    "entity_type_name": "Pressed By",
+                    "id": "211933",
+                    "name": "Allied Record Company",
+                    "resource_url": "https://api.discogs.com/labels/211933"
+                }
+            ]
+        },
+        "country": "US",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "92196",
+                    "join": "",
+                    "name": "Jonathan Maron",
+                    "role": "Bass Guitar",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "566386",
+                    "join": "",
+                    "name": "Chris Theberge",
+                    "role": "Congas, Percussion",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "158991",
+                    "join": "",
+                    "name": "Genji Siraisi",
+                    "role": "Drums",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "189321",
+                    "join": "",
+                    "name": "Daniel Wyatt",
+                    "role": "Edited By [ProTools]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "36607",
+                    "join": "",
+                    "name": "Itaal Shur",
+                    "role": "Electric Piano [Fender Rhodes], Piano, Keyboards",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "134633",
+                    "join": "",
+                    "name": "Elliot Scheiner",
+                    "role": "Engineer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "6549",
+                    "join": "",
+                    "name": "Richard Worth",
+                    "role": "Flute, Alto Flute, Piccolo Flute, Flute [Bonsuri], Kalimba, Pipe [PVC Pipe]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "192585",
+                    "join": "",
+                    "name": "Gary Katz",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "28896",
+                    "join": "",
+                    "name": "Jay Rodriguez",
+                    "role": "Tenor Saxophone, Soprano Saxophone, Baritone Saxophone, Bass Clarinet, Flute [Bonsuri]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "Gordon \"Nappy G\" Clay",
+                    "id": "799054",
+                    "join": "",
+                    "name": "Gordon Clay",
+                    "role": "Timbales, Bongos, Percussion, Rap",
+                    "tracks": ""
+                },
+                {
+                    "anv": "Josh Roseman",
+                    "id": "98556",
+                    "join": "",
+                    "name": "Joshua Roseman",
+                    "role": "Trombone, Toy [Saxophones]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "198364",
+                    "join": "",
+                    "name": "Fabio Morgera",
+                    "role": "Trumpet, Flugelhorn",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "167514",
+                    "join": "",
+                    "name": "Bill Ware",
+                    "role": "Vibraphone, Percussion",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "Album"
+                }
+            }
+        },
+        "genres": {
+            "genre": [
+                "Electronic",
+                "Jazz"
+            ]
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Printed",
+                    "_type": "Barcode",
+                    "_value": "0 9362-45541-2 7"
+                },
+                {
+                    "_description": "Scanned",
+                    "_type": "Barcode",
+                    "_value": "093624554127"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "[logo] ARC 1 45541-2 SRC**01 XM1 S2"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "471",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "583",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "592",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "605",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "610",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "594",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "601",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "590",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "602",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "598",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": [
+                {
+                    "_catno": "9 45541-2",
+                    "_id": "157",
+                    "_name": "Reprise Records"
+                },
+                {
+                    "_catno": "9 45541-2",
+                    "_id": "33712",
+                    "_name": "Giant Step Records"
+                }
+            ]
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "169350"
+        },
+        "notes": "©℗ 1994 Reprise Records for the U.S. and WEA International Inc. for the world outside the U.S. Made in U.S.A.",
+        "released": "1994",
+        "styles": {
+            "style": "Acid Jazz"
+        },
+        "title": "Groove Collective",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "6:07",
+                    "position": "1",
+                    "title": "Rentstrike"
+                },
+                {
+                    "duration": "3:57",
+                    "position": "2",
+                    "title": "Balimka"
+                },
+                {
+                    "duration": "6:29",
+                    "position": "3",
+                    "title": "Nerd"
+                },
+                {
+                    "duration": "5:03",
+                    "position": "4",
+                    "title": "Rahsaanasong"
+                },
+                {
+                    "duration": "4:36",
+                    "position": "5",
+                    "title": "Ms. Grier"
+                },
+                {
+                    "duration": "6:10",
+                    "position": "6",
+                    "title": "Whatchugot"
+                },
+                {
+                    "duration": "9:52",
+                    "position": "7",
+                    "title": "El' Golpé Avisa"
+                },
+                {
+                    "duration": "6:49",
+                    "position": "8",
+                    "title": "Genji Monogatari"
+                },
+                {
+                    "duration": "3:59",
+                    "position": "9",
+                    "title": "Buddha Head"
+                },
+                {
+                    "duration": "10:29",
+                    "position": "10",
+                    "title": "Saturday Afternoon"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "438",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=HfEvzmsu2Rk",
+                    "description": "",
+                    "title": "Groove Collective-Nerd"
+                },
+                {
+                    "_duration": "367",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=DP1Z6IXS1dQ",
+                    "description": "it is generally held belief that jazz music and dance clubs are almost separate entities today.So ...I just found my first album of them on a master casette....and i upload it on cool edit PRO at 16 bit no sound correction and no filter noise...i let the",
+                    "title": "Groove Collective-Rentstrike"
+                },
+                {
+                    "_duration": "235",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=5UJZiO_5gog",
+                    "description": "",
+                    "title": "Groove Collective-Budha Head"
+                }
+            ]
+        }
+    }
+}

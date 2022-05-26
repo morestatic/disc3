@@ -1,0 +1,238 @@
+{
+    "release": {
+        "_id": "46377",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "32554",
+                "join": "",
+                "name": "+N",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "10",
+                    "entity_type_name": "Manufactured By",
+                    "id": "291931",
+                    "name": "CD Plant MFG",
+                    "resource_url": "https://api.discogs.com/labels/291931"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "265233",
+                    "name": "Sel i/s/c",
+                    "resource_url": "https://api.discogs.com/labels/265233"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "27",
+                    "entity_type_name": "Mixed At",
+                    "id": "265233",
+                    "name": "Sel i/s/c",
+                    "resource_url": "https://api.discogs.com/labels/265233"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "32554",
+                    "join": "",
+                    "name": "+N",
+                    "role": "Composed By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "36674",
+                    "join": "",
+                    "name": "Niko Heyduck",
+                    "role": "Composed By [Co-composed With]",
+                    "tracks": "4"
+                },
+                {
+                    "anv": "",
+                    "id": "24",
+                    "join": "",
+                    "name": "Atom Heart",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "32614",
+                    "join": "",
+                    "name": "Victor Sol",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "CD PLANT MFG PS 08/46 CDM01"
+                }
+            ]
+        },
+        "images": {
+            "image": {
+                "_height": "587",
+                "_type": "primary",
+                "_uri": "",
+                "_uri150": "",
+                "_width": "600"
+            }
+        },
+        "labels": {
+            "label": {
+                "_catno": "PS 08/46",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "2302831"
+        },
+        "notes": "recorded and mixed at sel i/s/c during summer 93. final mix and editing spring 94.\nmost of this record was sequenced and programmed on analogue sequencers and drummachines.\nthis record is dedicated to [url=https://www.discogs.com/artist/83238-Derek-Jarman]derek jarman[/url] and [url=https://www.discogs.com/artist/309283-Sid-Vicious]sid vicious[/url].\ninstruments: akai s950, s3200, asq10, vx600, vx90, ems polysynthi, 256 sequencer, arp2600, avatar, 1613 sequencer, powertran eti vocoder, korg ps3100, sq10 sequencer, roland sh101, tr808, tb303, oberheim matrix 1000, moog prodigy.\neffect units: lexicon lxp5 [x2], roland dep5, ken multi digital delay, yamaha spx90.\nthank you: john (optic kiss), andres noarbe, sam 22, angela.\n\nLimitation: 1000\n\nBack tray insert:\nAll tracks written by Atom Heart \u0026 Victor Sol\nFront insert:\n\"plane\" composed by +n except for track 4 co-composed with niko heyduck.\n\nReleased in standard jewel case with 4 pp. insert.",
+        "released": "1994-05-16",
+        "styles": {
+            "style": [
+                "Abstract",
+                "Ambient",
+                "Experimental",
+                "Techno"
+            ]
+        },
+        "title": "Plane",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "13:15",
+                    "position": "1",
+                    "title": "Sky"
+                },
+                {
+                    "duration": "11:37",
+                    "position": "2",
+                    "title": "Sky (Liquid)"
+                },
+                {
+                    "duration": "4:40",
+                    "position": "3",
+                    "title": "Sky (Clustered)"
+                },
+                {
+                    "duration": "10:26",
+                    "position": "4",
+                    "title": "Onda Corta"
+                },
+                {
+                    "duration": "8:34",
+                    "position": "5",
+                    "title": "256"
+                },
+                {
+                    "duration": "10:17",
+                    "position": "6",
+                    "title": "Tone Float"
+                },
+                {
+                    "duration": "11:20",
+                    "position": "7",
+                    "title": "Rain Rain"
+                },
+                {
+                    "duration": "3:29",
+                    "position": "8",
+                    "title": "Reset"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "799",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=5L5UN9nyUjc",
+                    "description": "Track 1 - Sky\nArtists : Atom Heart \u0026 Victor Sol (+N)\nAlbum : Plane\n1994 FAX +49-69/450464",
+                    "title": "Atom Heart \u0026 Victor Sol - Sky (Plane)"
+                },
+                {
+                    "_duration": "699",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=3L8cx8AabME",
+                    "description": "Track 2 - Sky (Liquid)\nArtists : Atom Heart \u0026 Victor Sol (+N)\nAlbum : Plane\n1994 FAX +49-69/450464",
+                    "title": "Atom Heart \u0026 Victor Sol - Sky (Liquid) (Plane)"
+                },
+                {
+                    "_duration": "284",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=aSqzOH7DMR4",
+                    "description": "Track 3 - Sky (Clustered)\nArtists : Atom Heart \u0026 Victor Sol (+N)\nAlbum : Plane\n1994 FAX +49-69/450464",
+                    "title": "Atom Heart \u0026 Victor Sol - Sky (Clustered) (Plane)"
+                },
+                {
+                    "_duration": "629",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=gxPqNmCH9Wg",
+                    "description": "Track 4 - Onda Corta\nArtists : Atom Heart \u0026 Victor Sol (+N) (co-written with Nikolaus Heyduck)\nAlbum : Plane\n1994 FAX +49-69/450464",
+                    "title": "Atom Heart \u0026 Victor Sol - Onda Corta (Plane)"
+                },
+                {
+                    "_duration": "518",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=rjpLGXw6Rro",
+                    "description": "Track 5 - 256\nArtists : Atom Heart \u0026 Victor Sol (+N)\nAlbum : Plane\n1994 FAX +49-69/450464",
+                    "title": "Atom Heart \u0026 Victor Sol - 256 (Plane)"
+                },
+                {
+                    "_duration": "621",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=_wsalApzBq8",
+                    "description": "Track 6 - Tone Float\nArtists : Atom Heart \u0026 Victor Sol (+N)\nAlbum : Plane\n1994 FAX +49-69/450464",
+                    "title": "Atom Heart \u0026 Victor Sol - Tone Float (Plane)"
+                },
+                {
+                    "_duration": "682",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=IVds6jsNdts",
+                    "description": "Track 7 - Rain Rain\nArtists : Atom Heart \u0026 Victor Sol (+N)\nAlbum : Plane\n1994 FAX +49-69/450464",
+                    "title": "Atom Heart \u0026 Victor Sol - Rain Rain (Plane)"
+                }
+            ]
+        }
+    }
+}

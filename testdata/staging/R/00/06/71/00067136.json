@@ -1,0 +1,410 @@
+{
+    "release": {
+        "_id": "67136",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "194",
+                "join": "",
+                "name": "Various",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "16",
+                    "entity_type_name": "Made By",
+                    "id": "291931",
+                    "name": "CD Plant MFG",
+                    "resource_url": "https://api.discogs.com/labels/291931"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "707455",
+                    "name": "XS, Frankfurt",
+                    "resource_url": "https://api.discogs.com/labels/707455"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Needs Vote",
+        "extraartists": "",
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Limited Edition",
+                        "Compilation"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "CD PLANT MFG PK 08/86 CDM01"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "468",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/86",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "\"Best of the Chill-Live-Sessions at XS, Frankfurt\"\r\nSpecial thanks to Dr. Atmo (who made this album possible).\r\nAlll tracks written by the performing artists\r\n\r\nLimitation : 1,000",
+        "released": "1994-02-07",
+        "styles": {
+            "style": "Ambient"
+        },
+        "title": "Replugged",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "14:35",
+                    "position": "",
+                    "sub_tracks": {
+                        "track": [
+                            {
+                                "artists": {
+                                    "artist": {
+                                        "anv": "",
+                                        "id": "15296",
+                                        "join": "",
+                                        "name": "Mario Hana",
+                                        "role": "",
+                                        "tracks": ""
+                                    }
+                                },
+                                "duration": "",
+                                "position": "1.1",
+                                "title": "Intro"
+                            },
+                            {
+                                "artists": {
+                                    "artist": {
+                                        "anv": "",
+                                        "id": "15296",
+                                        "join": "",
+                                        "name": "Mario Hana",
+                                        "role": "",
+                                        "tracks": ""
+                                    }
+                                },
+                                "duration": "",
+                                "position": "1.2",
+                                "title": "Somewhere In Heaven"
+                            },
+                            {
+                                "artists": {
+                                    "artist": {
+                                        "anv": "",
+                                        "id": "15296",
+                                        "join": "",
+                                        "name": "Mario Hana",
+                                        "role": "",
+                                        "tracks": ""
+                                    }
+                                },
+                                "duration": "",
+                                "position": "1.3",
+                                "title": "Spacecubes"
+                            },
+                            {
+                                "artists": {
+                                    "artist": {
+                                        "anv": "",
+                                        "id": "15296",
+                                        "join": "",
+                                        "name": "Mario Hana",
+                                        "role": "",
+                                        "tracks": ""
+                                    }
+                                },
+                                "duration": "",
+                                "position": "1.4",
+                                "title": "Montréal"
+                            }
+                        ]
+                    },
+                    "title": "Mario Hana"
+                },
+                {
+                    "duration": "15:03",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "223468",
+                                "join": "",
+                                "name": "Mark N-R-G",
+                                "role": "Featuring",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "Nino Tielman",
+                                "id": "40896",
+                                "join": "",
+                                "name": "Nino Tielmann",
+                                "role": "Featuring",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "",
+                    "sub_tracks": {
+                        "track": [
+                            {
+                                "artists": {
+                                    "artist": {
+                                        "anv": "",
+                                        "id": "15297",
+                                        "join": "",
+                                        "name": "Chill Out Possee",
+                                        "role": "",
+                                        "tracks": ""
+                                    }
+                                },
+                                "duration": "",
+                                "position": "2.1",
+                                "title": "Railway Journey"
+                            },
+                            {
+                                "artists": {
+                                    "artist": {
+                                        "anv": "",
+                                        "id": "15297",
+                                        "join": "",
+                                        "name": "Chill Out Possee",
+                                        "role": "",
+                                        "tracks": ""
+                                    }
+                                },
+                                "duration": "",
+                                "position": "2.2",
+                                "title": "Wirklichkeit"
+                            }
+                        ]
+                    },
+                    "title": "Chill Out Possee"
+                },
+                {
+                    "duration": "23:09",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "Sivamani",
+                                "id": "2376040",
+                                "join": "",
+                                "name": "Anandan Sivamani",
+                                "role": "Featuring",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "2116051",
+                                "join": "",
+                                "name": "G.O.D. (10)",
+                                "role": "Featuring",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "16007",
+                                "join": "",
+                                "name": "Redagain P",
+                                "role": "Featuring",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "2116052",
+                                "join": "",
+                                "name": "Steff Bollack",
+                                "role": "Featuring",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "",
+                    "sub_tracks": {
+                        "track": [
+                            {
+                                "artists": {
+                                    "artist": {
+                                        "anv": "",
+                                        "id": "944",
+                                        "join": "",
+                                        "name": "Deep Space Network",
+                                        "role": "",
+                                        "tracks": ""
+                                    }
+                                },
+                                "duration": "",
+                                "position": "3.1",
+                                "title": "Earth To Infinity Performance (Intro)"
+                            },
+                            {
+                                "artists": {
+                                    "artist": {
+                                        "anv": "",
+                                        "id": "944",
+                                        "join": "",
+                                        "name": "Deep Space Network",
+                                        "role": "",
+                                        "tracks": ""
+                                    }
+                                },
+                                "duration": "",
+                                "position": "3.2",
+                                "title": "Earth To Infinity Performance (Part I)"
+                            },
+                            {
+                                "artists": {
+                                    "artist": {
+                                        "anv": "",
+                                        "id": "944",
+                                        "join": "",
+                                        "name": "Deep Space Network",
+                                        "role": "",
+                                        "tracks": ""
+                                    }
+                                },
+                                "duration": "",
+                                "position": "3.3",
+                                "title": "Earth To Infinity Performance (Part II)"
+                            },
+                            {
+                                "artists": {
+                                    "artist": {
+                                        "anv": "",
+                                        "id": "944",
+                                        "join": "",
+                                        "name": "Deep Space Network",
+                                        "role": "",
+                                        "tracks": ""
+                                    }
+                                },
+                                "duration": "",
+                                "position": "3.4",
+                                "title": "Earth To Infinity Performance (Outro)"
+                            }
+                        ]
+                    },
+                    "title": "Deep Space Network"
+                },
+                {
+                    "duration": "14:43",
+                    "position": "",
+                    "sub_tracks": {
+                        "track": {
+                            "artists": {
+                                "artist": {
+                                    "anv": "Namlook",
+                                    "id": "1910",
+                                    "join": "",
+                                    "name": "Pete Namlook",
+                                    "role": "",
+                                    "tracks": ""
+                                }
+                            },
+                            "duration": "",
+                            "position": "4",
+                            "title": "Air \"You\" Coda"
+                        }
+                    },
+                    "title": "Namlook"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "4045",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=k4bdEGRPTVo",
+                    "description": "Released in February, 1994 on FAX +49-60/450464\n\nBest of the Chill-Live-Sessions at XS, Frankfurt\n\n00:00 – Mario Hana\n14:36 – Chill Out Posse (Featuring – Mark N-R-G, Nino Tielman)\n29:37 – Deep Space Network (Featuring – Sivamani, G.O.D., Redaga",
+                    "title": "[PK 08/86] Pete Namlook + various artists - Replugged"
+                },
+                {
+                    "_duration": "888",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=vwD0pijlu0M",
+                    "description": "Taken from:\nReplugged - Best of the Chill-Live-Sessions at XS, Frankfurt. PK 08/86\n\nSession parts titles: \n1. Intro\n2. Somewhere In Heaven\n3. Spacecubes\n4. Montréal\n\nMusic by: Mario Hana, 1994\nVideo and Mastering by - Abstructure",
+                    "title": "Mario Hana - Live in XS"
+                },
+                {
+                    "_duration": "601",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=3l6cSVTrMYY",
+                    "description": "thx 4 this masterpiece, pete.",
+                    "title": "Namlook - Air You Coda"
+                }
+            ]
+        }
+    }
+}

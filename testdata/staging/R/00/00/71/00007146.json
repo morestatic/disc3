@@ -1,0 +1,180 @@
+{
+    "release": {
+        "_id": "7146",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "60",
+                "join": "",
+                "name": "Pete Moss",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "1566086",
+                    "name": "The Recline Center",
+                    "resource_url": "https://api.discogs.com/labels/1566086"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "12",
+                    "name": "Large Records",
+                    "resource_url": "https://api.discogs.com/labels/12"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "12",
+                    "name": "Large Records",
+                    "resource_url": "https://api.discogs.com/labels/12"
+                }
+            ]
+        },
+        "country": "US",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "473978",
+                    "join": "",
+                    "name": "Jeff Craven",
+                    "role": "Executive-Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "60",
+                    "join": "",
+                    "name": "Pete Moss",
+                    "role": "Written-By, Producer, Arranged By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_type": "Barcode",
+                "_value": "752743005919"
+            }
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "249",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "595",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "594"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "LAR-059",
+                "_id": "12",
+                "_name": "Large Records"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "73501"
+        },
+        "released": "2001",
+        "styles": {
+            "style": "Tech House"
+        },
+        "title": "Deep Desires",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A",
+                    "title": "Deep Desires"
+                },
+                {
+                    "duration": "",
+                    "position": "B1",
+                    "title": "Break Free"
+                },
+                {
+                    "duration": "",
+                    "position": "B2",
+                    "title": "Understanding"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "374",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=nkC6SyhL7r4",
+                    "description": "2001. Deep Desires Vinyl, 12  -  Large Records",
+                    "title": "Pete Moss  -  Deep Desires"
+                },
+                {
+                    "_duration": "364",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=hmvyTYNtLb4",
+                    "description": "2001. Deep Desires Vinyl 12  -  Large Records",
+                    "title": "Pete Moss  -  Break Free"
+                },
+                {
+                    "_duration": "326",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=p9I2_YyGCp8",
+                    "description": "Name of Compilation: Various - Groove Metropolis Volume 1\r\nNumber of Discs: 1\r\nPublished: 17 Dec 2007\r\nLabel: Large Records\r\nCould be found at: Amazon.com (best choice), or discogs.com\r\nListen to the Compilation: allmusic.com",
+                    "title": "(VA) Groove Metropolis V1 - Pete Moss - Understanding"
+                }
+            ]
+        }
+    }
+}

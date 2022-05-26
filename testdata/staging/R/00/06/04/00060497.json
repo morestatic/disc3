@@ -1,0 +1,804 @@
+{
+    "release": {
+        "_id": "60497",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "800",
+                "join": "",
+                "name": "Terry Lee Brown Jr.",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "4",
+                    "entity_type_name": "Record Company",
+                    "id": "28618",
+                    "name": "UCMG",
+                    "resource_url": "https://api.discogs.com/labels/28618"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "9",
+                    "entity_type_name": "Distributed By",
+                    "id": "166362",
+                    "name": "Fine Audio Distribution",
+                    "resource_url": "https://api.discogs.com/labels/166362"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "800",
+                    "join": "",
+                    "name": "Terry Lee Brown Jr.",
+                    "role": "DJ Mix",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1832542",
+                    "join": "",
+                    "name": "UC Graphic",
+                    "role": "Layout, Artwork",
+                    "tracks": ""
+                },
+                {
+                    "anv": "Ambiel",
+                    "id": "7366990",
+                    "join": "",
+                    "name": "Stephie Ambiel",
+                    "role": "Photography By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "Ambach",
+                    "id": "1847742",
+                    "join": "",
+                    "name": "Ulrich Ambach",
+                    "role": "Photography By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Compilation",
+                        "Mixed"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Barcode",
+                    "_value": "8 08287 02882 9"
+                },
+                {
+                    "_type": "Mastering SID Code",
+                    "_value": "IFPI 9728"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "UCMG PLAC033-2  A270597-01"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 04675"
+                },
+                {
+                    "_type": "Rights Society",
+                    "_value": "GEMA"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "588",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "484",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PLAC CD 033-2",
+                "_id": "244",
+                "_name": "Plastic City"
+            }
+        },
+        "notes": "2: credited as  \"Beat Loaf - U Too\" - taken from [r33924]",
+        "released": "2002-10-07",
+        "styles": {
+            "style": [
+                "Tribal House",
+                "Deep House",
+                "Tech House"
+            ]
+        },
+        "title": "Terry's Café 6",
+        "tracklist": {
+            "track": [
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "4491",
+                            "join": "",
+                            "name": "Ciudad Feliz",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "333754",
+                            "join": "",
+                            "name": "Julian Sanza",
+                            "role": "Producer, Written-By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "1",
+                    "title": "Life Is So Amazing"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "3184",
+                            "join": "",
+                            "name": "Inland Knights",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "71501",
+                                "join": "",
+                                "name": "Andy Riley",
+                                "role": "Producer, Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "192879",
+                                "join": "",
+                                "name": "Laurence Ritchie",
+                                "role": "Producer, Written-By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "2",
+                    "title": "U Too"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "5383",
+                            "join": "",
+                            "name": "Eddie Richards",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "5383",
+                            "join": "",
+                            "name": "Eddie Richards",
+                            "role": "Producer, Written-By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "3",
+                    "title": "Someday"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "3313",
+                            "join": "",
+                            "name": "Reset",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "Eastwick",
+                                "id": "6486",
+                                "join": "",
+                                "name": "Elliot Eastwick",
+                                "role": "Mixed By, Producer",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "Garnett",
+                                "id": "340820",
+                                "join": "",
+                                "name": "Merlin Garnett",
+                                "role": "Mixed By, Producer",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "Hollway",
+                                "id": "6485",
+                                "join": "",
+                                "name": "Miles Hollway",
+                                "role": "Mixed By, Producer",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "3313",
+                                "join": "",
+                                "name": "Reset",
+                                "role": "Mixed By, Producer",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "Eastwick",
+                                "id": "6486",
+                                "join": "",
+                                "name": "Elliot Eastwick",
+                                "role": "Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "Garnett",
+                                "id": "340820",
+                                "join": "",
+                                "name": "Merlin Garnett",
+                                "role": "Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "Hollway",
+                                "id": "6485",
+                                "join": "",
+                                "name": "Miles Hollway",
+                                "role": "Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "Edwards",
+                                "id": "32216",
+                                "join": "",
+                                "name": "Steve Edwards",
+                                "role": "Written-By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "4",
+                    "title": "An Afternoon With Steve Edwards"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "49030",
+                            "join": "",
+                            "name": "Alex J",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "49030",
+                            "join": "",
+                            "name": "Alex J",
+                            "role": "Producer, Written-By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "5",
+                    "title": "Everything Is Beautiful"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "3318",
+                            "join": "",
+                            "name": "Soldiers Of Twilight",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "Frederic Blais",
+                                "id": "46343",
+                                "join": "",
+                                "name": "Frédéric Blais",
+                                "role": "Producer [Additional]",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "166",
+                                "join": "",
+                                "name": "Fred Everything",
+                                "role": "Remix",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "4477",
+                                "join": "",
+                                "name": "Lady Bird",
+                                "role": "Written-By, Vocals",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "6",
+                    "title": "Believe (Fred Everything Vocal Dub)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "9218",
+                            "join": "",
+                            "name": "Dualists",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "538797",
+                                "join": "",
+                                "name": "Armin Bauer",
+                                "role": "Producer, Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "134492",
+                                "join": "",
+                                "name": "Babak Shayan",
+                                "role": "Producer, Written-By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "7",
+                    "title": "Sounds Of Pleasure (Rapture Of The Depth Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "2599",
+                            "join": "",
+                            "name": "Didier Sinclair",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "2599",
+                                "join": "",
+                                "name": "Didier Sinclair",
+                                "role": "Producer, Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "22255",
+                                "join": "",
+                                "name": "D'Julz",
+                                "role": "Remix, Producer [Additional]",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "8",
+                    "title": "Galactix (D'Julz Dub)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "30256",
+                            "join": "",
+                            "name": "The Timewriter",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "Frank Cochois",
+                            "id": "111265",
+                            "join": "",
+                            "name": "Jean F. Cochois",
+                            "role": "Producer, Written-By, Other [Sensed By]",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "9",
+                    "title": "Hope And Dispair (Vinyl Edit)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "49711",
+                            "join": "",
+                            "name": "Derek Marin",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "49711",
+                            "join": "",
+                            "name": "Derek Marin",
+                            "role": "Producer, Written-By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "10",
+                    "title": "Play Factor"
+                },
+                {
+                    "artists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "193",
+                                "join": "Presents",
+                                "name": "DKMA",
+                                "role": "",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "795611",
+                                "join": "",
+                                "name": "Andrastea",
+                                "role": "",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "duration": "",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "193",
+                                "join": "",
+                                "name": "DKMA",
+                                "role": "Presenter",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "73316",
+                                "join": "",
+                                "name": "Dana Kelley",
+                                "role": "Producer, Written-By, Arranged By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "11",
+                    "title": "Dub Bang"
+                },
+                {
+                    "artists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "4493",
+                                "join": "Feat.",
+                                "name": "Freestyle Man",
+                                "role": "",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "31770",
+                                "join": "",
+                                "name": "George Spruce",
+                                "role": "",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "duration": "",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "31770",
+                                "join": "",
+                                "name": "George Spruce",
+                                "role": "Featuring, Vocals",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "182545",
+                                "join": "",
+                                "name": "Sasse Lindblad",
+                                "role": "Producer, Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "8047",
+                                "join": "",
+                                "name": "Matthias Tanzmann",
+                                "role": "Remix, Producer [Additional]",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "12",
+                    "title": "Gotta Need (Mathias Tanzmann Remix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "60",
+                            "join": "",
+                            "name": "Pete Moss",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "60",
+                            "join": "",
+                            "name": "Pete Moss",
+                            "role": "Producer, Written-By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "13",
+                    "title": "Therapy"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1544",
+                            "join": "",
+                            "name": "Steve Bug",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "1544",
+                                "join": "",
+                                "name": "Steve Bug",
+                                "role": "Producer",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "7134778",
+                                "join": "",
+                                "name": "Virginia (27)",
+                                "role": "Vocals",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "1544",
+                                "join": "",
+                                "name": "Steve Bug",
+                                "role": "Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "Virginia Högel",
+                                "id": "238238",
+                                "join": "",
+                                "name": "Virginia Högl",
+                                "role": "Written-By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "14",
+                    "title": "All I Need"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "8620",
+                            "join": "",
+                            "name": "G-Man",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "4445",
+                                "join": "",
+                                "name": "MRI",
+                                "role": "Producer",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "4445",
+                                "join": "",
+                                "name": "MRI",
+                                "role": "Remix",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "6981",
+                                "join": "",
+                                "name": "Gez Varley",
+                                "role": "Written-By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "15",
+                    "title": "K.7 (MRI Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "3060",
+                            "join": "",
+                            "name": "Ronin",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "3060",
+                            "join": "",
+                            "name": "Ronin",
+                            "role": "Producer, Written-By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "16",
+                    "title": "Coming Over To You"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "401",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=iLlHm46C7c8",
+                    "description": "SILVER 010",
+                    "title": "Ciudad Feliz - Life Is So Amazing ( Positive Directions)"
+                },
+                {
+                    "_duration": "453",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=4qDSfDKBemM",
+                    "description": "Drop Music. 2002",
+                    "title": "Inland Knights - U Too"
+                },
+                {
+                    "_duration": "366",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=4LJrMWdPmwo",
+                    "description": "[BLA BLA 014] EDDIE RICHARDS - SOMEDAY\nCLASSICS EP",
+                    "title": "[BLA BLA 014] EDDIE RICHARDS - SOMEDAY"
+                },
+                {
+                    "_duration": "464",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=I35EjY8STdQ",
+                    "description": "Jun/17/2002. An Afternoon With Steve Edwards Vinyl, 12  -  Paper Recordings\nReset are: Elliot Eastwick, Merlin Garnett, Miles Hollway\nPaper Recordings sublabels are: Papercuts, Repap\nWritten By -- Elliot Eastwick, Merlin Garnett, Miles Hollway, Steve Edw",
+                    "title": "Reset  -  An Afternoon With Steve Edwards (Vocal)"
+                },
+                {
+                    "_duration": "341",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=PGu6Lhlvl-4",
+                    "description": "",
+                    "title": "Derek Marin - Play Factor"
+                },
+                {
+                    "_duration": "413",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=j_38axyfRgo",
+                    "description": "Provided to YouTube by Kontor New Media GmbH\n\nTherapy · Pete Moss\n\nTherapy\n\n℗ Dessous Recordings\n\nReleased on: 2002-03-25\n\nArtist: Pete Moss\nComposer: Pete Moss\nMusic  Publisher: reclinemusic (ascap)\n\nAuto-generated by YouTube.",
+                    "title": "Therapy"
+                },
+                {
+                    "_duration": "263",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=-LoUeJI9dR8",
+                    "description": "Artist:Soldiers Of Twilight \r\nName:Believe (Fred Everything Vocal Dub)\r\nAlbum:Terry`s Cafe 6\r\nAlbum Artist:Terry Lee Brown Jr.\r\nYear:2002\r\nGenre:Deep Tech-House\r\nLabel:Plastic City",
+                    "title": "Soldiers Of Twilight - Believe (Fred Everything Vocal Dub)"
+                }
+            ]
+        }
+    }
+}

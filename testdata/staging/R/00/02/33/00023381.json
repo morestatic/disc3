@@ -1,0 +1,160 @@
+{
+    "release": {
+        "_id": "23381",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "62",
+                "join": "",
+                "name": "John Tejada",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "US",
+        "data_quality": "Correct",
+        "extraartists": "",
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "297",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "300"
+                },
+                {
+                    "_height": "297",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "300"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PAL-19",
+                "_id": "30",
+                "_name": "Palette Recordings"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "1371430"
+        },
+        "released": "2002-01-00",
+        "styles": {
+            "style": "Techno"
+        },
+        "title": "Music For Doubles (Remixes)",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "317",
+                            "join": "",
+                            "name": "Klute",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "A1",
+                    "title": "Music For Doubles (Klute Remix)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "9806",
+                            "join": "",
+                            "name": "DJ Abstract",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "A2",
+                    "title": "Music For Doubles (DJ Abstract Remix)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "3402",
+                            "join": "",
+                            "name": "Dan Curtin",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "B1",
+                    "title": "Music For Doubles (Dan Curtin Remix)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "Titonton",
+                            "id": "4845",
+                            "join": "",
+                            "name": "Titonton Duvanté",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "B2",
+                    "title": "Music For Doubles (Titonton Remix)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "390",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=6kMIerhf44I",
+                    "description": "Klute - Music For Doubles from album Lie, cheat and steal.",
+                    "title": "Klute - Music For Doubles"
+                },
+                {
+                    "_duration": "377",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=PLdJ50iFIJo",
+                    "description": "http://www.discogs.com/John-Tejada-Music-For-Doubles-Remixes/release/23381\n\r\n\r-uploaded in HD at http://www.TunesToTube.com",
+                    "title": "John Tejada - Music for doubles(titonton remix)"
+                },
+                {
+                    "_duration": "372",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=K6kBmPW2njE",
+                    "description": "",
+                    "title": "John Tejada - Music for Doubles [Dan Curtin remix]"
+                }
+            ]
+        }
+    }
+}

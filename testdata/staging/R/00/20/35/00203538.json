@@ -1,0 +1,432 @@
+{
+    "release": {
+        "_id": "203538",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "194",
+                "join": "",
+                "name": "Various",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "US",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "5615",
+                "join": "",
+                "name": "Julius Papp",
+                "role": "Compiled By, DJ Mix",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Compilation",
+                        "Mixed"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_description": "Text",
+                "_type": "Barcode",
+                "_value": "6 80415 00042 2"
+            }
+        },
+        "images": {
+            "image": {
+                "_height": "296",
+                "_type": "primary",
+                "_uri": "",
+                "_uri150": "",
+                "_width": "300"
+            }
+        },
+        "labels": {
+            "label": {
+                "_catno": "esh004",
+                "_id": "8473",
+                "_name": "Esho Recordings"
+            }
+        },
+        "notes": "Track 07 + 08 are previously unreleased.",
+        "released": "2001",
+        "styles": {
+            "style": [
+                "House",
+                "Deep House",
+                "Tech House"
+            ]
+        },
+        "title": "Eshofuni 1",
+        "tracklist": {
+            "track": [
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "5615",
+                            "join": "",
+                            "name": "Julius Papp",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "1",
+                    "title": "Equinox"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "265",
+                            "join": "",
+                            "name": "Julius Papp \u0026 Dave Warrin",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "405655",
+                            "join": "",
+                            "name": "Shakti (3)",
+                            "role": "Featuring",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "2",
+                    "title": "Lookin' Up"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "36193",
+                            "join": "",
+                            "name": "Mindflight",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "40",
+                            "join": "",
+                            "name": "Dave Warrin",
+                            "role": "Producer",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "3",
+                    "title": "Lightsource"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "226",
+                            "join": "",
+                            "name": "Fresh \u0026 Low",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "4",
+                    "title": "Ain't No Ceiling"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "665",
+                            "join": "",
+                            "name": "The Rurals",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "60",
+                            "join": "",
+                            "name": "Pete Moss",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "5",
+                    "title": "Window Pain (Clarity Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "40",
+                            "join": "",
+                            "name": "Dave Warrin",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "49922",
+                            "join": "",
+                            "name": "Carol C",
+                            "role": "Featuring",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "6",
+                    "title": "Shine On"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "36193",
+                            "join": "",
+                            "name": "Mindflight",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "40",
+                            "join": "",
+                            "name": "Dave Warrin",
+                            "role": "Producer",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "7",
+                    "title": "Trato"
+                },
+                {
+                    "artists": {
+                        "artist": [
+                            {
+                                "anv": "J. Warrin",
+                                "id": "687179",
+                                "join": "\u0026",
+                                "name": "John Warrin",
+                                "role": "",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "155884",
+                                "join": "",
+                                "name": "Premo John",
+                                "role": "",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "duration": "",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "49922",
+                                "join": "",
+                                "name": "Carol C",
+                                "role": "Featuring",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "Premo John",
+                                "id": "1186492",
+                                "join": "",
+                                "name": "John Gonzalez",
+                                "role": "Producer",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "J. Warrin",
+                                "id": "687179",
+                                "join": "",
+                                "name": "John Warrin",
+                                "role": "Producer",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "49922",
+                                "join": "",
+                                "name": "Carol C",
+                                "role": "Vocals",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "C. Cardenas",
+                                "id": "85452",
+                                "join": "",
+                                "name": "Carol Cardenas",
+                                "role": "Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "J. Warrin",
+                                "id": "687179",
+                                "join": "",
+                                "name": "John Warrin",
+                                "role": "Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "J. Gonzales",
+                                "id": "155884",
+                                "join": "",
+                                "name": "Premo John",
+                                "role": "Written-By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "8",
+                    "title": "Airstream"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1811",
+                            "join": "",
+                            "name": "Waiwan",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "22430",
+                                "join": "",
+                                "name": "Loretta Heywood",
+                                "role": "Featuring",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "83",
+                                "join": "",
+                                "name": "Atjazz",
+                                "role": "Remix",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "9",
+                    "title": "Feelin Me Feelin You (Atjazz Dub)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "14063",
+                            "join": "",
+                            "name": "Los Ladrones",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "40",
+                                "join": "",
+                                "name": "Dave Warrin",
+                                "role": "Remix",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "108594",
+                                "join": "",
+                                "name": "Liz Fletcher",
+                                "role": "Vocals",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "10",
+                    "title": "Las Luces Del Norte (Dave Warrin's Open Air Dub)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "5615",
+                            "join": "",
+                            "name": "Julius Papp",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "11",
+                    "title": "Libido"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "265",
+                            "join": "",
+                            "name": "Julius Papp \u0026 Dave Warrin",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "405655",
+                            "join": "",
+                            "name": "Shakti (3)",
+                            "role": "Featuring",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "12",
+                    "title": "Lookin' Up (Reprise)"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,249 @@
+{
+    "release": {
+        "_id": "16975",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "15487",
+                "join": "",
+                "name": "Rubber Souls",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "US",
+        "data_quality": "Complete and Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "Simon",
+                    "id": "92821",
+                    "join": "",
+                    "name": "Simon Davey",
+                    "role": "Mastered By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "Jason \"Jinx\" Zambito",
+                    "id": "25736",
+                    "join": "",
+                    "name": "Jason Zambito",
+                    "role": "Written-By, Producer",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "12\""
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Text",
+                    "_type": "Barcode",
+                    "_value": "7 13405 96461 6"
+                },
+                {
+                    "_description": "Runout Etching Side A",
+                    "_type": "Matrix / Runout",
+                    "_value": "MDR-9646-A SIMON - THE EXCHANGE"
+                },
+                {
+                    "_description": "Runout Etching Side B",
+                    "_type": "Matrix / Runout",
+                    "_value": "MDR-9646-B SIMON - THE EXCHANGE"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "601",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "1790",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "597",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "601",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "MDR9646-1",
+                "_id": "20",
+                "_name": "Moody Recordings"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "263374"
+        },
+        "notes": "Written and produced for Kimco Entertainment.\r\nMixon Music (ASCAP) / Unlucky Music (ASCAP)\r\n© 2001 Moody Recordings\r\nMastered at The Exchange.\r\nMfg \u0026 dist. by Mix Connection.",
+        "released": "2001-11-00",
+        "styles": {
+            "style": [
+                "Deep House",
+                "Tech House",
+                "Disco"
+            ]
+        },
+        "title": "Can U Relate (Remixes)",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "8436",
+                            "join": "",
+                            "name": "Mojolators",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "A1",
+                    "title": "Can U Relate (Mojolators Remix)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "8436",
+                            "join": "",
+                            "name": "Mojolators",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "A2",
+                    "title": "Can U Relate (Mojolators Beats)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "3563",
+                            "join": "",
+                            "name": "The Plastic Avengers",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "B1",
+                    "title": "Can U Relate (Plastic Avengers Deep Mix)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "3563",
+                            "join": "",
+                            "name": "The Plastic Avengers",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "B2",
+                    "title": "Can U Relate (Plastic Avengers Pump Mix)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "3563",
+                            "join": "",
+                            "name": "The Plastic Avengers",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "B3",
+                    "title": "Can U Relate (Plastic Avengers DJ Tools)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "416",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=i3_D0oSwIHE",
+                    "description": "Rubber Souls, Rescue - Rubber Souls: Can U Relate (Rescue Remix) - Moody Recordings\r\n\r\nWe are proud to release a new installment of House Music, Tech House and some classic underground grooves that have helped make us who we are today.  Starting off in Ch",
+                    "title": "Rubber Souls: Can U Relate (Rescue Remix)"
+                },
+                {
+                    "_duration": "477",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=O9m0iuqpm_M",
+                    "description": "http://www.discogs.com/Rubber-Souls-Can-You-Relate/release/518287 Enjoy!",
+                    "title": "Rubber Souls - Can You Relate (Original Mix) (2003)"
+                },
+                {
+                    "_duration": "481",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=0KLCnx9sQXs",
+                    "description": "Album : Transformation EP\nLabel : Moody Recordings (MDR 9635-1)\nStyle : Funky House, Disco",
+                    "title": "Rubber Souls - Can U Relate (2001)"
+                },
+                {
+                    "_duration": "307",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=kMc3HqEDqKA",
+                    "description": "",
+                    "title": "Rubber Souls - Can U Relate Remixes"
+                },
+                {
+                    "_duration": "489",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=jrASPANgM-0",
+                    "description": "Written and produced by Jason Zambito.\n\nhttp://www.jasonjinx.com\nhttp://soundcloud.com/jasonjinx\nUS booking contact : bookings@jasonjinx.com\nOther countries booking contact : carolinedunkley@ntlworld.com\n\nPlease support the artist/label by buying their ma",
+                    "title": "Rubber Souls - Can U Relate"
+                }
+            ]
+        }
+    }
+}

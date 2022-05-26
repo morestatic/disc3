@@ -1,0 +1,57 @@
+{
+    "artist": {
+        "aliases": {
+            "name": [
+                {
+                    "_id": "8123",
+                    "content": "Central Living"
+                },
+                {
+                    "_id": "8516",
+                    "content": "2DB"
+                },
+                {
+                    "_id": "36193",
+                    "content": "Mindflight"
+                }
+            ]
+        },
+        "data_quality": "Needs Vote",
+        "groups": {
+            "name": [
+                {
+                    "_id": "36",
+                    "content": "Lovetronic"
+                },
+                {
+                    "_id": "265",
+                    "content": "Julius Papp \u0026 Dave Warrin"
+                },
+                {
+                    "_id": "3920",
+                    "content": "Slide Five"
+                },
+                {
+                    "_id": "52060",
+                    "content": "Brothers Warrin"
+                },
+                {
+                    "_id": "331004",
+                    "content": "Li'sha Project"
+                }
+            ]
+        },
+        "id": "40",
+        "name": "Dave Warrin",
+        "namevariations": {
+            "name": [
+                "D Warrin",
+                "D. Warrin",
+                "D.Warrin",
+                "Dave Warren",
+                "Warrin"
+            ]
+        },
+        "profile": ""
+    }
+}

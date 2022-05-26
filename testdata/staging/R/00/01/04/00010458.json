@@ -1,0 +1,205 @@
+{
+    "release": {
+        "_id": "10458",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "60",
+                "join": "",
+                "name": "Pete Moss",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "93",
+                    "name": "Alola",
+                    "resource_url": "https://api.discogs.com/labels/93"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "93",
+                    "name": "Alola",
+                    "resource_url": "https://api.discogs.com/labels/93"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "272756",
+                    "name": "Alola Music",
+                    "resource_url": "https://api.discogs.com/labels/272756"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "269220",
+                    "name": "Westbury Music Ltd.",
+                    "resource_url": "https://api.discogs.com/labels/269220"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "29",
+                    "entity_type_name": "Mastered At",
+                    "id": "1514150",
+                    "name": "Independent Pressing Co.",
+                    "resource_url": "https://api.discogs.com/labels/1514150"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "17",
+                    "entity_type_name": "Pressed By",
+                    "id": "1514150",
+                    "name": "Independent Pressing Co.",
+                    "resource_url": "https://api.discogs.com/labels/1514150"
+                }
+            ]
+        },
+        "country": "UK",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "JB",
+                    "id": "7156653",
+                    "join": "",
+                    "name": "JBAD",
+                    "role": "Plated By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "60",
+                    "join": "",
+                    "name": "Pete Moss",
+                    "role": "Producer, Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Text",
+                    "_type": "Barcode",
+                    "_value": "5 033154 609152"
+                },
+                {
+                    "_description": "Scanned",
+                    "_type": "Barcode",
+                    "_value": "5033154609152"
+                },
+                {
+                    "_description": "Runout etched, side A",
+                    "_type": "Matrix / Runout",
+                    "_value": "ALO 29 A1 JB@IPC"
+                },
+                {
+                    "_description": "Runout etched, side B",
+                    "_type": "Matrix / Runout",
+                    "_value": "ALO-29 B1 JB@IPC"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "597",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "596",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "ALO 029",
+                "_id": "93",
+                "_name": "Alola"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "245186"
+        },
+        "released": "2000-10-00",
+        "styles": {
+            "style": [
+                "House",
+                "Deep House",
+                "Jazzdance"
+            ]
+        },
+        "title": "Right On",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "5:42",
+                    "position": "A",
+                    "title": "Right On"
+                },
+                {
+                    "duration": "6:44",
+                    "position": "B1",
+                    "title": "When In Town"
+                },
+                {
+                    "duration": "6:01",
+                    "position": "B2",
+                    "title": "Tha Vibe"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "344",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=dA1xuPHkCKg",
+                    "description": "Album: Everything All Of Them Every Year\nYear: 2002",
+                    "title": "Pete Moss - Right On"
+                },
+                {
+                    "_duration": "404",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Ra9NowG9Rbg",
+                    "description": "Label: Alola ‎-- ALO 029\nCountry: UK\nReleased: Oct 2000\nStyle: House, Deep House, Jazzdance",
+                    "title": "Pete Moss - When In Town"
+                }
+            ]
+        }
+    }
+}

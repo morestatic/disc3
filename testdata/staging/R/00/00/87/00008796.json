@@ -1,0 +1,289 @@
+{
+    "release": {
+        "_id": "8796",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "9463",
+                "join": "",
+                "name": "Impulsion",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "29",
+                    "entity_type_name": "Mastered At",
+                    "id": "158759",
+                    "name": "The Exchange",
+                    "resource_url": "https://api.discogs.com/labels/158759"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "17",
+                    "entity_type_name": "Pressed By",
+                    "id": "266587",
+                    "name": "Orlake Records",
+                    "resource_url": "https://api.discogs.com/labels/266587"
+                }
+            ]
+        },
+        "country": "UK",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "424279",
+                    "join": "",
+                    "name": "Eric Chedeville",
+                    "role": "Co-producer, Mixed By [Co-mixed], Engineer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "Nilz",
+                    "id": "386598",
+                    "join": "",
+                    "name": "Nilesh Patel",
+                    "role": "Mastered By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Barcode",
+                    "_value": "5 025425 902260"
+                },
+                {
+                    "_description": "Etchings Side A",
+                    "_type": "Matrix / Runout",
+                    "_value": "LOAD+22+A OOH AAH CANTONA THE EXCHANGE - NILZ (D.M.M.)"
+                },
+                {
+                    "_description": "Etchings Side AA",
+                    "_type": "Matrix / Runout",
+                    "_value": "LOAD+22+AA THE EXCHANGE - NILZ (D.M.M.) ORLAKE 'EVERYBODY WAS KUNG FU FIGHTING'"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "LOAD 22",
+                "_id": "40",
+                "_name": "Loaded Records"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "622088"
+        },
+        "notes": "Mastered at The Exchange, Camden.\r\nPressed at Orlake Records, Dagenham.\r\nMastered using Direct Metal Mastering (DMM).\r\n\"Le corps, le coeur et l'espirit....\"",
+        "released": "1995-00-00",
+        "styles": {
+            "style": [
+                "House",
+                "Acid House"
+            ]
+        },
+        "title": "Big Muff π",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "9:51",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "77284",
+                                "join": "",
+                                "name": "Christophe Monier",
+                                "role": "Producer, Mixed By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "564456",
+                                "join": "",
+                                "name": "DJ Pascal R",
+                                "role": "Producer, Mixed By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "77284",
+                                "join": "",
+                                "name": "Christophe Monier",
+                                "role": "Written-By, Programmed By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "A1",
+                    "title": "Big Muff π"
+                },
+                {
+                    "duration": "6:18",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "77284",
+                                "join": "",
+                                "name": "Christophe Monier",
+                                "role": "Written-By, Producer, Programmed By, Mixed By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "564456",
+                                "join": "",
+                                "name": "DJ Pascal R",
+                                "role": "Written-By, Producer, Programmed By, Mixed By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "A2",
+                    "title": "I Like Remix"
+                },
+                {
+                    "duration": "6:44",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "77284",
+                                "join": "",
+                                "name": "Christophe Monier",
+                                "role": "Written-By, Producer, Programmed By, Mixed By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "564456",
+                                "join": "",
+                                "name": "DJ Pascal R",
+                                "role": "Written-By, Producer, Programmed By, Mixed By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "AA1",
+                    "title": "Tesko Fever (Can't You Hear It Baby ?)"
+                },
+                {
+                    "duration": "7:12",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "77284",
+                                "join": "",
+                                "name": "Christophe Monier",
+                                "role": "Mixed By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "77284",
+                                "join": "",
+                                "name": "Christophe Monier",
+                                "role": "Written-By, Producer, Programmed By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "564456",
+                                "join": "",
+                                "name": "DJ Pascal R",
+                                "role": "Written-By, Producer, Programmed By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "AA1",
+                    "title": "I Like Musiq"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "382",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=VlxBDrBkU54",
+                    "description": "http://itunes.apple.com/gb/album/big-muff-ep/id379073731",
+                    "title": "Impulsion - Tesko Fever (Cant You Hear)"
+                },
+                {
+                    "_duration": "471",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=LIR8qPuenf8",
+                    "description": "Not new to YT but a track that needs to be pitched down quite a bit for me on Loaded Records (Cat no LOAD 22/Discogs No 8796)",
+                    "title": "Impulsion - I Like Musiq (1995)"
+                },
+                {
+                    "_duration": "481",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=l9w-sBOWjuo",
+                    "description": "http://itunes.apple.com/gb/album/big-muff-ep/id379073731",
+                    "title": "Implusion - Big muff"
+                },
+                {
+                    "_duration": "382",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=WXhrzBdzCew",
+                    "description": "http://itunes.apple.com/gb/album/big-muff-ep/id379073731",
+                    "title": "Impulsion - I Like (Musiq)"
+                }
+            ]
+        }
+    }
+}

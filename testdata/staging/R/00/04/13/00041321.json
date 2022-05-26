@@ -1,0 +1,121 @@
+{
+    "release": {
+        "_id": "41321",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "2161",
+                "join": "",
+                "name": "Pieter K",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "US",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "Grazz",
+                    "id": "399393",
+                    "join": "",
+                    "name": "Graeme Durham",
+                    "role": "Mastered By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "2161",
+                    "join": "",
+                    "name": "Pieter K",
+                    "role": "Written-By, Producer",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "12\""
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": {
+                "_height": "300",
+                "_type": "secondary",
+                "_uri": "",
+                "_uri150": "",
+                "_width": "300"
+            }
+        },
+        "labels": {
+            "label": {
+                "_catno": "PAL-20",
+                "_id": "30",
+                "_name": "Palette Recordings"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "1565291"
+        },
+        "released": "2002-06-28",
+        "styles": {
+            "style": "Tech House"
+        },
+        "title": "La Angel",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A",
+                    "title": "La Angel"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "2161",
+                                "join": "",
+                                "name": "Pieter K",
+                                "role": "Lyrics By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "709217",
+                                "join": "",
+                                "name": "Amy Jacob",
+                                "role": "Vocals, Lyrics By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "B",
+                    "title": "Stars From Aircraft"
+                }
+            ]
+        },
+        "videos": {
+            "video": {
+                "_duration": "627",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=TV8j_Yzg-cs",
+                "description": "",
+                "title": "Pieter K - Stars From Aircraft"
+            }
+        }
+    }
+}

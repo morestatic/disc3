@@ -1,0 +1,201 @@
+{
+    "release": {
+        "_id": "470",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "50",
+                "join": "",
+                "name": "ADNY",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "Canada",
+        "data_quality": "Correct",
+        "extraartists": "",
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "2",
+                "_text": "",
+                "descriptions": {
+                    "description": "12\""
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "598"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "171",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "255",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "258"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "TLP-01",
+                "_id": "242",
+                "_name": "Turbo"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "false",
+            "content": "324651"
+        },
+        "notes": "re-released as \"Turbo Limited Edition Classic Re-Issue\" in 2004",
+        "released": "2000",
+        "styles": {
+            "style": "Deep House"
+        },
+        "title": "Selections '97-2000",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "6:29",
+                    "position": "A1",
+                    "title": "Shiver Me (ADNY Remix)"
+                },
+                {
+                    "duration": "5:42",
+                    "position": "A2",
+                    "title": "What If I Love"
+                },
+                {
+                    "duration": "4:37",
+                    "position": "B1",
+                    "title": "I'm Still Here"
+                },
+                {
+                    "duration": "5:40",
+                    "position": "B2",
+                    "title": "Broken DX (ADNY Remix)"
+                },
+                {
+                    "duration": "6:30",
+                    "position": "C1",
+                    "title": "Never Leave You"
+                },
+                {
+                    "duration": "3:56",
+                    "position": "C2",
+                    "title": "Precious Lady"
+                },
+                {
+                    "duration": "6:15",
+                    "position": "D1",
+                    "title": "Dreaming"
+                },
+                {
+                    "duration": "6:35",
+                    "position": "D2",
+                    "title": "In Love"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "392",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=0kmSotldmnw",
+                    "description": "One of the great legacies he leaves behind is all the wonderful music he has left his mark on. If it was a great record, he mastered it.\n\nIn memory of Nilesh Patel aka Nilz (January 1965 - December 2011) †\n-------------------------------------------",
+                    "title": "ADNY - Shiver Me (ADNY Remix)"
+                },
+                {
+                    "_duration": "385",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=BmAAh_Dikas",
+                    "description": "ADNY - Shiver Me (ADNY Remix) -  Selections '97-2000\nReleased on Turbo in 2000.\n\nhttp://www.discogs.com/ADNY-Selections-97-2000/master/324651",
+                    "title": "ADNY - Shiver Me (ADNY Remix) -  Selections '97-2000"
+                },
+                {
+                    "_duration": "362",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=7n58pfc5Rso",
+                    "description": "May/01/2001. Never Leave You (Incl. Steve Bug, Mull \u0026 Rachmad and Mateo Murphy Remixes) Vinyl, 12, Maxi-Single  -  Turbo Recordings Canada\nADNY real name: Alexi Delano\nTurbo Recordings was founded by Tiga in Montreal back in 1998.\nhttp://www.discogs.com/",
+                    "title": "ADNY  -  Never Leave You (Original)"
+                },
+                {
+                    "_duration": "361",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=G-Sap5UFKUM",
+                    "description": "ADNY - Never Leave You [Turbo, 2001]",
+                    "title": "ADNY - Never Leave You [Turbo, 2001]"
+                },
+                {
+                    "_duration": "409",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=mKeVaU7bIqQ",
+                    "description": "~_~\nhttps://www.discogs.com/ADNY-Selections-97-2000/release/470",
+                    "title": "ADNY ~ Broken DX  [ ADNY Remix ] 124/Bpm"
+                },
+                {
+                    "_duration": "359",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=RpH3sjsm-zg",
+                    "description": "http://www.discogs.com/ADNY-SincereSky-Be/release/14",
+                    "title": "ADNY - What if i Love"
+                },
+                {
+                    "_duration": "216",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=B9GwDjnPeM0",
+                    "description": "(2005)\nCaroLove❤",
+                    "title": "A.D.N.Y. - Precious Lady (Vida Mia)"
+                },
+                {
+                    "_duration": "459",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=WyV61tLrr30",
+                    "description": "*~*\nhttps://www.discogs.com/ADNY-Selections-97-2000/release/470",
+                    "title": "ADNY ~ Shiver Me [ ADNY Remix ] Bpm `~`"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,128 @@
+{
+    "release": {
+        "_id": "172067",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "15287",
+                "join": "",
+                "name": "Deltraxx",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "Germany",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "7649",
+                    "join": "",
+                    "name": "DJ Criss",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM",
+                        "45 RPM",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": {
+                "_height": "300",
+                "_type": "secondary",
+                "_uri": "",
+                "_uri150": "",
+                "_width": "300"
+            }
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/24",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "124997"
+        },
+        "notes": "Limited to 500 copies.\nSide A: 45rpm / Side B: 33.3rpm\n\"SPECIAL THANKS TO LASSIGUE BENDTHAUS, ATOM HEART AND LISA CARBON\" \nIs Etched On Runout Groove On Side B",
+        "released": "1992-11-23",
+        "styles": {
+            "style": "Techno"
+        },
+        "title": "Deltraxx 2",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "5:39",
+                    "position": "A",
+                    "title": "The Real Secret"
+                },
+                {
+                    "duration": "5:24",
+                    "position": "B1",
+                    "title": "Orbit (Half Moon Bay Mix)"
+                },
+                {
+                    "duration": "4:25",
+                    "position": "B2",
+                    "title": "Jellyfish (Espinho Edit)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "341",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Dn5EwO6HJeY",
+                    "description": "Label:\nFax +49-69/450464 ‎– PK 08/24\nFormat:\nVinyl, 12, Limited Edition\nCountry:\nGermany\nReleased:\n23 Nov 1992\nGenre:\nElectronic\nStyle:\nTechno\n\nhttps://www.discogs.com/Deltraxx-Deltraxx-2/release/172067\n\nVisuals\nBmelgren - Take This Highway\n.",
+                    "title": "Deltraxx - The Real Secret  🇩🇪"
+                },
+                {
+                    "_duration": "329",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=4VkeAyL3Xys",
+                    "description": "http://www.discogs.com/Deltraxx-Deltraxx/release/16577",
+                    "title": "Deltraxx - Orbit (Half Moon Bay Mix)"
+                },
+                {
+                    "_duration": "266",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=IRp2oeNx-aY",
+                    "description": "",
+                    "title": "B2 - Deltraxx - Jellyfish (Espino Edit)"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,300 @@
+{
+    "release": {
+        "_id": "153275",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "9592",
+                "join": "",
+                "name": "Pizzaman",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "317309",
+                    "name": "Cowboy Records Ltd.",
+                    "resource_url": "https://api.discogs.com/labels/317309"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "317309",
+                    "name": "Cowboy Records Ltd.",
+                    "resource_url": "https://api.discogs.com/labels/317309"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "24",
+                    "entity_type_name": "Engineered At",
+                    "id": "484090",
+                    "name": "The House Of Love (2)",
+                    "resource_url": "https://api.discogs.com/labels/484090"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "24",
+                    "entity_type_name": "Engineered At",
+                    "id": "302987",
+                    "name": "Loaded Studios",
+                    "resource_url": "https://api.discogs.com/labels/302987"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "6",
+                    "entity_type_name": "Licensed From",
+                    "id": "317309",
+                    "name": "Cowboy Records Ltd.",
+                    "resource_url": "https://api.discogs.com/labels/317309"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "9",
+                    "entity_type_name": "Distributed By",
+                    "id": "264522",
+                    "name": "Pinnacle (3)",
+                    "resource_url": "https://api.discogs.com/labels/264522"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "270893",
+                    "name": "Polygram Music",
+                    "resource_url": "https://api.discogs.com/labels/270893"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "17",
+                    "entity_type_name": "Pressed By",
+                    "id": "219229",
+                    "name": "DFI",
+                    "resource_url": "https://api.discogs.com/labels/219229"
+                }
+            ]
+        },
+        "country": "UK",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "1832088",
+                    "join": "",
+                    "name": "Spin (15)",
+                    "role": "Cover [Covered @]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "59261",
+                    "join": "",
+                    "name": "Simon Thornton",
+                    "role": "Engineer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "116018",
+                    "join": "",
+                    "name": "JC Reid",
+                    "role": "Executive-Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "434465",
+                    "join": "",
+                    "name": "Tim Jeffery",
+                    "role": "Executive-Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "9592",
+                    "join": "",
+                    "name": "Pizzaman",
+                    "role": "Written-By, Producer",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Barcode",
+                    "_value": "5 024086 002968"
+                },
+                {
+                    "_description": "A Side runout stamped / etched",
+                    "_type": "Matrix / Runout",
+                    "_value": "12 LOAD 29 A-01-01-   DFI 95 10"
+                },
+                {
+                    "_description": "B Side runout stamped / etched",
+                    "_type": "Matrix / Runout",
+                    "_value": "12 LOAD 29 B-01-01-   DEFI 95 10"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "597"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "588"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "596",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "12LOAD29",
+                "_id": "40",
+                "_name": "Loaded Records"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "100607"
+        },
+        "notes": "Engineered at the House of Love/Loaded Studios.\r\n\r\n(P) Cowboy Records Ltd.\r\n(C) Cowboy Records Ltd.\r\nLoaded Records licensed by Cowboy Records Ltd.\r\n\r\nMade in UK. Made in England.",
+        "released": "1995-11-06",
+        "styles": {
+            "style": [
+                "House",
+                "Disco"
+            ]
+        },
+        "title": "Happiness",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "6:55",
+                    "position": "A1",
+                    "title": "Happiness (Club Mix)"
+                },
+                {
+                    "duration": "7:52",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "28522",
+                                "join": "",
+                                "name": "Play Boys",
+                                "role": "Remix",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "116018",
+                                "join": "",
+                                "name": "JC Reid",
+                                "role": "Remix [Credited To], Producer [Additional]",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "434465",
+                                "join": "",
+                                "name": "Tim Jeffery",
+                                "role": "Remix [Credited To], Producer [Additional]",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "A2",
+                    "title": "Happiness (Play Boys Fully Loaded Dub)"
+                },
+                {
+                    "duration": "5:22",
+                    "position": "B1",
+                    "title": "Happiness (Original 12\" Mix)"
+                },
+                {
+                    "duration": "5:21",
+                    "position": "B2",
+                    "title": "Happiness (Euro Mix)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "473",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=5vdAeZuyL-o",
+                    "description": "Pizzaman ‎-- Happiness\nLabel:\nLoaded Records ‎-- 12LOAD29\nFormat:\nVinyl, 12, 33 ⅓ RPM\nCountry:\nUK\nReleased:\n1995\nGenre:\nElectronic\nStyle:\nHouse, Disco\nTracklist\nA1   Happiness (Club Mix) 6:55  \nA2   Happiness (Play Boys Fully Loaded Dub) 7:52  \nB1",
+                    "title": "Pizzaman - Happiness (Play Boys Fully Loaded Dub)"
+                },
+                {
+                    "_duration": "418",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Yg2FpflIc_I",
+                    "description": "",
+                    "title": "PIZZAMAN - HAPPINESS (Club Mix)"
+                },
+                {
+                    "_duration": "216",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=cM3R-TqSSws",
+                    "description": "Loaded records",
+                    "title": "Happiness by Pizzaman (high res\\official video)"
+                },
+                {
+                    "_duration": "321",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=OGnBKIwtk64",
+                    "description": "Original 12 inch from 1995",
+                    "title": "Pizzaman Happiness"
+                }
+            ]
+        }
+    }
+}

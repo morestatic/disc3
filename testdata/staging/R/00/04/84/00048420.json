@@ -1,0 +1,158 @@
+{
+    "release": {
+        "_id": "48420",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "29336",
+                "join": "",
+                "name": "DJ Vitamin D",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "UK",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "38763",
+                "join": "",
+                "name": "Miss Audry",
+                "role": "Featuring",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "250",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "250"
+                },
+                {
+                    "_height": "610",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "553"
+                },
+                {
+                    "_height": "638",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "559"
+                },
+                {
+                    "_height": "598",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "LOAD 091",
+                "_id": "40",
+                "_name": "Loaded Records"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "149292"
+        },
+        "released": "2002-07-16",
+        "styles": {
+            "style": [
+                "House",
+                "Latin"
+            ]
+        },
+        "title": "That Latin Track",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "16845",
+                            "join": "",
+                            "name": "C-mos",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "A",
+                    "title": "That Latin Track (C-mos Remix)"
+                },
+                {
+                    "duration": "",
+                    "position": "AA1",
+                    "title": "That Latin Track (Original Mix)"
+                },
+                {
+                    "duration": "",
+                    "position": "AA2",
+                    "title": "That Latin Track (DJ Vitamin D's Vocal Mix)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "512",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=GNorrJoPxpg",
+                    "description": "DJ Vitamin D – That Latin Track\n\nLabel:Loaded Records – LOAD 091\nFormat:Vinyl, 12, 33 ⅓ RPM\nCountry:UK\nReleased:16 Jul 2002\nGenre:Electronic\nStyle:House, Latin",
+                    "title": "DJ Vitamin D - That Latin Track (C-mos Remix)"
+                },
+                {
+                    "_duration": "435",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=poSt06z3M0s",
+                    "description": "DJ Vitamin D – That Latin Track\n\nLabel:Loaded Records – LOAD 091\nFormat:Vinyl, 12, 33 ⅓ RPM\nCountry:UK\nReleased:16 Jul 2002\nGenre:Electronic\nStyle:House, Latin",
+                    "title": "DJ Vitamin D - That Latin Track (Original Mix)"
+                },
+                {
+                    "_duration": "323",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=BgV5YPD8Og0",
+                    "description": "DJ Vitamin D – That Latin Track\n\nLabel:Loaded Records – LOAD 091\nFormat:Vinyl, 12, 33 ⅓ RPM\nCountry:UK\nReleased:16 Jul 2002\nGenre:Electronic\nStyle:House, Latin",
+                    "title": "DJ Vitamin D - That Latin Track (DJ Vitamin D's Vocal Mix)"
+                }
+            ]
+        }
+    }
+}

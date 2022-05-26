@@ -1,0 +1,259 @@
+{
+    "release": {
+        "_id": "51821",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "9592",
+                "join": "",
+                "name": "Pizzaman",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "UK",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "9050",
+                "join": "",
+                "name": "Norman Cook",
+                "role": "Producer",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM",
+                        "Promo"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "400",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "390"
+                },
+                {
+                    "_height": "601",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "602",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "12 LOAD 24DJ",
+                "_id": "40",
+                "_name": "Loaded Records"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "false",
+            "content": "100620"
+        },
+        "notes": "Different tracklisting than the \"Red\" labels [url=http://www.discogs.com/release/485457]LOAD 024 DJ[/url] release.",
+        "released": "1995",
+        "styles": {
+            "style": "House"
+        },
+        "title": "Sex On The Streets",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1670",
+                            "join": "",
+                            "name": "Red Jerry",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "A1",
+                    "title": "Sex On The Streets (Red Jerry Mix)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "35706",
+                            "join": "",
+                            "name": "Goodfellos",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "A2",
+                    "title": "Sex On The Streets (Goodfello's Mix)"
+                },
+                {
+                    "duration": "",
+                    "position": "B1",
+                    "title": "Sex On The Streets (Pizzaman Club Mix)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "6246",
+                            "join": "",
+                            "name": "Wildchild",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "B2",
+                    "title": "Sex On The Streets (Wildchild Dub)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "404",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=B4U6jtc3rS0",
+                    "description": "Audiophile grade classic Electronic Dance Music in HQ.\nPizzaman - Sex on the Streets (Club Mix) (1995)\n\nSubscribe ►  https://bit.ly/3a5g8vQ\n\nHave a request for the channel? Let us know in the comments. \n\nConnect with EDMclassics:\n► Facebook page: http",
+                    "title": "Pizzaman - Sex on the Streets (Pizzaman Club) (1995)"
+                },
+                {
+                    "_duration": "543",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=KUprDYip0Jc",
+                    "description": "Provided to YouTube by Loaded Records\n\nSex On the Streets (Playboys Fully Loaded Dub) · Pizzaman\n\nSex On the Streets\n\n℗ 1995 Loaded Records Limited, a BMG Company\n\nPerformance: Pizzaman\n\nAuto-generated by YouTube.",
+                    "title": "Sex On the Streets (Playboys Fully Loaded Dub)"
+                },
+                {
+                    "_duration": "399",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=6KAa5wDOFNs",
+                    "description": "",
+                    "title": "Pizzaman - Sex On The Streets (Pizzaman Club Mix)"
+                },
+                {
+                    "_duration": "409",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=xoc7KXYvxcQ",
+                    "description": "https://www.discogs.com/Pizzaman-Sex-On-The-Streets/release/2364863?ev=item-vc",
+                    "title": "Pizzaman ‎– Sex On The Streets (Pizzaman Club)(1995)"
+                },
+                {
+                    "_duration": "64",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=v8xOfWPGT1g",
+                    "description": "",
+                    "title": "Pizzaman - Sex On The Streets (High res/ Official video)"
+                },
+                {
+                    "_duration": "404",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=67UU_JxRseo",
+                    "description": "Provided to YouTube by Loaded Records\n\nSex On the Streets (Club Mix) · Pizzaman\n\nSex On the Streets\n\n℗ 1995 Loaded Records Limited, a BMG Company\n\nPerformance: Pizzaman\n\nAuto-generated by YouTube.",
+                    "title": "Sex On the Streets (Club Mix)"
+                },
+                {
+                    "_duration": "455",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=h4H9MM3FknM",
+                    "description": "https://www.discogs.com/Pizzaman-Sex-On-The-Streets/release/2364863?ev=item-vc",
+                    "title": "Pizzaman ‎– Sex On The Streets (Pizzaman Dub)(1995)"
+                },
+                {
+                    "_duration": "550",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=jdDgq4fOnBE",
+                    "description": "",
+                    "title": "Pizzaman - Sex On The Streets (Play Boys Fully Loaded Dub 1995)"
+                },
+                {
+                    "_duration": "453",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Sr1JNrDwqmY",
+                    "description": "Provided to YouTube by Loaded Records\n\nSex On the Streets (Dub) · Pizzaman\n\nSex On the Streets\n\n℗ 1995 Loaded Records Limited, a BMG Company\n\nPerformance: Pizzaman\n\nAuto-generated by YouTube.",
+                    "title": "Sex On the Streets (Dub)"
+                },
+                {
+                    "_duration": "547",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=ELn1hKLrp-E",
+                    "description": "https://www.discogs.com/Pizzaman-Sex-On-The-Streets/release/2364863?ev=item-vc",
+                    "title": "Pizzaman ‎– Sex On The Streets (Play Boys Fully Loaded Dub)(1995)"
+                },
+                {
+                    "_duration": "520",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=1H_wJS1IqxM",
+                    "description": "was released in 1995 on Loaded Records",
+                    "title": "Pizzaman - Sex On The Streets (Tall Paul \u0026 Tin Tin Out Goodfello's Mix)"
+                },
+                {
+                    "_duration": "898",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=SFoH8nBhLME",
+                    "description": "Pizzaman-- Sex On The Streets \r\nLabel: Loaded Records\r\nCatalog#:  12 LOAD 24DJ \r\nFormat: Vinyl, 12, Promo \r\nCountry: UK\r\nReleased:  1995 \r\nGenre: Electronic\r\nStyle: House",
+                    "title": "Pizzaman - Sex On The Streets (Pizzaman Club Mix) \u0026 (Wild Child Dub)"
+                },
+                {
+                    "_duration": "230",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=zZepOWZ3EUQ",
+                    "description": "Wonderful song, great video. When Fatboy Slim was still just Pizzaman - Un mito, sia la canzone, che il video... Il protagonista e le sue movenze sono indimenticabili... per non parlare del Pastore (che ricorda parecchio Funari)...",
+                    "title": "Pizzaman - Sex on the streets"
+                },
+                {
+                    "_duration": "863",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=8MHjV112r1I",
+                    "description": "Pizzaman-- Sex On The Streets \r\nLabel: Loaded Records, Cowboy Records\r\nCatalog#:  12 LOAD 24 DJ, \r\nFormat: Vinyl, 12, Promo, 33 ⅓ RPM \r\nCountry: UK\r\nReleased:  1995 \r\nGenre: Electronic\r\nStyle: House",
+                    "title": "Pizzaman - Sex On The Streets (Pizzaman Club Mix) \u0026 (Pizzaman Dub)"
+                },
+                {
+                    "_duration": "898",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=cKMPNGQK-48",
+                    "description": "Pizzaman-- Sex On The Streets \r\nLabel: Loaded Records\r\nCatalog#:  12 LOAD 24DJ \r\nFormat: Vinyl, 12, Promo \r\nCountry: UK\r\nReleased:  1995 \r\nGenre: Electronic\r\nStyle: House",
+                    "title": "Pizzaman - Sex On The Streets (Red Jerry Mix) \u0026 (Goodfello's Mix)"
+                },
+                {
+                    "_duration": "547",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=z0coSbfD6PA",
+                    "description": "Pizzaman-- Sex On The Streets \r\nLabel: Loaded Records, Cowboy Records\r\nCatalog#:  12 LOAD 24 DJ, \r\nFormat: Vinyl, 12, Promo, 33 ⅓ RPM \r\nCountry: UK\r\nReleased:  1995 \r\nGenre: Electronic\r\nStyle: House",
+                    "title": "Pizzaman - Sex On The Streets (Play Boys Fully Loaded Dub)"
+                }
+            ]
+        }
+    }
+}

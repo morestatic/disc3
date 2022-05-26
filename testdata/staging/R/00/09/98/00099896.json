@@ -1,0 +1,178 @@
+{
+    "release": {
+        "_id": "99896",
+        "_status": "Accepted",
+        "artists": {
+            "artist": [
+                {
+                    "anv": "Higher Intelligence Agency",
+                    "id": "939",
+                    "join": "\u0026",
+                    "name": "The Higher Intelligence Agency",
+                    "role": "",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "",
+                    "tracks": ""
+                }
+            ]
+        },
+        "companies": "",
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "518861",
+                    "join": "",
+                    "name": "Bobby Bird (2)",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "58657",
+                    "join": "",
+                    "name": "Peter Kuhlmann",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "518861",
+                    "join": "",
+                    "name": "Bobby Bird (2)",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "592",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "297",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "593",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "596",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PW 41",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "21111"
+        },
+        "notes": "Recorded at Klanglabor, Traben-Trarbach - Mosel \u0026 HIA Studio Birmingham.\r\nLimited to 2000 copies.",
+        "released": "1999-05-03",
+        "styles": {
+            "style": "Ambient"
+        },
+        "title": "S.H.A.D.O 2",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "16:26",
+                    "position": "1",
+                    "title": "Countless"
+                },
+                {
+                    "duration": "12:14",
+                    "position": "2",
+                    "title": "Inner Sense"
+                },
+                {
+                    "duration": "15:42",
+                    "position": "3",
+                    "title": "Begend"
+                },
+                {
+                    "duration": "10:31",
+                    "position": "4",
+                    "title": "UFO Detection System (Approach - Intercept - Verify)"
+                }
+            ]
+        },
+        "videos": {
+            "video": {
+                "_duration": "3301",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=p6JDmCyABds",
+                "description": "Higher Intelligence Agency - Pete Namlook - S.H.A.D.O 2 [1999]\n\nTracklist:\n1 Countless\n2 Inner Sense\n3 Begend\n4 UFO Detection System (Approach - Intercept - Verify)",
+                "title": "Higher Intelligence Agency \u0026 Pete Namlook - S.H.A.D.O 2 [full album]"
+            }
+        }
+    }
+}

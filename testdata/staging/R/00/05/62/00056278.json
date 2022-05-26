@@ -1,0 +1,158 @@
+{
+    "release": {
+        "_id": "56278",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "30",
+                "join": "",
+                "name": "Groove Collective",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "US",
+        "data_quality": "Correct",
+        "extraartists": "",
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "Maxi-Single"
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": {
+                "_height": "300",
+                "_type": "primary",
+                "_uri": "",
+                "_uri150": "",
+                "_width": "300"
+            }
+        },
+        "labels": {
+            "label": {
+                "_catno": "GSRDM-3085",
+                "_id": "33712",
+                "_name": "Giant Step Records"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "false",
+            "content": "169351"
+        },
+        "released": "1996-00-00",
+        "styles": {
+            "style": "Acid Jazz"
+        },
+        "title": "Lift Off",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "1",
+                    "title": "Lift Off (Original Radio Edit)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "10421",
+                            "join": "",
+                            "name": "Salaam Remi",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "2",
+                    "title": "Lift Off (Remix Radio Edit)"
+                },
+                {
+                    "duration": "",
+                    "position": "3",
+                    "title": "Lift Off (Original Mix)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "10421",
+                            "join": "",
+                            "name": "Salaam Remi",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "4",
+                    "title": "Lift Off (Remix Full Length)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "10421",
+                            "join": "",
+                            "name": "Salaam Remi",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "5",
+                    "title": "Lift Off (Instrumental)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "10421",
+                            "join": "",
+                            "name": "Salaam Remi",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "6",
+                    "title": "Lift Off (Space Mix)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "269",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=q7D8r92ftS8",
+                    "description": "",
+                    "title": "Groove Collective - Lift Off"
+                },
+                {
+                    "_duration": "336",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=pKrqRqU-ryc",
+                    "description": "",
+                    "title": "Groove Collective - Lift Off (Salaam Remi Remix)"
+                },
+                {
+                    "_duration": "269",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=NZvAsVj4IJg",
+                    "description": "http://mistaGROOVERadio.co.uk Love old skool vibes? Check out mistaGROOVE Radio - The Station That Keeps Old Vibes Alive! \n\nmistaGROOVE Radio is an internet radio station that broadcasts old skool vibes 24 hours a day - 7 days a week.  We specialize in So",
+                    "title": "Lift Off   Groove Collective 1996"
+                }
+            ]
+        }
+    }
+}

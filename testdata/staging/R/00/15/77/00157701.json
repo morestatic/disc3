@@ -1,0 +1,123 @@
+{
+    "release": {
+        "_id": "157701",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "14128",
+                "join": "",
+                "name": "4Voice",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "Germany",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "141026",
+                    "join": "",
+                    "name": "Maik Maurice",
+                    "role": "Written-By",
+                    "tracks": "A"
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": {
+                "_height": "299",
+                "_type": "primary",
+                "_uri": "",
+                "_uri150": "",
+                "_width": "297"
+            }
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/30",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "1584476"
+        },
+        "notes": "Limited to 500 copies.\r\n\"4VOICE = PULSATION = PETE NAMLOOK + MIKE MAURICE\" \r\nIs Etched On Runout Groove On Side B",
+        "released": "1992-12-21",
+        "styles": {
+            "style": [
+                "Trance",
+                "Ambient"
+            ]
+        },
+        "title": "4Voice 2",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "6:50",
+                    "position": "A",
+                    "title": "Catching The Scent Of Mystery"
+                },
+                {
+                    "duration": "5:31",
+                    "position": "B1",
+                    "title": "Catching The Scent"
+                },
+                {
+                    "duration": "5:24",
+                    "position": "B2",
+                    "title": "The Mystery"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "414",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=ym03tDOXQbo",
+                    "description": "Classic Trancer from 93, Pete Namlook doing what he done best, and sad news today the 8 Nov 2012 that Pete has passed on..RIP\n\nLabel: Music Man Records\nCatalog#:MMI 9366\nFormat: Vinyl, 12\nCountry:Belgium\nReleased:1993",
+                    "title": "4Voice - Catching The Scent Of Mystery - R.I.P  Peter Kuhlmann 8 Nov 2012"
+                },
+                {
+                    "_duration": "313",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=lywJ1E715ns",
+                    "description": "Album: The Definitive Ambient Collection 1\r\nYear: 1993",
+                    "title": "Pete Namlook - 4 Voice - The Mystery"
+                }
+            ]
+        }
+    }
+}

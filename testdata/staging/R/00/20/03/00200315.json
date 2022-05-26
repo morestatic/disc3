@@ -1,0 +1,131 @@
+{
+    "release": {
+        "_id": "200315",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "5374582",
+                "join": "",
+                "name": "Cœur Atomique",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "Germany",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "5374582",
+                "join": "",
+                "name": "Cœur Atomique",
+                "role": "Written-By",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "A",
+                    "_type": "Matrix / Runout",
+                    "_value": "PRODUCED AT SEL i/S/C 1993"
+                },
+                {
+                    "_description": "B",
+                    "_type": "Matrix / Runout",
+                    "_value": "UWE SCHMIDT PRODUKTNUMMER 55"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "279",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "279"
+                },
+                {
+                    "_height": "276",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "276"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PS 08/24",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Limitation: 500",
+        "released": "1993-09-27",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Techno",
+                "Acid"
+            ]
+        },
+        "title": "Cœur Atomique 2 = Atom Age =",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "6:43",
+                    "position": "A",
+                    "title": "Atom Age"
+                },
+                {
+                    "duration": "7:00",
+                    "position": "B1",
+                    "title": "Volte-Face"
+                },
+                {
+                    "duration": "8:35",
+                    "position": "B2",
+                    "title": "Retouch"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "394",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=M95Y2A4kpls",
+                    "description": "Coeur Atomique - Coeur Atomique 2\r\nLabel: Fax +49-69/450464\r\nCatalog#: PS 08/24\r\nFormat:Vinyl, 12, Limited Edition\r\nCountry: Germany\r\nReleased: 1993\r\nGenre: Electronic\r\nStyle: Techno\r\nCredits: Written-By - Coeur Atomique",
+                    "title": "Coeur Atomique - Atom Age"
+                },
+                {
+                    "_duration": "518",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=XanePM-Tqsg",
+                    "description": "Artist: Cœur Atomique (Actually called Atom Heart).\nAlbum: Cœur atomique.\nTrack: Retouch.\nYear of Release: 1993.\nGenre: IDM, Ambient Techno.\n_________________\n\nExcerpt taken from the film  Caribou Vibration Ensemble by Matthew Colquhoun under Creative",
+                    "title": "Coeur Atomique - Retouch"
+                }
+            ]
+        }
+    }
+}

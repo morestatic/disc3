@@ -1,0 +1,173 @@
+{
+    "release": {
+        "_id": "157335",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "2530",
+                "join": "",
+                "name": "Plez",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": {
+                "catno": "",
+                "entity_type": "6",
+                "entity_type_name": "Licensed From",
+                "id": "567",
+                "name": "Plezure Records",
+                "resource_url": "https://api.discogs.com/labels/567"
+            }
+        },
+        "country": "UK",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "Woodley",
+                    "id": "1035380",
+                    "join": "",
+                    "name": "J. Woodley",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "2530",
+                    "join": "",
+                    "name": "Plez",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "45 RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "593"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "595"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "L 001",
+                "_id": "40",
+                "_name": "Loaded Records"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "false",
+            "content": "162927"
+        },
+        "notes": "Published by Plez Music \r\n(BMI) Licensed from Plezure Records, NY",
+        "released": "1990",
+        "styles": {
+            "style": [
+                "House",
+                "Techno"
+            ]
+        },
+        "title": "Can't Stop",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A1",
+                    "title": "Can't Stop (Acid Rain Forest Mix)"
+                },
+                {
+                    "duration": "",
+                    "position": "A2",
+                    "title": "Can't Stop (Acapella)"
+                },
+                {
+                    "duration": "",
+                    "position": "B1",
+                    "title": "Miss Thang"
+                },
+                {
+                    "duration": "",
+                    "position": "B2",
+                    "title": "Can't Stop (DMR Zone Mix)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "203",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=GA3-20f0bSI",
+                    "description": "",
+                    "title": "Plez   Can't Stop DMR Zone Mix"
+                },
+                {
+                    "_duration": "411",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Hz1mHDZZO_g",
+                    "description": "Bush – Bush 1004 UK 1993",
+                    "title": "Plez – Can't Stop (Sweet Mercy Mix)"
+                },
+                {
+                    "_duration": "407",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=jDViFLbplvM",
+                    "description": "",
+                    "title": "Plez   Can't Stop Acid Rain Forest Mix"
+                },
+                {
+                    "_duration": "473",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=0SmX112e1yg",
+                    "description": "",
+                    "title": "Plez   Can't Stop Bitch Mix"
+                },
+                {
+                    "_duration": "70",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=S4gHiijxNmM",
+                    "description": "Discogs Link:\n\nhttps://www.discogs.com/Plez-Cant-Stop/release/2045\nLabel: Plezure Records – PLZ-S-002\n\nFormat : Vinyl, 12, 33 ⅓ RPM, Stereo\nCountry: US\nPublished: 1990",
+                    "title": "Plez - Can't stop (Acapella)"
+                },
+                {
+                    "_duration": "281",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=T-xIyAPHvA4",
+                    "description": "",
+                    "title": "A1 - Plez - Can't Stop (Sub Sub Mix)"
+                }
+            ]
+        }
+    }
+}

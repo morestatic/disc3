@@ -1,0 +1,114 @@
+{
+    "release": {
+        "_id": "52178",
+        "_status": "Accepted",
+        "artists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "95",
+                    "join": "Featuring",
+                    "name": "Laid",
+                    "role": "",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "47766",
+                    "join": "",
+                    "name": "Derek Conyer",
+                    "role": "",
+                    "tracks": ""
+                }
+            ]
+        },
+        "companies": "",
+        "country": "UK",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "47766",
+                "join": "",
+                "name": "Derek Conyer",
+                "role": "Vocals",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "12\""
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_type": "Barcode",
+                "_value": "5025 4254 079 2 5"
+            }
+        },
+        "images": {
+            "image": {
+                "_height": "600",
+                "_type": "primary",
+                "_uri": "",
+                "_uri150": "",
+                "_width": "592"
+            }
+        },
+        "labels": {
+            "label": {
+                "_catno": "LOAD 79",
+                "_id": "40",
+                "_name": "Loaded Records"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "255094"
+        },
+        "released": "2001",
+        "styles": {
+            "style": [
+                "Deep House",
+                "Tech House"
+            ]
+        },
+        "title": "No More Games",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A1",
+                    "title": "No More Games"
+                },
+                {
+                    "duration": "",
+                    "position": "AA1",
+                    "title": "No More Games (Remix)"
+                },
+                {
+                    "duration": "",
+                    "position": "AA2",
+                    "title": "Pray"
+                }
+            ]
+        },
+        "videos": {
+            "video": {
+                "_duration": "343",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=AnrZlCLiRBw",
+                "description": "",
+                "title": "No More Games - Laid featuring Derek Conyer"
+            }
+        }
+    }
+}

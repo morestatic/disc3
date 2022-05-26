@@ -1,0 +1,579 @@
+{
+    "release": {
+        "_id": "66736",
+        "_status": "Accepted",
+        "artists": {
+            "artist": [
+                {
+                    "anv": "Harvey",
+                    "id": "44101",
+                    "join": "/",
+                    "name": "DJ Harvey",
+                    "role": "",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "951",
+                    "join": "/",
+                    "name": "David Holmes",
+                    "role": "",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "2657",
+                    "join": "",
+                    "name": "Andrew Weatherall",
+                    "role": "",
+                    "tracks": ""
+                }
+            ]
+        },
+        "companies": {
+            "company": {
+                "catno": "",
+                "entity_type": "17",
+                "entity_type_name": "Pressed By",
+                "id": "329811",
+                "name": "Disctronics S",
+                "resource_url": "https://api.discogs.com/labels/329811"
+            }
+        },
+        "country": "UK",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "2657",
+                    "join": "",
+                    "name": "Andrew Weatherall",
+                    "role": "DJ Mix",
+                    "tracks": "1 to 6"
+                },
+                {
+                    "anv": "Harvey",
+                    "id": "44101",
+                    "join": "",
+                    "name": "DJ Harvey",
+                    "role": "DJ Mix",
+                    "tracks": "7 to 11"
+                },
+                {
+                    "anv": "",
+                    "id": "951",
+                    "join": "",
+                    "name": "David Holmes",
+                    "role": "DJ Mix",
+                    "tracks": "12 to 19"
+                },
+                {
+                    "anv": "",
+                    "id": "1832523",
+                    "join": "",
+                    "name": "Tom Hingston Studio",
+                    "role": "Design",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Mixed",
+                        "Promo"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": [
+                "Electronic",
+                "Jazz",
+                "Rock",
+                "Funk / Soul"
+            ]
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "variant 1",
+                    "_type": "Matrix / Runout",
+                    "_value": "DISCTRONICS S NME-LONDON 01"
+                },
+                {
+                    "_description": "variant 1",
+                    "_type": "Mastering SID Code",
+                    "_value": "unknown"
+                },
+                {
+                    "_description": "variant 1",
+                    "_type": "Mould SID Code",
+                    "_value": "unknown"
+                },
+                {
+                    "_description": "mirrored, variant 2",
+                    "_type": "Matrix / Runout",
+                    "_value": "DISCTRONICS S NME-LONDON 01"
+                },
+                {
+                    "_description": "variant 2",
+                    "_type": "Mastering SID Code",
+                    "_value": "IFPI L502"
+                },
+                {
+                    "_description": "variant 2",
+                    "_type": "Mould SID Code",
+                    "_value": "IFPI 8714"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "597",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "470",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "596",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "297",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "591",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "548",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "548"
+                }
+            ]
+        },
+        "labels": {
+            "label": [
+                {
+                    "_catno": "NME-LONDON",
+                    "_id": "15335",
+                    "_name": "New Musical Express"
+                },
+                {
+                    "_catno": "NME-LONDON",
+                    "_id": "241",
+                    "_name": "Nuphonic"
+                }
+            ]
+        },
+        "notes": "Promo CD released in conjunction with XFM \u0026 NME.\n\nTrack 4 is incorrectly listed as \"Brooklyn Bridge (LP Version)\" on release. The track featured is in fact \"Supernatural (You're So)\" from [m60465].\n\nTrack 9 credited to Forms Puls Fiction.\n\nTrack 17 is incorrectly listed as Hot Butter \"Getting Off\" on release. The track featured is in fact \"Cat Casanova\" by Gian Piero Reverberi.\n\nTrack 18 is incorrectly listed as Fred Neil \"Sweet Cocaine\" on release. The track featured is in fact \"Getting Off\" by Hot Butter.",
+        "released": "2000",
+        "styles": {
+            "style": [
+                "House",
+                "Breaks",
+                "Electro",
+                "Alternative Rock"
+            ]
+        },
+        "title": "London Xpress",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "",
+                    "title": "Andrew Weatherall"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "762",
+                            "join": "",
+                            "name": "Plaid",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "2:53",
+                    "position": "1",
+                    "title": "Tophapy"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "5092",
+                            "join": "",
+                            "name": "Burnt Friedman \u0026 The Nu Dub Players",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "2:45",
+                    "position": "2",
+                    "title": "Hard Drive Dub"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "John Tejlda",
+                            "id": "62",
+                            "join": "",
+                            "name": "John Tejada",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "3:27",
+                    "position": "3",
+                    "title": "Daydreaming Disaster"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1344",
+                            "join": "",
+                            "name": "Steve Stoll",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:32",
+                    "position": "4",
+                    "title": "Supernatural (You're So)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "22999",
+                            "join": "",
+                            "name": "7 Hurtz",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:16",
+                    "position": "5",
+                    "title": "Stockers Motor"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "622",
+                            "join": "",
+                            "name": "Lali Puna",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:38",
+                    "position": "6",
+                    "title": "Everywhere All Over"
+                },
+                {
+                    "duration": "",
+                    "position": "",
+                    "title": "Harvey"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "762",
+                            "join": "",
+                            "name": "Plaid",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:28",
+                    "position": "7",
+                    "title": "Ralome"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "14593",
+                            "join": "",
+                            "name": "Addvibe",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "3:14",
+                    "position": "8",
+                    "title": "Love And Happiness"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "230",
+                            "join": "",
+                            "name": "Forme",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "3:18",
+                    "position": "9",
+                    "title": "Morfe"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "50",
+                            "join": "",
+                            "name": "ADNY",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:58",
+                    "position": "10",
+                    "title": "Tell Me"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "Amalgamation Of Soundz",
+                            "id": "5151",
+                            "join": "",
+                            "name": "The Amalgamation Of Soundz",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:07",
+                    "position": "11",
+                    "title": "Salsin"
+                },
+                {
+                    "duration": "",
+                    "position": "",
+                    "title": "David Holmes"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "10502",
+                            "join": "",
+                            "name": "Family Of God",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:57",
+                    "position": "12",
+                    "title": "Family Of God"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "Joy Ziper",
+                            "id": "27526",
+                            "join": "",
+                            "name": "Joy Zipper",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "3:35",
+                    "position": "13",
+                    "title": "Check Out"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "951",
+                            "join": "",
+                            "name": "David Holmes",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "0:32",
+                    "position": "14",
+                    "title": "Commercial Break"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "951",
+                            "join": "",
+                            "name": "David Holmes",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:38",
+                    "position": "15",
+                    "title": "Hey Lisa"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "20124",
+                            "join": "",
+                            "name": "Keith Mansfield",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "1:58",
+                    "position": "16",
+                    "title": "Morning Broadway"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "281531",
+                            "join": "",
+                            "name": "Gian Piero Reverberi",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "3:36",
+                    "position": "17",
+                    "title": "Cat Casanova"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "41818",
+                            "join": "",
+                            "name": "Hot Butter",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "2:50",
+                    "position": "18",
+                    "title": "Getting Off"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "31615",
+                            "join": "",
+                            "name": "Ella Fitzgerald",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "3:05",
+                    "position": "19",
+                    "title": "Sunshine Of Your Love"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "1475",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=SJW9Q3FZZo8",
+                    "description": "Andrew Weatherall - London Xpress [Nuphonic]\n\nhttps://www.discogs.com/release/66736\n\n00:00 Plaid - Tophapy\n02:53 Burnt Friedman \u0026 The Nu Dub Players - Hard Drive Dub\n05:39 John Tejada - Daydreaming Disaster\n09:07 Steve Stoll - Supernatural (You're So)\n13:",
+                    "title": "Andrew Weatherall - London Xpress"
+                },
+                {
+                    "_duration": "1326",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=UQhR-QHRwuA",
+                    "description": "DJ Harvey - London Xpress [Nuphonic]\n\nhttps://www.discogs.com/release/66736\n\n00:00 Plaid - Ralome\n04:28 Addvibe - Love \u0026 Happiness\n08:02 Forme - Morfe\n11:00 ADNY - Tell Me\n16:35 The Amalgamation Of Soundz - Salsin",
+                    "title": "DJ Harvey - London Xpress"
+                },
+                {
+                    "_duration": "1576",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=D-lKIW1O-28",
+                    "description": "David Holmes - London Xpress [Nuphonic]\n\nhttps://www.discogs.com/release/66736\n\n00:00 Family Of God - Family Of God\n05:58 Joy Zipper - Check Out\n09:35 David Holmes - Commercial Break\n10:06 David Holmes - Hey Lisa\n14:44 Keith Mansfield - Morning Broadway\n1",
+                    "title": "David Holmes - London Xpress"
+                },
+                {
+                    "_duration": "233",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=wYe1fEFDRx8",
+                    "description": "Sixth track from the 2003 album 'The Stereo \u0026 God' on Mercury Records.\r\n\r\n1. If I'm Right  \r\n2. 1  \r\n3. Gun Control  \r\n4. 2 Dreams I Had  \r\n5. Window  \r\n6. Check Out My New Jesus",
+                    "title": "Joy Zipper - Check Out My New Jesus"
+                },
+                {
+                    "_duration": "287",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=yMy-_Q_buq4",
+                    "description": "",
+                    "title": "David Holmes - Hey Lisa"
+                },
+                {
+                    "_duration": "125",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=jDZA_-3xfhc",
+                    "description": "innovative and contemporary sound",
+                    "title": "Keith Mansfield - Morning Broadway"
+                },
+                {
+                    "_duration": "238",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=3t0XDKev92U",
+                    "description": "Cat Casanova",
+                    "title": "Gian Piero Reverberi Cat Casanova"
+                },
+                {
+                    "_duration": "176",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=EY--U145mlE",
+                    "description": "hot butter - getting off.\n\nsynthesized disco-funk from the mid-70's from the people that brought you popcorn.  released as a 45 RPM 7 in 1975 on dynamo records, this is a two-part reworking of their earlier song space walk from their second album mo",
+                    "title": "hot butter - getting off"
+                },
+                {
+                    "_duration": "124",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=eDOMpIE-zUA",
+                    "description": "Re-upload (28.03.2016)",
+                    "title": "Keith Mansfield - Morning Broadway [ENG] 1969"
+                }
+            ]
+        }
+    }
+}

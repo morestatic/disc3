@@ -1,0 +1,273 @@
+{
+    "release": {
+        "_id": "24283",
+        "_status": "Accepted",
+        "artists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "88989",
+                    "join": "Feat.",
+                    "name": "Denver",
+                    "role": "",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "47766",
+                    "join": "",
+                    "name": "Derek Conyer",
+                    "role": "",
+                    "tracks": ""
+                }
+            ]
+        },
+        "companies": "",
+        "country": "US",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "47766",
+                    "join": "",
+                    "name": "Derek Conyer",
+                    "role": "Featuring, Lyrics By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "169326",
+                    "join": "",
+                    "name": "Otto Wellton",
+                    "role": "Keyboards [Additional]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "63716",
+                    "join": "",
+                    "name": "Johan Emmoth",
+                    "role": "Producer, Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "28679",
+                    "join": "",
+                    "name": "John Andersson",
+                    "role": "Producer, Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "2",
+                "_text": "",
+                "descriptions": {
+                    "description": "12\""
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_type": "Barcode",
+                "_value": "7 13405 96411 1"
+            }
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "500",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                },
+                {
+                    "_height": "1431",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "602",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "599",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "599",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "601",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "MDR9641-1",
+                "_id": "20",
+                "_name": "Moody Recordings"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "1202732"
+        },
+        "released": "2001-10-01",
+        "styles": {
+            "style": [
+                "House",
+                "Tribal",
+                "Tech House"
+            ]
+        },
+        "title": "Can't Give Up",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "260",
+                            "join": "",
+                            "name": "Olav Basoski",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "A",
+                    "title": "Can't Give Up (Olav Basoski Sunshine On St. Lucia Remix)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "260",
+                            "join": "",
+                            "name": "Olav Basoski",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "B1",
+                    "title": "Can't Give Up (Olav Basoski Dub)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "260",
+                            "join": "",
+                            "name": "Olav Basoski",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "B2",
+                    "title": "Can't Give Up (Olav Basoski Sunshine Beats)"
+                },
+                {
+                    "duration": "",
+                    "position": "C",
+                    "title": "Can't Give Up (Original)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "167260",
+                            "join": "",
+                            "name": "Chus \u0026 Ceballos",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "D1",
+                    "title": "Can't Give Up (Chus \u0026 Ceballos Distraction Vocal Remix)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "167260",
+                            "join": "",
+                            "name": "Chus \u0026 Ceballos",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "D2",
+                    "title": "Can't Give Up (Chus \u0026 Ceballos Distraction Dubby Remix)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "604",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=uIpco2Ovsc0",
+                    "description": "Free Download:\nhttps://soundcloud.com/moodyrecordings/cant-give-up-chus-ceballos-vocal-mix-remaster\nhttps://soundcloud.com/chusceballos\n\nThe Simullax:\nhttps://twitter.com/thesimullax\nhttps://soundcloud.com/thesimullax\n\nArtwork:\nZhengyi Wang - Space Freigh",
+                    "title": "Denver - Can't Give Up ft. Derek Conyer (Chus and Ceballos Distraction Vocal Edit)"
+                },
+                {
+                    "_duration": "410",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=ndGZ3lXcwgU",
+                    "description": "Provided to YouTube by Symphonic Distribution\n\nCan't Give Up (feat. Derek Conyer) · Denver · Derek Conyer · Olav Basoski\n\nCan't Give Up (feat. Derek Conyer)\n\n℗ 2013 Moody Recordings\n\nReleased on: 2013-08-25\n\nFeaturing: Derek Conyer\nRemixer: Olav Baso",
+                    "title": "Can't Give Up (feat. Derek Conyer)"
+                },
+                {
+                    "_duration": "349",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=JRGBGOAZp3o",
+                    "description": "Provided to YouTube by Symphonic Distribution\n\nCan't Give Up (feat. Derek Conyer) · Denver · Derek Conyer · K Warren\n\nCan't Give Up (feat. Derek Conyer) (K Warren Mixes)\n\n℗ 2013 Moody Recordings\n\nReleased on: 2013-08-25\n\nFeaturing: Derek Conyer\nRemix",
+                    "title": "Can't Give Up (feat. Derek Conyer)"
+                },
+                {
+                    "_duration": "453",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Be7OTzI-_kQ",
+                    "description": "Provided to YouTube by Symphonic Distribution\n\nCan't Give Up (feat. Derek Conyer) · Denver · Derek Conyer · Olav Basoski\n\nCan't Give Up (feat. Derek Conyer)\n\n℗ 2013 Moody Recordings\n\nReleased on: 2013-08-25\n\nFeaturing: Derek Conyer\nRemixer: Olav Baso",
+                    "title": "Can't Give Up (feat. Derek Conyer)"
+                }
+            ]
+        }
+    }
+}

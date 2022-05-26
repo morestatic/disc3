@@ -1,0 +1,268 @@
+{
+    "release": {
+        "_id": "99504",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "Jaimy \u0026 Kenny D",
+                "id": "6259",
+                "join": "",
+                "name": "Jaimy \u0026 Kenny D.",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "281479",
+                    "name": "Soundshapes Studio",
+                    "resource_url": "https://api.discogs.com/labels/281479"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "281478",
+                    "name": "Soundshapes Music",
+                    "resource_url": "https://api.discogs.com/labels/281478"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "281706",
+                    "name": "No Panic Music",
+                    "resource_url": "https://api.discogs.com/labels/281706"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "281477",
+                    "name": "Magik Muzik (2)",
+                    "resource_url": "https://api.discogs.com/labels/281477"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "40",
+                    "name": "Loaded Records",
+                    "resource_url": "https://api.discogs.com/labels/40"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "40",
+                    "name": "Loaded Records",
+                    "resource_url": "https://api.discogs.com/labels/40"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "27",
+                    "entity_type_name": "Mixed At",
+                    "id": "853111",
+                    "name": "Mission Control Studios, NJ",
+                    "resource_url": "https://api.discogs.com/labels/853111"
+                }
+            ]
+        },
+        "country": "UK",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "586179",
+                    "join": "",
+                    "name": "Kenneth Doekhie",
+                    "role": "Composed By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "Jaimy \u0026 Kenny D",
+                    "id": "6259",
+                    "join": "",
+                    "name": "Jaimy \u0026 Kenny D.",
+                    "role": "Producer, Arranged By, Mixed By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "Lillian",
+                    "id": "162779",
+                    "join": "",
+                    "name": "Lilian van Sonsbeek",
+                    "role": "Vocals",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "162779",
+                    "join": "",
+                    "name": "Lilian van Sonsbeek",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_description": "Scanned",
+                "_type": "Barcode",
+                "_value": "5025425409325"
+            }
+        },
+        "images": {
+            "image": {
+                "_height": "606",
+                "_type": "primary",
+                "_uri": "",
+                "_uri150": "",
+                "_width": "600"
+            }
+        },
+        "labels": {
+            "label": {
+                "_catno": "LOAD 093",
+                "_id": "40",
+                "_name": "Loaded Records"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "false",
+            "content": "154198"
+        },
+        "notes": "Recorded at Soundshapes Studio Amsterdam\r\nPublished by Soundshapes Music/No Panic Music/Magik Muzik\r\nA1/AA2 Remixed for Double Platinum Productions INC.\r\nMixed @Mission Control Studio, NJ  \r\nSébastien Léger appears courtesy of Blackjack\r\nP Loaded Records 2002\r\nC Loaded Records 2002",
+        "released": "2002",
+        "styles": {
+            "style": [
+                "Progressive House",
+                "House"
+            ]
+        },
+        "title": "Keep On Touchin' Me",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "Todd G.",
+                                "id": "8901",
+                                "join": "",
+                                "name": "Todd Gardner",
+                                "role": "Mixed By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "5485",
+                                "join": "",
+                                "name": "Erick Morillo",
+                                "role": "Remix",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "A1",
+                    "title": "Keep On Touchin' Me (Erick Morillo Edit)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "3780",
+                            "join": "",
+                            "name": "Sébastien Léger",
+                            "role": "Remix, Producer [Additional]",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "A2",
+                    "title": "Keep On Touchin' Me (Sebastian Leger Remix)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "DJ Jaimy",
+                            "id": "7226",
+                            "join": "",
+                            "name": "Jaimy",
+                            "role": "Remix, Producer [Additional]",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "AA1",
+                    "title": "Keep On Touchin' Me (DJ Jaimy's Fatal Mix)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "Todd G.",
+                                "id": "8901",
+                                "join": "",
+                                "name": "Todd Gardner",
+                                "role": "Mixed By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "5485",
+                                "join": "",
+                                "name": "Erick Morillo",
+                                "role": "Remix",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "AA2",
+                    "title": "Keep On Touchin' Me (Erick Morillo Boneappella)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "484",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=25ftnL_s98o",
+                    "description": "Jaimy \u0026 Kenny D - Keep On Touchin' Me (Erick Morillo Edit)",
+                    "title": "Jaimy \u0026 Kenny D - Keep On Touchin' Me (Erick Morillo Edit)"
+                },
+                {
+                    "_duration": "183",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=FGxqdSuLYd4",
+                    "description": "Jaimy \u0026 Kenny D - Keep On Touchin' Me (Erick Morillo Boneappella)",
+                    "title": "Jaimy \u0026 Kenny D - Keep On Touchin' Me (Erick Morillo Boneappella)"
+                }
+            ]
+        }
+    }
+}

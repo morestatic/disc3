@@ -1,0 +1,232 @@
+{
+    "release": {
+        "_id": "7684",
+        "_status": "Accepted",
+        "artists": {
+            "artist": [
+                {
+                    "anv": "Higher Intelligence Agency",
+                    "id": "939",
+                    "join": "\u0026",
+                    "name": "The Higher Intelligence Agency",
+                    "role": "",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "",
+                    "tracks": ""
+                }
+            ]
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "294386",
+                    "name": "Klanglabor Frankfurt",
+                    "resource_url": "https://api.discogs.com/labels/294386"
+                },
+                {
+                    "catno": "33610",
+                    "entity_type": "31",
+                    "entity_type_name": "Glass Mastered At",
+                    "id": "277449",
+                    "name": "P+O Pallas",
+                    "resource_url": "https://api.discogs.com/labels/277449"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "2118078",
+                    "join": "",
+                    "name": "PEK (3)",
+                    "role": "Graphics",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "58657",
+                    "join": "",
+                    "name": "Peter Kuhlmann",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "518861",
+                    "join": "",
+                    "name": "Bobby Bird (2)",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "PW 34 P+O-33610-A1 06-97"
+                },
+                {
+                    "_type": "Mastering SID Code",
+                    "_value": "IFPI L961"
+                },
+                {
+                    "_type": "Mould SID Code",
+                    "_value": "none"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "470",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "599",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "295",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "592",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "580",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PW 34",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "21110"
+        },
+        "notes": "Recorded at Klanglabor, Frankfurt.\r\nLimitation: 2000",
+        "released": "1997-06-09",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Downtempo",
+                "IDM"
+            ]
+        },
+        "title": "S.H.A.D.O",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "11:04",
+                    "position": "1",
+                    "title": "Intruder Detector"
+                },
+                {
+                    "duration": "9:51",
+                    "position": "2",
+                    "title": "Secret Location"
+                },
+                {
+                    "duration": "13:51",
+                    "position": "3",
+                    "title": "Space Interceptors"
+                },
+                {
+                    "duration": "20:53",
+                    "position": "4",
+                    "title": "Skydiver"
+                },
+                {
+                    "duration": "9:42",
+                    "position": "5",
+                    "title": "Maintaining Scan For UFO's"
+                }
+            ]
+        },
+        "videos": {
+            "video": {
+                "_duration": "3928",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=miU7sAvWxy4",
+                "description": "Higher Intelligence Agency - Pete Namlook - S.H.A.D.O [1997]\n\nTrack List:\n1. Intruder Detector\n2. Secret Location\n3. Space Interceptors\n4. Skydiver\n5. Maintaining Scan For UFO's",
+                "title": "Higher Intelligence Agency \u0026 Pete Namlook - S.H.A.D.O [full album]"
+            }
+        }
+    }
+}

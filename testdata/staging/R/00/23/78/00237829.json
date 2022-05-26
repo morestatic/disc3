@@ -1,0 +1,314 @@
+{
+    "release": {
+        "_id": "237829",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "Papp/Warrin",
+                "id": "265",
+                "join": "",
+                "name": "Julius Papp \u0026 Dave Warrin",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "2910",
+                    "name": "Maxi Records",
+                    "resource_url": "https://api.discogs.com/labels/2910"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "361297",
+                    "name": "Selective Collective Corp.",
+                    "resource_url": "https://api.discogs.com/labels/361297"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "2910",
+                    "name": "Maxi Records",
+                    "resource_url": "https://api.discogs.com/labels/2910"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "361297",
+                    "name": "Selective Collective Corp.",
+                    "resource_url": "https://api.discogs.com/labels/361297"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "38",
+                    "entity_type_name": "Manufactured For",
+                    "id": "2910",
+                    "name": "Maxi Records",
+                    "resource_url": "https://api.discogs.com/labels/2910"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "9",
+                    "entity_type_name": "Distributed By",
+                    "id": "2910",
+                    "name": "Maxi Records",
+                    "resource_url": "https://api.discogs.com/labels/2910"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "337546",
+                    "name": "D.O.K. Music, Inc.",
+                    "resource_url": "https://api.discogs.com/labels/337546"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "356122",
+                    "name": "Oskris Toons",
+                    "resource_url": "https://api.discogs.com/labels/356122"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "37",
+                    "entity_type_name": "Produced For",
+                    "id": "829863",
+                    "name": "Multivitamin Productions",
+                    "resource_url": "https://api.discogs.com/labels/829863"
+                }
+            ]
+        },
+        "country": "US",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "34",
+                    "join": "",
+                    "name": "Miguel Migs",
+                    "role": "Guitar",
+                    "tracks": "B1 to B3"
+                },
+                {
+                    "anv": "",
+                    "id": "510151",
+                    "join": "",
+                    "name": "Alex Marlowe",
+                    "role": "Keyboards",
+                    "tracks": "B1 to B3"
+                },
+                {
+                    "anv": "",
+                    "id": "40",
+                    "join": "",
+                    "name": "Dave Warrin",
+                    "role": "Keyboards",
+                    "tracks": "A1, A2"
+                },
+                {
+                    "anv": "",
+                    "id": "5615",
+                    "join": "",
+                    "name": "Julius Papp",
+                    "role": "Producer, Arranged By",
+                    "tracks": "B1 to B3"
+                },
+                {
+                    "anv": "Julis Papp And Dave Warrin",
+                    "id": "265",
+                    "join": "",
+                    "name": "Julius Papp \u0026 Dave Warrin",
+                    "role": "Producer, Arranged By",
+                    "tracks": "A1, A2"
+                },
+                {
+                    "anv": "D. Warrin, J. Papp",
+                    "id": "265",
+                    "join": "",
+                    "name": "Julius Papp \u0026 Dave Warrin",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Text",
+                    "_type": "Barcode",
+                    "_value": "7 48116-2073-1 8"
+                },
+                {
+                    "_description": "String",
+                    "_type": "Barcode",
+                    "_value": "748116207318"
+                },
+                {
+                    "_type": "Rights Society",
+                    "_value": "ASCAP"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "588",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "391"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "MX-2073",
+                "_id": "77705",
+                "_name": "Maxi Tracks"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "104195"
+        },
+        "released": "1998-10-09",
+        "styles": {
+            "style": [
+                "Deep House",
+                "Jazzdance",
+                "Latin"
+            ]
+        },
+        "title": "Santos / Let Me Be",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "6:25",
+                    "position": "A1",
+                    "title": "Santos (The Excursion Mix)"
+                },
+                {
+                    "duration": "6:25",
+                    "position": "A2",
+                    "title": "Santos (The Space Cadet Mix)"
+                },
+                {
+                    "duration": "5:50",
+                    "position": "B1",
+                    "title": "Let Me Be (JP's Deep Ride Mix)"
+                },
+                {
+                    "duration": "6:30",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "8855",
+                                "join": "",
+                                "name": "Migs And Jelly",
+                                "role": "Remix",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "56476",
+                                "join": "",
+                                "name": "Marc Jellybear",
+                                "role": "Remix [Remixed By]",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "34",
+                                "join": "",
+                                "name": "Miguel Migs",
+                                "role": "Remix [Remixed By]",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "B2",
+                    "title": "Let Me Be (Mig's \u0026 Jelly Mix)"
+                },
+                {
+                    "duration": "3:05",
+                    "position": "B3",
+                    "title": "Let Me Be (Pickapella Mix)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "376",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=ZcO4Hl_hBS0",
+                    "description": "1998 Maxi Records ‎-- MX-2073 \nhttp://www.discogs.com/Papp-Warren-Santos-Let-Me-Be/release/237829",
+                    "title": "Papp / Warren - Santos (The Excursion Mix)"
+                },
+                {
+                    "_duration": "337",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=M2vUQHPp8Dg",
+                    "description": "",
+                    "title": "Let Me Be (JP's Deep Ride) - PAPP/WARRIN"
+                },
+                {
+                    "_duration": "393",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=X-d5cSndv0I",
+                    "description": "Provided to YouTube by Warner Music Group\n\nSantos (The Space Cadet Mix) · Papp · Warren\n\nSantos\n\n℗ 1998 Nettwerk Productions Ltd.\n\nAuto-generated by YouTube.",
+                    "title": "Santos (The Space Cadet Mix)"
+                },
+                {
+                    "_duration": "395",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=iFEKMN5uqJg",
+                    "description": "1998. Santos / Let Me Be Vinyl, 12  -  Maxi Tracks\nKeyboards by Alex Marlowe. Guitar by Miguel Migs. Remixed by Marc Jellybear and Miguel Migs",
+                    "title": "Papp/Warrin  -  Let Me Be (Migs \u0026 Jelly MIX)"
+                }
+            ]
+        }
+    }
+}

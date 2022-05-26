@@ -1,0 +1,199 @@
+{
+    "release": {
+        "_id": "59",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "4771692",
+                "join": "",
+                "name": "Solitaire (12)",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": {
+                "catno": "",
+                "entity_type": "23",
+                "entity_type_name": "Recorded At",
+                "id": "265055",
+                "name": "reSource Heidelberg",
+                "resource_url": "https://api.discogs.com/labels/265055"
+            }
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "152",
+                "join": "",
+                "name": "David Moufang",
+                "role": "Written-By",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_type": "Label Code",
+                "_value": "LC 6269"
+            }
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "594",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "597"
+                },
+                {
+                    "_height": "298",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "462",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "592",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PS 08/63",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "299090"
+        },
+        "notes": "Recorded at Resource Studios July/August 1994.\r\nHeidelberg 1994.\r\n\r\nLimited to 1000 copies.",
+        "released": "1995-03-13",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Techno"
+            ]
+        },
+        "title": "Solitaire",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "15:58",
+                    "position": "1",
+                    "title": "In/Out"
+                },
+                {
+                    "duration": "7:22",
+                    "position": "2",
+                    "title": "Mad Mood"
+                },
+                {
+                    "duration": "9:03",
+                    "position": "3",
+                    "title": "Damaskus - Dakar"
+                },
+                {
+                    "duration": "4:57",
+                    "position": "4",
+                    "title": "Indian Mantra"
+                },
+                {
+                    "duration": "15:33",
+                    "position": "5",
+                    "title": "P.M."
+                },
+                {
+                    "duration": "9:46",
+                    "position": "6",
+                    "title": "Sergio Leone's Wet Dream"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "960",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=UoIfsgvlegs",
+                    "description": "http://www.discogs.com/David-Moufang-Solitaire/master/299090\n\nDavid Moufang ‎-- Solitaire\nGenre: Electronic\nStyle: Ambient\nYear: 1995",
+                    "title": "David Moufang ‎-- In/Out"
+                },
+                {
+                    "_duration": "440",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=fOmr2hbygBE",
+                    "description": "Solitaire (1995)",
+                    "title": "David Moufang - Mad Mood"
+                },
+                {
+                    "_duration": "541",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=NzdZ2Of9MWc",
+                    "description": "http://www.discogs.com/David-Moufang-Solitaire/release/59 \nIf talent converted into record sales, david moufang would be a very rich man. his records with partner jonas grossmann as deep space network and his own solo releases as move d are among the furt",
+                    "title": "David Moufang - Damaskus-Dakar"
+                },
+                {
+                    "_duration": "932",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=ljJws6OLcTI",
+                    "description": "Thank you David for all the mindblowing music you have given us.\r\n\r\nYou can still purchase copies of this brilliant CD on discogs: http://www.discogs.com/sell/list?master_id=299090\u0026ev=mb\r\nBuy it from user nmlk (= Pete Namlook), that way you support the ar",
+                    "title": "David Moufang - P.M."
+                },
+                {
+                    "_duration": "589",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=xJPguqnl8sU",
+                    "description": "There is an edited, shorter version of this already on youtube but I wanted to include the full track as featured on the 1994 album 'Solitaire' on Fax. \r\nhttp://www.discogs.com/David-Moufang-Solitaire/release/59\r\n\r\n\r\nIf talent converted into record sales,",
+                    "title": "David Moufang - Sergio Leone's Wet Dream"
+                }
+            ]
+        }
+    }
+}

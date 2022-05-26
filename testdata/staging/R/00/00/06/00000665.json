@@ -1,0 +1,404 @@
+{
+    "release": {
+        "_id": "665",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "194",
+                "join": "",
+                "name": "Various",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "UK",
+        "data_quality": "Needs Vote",
+        "extraartists": "",
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "Compilation"
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_type": "Barcode",
+                "_value": "5 024856 600097 \u003e"
+            }
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "597",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "465",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "593",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "296",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "467",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "Soma CD9",
+                "_id": "18",
+                "_name": "Soma Quality Recordings"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "false",
+            "content": "37419"
+        },
+        "released": "1997-10-20",
+        "styles": {
+            "style": [
+                "Techno",
+                "Tech House"
+            ]
+        },
+        "title": "Soma Quality Recordings - Volume 4",
+        "tracklist": {
+            "track": [
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1024",
+                            "join": "",
+                            "name": "Otaku",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:43",
+                    "position": "1",
+                    "title": "Emelia's First Tooth"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "245",
+                            "join": "",
+                            "name": "Envoy",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:16",
+                    "position": "2",
+                    "title": "Dark Manoeuvres"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1025",
+                            "join": "",
+                            "name": "Bush Funk",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:02",
+                    "position": "3",
+                    "title": "Boogie Bus"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1019",
+                            "join": "",
+                            "name": "Funk D'Void",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:23",
+                    "position": "4",
+                    "title": "V-Ger"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1015",
+                            "join": "",
+                            "name": "Slam",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:54",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "879",
+                            "join": "",
+                            "name": "Claude Young",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "5",
+                    "title": "Dark Forces (Claude Young Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1026",
+                            "join": "",
+                            "name": "Space DJz",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:23",
+                    "position": "6",
+                    "title": "Lights"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1027",
+                            "join": "",
+                            "name": "New Soul Fusion",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "7:01",
+                    "position": "7",
+                    "title": "Prelude"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "20",
+                            "join": "",
+                            "name": "Percy X",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:47",
+                    "position": "8",
+                    "title": "Day 3"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "164",
+                            "join": "",
+                            "name": "Pressure Funk",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:50",
+                    "position": "9",
+                    "title": "Raw Spirit"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1028",
+                            "join": "",
+                            "name": "Hutton Drive",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:02",
+                    "position": "10",
+                    "title": "House Train"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1019",
+                            "join": "",
+                            "name": "Funk D'Void",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:21",
+                    "position": "11",
+                    "title": "Bad Coffee"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "117",
+                            "join": "",
+                            "name": "20:20 Vision",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:44",
+                    "position": "12",
+                    "title": "Future Remembrance (20:20 Livestyle Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1017",
+                            "join": "",
+                            "name": "Maas",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:59",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "I.Cube",
+                            "id": "1029",
+                            "join": "",
+                            "name": "I:Cube",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "13",
+                    "title": "Look At Me Now Falling (I.Cube Simple Mix)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "316",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=ZUORI2u2G4o",
+                    "description": "Label: Soma Quality Recordings\nYear: 1996\n\nVisit:\nhttp://soundofthemachines.blogspot.com/\nhttps://plus.google.com/u/0/109997689890744856092/\nhttps://www.facebook.com/ElectronicSoundLab\nhttps://twitter.com/_ElectronicLab\nhttp://www.mixcloud.com/ElectronicS",
+                    "title": "Dark Manoeuvres - Envoy"
+                },
+                {
+                    "_duration": "590",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=WFeg_OdQDHc",
+                    "description": "Blooming, sweaty electronics exploring space\nOtaku ‎– Emelia, SOMA041, side B (1996, UK)\n\n\nFor promotional use only, will remove on request.\n\n\nMore info \u0026 buying here\nhttps://www.discogs.com/Otaku-Emelia/release/21223",
+                    "title": "Otaku - Emelia's Day Out"
+                },
+                {
+                    "_duration": "358",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=SQEiy5drcgU",
+                    "description": "Track remixed by Claude Young.",
+                    "title": "Slam - Dark Forces (Claude Young Mix)"
+                },
+                {
+                    "_duration": "463",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=IAL8PggsTwE",
+                    "description": "New Soul Fusion ‎- Prelude\nLabel: Soma Quality Recordings - SOMA 047\nCountry: UK\nYear: 02 Dec 1996",
+                    "title": "New Soul Fusion - Prelude"
+                },
+                {
+                    "_duration": "637",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=iVhRPY47mNA",
+                    "description": "20:20 Vision -  Future Remembrance (20:20 Livestyle Mix)",
+                    "title": "20:20 Vision -  Future Remembrance (20:20 Livetsyle Mix)"
+                },
+                {
+                    "_duration": "3688",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=YxdVs6cGJrk",
+                    "description": "Old School But Good School \nRemembering why we fell in love with electronic music \nhttp://www.oldschoolbutgoodschool.com\n\nJoin us on Facebook: \nhttp://www.facebook.com/oldschoolbutgoodschool\n\nTracklisting:\n\n1. Percy X - -3\n2. Equus - Sulphur\n3. Rejuvinati",
+                    "title": "Slam - Soma Quality Recordings Volume 4 (1997) (Full Mix)"
+                },
+                {
+                    "_duration": "441",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=oFYhz5ZJV8I",
+                    "description": "https://www.discogs.com/Bush-Funk-Tales-From-The-Bush-EP/release/17390",
+                    "title": "Bush Funk - Boogie Bus"
+                },
+                {
+                    "_duration": "348",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=xRZP5Pk77q4",
+                    "description": "http://www.discogs.com/search?q=percy+x+day+3\u0026btn=\u0026type=all\n(1995)",
+                    "title": "PERCY X - Day 3      (Day 3 EP  [Soma Quality Recordings])"
+                },
+                {
+                    "_duration": "293",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=MoYsdmlCoYo",
+                    "description": "Provided to YouTube by PIAS\n\nRaw Spirit · Pressure Funk\n\nRaw Spirit\n\n℗ Soma Records\n\nReleased on: 1997-01-27\n\nComposer: Jim Muotune\nComposer: McMillan\n\nAuto-generated by YouTube.",
+                    "title": "Raw Spirit"
+                },
+                {
+                    "_duration": "305",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=whW3pfSdmVI",
+                    "description": "Provided to YouTube by PIAS\n\nHouse Train · Hutton Drive\n\nEscapades from the Edge of the World\n\n℗ Soma Records\n\nReleased on: 1997-05-05\n\nComposer: Dominic Capello\n\nAuto-generated by YouTube.",
+                    "title": "House Train"
+                },
+                {
+                    "_duration": "365",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=3muXh5hkQOc",
+                    "description": "1997. Look at me now, Falling (I - Cube Mixes) Vinyl, 12  -  Soma Quality Recordings\nhttps://www.discogs.com/Maas-Look-At-Me-Now-Falling-I-Cube-Mixes/release/21070\nhttps://www.somarecords.com/shop/music/soma_54/",
+                    "title": "Maas  -  Look at me now, Falling (I-Cube Simple Mix)"
+                }
+            ]
+        }
+    }
+}

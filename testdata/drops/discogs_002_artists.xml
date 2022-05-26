@@ -1,0 +1,146 @@
+<artists>
+  <artist>
+    <images>
+      <image type="secondary" uri="" uri150="" width="364" height="295"/>
+    </images>
+    <id>20</id>
+    <name>Percy X</name>
+    <realname>Anthony Scott MacKinnon</realname>
+    <profile>Producer and DJ from Glasgow, Scotland</profile>
+    <data_quality>Needs Vote</data_quality>
+    <urls>
+      <url>http://www.myspace.com/percyxuk  </url>
+      <url>http://www.somarecords.com/artists/percyx</url>
+    </urls>
+    <namevariations>
+      <name>Percy-X</name>
+      <name>PercyX</name>
+    </namevariations>
+    <aliases>
+      <name id="11581">Mion</name>
+      <name id="47441">Abyss</name>
+      <name id="64036">Recycle (2)</name>
+      <name id="72791">Shortfiction</name>
+      <name id="529343">Tony Scott (4)</name>
+      <name id="529344">The X-Man (3)</name>
+      <name id="843618">Edit Select</name>
+    </aliases>
+  </artist>
+  <artist>
+    <images>
+      <image type="secondary" uri="" uri150="" width="600" height="384"/>
+    </images>
+    <id>30</id>
+    <name>Groove Collective</name>
+    <profile>American jazz-funk combo from New York City, formed in early 1990s. </profile>
+    <data_quality>Needs Vote</data_quality>
+    <urls>
+      <url>http://www.groovecollective.com/</url>
+      <url>http://www.myspace.com/groovecollective</url>
+    </urls>
+    <namevariations>
+      <name>Groove Collection</name>
+      <name>Members of the Groove Collective</name>
+      <name>The Groove Collective</name>
+    </namevariations>
+    <members>
+      <id>6549</id>
+      <name id="6549">Richard Worth</name>
+      <id>28896</id>
+      <name id="28896">Jay Rodriguez</name>
+      <id>36607</id>
+      <name id="36607">Itaal Shur</name>
+      <id>92196</id>
+      <name id="92196">Jonathan Maron</name>
+      <id>158991</id>
+      <name id="158991">Genji Siraisi</name>
+      <id>167514</id>
+      <name id="167514">Bill Ware</name>
+      <id>198364</id>
+      <name id="198364">Fabio Morgera</name>
+      <id>601630</id>
+      <name id="601630">Barney McAll</name>
+      <id>799054</id>
+      <name id="799054">Gordon Clay</name>
+    </members>
+    <groups>
+      <name id="6549">Richard Worth</name>
+    </groups>
+  </artist>
+  <artist>
+    <id>40</id>
+    <name>Dave Warrin</name>
+    <profile></profile>
+    <data_quality>Needs Vote</data_quality>
+    <namevariations>
+      <name>D Warrin</name>
+      <name>D. Warrin</name>
+      <name>D.Warrin</name>
+      <name>Dave Warren</name>
+      <name>Warrin</name>
+    </namevariations>
+    <aliases>
+      <name id="8123">Central Living</name>
+      <name id="8516">2DB</name>
+      <name id="36193">Mindflight</name>
+    </aliases>
+    <groups>
+      <name id="36">Lovetronic</name>
+      <name id="265">Julius Papp &amp; Dave Warrin</name>
+      <name id="3920">Slide Five</name>
+      <name id="52060">Brothers Warrin</name>
+      <name id="331004">Li'sha Project</name>
+    </groups>
+  </artist>
+  <artist>
+    <images>
+      <image type="primary" uri="" uri150="" width="600" height="401"/>
+      <image type="secondary" uri="" uri150="" width="500" height="572"/>
+    </images>
+    <id>50</id>
+    <name>ADNY</name>
+    <realname>Alexi Delano</realname>
+    <profile></profile>
+    <data_quality>Needs Vote</data_quality>
+    <urls>
+      <url>http://www.myspace.com/adltd</url>
+    </urls>
+    <namevariations>
+      <name>A.D.N.Y</name>
+      <name>A.D.N.Y.</name>
+    </namevariations>
+    <aliases>
+      <name id="26">Alexi Delano</name>
+      <name id="937">G.O.L.</name>
+      <name id="1386">Leiva</name>
+      <name id="28855">Bob Brewthbaker</name>
+      <name id="97928">Mr. Couscous</name>
+      <name id="460946">A.D.1010</name>
+    </aliases>
+  </artist>
+  <artist>
+    <images>
+      <image type="secondary" uri="" uri150="" width="200" height="134"/>
+      <image type="secondary" uri="" uri150="" width="300" height="225"/>
+    </images>
+    <id>60</id>
+    <name>Pete Moss</name>
+    <realname>Pete Moss</realname>
+    <profile>A native of New England, Pete Moss is a Philadelphia-based DJ and producer of deep house and tech house. Owns and runs the Recline Records label.</profile>
+    <data_quality>Correct</data_quality>
+    <urls>
+      <url>http://www.myspace.com/reclinerecords</url>
+    </urls>
+    <namevariations>
+      <name>DJ Pete Moss</name>
+      <name>Moss</name>
+      <name>P Moss</name>
+      <name>P. Moss</name>
+      <name>P.Moss</name>
+      <name>Pete</name>
+    </namevariations>
+    <aliases>
+      <name id="159612">Mirage (10)</name>
+    </aliases>
+  </artist>
+</artists>

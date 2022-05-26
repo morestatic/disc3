@@ -1,0 +1,96 @@
+{
+    "release": {
+        "_id": "58128",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "62",
+                "join": "",
+                "name": "John Tejada",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "US",
+        "data_quality": "Correct",
+        "extraartists": "",
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "12\""
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PAL021",
+                "_id": "30",
+                "_name": "Palette Recordings"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "1633181"
+        },
+        "released": "2002-00-00",
+        "styles": {
+            "style": [
+                "Techno",
+                "Minimal",
+                "Tech House"
+            ]
+        },
+        "title": "Music For Doubles (VIP Mixes)",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A",
+                    "title": "Music For Doubles (John Tejada VIP Mix)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1137",
+                            "join": "",
+                            "name": "Daniel Bell",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "B",
+                    "title": "Music For Doubles (Daniel Bell Remix)"
+                }
+            ]
+        }
+    }
+}

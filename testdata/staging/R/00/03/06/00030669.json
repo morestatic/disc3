@@ -1,0 +1,394 @@
+{
+    "release": {
+        "_id": "30669",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "4311",
+                "join": "",
+                "name": "Jack De Marseille",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "France",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "4311",
+                "join": "",
+                "name": "Jack De Marseille",
+                "role": "DJ Mix",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "Mixed"
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "190",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "190"
+                },
+                {
+                    "_height": "300",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "300"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "AFCD02",
+                "_id": "2127",
+                "_name": "FAMILIES"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "false",
+            "content": "86274"
+        },
+        "released": "2001-06-14",
+        "styles": {
+            "style": [
+                "Techno",
+                "Deep House",
+                "Electro"
+            ]
+        },
+        "title": "Rendez-Vous",
+        "tracklist": {
+            "track": [
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "50",
+                            "join": "",
+                            "name": "ADNY",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:58",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "739",
+                            "join": "",
+                            "name": "Jori Hulkkonen",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "1",
+                    "title": "Dreaming (Jori Hulkkonen Remix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "737",
+                            "join": "",
+                            "name": "Circulation",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:04",
+                    "position": "2",
+                    "title": "Crimson"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "202",
+                            "join": "",
+                            "name": "Kid Scientific",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:42",
+                    "position": "3",
+                    "title": "Day Won"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1510",
+                            "join": "",
+                            "name": "Undercover Agency",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "3:58",
+                    "position": "4",
+                    "title": "Clever Endeavours"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "2509",
+                            "join": "",
+                            "name": "Yann Fontaine",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:12",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "4471",
+                            "join": "",
+                            "name": "New Phunk Theory",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "5",
+                    "title": "Open Your Eyes (New Phunk Theory's Little Green Dub)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "108",
+                            "join": "",
+                            "name": "Ian Pooley",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:56",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "14168",
+                            "join": "",
+                            "name": "Cosmos",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "6",
+                    "title": "900 Degrees (Tom Middleton Cosmos Deep Dub)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "14855",
+                            "join": "",
+                            "name": "Two To The Power",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:40",
+                    "position": "7",
+                    "title": "Noise \u0026 Music"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "14971",
+                            "join": "",
+                            "name": "Universal Agents",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:31",
+                    "position": "8",
+                    "title": "West Of Athens"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "152988",
+                            "join": "",
+                            "name": "Dave",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "3:40",
+                    "position": "9",
+                    "title": "Blunt"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "Shamlou",
+                            "id": "33024",
+                            "join": "",
+                            "name": "Pino Shamlou",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "3:41",
+                    "position": "10",
+                    "title": "Three Sisters"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "20119",
+                            "join": "",
+                            "name": "Gabriel Ananda",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "3:11",
+                    "position": "11",
+                    "title": "Bye"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "2249",
+                            "join": "",
+                            "name": "CiM",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:06",
+                    "position": "12",
+                    "title": "Bias"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "4311",
+                            "join": "",
+                            "name": "Jack De Marseille",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:50",
+                    "position": "13",
+                    "title": "Voie Céleste"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "10630",
+                            "join": "",
+                            "name": "Alex Moran",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:24",
+                    "position": "14",
+                    "title": "Earth Women Are Easy"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "2637",
+                            "join": "",
+                            "name": "G-Pal",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:20",
+                    "position": "15",
+                    "title": "After Life"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "11883",
+                            "join": "",
+                            "name": "Mettle Music",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:48",
+                    "position": "16",
+                    "title": "Tranquility (Original)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "480",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=AOJqkDwjaVQ",
+                    "description": "Label:\nHeadspace Recordings (UK) ‎-- HS-009\nFormat:\nVinyl, 12, 33 ⅓ RPM\nCountry:\nUK\nReleased:\n1999\nGenre:\nElectronic\nStyle:\nIDM, Techno, Electro",
+                    "title": "CiM - Bias"
+                },
+                {
+                    "_duration": "615",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Gzxj4K0VwJk",
+                    "description": "http://www.discogs.com/Ian-Pooley-900-Degrees/release/20866 All about that release at 5:56. If anyone wants me to take this down just let me know.",
+                    "title": "Ian Pooley - 900 Degrees (Tom Middleton Cosmos Deep Dub)"
+                },
+                {
+                    "_duration": "425",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=2FQ-rteN93U",
+                    "description": "Label: Low Pressings ‎– LP032R\nFormat: Vinyl, 12 \nCountry: UK\nReleased: 2001\nGenre: Electronic\nStyle: Tribal, Tech House",
+                    "title": "Yann Fontaine - Open Your Eyes (New Phunk Theory Mix)"
+                },
+                {
+                    "_duration": "343",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=j6OOac2lA7U",
+                    "description": "Provided to YouTube by IIP-DDS\n\nRight On · Pete Moss\n\nRight On\n\n℗ Alola Records\n\nReleased on: 2013-03-18\n\nArtist: Pete Moss\n\nAuto-generated by YouTube.",
+                    "title": "Right On"
+                },
+                {
+                    "_duration": "351",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=gcYThLpVPlw",
+                    "description": "Provided to YouTube by Label Worx Ltd\n\nEarth Women Are Easy (Original Mix [2015 Remaster]) · Alex Moran\n\nGlasgow Underground 97:07\n\n℗ 2015 Glasgow Underground\n\nReleased on: 2014-12-16\n\nComposer: Various\n\nAuto-generated by YouTube.",
+                    "title": "Earth Women Are Easy (Original Mix [2015 Remaster])"
+                }
+            ]
+        }
+    }
+}

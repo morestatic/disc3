@@ -1,0 +1,307 @@
+{
+    "release": {
+        "_id": "49507",
+        "_status": "Accepted",
+        "artists": {
+            "artist": [
+                {
+                    "anv": "Lakoff",
+                    "id": "264443",
+                    "join": "/",
+                    "name": "Valery Alakhov",
+                    "role": "",
+                    "tracks": ""
+                },
+                {
+                    "anv": "Igr Ver",
+                    "id": "264444",
+                    "join": ",",
+                    "name": "Igor Ver",
+                    "role": "",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "",
+                    "tracks": ""
+                }
+            ]
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "265012",
+                    "name": "Klanglabor Hödeshof",
+                    "resource_url": "https://api.discogs.com/labels/265012"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "391788",
+                    "name": "New Composers Studio",
+                    "resource_url": "https://api.discogs.com/labels/391788"
+                },
+                {
+                    "catno": "38430",
+                    "entity_type": "10",
+                    "entity_type_name": "Manufactured By",
+                    "id": "277449",
+                    "name": "P+O Pallas",
+                    "resource_url": "https://api.discogs.com/labels/277449"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "2750002",
+                    "join": "",
+                    "name": "Planetarium St. Petersburg",
+                    "role": "Graphics [Cover Graphics]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "2118078",
+                    "join": "",
+                    "name": "PEK (3)",
+                    "role": "Layout",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "58657",
+                    "join": "",
+                    "name": "Peter Kuhlmann",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "Galina Bisidiina",
+                    "id": "716100",
+                    "join": "",
+                    "name": "Галина Беседина",
+                    "role": "Voice",
+                    "tracks": "6"
+                },
+                {
+                    "anv": "Michael Tariwirdiiw",
+                    "id": "702287",
+                    "join": "",
+                    "name": "Микаэл Таривердиев",
+                    "role": "Voice",
+                    "tracks": "6"
+                },
+                {
+                    "anv": "Igr Ver",
+                    "id": "264444",
+                    "join": "",
+                    "name": "Igor Ver",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": "1 to 10, 12"
+                },
+                {
+                    "anv": "Lakoff",
+                    "id": "264443",
+                    "join": "",
+                    "name": "Valery Alakhov",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Limited Edition",
+                        "Album"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "PW 38 P+O-38430-A1 06-98"
+                },
+                {
+                    "_type": "Mastering SID Code",
+                    "_value": "IFPI L961"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "601",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "465",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "248",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "494"
+                },
+                {
+                    "_height": "599",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PW 38",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "185150"
+        },
+        "notes": "Recorded at Klanglabor, Traben-Trarbach \u0026 New Composers Studio, St. Petersburg.\n\nLimitation: 2000.",
+        "released": "1998-06-15",
+        "styles": {
+            "style": [
+                "Abstract",
+                "Ambient",
+                "Dub",
+                "Modern Classical"
+            ]
+        },
+        "title": "Planetarium",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "3:14",
+                    "position": "1",
+                    "title": "Life On Mars"
+                },
+                {
+                    "duration": "6:48",
+                    "position": "2",
+                    "title": "There Is Not Another World"
+                },
+                {
+                    "duration": "3:27",
+                    "position": "3",
+                    "title": "Echnaton"
+                },
+                {
+                    "duration": "3:45",
+                    "position": "4",
+                    "title": "Waters Of Love"
+                },
+                {
+                    "duration": "5:55",
+                    "position": "5",
+                    "title": "Tetra"
+                },
+                {
+                    "duration": "3:22",
+                    "position": "6",
+                    "title": "Musika I Slowa"
+                },
+                {
+                    "duration": "4:07",
+                    "position": "7",
+                    "title": "Indigo"
+                },
+                {
+                    "duration": "3:22",
+                    "position": "8",
+                    "title": "The Second Sector"
+                },
+                {
+                    "duration": "3:16",
+                    "position": "9",
+                    "title": "In The Memory Of Magnitola"
+                },
+                {
+                    "duration": "3:15",
+                    "position": "10",
+                    "title": "Una"
+                },
+                {
+                    "duration": "2:37",
+                    "position": "11",
+                    "title": "Bellan"
+                },
+                {
+                    "duration": "7:00",
+                    "position": "12",
+                    "title": "Shadows Of Shadows"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "199",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=uKg_3rBRLZ4",
+                    "description": "Pete Namlook \u0026 New Composers - In the Memory of Magnitola\nPlanetarium 2xLP 1997\nAmbient Playlist: https://tinyurl.com/y4nuslcr\n\nvinyl stacks Ambient youtube playlist: https://tinyurl.com/y4nuslcr",
+                    "title": "Pete Namlook \u0026 New Composers - In the Memory of Magnitola"
+                },
+                {
+                    "_duration": "160",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=-GTSDivb23I",
+                    "description": "music by Pete Namlook \u0026 Lakoff/Igr Ver - Planetarium - Bellan",
+                    "title": "c o l o r s"
+                },
+                {
+                    "_duration": "3045",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=YOzrSZ7oDks",
+                    "description": "Lakoff / Igr Ver \u0026 Pete Namlook ‎– Planetarium [1994]\n(written by – Igr Ver, Pete Namlook (tracks: 1 to 10, 12), Lakoff)\n\n1 Life On Mars (00:00)\n2 There Is Not Another World (03:16)\n3 Echnaton (10:06)\n4 Waters Of Love (13:34)\n5 Tetra (17:20)\n6 Musik",
+                    "title": "New Composers \u0026 Pete Namlook ‎– Planetarium [full album]"
+                }
+            ]
+        }
+    }
+}

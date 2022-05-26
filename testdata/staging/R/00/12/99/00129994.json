@@ -1,0 +1,156 @@
+{
+    "release": {
+        "_id": "129994",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "42333",
+                "join": "",
+                "name": "Modula Green",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "Mark P.",
+                    "id": "79820",
+                    "join": "",
+                    "name": "Mark Pfurtscheller",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "785018",
+                    "join": "",
+                    "name": "Redrum (9)",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM",
+                        "45 RPM",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Etched Runout Side A",
+                    "_type": "Matrix / Runout",
+                    "_value": "PS 08/20 A  PRODUCED AT CHIN CHAT STUDIO BY REDRUM AND MARC P."
+                },
+                {
+                    "_description": "Etched Runout Side B",
+                    "_type": "Matrix / Runout",
+                    "_value": "PS 08/20 B  MODULATION OF THE DUNED"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "604",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PS 08/20",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Limited to 500 copies\nSide A runs @ 45rpm\nSide B runs @ 33.3rpm",
+        "released": "1993-04-26",
+        "styles": {
+            "style": "Trance"
+        },
+        "title": "Modula Green",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "",
+                    "title": "This Side"
+                },
+                {
+                    "duration": "7:25",
+                    "position": "A",
+                    "title": "Dune (Of Love)"
+                },
+                {
+                    "duration": "",
+                    "position": "",
+                    "title": "Other Side"
+                },
+                {
+                    "duration": "7:25",
+                    "position": "B1",
+                    "title": "Dune (Instrumental Mix)"
+                },
+                {
+                    "duration": "5:32",
+                    "position": "B2",
+                    "title": "Modulation"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "446",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=uoExgIGJcDo",
+                    "description": "",
+                    "title": "A - Modula Green - Dune (Of Love)"
+                },
+                {
+                    "_duration": "445",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=nGXCF7aehHI",
+                    "description": "Techno,trance 1993",
+                    "title": "Modula Green - Dune (Instrumental Mix)"
+                },
+                {
+                    "_duration": "329",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=L4P4mgNeV5Q",
+                    "description": "Trance,Techno 1993",
+                    "title": "Modula Green -  Modulation"
+                }
+            ]
+        }
+    }
+}

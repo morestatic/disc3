@@ -1,0 +1,219 @@
+{
+    "release": {
+        "_id": "198374",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "264616",
+                "join": "",
+                "name": "2350 Broadway",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "www.sansserif.com.au",
+                    "id": "2136082",
+                    "join": "",
+                    "name": "sansserifgrafik",
+                    "role": "Artwork",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "58657",
+                    "join": "",
+                    "name": "Peter Kuhlmann",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "25",
+                    "join": "",
+                    "name": "Tetsu Inoue",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "MP3",
+                "descriptions": {
+                    "description": [
+                        "CD-ROM",
+                        "Limited Edition",
+                        "Compilation"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_type": "Barcode",
+                "_value": "807297027228"
+            }
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "590",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "588",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "587",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "598",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "598",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "590",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "587",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "598"
+                },
+                {
+                    "_height": "464",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "597"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "MP3 002",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Limitation: 1000 copies.\r\n\r\nThe first three volumes of the 2350 Broadway project compiled on one high resolution MP3-CD.  All tracks encoded between 256kbps and 320kbps.  The 8-page booklet contains the original artwork for all of the initial pressings.",
+        "released": "2003-03-12",
+        "styles": {
+            "style": "Ambient"
+        },
+        "title": "The 2350 Broadway Collection",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "34:17",
+                    "position": "1",
+                    "title": "Vision Of Pulse"
+                },
+                {
+                    "duration": "27:57",
+                    "position": "2",
+                    "title": "Raga"
+                },
+                {
+                    "duration": "9:37",
+                    "position": "3",
+                    "title": "Tokai"
+                },
+                {
+                    "duration": "1:12:50",
+                    "position": "4",
+                    "title": "Hands Of Light"
+                },
+                {
+                    "duration": "1:10:50",
+                    "position": "5",
+                    "title": "The Invisible Landscape"
+                },
+                {
+                    "duration": "1:00:00",
+                    "position": "6",
+                    "title": "Art Of Dream"
+                },
+                {
+                    "duration": "14:03",
+                    "position": "7",
+                    "title": "Morning Spirit"
+                },
+                {
+                    "duration": "24:51",
+                    "position": "8",
+                    "title": "Hear The Light"
+                },
+                {
+                    "duration": "5:29",
+                    "position": "9",
+                    "title": "Hidden Forces"
+                },
+                {
+                    "duration": "16:11",
+                    "position": "10",
+                    "title": "Rich Dreams"
+                }
+            ]
+        }
+    }
+}

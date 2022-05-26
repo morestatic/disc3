@@ -1,0 +1,208 @@
+{
+    "release": {
+        "_id": "49513",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "264576",
+                "join": "",
+                "name": "Wechselspannung",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "16",
+                    "entity_type_name": "Made By",
+                    "id": "267946",
+                    "name": "CD Plant AB",
+                    "resource_url": "https://api.discogs.com/labels/267946"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "294391",
+                    "name": "Sonic Studios Frankfurt",
+                    "resource_url": "https://api.discogs.com/labels/294391"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "58657",
+                    "join": "",
+                    "name": "Peter Kuhlmann",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "33693",
+                    "join": "",
+                    "name": "Jonah Sharp",
+                    "role": "Written-By [All Tracks Written By]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By [All Tracks Written By]",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "CD PLANT AB PW 23 CDM01"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "594",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "464",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "595",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "596",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "597",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PW 23",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Recorded at Sonic Studios Frankfurt.\n\nLimitation: 2000.\n\nSpecial thanks to:\nElisabeth / Fabia / Kathrin\nMia Manners\nBillee \u0026 Jasper\nHeinrick Mervmill \u0026 Tanja",
+        "released": "1995-12-04",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Breakbeat",
+                "IDM"
+            ]
+        },
+        "title": "Wechselspannung 2",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "22:08",
+                    "position": "1",
+                    "title": "10 KW"
+                },
+                {
+                    "duration": "20:12",
+                    "position": "2",
+                    "title": "Hausanschluß"
+                },
+                {
+                    "duration": "15:15",
+                    "position": "3",
+                    "title": "100 KW"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "3458",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=UBJ6ooo71Rg",
+                    "description": "Released in December, 1995 on FAX +49-69/450464\n\n\n00:00 10 KW\n22:07 Hausanschluß\n42:19 100 KW",
+                    "title": "[PW 23] Pete Namlook \u0026 Jonah Sharp - Wechselspannung 2"
+                },
+                {
+                    "_duration": "1329",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=c4VPdlcGPCQ",
+                    "description": "Track 1 - 10 KW\nArtists : Pete Namlook \u0026 Jonah Sharp\nAlbum : Wechselspannung 2\n1994 FAX +49-69/450464",
+                    "title": "Pete Namlook \u0026 Jonah Sharp - 10 KW (Wechselspannung 2)"
+                },
+                {
+                    "_duration": "1213",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=YBMowJafEaQ",
+                    "description": "Track 2 - Hausanschluß\nArtists : Pete Namlook \u0026 Jonah Sharp\nAlbum : Wechselspannung 2\n1994 FAX +49-69/450464",
+                    "title": "Pete Namlook \u0026 Jonah Sharp - Hausanschluß (Wechselspannung 2)"
+                },
+                {
+                    "_duration": "918",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=fh-Lf-5ipNc",
+                    "description": "Track 3 - 100 KW\nArtists : Pete Namlook \u0026 Jonah Sharp\nAlbum : Wechselspannung 2\n1994 FAX +49-69/450464",
+                    "title": "Pete Namlook \u0026 Jonah Sharp - 100 KW (Wechselspannung 2)"
+                }
+            ]
+        }
+    }
+}

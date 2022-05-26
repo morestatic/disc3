@@ -1,0 +1,156 @@
+{
+    "release": {
+        "_id": "13456",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "12898",
+                "join": "",
+                "name": "Halo \u0026 Hipp-e",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "US",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "12898",
+                "join": "",
+                "name": "Halo \u0026 Hipp-e",
+                "role": "Producer",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_type": "Barcode",
+                "_value": "713405961912"
+            }
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "1257",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "MDR9619-1",
+                "_id": "20",
+                "_name": "Moody Recordings"
+            }
+        },
+        "notes": "Stickered generic Moody Recordings cover.\n\nTrack durations are not provided on the record.",
+        "released": "1999",
+        "styles": {
+            "style": [
+                "House",
+                "Disco",
+                "Deep House"
+            ]
+        },
+        "title": "The H-Foundation",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "8:12",
+                    "position": "A1",
+                    "title": "Funk Your Body"
+                },
+                {
+                    "duration": "3:38",
+                    "position": "A2",
+                    "title": "Funkapella"
+                },
+                {
+                    "duration": "6:49",
+                    "position": "B1",
+                    "title": "Got Da Feeling"
+                },
+                {
+                    "duration": "6:26",
+                    "position": "B2",
+                    "title": "Stoned Groove"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "410",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=EhZFzQTBjRM",
+                    "description": "https://www.discogs.com/Halo-Hipp-e-The-H-Foundation/release/13456 Enjoy!",
+                    "title": "Halo \u0026 Hipp-e - Got Da Feeling (1999)"
+                },
+                {
+                    "_duration": "516",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=a-6YpprcmKk",
+                    "description": "One of the best House track ever made by those guys, amazing grooves and energy, 1999 !",
+                    "title": "Halo \u0026 Hipp-e - Funk your body"
+                },
+                {
+                    "_duration": "397",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=-xHbJArCmnQ",
+                    "description": "Very hard-to-find record made by Halo and Hipp-E. 1999.",
+                    "title": "Halo \u0026 Hipp-E - Stoned grooves"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,227 @@
+{
+    "release": {
+        "_id": "176178",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "22",
+                "join": "",
+                "name": "Datacide",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "265233",
+                    "name": "Sel i/s/c",
+                    "resource_url": "https://api.discogs.com/labels/265233"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "10",
+                    "entity_type_name": "Manufactured By",
+                    "id": "291931",
+                    "name": "CD Plant MFG",
+                    "resource_url": "https://api.discogs.com/labels/291931"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "25",
+                    "join": "",
+                    "name": "Tetsu Inoue",
+                    "role": "Effects [Delays], Loops, Synth [Pro One], Drone [Texturing], Vocals, Sequenced By [Sequences], Mixed By [Mixing], Programmed By [202 + 303 Programming]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "24",
+                    "join": "",
+                    "name": "Atom Heart",
+                    "role": "Sounds [Sampling], Programmed By [Programming], Drum Machine [808], Mixed By [Mixing], Tape [Tapes], Loops, Effects [FX], Edited By [Editing]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "24",
+                    "join": "",
+                    "name": "Atom Heart",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "25",
+                    "join": "",
+                    "name": "Tetsu Inoue",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "CD PLANT MFG PS 08/31 CDM01"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "590",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "592",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "592",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "592",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "470",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "592"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PS 08/31",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "269525"
+        },
+        "notes": "Polyrhythmic Textures\r\n\r\nRecorded live at sel i/s/c October 1993.\r\n\r\nLimitation : 500",
+        "released": "1994-01-24",
+        "styles": {
+            "style": [
+                "Acid",
+                "Ambient"
+            ]
+        },
+        "title": "Datacide II",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "9:53",
+                    "position": "1",
+                    "title": "Ambient Head"
+                },
+                {
+                    "duration": "12:10",
+                    "position": "2",
+                    "title": "Meditation Bank"
+                },
+                {
+                    "duration": "9:29",
+                    "position": "3",
+                    "title": "Head Dance"
+                },
+                {
+                    "duration": "11:57",
+                    "position": "4",
+                    "title": "Automatic Composition # 1"
+                },
+                {
+                    "duration": "8:05",
+                    "position": "5",
+                    "title": "Acid Magic"
+                },
+                {
+                    "duration": "6:27",
+                    "position": "6",
+                    "title": "Data Haiku"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "3462",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=RdzSIjs5Kxk",
+                    "description": "http://www.discogs.com/DATacide-Datacide-II/master/269525\n\nDATacide ‎-- Datacide II\n\nGenre: Electronic\nStyle: Acid, Ambient\nYear: 1994\n\n\nTracklist ▼\n\nAmbient Head   \nMeditation Bank  \nHead Dance \nAutomatic Composition # 1  \nAcid Magic  \nData Haiku",
+                    "title": "DATacide ‎-- Datacide II"
+                },
+                {
+                    "_duration": "480",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=IAsXlet21yo",
+                    "description": "http://www.discogs.com/Datacide-Datacide-II/release/176178\n\r\n\r-uploaded in HD at http://www.TunesToTube.com",
+                    "title": "Datacide - Acid Magic (Ambient 1994)"
+                },
+                {
+                    "_duration": "592",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=06iOEaU32RI",
+                    "description": "First track from the CD Datacide II on FAX +49-69/450464, 1993. Tetsu Inoue and Atom Heart",
+                    "title": "DATacide - Ambienthead"
+                }
+            ]
+        }
+    }
+}

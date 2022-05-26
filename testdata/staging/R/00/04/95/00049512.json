@@ -1,0 +1,130 @@
+{
+    "release": {
+        "_id": "49512",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "293418",
+                "join": "",
+                "name": "Time²",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": "",
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "295",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "470",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PW 32",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "146285"
+        },
+        "notes": "Limited to 1000 copies.",
+        "released": "1996-11-04",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Downtempo",
+                "Experimental"
+            ]
+        },
+        "title": "Time²",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "4:28",
+                    "position": "1",
+                    "title": "Bypass Mood"
+                },
+                {
+                    "duration": "25:01",
+                    "position": "2",
+                    "title": "Free And Flowers"
+                },
+                {
+                    "duration": "19:13",
+                    "position": "3",
+                    "title": "Turn"
+                },
+                {
+                    "duration": "16:56",
+                    "position": "4",
+                    "title": "I've Got Chillness Illness"
+                }
+            ]
+        },
+        "videos": {
+            "video": {
+                "_duration": "3965",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=alaaTre8KZ4",
+                "description": "Label: Fax +49-69/450464 ‎– PW 32\nFormat: CD, Album, Limited Edition \nCountry: Germany\nReleased: 04 Nov 1996\nGenre: Electronic\nStyle: Ambient, Downtempo, Experimental\n\nTrack list:\n1 Bypass Mood 0:00\n2 Free And Flowers 4:28\n3 Turn 29:29\n4 I've Got Chil",
+                "title": "Pete Namlook \u0026 Tetsu Inoue - Time 2 - Full Album"
+            }
+        }
+    }
+}

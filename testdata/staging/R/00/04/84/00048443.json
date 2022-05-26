@@ -1,0 +1,190 @@
+{
+    "release": {
+        "_id": "48443",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "21141",
+                "join": "",
+                "name": "16th Element",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "40",
+                    "name": "Loaded Records",
+                    "resource_url": "https://api.discogs.com/labels/40"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "40",
+                    "name": "Loaded Records",
+                    "resource_url": "https://api.discogs.com/labels/40"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "9",
+                    "entity_type_name": "Distributed By",
+                    "id": "264522",
+                    "name": "Pinnacle (3)",
+                    "resource_url": "https://api.discogs.com/labels/264522"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "9",
+                    "entity_type_name": "Distributed By",
+                    "id": "149122",
+                    "name": "3MV",
+                    "resource_url": "https://api.discogs.com/labels/149122"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "6",
+                    "entity_type_name": "Licensed From",
+                    "id": "1085157",
+                    "name": "Vicious Vinyl Records",
+                    "resource_url": "https://api.discogs.com/labels/1085157"
+                }
+            ]
+        },
+        "country": "UK",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "198702",
+                "join": "",
+                "name": "Kam Denny",
+                "role": "Written-By, Producer",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM",
+                        "45 RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_description": "Text",
+                "_type": "Barcode",
+                "_value": "5025 425 2 088 29"
+            }
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "597",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "601",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "615",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "LOAD 88",
+                "_id": "40",
+                "_name": "Loaded Records"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "67206"
+        },
+        "notes": "A side: 45 RPM.\nAA side: 33 1/3 RPM.\n℗ Loaded Records 2002\n© Loaded Records 2002\n\nMade in the UK.",
+        "released": "2002-05-13",
+        "styles": {
+            "style": [
+                "House",
+                "Tribal House"
+            ]
+        },
+        "title": "Warp",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A1",
+                    "title": "Warp"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "2937",
+                            "join": "",
+                            "name": "X-Press 2",
+                            "role": "Remix, Producer [Additional Production]",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "AA2",
+                    "title": "Warp (X-Press 2's 4a.m. At Fabric Remix)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "651",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=LIwH4BAYoBk",
+                    "description": "https://www.discogs.com/16th-Element-Warp/release/48443\n\nPromotional Use Only. All Rights belong to their respective owners.",
+                    "title": "16th Element - Warp (X-Press 2's 4a.m. At Fabric Remix)"
+                },
+                {
+                    "_duration": "366",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=4qTuyhfjBHI",
+                    "description": "Released:2002\nGenre:Electronic\nStyle:House, Tech House",
+                    "title": "16th Element - Warp"
+                }
+            ]
+        }
+    }
+}

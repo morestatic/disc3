@@ -1,0 +1,131 @@
+{
+    "release": {
+        "_id": "61990",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "5511",
+                "join": "",
+                "name": "Slacker",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "UK",
+        "data_quality": "Correct",
+        "extraartists": "",
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "45 RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "599"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "599"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "LOAD 43",
+                "_id": "40",
+                "_name": "Loaded Records"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "77185"
+        },
+        "released": "1996-00-00",
+        "styles": {
+            "style": "Progressive House"
+        },
+        "title": "Scared",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A",
+                    "title": "Scared (The Lonely Traveller)"
+                },
+                {
+                    "duration": "",
+                    "position": "AA",
+                    "title": "Scared (Of Tomorrow)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "520",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=x4TrgstAzrI",
+                    "description": "Label: XL Recordings\r\n\r\nCatalog#: XLT 84\r\n\r\nFormat: Vinyl, 12, 33 ⅓ RPM\r\n\r\nCountry: UK\r\n\r\nReleased: 1996\r\n\r\nGenre: Electronic\r\n\r\nStyle: Progressive House, Trance",
+                    "title": "SLACKER SCARED 'THE LONELY TRAVELLER'"
+                },
+                {
+                    "_duration": "211",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=n170xejyUUY",
+                    "description": "Slacker Scared.  1997 single charting at #36 in the UK in April 1997, and #99 in Australia in August 1997.  Kirsty Hawkshaw from Opus III appears in the video.  Official music video HQ 90s 90's progressive house dance I'm just you know everybody is pretty",
+                    "title": "Slacker - Scared"
+                },
+                {
+                    "_duration": "408",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=oodhG2qT9AU",
+                    "description": "Old School 90",
+                    "title": "Slacker - Scared (Scared Of Tomorrow)"
+                },
+                {
+                    "_duration": "440",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=fq4c_pPra7M",
+                    "description": "Taken from CD compilation: A.R.C. - Artist Remix Collection (One)\n\n__ track 1 __\n\nCompilation: Platipus 1998  __ PLAT 45 CD __\nTrack: XL - Recordings 1997\n\nhttp://www.discogs.com/Various-ARC-Artist-Remix-Collection-One/release/23077",
+                    "title": "Slacker - Scared [ Pob Seismix ]"
+                },
+                {
+                    "_duration": "412",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=SQoi0mSQOHw",
+                    "description": "[XL]",
+                    "title": "Slacker - Scared (Scared Of Tomorrow) 1996"
+                },
+                {
+                    "_duration": "313",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Pk-vv690FNE",
+                    "description": "Track contains a sample from Of These Hope- Reprise by Peter Gabriel \nLabel: XL Recordings ‎-- XLS 84 CD\nFormat: CD, Single\nCountry: UK\nReleased: Jan 1997",
+                    "title": "Slacker - Scared (Dylan Rhymes Remix)"
+                }
+            ]
+        }
+    }
+}

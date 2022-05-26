@@ -1,0 +1,255 @@
+{
+    "release": {
+        "_id": "49468",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "1910",
+                "join": "",
+                "name": "Pete Namlook",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "265012",
+                    "name": "Klanglabor Hödeshof",
+                    "resource_url": "https://api.discogs.com/labels/265012"
+                },
+                {
+                    "catno": "49865",
+                    "entity_type": "31",
+                    "entity_type_name": "Glass Mastered At",
+                    "id": "277449",
+                    "name": "P+O Pallas",
+                    "resource_url": "https://api.discogs.com/labels/277449"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "Andre",
+                    "id": "2022694",
+                    "join": "",
+                    "name": "Andre Ruello",
+                    "role": "Graphics",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "58657",
+                    "join": "",
+                    "name": "Peter Kuhlmann",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "PK 08/155 P+O-49865-A1 10-00"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "593",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "297",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "466",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "250",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "241"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/155",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Recorded at Klanglabor, Traben-Trarbach.\r\nLimitation: 3000\r\n\r\n4Voice\r\nTraben-Trarbach/Mosel 2000\r\n\r\nSpecial Thanks to:\r\nElisabeth / Fabia / Gisela\r\nJenny Gibbert / Alma Rehberg / Anja Michels\r\nJörg Strawe / Simone Pollmann\r\nMarkus Engel \u0026 Matthias Gronostay @ Steinberg\r\nAndre Ruello for excellent and inspiring graphics\r\nTom Oberheim / Clavia / Musiik Schmidt / IG Ralf Z.\r\n\r\nThe Universe\r\n\r\nMade in Germany",
+        "released": "2000-10-23",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Downtempo",
+                "Experimental",
+                "Hard Trance"
+            ]
+        },
+        "title": "4Voice III",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "2:36",
+                    "position": "1",
+                    "title": "I Saw A Satellite"
+                },
+                {
+                    "duration": "7:16",
+                    "position": "2",
+                    "title": "The Cosmic Packing Order"
+                },
+                {
+                    "duration": "8:58",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "521029",
+                                "join": "",
+                                "name": "Alma Rehberg",
+                                "role": "Vocals",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "521030",
+                                "join": "",
+                                "name": "Anja Michels",
+                                "role": "Vocals",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "39678",
+                                "join": "",
+                                "name": "Jenny Gibbert",
+                                "role": "Vocals",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "3",
+                    "title": "No Evidence"
+                },
+                {
+                    "duration": "7:29",
+                    "position": "4",
+                    "title": "Shmooz"
+                },
+                {
+                    "duration": "7:02",
+                    "position": "5",
+                    "title": "The Place Of Mankind"
+                },
+                {
+                    "duration": "9:12",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "39120",
+                            "join": "",
+                            "name": "Marc Romboy",
+                            "role": "Producer, Written-By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "6",
+                    "title": "The Space Driver"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "554",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=rxDjVnU5E-Q",
+                    "description": "Pete Namlook - The Space Driver [FAX Records]\n\nAlbum: 4Voice III\nSello: Fax +49-69/450464 ‎– PK 08/155\nFormato: CD, Album, Limited Edition\nPaís: Germany\nPublicado: 23 Oct 2000\nGénero: Electronic\nEstilo: Ambient, Downtempo, Experimental",
+                    "title": "Pete Namlook - The Space Driver [FAX Records]"
+                },
+                {
+                    "_duration": "553",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Y0OimVO7IeM",
+                    "description": "Released on 4 Voice III CD album (PK 08/155) and as a 12 on Marc et Claude's (MECL 9904-6)\nMusic by: Pete Namlook and Marc Romboy\nVideo by: Abstructure",
+                    "title": "4 Voice - The Space Driver"
+                },
+                {
+                    "_duration": "534",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=14QHfb_qL9M",
+                    "description": "Pete Namlook - 4 Voice III (1993)",
+                    "title": "Pete Namlook - No Evidence"
+                },
+                {
+                    "_duration": "451",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=MRdpydjXtNs",
+                    "description": "Pete Namlook - 4 Voice III\r\nRelease Date: 23 October 2000",
+                    "title": "Pete Namlook - Shmooz"
+                },
+                {
+                    "_duration": "2400",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=d2clOMg4780",
+                    "description": "Pete Namlook - 4Voice III [2000]\n\n1. I Saw a Satellite (00:00)\n2. The Cosmic Packing Order (02:36)\n3. No Evidence (07:07)\n4. Shmooz (16:06)\n5. The Place of Mankind (23:37)\n6. The Space Driver (30:41)",
+                    "title": "Pete Namlook - 4Voice III [full album]"
+                }
+            ]
+        }
+    }
+}

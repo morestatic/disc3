@@ -1,0 +1,185 @@
+{
+    "release": {
+        "_id": "176176",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "Namlook",
+                "id": "1910",
+                "join": "",
+                "name": "Pete Namlook",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "58657",
+                "join": "",
+                "name": "Peter Kuhlmann",
+                "role": "Producer",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Limited Edition",
+                        "Compilation"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "473",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "250",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "492"
+                },
+                {
+                    "_height": "244",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "250"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/08",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Recorded at Klanglabor, Traben-Trarbach\r\nLimitation: 2000\r\nThis is a Namlook-only compilation where PK 08/01 - PK 08/07 contain work of different collaborations. All tracks taken from Namlook I to Namlook XVI with the exception of Subharmonic Atom from Atom.",
+        "released": "2001-02-26",
+        "styles": {
+            "style": "Ambient"
+        },
+        "title": "A View To A Chill",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "0:09",
+                    "position": "1",
+                    "title": "Instruktion (EMC)"
+                },
+                {
+                    "duration": "2:53",
+                    "position": "2",
+                    "title": "Entity 2840 (Namlook XVI)"
+                },
+                {
+                    "duration": "7:59",
+                    "position": "3",
+                    "title": "The Real World (Namlook XV)"
+                },
+                {
+                    "duration": "9:12",
+                    "position": "4",
+                    "title": "Go No Go (Namlook XV) (Edit)"
+                },
+                {
+                    "duration": "1:52",
+                    "position": "5",
+                    "title": "Deadly Mission (Namlook XIII)"
+                },
+                {
+                    "duration": "3:14",
+                    "position": "6",
+                    "title": "Live At Lovefield Festival (Part X)"
+                },
+                {
+                    "duration": "5:00",
+                    "position": "7",
+                    "title": "Passing Airwhales (Namlook XI)"
+                },
+                {
+                    "duration": "4:46",
+                    "position": "8",
+                    "title": "Subharmonic Atoms (Atom)"
+                },
+                {
+                    "duration": "7:23",
+                    "position": "9",
+                    "title": "Monolith (Namlook X)"
+                },
+                {
+                    "duration": "4:39",
+                    "position": "10",
+                    "title": "The Gate To The Milky Way (Namlook IX)"
+                },
+                {
+                    "duration": "3:34",
+                    "position": "11",
+                    "title": "Blow The Fuse (Namlook VIII)"
+                },
+                {
+                    "duration": "4:54",
+                    "position": "12",
+                    "title": "Subharmonic Interference (Namlook VII)"
+                },
+                {
+                    "duration": "2:16",
+                    "position": "13",
+                    "title": "The Caves Of Cubic (Namlook VI)"
+                },
+                {
+                    "duration": "2:25",
+                    "position": "14",
+                    "title": "Reality (Namlook V)"
+                },
+                {
+                    "duration": "3:38",
+                    "position": "15",
+                    "title": "Power Supply (Namlook IV)"
+                },
+                {
+                    "duration": "2:19",
+                    "position": "16",
+                    "title": "Aliens In My Suitcase (Namlook III)"
+                },
+                {
+                    "duration": "4:21",
+                    "position": "17",
+                    "title": "The Dutch Side Of The Milky Way (Namlook II)"
+                },
+                {
+                    "duration": "8:46",
+                    "position": "18",
+                    "title": "Astrogator (Namlook I)"
+                }
+            ]
+        }
+    }
+}

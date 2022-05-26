@@ -1,0 +1,192 @@
+{
+    "release": {
+        "_id": "189692",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "9880",
+                "join": "",
+                "name": "DJ Rhythm",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "US",
+        "data_quality": "Correct",
+        "extraartists": "",
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "12\""
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "601",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "597",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "601",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "MDR9623-1",
+                "_id": "20",
+                "_name": "Moody Recordings"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "277719"
+        },
+        "released": "2000",
+        "styles": {
+            "style": [
+                "Disco",
+                "House"
+            ]
+        },
+        "title": "Live From Paris",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A1",
+                    "title": "Live From Paris (Original Groove Mix)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "51770",
+                            "join": "",
+                            "name": "Johmell Auharee",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "A2",
+                    "title": "Live From Paris (Nitelife Mix)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "7018",
+                            "join": "",
+                            "name": "Jordan Fields",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "B1",
+                    "title": "Live From Paris (Le Fre Q Disco Mix)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "2034",
+                            "join": "",
+                            "name": "DJ Skip",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "B2",
+                    "title": "Live From Paris (Pushpac Dub Mix)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "402",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=L5mPxf7ZkIk",
+                    "description": "DJ Rhythm ‎– Live From Paris (The French Mixes) \nLabel: Full House (FH 006)\nYear: 2000\nBuy: https://www.discogs.com/fr/DJ-Rhythm-Live-From-Paris-The-French-Mixes/release/67038\nIf you want this removed, contact me and i'll be glad to do it",
+                    "title": "DJ Rhythm - Live From Paris (Johmell Auharee's Nite Life Mix)"
+                },
+                {
+                    "_duration": "344",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=flVh-lhxTg8",
+                    "description": "Provided to YouTube by Symphonic Distribution\n\nLive From Paris · DJ Rhythm\n\nLive From Paris\n\n℗ 2013 Moody Recordings\n\nReleased on: 2013-08-25\n\nAuto-generated by YouTube.",
+                    "title": "Live From Paris (Rhythm's Original Groove Mix)"
+                },
+                {
+                    "_duration": "435",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=riBSocY99b0",
+                    "description": "",
+                    "title": "Dj Rhythm - Live From Paris (Major Boys Club Edit)"
+                },
+                {
+                    "_duration": "438",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=T5HOl6Ld-9w",
+                    "description": "Provided to YouTube by Symphonic Distribution\n\nLive From Paris · DJ Rhythm · Jordan Fields\n\nLive From Paris\n\n℗ 2013 Moody Recordings\n\nReleased on: 2013-08-25\n\nRemixer: Jordan Fields\n\nAuto-generated by YouTube.",
+                    "title": "Live From Paris (Jordan Field's Le FreQ Disco Mix)"
+                },
+                {
+                    "_duration": "400",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=CJ-3h79LT9c",
+                    "description": "Provided to YouTube by Symphonic Distribution\n\nLive From Paris · DJ Rhythm · Johnmel Auharee\n\nLive From Paris\n\n℗ 2013 Moody Recordings\n\nReleased on: 2013-08-25\n\nRemixer: Johnmel Auharee\n\nAuto-generated by YouTube.",
+                    "title": "Live From Paris (Johmell Auharee's Nitelife Mix)"
+                },
+                {
+                    "_duration": "418",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=9LZaZFmtPE0",
+                    "description": "Provided to YouTube by Symphonic Distribution\n\nLive From Paris · DJ Rhythm · DJ Skip\n\nLive From Paris\n\n℗ 2013 Moody Recordings\n\nReleased on: 2013-08-25\n\nRemixer: DJ Skip\n\nAuto-generated by YouTube.",
+                    "title": "Live From Paris (DJ Skip Pushpac Dub Mix)"
+                },
+                {
+                    "_duration": "434",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=3D_QT_0SOdw",
+                    "description": "Various ‎- Funkadelicious 3\nLabel: Wagram - 3060342\nFormat: CD, Compilation\nCountry: France\nReleased: 2000\nStyle: House",
+                    "title": "Dj Rhythm - Live From Paris (Major Boys Remix)"
+                }
+            ]
+        }
+    }
+}

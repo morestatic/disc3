@@ -1,0 +1,279 @@
+{
+    "release": {
+        "_id": "87023",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "16383",
+                "join": "",
+                "name": "Soul Drummers",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "UK",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "147827",
+                    "join": "",
+                    "name": "John Dent",
+                    "role": "Mastered By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "60",
+                    "join": "",
+                    "name": "Pete Moss",
+                    "role": "Photography",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "69563",
+                    "join": "",
+                    "name": "Marc Woolford",
+                    "role": "Written-By, Performer, Producer",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "Album"
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "512",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "AFRCD001",
+                "_id": "1750",
+                "_name": "Afro Art"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "107759"
+        },
+        "notes": "Jewel case with cardboard 'slip-over' cover.\r\nRecorded and mixed at Fat Fish, Brighton except 6. at Rocksteady Studios.  Mastered at Loud",
+        "released": "2000",
+        "styles": {
+            "style": [
+                "Tribal",
+                "Future Jazz",
+                "Downtempo"
+            ]
+        },
+        "title": "Medicine Man",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "5:24",
+                    "position": "1",
+                    "title": "Obiman's Return"
+                },
+                {
+                    "duration": "6:56",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "532",
+                            "join": "",
+                            "name": "Ashley Beedle",
+                            "role": "Written-By, Producer",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "2",
+                    "title": "Shango Prayer"
+                },
+                {
+                    "duration": "3:37",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "818228",
+                                "join": "",
+                                "name": "Ty Hayward",
+                                "role": "Guitar [Additional]",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "40449",
+                                "join": "",
+                                "name": "Carla Hendry",
+                                "role": "Vocals, Lyrics By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "3",
+                    "title": "Now Or Never"
+                },
+                {
+                    "duration": "3:36",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "807846",
+                                "join": "",
+                                "name": "Steve Pedder",
+                                "role": "Percussion [Additional]",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "111888",
+                                "join": "",
+                                "name": "Cheyenne Boss",
+                                "role": "Vocals [Additional]",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "4",
+                    "title": "Let The Sun Cheyenne"
+                },
+                {
+                    "duration": "5:12",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "807846",
+                            "join": "",
+                            "name": "Steve Pedder",
+                            "role": "Percussion [Additional]",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "5",
+                    "title": "Manu Magic"
+                },
+                {
+                    "duration": "4:14",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "532",
+                                "join": "",
+                                "name": "Ashley Beedle",
+                                "role": "Producer",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "40449",
+                                "join": "",
+                                "name": "Carla Hendry",
+                                "role": "Vocals, Lyrics By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "6",
+                    "title": "Medicine Man"
+                },
+                {
+                    "duration": "5:35",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "3645",
+                            "join": "",
+                            "name": "The Man",
+                            "role": "Vocals",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "7",
+                    "title": "East Side Story"
+                },
+                {
+                    "duration": "1:46",
+                    "position": "8",
+                    "title": "Lude #7"
+                },
+                {
+                    "duration": "4:17",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "Maryam F. Ghaffari",
+                            "id": "1181942",
+                            "join": "",
+                            "name": "Maryam Ghaffari",
+                            "role": "Voice [Reading From 'divan-eh-hafez']",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "9",
+                    "title": "Gham Makhor"
+                },
+                {
+                    "duration": "4:39",
+                    "position": "10",
+                    "title": "Space And Time"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "476",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=DepbiNhrHw8",
+                    "description": "",
+                    "title": "Soul drummers - Space and time"
+                },
+                {
+                    "_duration": "256",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=hO2P_ouq6jI",
+                    "description": "",
+                    "title": "Soul Drummers - Let the Sun Cheyenne"
+                },
+                {
+                    "_duration": "219",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=upZmxqiPrC0",
+                    "description": "",
+                    "title": "Soul drummer - Now or never"
+                }
+            ]
+        }
+    }
+}

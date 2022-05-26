@@ -1,0 +1,259 @@
+{
+    "release": {
+        "_id": "52636",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "293292",
+                "join": "",
+                "name": "Aerial Service Area",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "17",
+                    "entity_type_name": "Pressed By",
+                    "id": "291931",
+                    "name": "CD Plant MFG",
+                    "resource_url": "https://api.discogs.com/labels/291931"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "378686",
+                    "name": "PNG Studio",
+                    "resource_url": "https://api.discogs.com/labels/378686"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "24",
+                    "entity_type_name": "Engineered At",
+                    "id": "457432",
+                    "name": "Noitect",
+                    "resource_url": "https://api.discogs.com/labels/457432"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "36",
+                    "entity_type_name": "Edited At",
+                    "id": "457432",
+                    "name": "Noitect",
+                    "resource_url": "https://api.discogs.com/labels/457432"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "24",
+                    "entity_type_name": "Engineered At",
+                    "id": "378686",
+                    "name": "PNG Studio",
+                    "resource_url": "https://api.discogs.com/labels/378686"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "36",
+                    "entity_type_name": "Edited At",
+                    "id": "378686",
+                    "name": "PNG Studio",
+                    "resource_url": "https://api.discogs.com/labels/378686"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "36674",
+                    "join": "",
+                    "name": "Niko Heyduck",
+                    "role": "Composed By [Music]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "32614",
+                    "join": "",
+                    "name": "Victor Sol",
+                    "role": "Composed By [Music]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "36674",
+                    "join": "",
+                    "name": "Niko Heyduck",
+                    "role": "Photography By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "36674",
+                    "join": "",
+                    "name": "Niko Heyduck",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "32614",
+                    "join": "",
+                    "name": "Victor Sol",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "CD PLANT MFG PS 08/72 CDM01"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "380",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                },
+                {
+                    "_height": "244",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                },
+                {
+                    "_height": "500",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                },
+                {
+                    "_height": "500",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PS 08/72",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "1095067"
+        },
+        "notes": "Recorded between 1991 and 1995 at PNG Studios.\r\nLimitation: 1000\r\n\r\nProcessing and digital editing at Noitect, Sector B, Jumolandia, Barcelona and at PNG, Frankfurt.\r\n\r\nThank you: Atom Heart, Pink Elln, Margret and Angela\r\n\r\nThis is a MACOS release.",
+        "released": "1995-05-08",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Minimal"
+            ]
+        },
+        "title": "Aerial Service Area 2 - 150 G Space Weight",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "11:40",
+                    "position": "1",
+                    "title": "150 G Space Weight Pt. 1"
+                },
+                {
+                    "duration": "9:49",
+                    "position": "2",
+                    "title": "150 G Space Weight Pt. 2"
+                },
+                {
+                    "duration": "10:50",
+                    "position": "3",
+                    "title": "Triangular Night"
+                },
+                {
+                    "duration": "5:24",
+                    "position": "4",
+                    "title": "Decker's Room"
+                },
+                {
+                    "duration": "7:27",
+                    "position": "5",
+                    "title": "Phase Shift 84'"
+                },
+                {
+                    "duration": "7:03",
+                    "position": "6",
+                    "title": "Silent Running"
+                },
+                {
+                    "duration": "2:50",
+                    "position": "7",
+                    "title": "Freak Sequence"
+                },
+                {
+                    "duration": "16:12",
+                    "position": "8",
+                    "title": "Newton's Law"
+                },
+                {
+                    "duration": "2:32",
+                    "position": "9",
+                    "title": "Epilogue"
+                }
+            ]
+        },
+        "videos": {
+            "video": {
+                "_duration": "4428",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=i8hZ6GC8YP8",
+                "description": "Aerial Service Area 2 - 1995\nMinimal ambient, Space music.\n 1. 150 G Space Weight Pt.1 0:00\n 2. 150 G Space Weight Pt.2 11:40\n 3. Triangular Night 20:29\n 4. Decker's Room 31:19\n 5. Phase Shift 84' 36:43\n 6. Silent Running 44:10\n 7. Freak Sequence 51:13\n 8",
+                "title": "Aerial Service Area 2 (Full Album)"
+            }
+        }
+    }
+}

@@ -1,0 +1,264 @@
+{
+    "release": {
+        "_id": "16580",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "2910",
+                "join": "",
+                "name": "Hearts Of Space",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": {
+                "catno": "17809",
+                "entity_type": "17",
+                "entity_type_name": "Pressed By",
+                "id": "277449",
+                "name": "P+O Pallas",
+                "resource_url": "https://api.discogs.com/labels/277449"
+            }
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "4865",
+                    "join": "",
+                    "name": "Pascal F.E.O.S.",
+                    "role": "Written-By",
+                    "tracks": "1 to 3, 5, 6, 8"
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "PK 08/81 P+O-17809-A2 09-93"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "464",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/81",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "29178"
+        },
+        "notes": "Special thanks to:\r\n\r\nElisabeth\r\nFabia\r\nChristian Thier\r\nCharles\r\nGeir Jenssen\r\nTurgay of Turgay Audio\r\nLudwig Rehberg of EMS\r\n\r\nSpecial thanks to:\r\n\r\nGod\r\nMother\r\nFather\r\nBrother\r\n\r\nLimitation: 500\r\n\r\nMade in Germany",
+        "released": "1993-09-06",
+        "styles": {
+            "style": [
+                "Trance",
+                "House",
+                "Ambient"
+            ]
+        },
+        "title": "Hearts Of Space",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "2:28",
+                    "position": "1",
+                    "title": "70's Beauty"
+                },
+                {
+                    "duration": "6:14",
+                    "position": "2",
+                    "title": "With A Medium Into Trance (Drop Out Mix)"
+                },
+                {
+                    "duration": "5:33",
+                    "position": "3",
+                    "title": "Drawn To The Thrill"
+                },
+                {
+                    "duration": "4:33",
+                    "position": "4",
+                    "title": "Sensuality"
+                },
+                {
+                    "duration": "6:51",
+                    "position": "5",
+                    "title": "Breathe Out"
+                },
+                {
+                    "duration": "6:57",
+                    "position": "6",
+                    "title": "All About Sensuality"
+                },
+                {
+                    "duration": "4:12",
+                    "position": "7",
+                    "title": "Drawn"
+                },
+                {
+                    "duration": "7:19",
+                    "position": "8",
+                    "title": "Supervision"
+                },
+                {
+                    "duration": "17:21",
+                    "position": "9",
+                    "title": "Namhouse"
+                },
+                {
+                    "duration": "6:37",
+                    "position": "10",
+                    "title": "Namchill"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "257",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=2c6BjE_xEXg",
+                    "description": "Full Track. Unmixed. Unpitched.\nImages edited from the video 3Lux-3.",
+                    "title": "Hearts Of Space (Namlook + F.E.O.S.) - Drawn"
+                },
+                {
+                    "_duration": "339",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=uKhpglfYMW0",
+                    "description": "Old school trance classic. Release: Hearts Of Space - Hearts Of Space / Fax +49-69/450464",
+                    "title": "Hearts Of Space - Drawn To The Thrill (1992)"
+                },
+                {
+                    "_duration": "496",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=2s-MOeeWHzQ",
+                    "description": "Let's try something different this time:\nWhat would other albums look like, if they have been released on FAX +49-69/450464  ? \nwhich many album covers can you ident in this video? \n\n_\nMusic: Pete Namlook \u0026 Pascal F.E.O.S. 1992\nVideo, Graphic and audio ed",
+                    "title": "Hearts Of Space - With A Medium Into Trance (Abstructure Edit)"
+                },
+                {
+                    "_duration": "320",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=ghkRyvI51Jg",
+                    "description": "Released on the Hearts Of Space 3 12 EP (PK 08/37)\nMusic: Pete Namlook and Pascal F.E.O.S. 1993.\nVideo: Abstructure",
+                    "title": "Hearts Of Space - Covered Action II"
+                },
+                {
+                    "_duration": "422",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=s6NFajASIlM",
+                    "description": "Label:\nFax +49-69/450464 ‎– PK 08/81\nFormat:\nCD, Album, Limited Edition\nCountry:\nGermany\nReleased:\n06 Sep 1993\nGenre:\nElectronic\nStyle:\nTrance, Ambient\n\nhttps://www.discogs.com/Hearts-Of-Space-Hearts-Of-Space/release/16580\n\nVisuals\n383\n.",
+                    "title": "Hearts Of Space - All About Sensuality  🇩🇪"
+                },
+                {
+                    "_duration": "277",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=JPlApsSvUec",
+                    "description": "http://www.discogs.com/artist/Hearts+Of+Space\nPascal Dardoufas \u0026 Pete Namlook\n\nReal Name:\nPascal Dardoufas\nProfile:\nDJ since 1984, working first in the German clubs Omen (Frankfurt), Warehouse (Cologne) and Tempel (Munich). Performed his first Live Act as",
+                    "title": "Hearts of Space - Sensuality"
+                },
+                {
+                    "_duration": "451",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=vGtTvqBR1vA",
+                    "description": "http://www.discogs.com/Hearts-Of-Space-Hearts-Of-Space/release/16580\n\nHearts Of Space ‎– Hearts Of Space\nLabel: Fax +49-69/450464 ‎– PK 08/81\nFormat: CD, Album\nCountry: Germany\nReleased: 06 Sep 1993\nGenre: Electronic\nStyle: Trance, House, Ambient",
+                    "title": "Pascal F.E.O.S. \u0026 Pete Namlook (Hearts Of Space)  - Supervision"
+                },
+                {
+                    "_duration": "416",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=cjL-06bqAHk",
+                    "description": "",
+                    "title": "Hearts Of Space   Breathe Out"
+                },
+                {
+                    "_duration": "377",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=AH9Q3vuXFrk",
+                    "description": "Track: Hearts Of Space - With A Medium Into Trance (Drop Out Mix)\nLabel: Music Man\nWritten by: Pascal Dardoufas (Pascal F.E.O.S.) [RIP] \u0026 Peter Kuhlmann (Pete Namlook) [RIP]\nStyle: Trance\nReleased: 1993\n\nMusic Man Records:\nhttp://www.musicmanrecords.net/",
+                    "title": "Hearts Of Space - With A Medium Into Trance (Drop Out Mix)"
+                }
+            ]
+        }
+    }
+}

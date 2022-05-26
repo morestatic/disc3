@@ -1,0 +1,191 @@
+{
+    "release": {
+        "_id": "49377",
+        "_status": "Accepted",
+        "artists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "/",
+                    "name": "Pete Namlook",
+                    "role": "",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "213510",
+                    "join": "",
+                    "name": "Peter Prochir",
+                    "role": "",
+                    "tracks": ""
+                }
+            ]
+        },
+        "companies": "",
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "andre@faxlabel.com",
+                    "id": "2022694",
+                    "join": "",
+                    "name": "Andre Ruello",
+                    "role": "Artwork [Graphics]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "58657",
+                    "join": "",
+                    "name": "Peter Kuhlmann",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "213510",
+                    "join": "",
+                    "name": "Peter Prochir",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "250",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "242"
+                },
+                {
+                    "_height": "248",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "497"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/151",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Limitation: 2000, Recorded at Klanglabor, Traben-Trarbach",
+        "released": "2000-05-08",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Tribal"
+            ]
+        },
+        "title": "Possible Gardens",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "12:24",
+                    "position": "1",
+                    "title": "Possible Gardens"
+                },
+                {
+                    "duration": "11:05",
+                    "position": "2",
+                    "title": "Breeding Machine"
+                },
+                {
+                    "duration": "13:11",
+                    "position": "3",
+                    "title": "Terminal Beach"
+                },
+                {
+                    "duration": "11:00",
+                    "position": "4",
+                    "title": "Memory Lagoon"
+                },
+                {
+                    "duration": "5:37",
+                    "position": "5",
+                    "title": "Possible Gardens (Reprise)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "745",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=gyAaJLZEmoE",
+                    "description": "Track 1 - Possible Gardens\nArtists : Pete Namlook \u0026 Peter Prochir\nAlbum : Possible Gardens\n2000 FAX +49-69/450464",
+                    "title": "Pete Namlook \u0026 Peter Prochir - Possible Gardens (Possible Gardens)"
+                },
+                {
+                    "_duration": "666",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=b_kirCWiVkU",
+                    "description": "Track 2 - Breeding Machine\nArtists : Pete Namlook \u0026 Peter Prochir\nAlbum : Possible Gardens\n2000 FAX +49-69/450464",
+                    "title": "Pete Namlook \u0026 Peter Prochir - Breeding Machine (Possible Gardens)"
+                },
+                {
+                    "_duration": "792",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=xMf2gw6xus4",
+                    "description": "Track 3 - Terminal Beach\nArtists : Pete Namlook \u0026 Peter Prochir\nAlbum : Possible Gardens\n2000 FAX +49-69/450464",
+                    "title": "Pete Namlook \u0026 Peter Prochir - Terminal Beach (Possible Gardens)"
+                },
+                {
+                    "_duration": "661",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=qLHbWJi7Tek",
+                    "description": "Track 4 - Memory Lagoon\nArtists : Pete Namlook \u0026 Peter Prochir\nAlbum : Possible Gardens\n2000 FAX +49-69/450464",
+                    "title": "Pete Namlook \u0026 Peter Prochir - Memory Lagoon (Possible Gardens)"
+                },
+                {
+                    "_duration": "338",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=LsI-Zwt9ENg",
+                    "description": "Track 5 - Possible Gardens (Reprise)\nArtists : Pete Namlook \u0026 Peter Prochir\nAlbum : Possible Gardens\n2000 FAX +49-69/450464",
+                    "title": "Pete Namlook \u0026 Peter Prochir - Possible Gardens (Reprise) (Possible Gardens)"
+                }
+            ]
+        }
+    }
+}

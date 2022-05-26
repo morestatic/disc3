@@ -1,0 +1,230 @@
+{
+    "release": {
+        "_id": "52628",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "38287",
+                "join": "",
+                "name": "Transonic",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "17",
+                    "entity_type_name": "Pressed By",
+                    "id": "291931",
+                    "name": "CD Plant MFG",
+                    "resource_url": "https://api.discogs.com/labels/291931"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "277133",
+                    "name": "Greenpoint Studios",
+                    "resource_url": "https://api.discogs.com/labels/277133"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "27",
+                    "entity_type_name": "Mixed At",
+                    "id": "277133",
+                    "name": "Greenpoint Studios",
+                    "resource_url": "https://api.discogs.com/labels/277133"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "661",
+                    "join": "",
+                    "name": "Bill Laswell",
+                    "role": "Bass",
+                    "tracks": "2"
+                },
+                {
+                    "anv": "",
+                    "id": "13227",
+                    "join": "",
+                    "name": "Robert Musso",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "CD PLANT MFG PS 08/67 CDM01"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "598",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "463",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "598",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "599",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "599",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "596",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "597",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PS 08/67",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Transonic, New York 1994\nSpecial thanks to: Layng Martine, Jeremy Probber\n\nLimited edition of 1,000 (not specified on the release).\n\nMain title printed on the CD is incorrect: it has the title of the previous album \"Downstream Illusion\", however, the track names and lengths are printed correctly.",
+        "released": "1994-12-19",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Dub"
+            ]
+        },
+        "title": "Transonic 2 \"Virtual Current\"",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "25:37",
+                    "position": "1",
+                    "title": "Whirlpool (Slow Spiral Of Clouds)"
+                },
+                {
+                    "duration": "24:56",
+                    "position": "2",
+                    "title": "Wheel Of Heaven"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "439",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=wBhHgXn2WZY",
+                    "description": "Provided to YouTube by The Orchard Enterprises\n\nWhirlpool (Slow Spiral Of Clouds) A · Robert Musso · Transonic\n\nVirtual Current\n\n℗ 2009 MussoMusic.com\n\nReleased on: 2007-09-01\n\nContributor, Producer: Robert Musso\nMusic Publisher: MuWorks/ Bug Music\n\nA",
+                    "title": "Whirlpool (Slow Spiral Of Clouds) A"
+                },
+                {
+                    "_duration": "457",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Am4CowTuIrw",
+                    "description": "Provided to YouTube by The Orchard Enterprises\n\n'Whirlpool (Slow Spiral Of Clouds) B · Transonic · Robert Musso\n\nVirtual Current\n\n℗ 2009 MussoMusic.com\n\nReleased on: 2007-09-01\n\nContributor, Producer: Robert Musso\nMusic Publisher: MuWorks/ Bug Music",
+                    "title": "'Whirlpool (Slow Spiral Of Clouds) B"
+                },
+                {
+                    "_duration": "407",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=yYKV94G3-Fs",
+                    "description": "Provided to YouTube by The Orchard Enterprises\n\n'Whirlpool (Slow Spiral Of Clouds) C · Robert Musso · Transonic\n\nVirtual Current\n\n℗ 2009 MussoMusic.com\n\nReleased on: 2007-09-01\n\nContributor, Producer: Robert Musso\nMusic Publisher: MuWorks/ Bug Music",
+                    "title": "'Whirlpool (Slow Spiral Of Clouds) C"
+                },
+                {
+                    "_duration": "238",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=orK4t29QIh8",
+                    "description": "Provided to YouTube by The Orchard Enterprises\n\nWhirlpool (Slow Spiral Of Clouds) D · Transonic · Robert Musso\n\nVirtual Current\n\n℗ 2009 MussoMusic.com\n\nReleased on: 2007-09-01\n\nContributor, Producer: Robert Musso\nMusic Publisher: MuWorks/ Bug Music\n\nA",
+                    "title": "Whirlpool (Slow Spiral Of Clouds) D"
+                },
+                {
+                    "_duration": "527",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=IgRHIJdjfZo",
+                    "description": "Provided to YouTube by The Orchard Enterprises\n\nWheel Of Heaven A · Robert Musso · Transonic\n\nVirtual Current\n\n℗ 2009 MussoMusic.com\n\nReleased on: 2007-09-01\n\nContributor, Producer: Robert Musso\nMusic Publisher: MuWorks/ Bug Music\n\nAuto-generated by Y",
+                    "title": "Wheel Of Heaven A"
+                },
+                {
+                    "_duration": "425",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=4O-EvBVNXF0",
+                    "description": "Provided to YouTube by The Orchard Enterprises\n\nWheel Of Heaven B · Robert Musso · Transonic\n\nVirtual Current\n\n℗ 2009 MussoMusic.com\n\nReleased on: 2007-09-01\n\nContributor, Producer: Robert Musso\nMusic Publisher: MuWorks/ Bug Music\n\nAuto-generated by Y",
+                    "title": "Wheel Of Heaven B"
+                },
+                {
+                    "_duration": "546",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=swW5PCLWpzk",
+                    "description": "Provided to YouTube by The Orchard Enterprises\n\nWheel Of Heaven C · Transonic · Robert Musso\n\nVirtual Current\n\n℗ 2009 MussoMusic.com\n\nReleased on: 2007-09-01\n\nContributor, Producer: Robert Musso\nMusic Publisher: MuWorks/ Bug Music\n\nAuto-generated by Y",
+                    "title": "Wheel Of Heaven C"
+                }
+            ]
+        }
+    }
+}

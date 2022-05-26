@@ -1,0 +1,801 @@
+{
+  "status": "Official",
+  "genres": [],
+  "label-info": [
+    {
+      "catalog-number": "6323 056",
+      "label": {
+        "label-code": 305,
+        "type": "Original Production",
+        "disambiguation": "",
+        "id": "6d38d6d2-bea8-46cf-b48e-a6195fd85f12",
+        "name": "Philips",
+        "tags": [],
+        "type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+        "aliases": [
+          {
+            "sort-name": "Philips Haute Fidélité Monorale",
+            "ended": false,
+            "end": null,
+            "type": null,
+            "locale": null,
+            "name": "Philips Haute Fidélité Monorale",
+            "type-id": null,
+            "primary": null,
+            "begin": null
+          },
+          {
+            "sort-name": "Philips Haute Fidélité Monorale",
+            "ended": false,
+            "end": null,
+            "locale": null,
+            "type": null,
+            "name": "Philips Haute Fidélité Monorale",
+            "type-id": null,
+            "begin": null,
+            "primary": null
+          },
+          {
+            "end": null,
+            "sort-name": "Philips Records",
+            "ended": false,
+            "type-id": null,
+            "primary": null,
+            "begin": null,
+            "type": null,
+            "locale": null,
+            "name": "Philips Records"
+          },
+          {
+            "sort-name": "Philips Records",
+            "ended": false,
+            "end": null,
+            "name": "Philips Records",
+            "locale": null,
+            "type": null,
+            "primary": null,
+            "begin": null,
+            "type-id": null
+          },
+          {
+            "ended": false,
+            "sort-name": "Phillips",
+            "end": null,
+            "name": "Phillips",
+            "locale": null,
+            "type": null,
+            "primary": null,
+            "begin": null,
+            "type-id": null
+          },
+          {
+            "sort-name": "Phillips",
+            "ended": false,
+            "end": null,
+            "type": null,
+            "locale": null,
+            "name": "Phillips",
+            "type-id": null,
+            "begin": null,
+            "primary": null
+          },
+          {
+            "sort-name": "フィリップス",
+            "ended": false,
+            "end": null,
+            "name": "フィリップス",
+            "type": null,
+            "locale": null,
+            "begin": null,
+            "primary": null,
+            "type-id": null
+          },
+          {
+            "type-id": null,
+            "primary": null,
+            "begin": null,
+            "locale": null,
+            "type": null,
+            "name": "フィリップス",
+            "end": null,
+            "sort-name": "フィリップス",
+            "ended": false
+          },
+          {
+            "sort-name": "フィリップス・レコード",
+            "ended": false,
+            "end": null,
+            "type": null,
+            "locale": null,
+            "name": "フィリップス・レコード",
+            "type-id": null,
+            "begin": null,
+            "primary": null
+          },
+          {
+            "type-id": null,
+            "begin": null,
+            "primary": null,
+            "locale": null,
+            "type": null,
+            "name": "フィリップス・レコード",
+            "end": null,
+            "ended": false,
+            "sort-name": "フィリップス・レコード"
+          }
+        ],
+        "genres": [],
+        "sort-name": "Philips"
+      }
+    }
+  ],
+  "tags": [],
+  "release-events": [
+    {
+      "area": {
+        "type-id": null,
+        "type": null,
+        "disambiguation": "",
+        "id": "c6500277-9a3d-349b-bf30-41afdbf42add",
+        "name": "Italy",
+        "sort-name": "Italy",
+        "iso-3166-1-codes": [
+          "IT"
+        ]
+      },
+      "date": "1978"
+    }
+  ],
+  "country": "IT",
+  "date": "1978",
+  "artist-credit": [
+    {
+      "joinphrase": "",
+      "artist": {
+        "genres": [
+          {
+            "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+            "count": 1,
+            "disambiguation": "",
+            "name": "pop"
+          }
+        ],
+        "sort-name": "Venditti, Antonello",
+        "name": "Antonello Venditti",
+        "id": "dd4a5777-42a3-44a2-b5e6-bff6731cdf3a",
+        "disambiguation": "",
+        "type": "Person",
+        "aliases": [
+          {
+            "ended": false,
+            "sort-name": "Venditti, Antonio",
+            "end": null,
+            "locale": null,
+            "type": "Legal name",
+            "name": "Antonio Venditti",
+            "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+            "begin": null,
+            "primary": null
+          }
+        ],
+        "tags": [
+          {
+            "count": 1,
+            "name": "pop"
+          }
+        ],
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "name": "Antonello Venditti"
+    }
+  ],
+  "asin": null,
+  "annotation": null,
+  "media": [
+    {
+      "position": 1,
+      "format-id": "3e9080b0-5e6c-34ab-bd15-f526b6306a64",
+      "discs": [],
+      "format": "12\" Vinyl",
+      "tracks": [
+        {
+          "title": "Sotto il segno dei pesci",
+          "recording": {
+            "isrcs": [],
+            "first-release-date": "1978",
+            "genres": [],
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "name": "Antonello Venditti",
+                "artist": {
+                  "sort-name": "Venditti, Antonello",
+                  "id": "dd4a5777-42a3-44a2-b5e6-bff6731cdf3a",
+                  "type": "Person",
+                  "disambiguation": "",
+                  "name": "Antonello Venditti",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+                }
+              }
+            ],
+            "aliases": [],
+            "title": "Sotto il segno dei pesci",
+            "tags": [],
+            "video": false,
+            "disambiguation": "",
+            "length": 363000,
+            "id": "2be65c31-aec3-48f1-b311-f2977b66dc38"
+          },
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "name": "Antonello Venditti",
+              "artist": {
+                "id": "dd4a5777-42a3-44a2-b5e6-bff6731cdf3a",
+                "disambiguation": "",
+                "type": "Person",
+                "name": "Antonello Venditti",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "aliases": [
+                  {
+                    "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                    "begin": null,
+                    "primary": null,
+                    "type": "Legal name",
+                    "locale": null,
+                    "name": "Antonio Venditti",
+                    "end": null,
+                    "ended": false,
+                    "sort-name": "Venditti, Antonio"
+                  }
+                ],
+                "sort-name": "Venditti, Antonello"
+              }
+            }
+          ],
+          "id": "2ba1b994-1724-3242-9a55-9321e69dd91d",
+          "number": "1",
+          "length": 363000,
+          "position": 1
+        },
+        {
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "name": "Antonello Venditti",
+              "artist": {
+                "sort-name": "Venditti, Antonello",
+                "aliases": [
+                  {
+                    "sort-name": "Venditti, Antonio",
+                    "ended": false,
+                    "end": null,
+                    "name": "Antonio Venditti",
+                    "locale": null,
+                    "type": "Legal name",
+                    "begin": null,
+                    "primary": null,
+                    "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf"
+                  }
+                ],
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "name": "Antonello Venditti",
+                "disambiguation": "",
+                "type": "Person",
+                "id": "dd4a5777-42a3-44a2-b5e6-bff6731cdf3a"
+              }
+            }
+          ],
+          "recording": {
+            "id": "57d2e74e-e062-49ed-ac58-407ffabe6aed",
+            "disambiguation": "",
+            "length": 266000,
+            "aliases": [],
+            "artist-credit": [
+              {
+                "artist": {
+                  "name": "Antonello Venditti",
+                  "id": "dd4a5777-42a3-44a2-b5e6-bff6731cdf3a",
+                  "sort-name": "Venditti, Antonello",
+                  "type": "Person",
+                  "disambiguation": "",
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+                },
+                "name": "Antonello Venditti",
+                "joinphrase": ""
+              }
+            ],
+            "video": false,
+            "tags": [],
+            "title": "Francesco",
+            "first-release-date": "1978",
+            "genres": [],
+            "isrcs": []
+          },
+          "title": "Francesco",
+          "position": 2,
+          "length": 266000,
+          "number": "2",
+          "id": "2ad3d98b-a8bc-3902-b4d1-58040a29b658"
+        },
+        {
+          "id": "db323404-77b1-342c-bdee-8e2adc1b98c3",
+          "number": "3",
+          "length": 308000,
+          "position": 3,
+          "title": "Bomba o non bomba",
+          "recording": {
+            "id": "43c38654-c97c-415f-a3ec-a354a71ce1ee",
+            "length": 308000,
+            "disambiguation": "",
+            "video": false,
+            "tags": [
+              {
+                "count": 1,
+                "name": "rock"
+              },
+              {
+                "name": "singer-songwriter",
+                "count": 1
+              }
+            ],
+            "title": "Bomba o non bomba",
+            "aliases": [],
+            "artist-credit": [
+              {
+                "name": "Antonello Venditti",
+                "artist": {
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "disambiguation": "",
+                  "type": "Person",
+                  "id": "dd4a5777-42a3-44a2-b5e6-bff6731cdf3a",
+                  "sort-name": "Venditti, Antonello",
+                  "name": "Antonello Venditti"
+                },
+                "joinphrase": ""
+              }
+            ],
+            "genres": [
+              {
+                "name": "rock",
+                "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+                "disambiguation": "",
+                "count": 1
+              },
+              {
+                "name": "singer-songwriter",
+                "disambiguation": "",
+                "count": 1,
+                "id": "455f264b-db00-4716-991d-fbd32dc24523"
+              }
+            ],
+            "first-release-date": "1978",
+            "isrcs": []
+          },
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "artist": {
+                "sort-name": "Venditti, Antonello",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "aliases": [
+                  {
+                    "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                    "primary": null,
+                    "begin": null,
+                    "type": "Legal name",
+                    "locale": null,
+                    "name": "Antonio Venditti",
+                    "end": null,
+                    "sort-name": "Venditti, Antonio",
+                    "ended": false
+                  }
+                ],
+                "type": "Person",
+                "disambiguation": "",
+                "id": "dd4a5777-42a3-44a2-b5e6-bff6731cdf3a",
+                "name": "Antonello Venditti"
+              },
+              "name": "Antonello Venditti"
+            }
+          ]
+        },
+        {
+          "artist-credit": [
+            {
+              "name": "Antonello Venditti",
+              "artist": {
+                "aliases": [
+                  {
+                    "end": null,
+                    "sort-name": "Venditti, Antonio",
+                    "ended": false,
+                    "begin": null,
+                    "primary": null,
+                    "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                    "name": "Antonio Venditti",
+                    "locale": null,
+                    "type": "Legal name"
+                  }
+                ],
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "name": "Antonello Venditti",
+                "disambiguation": "",
+                "type": "Person",
+                "id": "dd4a5777-42a3-44a2-b5e6-bff6731cdf3a",
+                "sort-name": "Venditti, Antonello"
+              },
+              "joinphrase": ""
+            }
+          ],
+          "recording": {
+            "title": "Chen il Cinese",
+            "tags": [],
+            "video": false,
+            "artist-credit": [
+              {
+                "name": "Antonello Venditti",
+                "artist": {
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "name": "Antonello Venditti",
+                  "type": "Person",
+                  "disambiguation": "",
+                  "sort-name": "Venditti, Antonello",
+                  "id": "dd4a5777-42a3-44a2-b5e6-bff6731cdf3a"
+                },
+                "joinphrase": ""
+              }
+            ],
+            "aliases": [],
+            "length": 249000,
+            "disambiguation": "",
+            "id": "8e347918-858b-4219-ba91-0b48a1e3b661",
+            "isrcs": [],
+            "genres": [],
+            "first-release-date": "1978"
+          },
+          "title": "Chen il Cinese",
+          "position": 4,
+          "length": 249000,
+          "number": "4",
+          "id": "efa38932-e103-3f75-bc1f-ca3c33e0d20b"
+        },
+        {
+          "number": "5",
+          "length": 270000,
+          "id": "63bae7d8-f0ce-37f9-9da6-e3a8c3283434",
+          "position": 5,
+          "title": "Sara",
+          "artist-credit": [
+            {
+              "name": "Antonello Venditti",
+              "artist": {
+                "sort-name": "Venditti, Antonello",
+                "name": "Antonello Venditti",
+                "id": "dd4a5777-42a3-44a2-b5e6-bff6731cdf3a",
+                "type": "Person",
+                "disambiguation": "",
+                "aliases": [
+                  {
+                    "end": null,
+                    "ended": false,
+                    "sort-name": "Venditti, Antonio",
+                    "primary": null,
+                    "begin": null,
+                    "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                    "name": "Antonio Venditti",
+                    "type": "Legal name",
+                    "locale": null
+                  }
+                ],
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+              },
+              "joinphrase": ""
+            }
+          ],
+          "recording": {
+            "isrcs": [],
+            "genres": [],
+            "first-release-date": "1978",
+            "title": "Sara",
+            "video": false,
+            "tags": [],
+            "artist-credit": [
+              {
+                "artist": {
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "id": "dd4a5777-42a3-44a2-b5e6-bff6731cdf3a",
+                  "sort-name": "Venditti, Antonello",
+                  "disambiguation": "",
+                  "type": "Person",
+                  "name": "Antonello Venditti"
+                },
+                "name": "Antonello Venditti",
+                "joinphrase": ""
+              }
+            ],
+            "aliases": [],
+            "disambiguation": "",
+            "length": 270000,
+            "id": "f5c30d65-a231-4513-acb8-efa568987a4b"
+          }
+        },
+        {
+          "position": 6,
+          "number": "6",
+          "length": 315000,
+          "id": "939f3b95-28f0-3801-a85b-41bedda08a4d",
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "artist": {
+                "name": "Antonello Venditti",
+                "id": "dd4a5777-42a3-44a2-b5e6-bff6731cdf3a",
+                "type": "Person",
+                "disambiguation": "",
+                "aliases": [
+                  {
+                    "end": null,
+                    "sort-name": "Venditti, Antonio",
+                    "ended": false,
+                    "primary": null,
+                    "begin": null,
+                    "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                    "name": "Antonio Venditti",
+                    "locale": null,
+                    "type": "Legal name"
+                  }
+                ],
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "sort-name": "Venditti, Antonello"
+              },
+              "name": "Antonello Venditti"
+            }
+          ],
+          "recording": {
+            "id": "5c0c2767-ece2-48c1-ad79-ad89c856dfe7",
+            "length": 315000,
+            "disambiguation": "",
+            "tags": [],
+            "video": false,
+            "title": "Il telegiornale",
+            "aliases": [],
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "name": "Antonello Venditti",
+                "artist": {
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "id": "dd4a5777-42a3-44a2-b5e6-bff6731cdf3a",
+                  "sort-name": "Venditti, Antonello",
+                  "type": "Person",
+                  "disambiguation": "",
+                  "name": "Antonello Venditti"
+                }
+              }
+            ],
+            "genres": [],
+            "first-release-date": "1978",
+            "isrcs": []
+          },
+          "title": "Il telegiornale"
+        },
+        {
+          "position": 7,
+          "id": "a970cd36-035b-3a1d-961c-aa57508b0f91",
+          "number": "7",
+          "length": 309000,
+          "recording": {
+            "first-release-date": "1978",
+            "genres": [],
+            "isrcs": [],
+            "id": "88a1aefa-5c51-45e1-ac22-2ef950416890",
+            "length": 309000,
+            "disambiguation": "",
+            "aliases": [],
+            "artist-credit": [
+              {
+                "artist": {
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "type": "Person",
+                  "disambiguation": "",
+                  "sort-name": "Venditti, Antonello",
+                  "id": "dd4a5777-42a3-44a2-b5e6-bff6731cdf3a",
+                  "name": "Antonello Venditti"
+                },
+                "name": "Antonello Venditti",
+                "joinphrase": ""
+              }
+            ],
+            "video": false,
+            "tags": [],
+            "title": "Giulia"
+          },
+          "artist-credit": [
+            {
+              "name": "Antonello Venditti",
+              "artist": {
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "aliases": [
+                  {
+                    "ended": false,
+                    "sort-name": "Venditti, Antonio",
+                    "end": null,
+                    "type": "Legal name",
+                    "locale": null,
+                    "name": "Antonio Venditti",
+                    "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                    "primary": null,
+                    "begin": null
+                  }
+                ],
+                "disambiguation": "",
+                "type": "Person",
+                "id": "dd4a5777-42a3-44a2-b5e6-bff6731cdf3a",
+                "name": "Antonello Venditti",
+                "sort-name": "Venditti, Antonello"
+              },
+              "joinphrase": ""
+            }
+          ],
+          "title": "Giulia"
+        },
+        {
+          "id": "a7b8b0b4-48d3-393e-a646-b2a382480fa3",
+          "length": 344560,
+          "number": "8",
+          "position": 8,
+          "title": "L'Uomo Falco",
+          "recording": {
+            "first-release-date": "1978",
+            "genres": [],
+            "isrcs": [],
+            "disambiguation": "",
+            "length": 344560,
+            "id": "858d4ebe-5fbb-4a6f-8898-34684009278b",
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "name": "Antonello Venditti",
+                "artist": {
+                  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                  "sort-name": "Venditti, Antonello",
+                  "id": "dd4a5777-42a3-44a2-b5e6-bff6731cdf3a",
+                  "type": "Person",
+                  "disambiguation": "",
+                  "name": "Antonello Venditti"
+                }
+              }
+            ],
+            "aliases": [],
+            "title": "L'Uomo Falco",
+            "tags": [],
+            "video": false
+          },
+          "artist-credit": [
+            {
+              "name": "Antonello Venditti",
+              "artist": {
+                "sort-name": "Venditti, Antonello",
+                "id": "dd4a5777-42a3-44a2-b5e6-bff6731cdf3a",
+                "type": "Person",
+                "disambiguation": "",
+                "name": "Antonello Venditti",
+                "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+                "aliases": [
+                  {
+                    "end": null,
+                    "ended": false,
+                    "sort-name": "Venditti, Antonio",
+                    "primary": null,
+                    "begin": null,
+                    "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                    "name": "Antonio Venditti",
+                    "type": "Legal name",
+                    "locale": null
+                  }
+                ]
+              },
+              "joinphrase": ""
+            }
+          ]
+        }
+      ],
+      "title": "",
+      "track-offset": 0,
+      "track-count": 8
+    }
+  ],
+  "cover-art-archive": {
+    "back": true,
+    "count": 6,
+    "artwork": true,
+    "front": true,
+    "darkened": false
+  },
+  "quality": "normal",
+  "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+  "packaging-id": "e724a489-a7e8-30a1-a17c-30dfd6831202",
+  "relations": [
+    {
+      "attribute-values": {},
+      "ended": false,
+      "attributes": [],
+      "source-credit": "",
+      "target-type": "url",
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.discogs.com/release/1984330",
+        "id": "1f69aff3-290a-4ac8-aa7e-592526225181"
+      },
+      "end": null,
+      "type": "discogs",
+      "target-credit": "",
+      "type-id": "4a78823c-1c53-4176-a5f3-58026c76f2bc",
+      "direction": "forward",
+      "begin": null
+    }
+  ],
+  "title": "Sotto il segno dei pesci",
+  "aliases": [],
+  "release-group": {
+    "tags": [
+      {
+        "name": "pop",
+        "count": 2
+      }
+    ],
+    "title": "Sotto il segno dei pesci",
+    "aliases": [],
+    "artist-credit": [
+      {
+        "joinphrase": "",
+        "artist": {
+          "sort-name": "Venditti, Antonello",
+          "id": "dd4a5777-42a3-44a2-b5e6-bff6731cdf3a",
+          "disambiguation": "",
+          "type": "Person",
+          "name": "Antonello Venditti",
+          "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+          "aliases": [
+            {
+              "end": null,
+              "sort-name": "Venditti, Antonio",
+              "ended": false,
+              "begin": null,
+              "primary": null,
+              "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+              "name": "Antonio Venditti",
+              "type": "Legal name",
+              "locale": null
+            }
+          ]
+        },
+        "name": "Antonello Venditti"
+      }
+    ],
+    "secondary-types": [],
+    "id": "0570526b-a661-311b-a995-b0da7fab6723",
+    "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+    "disambiguation": "",
+    "secondary-type-ids": [],
+    "genres": [
+      {
+        "name": "pop",
+        "count": 2,
+        "disambiguation": "",
+        "id": "911c7bbb-172d-4df8-9478-dbff4296e791"
+      }
+    ],
+    "primary-type": "Album",
+    "first-release-date": "1978"
+  },
+  "text-representation": {
+    "language": "ita",
+    "script": "Latn"
+  },
+  "id": "8cf1a590-7f23-4cd6-9bb0-118feaf20221",
+  "disambiguation": "",
+  "packaging": "Gatefold Cover",
+  "barcode": ""
+}

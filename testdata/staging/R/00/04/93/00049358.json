@@ -1,0 +1,237 @@
+{
+    "release": {
+        "_id": "49358",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "293206",
+                "join": "",
+                "name": "Move D / Namlook",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "265055",
+                    "name": "reSource Heidelberg",
+                    "resource_url": "https://api.discogs.com/labels/265055"
+                },
+                {
+                    "catno": "32468",
+                    "entity_type": "10",
+                    "entity_type_name": "Manufactured By",
+                    "id": "277449",
+                    "name": "P+O Pallas",
+                    "resource_url": "https://api.discogs.com/labels/277449"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "2118078",
+                    "join": "",
+                    "name": "PEK (3)",
+                    "role": "Graphics",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "41714",
+                    "join": "",
+                    "name": "Charles Uzzell-Edwards",
+                    "role": "Illustration [Drawings]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "152",
+                    "join": "",
+                    "name": "David Moufang",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "58657",
+                    "join": "",
+                    "name": "Peter Kuhlmann",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "152",
+                    "join": "",
+                    "name": "David Moufang",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "PK 08/127  P+O-32468-A2"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "591",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "591",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "589",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "596",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "467",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "603",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/127",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Recorded live at reSource Studio, Heidelberg on February, 19th 1997.\r\nLimitation: 2000 \r\n\r\nSpecial thanks from P.N. to:\r\nElisabeth / Fabia / K. / Charles Uzzell-Edwards",
+        "released": "1997-03-24",
+        "styles": {
+            "style": [
+                "Techno",
+                "Ambient"
+            ]
+        },
+        "title": "Move D / Namlook II - A Day In The Live!",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "4:14",
+                    "position": "1",
+                    "title": "Wake Up"
+                },
+                {
+                    "duration": "4:10",
+                    "position": "2",
+                    "title": "Fall Out Of Bed"
+                },
+                {
+                    "duration": "13:45",
+                    "position": "3",
+                    "title": "Into A Wonderful Maze"
+                },
+                {
+                    "duration": "13:33",
+                    "position": "4",
+                    "title": "Down To The EMC"
+                },
+                {
+                    "duration": "6:08",
+                    "position": "5",
+                    "title": "Where We Chill Out"
+                },
+                {
+                    "duration": "3:16",
+                    "position": "6",
+                    "title": "As Peter Plays The Strings"
+                },
+                {
+                    "duration": "7:36",
+                    "position": "7",
+                    "title": "At The End"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "813",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=rMiM-gYBlT4",
+                    "description": "Taken from A Day In The Life ! (FAX+49-69/450464 - PK 08/127, 1997).\nhttp://www.discogs.com/artist/293206-Move-D-Namlook",
+                    "title": "Move D / Namlook - Down To The EMC"
+                },
+                {
+                    "_duration": "460",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=bOSzpxghXMs",
+                    "description": "https://www.discogs.com/Move-D-Namlook-Move-D-Namlook-II-A-Day-In-The-Live/release/49358",
+                    "title": "Move D \u0026 Namlook - At the End (1997)"
+                }
+            ]
+        }
+    }
+}

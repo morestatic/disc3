@@ -1,0 +1,331 @@
+{
+    "release": {
+        "_id": "200893",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "32186",
+                "join": "",
+                "name": "Oskar Sala",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "274348",
+                    "name": "Erdenklang Musikverlag Ulrich Rützel",
+                    "resource_url": "https://api.discogs.com/labels/274348"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "274348",
+                    "name": "Erdenklang Musikverlag Ulrich Rützel",
+                    "resource_url": "https://api.discogs.com/labels/274348"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "6",
+                    "entity_type_name": "Licensed From",
+                    "id": "274348",
+                    "name": "Erdenklang Musikverlag Ulrich Rützel",
+                    "resource_url": "https://api.discogs.com/labels/274348"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "274348",
+                    "name": "Erdenklang Musikverlag Ulrich Rützel",
+                    "resource_url": "https://api.discogs.com/labels/274348"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "264044",
+                    "name": "B. Schott's Söhne International",
+                    "resource_url": "https://api.discogs.com/labels/264044"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "1067570",
+                    "name": "Oskar Sala's Studio",
+                    "resource_url": "https://api.discogs.com/labels/1067570"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "29",
+                    "entity_type_name": "Mastered At",
+                    "id": "294386",
+                    "name": "Klanglabor Frankfurt",
+                    "resource_url": "https://api.discogs.com/labels/294386"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "2118078",
+                    "join": "",
+                    "name": "PEK (3)",
+                    "role": "Graphics",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1769181",
+                    "join": "",
+                    "name": "Ieva Gaidulis",
+                    "role": "Liner Notes [Translated By]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "58657",
+                    "join": "",
+                    "name": "Peter Kuhlmann",
+                    "role": "Liner Notes [Translated By]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "58657",
+                    "join": "",
+                    "name": "Peter Kuhlmann",
+                    "role": "Mastered By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "58657",
+                    "join": "",
+                    "name": "Peter Kuhlmann",
+                    "role": "Photography By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "2246351",
+                    "join": "",
+                    "name": "Reiner Pfisterer",
+                    "role": "Photography By [Cover]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "32186",
+                    "join": "",
+                    "name": "Oskar Sala",
+                    "role": "Photography By, Illustration [Drawings]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "32186",
+                    "join": "",
+                    "name": "Oskar Sala",
+                    "role": "Producer, Performer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "32186",
+                    "join": "",
+                    "name": "Oskar Sala",
+                    "role": "Written-By",
+                    "tracks": "2 to 11"
+                },
+                {
+                    "anv": "",
+                    "id": "567511",
+                    "join": "",
+                    "name": "Paul Hindemith",
+                    "role": "Written-By",
+                    "tracks": "1"
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Limited Edition",
+                        "Album"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": [
+                "Electronic",
+                "Classical"
+            ]
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "592",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "603",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "281",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PS 08/85",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "false",
+            "content": "84506"
+        },
+        "notes": "Recorded at Oskar Sala's Studio, Berlin\nThis CD is limited to 1000 copies worldwide.\nPublished by Erdenklang Musikverlag Ulrich Rützel except 1. by Musikverlag B. Schott's Söhne International GmbH\nLicensed from Erdenklang Musikverlag Ulrich Rützel \n(P) \u0026 (C) 1997 by Erdenklang Musikverlag Ulrich Rützel\n\nReleased with a 24-page booklet.\nCompared to the [url=https://www.discogs.comrelease/429854] german version[/url], this \"international version\" include two additional tracks numbered #8 and #9.",
+        "released": "1997-02-03",
+        "styles": {
+            "style": [
+                "Experimental",
+                "Modern Classical"
+            ]
+        },
+        "title": "Subharmonic Mixtures",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "",
+                    "title": "Paul Hindemith"
+                },
+                {
+                    "duration": "5:24",
+                    "position": "1",
+                    "title": "Langsames Stück Und Rondo Für Trautonium (1935)"
+                },
+                {
+                    "duration": "",
+                    "position": "",
+                    "title": "Six Caprices For Mixturtrautonium Solo"
+                },
+                {
+                    "duration": "5:08",
+                    "position": "2",
+                    "title": "Caprice Rubato"
+                },
+                {
+                    "duration": "12:32",
+                    "position": "3",
+                    "title": "Caprice With Variations"
+                },
+                {
+                    "duration": "8:55",
+                    "position": "4",
+                    "title": "Trio-Caprice"
+                },
+                {
+                    "duration": "4:33",
+                    "position": "5",
+                    "title": "Glissando-Caprice"
+                },
+                {
+                    "duration": "6:56",
+                    "position": "6",
+                    "title": "Caprice With Sound Levels"
+                },
+                {
+                    "duration": "6:46",
+                    "position": "7",
+                    "title": "Agitato, Lamentoso, Furioso"
+                },
+                {
+                    "duration": "",
+                    "position": "",
+                    "title": "Compositions For Mixturtrautonium And Studio Technique"
+                },
+                {
+                    "duration": "3:13",
+                    "position": "8",
+                    "title": "Saitenspiele Und Tonbandkünste"
+                },
+                {
+                    "duration": "4:31",
+                    "position": "9",
+                    "title": "Ostinato Mit Fanfaren"
+                },
+                {
+                    "duration": "7:39",
+                    "position": "10",
+                    "title": "Chaconne Electronique"
+                },
+                {
+                    "duration": "",
+                    "position": "",
+                    "title": "Soundtrack"
+                },
+                {
+                    "duration": "12:31",
+                    "position": "11",
+                    "title": "The Strangler Of Blackmoor Castle (Excerpt)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "330",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=DijOu7GII5c",
+                    "description": "Provided to YouTube by Zebralution GmbH\n\nLangsames Stück Und Rondo Für Trautonium · Oskar Sala\n\nSubharmonische Mixturen\n\n℗ 2006 Erdenklang\n\nReleased on: 2006-01-06\n\nMusic  Publisher: Erdenklang MV\nComposer: Sala\n\nAuto-generated by YouTube.",
+                    "title": "Langsames Stück Und Rondo Für Trautonium"
+                },
+                {
+                    "_duration": "311",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=WZ02S8kfLfU",
+                    "description": "Original composition from 'Subharmonic Mixtures' (1997)",
+                    "title": "Oskar Sala - Caprice Rubato"
+                },
+                {
+                    "_duration": "750",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=GJxcR-cIO6U",
+                    "description": "Beautiful piece for Trautonium by one of the pioneers of electronic music Oskar Sala.",
+                    "title": "Oskar Sala - Caprice With Variations"
+                }
+            ]
+        }
+    }
+}

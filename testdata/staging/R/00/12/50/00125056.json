@@ -1,0 +1,441 @@
+{
+    "release": {
+        "_id": "125056",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "9592",
+                "join": "",
+                "name": "Pizzaman",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "6",
+                    "entity_type_name": "Licensed From",
+                    "id": "317309",
+                    "name": "Cowboy Records Ltd.",
+                    "resource_url": "https://api.discogs.com/labels/317309"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "9",
+                    "entity_type_name": "Distributed By",
+                    "id": "264522",
+                    "name": "Pinnacle (3)",
+                    "resource_url": "https://api.discogs.com/labels/264522"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "10",
+                    "entity_type_name": "Manufactured By",
+                    "id": "329811",
+                    "name": "Disctronics S",
+                    "resource_url": "https://api.discogs.com/labels/329811"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "317309",
+                    "name": "Cowboy Records Ltd.",
+                    "resource_url": "https://api.discogs.com/labels/317309"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "317309",
+                    "name": "Cowboy Records Ltd.",
+                    "resource_url": "https://api.discogs.com/labels/317309"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "24",
+                    "entity_type_name": "Engineered At",
+                    "id": "484090",
+                    "name": "The House Of Love (2)",
+                    "resource_url": "https://api.discogs.com/labels/484090"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "270893",
+                    "name": "Polygram Music",
+                    "resource_url": "https://api.discogs.com/labels/270893"
+                }
+            ]
+        },
+        "country": "UK",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "1832088",
+                    "join": "",
+                    "name": "Spin (15)",
+                    "role": "Cover [Covered @]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "59261",
+                    "join": "",
+                    "name": "Simon Thornton",
+                    "role": "Engineer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "116018",
+                    "join": "",
+                    "name": "JC Reid",
+                    "role": "Executive-Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "28522",
+                    "join": "",
+                    "name": "Play Boys",
+                    "role": "Executive-Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "434465",
+                    "join": "",
+                    "name": "Tim Jeffery",
+                    "role": "Executive-Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "9592",
+                    "join": "",
+                    "name": "Pizzaman",
+                    "role": "Producer, Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "Single"
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Text",
+                    "_type": "Barcode",
+                    "_value": "5 024086 002401"
+                },
+                {
+                    "_description": "scanned",
+                    "_type": "Barcode",
+                    "_value": "5024086002401"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "DISCTRONICS S CDLOAD 24 02"
+                },
+                {
+                    "_type": "Mastering SID Code",
+                    "_value": "IFPI L205"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "520",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "88",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "529",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "609",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": [
+                {
+                    "_catno": "CDLOAD24",
+                    "_id": "5495",
+                    "_name": "Cowboy Records"
+                },
+                {
+                    "_catno": "CDLOAD24",
+                    "_id": "40",
+                    "_name": "Loaded Records"
+                }
+            ]
+        },
+        "master_id": {
+            "_is_main_release": "false",
+            "content": "100620"
+        },
+        "notes": "Engineered at The House of Love.\n\n℗ 1995 Cowboy Records Ltd. © 1995 Cowboy Records Ltd. Loaded Records licensed by Cowboy Records. Distributed by Pinnacle Records. Published by Polygram Music. Made in UK.\n\nDedicated to the memory of [url=http://www.discogs.com/artist/Roger+McKenzie]Roger 'Wild Child' McKenzie[/url].\n\nInlay is misprinted and has some information in regards to the \"Play Boys Fully Loaded Dub\" which does not appear on this release.",
+        "released": "1995-12-00",
+        "styles": {
+            "style": [
+                "House",
+                "Big Beat"
+            ]
+        },
+        "title": "Sex On The Streets",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "3:48",
+                    "position": "1",
+                    "title": "Sex On The Streets (Radio Edit)"
+                },
+                {
+                    "duration": "6:44",
+                    "position": "2",
+                    "title": "Sex On The Streets (Pizzaman Club Mix)"
+                },
+                {
+                    "duration": "7:32",
+                    "position": "3",
+                    "title": "Sex On The Streets (Pizzaman Dub)"
+                },
+                {
+                    "duration": "6:50",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "1670",
+                                "join": "",
+                                "name": "Red Jerry",
+                                "role": "Remix",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "112072",
+                                "join": "",
+                                "name": "Jerry Dickens",
+                                "role": "Remix, Producer [Additional]",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "4",
+                    "title": "Sex On The Streets (Red Jerry Mix)"
+                },
+                {
+                    "duration": "8:50",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "Goodfello's",
+                                "id": "35706",
+                                "join": "",
+                                "name": "Goodfellos",
+                                "role": "Remix",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "1690",
+                                "join": "",
+                                "name": "Tall Paul",
+                                "role": "Remix",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "1681",
+                                "join": "",
+                                "name": "Tin Tin Out",
+                                "role": "Remix",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "470549",
+                                "join": "",
+                                "name": "Darren Stokes",
+                                "role": "Remix, Producer [Additional]",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "73082",
+                                "join": "",
+                                "name": "Lyndsey Edwards",
+                                "role": "Remix, Producer [Additional]",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "32904",
+                                "join": "",
+                                "name": "Paul Newman",
+                                "role": "Remix, Producer [Additional]",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "5",
+                    "title": "Sex On The Streets (Tall Paul  \u0026 Tin Tin Out - Goodfello's Mix)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "404",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=B4U6jtc3rS0",
+                    "description": "Audiophile grade classic Electronic Dance Music in HQ.\nPizzaman - Sex on the Streets (Club Mix) (1995)\n\nSubscribe ►  https://bit.ly/3a5g8vQ\n\nHave a request for the channel? Let us know in the comments. \n\nConnect with EDMclassics:\n► Facebook page: http",
+                    "title": "Pizzaman - Sex on the Streets (Pizzaman Club) (1995)"
+                },
+                {
+                    "_duration": "543",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=KUprDYip0Jc",
+                    "description": "Provided to YouTube by Loaded Records\n\nSex On the Streets (Playboys Fully Loaded Dub) · Pizzaman\n\nSex On the Streets\n\n℗ 1995 Loaded Records Limited, a BMG Company\n\nPerformance: Pizzaman\n\nAuto-generated by YouTube.",
+                    "title": "Sex On the Streets (Playboys Fully Loaded Dub)"
+                },
+                {
+                    "_duration": "399",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=6KAa5wDOFNs",
+                    "description": "",
+                    "title": "Pizzaman - Sex On The Streets (Pizzaman Club Mix)"
+                },
+                {
+                    "_duration": "409",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=xoc7KXYvxcQ",
+                    "description": "https://www.discogs.com/Pizzaman-Sex-On-The-Streets/release/2364863?ev=item-vc",
+                    "title": "Pizzaman ‎– Sex On The Streets (Pizzaman Club)(1995)"
+                },
+                {
+                    "_duration": "64",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=v8xOfWPGT1g",
+                    "description": "",
+                    "title": "Pizzaman - Sex On The Streets (High res/ Official video)"
+                },
+                {
+                    "_duration": "404",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=67UU_JxRseo",
+                    "description": "Provided to YouTube by Loaded Records\n\nSex On the Streets (Club Mix) · Pizzaman\n\nSex On the Streets\n\n℗ 1995 Loaded Records Limited, a BMG Company\n\nPerformance: Pizzaman\n\nAuto-generated by YouTube.",
+                    "title": "Sex On the Streets (Club Mix)"
+                },
+                {
+                    "_duration": "455",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=h4H9MM3FknM",
+                    "description": "https://www.discogs.com/Pizzaman-Sex-On-The-Streets/release/2364863?ev=item-vc",
+                    "title": "Pizzaman ‎– Sex On The Streets (Pizzaman Dub)(1995)"
+                },
+                {
+                    "_duration": "550",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=jdDgq4fOnBE",
+                    "description": "",
+                    "title": "Pizzaman - Sex On The Streets (Play Boys Fully Loaded Dub 1995)"
+                },
+                {
+                    "_duration": "453",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Sr1JNrDwqmY",
+                    "description": "Provided to YouTube by Loaded Records\n\nSex On the Streets (Dub) · Pizzaman\n\nSex On the Streets\n\n℗ 1995 Loaded Records Limited, a BMG Company\n\nPerformance: Pizzaman\n\nAuto-generated by YouTube.",
+                    "title": "Sex On the Streets (Dub)"
+                },
+                {
+                    "_duration": "547",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=ELn1hKLrp-E",
+                    "description": "https://www.discogs.com/Pizzaman-Sex-On-The-Streets/release/2364863?ev=item-vc",
+                    "title": "Pizzaman ‎– Sex On The Streets (Play Boys Fully Loaded Dub)(1995)"
+                },
+                {
+                    "_duration": "520",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=1H_wJS1IqxM",
+                    "description": "was released in 1995 on Loaded Records",
+                    "title": "Pizzaman - Sex On The Streets (Tall Paul \u0026 Tin Tin Out Goodfello's Mix)"
+                },
+                {
+                    "_duration": "898",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=SFoH8nBhLME",
+                    "description": "Pizzaman-- Sex On The Streets \r\nLabel: Loaded Records\r\nCatalog#:  12 LOAD 24DJ \r\nFormat: Vinyl, 12, Promo \r\nCountry: UK\r\nReleased:  1995 \r\nGenre: Electronic\r\nStyle: House",
+                    "title": "Pizzaman - Sex On The Streets (Pizzaman Club Mix) \u0026 (Wild Child Dub)"
+                },
+                {
+                    "_duration": "230",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=zZepOWZ3EUQ",
+                    "description": "Wonderful song, great video. When Fatboy Slim was still just Pizzaman - Un mito, sia la canzone, che il video... Il protagonista e le sue movenze sono indimenticabili... per non parlare del Pastore (che ricorda parecchio Funari)...",
+                    "title": "Pizzaman - Sex on the streets"
+                },
+                {
+                    "_duration": "863",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=8MHjV112r1I",
+                    "description": "Pizzaman-- Sex On The Streets \r\nLabel: Loaded Records, Cowboy Records\r\nCatalog#:  12 LOAD 24 DJ, \r\nFormat: Vinyl, 12, Promo, 33 ⅓ RPM \r\nCountry: UK\r\nReleased:  1995 \r\nGenre: Electronic\r\nStyle: House",
+                    "title": "Pizzaman - Sex On The Streets (Pizzaman Club Mix) \u0026 (Pizzaman Dub)"
+                },
+                {
+                    "_duration": "898",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=cKMPNGQK-48",
+                    "description": "Pizzaman-- Sex On The Streets \r\nLabel: Loaded Records\r\nCatalog#:  12 LOAD 24DJ \r\nFormat: Vinyl, 12, Promo \r\nCountry: UK\r\nReleased:  1995 \r\nGenre: Electronic\r\nStyle: House",
+                    "title": "Pizzaman - Sex On The Streets (Red Jerry Mix) \u0026 (Goodfello's Mix)"
+                },
+                {
+                    "_duration": "547",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=z0coSbfD6PA",
+                    "description": "Pizzaman-- Sex On The Streets \r\nLabel: Loaded Records, Cowboy Records\r\nCatalog#:  12 LOAD 24 DJ, \r\nFormat: Vinyl, 12, Promo, 33 ⅓ RPM \r\nCountry: UK\r\nReleased:  1995 \r\nGenre: Electronic\r\nStyle: House",
+                    "title": "Pizzaman - Sex On The Streets (Play Boys Fully Loaded Dub)"
+                }
+            ]
+        }
+    }
+}

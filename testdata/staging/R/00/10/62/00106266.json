@@ -1,0 +1,266 @@
+{
+    "release": {
+        "_id": "106266",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "9592",
+                "join": "",
+                "name": "Pizzaman",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "17",
+                    "entity_type_name": "Pressed By",
+                    "id": "266587",
+                    "name": "Orlake Records",
+                    "resource_url": "https://api.discogs.com/labels/266587"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "48207",
+                    "name": "Copyright Control",
+                    "resource_url": "https://api.discogs.com/labels/48207"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "30",
+                    "entity_type_name": "Lacquer Cut At",
+                    "id": "268038",
+                    "name": "Porky's Mastering",
+                    "resource_url": "https://api.discogs.com/labels/268038"
+                }
+            ]
+        },
+        "country": "UK",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "9592",
+                    "join": "",
+                    "name": "Pizzaman",
+                    "role": "Co-producer, Mixed By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "28522",
+                    "join": "",
+                    "name": "Play Boys",
+                    "role": "Co-producer, Mixed By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "Pauls",
+                    "id": "388200",
+                    "join": "",
+                    "name": "Paul Solomons",
+                    "role": "Lacquer Cut By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "9592",
+                    "join": "",
+                    "name": "Pizzaman",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Text",
+                    "_type": "Barcode",
+                    "_value": "5 025425 550867"
+                },
+                {
+                    "_description": "Scanned",
+                    "_type": "Barcode",
+                    "_value": "5025425550867"
+                },
+                {
+                    "_description": "Run-out Side A",
+                    "_type": "Matrix / Runout",
+                    "_value": "PAULS @ PORKYS. LOAD + 008 + A ORLAKE"
+                },
+                {
+                    "_description": "Run-out Side AA",
+                    "_type": "Matrix / Runout",
+                    "_value": "PAULS @ PORKYS. LOAD + 008 + AA ORLAKE"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "LOAD8",
+                "_id": "40",
+                "_name": "Loaded Records"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "613336"
+        },
+        "notes": "The release was originally issued in a thin generic black die-cut sleeve, without inner-sleeve.\n\n'Sans Bateaux' samples the bassline from '[m165098] (D.J. Mixers \"Bonus Beat\")’.",
+        "released": "1993-08-09",
+        "styles": {
+            "style": [
+                "Progressive House",
+                "Techno",
+                "Progressive Trance"
+            ]
+        },
+        "title": "Babyloop / Sans Bateaux",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A1",
+                    "title": "Babyloop"
+                },
+                {
+                    "duration": "",
+                    "position": "A2",
+                    "title": "DJ's Delight #2"
+                },
+                {
+                    "duration": "",
+                    "position": "AA1",
+                    "title": "Sans Bateaux"
+                },
+                {
+                    "duration": "",
+                    "position": "AA2",
+                    "title": "DJ's Delight #3"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "523",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=CBfZBrXJVEA",
+                    "description": "http://itunes.apple.com/gb/album/babyloop-ep/id376202178",
+                    "title": "Pizzaman - Babyloop"
+                },
+                {
+                    "_duration": "548",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=yPZW5lIMtFs",
+                    "description": "http://itunes.apple.com/gb/album/babyloop-ep/id376202178",
+                    "title": "Pizzaman - Sans Bateaux"
+                },
+                {
+                    "_duration": "123",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=6dwb_zWsBUU",
+                    "description": "Provided to YouTube by Loaded Records\n\nDJ's Delight (Pt. 1) · Pizzaman\n\nBabyloop\n\n℗ 1993 Loaded Records Limited, a BMG Company\n\nPerformance: Pizzaman\n\nAuto-generated by YouTube.",
+                    "title": "DJ's Delight (Pt. 1)"
+                },
+                {
+                    "_duration": "128",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=UpxAxIoG29k",
+                    "description": "Provided to YouTube by Loaded Records\n\nDJ's Delight (Pt. 2) · Pizzaman\n\nBabyloop\n\n℗ 1993 Loaded Records Limited, a BMG Company\n\nPerformance: Pizzaman\n\nAuto-generated by YouTube.",
+                    "title": "DJ's Delight (Pt. 2)"
+                },
+                {
+                    "_duration": "126",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=cH8YKfoD70o",
+                    "description": "https://www.discogs.com/Pizzaman-Babyloop-Sans-Bateaux/release/106266\r\n\r\nI do not own this song nor the image featured in the video. All rights belong to it's rightful owner/owners. No copyright infringement intended. For promotional purposes only. Suppor",
+                    "title": "Pizzaman - DJ's Delight #2"
+                },
+                {
+                    "_duration": "130",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=mjkMqpuiJ4s",
+                    "description": "https://www.discogs.com/Pizzaman-Babyloop-Sans-Bateaux/release/106266\r\n\r\nI do not own this song nor the image featured in the video. All rights belong to it's rightful owner/owners. No copyright infringement intended. For promotional purposes only. Suppor",
+                    "title": "Pizzaman -  DJ's Delight #3"
+                },
+                {
+                    "_duration": "90",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Wh0bWGaRKO8",
+                    "description": "",
+                    "title": "Pizzaman - DJ's Delight #3"
+                },
+                {
+                    "_duration": "125",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=i_U8CvOmuqI",
+                    "description": "",
+                    "title": "Pizzaman - DJ's Delight #2"
+                }
+            ]
+        }
+    }
+}

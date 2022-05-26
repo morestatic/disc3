@@ -1,0 +1,337 @@
+{
+    "release": {
+        "_id": "64478",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "194",
+                "join": "",
+                "name": "Various",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "UK",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "3680",
+                "join": "",
+                "name": "Mutiny",
+                "role": "DJ Mix",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "Mixed"
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Barcode",
+                    "_value": "none"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "MINMAG56 7/24/02"
+                },
+                {
+                    "_type": "Mastering SID Code",
+                    "_value": "IFPI LR61"
+                },
+                {
+                    "_type": "Mould SID Code",
+                    "_value": "IFPI RZ80"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "599",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "465",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "MINMAG56 / SEP02",
+                "_id": "4162",
+                "_name": "Ministry (Magazine)"
+            }
+        },
+        "notes": "Given away free with the September 2002 issue of Ministry Magazine.",
+        "released": "2002-09-00",
+        "styles": {
+            "style": "House"
+        },
+        "title": "Ibiza (A Mutiny Mash-Up!)",
+        "tracklist": {
+            "track": [
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "52650",
+                            "join": "",
+                            "name": "Stefano Sorrentino",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "0:58",
+                    "position": "1",
+                    "title": "San´s Egal"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "3680",
+                            "join": "",
+                            "name": "Mutiny",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:25",
+                    "position": "2",
+                    "title": "Jack You"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "46959",
+                            "join": "",
+                            "name": "Nova Fronteira",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:21",
+                    "position": "3",
+                    "title": "Black Sun"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "23061",
+                            "join": "",
+                            "name": "DKS",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:45",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "39177",
+                            "join": "",
+                            "name": "Hill Sixty",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "4",
+                    "title": "Deeper Down (Hill Sixty Remix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "52652",
+                            "join": "",
+                            "name": "Aficionados",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:23",
+                    "position": "5",
+                    "title": "Booty Shake"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "Julie",
+                            "id": "1354562",
+                            "join": "",
+                            "name": "Julie Marghilano",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "2:07",
+                    "position": "6",
+                    "title": "Blinded"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "43949",
+                            "join": "",
+                            "name": "Kaori",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:15",
+                    "position": "7",
+                    "title": "Good Life"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "30428",
+                            "join": "",
+                            "name": "Steve Mac",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:35",
+                    "position": "8",
+                    "title": "Keep Beating The Drum"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "31742",
+                            "join": "",
+                            "name": "Space Cowboy",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "1:31",
+                    "position": "9",
+                    "title": "Always \u0026 Forever"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "18569",
+                            "join": "",
+                            "name": "Télépopmusik",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "3:55",
+                    "position": "10",
+                    "title": "Love Can Damage Your Health"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "3318",
+                            "join": "",
+                            "name": "Soldiers Of Twilight",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "7:28",
+                    "position": "11",
+                    "title": "Believe"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "60",
+                            "join": "",
+                            "name": "Pete Moss",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:10",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "21474",
+                            "join": "",
+                            "name": "Terra Deva",
+                            "role": "Featuring",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "12",
+                    "title": "After 2 (Original Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "52653",
+                            "join": "",
+                            "name": "Spiritual Vibe",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:19",
+                    "position": "13",
+                    "title": "Amor Y Paz"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "52654",
+                            "join": "",
+                            "name": "Stylophonic",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:31",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "8485",
+                            "join": "",
+                            "name": "Chicken Lips",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "14",
+                    "title": "Bizarre Mind (Chicken Lips Dub)"
+                }
+            ]
+        }
+    }
+}

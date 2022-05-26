@@ -1,0 +1,227 @@
+{
+    "release": {
+        "_id": "52629",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "42332",
+                "join": "",
+                "name": "Solphax",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "36",
+                    "entity_type_name": "Edited At",
+                    "id": "378686",
+                    "name": "PNG Studio",
+                    "resource_url": "https://api.discogs.com/labels/378686"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "10",
+                    "entity_type_name": "Manufactured By",
+                    "id": "291931",
+                    "name": "CD Plant MFG",
+                    "resource_url": "https://api.discogs.com/labels/291931"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "32614",
+                "join": "",
+                "name": "Victor Sol",
+                "role": "Written-By",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "CD PLANT MFG PS 08/71 CDMA01"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                },
+                {
+                    "_type": "Mould SID Code",
+                    "_value": "ifpi 8401"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "589",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "461",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "602",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "591",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "590",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "593",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PS 08/71",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Recorded in Barcelona 1992-1994. Digital editing at PNG Studios 1995.\r\n\r\nLimitation: 1000 copies.",
+        "released": "1995-06-12",
+        "styles": {
+            "style": [
+                "Abstract",
+                "Techno",
+                "Experimental",
+                "Ambient",
+                "Electro"
+            ]
+        },
+        "title": "Globaline",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "2:55",
+                    "position": "1",
+                    "title": "Spectrum"
+                },
+                {
+                    "duration": "7:57",
+                    "position": "2",
+                    "title": "Detroit Is Waiting"
+                },
+                {
+                    "duration": "7:59",
+                    "position": "3",
+                    "title": "Hemispherical Sink"
+                },
+                {
+                    "duration": "7:16",
+                    "position": "4",
+                    "title": "Sunrise"
+                },
+                {
+                    "duration": "8:01",
+                    "position": "5",
+                    "title": "Rockwool Airport"
+                },
+                {
+                    "duration": "4:58",
+                    "position": "6",
+                    "title": "Ether Nose"
+                },
+                {
+                    "duration": "4:47",
+                    "position": "7",
+                    "title": "Loop End Devil"
+                },
+                {
+                    "duration": "3:50",
+                    "position": "8",
+                    "title": "P-Machine"
+                },
+                {
+                    "duration": "1:41",
+                    "position": "9",
+                    "title": "S-Pac-E"
+                },
+                {
+                    "duration": "7:08",
+                    "position": "10",
+                    "title": "Pixel"
+                },
+                {
+                    "duration": "11:23",
+                    "position": "11",
+                    "title": "4UV"
+                },
+                {
+                    "duration": "6:05",
+                    "position": "12",
+                    "title": "Birds Day"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "478",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=-u6tkfXVMQ8",
+                    "description": "Taken from Globaline (FAX +49-69/450464 - PS 08/71, Germany 1995).\nhttp://2350.org/ps71/\nhttp://www.discogs.com/artist/42332-Solphax",
+                    "title": "Solphax - Detroit Is Waiting"
+                },
+                {
+                    "_duration": "252",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=IOkyAvvMTek",
+                    "description": "There is a place before release\nwhere every thing begins coming to an end.\nNothing, never was, nor will be.\nMovement toward stillness evolves toward rebirth.",
+                    "title": "solphax nothing never was"
+                }
+            ]
+        }
+    }
+}

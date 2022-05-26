@@ -1,0 +1,171 @@
+{
+    "release": {
+        "_id": "8364",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "9094",
+                "join": "",
+                "name": "John Tejada \u0026 Titonton Duvanté",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "9",
+                    "entity_type_name": "Distributed By",
+                    "id": "199013",
+                    "name": "Integrale Muzique Limited",
+                    "resource_url": "https://api.discogs.com/labels/199013"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "314115",
+                    "name": "Parallax Muzik",
+                    "resource_url": "https://api.discogs.com/labels/314115"
+                }
+            ]
+        },
+        "country": "US",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "Grazz",
+                    "id": "399393",
+                    "join": "",
+                    "name": "Graeme Durham",
+                    "role": "Mastered By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "2591950",
+                    "join": "",
+                    "name": "Chris Woodcock (2)",
+                    "role": "Photography By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "12\""
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_type": "Rights Society",
+                "_value": "BMI"
+            }
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "599",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "599"
+                },
+                {
+                    "_height": "599",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "599"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PAL-15",
+                "_id": "30",
+                "_name": "Palette Recordings"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "1323934"
+        },
+        "released": "2001-04-16",
+        "styles": {
+            "style": [
+                "Techno",
+                "Tech House"
+            ]
+        },
+        "title": "Only For The Freaky Ones",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "",
+                    "title": "Top Side"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "160",
+                            "join": "",
+                            "name": "Arian Leviste",
+                            "role": "Featuring [With]",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "1",
+                    "title": "Only For The Freaky Ones"
+                },
+                {
+                    "duration": "",
+                    "position": "",
+                    "title": "Bottom Side"
+                },
+                {
+                    "duration": "",
+                    "position": "2",
+                    "title": "Coax"
+                },
+                {
+                    "duration": "",
+                    "position": "3",
+                    "title": "Wet Already"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "326",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Bs1oP0YhoAM",
+                    "description": "John Tejada \u0026 Titonton Duvanté - Only For The Freaky Ones [Palette, 2001]\nFeaturing [With] Arian Leviste",
+                    "title": "John Tejada \u0026 Titonton Duvanté - Only For The Freaky Ones [Palette, 2001]"
+                },
+                {
+                    "_duration": "381",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=CdfO-4KAM9o",
+                    "description": "John Tejada \u0026 Titonton Duvante- Coax (Palette 015)",
+                    "title": "John Tejada \u0026 Titonton Duvante- Coax"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,323 @@
+{
+    "release": {
+        "_id": "71766",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "676",
+                "join": "",
+                "name": "Peter Benisch",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "271046",
+                    "name": "The Globe Studios",
+                    "resource_url": "https://api.discogs.com/labels/271046"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "29",
+                    "entity_type_name": "Mastered At",
+                    "id": "271046",
+                    "name": "The Globe Studios",
+                    "resource_url": "https://api.discogs.com/labels/271046"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "2118078",
+                    "join": "",
+                    "name": "PEK (3)",
+                    "role": "Graphics",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "239",
+                    "join": "",
+                    "name": "Jesper Dahlbäck",
+                    "role": "Mastered By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "58657",
+                    "join": "",
+                    "name": "Peter Kuhlmann",
+                    "role": "Photography By [Cover]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "2749212",
+                    "join": "",
+                    "name": "Margot Benisch",
+                    "role": "Photography By [Inside]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "676",
+                    "join": "",
+                    "name": "Peter Benisch",
+                    "role": "Producer, Written-By, Mastered By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_type": "Label Code",
+                "_value": "LC 6269"
+            }
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "614",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "479",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "615",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "611",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "616",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PS 08/92",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "169421"
+        },
+        "notes": "Limitation: 1,000.\r\n\r\nRecorded and mastered at Globe Studios, Stockholm, Sweden.",
+        "released": "1999-01-11",
+        "styles": {
+            "style": [
+                "Downtempo",
+                "Ambient"
+            ]
+        },
+        "title": "Waiting For Snow",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "8:01",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "69101",
+                            "join": "",
+                            "name": "Henrik Fagerberg",
+                            "role": "Vocals, Lyrics By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "1",
+                    "title": "Waiting For Snow (Part I)"
+                },
+                {
+                    "duration": "5:16",
+                    "position": "2",
+                    "title": "Waiting For Snow (Part II)"
+                },
+                {
+                    "duration": "4:49",
+                    "position": "3",
+                    "title": "Waiting For Snow (Part III)"
+                },
+                {
+                    "duration": "4:16",
+                    "position": "4",
+                    "title": "Waiting For Snow (Part IV)"
+                },
+                {
+                    "duration": "3:40",
+                    "position": "5",
+                    "title": "Waiting For Snow (Part V)"
+                },
+                {
+                    "duration": "2:47",
+                    "position": "6",
+                    "title": "Waiting For Snow (Part VI)"
+                },
+                {
+                    "duration": "4:45",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "69101",
+                            "join": "",
+                            "name": "Henrik Fagerberg",
+                            "role": "Vocals, Lyrics By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "7",
+                    "title": "Waiting For Snow (Part VII)"
+                },
+                {
+                    "duration": "4:49",
+                    "position": "8",
+                    "title": "Waiting For Snow (Part VIII)"
+                },
+                {
+                    "duration": "4:35",
+                    "position": "9",
+                    "title": "Waiting For Snow (Part IX)"
+                },
+                {
+                    "duration": "6:37",
+                    "position": "10",
+                    "title": "Waiting For Snow (Part X)"
+                },
+                {
+                    "duration": "6:48",
+                    "position": "11",
+                    "title": "Waiting For Snow (Part XI)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "480",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=X0xOu01VlEw",
+                    "description": "Peter Benisch - Waiting For Snow (Part I) - Waiting For Snow\nReleased with a limited number of 1,000 copies on Pete Namlook's label, Fax+49-69/450464 (PS 08/92) in 1999. \n\nhttp://www.discogs.com/Peter-Benisch-Waiting-For-Snow/master/169421\nhttp://www.disc",
+                    "title": "Peter Benisch - Waiting For Snow (Part I) - Waiting For Snow"
+                },
+                {
+                    "_duration": "317",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Ma-7CtZrVrw",
+                    "description": "Track 2 - Waiting For Snow, Part 2\nArtist : Peter Benisch\nAlbum : Waiting For Snow\n1999 FAX +49-69/450464",
+                    "title": "Peter Benisch - Waiting For Snow, Part 2 (Waiting For Snow)"
+                },
+                {
+                    "_duration": "289",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=ggKztSZMEDs",
+                    "description": "Peter Benisch - Waiting For Snow (Part III) - Waiting For Snow\nReleased on Fax +49-69/450464 (PS 08/92) 11 Jan 1999.\nStyle: Modern Classical, Downtempo, Ambient\n\nCredits:\nGraphics - PEK\nMastered By - Jesper Dahlbäck \u0026 Peter Benisch\nPhotography By [Cover]",
+                    "title": "Peter Benisch - Waiting For Snow Part III (PS 08/92)"
+                },
+                {
+                    "_duration": "261",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=WQL2L94W6K0",
+                    "description": "......",
+                    "title": "peter benisch - waiting for snow part. IV"
+                },
+                {
+                    "_duration": "222",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=NtopJNHPnxw",
+                    "description": "Peter Benisch - Waiting For Snow Part V",
+                    "title": "Peter Benisch - Waiting For Snow Part V"
+                },
+                {
+                    "_duration": "168",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=DZteUQwPjvs",
+                    "description": "Track 6 - Waiting For Snow, Part 6\nArtist : Peter Benisch\nAlbum : Waiting For Snow\n1999 FAX +49-69/450464",
+                    "title": "Peter Benisch - Waiting For Snow, Part 6 (Waiting For Snow)"
+                },
+                {
+                    "_duration": "286",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=JZYZDW9909E",
+                    "description": "Produced by Peter Benisch, Recorded at Globe Studios Stockhom.",
+                    "title": "Peter Benisch - Waiting for Snow, Part VII"
+                },
+                {
+                    "_duration": "290",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Jt8zgOuIzAk",
+                    "description": "Track 8 - Waiting For Snow, Part 8\nArtist : Peter Benisch\nAlbum : Waiting For Snow\n1999 FAX +49-69/450464",
+                    "title": "Peter Benisch - Waiting For Snow, Part 8 (Waiting For Snow)"
+                },
+                {
+                    "_duration": "276",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=FwwctLjooZw",
+                    "description": "Track 9 - Waiting For Snow, Part 9\nArtist : Peter Benisch\nAlbum : Waiting For Snow\n1999 FAX +49-69/450464",
+                    "title": "Peter Benisch - Waiting For Snow, Part 9 (Waiting For Snow)"
+                },
+                {
+                    "_duration": "398",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=TBgxniMa62M",
+                    "description": "Track 10 - Waiting For Snow, Part 10\nArtist : Peter Benisch\nAlbum : Waiting For Snow\n1999 FAX +49-69/450464",
+                    "title": "Peter Benisch - Waiting For Snow, Part 10 (Waiting For Snow)"
+                },
+                {
+                    "_duration": "409",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=j0VxJkjMCTw",
+                    "description": "Track 11 - Waiting For Snow, Part 11\nArtist : Peter Benisch\nAlbum : Waiting For Snow\n1999 FAX +49-69/450464",
+                    "title": "Peter Benisch - Waiting For Snow, Part 11 (Waiting For Snow)"
+                }
+            ]
+        }
+    }
+}

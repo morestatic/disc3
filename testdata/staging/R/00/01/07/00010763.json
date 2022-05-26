@@ -1,0 +1,148 @@
+{
+    "release": {
+        "_id": "10763",
+        "_status": "Accepted",
+        "artists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "10424",
+                    "join": "Presents",
+                    "name": "Paul Jacobs",
+                    "role": "",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "8021",
+                    "join": "",
+                    "name": "Soul Grabber",
+                    "role": "",
+                    "tracks": ""
+                }
+            ]
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "96",
+                    "name": "Stickman Records",
+                    "resource_url": "https://api.discogs.com/labels/96"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "40",
+                    "name": "Loaded Records",
+                    "resource_url": "https://api.discogs.com/labels/40"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "17",
+                    "entity_type_name": "Pressed By",
+                    "id": "754",
+                    "name": "EMI Records",
+                    "resource_url": "https://api.discogs.com/labels/754"
+                }
+            ]
+        },
+        "country": "UK",
+        "data_quality": "Needs Vote",
+        "extraartists": "",
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_type": "Barcode",
+                "_value": "5025 425 4 057 23"
+            }
+        },
+        "images": {
+            "image": {
+                "_height": "300",
+                "_type": "secondary",
+                "_uri": "",
+                "_uri150": "",
+                "_width": "335"
+            }
+        },
+        "labels": {
+            "label": {
+                "_catno": "LOAD 57",
+                "_id": "40",
+                "_name": "Loaded Records"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "false",
+            "content": "128802"
+        },
+        "notes": "The original North American release's title \"Part 4\" does not appear on this version.\n\nComes in a company branded die-cut sleeve.",
+        "released": "1999",
+        "styles": {
+            "style": [
+                "Deep House",
+                "Tech House",
+                "Electro"
+            ]
+        },
+        "title": "Motocross Madness / Soulero!",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A",
+                    "title": "Motocross Madness"
+                },
+                {
+                    "duration": "",
+                    "position": "AA",
+                    "title": "Soulero!"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "420",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=C8O-3wTIsV4",
+                    "description": "",
+                    "title": "Paul Jacobs - Soul Grabber part four - Motocross Madness"
+                },
+                {
+                    "_duration": "235",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=q1MGKDAn6QU",
+                    "description": "",
+                    "title": "Soul Grabber - Motocross Madness"
+                },
+                {
+                    "_duration": "396",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=pxy440D85zE",
+                    "description": "",
+                    "title": "Paul Jacobs -- SoulerO!"
+                }
+            ]
+        }
+    }
+}

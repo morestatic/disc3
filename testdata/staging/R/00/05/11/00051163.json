@@ -1,0 +1,267 @@
+{
+    "release": {
+        "_id": "51163",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "3920",
+                "join": "",
+                "name": "Slide Five",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "289573",
+                    "name": "Ubiquity Recordings, Inc.",
+                    "resource_url": "https://api.discogs.com/labels/289573"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "289573",
+                    "name": "Ubiquity Recordings, Inc.",
+                    "resource_url": "https://api.discogs.com/labels/289573"
+                }
+            ]
+        },
+        "country": "US",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "321066",
+                    "join": "",
+                    "name": "Christian Jones",
+                    "role": "Bass",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "40",
+                    "join": "",
+                    "name": "Dave Warrin",
+                    "role": "Co-producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "687179",
+                    "join": "",
+                    "name": "John Warrin",
+                    "role": "Co-producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "687179",
+                    "join": "",
+                    "name": "John Warrin",
+                    "role": "Guitar",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "40",
+                    "join": "",
+                    "name": "Dave Warrin",
+                    "role": "Keyboards",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "3920",
+                    "join": "",
+                    "name": "Slide Five",
+                    "role": "Producer",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "Album"
+                }
+            }
+        },
+        "genres": {
+            "genre": [
+                "Electronic",
+                "Jazz"
+            ]
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Barcode",
+                    "_value": "7 8066-11015-2 9"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "URCD 015"
+                },
+                {
+                    "_description": "logo",
+                    "_type": "Matrix / Runout",
+                    "_value": "NIMBUS"
+                },
+                {
+                    "_description": "twice",
+                    "_type": "Mastering SID Code",
+                    "_value": "IFPI L126"
+                },
+                {
+                    "_type": "Mould SID Code",
+                    "_value": "IFPI 8003"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "468",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "611",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "592",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "297",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "465",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "652",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "572"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "URCD 015",
+                "_id": "36766",
+                "_name": "Ubiquity"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "false",
+            "content": "357481"
+        },
+        "released": "1996",
+        "styles": {
+            "style": [
+                "Acid Jazz",
+                "Downtempo"
+            ]
+        },
+        "title": "Rhode Trip",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "4:07",
+                    "position": "1",
+                    "title": "Up \u0026 Out"
+                },
+                {
+                    "duration": "4:30",
+                    "position": "2",
+                    "title": "Movin' On"
+                },
+                {
+                    "duration": "1:53",
+                    "position": "3",
+                    "title": "Jacko's Call (Part 1)"
+                },
+                {
+                    "duration": "4:25",
+                    "position": "4",
+                    "title": "GMF"
+                },
+                {
+                    "duration": "5:00",
+                    "position": "5",
+                    "title": "Outerspace"
+                },
+                {
+                    "duration": "5:34",
+                    "position": "6",
+                    "title": "By Chance"
+                },
+                {
+                    "duration": "4:16",
+                    "position": "7",
+                    "title": "Fender Bender"
+                },
+                {
+                    "duration": "2:10",
+                    "position": "8",
+                    "title": "Jacko's Call (Part 2)"
+                },
+                {
+                    "duration": "3:41",
+                    "position": "9",
+                    "title": "Rhode Trip"
+                },
+                {
+                    "duration": "6:42",
+                    "position": "10",
+                    "title": "Tribute"
+                }
+            ]
+        },
+        "videos": {
+            "video": {
+                "_duration": "2758",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=1RojM5XpTyw",
+                "description": "",
+                "title": "Slide Five - rhode trip (jazz fusion ) full album"
+            }
+        }
+    }
+}

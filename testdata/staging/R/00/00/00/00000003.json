@@ -1,0 +1,424 @@
+{
+    "release": {
+        "_id": "3",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "3",
+                "join": "",
+                "name": "Josh Wink",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "10",
+                    "entity_type_name": "Manufactured By",
+                    "id": "93330",
+                    "name": "Columbia Records",
+                    "resource_url": "https://api.discogs.com/labels/93330"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "9",
+                    "entity_type_name": "Distributed By",
+                    "id": "93330",
+                    "name": "Columbia Records",
+                    "resource_url": "https://api.discogs.com/labels/93330"
+                }
+            ]
+        },
+        "country": "US",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "3",
+                "join": "",
+                "name": "Josh Wink",
+                "role": "DJ Mix",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Compilation",
+                        "Mixed"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_type": "Barcode",
+                "_value": "074646362822"
+            }
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "595",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "472",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "599"
+                },
+                {
+                    "_height": "470",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "CK 63628",
+                "_id": "6",
+                "_name": "Ruffhouse Records"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "false",
+            "content": "66526"
+        },
+        "notes": "1: Track title is given as \"D2\" (which is the side of record on the vinyl version of i220-010 release). This was also released on CD where this track is listed on 8th position. On both version no titles are given (only writing/producing credits). Both versions of i220-010 can be seen on the master release page [m27265]. Additionally this track contains female vocals that aren't present on original i220-010 release. \r\n4: Credited as J. Dahlbäck. \r\n5: Track title wrongly given as \"Vol. 1\". \r\n6: Credited as Gez Varley presents Tony Montana. \r\n12: Track exclusive to Profound Sounds Vol. 1.",
+        "released": "1999-07-13",
+        "styles": {
+            "style": [
+                "Techno",
+                "Tech House"
+            ]
+        },
+        "title": "Profound Sounds Vol. 1",
+        "tracklist": {
+            "track": [
+                {
+                    "artists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "5",
+                                "join": "\u0026",
+                                "name": "Heiko Laux",
+                                "role": "",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "4",
+                                "join": "",
+                                "name": "Johannes Heil",
+                                "role": "",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "duration": "7:00",
+                    "position": "1",
+                    "title": "Untitled 8"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "K.A.B.",
+                            "id": "15525",
+                            "join": "",
+                            "name": "Karl Axel Bissler",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:28",
+                    "position": "2",
+                    "title": "Anjua (Sneaky 3)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "7",
+                            "join": "",
+                            "name": "Sylk 130",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:25",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "8",
+                            "join": "",
+                            "name": "Mood II Swing",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "3",
+                    "title": "When The Funk Hits The Fan (Mood II Swing When The Dub Hits The Fan)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1",
+                            "join": "",
+                            "name": "The Persuader",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:27",
+                    "position": "4",
+                    "title": "What's The Time, Mr. Templar"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "267132",
+                            "join": "",
+                            "name": "Care Company (2)",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:36",
+                    "position": "5",
+                    "title": "Vol. 2"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "6981",
+                            "join": "",
+                            "name": "Gez Varley",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "3:37",
+                    "position": "6",
+                    "title": "Political Prisoner"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "11",
+                            "join": "",
+                            "name": "DJ Dozia",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:03",
+                    "position": "7",
+                    "title": "Pop Kulture"
+                },
+                {
+                    "artists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "10702",
+                                "join": "Meets",
+                                "name": "Nerio's Dubwork",
+                                "role": "",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "233190",
+                                "join": "",
+                                "name": "Kathy Lee",
+                                "role": "",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "duration": "5:42",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "23",
+                            "join": "",
+                            "name": "Alex Hi-Fi",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "8",
+                    "title": "K-Mart Shopping (Hi-Fi Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "13",
+                            "join": "",
+                            "name": "Blaze",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:47",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "14",
+                            "join": "",
+                            "name": "Eight Miles High",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "9",
+                    "title": "Lovelee Dae (Eight Miles High Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "67226",
+                                "join": "Presents",
+                                "name": "Stacey Pullen",
+                                "role": "",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "7554",
+                                "join": "",
+                                "name": "Black Odyssey",
+                                "role": "",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "duration": "6:06",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "67226",
+                            "join": "",
+                            "name": "Stacey Pullen",
+                            "role": "Presenter",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "10",
+                    "title": "Sweat"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "3906",
+                            "join": "",
+                            "name": "Christian Smith \u0026 John Selway",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "3:16",
+                    "position": "11",
+                    "title": "Silver"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "3",
+                            "join": "",
+                            "name": "Josh Wink",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "2:46",
+                    "position": "12",
+                    "title": "Untitled"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "19",
+                            "join": "",
+                            "name": "Sound Associates",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "3:41",
+                    "position": "13",
+                    "title": "Boom Box"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "20",
+                            "join": "",
+                            "name": "Percy X",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "3:39",
+                    "position": "14",
+                    "title": "Track 2"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "4074",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=bqUfNGJEKlo",
+                    "description": "mix 1999",
+                    "title": "Profound Sounds Vol. 1 - Josh Wink"
+                },
+                {
+                    "_duration": "421",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=cpQWEQjunF4",
+                    "description": "How it SHOULD sound......",
+                    "title": "Profound Sounds Track 1...."
+                }
+            ]
+        }
+    }
+}

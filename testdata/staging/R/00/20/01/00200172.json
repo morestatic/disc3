@@ -1,0 +1,193 @@
+{
+    "release": {
+        "_id": "200172",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "2907",
+                "join": "",
+                "name": "Escape",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "26",
+                    "entity_type_name": "Produced At",
+                    "id": "294391",
+                    "name": "Sonic Studios Frankfurt",
+                    "resource_url": "https://api.discogs.com/labels/294391"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "37",
+                    "entity_type_name": "Produced For",
+                    "id": "664058",
+                    "name": "Namlook Productions",
+                    "resource_url": "https://api.discogs.com/labels/664058"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "30",
+                    "entity_type_name": "Lacquer Cut At",
+                    "id": "265113",
+                    "name": "SST Brüggemann GmbH",
+                    "resource_url": "https://api.discogs.com/labels/265113"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "1584729",
+                    "join": "",
+                    "name": "SST (8)",
+                    "role": "Lacquer Cut By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "8521",
+                    "join": "",
+                    "name": "Dr. Atmo",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                },
+                {
+                    "_description": "This Side",
+                    "_type": "Matrix / Runout",
+                    "_value": "PK 08/63 A - PRODUCED AT SONIC STUDIOS FRANKFURT FOR NAMLOOK PRODUCTIONS SST"
+                },
+                {
+                    "_description": "Other Side",
+                    "_type": "Matrix / Runout",
+                    "_value": "PK 08/63 B - RECYCLE OR BUY! SST"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "597"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "594"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/63",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "75089"
+        },
+        "notes": "Limited to 500 copies.",
+        "released": "1993-04-26",
+        "styles": {
+            "style": [
+                "Trance",
+                "Ambient"
+            ]
+        },
+        "title": "Escape 4",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "",
+                    "title": "This Side"
+                },
+                {
+                    "duration": "6:38",
+                    "position": "A1",
+                    "title": "Escape To Polaris"
+                },
+                {
+                    "duration": "5:28",
+                    "position": "A2",
+                    "title": "Escape From Polaris"
+                },
+                {
+                    "duration": "",
+                    "position": "",
+                    "title": "Other Side"
+                },
+                {
+                    "duration": "8:04",
+                    "position": "B",
+                    "title": "Trip To Polaris"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "1355",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=1otarxsGigQ",
+                    "description": "Fax +49-69/450464 [PK 08/63 • Lim. 500] • VT-1905.0032\nFLAC source for the best quality. We would like to hear your feedback!\nSupport our project: http://bit.ly/vinyl-together-support\n\n=================================================\n\nA1 00:52 Escape",
+                    "title": "Pete Namlook \u0026 Dr. Atmo • Escape 4 • 1993"
+                },
+                {
+                    "_duration": "845",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=q0JmlGbaNKM",
+                    "description": "Subido by nokturno\nEscape -- Escape 4\nLabel:\nSapho -- SAPH 24\nFormat:\nVinyl, 12 \nCountry:\nUK\nReleased:\n1993\nGenre:\nElectronic\nStyle:\nTechno, Experimental, Ambient\nTracklist\nAA Trip To Polaris",
+                    "title": "Escape-trip to polaris"
+                }
+            ]
+        }
+    }
+}

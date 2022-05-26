@@ -1,0 +1,440 @@
+{
+    "release": {
+        "_id": "10",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "36",
+                "join": "",
+                "name": "Lovetronic",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "272719",
+                    "name": "Fur \u0026 Femur Music",
+                    "resource_url": "https://api.discogs.com/labels/272719"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "24",
+                    "entity_type_name": "Engineered At",
+                    "id": "355338",
+                    "name": "Moulton Studios",
+                    "resource_url": "https://api.discogs.com/labels/355338"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "33",
+                    "entity_type_name": "Designed At",
+                    "id": "1498978",
+                    "name": "Art Dept. NYC",
+                    "resource_url": "https://api.discogs.com/labels/1498978"
+                }
+            ]
+        },
+        "country": "US",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "74994",
+                    "join": "",
+                    "name": "Bruno Ybarra",
+                    "role": "Administrator [Label Director]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "S. Patterson",
+                    "id": "8217037",
+                    "join": "",
+                    "name": "Stuart Patterson (8)",
+                    "role": "Design, Illustration",
+                    "tracks": ""
+                },
+                {
+                    "anv": "Dave Boonshoft",
+                    "id": "209463",
+                    "join": "",
+                    "name": "David Boonshoft",
+                    "role": "Executive-Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "670",
+                    "join": "",
+                    "name": "Lisa Shaw",
+                    "role": "Vocals",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "40",
+                    "join": "",
+                    "name": "Dave Warrin",
+                    "role": "Written-By, Producer, Performer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "32",
+                    "join": "",
+                    "name": "Jay Denes",
+                    "role": "Written-By, Producer, Performer",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Side A, hand-etched runout",
+                    "_type": "Matrix / Runout",
+                    "_value": "NM-003 A1 3226.1(3)"
+                },
+                {
+                    "_description": "Side B, hand-etched runout",
+                    "_type": "Matrix / Runout",
+                    "_value": "NM-003 B1 3226.2(3)"
+                },
+                {
+                    "_type": "Rights Society",
+                    "_value": "BMI"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "494",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "494"
+                },
+                {
+                    "_height": "596",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "593"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "597"
+                }
+            ]
+        },
+        "labels": {
+            "label": [
+                {
+                    "_catno": "NM003",
+                    "_id": "10",
+                    "_name": "Naked Music Recordings"
+                },
+                {
+                    "_catno": "nm 003",
+                    "_id": "10",
+                    "_name": "Naked Music Recordings"
+                }
+            ]
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "160011"
+        },
+        "notes": "Track A1: remix and arrangement for Naked Music NYC.\nTrack A2: remix and arrangement for Payback Productions.\nTrack B1: engineered at Moulton Street Studios.\nTrack B2: original version written, produced and arranged for Naked Music NYC.\n\nCopyright 1999, Fur \u0026 Femur Music (BMI).",
+        "released": "1999",
+        "styles": {
+            "style": "Deep House"
+        },
+        "title": "You Are Love",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "7:46",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "143102",
+                                "join": "",
+                                "name": "Carlos Gomez",
+                                "role": "Percussion [Additional]",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "32",
+                                "join": "",
+                                "name": "Jay Denes",
+                                "role": "Remix, Arranged By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "A1",
+                    "title": "You Are Love (Jay's Afrotronic Vocal)"
+                },
+                {
+                    "duration": "7:30",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "Si Brad",
+                            "id": "356735",
+                            "join": "",
+                            "name": "Simon Bradshaw",
+                            "role": "Remix, Arranged By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "A2",
+                    "title": "You Are Love (After Hours Payback Session)"
+                },
+                {
+                    "duration": "7:46",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "9571",
+                                "join": "",
+                                "name": "Jay-J",
+                                "role": "Engineer",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "34",
+                                "join": "",
+                                "name": "Miguel Migs",
+                                "role": "Remix, Arranged By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "B1",
+                    "title": "You Are Love (Petalpusher Dub)"
+                },
+                {
+                    "duration": "8:05",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "40",
+                                "join": "",
+                                "name": "Dave Warrin",
+                                "role": "Written-By, Producer, Arranged By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "32",
+                                "join": "",
+                                "name": "Jay Denes",
+                                "role": "Written-By, Producer, Arranged By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "B2",
+                    "title": "You Are Love (Original Vocal)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "427",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=0FYPW8dDoi0",
+                    "description": "Lovetronic - You Are Love (Jay's Afrotonic Vocal)",
+                    "title": "Lovetronic - You Are Love (Jay's Afrotonic Vocal)"
+                },
+                {
+                    "_duration": "446",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=mzG4sC2pMeY",
+                    "description": "1999. You Are Love Vinyl, 12  -  Naked Music Recordings\nRemix, Arranged By – Si Brad\nVocals – Lisa Shaw\nWritten-By, Producer, Arranged By – Dave Warrin, Jay Denes",
+                    "title": "Lovetronic  -  You Are Love (After Hours Payback Session)"
+                },
+                {
+                    "_duration": "419",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=lL2-6BGjPCw",
+                    "description": "Petalpusher Dub",
+                    "title": "Lovetronic - You Are Love (Petalpusher Dub)"
+                },
+                {
+                    "_duration": "423",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=7h-mfq7SWQ8",
+                    "description": "Let there be House·in Social Media: https://www.facebook.com/pages/Let-there-be-HOUSEmusic/532228046810551?ref=hl\n\nLabel:\nNaked Music Recordings ‎-- NM003\nFormat:\nVinyl, 12\nCountry:\nUS\nReleased:\n1999\nGenre:\nElectronic\nStyle:\nDeep House \n\nTO OWNERS \u0026 C",
+                    "title": "Lovetronic ‎-- You Are Love"
+                },
+                {
+                    "_duration": "510",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=59w2TCEArVU",
+                    "description": "Lounge, Chillout, Deep House gem. A J. Denes project, -best version in my opinion\r\n-I don´t own the Music nor the Images. Please buy the record and participate in global well beings of a beautiful world. I´ll remove the youtubeclip if anyone makes claim",
+                    "title": "Lovetronic-You are Love (After Hours Payback Session)"
+                },
+                {
+                    "_duration": "479",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=rgVAwbuzU-s",
+                    "description": "Created with http://www.mp32tube.com",
+                    "title": "Lovetronic - You Are Love (After Hours Payback Session)"
+                },
+                {
+                    "_duration": "445",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=_0ivMlEwOu8",
+                    "description": "Provided to YouTube by Universal Music Group\n\nYou Are Love (Brad's Payback Vocal) · Lovetronic\n\nBare Essentials\n\n℗ 1999 Naked Music NYC Recordings LLC\n\nReleased on: 2002-01-01\n\nProducer: Dave Warrin\nProducer: Jay Denes\nAssociated  Performer, Vocals: Li",
+                    "title": "You Are Love (Brad's Payback Vocal)"
+                },
+                {
+                    "_duration": "445",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=FiExv4IJPAg",
+                    "description": "Lovetronic - You Are Love (After Hours Payback Session) (1999)\n*If any copyright issues, please contact me and I will be gladly to remove the video*\nmore informations about this release :\nhttp://www.discogs.com/Lovetronic-You-Are-Love/release/10\nsupport c",
+                    "title": "Lovetronic - You Are Love (After Hours Payback Session)"
+                },
+                {
+                    "_duration": "445",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=5tBitW3YH88",
+                    "description": "This channel is created to promote and support artists!\n\nIf any producer, label or copyright owner is unhappy with this upload, please contact us at dhmedallas@gmail.com and the content will be removed immediately.\n\nEnjoy the music!",
+                    "title": "dhme - lovetronic - you are love (si brad's payback vocal)"
+                },
+                {
+                    "_duration": "313",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=v-w3ksZ8JVE",
+                    "description": "",
+                    "title": "Lovetronic You Are Love (Si Brad's Payback Dub)"
+                },
+                {
+                    "_duration": "444",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=IlJr87GUY48",
+                    "description": "EMI owns the audio! It was uploaded for entertainment.",
+                    "title": "Lovetronic - You Are Love [Si Brand's Payback Vocal]"
+                },
+                {
+                    "_duration": "424",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=_V5Ybtx99lw",
+                    "description": "Provided to YouTube by Universal Music Group\n\nYou Are Love (Original Version) · Lovetronic\n\nBare Essentials\n\n℗ 1999 Naked Music NYC Recordings LLC\n\nReleased on: 2002-01-01\n\nProducer: Dave Warrin\nProducer: Jay Denes\nAssociated  Performer, Vocals: Lisa S",
+                    "title": "You Are Love (Original Version)"
+                },
+                {
+                    "_duration": "421",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=k5zqX-fNJWU",
+                    "description": "Bare Essentials Volume 1 (2001) is a compilation of house \u0026 dance tracks featured on the Naked Music NYC label. Included are original, remix, and dub versions, some previously unreleased by Petalpusher, Groove Collective, Lovetronic, Blue Six, Night Sourc",
+                    "title": "Lovetronic - You Are Love (Original Version)"
+                },
+                {
+                    "_duration": "424",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=dCDlY8Mqs1c",
+                    "description": "© Naked Music Recordings 1999, Various Artists ''Bare Essentials Volume 1'' \nStyle: Deep House\n\nhttp://www.naked-music.com/",
+                    "title": "Lovetronic - You Are Love (Original Version)"
+                },
+                {
+                    "_duration": "427",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=kbItgmaxUyE",
+                    "description": "Label : Naked Music (NM003)\nStyle : Deep House, Vocal",
+                    "title": "Lovetronic - You Are Love (Jay's Afrotonic Vocal) (1999)"
+                },
+                {
+                    "_duration": "450",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=v2HxbB0YfxM",
+                    "description": "",
+                    "title": "Lovetronic - You Are Love (Jay's Afrotronic Vocal)"
+                },
+                {
+                    "_duration": "464",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=87q3Rt1RkL4",
+                    "description": "YOU ARE LOVE (JAY'S AFROTRONIC VOCAL) - LOVETRONIC",
+                    "title": "YOU ARE LOVE (JAY'S AFROTRONIC VOCAL) - LOVETRONIC"
+                },
+                {
+                    "_duration": "445",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=_xhI32IK_9M",
+                    "description": "This is Brad39s-playback-vocal Mix...the Original. I saw there were a number of requests for the original mix on YouTube, so here it is :)\n\n Enjoy, its a great cut.",
+                    "title": "Lovetronic-You are love. Original Mix."
+                },
+                {
+                    "_duration": "421",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=N1LMp970RYU",
+                    "description": "Please set the thumb, if you like it. Is nice to know what style you like most.\n\nSubscribe: Fomix Sound - https://bit.ly/33ySS4j\nSubscribe: Fomix DJ Set - https://bit.ly/3keErJz\n\n#FomixSound #FomixDJSet#ClubBar #club #Lovetronic\n\nENJOY\n\nThis channel is es",
+                    "title": "Lovetronic - You Are Love (Original Version)"
+                },
+                {
+                    "_duration": "386",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=YNDN48KmMxg",
+                    "description": "Provided to YouTube by The Orchard Enterprises\n\nYou Are Love (Jay's Afrocentric Vocal Mix) · Lovetronic\n\nDestination: House (Continuous DJ Mix by Deepfeel)\n\n℗ 2001 Topaz Records\n\nReleased on: 2010-06-29\n\nMusic Publisher: Copyright Control\n\nAuto-generat",
+                    "title": "You Are Love (Jay's Afrocentric Vocal Mix)"
+                },
+                {
+                    "_duration": "447",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=QAS5MBCqxpM",
+                    "description": "Sick tune that was removed off the internet with a cool video as well. I just need to make this clear that I do not own the rights to this song or this video. This is simply a song and a video that was taken off of youtube and I thought it should be enjoy",
+                    "title": "lovetronic YOU ARE LOVE"
+                },
+                {
+                    "_duration": "417",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=gx4gRkMWwM4",
+                    "description": "Lisa Shaw on vocals of this smooth naked music track from 1999",
+                    "title": "Lovetronic...We are love (Jay's Afrotronic Vocal)"
+                }
+            ]
+        }
+    }
+}

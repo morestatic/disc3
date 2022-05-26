@@ -1,0 +1,140 @@
+{
+    "release": {
+        "_id": "17770",
+        "_status": "Accepted",
+        "artists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "60",
+                    "join": "And",
+                    "name": "Pete Moss",
+                    "role": "",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1611376",
+                    "join": "",
+                    "name": "Sean Thomas (6)",
+                    "role": "",
+                    "tracks": ""
+                }
+            ]
+        },
+        "companies": {
+            "company": {
+                "catno": "",
+                "entity_type": "23",
+                "entity_type_name": "Recorded At",
+                "id": "1566086",
+                "name": "The Recline Center",
+                "resource_url": "https://api.discogs.com/labels/1566086"
+            }
+        },
+        "country": "US",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "1865966",
+                    "join": "",
+                    "name": "Dieselboy (2)",
+                    "role": "Design",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "60",
+                    "join": "",
+                    "name": "Pete Moss",
+                    "role": "Engineer, Mixed By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "60",
+                    "join": "",
+                    "name": "Pete Moss",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1611376",
+                    "join": "",
+                    "name": "Sean Thomas (6)",
+                    "role": "Producer",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "recline 002",
+                "_id": "29",
+                "_name": "Recline"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "258143"
+        },
+        "notes": "Recorded at the Recline Center for the Musically Gifted in Philadelphia USA.\nDesign @ Platinum_Studio.",
+        "released": "1999",
+        "styles": {
+            "style": "Deep House"
+        },
+        "title": "18 City Blocks",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A",
+                    "title": "All Talk"
+                },
+                {
+                    "duration": "",
+                    "position": "B",
+                    "title": "Out Of The Loop"
+                }
+            ]
+        }
+    }
+}

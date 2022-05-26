@@ -1,0 +1,191 @@
+{
+    "release": {
+        "_id": "56602",
+        "_status": "Accepted",
+        "artists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "15725",
+                    "join": "\u0026",
+                    "name": "Grant Dell",
+                    "role": "",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "15728",
+                    "join": "Presents",
+                    "name": "Gareth Oxby",
+                    "role": "",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "49745",
+                    "join": "",
+                    "name": "Tribalation",
+                    "role": "",
+                    "tracks": ""
+                }
+            ]
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "40",
+                    "name": "Loaded Records",
+                    "resource_url": "https://api.discogs.com/labels/40"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "40",
+                    "name": "Loaded Records",
+                    "resource_url": "https://api.discogs.com/labels/40"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "9",
+                    "entity_type_name": "Distributed By",
+                    "id": "285289",
+                    "name": "Prime Distribution",
+                    "resource_url": "https://api.discogs.com/labels/285289"
+                }
+            ]
+        },
+        "country": "UK",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "15728",
+                    "join": "",
+                    "name": "Gareth Oxby",
+                    "role": "Producer, Written-By, Mixed By, Engineer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "15725",
+                    "join": "",
+                    "name": "Grant Dell",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM",
+                        "EP"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_type": "Barcode",
+                "_value": "5025 4254 077 2 ."
+            }
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "LOAD 77",
+                "_id": "40",
+                "_name": "Loaded Records"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "1654589"
+        },
+        "notes": "Produced, mixed \u0026 engineered at Quadrant S.",
+        "released": "2001",
+        "styles": {
+            "style": [
+                "Tribal",
+                "Tech House"
+            ]
+        },
+        "title": "EP2",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A1",
+                    "title": "Need To Move"
+                },
+                {
+                    "duration": "",
+                    "position": "AA1",
+                    "title": "Skywalking"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "536",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=_F6Bbbkv-OY",
+                    "description": "Grant Dell \u0026 Gareth Oxby ‎– Tribalation EP2\r\nLabel: Loaded Records ‎– LOAD 77\r\nFormat: Vinyl, 12, 33 ⅓ RPM, EP \r\nCountry: UK\r\nReleased: 2001\r\nGenre: Electronic\r\nStyle: Tribal, Tech House\r\n\r\nhttps://www.discogs.com/Grant-Dell-Gareth-Oxby-Tribala",
+                    "title": "Tribalation - Need to Move"
+                },
+                {
+                    "_duration": "495",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=HNEn1RcV-Ro",
+                    "description": "my vinyl\n- Please help the music and the producers, buy this track at: \n- http://www.discogs.com/Grant-Dell-Gareth-Oxby-Tribalation/master/844136\n- http://www.juno.co.uk/products/grant-dell-gareth-dont-make-me-wait/89432-01/",
+                    "title": "Grant Dell \u0026 Gareth Oxby present Tribalation - Don't Make Me Wait"
+                },
+                {
+                    "_duration": "689",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=X4CxnnueZts",
+                    "description": "Tribalation - Skywalking [Loaded, 2001]",
+                    "title": "Tribalation - Skywalking [Loaded, 2001]"
+                },
+                {
+                    "_duration": "685",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=bdZGMuntsww",
+                    "description": "Provided to YouTube by BMG Rights Management (UK) Limited\n\nSkywalking · Tribalation\n\n002\n\n℗ 2001 Loaded Records Limited, a BMG Company\n\nReleased on: 2001-05-16\n\nPerformer: Tribalation\nComposer: Grant Howard\nComposer: Gareth Oxby\n\nAuto-generated by YouT",
+                    "title": "Skywalking"
+                }
+            ]
+        }
+    }
+}

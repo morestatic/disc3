@@ -1,0 +1,323 @@
+{
+    "release": {
+        "_id": "109447",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "86345",
+                "join": "",
+                "name": "U V O I I",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": {
+                "catno": "",
+                "entity_type": "10",
+                "entity_type_name": "Manufactured By",
+                "id": "291931",
+                "name": "CD Plant MFG",
+                "resource_url": "https://api.discogs.com/labels/291931"
+            }
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "2511816",
+                    "join": "",
+                    "name": "Tim Han",
+                    "role": "Artwork [Casting], Cover [Cover Pictures]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "41123",
+                    "join": "",
+                    "name": "Blaine L. Reininger",
+                    "role": "Text By [Text \u0026 Poetry], Violin, Voice",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "CD PLANT MFG PS 08/64 CDM01"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "591",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "465",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "584",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "565",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "583",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PS 08/64",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Casting \u0026 cover pictures at division of EMANON\r\n\r\nU V O I I Köln 1994\r\nMade in Germany\r\n\r\nLimitation: 1,000 copies",
+        "released": "1994-12-12",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Downtempo",
+                "Dub",
+                "Experimental",
+                "Modern Classical",
+                "Techno"
+            ]
+        },
+        "title": "Sound Of Heaven",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "20:58",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "41123",
+                                "join": "",
+                                "name": "Blaine L. Reininger",
+                                "role": "Music By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "8521",
+                                "join": "",
+                                "name": "Dr. Atmo",
+                                "role": "Music By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "63964",
+                                "join": "",
+                                "name": "I.N.G.O.",
+                                "role": "Music By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "549571",
+                                "join": "",
+                                "name": "Michael Pagenstedt",
+                                "role": "Music By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "1",
+                    "title": "Soundtrack Of My Dreams"
+                },
+                {
+                    "duration": "20:12",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "41123",
+                                "join": "",
+                                "name": "Blaine L. Reininger",
+                                "role": "Music By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "8521",
+                                "join": "",
+                                "name": "Dr. Atmo",
+                                "role": "Music By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "63964",
+                                "join": "",
+                                "name": "I.N.G.O.",
+                                "role": "Music By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "549571",
+                                "join": "",
+                                "name": "Michael Pagenstedt",
+                                "role": "Music By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "2",
+                    "title": "God's Picture In The Internet"
+                },
+                {
+                    "duration": "15:34",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "41123",
+                                "join": "",
+                                "name": "Blaine L. Reininger",
+                                "role": "Music By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "8521",
+                                "join": "",
+                                "name": "Dr. Atmo",
+                                "role": "Music By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "63964",
+                                "join": "",
+                                "name": "I.N.G.O.",
+                                "role": "Music By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "549571",
+                                "join": "",
+                                "name": "Michael Pagenstedt",
+                                "role": "Music By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "3",
+                    "title": "Enanariyo"
+                },
+                {
+                    "duration": "5:06",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "41123",
+                            "join": "",
+                            "name": "Blaine L. Reininger",
+                            "role": "Music By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "4",
+                    "title": "The Bodhi Tree"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "1260",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=uzsH_ZFI0Rs",
+                    "description": "http://www.discogs.com/U-V-O-I-I-Sound-Of-Heaven/release/109447\n\r\n\r-uploaded in HD at http://www.TunesToTube.com",
+                    "title": "U V O I I - Soundtrack Of My Dreams (Ambient 1994)"
+                },
+                {
+                    "_duration": "1212",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=AED6EIGgKZs",
+                    "description": "http://www.discogs.com/U-V-O-I-I-Sound-Of-Heaven/release/109447\n\r\n\r-uploaded in HD at http://www.TunesToTube.com",
+                    "title": "U V O I I - God's Picture On The Internet (Ambient 1994)"
+                },
+                {
+                    "_duration": "935",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=bdCsJcv6lCM",
+                    "description": "http://www.discogs.com/U-V-O-I-I-Sound-Of-Heaven/release/109447\n\r\n\r-uploaded in HD at http://www.TunesToTube.com",
+                    "title": "U V O I I - Enanariyo (Trance 1994)"
+                },
+                {
+                    "_duration": "307",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=rT7p_XcgtOU",
+                    "description": "http://www.discogs.com/U-V-O-I-I-Sound-Of-Heaven/release/109447\n\r\n\r-uploaded in HD at http://www.TunesToTube.com",
+                    "title": "U V O I I - The Bodhi Tree (Ambient 1994)"
+                },
+                {
+                    "_duration": "3711",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=VayI7q6toDI",
+                    "description": "Released in December, 1994 on FAX +49-69/450464\nU V O I I = Dr. Atmo, Blaine L. Reininger, Ingo Schnorrenberg\nand Michael Pagenstedt\n\n\n00:00 Soundtrack Of My Dreams\n20:58 God's Picture In The Internet\n41:10 Enanariyo\n56:44 The Bodhi Tree",
+                    "title": "[PS 08/64] UVOII - Sound Of Heaven"
+                }
+            ]
+        }
+    }
+}

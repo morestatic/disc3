@@ -1,0 +1,156 @@
+{
+    "release": {
+        "_id": "8837",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "61",
+                "join": "",
+                "name": "John Tejada \u0026 Arian Leviste",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "314115",
+                    "name": "Parallax Muzik",
+                    "resource_url": "https://api.discogs.com/labels/314115"
+                },
+                {
+                    "catno": "L-49468",
+                    "entity_type": "29",
+                    "entity_type_name": "Mastered At",
+                    "id": "297011",
+                    "name": "Greg Lee Processing",
+                    "resource_url": "https://api.discogs.com/labels/297011"
+                }
+            ]
+        },
+        "country": "US",
+        "data_quality": "Needs Vote",
+        "extraartists": "",
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "PAL 004-A L-49468"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "PAL 004-B L-49468-X"
+                },
+                {
+                    "_type": "Rights Society",
+                    "_value": "B.M.I."
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "597",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "004",
+                "_id": "30",
+                "_name": "Palette Recordings"
+            }
+        },
+        "released": "1997-00-00",
+        "styles": {
+            "style": [
+                "Techno",
+                "Tech House"
+            ]
+        },
+        "title": "Malnutritioned Massage",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "",
+                    "title": "Top Side"
+                },
+                {
+                    "duration": "",
+                    "position": "A1",
+                    "title": "Malnutritioned Massage"
+                },
+                {
+                    "duration": "",
+                    "position": "A2",
+                    "title": "Germ Brigade"
+                },
+                {
+                    "duration": "",
+                    "position": "",
+                    "title": "Bottom Side"
+                },
+                {
+                    "duration": "",
+                    "position": "B1",
+                    "title": "Genetic Pagan"
+                },
+                {
+                    "duration": "",
+                    "position": "B2",
+                    "title": "Cooch Cushion"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "356",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=fa_rS0vT3Yo",
+                    "description": "https://www.discogs.com/fr/John-Tejada-Arian-Leviste-Malnutritioned-Massage/release/8837\n\nSupport the artist, and the label.\nBuy the record\n\nFollow the artist : www.facebook.com/johntejadaofficial/?fref=mentions\u0026__tn__=K-R\n\nWe do not own the rights of any",
+                    "title": "John Tejada \u0026 Arian Leviste - Malnutritioned Massage"
+                },
+                {
+                    "_duration": "339",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=9CHS1OdJ_60",
+                    "description": "https://www.discogs.com/fr/John-Tejada-Arian-Leviste-Malnutritioned-Massage/release/8837\n\nSupport the artist, and the label.\nBuy the record\n\nFollow the artist : https://www.facebook.com/johntejadaofficial/?fref=mentions\u0026__tn__=K-R\nWe do not own the rights",
+                    "title": "John Tejada \u0026 Arian Leviste - Cooch Cushion"
+                }
+            ]
+        }
+    }
+}

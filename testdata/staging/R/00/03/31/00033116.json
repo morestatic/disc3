@@ -1,0 +1,118 @@
+{
+    "release": {
+        "_id": "33116",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "A.D.N.Y.",
+                "id": "50",
+                "join": "",
+                "name": "ADNY",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "26",
+                "join": "",
+                "name": "Alexi Delano",
+                "role": "Producer",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "12\""
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "450",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "450",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "CSLTD101",
+                "_id": "2436",
+                "_name": "Corner Shots Ltd"
+            }
+        },
+        "released": "2001",
+        "styles": {
+            "style": [
+                "Deep House",
+                "Tech House"
+            ]
+        },
+        "title": "Dropping Knowledge",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A1",
+                    "title": "Sweet Music"
+                },
+                {
+                    "duration": "",
+                    "position": "A2",
+                    "title": "Sweet (Deep) Music (Remix)"
+                },
+                {
+                    "duration": "",
+                    "position": "B1",
+                    "title": "Get It Together"
+                },
+                {
+                    "duration": "",
+                    "position": "B2",
+                    "title": "Get It (Remix)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "312",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=ubkJ56cdLCI",
+                    "description": "A.D.N.Y. ‎– Dropping Knowledge\n\nLabel: Corner Shots Ltd ‎– CSLTD101\nCountry: Germany\nReleased: 2001\nGenre: Electronic\nStyle: Deep House, Tech House\n\nhttps://www.discogs.com/ADNY-Dropping-Knowledge/release/33116\n\nI don't own the right to this track",
+                    "title": "A.D.N.Y. ‎– Get It (Remix)"
+                },
+                {
+                    "_duration": "376",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=R_APrnuYxqw",
+                    "description": "A.D.N.Y. ‎– Dropping Knowledge\n\nLabel: Corner Shots Ltd ‎– CSLTD101\nCountry: Germany\nReleased: 2001\nGenre: Electronic\nStyle: Deep House, Tech House\n\nhttps://www.discogs.com/ADNY-Dropping-Knowledge/release/33116\n\nI don't own the right to this track",
+                    "title": "A.D.N.Y. ‎– Get It Together"
+                }
+            ]
+        }
+    }
+}

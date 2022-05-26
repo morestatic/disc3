@@ -1,0 +1,321 @@
+{
+    "release": {
+        "_id": "45131",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "14923",
+                "join": "",
+                "name": "Annie",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "40",
+                    "name": "Loaded Records",
+                    "resource_url": "https://api.discogs.com/labels/40"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "40",
+                    "name": "Loaded Records",
+                    "resource_url": "https://api.discogs.com/labels/40"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "9",
+                    "entity_type_name": "Distributed By",
+                    "id": "285289",
+                    "name": "Prime Distribution",
+                    "resource_url": "https://api.discogs.com/labels/285289"
+                }
+            ]
+        },
+        "country": "UK",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "www.red-design.co.uk",
+                    "id": "804752",
+                    "join": "",
+                    "name": "Red Design",
+                    "role": "Design",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "2253733",
+                    "join": "",
+                    "name": "Jasper Goodall",
+                    "role": "Illustration",
+                    "tracks": ""
+                },
+                {
+                    "anv": "Guy's",
+                    "id": "369860",
+                    "join": "",
+                    "name": "Guy Davie",
+                    "role": "Mastered By [Runout A]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "Grazz",
+                    "id": "399393",
+                    "join": "",
+                    "name": "Graeme Durham",
+                    "role": "Mastered By [Runout Aa]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "14923",
+                    "join": "",
+                    "name": "Annie",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "190",
+                    "join": "",
+                    "name": "Erot",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "Torbjorn Bruntland",
+                    "id": "17500",
+                    "join": "",
+                    "name": "Torbjørn Brundtland",
+                    "role": "Recorded By [Assistance], Mixed By [Assistance]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "14923",
+                    "join": "",
+                    "name": "Annie",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "190",
+                    "join": "",
+                    "name": "Erot",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "8760",
+                    "join": "",
+                    "name": "Madonna",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_type": "Barcode",
+                "_value": "5 025425 407024"
+            }
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "150",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "150"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "LOAD 70",
+                "_id": "40",
+                "_name": "Loaded Records"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "false",
+            "content": "38501"
+        },
+        "notes": "Dub mixes of The Greatest Hit (LOAD 69)\r\nIncorporates melodies from \"Everybody\", Madonnas first single.\r\n\r\nIn memory of Erot Kroknes RIP.",
+        "released": "2001",
+        "styles": {
+            "style": "House"
+        },
+        "title": "The Greatest Dubs",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "5937",
+                            "join": "",
+                            "name": "Soul Mekanik",
+                            "role": "Remix, Producer [Additional]",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "A1",
+                    "title": "The Greatest Dub (Soul Mekanik Dub)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "5937",
+                            "join": "",
+                            "name": "Soul Mekanik",
+                            "role": "Remix, Producer [Additional]",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "A2",
+                    "title": "The Greatest Dub (Soul Mekanik Acappela)"
+                },
+                {
+                    "duration": "",
+                    "position": "AA1",
+                    "title": "The Greatest Dub"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "331",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=STpP1nQwVhg",
+                    "description": "Norwegian classic on Loaded Records\nTrack edited: get your full copy here: http://btprt.dj/1jwyX93\nAnnie: http://www.smalltownsupersound.com/artist/annie\n\nThe Greatest Hit  was written and produced by Annie and DJ Tore Erot Kroknes. The song samples Mad",
+                    "title": "Annie - Greatest Hit (Extended Disco Mix)"
+                },
+                {
+                    "_duration": "451",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=B0C9hyLdFn0",
+                    "description": "",
+                    "title": "The Greatest Hit (Extended Disco Mix) - Annie"
+                },
+                {
+                    "_duration": "642",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=vUF4or9z380",
+                    "description": "Provided to YouTube by Warner Music Group\n\nThe Greatest Dub (Soul Mekanik Dub) · Annie\n\nThe Greatest Dubs\n\n℗ 2000 Loaded Records Limited, a BMG Company\n\nPerformance: Annie\n\nAuto-generated by YouTube.",
+                    "title": "The Greatest Dub (Soul Mekanik Dub)"
+                },
+                {
+                    "_duration": "583",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=BizK3P8Nv94",
+                    "description": "Provided to YouTube by Believe SAS\n\nGreatest Hit (Freeform Reform Vocal '2000') · Annie\n\nGreatest Hit\n\n℗ Loaded\n\nReleased on: 2000-09-04\n\nComposer: Annie\nComposer: Erot\nMusic Publisher: WEBO GIRL PUBLISHING INC BLEU-DISQUE-MUSIC CO INC W B MUSIC CORP W",
+                    "title": "Greatest Hit (Freeform Reform Vocal '2000')"
+                },
+                {
+                    "_duration": "457",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=iErLs6GdNvs",
+                    "description": "Provided to YouTube by Daredo\n\nThe Greatest Hit (Tres Remix) · Annie\n\nThe Greatest Hit\n\n℗ Annie\n\nReleased on: 2010-11-26\n\nComposer: Annie\nMusic Publisher: Copyright Control\n\nAuto-generated by YouTube.",
+                    "title": "The Greatest Hit (Tres Remix)"
+                },
+                {
+                    "_duration": "141",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=I13r9XEmopc",
+                    "description": "Provided to YouTube by Warner Music Group\n\nThe Greatest Dub (Soul Mekanik Accapella) · Annie\n\nThe Greatest Dubs\n\n℗ 2000 Loaded Records Limited, a BMG Company\n\nPerformance: Annie\n\nAuto-generated by YouTube.",
+                    "title": "The Greatest Dub (Soul Mekanik Accapella)"
+                },
+                {
+                    "_duration": "582",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=rI0Sa-HoCXY",
+                    "description": "",
+                    "title": "The Greatest Dub (Greatest Hit) by Annie"
+                },
+                {
+                    "_duration": "583",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=_dVfYIfxpY4",
+                    "description": "Provided to YouTube by Loaded Records\n\nGreatest Hit (Freeform Reform Vocal '2000') · Annie\n\nGreatest Hit\n\n℗ 2000 Loaded Records Limited, a BMG Company\n\nPerformance: Annie\nComposer, Writer: Annie, Erot in the Sandal\n\nAuto-generated by YouTube.",
+                    "title": "Greatest Hit (Freeform Reform Vocal '2000')"
+                },
+                {
+                    "_duration": "579",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=G8oMzRbAvBo",
+                    "description": "Provided to YouTube by Believe SAS\n\nThe Greatest Dubs · Annie\n\nThe Greatest Dubs\n\n℗ 2000 Loaded Records Limited, a BMG Company\n\nReleased on: 2000-09-10\n\nComposer: Annie\nComposer: Erot\nComposer: Madonna\nMusic Publisher: WEBO GIRL PUBLISHING INC BLEU-DIS",
+                    "title": "The Greatest Dubs"
+                },
+                {
+                    "_duration": "580",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=QAXPTewjwKY",
+                    "description": "Provided to YouTube by Daredo\n\nThe Greatest Hit (Original Dub Mix) · Annie\n\nThe Greatest Hit\n\n℗ Annie\n\nReleased on: 2010-11-26\n\nComposer: Annie\nMusic  Publisher: Copyright Control\n\nAuto-generated by YouTube.",
+                    "title": "The Greatest Hit (Original Dub Mix)"
+                },
+                {
+                    "_duration": "361",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=K70bEDvWgaY",
+                    "description": "http://www.discogs.com/marketplace?release_id=20846\u0026ev=rb\n\nhttp://www.soundcloud.com/rhodesman\n\n1999 norway",
+                    "title": "Annie (The Greatest Hit... 7 Dub Rework) 1999"
+                },
+                {
+                    "_duration": "384",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=TfashtpvaX0",
+                    "description": "awesome remix",
+                    "title": "Annie - Greatest Hit (Stefano Noferini \u0026 Marini Mix)HQ"
+                }
+            ]
+        }
+    }
+}

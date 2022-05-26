@@ -1,0 +1,113 @@
+{
+    "release": {
+        "_id": "178795",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "47290",
+                "join": "",
+                "name": "J-Groove",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "UK",
+        "data_quality": "Correct",
+        "extraartists": "",
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "12\""
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "295",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "300"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "LOAD 094",
+                "_id": "40",
+                "_name": "Loaded Records"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "false",
+            "content": "184670"
+        },
+        "released": "2003-00-00",
+        "styles": {
+            "style": "House"
+        },
+        "title": "Beginning To Believe",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "8258",
+                            "join": "",
+                            "name": "Sandy Rivera",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "A1",
+                    "title": "Beginning To Believe (J-Groove And San's Anthem Dub)"
+                },
+                {
+                    "duration": "",
+                    "position": "A2",
+                    "title": "Beginning To Believe (J-Groove's Dirty Chords Acappella)"
+                },
+                {
+                    "duration": "",
+                    "position": "B",
+                    "title": "Beginning To Believe (J-Groove's \"I'm A Believer\" Original)"
+                }
+            ]
+        },
+        "videos": {
+            "video": {
+                "_duration": "395",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=kWNbia4Wc6w",
+                "description": "",
+                "title": "J Groove  - Beginning To Believe (J Groove \u0026 San's Anthem Dub)"
+            }
+        }
+    }
+}

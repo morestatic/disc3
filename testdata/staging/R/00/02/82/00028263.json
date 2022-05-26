@@ -1,0 +1,236 @@
+{
+    "release": {
+        "_id": "28263",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "24",
+                "join": "",
+                "name": "Atom Heart",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "10",
+                    "entity_type_name": "Manufactured By",
+                    "id": "291931",
+                    "name": "CD Plant MFG",
+                    "resource_url": "https://api.discogs.com/labels/291931"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "265233",
+                    "name": "Sel I/S/C",
+                    "resource_url": "https://api.discogs.com/labels/265233"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "24",
+                    "join": "",
+                    "name": "Atom Heart",
+                    "role": "Composed By, Performer [Played By], Programmed By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "2789591",
+                    "join": "",
+                    "name": "Monochrome Force",
+                    "role": "Composed By, Performer [Played By], Programmed By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1841866",
+                    "join": "",
+                    "name": "Optic Kiss",
+                    "role": "Graphics",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Layout",
+                    "tracks": ""
+                },
+                {
+                    "anv": "O. Finkbeiner",
+                    "id": "61904",
+                    "join": "",
+                    "name": "Olaf Finkbeiner",
+                    "role": "Technician [Technical Support]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "23345",
+                    "join": "",
+                    "name": "Pink Elln",
+                    "role": "Technician [Technical Support]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "24",
+                    "join": "",
+                    "name": "Atom Heart",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "CD PLANT MFG PS 08/36 CDM01"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "592",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "598",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "297",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "599",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PS 08/36",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "328068"
+        },
+        "notes": "Limitation: 500\n\n[On inner sleeve:]\nMonochrome Stills composed, played, and programmed at sel i/s/c.\nDedicated to the girls at overseas. Listen in low volume.\n\n[On back sleeve:]\nMade in Germany",
+        "released": "1994-02-14",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Downtempo",
+                "Experimental"
+            ]
+        },
+        "title": "Orange [Monochrome Stills]",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "8:00",
+                    "position": "1",
+                    "title": "One Atomsecond"
+                },
+                {
+                    "duration": "13:20",
+                    "position": "2",
+                    "title": "Ode To BG"
+                },
+                {
+                    "duration": "7:14",
+                    "position": "3",
+                    "title": "Cobal \u003c1\u003e"
+                },
+                {
+                    "duration": "6:44",
+                    "position": "4",
+                    "title": "Rainecho"
+                },
+                {
+                    "duration": "21:25",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "769946",
+                            "join": "",
+                            "name": "Stacey Barros",
+                            "role": "Vocals [Lyrics Performed By]",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "5",
+                    "title": "Cobal \u003c2\u003e"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "437",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=qMzBsswTJQA",
+                    "description": "Orange",
+                    "title": "Atom Heart - Cobal 1"
+                },
+                {
+                    "_duration": "3424",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=m-J6m1L9A_w",
+                    "description": "Atom Heart - Orange [Monochrome Stills] // 1994 // Fax +49-69/450464 // Ambient/Downtempo/Experimental // Full Album\n\n01. One Atomsecond \n02. Ode To BG \n03. Cobal 1\n04. Rainecho \n05. Cobal 2 \n\n#kosmikdstroyer",
+                    "title": "Atom Heart - Orange [Monochrome Stills] // 1994  // Ambient/Downtempo/Experimental // Full Album"
+                }
+            ]
+        }
+    }
+}

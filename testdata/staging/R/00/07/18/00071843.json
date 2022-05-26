@@ -1,0 +1,163 @@
+{
+    "release": {
+        "_id": "71843",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "30",
+                "join": "",
+                "name": "Groove Collective",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "10",
+                    "entity_type_name": "Manufactured By",
+                    "id": "5432",
+                    "name": "Liquid Sound Lounge",
+                    "resource_url": "https://api.discogs.com/labels/5432"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "9",
+                    "entity_type_name": "Distributed By",
+                    "id": "5432",
+                    "name": "Liquid Sound Lounge",
+                    "resource_url": "https://api.discogs.com/labels/5432"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "46837",
+                    "name": "Shanachie Records",
+                    "resource_url": "https://api.discogs.com/labels/46837"
+                }
+            ]
+        },
+        "country": "US",
+        "data_quality": "Needs Vote",
+        "extraartists": "",
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM",
+                        "Limited Edition",
+                        "Sampler"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": {
+                "_height": "461",
+                "_type": "secondary",
+                "_uri": "",
+                "_uri150": "",
+                "_width": "472"
+            }
+        },
+        "labels": {
+            "label": {
+                "_catno": "LSL 234",
+                "_id": "5432",
+                "_name": "Liquid Sound Lounge"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "false",
+            "content": "169359"
+        },
+        "released": "2001",
+        "styles": {
+            "style": [
+                "House",
+                "Future Jazz",
+                "Latin"
+            ]
+        },
+        "title": "It's All In Your Mind",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "4:47",
+                    "position": "A1",
+                    "title": "Ocean Floor"
+                },
+                {
+                    "duration": "4:57",
+                    "position": "A2",
+                    "title": "Ransome"
+                },
+                {
+                    "duration": "4:38",
+                    "position": "A3",
+                    "title": "Time Pilot"
+                },
+                {
+                    "duration": "5:37",
+                    "position": "B1",
+                    "title": "Dance With You"
+                },
+                {
+                    "duration": "6:12",
+                    "position": "B2",
+                    "title": "In Your Mind"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "336",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=LG-SEko-I6Q",
+                    "description": "http://www.discogs.com/Groove-Collective-Its-All-In-Your-Mind/release/71843\n\n(Promotional Use Only. All Rights belong to their respective owners.\nSupport Artists, if You like, buy the Music. 'Please' if You want to remove a song just leave me a message an",
+                    "title": "(2001) Groove Collective - Dance With You [Original Mix]"
+                },
+                {
+                    "_duration": "303",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=w30cZuxgwcQ",
+                    "description": "AMG: The acid jazz outfit Groove Collective was formed in downtown New York City in 1990 by flutist Richard Worth, DJ Smash, and rapper Nappy G, all three staples of a nomadic dance club called Giant Step. In time, the trio was joined by keyboardist Itaal",
+                    "title": "Groove Collective - Ocean Floor (2001)"
+                },
+                {
+                    "_duration": "303",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=mrLilsH1eY8",
+                    "description": "Provided to YouTube by Entertainment One Distribution US\n\nRansome · Groove Collective\n\nIt's All In Your Mind\n\n℗ Shanachie\n\nReleased on: 2005-06-20\n\nAuto-generated by YouTube.",
+                    "title": "Ransome"
+                },
+                {
+                    "_duration": "272",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Iy5VGBV5BOA",
+                    "description": "Impressive DOWNTEMPO / NU JAZZ from the 2001 album 'IT'S ALL IN YOUR MIND'",
+                    "title": "GROOVE COLLECTIVE - Time Pilot"
+                },
+                {
+                    "_duration": "372",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=AWtTB431jl8",
+                    "description": "Provided to YouTube by Entertainment One Distribution US\n\nIn Your Mind · Groove Collective\n\nIt's All In Your Mind\n\n℗ Shanachie\n\nReleased on: 2005-06-20\n\nAuto-generated by YouTube.",
+                    "title": "In Your Mind"
+                }
+            ]
+        }
+    }
+}

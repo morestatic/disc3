@@ -1,0 +1,180 @@
+{
+    "release": {
+        "_id": "46853",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "The Wildchild Experience",
+                "id": "6246",
+                "join": "",
+                "name": "Wildchild",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "17",
+                    "entity_type_name": "Pressed By",
+                    "id": "266587",
+                    "name": "Orlake Records",
+                    "resource_url": "https://api.discogs.com/labels/266587"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "362251",
+                    "name": "Original Artists Music",
+                    "resource_url": "https://api.discogs.com/labels/362251"
+                }
+            ]
+        },
+        "country": "UK",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "6246",
+                "join": "",
+                "name": "Wildchild",
+                "role": "Written-By, Producer, Mixed By",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Barcode",
+                    "_value": "5 025425 101465"
+                },
+                {
+                    "_description": "Etchings Side A",
+                    "_type": "Matrix / Runout",
+                    "_value": "LOAD+14+A ORLAKE"
+                },
+                {
+                    "_description": "Etchings Side AA",
+                    "_type": "Matrix / Runout",
+                    "_value": "LOAD+14+AA ORLAKE"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "LOAD 14",
+                "_id": "40",
+                "_name": "Loaded Records"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "279289"
+        },
+        "notes": "",
+        "released": "1993",
+        "styles": {
+            "style": "House"
+        },
+        "title": "Wildtrax Vol 4",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A1",
+                    "title": "Keep It Going"
+                },
+                {
+                    "duration": "",
+                    "position": "A2",
+                    "title": "Who Needs Who"
+                },
+                {
+                    "duration": "",
+                    "position": "AA1",
+                    "title": "Deep In The Night"
+                },
+                {
+                    "duration": "",
+                    "position": "AA2",
+                    "title": "Meet The Pressure"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "374",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=GW83ZCZXE0Y",
+                    "description": "1993 House , off Vol4 of the Wildchild Experience vinyl i own.\nBest tune on the vinyl by far.",
+                    "title": "The Wildchild Experience - Keep it Going"
+                },
+                {
+                    "_duration": "425",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=DsURSBzTP3s",
+                    "description": "From:Wildtrax Vol.4\r\nLabel: Loaded Records\r\nUnited Kingdom\r\nEnjoy :)",
+                    "title": "The Wildchild Experience-Who Needs Who (1993)"
+                },
+                {
+                    "_duration": "328",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=5UZ7YBW4RoI",
+                    "description": "1993 House , Off the Wildchild Experience Vol 4 Vinyl.\nNot a bad little tuna.",
+                    "title": "The Wildchild Experience - Deep In The Night"
+                },
+                {
+                    "_duration": "515",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=B2sImHMurgo",
+                    "description": "Super groove tune from a great run of EP's on Loaded.",
+                    "title": "THE WILDCHILD EXPERIENCE - WildTrax VOL 4 - Meet The Pressure"
+                }
+            ]
+        }
+    }
+}

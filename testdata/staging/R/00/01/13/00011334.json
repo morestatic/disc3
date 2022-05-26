@@ -1,0 +1,133 @@
+{
+    "release": {
+        "_id": "11334",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "2133",
+                "join": "",
+                "name": "Stacy Kidd",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "US",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "2133",
+                "join": "",
+                "name": "Stacy Kidd",
+                "role": "Written-By, Producer",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "12\""
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_type": "Barcode",
+                "_value": "713405962117"
+            }
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "432",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "432"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "MDR9621-1",
+                "_id": "20",
+                "_name": "Moody Recordings"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "248502"
+        },
+        "released": "1999",
+        "styles": {
+            "style": "House"
+        },
+        "title": "Razz-A-Jazz",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A",
+                    "title": "Razz-A-Jazz"
+                },
+                {
+                    "duration": "",
+                    "position": "B1",
+                    "title": "Space Tango"
+                },
+                {
+                    "duration": "",
+                    "position": "B2",
+                    "title": "Pitch Me (Mama Mix)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "352",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=GmykyyqGGto",
+                    "description": "http://www.discogs.com/Stacy-Kidd-Razz-A-Jazz/release/11334\n\nsimilar sounds here - https://soundcloud.com/calum-james",
+                    "title": "Stacy Kidd - Razz-A-Jazz"
+                },
+                {
+                    "_duration": "347",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=2g-oUlfFPc0",
+                    "description": "Stacy Kidd is a Chicago House producer, cousin of Paul Johnson.",
+                    "title": "Stacy Kidd - Space Tango"
+                },
+                {
+                    "_duration": "272",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=bC6KYnfudV8",
+                    "description": "Taken From This EP :\nhttp://www.discogs.com/Stacy-Kidd-Razz-A-Jazz/release/11334",
+                    "title": "Stacy Kidd - Pitch Me (Mama Mix) (MOODY RECORDINGS)"
+                }
+            ]
+        }
+    }
+}

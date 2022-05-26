@@ -1,0 +1,174 @@
+{
+    "release": {
+        "_id": "225695",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "104909",
+                "join": "",
+                "name": "Krystian Shek",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "Germany",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "andre@sansserif.com.au",
+                    "id": "2022694",
+                    "join": "",
+                    "name": "Andre Ruello",
+                    "role": "Graphics",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "2956627",
+                    "join": "",
+                    "name": "Andrey Menchikh",
+                    "role": "Photography By [Cover Photo]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "104909",
+                    "join": "",
+                    "name": "Krystian Shek",
+                    "role": "Producer, Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "596",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "298",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "297",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PS 08/101",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Limitation: 1000",
+        "released": "2003-10-13",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Dub",
+                "Tech House"
+            ]
+        },
+        "title": "Eisblumen",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "2:34",
+                    "position": "1",
+                    "title": "2012"
+                },
+                {
+                    "duration": "6:39",
+                    "position": "2",
+                    "title": "Eisblumen"
+                },
+                {
+                    "duration": "5:32",
+                    "position": "3",
+                    "title": "Tannenwald"
+                },
+                {
+                    "duration": "4:55",
+                    "position": "4",
+                    "title": "Abendrot"
+                },
+                {
+                    "duration": "7:54",
+                    "position": "5",
+                    "title": "November"
+                },
+                {
+                    "duration": "6:51",
+                    "position": "6",
+                    "title": "Wake Up With The Rain"
+                },
+                {
+                    "duration": "6:42",
+                    "position": "7",
+                    "title": "The Girl From Uzbekistan"
+                },
+                {
+                    "duration": "5:40",
+                    "position": "8",
+                    "title": "Nuclear Island"
+                },
+                {
+                    "duration": "5:56",
+                    "position": "9",
+                    "title": "Night Vs. Day"
+                },
+                {
+                    "duration": "4:25",
+                    "position": "10",
+                    "title": "Herimitage"
+                },
+                {
+                    "duration": "6:16",
+                    "position": "11",
+                    "title": "SnowGUM"
+                }
+            ]
+        },
+        "videos": {
+            "video": {
+                "_duration": "3810",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=fzvKGBkeKwU",
+                "description": "Artist: Krystian Shek\nAlbum: Eisblumen\nLabel: Fax +49-69/450464\nYear: 2003\n\n1. 2012 [00:00] \n2. Eisblumen [02:34] \n3. Tannenwald [09:14] \n4. Abendrot [14:46] \n5. November [19:42] \n6. Wake Up With the Rain [27:36] \n7. The Girl From Uzbekistan [34:28] \n8. N",
+                "title": "Krystian Shek - Eisblumen (Full Album) [2003]"
+            }
+        }
+    }
+}

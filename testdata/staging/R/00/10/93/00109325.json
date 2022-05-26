@@ -1,0 +1,143 @@
+{
+    "release": {
+        "_id": "109325",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "15288",
+                "join": "",
+                "name": "Limelight",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "Germany",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "233178",
+                    "join": "",
+                    "name": "DJ Brainwave",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Side B",
+                    "_type": "Matrix / Runout",
+                    "_value": "EX ANIMO CONSTAMUS ET CORPORE"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "490",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "462"
+                },
+                {
+                    "_height": "490",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "463"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/51",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "1473870"
+        },
+        "notes": "Limitation: 500",
+        "released": "1993-03-15",
+        "styles": {
+            "style": [
+                "Hard Trance",
+                "Techno"
+            ]
+        },
+        "title": "Limelight 4",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "6:07",
+                    "position": "A1",
+                    "title": "Momentum"
+                },
+                {
+                    "duration": "7:04",
+                    "position": "A2",
+                    "title": "Momentum (Nox Instat Mix)"
+                },
+                {
+                    "duration": "5:45",
+                    "position": "B",
+                    "title": "Repentium Venenum"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "393",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=1qcELJ_sR2M",
+                    "description": "Limelight - Limelight 4\n\nLabel:\nFax +49-69/450464\nCatalog#:\nPK 08/051\nFormat:\nVinyl, 12, Limited Edition\nCountry:\nGermany\nReleased:\n15 Mar 1993\n\nGenre:\nElectronic\n\nStyle:\nHard Trance\n\nTracklist\nA1   Momentum 6:07 \nA2   Momentum (Nox Instat Mix) 7:04 \nB1",
+                    "title": "Limelight - Momentum"
+                },
+                {
+                    "_duration": "345",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=jQK32947YTA",
+                    "description": "http://www.discogs.com/Limelight-Limelight-4/release/109325",
+                    "title": "Limelight - Repentium Venenum (Hardtrance 1993)"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "artist": {
+        "data_quality": "Needs Vote",
+        "groups": {
+            "name": {
+                "_id": "6549",
+                "content": "Richard Worth"
+            }
+        },
+        "id": "30",
+        "images": {
+            "image": {
+                "_height": "384",
+                "_type": "secondary",
+                "_uri": "",
+                "_uri150": "",
+                "_width": "600"
+            }
+        },
+        "members": {
+            "id": [
+                "6549",
+                "28896",
+                "36607",
+                "92196",
+                "158991",
+                "167514",
+                "198364",
+                "601630",
+                "799054"
+            ],
+            "name": [
+                {
+                    "_id": "6549",
+                    "content": "Richard Worth"
+                },
+                {
+                    "_id": "28896",
+                    "content": "Jay Rodriguez"
+                },
+                {
+                    "_id": "36607",
+                    "content": "Itaal Shur"
+                },
+                {
+                    "_id": "92196",
+                    "content": "Jonathan Maron"
+                },
+                {
+                    "_id": "158991",
+                    "content": "Genji Siraisi"
+                },
+                {
+                    "_id": "167514",
+                    "content": "Bill Ware"
+                },
+                {
+                    "_id": "198364",
+                    "content": "Fabio Morgera"
+                },
+                {
+                    "_id": "601630",
+                    "content": "Barney McAll"
+                },
+                {
+                    "_id": "799054",
+                    "content": "Gordon Clay"
+                }
+            ]
+        },
+        "name": "Groove Collective",
+        "namevariations": {
+            "name": [
+                "Groove Collection",
+                "Members of the Groove Collective",
+                "The Groove Collective"
+            ]
+        },
+        "profile": "American jazz-funk combo from New York City, formed in early 1990s.",
+        "urls": {
+            "url": [
+                "http://www.groovecollective.com/",
+                "http://www.myspace.com/groovecollective"
+            ]
+        }
+    }
+}

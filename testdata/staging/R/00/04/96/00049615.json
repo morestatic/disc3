@@ -1,0 +1,296 @@
+{
+    "release": {
+        "_id": "49615",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "20",
+                "join": "",
+                "name": "Percy X",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "28",
+                    "entity_type_name": "Remixed At",
+                    "id": "360027",
+                    "name": "Rotters Golf Club Studios",
+                    "resource_url": "https://api.discogs.com/labels/360027"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "27",
+                    "entity_type_name": "Mixed At",
+                    "id": "315293",
+                    "name": "UXB Studios",
+                    "resource_url": "https://api.discogs.com/labels/315293"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "270709",
+                    "name": "Soma Recordings Ltd.",
+                    "resource_url": "https://api.discogs.com/labels/270709"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "270709",
+                    "name": "Soma Recordings Ltd.",
+                    "resource_url": "https://api.discogs.com/labels/270709"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "295038",
+                    "name": "Soma Music",
+                    "resource_url": "https://api.discogs.com/labels/295038"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "29",
+                    "entity_type_name": "Mastered At",
+                    "id": "158759",
+                    "name": "The Exchange",
+                    "resource_url": "https://api.discogs.com/labels/158759"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "17",
+                    "entity_type_name": "Pressed By",
+                    "id": "56025",
+                    "name": "MPO",
+                    "resource_url": "https://api.discogs.com/labels/56025"
+                }
+            ]
+        },
+        "country": "UK",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": {
+                "anv": "Guy's",
+                "id": "369860",
+                "join": "",
+                "name": "Guy Davie",
+                "role": "Mastered By",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Barcode",
+                    "_value": "7 96122 21226 0"
+                },
+                {
+                    "_description": "Side A",
+                    "_type": "Matrix / Runout",
+                    "_value": "SOMA 122 A² Guy's THE EXCHANGE MPO"
+                },
+                {
+                    "_description": "Side B",
+                    "_type": "Matrix / Runout",
+                    "_value": "SOMA 122 B² MPO"
+                }
+            ]
+        },
+        "images": {
+            "image": {
+                "_height": "443",
+                "_type": "secondary",
+                "_uri": "",
+                "_uri150": "",
+                "_width": "445"
+            }
+        },
+        "labels": {
+            "label": {
+                "_catno": "SOMA 122",
+                "_id": "18",
+                "_name": "Soma Quality Recordings"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "1109166"
+        },
+        "notes": "A1 Remix at Rotters Golf Club.\r\nA1 and B1 Mixed at UXB, London.\r\n\r\n℗\u0026© 2002 Soma Recordings Limited.",
+        "released": "2002-08-19",
+        "styles": {
+            "style": [
+                "Techno",
+                "Electro",
+                "Tech House"
+            ]
+        },
+        "title": "Time To Jack",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "459",
+                                "join": "",
+                                "name": "Mark Broom",
+                                "role": "Mixed By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "459",
+                                "join": "",
+                                "name": "Mark Broom",
+                                "role": "Producer",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "529344",
+                                "join": "",
+                                "name": "The X-Man (3)",
+                                "role": "Producer",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "18646",
+                                "join": "",
+                                "name": "Radioactive Man",
+                                "role": "Remix",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "529344",
+                                "join": "",
+                                "name": "The X-Man (3)",
+                                "role": "Written-By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "A1",
+                    "title": "Time To Jack (Radioactive Man Mix)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "459",
+                                "join": "",
+                                "name": "Mark Broom",
+                                "role": "Mixed By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "459",
+                                "join": "",
+                                "name": "Mark Broom",
+                                "role": "Producer",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "529344",
+                                "join": "",
+                                "name": "The X-Man (3)",
+                                "role": "Producer",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "529344",
+                                "join": "",
+                                "name": "The X-Man (3)",
+                                "role": "Written-By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "B1",
+                    "title": "Time To Jack (Original Mix)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "144934",
+                                "join": "",
+                                "name": "Marco Bernardi",
+                                "role": "Producer",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "529344",
+                                "join": "",
+                                "name": "The X-Man (3)",
+                                "role": "Producer",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "B2",
+                    "title": "Club X"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "352",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=bwjUOwf-8Xg",
+                    "description": "Percy X - Time To Jack (Radioactive Man Mix) A1\n\nLabel: Soma Quality Recordings - SOMA 122\nFormat: Vinyl, 12\nCountry: UK\nReleased: 2002\nStyle: Techno, Electro\nDiscogs link: https://www.discogs.com/Percy-X-Time-To-Jack/release/49615\n\nWith the help of a my",
+                    "title": "Percy X - Time To Jack (Radioactive Man Mix)"
+                },
+                {
+                    "_duration": "304",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=MQtuQAjTW3o",
+                    "description": "https://www.discogs.com/de/Percy-X-Time-To-Jack/release/49615",
+                    "title": "Percy X – Time To Jack (Original)"
+                },
+                {
+                    "_duration": "417",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=tf3b2JIvZVI",
+                    "description": "Percy X - Club X  B2\n\nLabel: Soma Quality Recordings - SOMA 122\nFormat: Vinyl, 12\nCountry: UK\nReleased: 2002\nStyle: Techno, Electro\nDiscogs link: https://www.discogs.com/Percy-X-Time-...\n\nWith the help of a mysterious record thief, Dunks has secured this",
+                    "title": "Percy X - Club X"
+                }
+            ]
+        }
+    }
+}

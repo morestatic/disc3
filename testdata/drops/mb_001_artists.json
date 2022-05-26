@@ -1,0 +1,535 @@
+[{
+  "gender-id": null,
+  "type": "Group",
+  "disambiguation": "",
+  "begin_area": null,
+  "relations": [
+    {
+      "target-type": "artist",
+      "source-credit": "",
+      "attribute-values": {},
+      "ended": false,
+      "attributes": [
+        "original"
+      ],
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "direction": "backward",
+      "begin": "1984",
+      "type": "member of band",
+      "end": null,
+      "artist": {
+        "type": "Person",
+        "disambiguation": "",
+        "id": "0817b02d-d703-4013-9919-b57648c812a5",
+        "sort-name": "van ’t Hof, Jasper",
+        "name": "Jasper van ’t Hof",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      }
+    },
+    {
+      "attribute-values": {},
+      "ended": false,
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "end": null,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.discogs.com/artist/160202",
+        "id": "fc5c300a-ccae-426e-9594-7d7f93f2a76a"
+      },
+      "target-credit": "",
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "direction": "forward",
+      "begin": null,
+      "type": "discogs"
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "ended": false,
+      "attribute-values": {},
+      "attributes": [],
+      "type": "other databases",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-credit": "",
+      "begin": null,
+      "direction": "forward",
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://rateyourmusic.com/artist/pili_pili",
+        "id": "e61862bd-157e-4a95-a128-9587f156281a"
+      },
+      "end": null
+    }
+  ],
+  "end_area": null,
+  "sort-name": "Pili Pili",
+  "begin-area": null,
+  "area": {
+    "iso-3166-1-codes": [
+      "NL"
+    ],
+    "sort-name": "Netherlands",
+    "name": "Netherlands",
+    "disambiguation": "",
+    "type": null,
+    "id": "ef1b7cc0-cd26-36f4-8ea0-04d9623786c7",
+    "type-id": null
+  },
+  "rating": {
+    "votes-count": 0,
+    "value": null
+  },
+  "name": "Pili Pili",
+  "country": "NL",
+  "isnis": [],
+  "life-span": {
+    "end": null,
+    "begin": "1984",
+    "ended": false
+  },
+  "id": "1297160a-d267-4934-80f0-8b8b82da7652",
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "aliases": [
+    {
+      "type-id": null,
+      "begin": null,
+      "primary": null,
+      "locale": null,
+      "type": null,
+      "name": "Jasper Van't Hof's Pili Pili",
+      "end": null,
+      "ended": false,
+      "sort-name": "Van't Hof's, Jasper, Pili Pili"
+    },
+    {
+      "sort-name": "Jasper van't Hof's Pili-Pili",
+      "ended": false,
+      "end": null,
+      "name": "Jasper van't Hof's Pili-Pili",
+      "type": null,
+      "locale": null,
+      "primary": null,
+      "begin": null,
+      "type-id": null
+    }
+  ],
+  "end-area": null,
+  "genres": [],
+  "gender": null,
+  "annotation": null,
+  "ipis": [],
+  "tags": []
+},
+{
+  "isnis": [
+    "0000000088743773"
+  ],
+  "life-span": {
+    "begin": "1982",
+    "end": null,
+    "ended": false
+  },
+  "id": "5837d14e-4d18-49cf-a759-e5818714bce4",
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "aliases": [],
+  "end-area": null,
+  "genres": [],
+  "gender": null,
+  "annotation": null,
+  "ipis": [],
+  "tags": [
+    {
+      "count": 1,
+      "name": "rock and indie"
+    }
+  ],
+  "gender-id": null,
+  "disambiguation": "",
+  "type": "Group",
+  "begin_area": {
+    "disambiguation": "",
+    "type": null,
+    "sort-name": "San Francisco",
+    "id": "83f22bb6-4631-443c-bace-9fae8540362a",
+    "name": "San Francisco",
+    "type-id": null
+  },
+  "end_area": null,
+  "relations": [
+    {
+      "source-credit": "",
+      "target-type": "artist",
+      "ended": false,
+      "attribute-values": {},
+      "attributes": [],
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "begin": null,
+      "direction": "backward",
+      "artist": {
+        "name": "Marc Capelle",
+        "disambiguation": "Keyboardist and trumpeter",
+        "type": "Person",
+        "id": "30d7c887-7ff6-4357-bed8-997191fa14cf",
+        "sort-name": "Capelle, Marc",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "attribute-ids": {},
+      "end": null
+    },
+    {
+      "attributes": [],
+      "ended": false,
+      "attribute-values": {},
+      "target-type": "artist",
+      "source-credit": "",
+      "end": null,
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Mark Eitzel",
+        "sort-name": "Eitzel, Mark",
+        "id": "80b694db-8f5e-485f-b589-17d7853140b0",
+        "type": "Person",
+        "disambiguation": ""
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "direction": "backward",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "type": "member of band"
+    },
+    {
+      "end": null,
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Jonathan Heine",
+        "id": "202d7b68-1dd4-42ef-ad47-6d8ca88799b5",
+        "sort-name": "Heine, Jonathan",
+        "disambiguation": "",
+        "type": "Person"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "direction": "backward",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "type": "member of band",
+      "attributes": [],
+      "ended": false,
+      "attribute-values": {},
+      "target-type": "artist",
+      "source-credit": ""
+    },
+    {
+      "type": "member of band",
+      "direction": "backward",
+      "begin": null,
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Tim Mooney",
+        "type": "Person",
+        "disambiguation": "",
+        "id": "64abe6d2-f7c8-4264-a522-51fb8ab63ba9",
+        "sort-name": "Mooney, Tim"
+      },
+      "attribute-ids": {},
+      "end": null,
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [],
+      "attribute-values": {},
+      "ended": false
+    },
+    {
+      "attribute-ids": {
+        "time": "ebd303c3-7f57-452a-aa3b-d780ebad868d"
+      },
+      "end": null,
+      "type": "main performer",
+      "direction": "forward",
+      "begin": null,
+      "target-credit": "",
+      "type-id": "936c7c95-3156-3889-a062-8a0cd57f8946",
+      "event": {
+        "time": "",
+        "cancelled": false,
+        "setlist": "",
+        "name": "SXSW 2005, day 1: The Vibe",
+        "type": "Festival",
+        "disambiguation": "",
+        "id": "b8e01ac4-e59d-4dbe-853a-9e10d3d234e8",
+        "type-id": "b6ded574-b592-3f0e-b56e-5b5f06aa0678"
+      },
+      "attributes": [
+        "time"
+      ],
+      "attribute-values": {
+        "time": "1:00 a.m."
+      },
+      "ended": false,
+      "source-credit": "",
+      "target-type": "event"
+    },
+    {
+      "ended": false,
+      "attribute-values": {},
+      "attributes": [],
+      "target-type": "recording",
+      "source-credit": "",
+      "end": null,
+      "attribute-ids": {},
+      "type-id": "5c0ceac3-feb4-41f0-868d-dc06f6e27fc0",
+      "target-credit": "",
+      "begin": null,
+      "recording": {
+        "id": "78131f05-d6c4-4a42-9f00-cdf0bd33e547",
+        "disambiguation": "",
+        "length": 192440,
+        "video": false,
+        "title": "Goodbye to Love"
+      },
+      "direction": "forward",
+      "type": "producer"
+    },
+    {
+      "end": null,
+      "attribute-ids": {},
+      "type-id": "5e2907db-49ec-4a48-9f11-dfb99d2603ff",
+      "target-credit": "",
+      "begin": null,
+      "direction": "forward",
+      "type": "tribute",
+      "ended": false,
+      "attribute-values": {},
+      "attributes": [],
+      "release_group": {
+        "title": "Come On Beautiful: The Songs of American Music Club",
+        "secondary-type-ids": [],
+        "primary-type-id": null,
+        "disambiguation": "",
+        "secondary-types": [],
+        "id": "de501ef1-1028-3b95-9499-58f58b417d4b",
+        "first-release-date": "2000",
+        "primary-type": null
+      },
+      "target-type": "release_group",
+      "source-credit": ""
+    },
+    {
+      "type": "BBC Music page",
+      "begin": null,
+      "direction": "forward",
+      "type-id": "d028a975-000c-4525-9333-d3c8425e4b54",
+      "target-credit": "",
+      "url": {
+        "id": "304068ef-a125-4292-8544-b2cdb4d8b4f9",
+        "resource": "https://www.bbc.co.uk/music/artists/5837d14e-4d18-49cf-a759-e5818714bce4"
+      },
+      "attribute-ids": {},
+      "end": "2020-11-19",
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "ended": true,
+      "attribute-values": {}
+    },
+    {
+      "type": "allmusic",
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "target-credit": "",
+      "begin": null,
+      "direction": "forward",
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.allmusic.com/artist/mn0000011810",
+        "id": "0530072f-67fb-4819-ac1a-f8b2f1ac13be"
+      },
+      "end": null,
+      "source-credit": "",
+      "target-type": "url",
+      "ended": false,
+      "attribute-values": {},
+      "attributes": []
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "ended": false,
+      "attribute-values": {},
+      "type": "bandcamp",
+      "begin": null,
+      "direction": "forward",
+      "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88",
+      "target-credit": "",
+      "url": {
+        "id": "30543665-bdbf-4baa-8c35-d44ea2cafcbb",
+        "resource": "https://americanmusicclub1.bandcamp.com/"
+      },
+      "attribute-ids": {},
+      "end": null
+    },
+    {
+      "attributes": [],
+      "ended": false,
+      "attribute-values": {},
+      "source-credit": "",
+      "target-type": "url",
+      "url": {
+        "resource": "https://www.discogs.com/artist/92581",
+        "id": "71d87c33-d9b8-456b-bd3d-57d74a39b271"
+      },
+      "attribute-ids": {},
+      "end": null,
+      "type": "discogs",
+      "begin": null,
+      "direction": "forward",
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "target-credit": ""
+    },
+    {
+      "end": null,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://open.spotify.com/artist/6uHjKRsYGaElOrKWlSEji3",
+        "id": "f369df46-7e9d-46a7-9ec2-c1ba14d5ab14"
+      },
+      "target-credit": "",
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "direction": "forward",
+      "begin": null,
+      "type": "free streaming",
+      "attribute-values": {},
+      "ended": false,
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "end": null,
+      "attribute-ids": {},
+      "url": {
+        "id": "176173f9-0b9a-4827-a781-09dd47b20f56",
+        "resource": "https://www.deezer.com/artist/9490"
+      },
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "target-credit": "",
+      "begin": null,
+      "direction": "forward",
+      "type": "free streaming",
+      "ended": false,
+      "attribute-values": {},
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "type": "official homepage",
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "target-credit": "",
+      "begin": null,
+      "direction": "forward",
+      "attribute-ids": {},
+      "url": {
+        "resource": "http://www.americanmusicclub.com/",
+        "id": "42296183-14fe-4e90-ae61-1e0cf8f4139d"
+      },
+      "end": null,
+      "source-credit": "",
+      "target-type": "url",
+      "ended": false,
+      "attribute-values": {},
+      "attributes": []
+    },
+    {
+      "attribute-values": {},
+      "ended": false,
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "end": null,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://rateyourmusic.com/artist/american_music_club",
+        "id": "ce04b83f-e17f-4b56-a5e8-ad7272227ec8"
+      },
+      "target-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "direction": "forward",
+      "begin": null,
+      "type": "other databases"
+    },
+    {
+      "end": null,
+      "attribute-ids": {},
+      "url": {
+        "id": "3eeefe80-ff2b-4a02-b57a-4730d44c5561",
+        "resource": "https://itunes.apple.com/us/artist/id6265595"
+      },
+      "target-credit": "",
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "direction": "forward",
+      "begin": null,
+      "type": "purchase for download",
+      "attribute-values": {},
+      "ended": false,
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "type": "wikidata",
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "target-credit": "",
+      "begin": null,
+      "direction": "forward",
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.wikidata.org/wiki/Q2458127",
+        "id": "78e52c81-8f02-40f6-918d-9a8b7dcfb4cd"
+      },
+      "end": null,
+      "source-credit": "",
+      "target-type": "url",
+      "ended": false,
+      "attribute-values": {},
+      "attributes": []
+    }
+  ],
+  "sort-name": "American Music Club",
+  "begin-area": {
+    "disambiguation": "",
+    "type": null,
+    "sort-name": "San Francisco",
+    "id": "83f22bb6-4631-443c-bace-9fae8540362a",
+    "name": "San Francisco",
+    "type-id": null
+  },
+  "area": {
+    "type-id": null,
+    "name": "United States",
+    "type": null,
+    "disambiguation": "",
+    "id": "489ce91b-6658-3307-9877-795b68554c98",
+    "iso-3166-1-codes": [
+      "US"
+    ],
+    "sort-name": "United States"
+  },
+  "rating": {
+    "votes-count": 1,
+    "value": 4
+  },
+  "name": "American Music Club",
+  "country": "US"
+}]

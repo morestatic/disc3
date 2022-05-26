@@ -1,0 +1,165 @@
+{
+    "release": {
+        "_id": "32978",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "126598",
+                "join": "",
+                "name": "Electro Harmonix",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": {
+                "catno": "",
+                "entity_type": "10",
+                "entity_type_name": "Manufactured By",
+                "id": "291931",
+                "name": "CD Plant MFG",
+                "resource_url": "https://api.discogs.com/labels/291931"
+            }
+        },
+        "country": "Germany",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "33693",
+                    "join": "",
+                    "name": "Jonah Sharp",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "25",
+                    "join": "",
+                    "name": "Tetsu Inoue",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "CD PLANT MFG PS 08/51 CDM02"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "349",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "349"
+                },
+                {
+                    "_height": "236",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "242"
+                },
+                {
+                    "_height": "248",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "502"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PS 08/51",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "489344"
+        },
+        "notes": "San Francisco 1994\r\n\r\nSpecial thanks to:\r\n\r\nMichael\r\nLisa\r\nIngrid\r\n\r\nBillie \u0026 Jasper\r\n\r\nLimitation: 1000",
+        "released": "1994-11-28",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Experimental"
+            ]
+        },
+        "title": "Electro Harmonix",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "47:14",
+                    "position": "1",
+                    "title": "Morphing Cloud"
+                },
+                {
+                    "duration": "5:55",
+                    "position": "2",
+                    "title": "Replay"
+                },
+                {
+                    "duration": "11:10",
+                    "position": "3",
+                    "title": "Floating Sync."
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "3863",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Y00XMhb0WgY",
+                    "description": "Artist:  Tetsu Inoue \u0026 Jonah Sharp\nAlbum:  Electro Harmonix (1994)\n\nTracklisting:\n01.  Morphing Cloud 0:01\n02.  Replay 47:17\n03.  Floating Sync. 53:12\n\nComplete with morphing clouds thanks to SoftSkies visualizer by SoundSpectrum",
+                    "title": "Tetsu Inoue \u0026 Jonah Sharp - Electro Harmonix (Full Album)"
+                },
+                {
+                    "_duration": "2837",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=0MPmrmmxaRo",
+                    "description": "album: Electro Harmonix\nhttp://www.discogs.com/artist/Tetsu+Inoue\nart by Rob Gonsalves",
+                    "title": "Tetsu Inoue \u0026 Jonah Sharp - Morphing Cloud"
+                },
+                {
+                    "_duration": "672",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=C3WN7uc9YIM",
+                    "description": "http://www.discogs.com/artist/Tetsu+Inoue\nart by Angelo Musco",
+                    "title": "Tetsu Inoue \u0026 Jonah Sharp - Floating Sync  (Electro Harmonix)"
+                }
+            ]
+        }
+    }
+}

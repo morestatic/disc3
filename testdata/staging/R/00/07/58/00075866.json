@@ -1,0 +1,242 @@
+{
+    "release": {
+        "_id": "75866",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "9592",
+                "join": "",
+                "name": "Pizzaman",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "317309",
+                    "name": "Cowboy Records Ltd.",
+                    "resource_url": "https://api.discogs.com/labels/317309"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "317309",
+                    "name": "Cowboy Records Ltd.",
+                    "resource_url": "https://api.discogs.com/labels/317309"
+                }
+            ]
+        },
+        "country": "UK",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "40617",
+                    "join": "",
+                    "name": "Spin",
+                    "role": "Cover",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "59261",
+                    "join": "",
+                    "name": "Simon Thornton",
+                    "role": "Engineer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "116018",
+                    "join": "",
+                    "name": "JC Reid",
+                    "role": "Executive-Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "434465",
+                    "join": "",
+                    "name": "Tim Jeffery",
+                    "role": "Executive-Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "9592",
+                    "join": "",
+                    "name": "Pizzaman",
+                    "role": "Producer, Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "Single"
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_type": "Barcode",
+                "_value": "5 024086 002906"
+            }
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "459",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "563",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "598",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "CDLOAD29",
+                "_id": "40",
+                "_name": "Loaded Records"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "false",
+            "content": "100607"
+        },
+        "notes": "Contains samples of \"Five Songs By Four Voices\" performed by Edward Barton (Uncredited). \r\n\r\nTaken from the album \"Pizzamania\".",
+        "released": "1995",
+        "styles": {
+            "style": [
+                "Techno",
+                "Big Beat"
+            ]
+        },
+        "title": "Happiness",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "3:28",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "270348",
+                            "join": "",
+                            "name": "Eat Me",
+                            "role": "Edited By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "1",
+                    "title": "Happiness (Eat Me Edit)"
+                },
+                {
+                    "duration": "6:57",
+                    "position": "2",
+                    "title": "Happiness (Club Mix)"
+                },
+                {
+                    "duration": "7:54",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "28522",
+                            "join": "",
+                            "name": "Play Boys",
+                            "role": "Remix, Producer [Additional]",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "3",
+                    "title": "Happiness (Play Boys Fully Loaded Dub)"
+                },
+                {
+                    "duration": "5:24",
+                    "position": "4",
+                    "title": "Happiness (Original Mix)"
+                },
+                {
+                    "duration": "5:24",
+                    "position": "5",
+                    "title": "Happiness (Euro Mix)"
+                },
+                {
+                    "duration": "7:12",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "28522",
+                            "join": "",
+                            "name": "Play Boys",
+                            "role": "Remix, Producer [Additional]",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "6",
+                    "title": "Happiness (Play Boys Fully Loaded Dub II)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "473",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=5vdAeZuyL-o",
+                    "description": "Pizzaman ‎-- Happiness\nLabel:\nLoaded Records ‎-- 12LOAD29\nFormat:\nVinyl, 12, 33 ⅓ RPM\nCountry:\nUK\nReleased:\n1995\nGenre:\nElectronic\nStyle:\nHouse, Disco\nTracklist\nA1   Happiness (Club Mix) 6:55  \nA2   Happiness (Play Boys Fully Loaded Dub) 7:52  \nB1",
+                    "title": "Pizzaman - Happiness (Play Boys Fully Loaded Dub)"
+                },
+                {
+                    "_duration": "418",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Yg2FpflIc_I",
+                    "description": "",
+                    "title": "PIZZAMAN - HAPPINESS (Club Mix)"
+                },
+                {
+                    "_duration": "216",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=cM3R-TqSSws",
+                    "description": "Loaded records",
+                    "title": "Happiness by Pizzaman (high res\\official video)"
+                },
+                {
+                    "_duration": "321",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=OGnBKIwtk64",
+                    "description": "Original 12 inch from 1995",
+                    "title": "Pizzaman Happiness"
+                }
+            ]
+        }
+    }
+}

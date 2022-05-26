@@ -1,0 +1,263 @@
+{
+    "release": {
+        "_id": "52641",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "4295",
+                "join": "",
+                "name": "Jochem Paap",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "269832",
+                    "name": "Speedy J Music",
+                    "resource_url": "https://api.discogs.com/labels/269832"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "50745",
+                    "name": "LEC",
+                    "resource_url": "https://api.discogs.com/labels/50745"
+                },
+                {
+                    "catno": "42071",
+                    "entity_type": "10",
+                    "entity_type_name": "Manufactured By",
+                    "id": "277449",
+                    "name": "P+O Pallas",
+                    "resource_url": "https://api.discogs.com/labels/277449"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "2118078",
+                    "join": "",
+                    "name": "PEK (3)",
+                    "role": "Graphics",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "4295",
+                    "join": "",
+                    "name": "Jochem Paap",
+                    "role": "Written-By, Producer",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Mastering SID Code",
+                    "_value": "IFPI L961"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "PS 08/94  P+O-42071-A1 03-99"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "423",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "550"
+                },
+                {
+                    "_height": "550",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "550"
+                },
+                {
+                    "_height": "550",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "550"
+                },
+                {
+                    "_height": "550",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "550"
+                },
+                {
+                    "_height": "550",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "550"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PS 08/94",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "305595"
+        },
+        "notes": "Jochem Paap\r\nRotterdam 1995-1998\r\n\r\nLimitation: 2000.\r\n\r\nMade in Germany.",
+        "released": "1999-03-08",
+        "styles": {
+            "style": [
+                "Abstract",
+                "Ambient"
+            ]
+        },
+        "title": "Vrs-Mbnt-Pcs 9598 I",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "10:48",
+                    "position": "1",
+                    "title": "Un-Klkkn"
+                },
+                {
+                    "duration": "7:35",
+                    "position": "2",
+                    "title": "Spk"
+                },
+                {
+                    "duration": "8:23",
+                    "position": "3",
+                    "title": "Dtnd-Jn"
+                },
+                {
+                    "duration": "3:47",
+                    "position": "4",
+                    "title": "Flm"
+                },
+                {
+                    "duration": "8:16",
+                    "position": "5",
+                    "title": "Trpp-Bll"
+                },
+                {
+                    "duration": "8:23",
+                    "position": "6",
+                    "title": "Trmml-Dx"
+                },
+                {
+                    "duration": "16:37",
+                    "position": "7",
+                    "title": "Mbnt-Plng"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "636",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=2bFnXFVeNAc",
+                    "description": "Jochem Paap aka Speedy J.\nTaken from Vrs-Mbnt-Pcs 9598 I  released on FAX (1999)",
+                    "title": "Jochem Paap - Un-Klkkn"
+                },
+                {
+                    "_duration": "457",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=1u3poeSP_Pw",
+                    "description": "Subscribe: http://bit.ly/SubscribeW3RK\nMore info : http://www.W3RK.org/\n\nThis channel is powered by Techno Station\nSubscribe: http://bit.ly/SubscribeTechnoStation",
+                    "title": "Jochem Paap - Spk"
+                },
+                {
+                    "_duration": "495",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=DemBb_Rq_hk",
+                    "description": "Jochem Paap - Dtnd-Jn\r\nVrs-Mbnt-Pcs 9598 I\n\r\n\r-uploaded in HD at http://www.TunesToTube.com",
+                    "title": "Jochem Paap - Dtnd-Jn"
+                },
+                {
+                    "_duration": "487",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=XIbqJD0M9nc",
+                    "description": "Jochem Paap  - Trpp-Bll\r\nAlbum - Vrs-Mbnt-Pcs 9598 1",
+                    "title": "Jochem Paap Trpp-Bll"
+                },
+                {
+                    "_duration": "210",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=ZnxvIbqYoe0",
+                    "description": "from Vrs-Mbnt-Pcs 9598 I\n\ni've pitched this up a little, but i love it at normal speed too",
+                    "title": "Jochem Paap / Flm"
+                },
+                {
+                    "_duration": "1001",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=bBfRrq6l-1k",
+                    "description": "This album is one of my favourites from the Fax label.\nhttp://www.discogs.com/Jochem-Paap-Vrs-Mbnt-Pcs-9598-I/release/52641\nJochem Paap\nReal Name:\nJochem George Paap\nProfile:\nJochem Paap (the Rotterdam artist owes the nickname Speedy J to his DJ skills) i",
+                    "title": "Jochem Paap - Mbnt-Plng"
+                },
+                {
+                    "_duration": "504",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=I7ilHXbJ13I",
+                    "description": "Subscribe: http://bit.ly/SubscribeW3RK\nMore info : http://www.W3RK.org/\n\nThis channel is powered by Techno Station\nSubscribe: http://bit.ly/SubscribeTechnoStation",
+                    "title": "Jochem Paap - Trmml-Dx"
+                },
+                {
+                    "_duration": "999",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=vVLN-fLn66w",
+                    "description": "Subscribe: http://bit.ly/SubscribeW3RK\nMore info : http://www.W3RK.org/\n\nThis channel is powered by Techno Station\nSubscribe: http://bit.ly/SubscribeTechnoStation",
+                    "title": "Jochem Paap - Mbnt-Plng"
+                }
+            ]
+        }
+    }
+}

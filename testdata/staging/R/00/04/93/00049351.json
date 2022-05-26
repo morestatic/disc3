@@ -1,0 +1,183 @@
+{
+    "release": {
+        "_id": "49351",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "2909",
+                "join": "",
+                "name": "Silence",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "265012",
+                    "name": "Klanglabor Hödeshof",
+                    "resource_url": "https://api.discogs.com/labels/265012"
+                },
+                {
+                    "catno": "36595",
+                    "entity_type": "31",
+                    "entity_type_name": "Glass Mastered At",
+                    "id": "277449",
+                    "name": "P+O Pallas",
+                    "resource_url": "https://api.discogs.com/labels/277449"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "2118078",
+                    "join": "",
+                    "name": "PEK (3)",
+                    "role": "Graphics",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "58657",
+                    "join": "",
+                    "name": "Peter Kuhlmann",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "PK 08/135 P+O-36595-A"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "596",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "465",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "601",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/135",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "SILENCE\r\nTRABEN-TRARBACH/MOSEL 1997\r\n\r\nRecorded at Klanglabor, Traben-Trarbach/Mosel.\r\n\r\nLimitation: 2000",
+        "released": "1998-01-19",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Tribal"
+            ]
+        },
+        "title": "Silence III",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "8:30",
+                    "position": "1",
+                    "title": "Into The Desert"
+                },
+                {
+                    "duration": "8:27",
+                    "position": "2",
+                    "title": "Mirage"
+                },
+                {
+                    "duration": "14:38",
+                    "position": "3",
+                    "title": "A Ship On A Sea Of Sand"
+                },
+                {
+                    "duration": "3:20",
+                    "position": "4",
+                    "title": "Lost City"
+                },
+                {
+                    "duration": "5:08",
+                    "position": "5",
+                    "title": "Stars"
+                },
+                {
+                    "duration": "10:57",
+                    "position": "6",
+                    "title": "The Bottom Of The Ocean"
+                },
+                {
+                    "duration": "9:28",
+                    "position": "7",
+                    "title": "Dream Time"
+                }
+            ]
+        },
+        "videos": {
+            "video": {
+                "_duration": "3638",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=c8VvRsJxp1M",
+                "description": "Artist: Pete Namlook\nAlbum: Silence III\nLabel: Fax +49-69/450464\nYear: 1998\n\nTracklist:\n1. Into The Desert [0:00]\n2. Mirage [8:34]\n3. A Ship On A Sea Of Sand [17:01]\n4. Lost City [31:40]\n5. Stars [35:01]\n6. The Bottom Of The Ocean [40:10]\n7. Dream Time [5",
+                "title": "Pete Namlook - Silence III (Full Album) [1998]"
+            }
+        }
+    }
+}

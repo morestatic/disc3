@@ -1,0 +1,130 @@
+{
+    "release": {
+        "_id": "17491",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "15487",
+                "join": "",
+                "name": "Rubber Souls",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "US",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": {
+                "anv": "Jason \"Jinx\" Zambito",
+                "id": "25736",
+                "join": "",
+                "name": "Jason Zambito",
+                "role": "Producer",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "EP"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_description": "Scanned",
+                "_type": "Barcode",
+                "_value": "713405963510"
+            }
+        },
+        "images": {
+            "image": {
+                "_height": "601",
+                "_type": "secondary",
+                "_uri": "",
+                "_uri150": "",
+                "_width": "600"
+            }
+        },
+        "labels": {
+            "label": {
+                "_catno": "MDR9635-1",
+                "_id": "20",
+                "_name": "Moody Recordings"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "377800"
+        },
+        "released": "2001-05-12",
+        "styles": {
+            "style": "House"
+        },
+        "title": "Transformation EP",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "8:02",
+                    "position": "A",
+                    "title": "Can U Relate"
+                },
+                {
+                    "duration": "7:37",
+                    "position": "B",
+                    "title": "Modulate"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "481",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=0KLCnx9sQXs",
+                    "description": "Album : Transformation EP\nLabel : Moody Recordings (MDR 9635-1)\nStyle : Funky House, Disco",
+                    "title": "Rubber Souls - Can U Relate (2001)"
+                },
+                {
+                    "_duration": "477",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=O9m0iuqpm_M",
+                    "description": "http://www.discogs.com/Rubber-Souls-Can-You-Relate/release/518287 Enjoy!",
+                    "title": "Rubber Souls - Can You Relate (Original Mix) (2003)"
+                },
+                {
+                    "_duration": "487",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=guaS76bcTHc",
+                    "description": "https://www.discogs.com/Rubber-Souls-Transformation-EP/release/17491?ev=item-vc",
+                    "title": "Rubber Souls - Can U Relate"
+                },
+                {
+                    "_duration": "465",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=MDyM-cZWXTI",
+                    "description": "https://www.discogs.com/Rubber-Souls-Transformation-EP/release/17491?ev=item-vc",
+                    "title": "Rubber Souls - Modulate"
+                },
+                {
+                    "_duration": "458",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=oKAt-I81xfo",
+                    "description": "Rubber Souls - Modulate from Transformation EP\n\nfor Houserka Radiostacja Crew  http://www.facebook.com/groups/houserka/",
+                    "title": "Rubber Souls - Modulate from Transformation EP"
+                }
+            ]
+        }
+    }
+}

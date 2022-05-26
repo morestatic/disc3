@@ -1,0 +1,334 @@
+{
+    "release": {
+        "_id": "156201",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "30",
+                "join": "",
+                "name": "Groove Collective",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "9",
+                    "entity_type_name": "Distributed By",
+                    "id": "264222",
+                    "name": "Uni Distribution Corp.",
+                    "resource_url": "https://api.discogs.com/labels/264222"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "104817",
+                    "name": "GRP Records, Inc.",
+                    "resource_url": "https://api.discogs.com/labels/104817"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "104817",
+                    "name": "GRP Records, Inc.",
+                    "resource_url": "https://api.discogs.com/labels/104817"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "10",
+                    "entity_type_name": "Manufactured By",
+                    "id": "104817",
+                    "name": "GRP Records, Inc.",
+                    "resource_url": "https://api.discogs.com/labels/104817"
+                }
+            ]
+        },
+        "country": "US",
+        "data_quality": "Needs Vote",
+        "extraartists": "",
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "2",
+                "_text": "204 Gram Vinyl",
+                "descriptions": {
+                    "description": "12\""
+                }
+            }
+        },
+        "genres": {
+            "genre": [
+                "Electronic",
+                "Jazz"
+            ]
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Text",
+                    "_type": "Barcode",
+                    "_value": "0 11105 30741 3"
+                },
+                {
+                    "_description": "Side A Runout Etched",
+                    "_type": "Matrix / Runout",
+                    "_value": "GSR12-2-3074-A\u003c"
+                },
+                {
+                    "_description": "Side B Runout Etched",
+                    "_type": "Matrix / Runout",
+                    "_value": "GSR12--2-3074-B1"
+                },
+                {
+                    "_description": "Side AA Runout Etched",
+                    "_type": "Matrix / Runout",
+                    "_value": "GSR12-2-3074-AA1"
+                },
+                {
+                    "_description": "Side BB Runout Etched",
+                    "_type": "Matrix / Runout",
+                    "_value": "GSR12-2-3074-BB1"
+                },
+                {
+                    "_description": "Runout Stamped",
+                    "_type": "Matrix / Runout",
+                    "_value": "STERLING"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "562",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "590"
+                },
+                {
+                    "_height": "571",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "590"
+                },
+                {
+                    "_height": "426",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "417"
+                },
+                {
+                    "_height": "434",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "430"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "GSR12-3074",
+                "_id": "33712",
+                "_name": "Giant Step Records"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "169354"
+        },
+        "released": "1996",
+        "styles": {
+            "style": [
+                "House",
+                "Deep House",
+                "Future Jazz"
+            ]
+        },
+        "title": "I Want You (She's So Heavy) / Everybody (We The People)",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "",
+                    "title": "This Side"
+                },
+                {
+                    "duration": "7:25",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "46919",
+                                "join": "",
+                                "name": "Mitch Moses",
+                                "role": "Harmonica",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "119612",
+                                "join": "",
+                                "name": "Jazz Moses",
+                                "role": "Remix",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "A1",
+                    "title": "I Want You (She's So Heavy) (Jazz Moses Mix)"
+                },
+                {
+                    "duration": "5:46",
+                    "position": "A2",
+                    "title": "I Want You (She's So Heavy) (Original Full Length Version)"
+                },
+                {
+                    "duration": "",
+                    "position": "",
+                    "title": "Other Side"
+                },
+                {
+                    "duration": "11:05",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1812",
+                            "join": "",
+                            "name": "Eric Kupper",
+                            "role": "Remix, Keyboards",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "B",
+                    "title": "I Want You (She's So Heavy) (Eric Kupper Remix)"
+                },
+                {
+                    "duration": "",
+                    "position": "",
+                    "title": "This Side"
+                },
+                {
+                    "duration": "11:35",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1812",
+                            "join": "",
+                            "name": "Eric Kupper",
+                            "role": "Remix, Keyboards",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "AA",
+                    "title": "Everybody (We The People) (Eric Kupper Mix)"
+                },
+                {
+                    "duration": "",
+                    "position": "",
+                    "title": "Other Side"
+                },
+                {
+                    "duration": "7:44",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "12186",
+                                "join": "",
+                                "name": "John Ciafone",
+                                "role": "Drum Programming [Remix Drum Editing], Sequenced By [Remix]",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "8",
+                                "join": "",
+                                "name": "Mood II Swing",
+                                "role": "Remix",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "BB1",
+                    "title": "Everybody (We The People) (Mood II Swing Mix)"
+                },
+                {
+                    "duration": "7:58",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1812",
+                            "join": "",
+                            "name": "Eric Kupper",
+                            "role": "Remix, Keyboards",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "BB2",
+                    "title": "Everybody (We The People) (Fabuloso Dub)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "450",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=R9EM2HRWMgY",
+                    "description": "From my vinyl collection!\r\n\r\nhttp://www.discogs.com/Groove-Collective-I-Want-You-Shes-So-Heavy-Everybody-We-The-People/release/156201",
+                    "title": "Groove Collective - I Want You (She's So Heavy) (Jazz Moses Mix)"
+                },
+                {
+                    "_duration": "660",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=J92vTSWRU48",
+                    "description": "",
+                    "title": "Groove Collective - I Want You (She's So Heavy) (Eric Kupper Mix)"
+                },
+                {
+                    "_duration": "345",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=LQYuxrGXzQk",
+                    "description": "I do not own the copyright to this recording so if it needs to be removed, I will remove it. This video is for entertainment purposes only. \r\n\r\nComposed by John Lennon \u0026 Paul McCartney\r\n\r\nGroove Collective (1990-) are a contemporary/acid jazz group from N",
+                    "title": "Groove Collective I Want You (She's So Heavy)"
+                },
+                {
+                    "_duration": "686",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=LzWho9JF5eo",
+                    "description": "http://www.discogs.com/Groove-Collective-I-Want-You-Shes-So-Heavy-Everybody-We-The-People/release/156201\n\n(Promotional Use Only. All Rights belong to their respective owners.\nSupport Artists, if You like, buy the Music. 'Please' if You want to remove a so",
+                    "title": "(1996) Groove Collective - Everybody (We The People) [Eric Kupper RMX]"
+                },
+                {
+                    "_duration": "656",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=B3LjPtkO2Z8",
+                    "description": "",
+                    "title": "Groove Collective - I Want You (She's So Heavy) (Eric Kupper Remix)"
+                },
+                {
+                    "_duration": "474",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=tw5HvZdN0AQ",
+                    "description": "(Promotional Use Only. All Rights belong to their respective owners.\nSupport Artists, if You like, buy the Music. 'Please' if You want to remove a song just leave me a message and I will do it. Thanks!)\n\nhttp://www.youtube.com/user/DancinDeep - Dancin Dee",
+                    "title": "(1996) Groove Collective - Everybody (We The People) [Eric Kupper Fabuloso Dub RMX]"
+                },
+                {
+                    "_duration": "466",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=oK2ZFbOT7xU",
+                    "description": "http://www.discogs.com/Groove-Collective-I-Want-You-Shes-So-Heavy-Everybody-We-The-People/release/56277",
+                    "title": "Groove Collective - Everybody (We The People) (Mood II Swing Dub)"
+                }
+            ]
+        }
+    }
+}

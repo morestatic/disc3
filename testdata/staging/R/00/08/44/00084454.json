@@ -1,0 +1,125 @@
+{
+    "release": {
+        "_id": "84454",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "14128",
+                "join": "",
+                "name": "4Voice",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "1910",
+                "join": "",
+                "name": "Pete Namlook",
+                "role": "Written-By",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/114",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Limited to 1000 copies.\r\nEtched on side B: After the “Hartrance mony movement” ended … we can listen to the “music” again ….",
+        "released": "1996-04-29",
+        "styles": {
+            "style": [
+                "Trance",
+                "Ambient"
+            ]
+        },
+        "title": "4Voice 6",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "9:25",
+                    "position": "A1",
+                    "title": "Old Love Dies Hard"
+                },
+                {
+                    "duration": "7:54",
+                    "position": "A2",
+                    "title": "Old Love Dies Harder"
+                },
+                {
+                    "duration": "9:01",
+                    "position": "B",
+                    "title": "Old Love Dies"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "476",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=xQ5HWe0Chlc",
+                    "description": "https://www.discogs.com/4Voice-4Voice-6/release/84454",
+                    "title": "4Voice - Old Love Dies Harder (1996)"
+                },
+                {
+                    "_duration": "560",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=LXB3EEzhT2U",
+                    "description": "http://www.discogs.com/4Voice-4Voice-II/release/49360\n\r\n\r-uploaded in HD at http://www.TunesToTube.com",
+                    "title": "4Voice - Old Love Dies Hard (Trance 1998)"
+                },
+                {
+                    "_duration": "541",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=H5NTKRX3tD0",
+                    "description": "http://www.discogs.com/4Voice-4Voice-II/release/49360",
+                    "title": "4Voice - Old Love Dies"
+                }
+            ]
+        }
+    }
+}

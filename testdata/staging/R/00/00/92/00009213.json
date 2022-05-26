@@ -1,0 +1,168 @@
+{
+    "release": {
+        "_id": "9213",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "15287",
+                "join": "",
+                "name": "Deltraxx",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": {
+                "catno": "",
+                "entity_type": "26",
+                "entity_type_name": "Produced At",
+                "id": "294391",
+                "name": "Sonic Studios Frankfurt",
+                "resource_url": "https://api.discogs.com/labels/294391"
+            }
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "7649",
+                    "join": "",
+                    "name": "DJ Criss",
+                    "role": "Written-By",
+                    "tracks": "A1 to B1"
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "A-Side",
+                    "_type": "Matrix / Runout",
+                    "_value": "Produced at Sonic Studios Frankfurt for Namlook Productions"
+                },
+                {
+                    "_description": "B-Side",
+                    "_type": "Matrix / Runout",
+                    "_value": "Tell us your name when the red light goes on"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "599"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "599"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK  08/50",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Limitation : 500",
+        "released": "1993-03-08",
+        "styles": {
+            "style": [
+                "Hard Trance",
+                "Ambient"
+            ]
+        },
+        "title": "Deltraxx 4",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "5:58",
+                    "position": "A1",
+                    "title": "Welcome To Voice Print Identification"
+                },
+                {
+                    "duration": "5:10",
+                    "position": "A2",
+                    "title": "Voice Print Identification"
+                },
+                {
+                    "duration": "4:55",
+                    "position": "B1",
+                    "title": "Pursuit Of Identification"
+                },
+                {
+                    "duration": "5:06",
+                    "position": "B2",
+                    "title": "Identification"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "362",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=oZPjXqw4VvA",
+                    "description": "PETE NAMLOOK \u0026 DJ CRISIS-WELCOME TO VOICE PRINT IDENTIFICATION\n\nOLD SCHOOL ELECTRONICA\nTECHNO,TRANCE \u0026 RAVE",
+                    "title": "PETE NAMLOOK \u0026 DJ CRISIS-WELCOME TO VOICE PRINT IDENTIFICATION.wmv"
+                },
+                {
+                    "_duration": "310",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=PZtrfiJHlWk",
+                    "description": "http://www.discogs.com/Deltraxx-Deltraxx-4/release/9213\n\r\n\r-uploaded in HD at http://www.TunesToTube.com",
+                    "title": "Deltraxx - Voice Print Identification (Trance 1993)"
+                },
+                {
+                    "_duration": "306",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=RwcbwNm7kE4",
+                    "description": "Fax +49-69/450464 ‎– PK 08/50",
+                    "title": "Deltraxx - Pursuit Of Identification"
+                },
+                {
+                    "_duration": "3705",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=bwj7FBd0WwE",
+                    "description": "Artist: Pete Namlook \u0026 DJ Criss\nAlbum: Deltraxx\nLabel: Fax +49-69/450464\nYear: 1993\n\nTracklist:\n1. Altered States (Unfused \u0026 Tuned) [0:00]\n2. The Real Secret [7:47]\n3. Identification [13:30]\n4. Orbit (Half Moon Bay Mix) [18:41]\n5. Arcangel (Red Stripe Mix",
+                    "title": "Pete Namlook \u0026 DJ Criss - Deltraxx (Full Album) [1993]"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "release": {
+        "_id": "244464",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "60",
+                "join": "",
+                "name": "Pete Moss",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "UK",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "444",
+                "join": "",
+                "name": "Kevin McKay",
+                "role": "Remix",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "12\""
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": {
+                "_height": "500",
+                "_type": "primary",
+                "_uri": "",
+                "_uri150": "",
+                "_width": "494"
+            }
+        },
+        "labels": {
+            "label": {
+                "_catno": "ALO 052R",
+                "_id": "93",
+                "_name": "Alola"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "false",
+            "content": "144155"
+        },
+        "released": "2003",
+        "styles": {
+            "style": "Deep House"
+        },
+        "title": "Strive To Live (Mixes)",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "99355",
+                            "join": "",
+                            "name": "Erica Stone",
+                            "role": "Vocals",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "A1",
+                    "title": "Strive To Live (Kevin's Scorpio Rising Mix)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "99355",
+                            "join": "",
+                            "name": "Erica Stone",
+                            "role": "Vocals",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "A2",
+                    "title": "Strive To Live (Kevin's Scorpio Rising Dub)"
+                },
+                {
+                    "duration": "",
+                    "position": "B1",
+                    "title": "Strive To Live (Kevin's Testament Mix)"
+                },
+                {
+                    "duration": "",
+                    "position": "B2",
+                    "title": "Strive To Live (Kevin's Testament Dub)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "418",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=KGMGKI2BQ3I",
+                    "description": "",
+                    "title": "Pete Moss - Strive To Live (orginal mix)"
+                },
+                {
+                    "_duration": "440",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=K7ZDUnYgD3I",
+                    "description": "Low bitrate (128kbps)\n\nPete Moss ‎– Strive To Live // Alola ‎– ALO 052\nI do not own any rights of the material i upload,so if you are a producer or a label that u would like this video to be removed please let me know and i will do it immediately",
+                    "title": "Strive To Live (The Idiots Mix) - Pete moss"
+                },
+                {
+                    "_duration": "415",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=DEN5e7Z_q78",
+                    "description": "Follow Me Here: http://www.facebook.com/pages/TechHouseBoyz/178788462142164?v=wall",
+                    "title": "Pete Moss - Strive To Live (16b Mix)"
+                }
+            ]
+        }
+    }
+}

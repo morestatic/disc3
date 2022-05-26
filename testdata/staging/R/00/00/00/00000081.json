@@ -1,0 +1,190 @@
+{
+    "release": {
+        "_id": "81",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "60",
+                "join": "",
+                "name": "Pete Moss",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": {
+                "catno": "",
+                "entity_type": "29",
+                "entity_type_name": "Mastered At",
+                "id": "199325",
+                "name": "Frankford/Wayne Mastering Labs",
+                "resource_url": "https://api.discogs.com/labels/199325"
+            }
+        },
+        "country": "US",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "6871553",
+                    "join": "",
+                    "name": "Fran Englehardt",
+                    "role": "Executive-Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "6871554",
+                    "join": "",
+                    "name": "Matt Sordillo",
+                    "role": "Executive-Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "6871552",
+                    "join": "",
+                    "name": "Mike Walsh (12)",
+                    "role": "Executive-Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "316801",
+                    "join": "",
+                    "name": "Greg Vaughn",
+                    "role": "Mastered By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "3886744",
+                    "join": "",
+                    "name": "Richard Williams (20)",
+                    "role": "Photography By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "60",
+                    "join": "",
+                    "name": "Pete Moss",
+                    "role": "Written-By, Producer, Engineer",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "EP",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Run-out Side A",
+                    "_type": "Matrix / Runout",
+                    "_value": "RITUAL#2-A F/W GSV"
+                },
+                {
+                    "_description": "Run-out Side B",
+                    "_type": "Matrix / Runout",
+                    "_value": "RITUAL#2-B F/W GSV"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "597",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "147",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "150"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "RITUAL#2",
+                "_id": "64",
+                "_name": "Ritual Recordings"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "1279883"
+        },
+        "notes": "Mastered at Frankford Wayne Mastering Labs.",
+        "released": "1999-02-25",
+        "styles": {
+            "style": "Deep House"
+        },
+        "title": "The Shoreline EP",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A1",
+                    "title": "Feed The Habit"
+                },
+                {
+                    "duration": "",
+                    "position": "A2",
+                    "title": "Shoreline"
+                },
+                {
+                    "duration": "",
+                    "position": "B",
+                    "title": "Look Both Ways"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "344",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=J2Z16h0wEWU",
+                    "description": "Label: Ritual Recordings ‎– RITUAL#2\nFormat: Vinyl, 12, EP, 33 ⅓ RPM \nCountry: US\nReleased: 25 Feb 1999\nGenre: Electronic\nStyle: Deep House",
+                    "title": "Pete Moss - Feed The Habit"
+                },
+                {
+                    "_duration": "350",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=DGbap_OVsxk",
+                    "description": "https://www.discogs.com/Pete-Moss-The-Shoreline-EP/release/11248514\n\n\nPromotional Use Only. All Rights belong to their respective owners.",
+                    "title": "Pete Moss - Shoreline (1999)"
+                },
+                {
+                    "_duration": "343",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=u1JaS_0KFpk",
+                    "description": "Label: Ritual Recordings ‎– RITUAL#2\nFormat: Vinyl, 12, EP, 33 ⅓ RPM \nCountry: US\nReleased: 25 Feb 1999\nGenre: Electronic\nStyle: Deep House",
+                    "title": "Pete Moss - Look Both Ways"
+                }
+            ]
+        }
+    }
+}

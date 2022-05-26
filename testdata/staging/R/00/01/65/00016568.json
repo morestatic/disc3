@@ -1,0 +1,407 @@
+{
+    "release": {
+        "_id": "16568",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "194",
+                "join": "",
+                "name": "Various",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "16434",
+                    "entity_type": "10",
+                    "entity_type_name": "Manufactured By",
+                    "id": "277449",
+                    "name": "P+O Pallas",
+                    "resource_url": "https://api.discogs.com/labels/277449"
+                },
+                {
+                    "catno": "16435",
+                    "entity_type": "10",
+                    "entity_type_name": "Manufactured By",
+                    "id": "277449",
+                    "name": "P+O Pallas",
+                    "resource_url": "https://api.discogs.com/labels/277449"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Needs Vote",
+        "extraartists": "",
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "2",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Limited Edition",
+                        "Compilation"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "CD1",
+                    "_type": "Matrix / Runout",
+                    "_value": "08/05 CD 1 P+O-16434-A1 05-93"
+                },
+                {
+                    "_description": "CD2",
+                    "_type": "Matrix / Runout",
+                    "_value": "08/05 CD 2 P+O-16435-A2 05-93"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "323",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "364"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/05",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "280945"
+        },
+        "notes": "Pete Namlook\r\n\r\n= Produced at Sonic Studios Frankfurt for Namlook Productions =\r\n\r\nLimitation: 500",
+        "released": "1993-05-24",
+        "styles": {
+            "style": [
+                "House",
+                "Acid Jazz",
+                "Hard Trance"
+            ]
+        },
+        "title": "Compilation 3",
+        "tracklist": {
+            "track": [
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "15287",
+                            "join": "",
+                            "name": "Deltraxx",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:36",
+                    "position": "1-1",
+                    "title": "Arcangel (Red Stripe Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "15288",
+                            "join": "",
+                            "name": "Limelight",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "7:09",
+                    "position": "1-2",
+                    "title": "Rerum Natura (Pluris Costare Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "2910",
+                            "join": "",
+                            "name": "Hearts Of Space",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:57",
+                    "position": "1-3",
+                    "title": "All About Sensuality"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "2908",
+                            "join": "",
+                            "name": "Sequential",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "9:25",
+                    "position": "1-4",
+                    "title": "A Trip To Paradise"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "15295",
+                            "join": "",
+                            "name": "Olympic",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "7:43",
+                    "position": "1-5",
+                    "title": "Marathon - London"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "15290",
+                            "join": "",
+                            "name": "Crypt Corp.",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:23",
+                    "position": "1-6",
+                    "title": "It's All Around Us"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "7067",
+                            "join": "",
+                            "name": "Synthadelic",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:14",
+                    "position": "1-7",
+                    "title": "I'm A Secretary"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "2911",
+                            "join": "",
+                            "name": "Minimalistic Source",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:04",
+                    "position": "1-8",
+                    "title": "Minimalistic Overboost"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "15292",
+                            "join": "",
+                            "name": "Harmonize",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:24",
+                    "position": "1-9",
+                    "title": "Mediterranean Moods"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "14128",
+                            "join": "",
+                            "name": "4Voice",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:27",
+                    "position": "2-1",
+                    "title": "Eternal Spirit (Northern Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "15293",
+                            "join": "",
+                            "name": "Oversize Pussy",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:47",
+                    "position": "2-2",
+                    "title": "Orange"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "14126",
+                            "join": "",
+                            "name": "Subsequence",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:04",
+                    "position": "2-3",
+                    "title": "Walking In My Dreams"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "15294",
+                            "join": "",
+                            "name": "Stanley Conaway",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:14",
+                    "position": "2-4",
+                    "title": "Pepperbee"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "2908",
+                            "join": "",
+                            "name": "Sequential",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "11:31",
+                    "position": "2-5",
+                    "title": "Saturn Cruises"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "14125",
+                            "join": "",
+                            "name": "Sextant",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "8:47",
+                    "position": "2-6",
+                    "title": "Global System"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "2907",
+                            "join": "",
+                            "name": "Escape",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:11",
+                    "position": "2-7",
+                    "title": "Escape To Neptune"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "15289",
+                            "join": "",
+                            "name": "Syn",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "8:00",
+                    "position": "2-8",
+                    "title": "If Only You Could See..."
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "14128",
+                            "join": "",
+                            "name": "4Voice",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:52",
+                    "position": "2-9",
+                    "title": "Move"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "569",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=56Szj8HEKwc",
+                    "description": "Beautiful track by Sequential (Pete Namlook \u0026 DJ Criss) released on their Sequential 3 EP on Fax +49-69/450464 in 1993!\n\nhttps://www.discogs.com/Sequential-A-Trip-To-Paradise-Saturn-Cruises/master/485878\nhttps://www.discogs.com/artist/2908-Sequential\nht",
+                    "title": "Sequential - A Trip To Paradise"
+                },
+                {
+                    "_duration": "422",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=EegAS0O3YMI",
+                    "description": "Hearts of Space - All About Sensuality\n\nNamlook and FEOS Label:Fax +49-69/450464 Catalog#:PK 08/037 Format:Vinyl, 12, Limited Edition Country:Germany Released:25 Jan 1993 Genre:Electronic",
+                    "title": "Hearts of Space - All About Sensuality"
+                },
+                {
+                    "_duration": "356",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=vKZq9qbaDN8",
+                    "description": "Compilation 3\nLabel:\nFax +49-69/450464 ‎– PK 08/05\nFormat:\n2 × CD, Limited Edition, Compilation\nCountry:\nGermany\nReleased:\n24 May 1993\nGenre:\nElectronic\nStyle:\nTrance, Hardcore\n\nhttps://www.discogs.com/Various-Compilation-3/release/16568\n\nVisuals\n184",
+                    "title": "4Voice - Move  🇩🇪"
+                }
+            ]
+        }
+    }
+}

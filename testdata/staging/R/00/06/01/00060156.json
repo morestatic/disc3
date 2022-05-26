@@ -1,0 +1,581 @@
+{
+    "release": {
+        "_id": "60156",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "194",
+                "join": "",
+                "name": "Various",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "Germany",
+        "data_quality": "Needs Vote",
+        "extraartists": "",
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "Compilation"
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Printed",
+                    "_type": "Barcode",
+                    "_value": "8 08287 02072 4"
+                },
+                {
+                    "_description": "Scanned",
+                    "_type": "Barcode",
+                    "_value": "0808287020724"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "583",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "599"
+                },
+                {
+                    "_height": "574",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "599"
+                },
+                {
+                    "_height": "300",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "300"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "100",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "100",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "300",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "345"
+                },
+                {
+                    "_height": "300",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "345"
+                },
+                {
+                    "_height": "300",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "345"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PLACCD028-2",
+                "_id": "244",
+                "_name": "Plastic City"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "false",
+            "content": "440353"
+        },
+        "notes": "TT 77:57 mins\r\nTracks are partially faded in and out, so not always full lenghth versions.",
+        "released": "2002-07-01",
+        "styles": {
+            "style": "Tech House"
+        },
+        "title": "Plastic City 100",
+        "tracklist": {
+            "track": [
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "3870",
+                            "join": "",
+                            "name": "Cevin Fisher",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "0:44",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "51787",
+                            "join": "",
+                            "name": "Sheila Smith",
+                            "role": "Vocals",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "1",
+                    "title": "Love You Some More (Accapella)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "30256",
+                            "join": "",
+                            "name": "The Timewriter",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:32",
+                    "position": "2",
+                    "title": "Back From Exile"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "236607",
+                            "join": "",
+                            "name": "Crossfire (2)",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:28",
+                    "position": "3",
+                    "title": "The Dream"
+                },
+                {
+                    "artists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "193",
+                                "join": "Presents",
+                                "name": "DKMA",
+                                "role": "",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "795611",
+                                "join": "",
+                                "name": "Andrastea",
+                                "role": "",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "duration": "4:50",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "193",
+                            "join": "",
+                            "name": "DKMA",
+                            "role": "Presenter",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "4",
+                    "title": "Live Your Life"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "30256",
+                            "join": "",
+                            "name": "The Timewriter",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:19",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "30257",
+                            "join": "",
+                            "name": "Sid Thomson",
+                            "role": "Vocals",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "5",
+                    "title": "Life Is Just A Timeless Motion"
+                },
+                {
+                    "artists": {
+                        "artist": [
+                            {
+                                "anv": "A.D.N.Y.",
+                                "id": "50",
+                                "join": "Presents",
+                                "name": "ADNY",
+                                "role": "",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "1386",
+                                "join": "",
+                                "name": "Leiva",
+                                "role": "",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "duration": "3:47",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "A.D.N.Y.",
+                            "id": "50",
+                            "join": "",
+                            "name": "ADNY",
+                            "role": "Presenter",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "6",
+                    "title": "Something For The Souls"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "800",
+                            "join": "",
+                            "name": "Terry Lee Brown Jr.",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:42",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1544",
+                            "join": "",
+                            "name": "Steve Bug",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "7",
+                    "title": "Lost And Found (Steve Bug Lost It Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "85",
+                                "join": "Presents",
+                                "name": "YMC",
+                                "role": "",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "Nu Mood",
+                                "id": "9530",
+                                "join": "",
+                                "name": "Nu Mood Orchestra",
+                                "role": "",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "duration": "5:41",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "85",
+                            "join": "",
+                            "name": "YMC",
+                            "role": "Presenter",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "8",
+                    "title": "Gibraltar"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "9218",
+                            "join": "",
+                            "name": "Dualists",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:31",
+                    "position": "9",
+                    "title": "Sounds Of Pleasure (Rapture Of The Depth Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "800",
+                            "join": "",
+                            "name": "Terry Lee Brown Jr.",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:59",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "733",
+                            "join": "",
+                            "name": "Morgan Page",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "10",
+                    "title": "Ocean Of Joy (Morgan Page's Deep Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "2637",
+                            "join": "",
+                            "name": "G-Pal",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "2:58",
+                    "position": "11",
+                    "title": "Aegan Sea"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "803",
+                            "join": "",
+                            "name": "Lexicon",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "7:02",
+                    "position": "12",
+                    "title": "Mo' Tomatoes"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "799",
+                            "join": "",
+                            "name": "Jon Silva",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:09",
+                    "position": "13",
+                    "title": "Run Out Of Time"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "8988",
+                            "join": "",
+                            "name": "The Kelly Project",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:37",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "Emma",
+                            "id": "28680",
+                            "join": "",
+                            "name": "Emma Holmgren",
+                            "role": "Vocals",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "14",
+                    "title": "Won't Let You Go (Original Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "9568",
+                            "join": "",
+                            "name": "Instant Pleasure",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:20",
+                    "position": "15",
+                    "title": "Catch A Groove"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "29863",
+                            "join": "",
+                            "name": "Jean Thibault",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:06",
+                    "position": "16",
+                    "title": "Lit Et Mixe"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "3086",
+                            "join": "",
+                            "name": "Fonka Delix",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "3:03",
+                    "position": "17",
+                    "title": "My Life"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "370",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=wxWJ02ayUZw",
+                    "description": "(1995)",
+                    "title": "Awex - It's Our future (Timewriter Remix)"
+                },
+                {
+                    "_duration": "553",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=CFnPV8_YBb8",
+                    "description": "pastic city",
+                    "title": "Tesox - Funky Bassline | Plastic City"
+                },
+                {
+                    "_duration": "407",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=d_zJyEthOfg",
+                    "description": "House Music",
+                    "title": "Atom - Love to Heart (Too Hot)"
+                },
+                {
+                    "_duration": "428",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Ddp-p2hlQT0",
+                    "description": "The Early Years - Plastic City UK - 1997\r\n\r\nhttp://tonygalore.podomatic.com",
+                    "title": "Future Funk - Switch Lock"
+                },
+                {
+                    "_duration": "310",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=p54DVaYE6JA",
+                    "description": "Terry Lee Brown Jr. -- Skylark\nPlastic City America -- PLACUSA 015-6\nVinyl, 12 \n1998",
+                    "title": "Terry Lee Brown Jr. - Skylark [HD]"
+                },
+                {
+                    "_duration": "303",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=XHOWlvJhTyU",
+                    "description": "Sunkiss - Sines [Plastic City, 1998]",
+                    "title": "Sunkiss - Sines [Plastic City, 1998]"
+                },
+                {
+                    "_duration": "355",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=R26ednV8x8M",
+                    "description": "Taken from the album Jigsaw Pieces.\r\nI don't own the rights, just promotin' great music.\r\nPlease do NOT download this illegally.",
+                    "title": "The Timewriter: Words [HQ]"
+                },
+                {
+                    "_duration": "432",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=_6wFStTntHA",
+                    "description": "Deep music\r\n\r\n\r\nNo copyright intended, embedding has been disabled, and no problems should result.\r\n\r\nDisclaimer: I do not produce/own any material relating to the music/photo in this post. If the owner does not wish to have their items on display, please",
+                    "title": "Deep Music* G-Pal - Without That (Original Mix)"
+                },
+                {
+                    "_duration": "414",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=DRQ8XskIL7M",
+                    "description": "Buy : http://www.beatport.com/release/the-police/59325\n\nRELEASE DATE : 1997-08-31\n\nLABEL :  Plastic City",
+                    "title": "The Mulder - The police"
+                },
+                {
+                    "_duration": "387",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=9VSRryupHxI",
+                    "description": "the phunkdiggaz with a track called 'mitternacht'   *plastic city*\r\n\r\nThe people behind Phunk Diggaz are Andy Bolleshon \u0026 Martin Buttrich. The main focus of Andy Bolleshons career in the Music Business is his fascination for sound. With more than fifteen",
+                    "title": "Phunkdiggaz - mitternacht"
+                },
+                {
+                    "_duration": "455",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=OnzpDp5H8F8",
+                    "description": "Rozzo - Into Your Heart\nLabel:Bush\nCatalog#:Bush 1019\nFormat:Vinyl, 12\nCountry:UK\nReleased:1994\nGenre:Electronic \nStyle:House, Tech House \n\nTracklist\n--------------\nA Into Your Heart (Original Mix)\nB Into Your Heart (Into Your Space)\nC Into Your Heart (I",
+                    "title": "Rozzo - Into Your Heart (Original Mix)"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,239 @@
+{
+    "release": {
+        "_id": "212014",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "7192",
+                "join": "",
+                "name": "Remake",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "29",
+                    "entity_type_name": "Mastered At",
+                    "id": "158759",
+                    "name": "The Exchange",
+                    "resource_url": "https://api.discogs.com/labels/158759"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "17",
+                    "entity_type_name": "Pressed By",
+                    "id": "266587",
+                    "name": "Orlake Records",
+                    "resource_url": "https://api.discogs.com/labels/266587"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "6",
+                    "entity_type_name": "Licensed From",
+                    "id": "199319",
+                    "name": "DIG IT International S.r.l.",
+                    "resource_url": "https://api.discogs.com/labels/199319"
+                }
+            ]
+        },
+        "country": "UK",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "Mark",
+                    "id": "791639",
+                    "join": "",
+                    "name": "Mark Embleton",
+                    "role": "Mastered By [DMM]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "441786",
+                    "join": "",
+                    "name": "Adriano Dodici",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "16483",
+                    "join": "",
+                    "name": "Alex Neri",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "51043",
+                    "join": "",
+                    "name": "Marco Baroni",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "Mr Muzak",
+                    "id": "294272",
+                    "join": "",
+                    "name": "Mr. Muzak",
+                    "role": "Producer",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Barcode",
+                    "_value": "5 025425 112768"
+                },
+                {
+                    "_description": "Etchings Side A",
+                    "_type": "Matrix / Runout",
+                    "_value": "LOAD+27+A ORLAKE EXCHANGE DMM MARK"
+                },
+                {
+                    "_description": "Etchings Side AA",
+                    "_type": "Matrix / Runout",
+                    "_value": "LOAD+27+AA ORLAKE"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "597",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "593",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "LOAD 27",
+                "_id": "40",
+                "_name": "Loaded Records"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "219241"
+        },
+        "notes": "Mastered using Direct Metal Mastering (DMM).\r\nLicensed from Dig It International S.R.L.",
+        "released": "1995",
+        "styles": {
+            "style": [
+                "Trance",
+                "Techno"
+            ]
+        },
+        "title": "Bladerunner / Magic Fly",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A1",
+                    "title": "Bladerunner (Original Mix)"
+                },
+                {
+                    "duration": "",
+                    "position": "A2",
+                    "title": "Bladerunner (Replicant Mix)"
+                },
+                {
+                    "duration": "",
+                    "position": "AA1",
+                    "title": "Magic Fly (Original Mix)"
+                },
+                {
+                    "duration": "",
+                    "position": "AA2",
+                    "title": "Magic Fly (Remade Mix)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "359",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Zq5Suot-4-w",
+                    "description": "From 12 Vinyl",
+                    "title": "Remake   Bladerunner"
+                },
+                {
+                    "_duration": "315",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=bf4IY1brjO8",
+                    "description": "",
+                    "title": "Remake - Magic Fly (Loaded records)"
+                },
+                {
+                    "_duration": "316",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=G-SK0Ac16s8",
+                    "description": "",
+                    "title": "REMAKE - Magic fly (Full version).wmv"
+                },
+                {
+                    "_duration": "287",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=o4lKdFZT6ig",
+                    "description": "Classic 90's piano anthem from Italy...",
+                    "title": "Remake - Magic Fly (Remade Mix)"
+                },
+                {
+                    "_duration": "346",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=BQM8jEKXBe4",
+                    "description": "the REAL replicant remix from my old vinyl (the other video on YT is the original mix) https://www.discogs.com/Remake-Bladerunner-Magic-Fly/release/212014",
+                    "title": "Remake Bladerunner (Replicant Mix) 1995 LOAD 27"
+                }
+            ]
+        }
+    }
+}

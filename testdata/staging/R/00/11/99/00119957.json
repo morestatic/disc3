@@ -1,0 +1,359 @@
+{
+    "release": {
+        "_id": "119957",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "30",
+                "join": "",
+                "name": "Groove Collective",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "157",
+                    "name": "Reprise Records",
+                    "resource_url": "https://api.discogs.com/labels/157"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "48207",
+                    "name": "Copyright Control",
+                    "resource_url": "https://api.discogs.com/labels/48207"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "28",
+                    "entity_type_name": "Remixed At",
+                    "id": "271245",
+                    "name": "Bass Hit Studios",
+                    "resource_url": "https://api.discogs.com/labels/271245"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "37",
+                    "entity_type_name": "Produced For",
+                    "id": "602769",
+                    "name": "Masters At Work Productions, Inc.",
+                    "resource_url": "https://api.discogs.com/labels/602769"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "29",
+                    "entity_type_name": "Mastered At",
+                    "id": "271189",
+                    "name": "Absolute Audio",
+                    "resource_url": "https://api.discogs.com/labels/271189"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "17",
+                    "entity_type_name": "Pressed By",
+                    "id": "27576",
+                    "name": "Specialty Records Corporation",
+                    "resource_url": "https://api.discogs.com/labels/27576"
+                }
+            ]
+        },
+        "country": "US",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "Dave Darlington",
+                    "id": "510758",
+                    "join": "",
+                    "name": "David Darlington",
+                    "role": "Engineer [Mix]",
+                    "tracks": "A1 to B2"
+                },
+                {
+                    "anv": "",
+                    "id": "126410",
+                    "join": "",
+                    "name": "Phil Pagano",
+                    "role": "Engineer [Overdub]",
+                    "tracks": "A1 to B2"
+                },
+                {
+                    "anv": "",
+                    "id": "136549",
+                    "join": "",
+                    "name": "Dexter Simmons",
+                    "role": "Engineer [Second]",
+                    "tracks": "A1 to B2"
+                },
+                {
+                    "anv": "",
+                    "id": "479505",
+                    "join": "",
+                    "name": "Won Bee",
+                    "role": "Engineer [Second]",
+                    "tracks": "A1 to B2"
+                },
+                {
+                    "anv": "LZ",
+                    "id": "310809",
+                    "join": "",
+                    "name": "Leon Zervos",
+                    "role": "Mastered By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "192585",
+                    "join": "",
+                    "name": "Gary Katz",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "158991",
+                    "join": "",
+                    "name": "Genji Siraisi",
+                    "role": "Producer [Additional Production]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "36607",
+                    "join": "",
+                    "name": "Itaal Shur",
+                    "role": "Producer [Additional Production]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "\"Little\" Louie Vega",
+                    "id": "161487",
+                    "join": "",
+                    "name": "Louie Vega",
+                    "role": "Remix, Producer [Additional Production]",
+                    "tracks": "A1 to B2"
+                },
+                {
+                    "anv": "",
+                    "id": "2181412",
+                    "join": "",
+                    "name": "Hickey (2)",
+                    "role": "Written-By",
+                    "tracks": "A1 to B2"
+                },
+                {
+                    "anv": "Shur",
+                    "id": "36607",
+                    "join": "",
+                    "name": "Itaal Shur",
+                    "role": "Written-By",
+                    "tracks": "A1 to B2"
+                },
+                {
+                    "anv": "Maron",
+                    "id": "92196",
+                    "join": "",
+                    "name": "Jonathan Maron",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Text",
+                    "_type": "Barcode",
+                    "_value": "0 9362-41789-0 3"
+                },
+                {
+                    "_description": "Scanned",
+                    "_type": "Barcode",
+                    "_value": "093624178903"
+                },
+                {
+                    "_description": "Runout side A",
+                    "_type": "Matrix / Runout",
+                    "_value": "[SRC logo] 0-41789-A-SRI  I - I LZ ABSOLUTE AUDIO"
+                },
+                {
+                    "_description": "Runout side B",
+                    "_type": "Matrix / Runout",
+                    "_value": "[SRC logo] 0-41789-B SRI  I - I"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": [
+                {
+                    "_catno": "0-41789",
+                    "_id": "157",
+                    "_name": "Reprise Records"
+                },
+                {
+                    "_catno": "9 41789-0",
+                    "_id": "157",
+                    "_name": "Reprise Records"
+                }
+            ]
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "169353"
+        },
+        "notes": "Original versions from the Reprise album \"Groove Collective\" available on LP, Cassette and Compact Disc (1/4/2-45541).\n\nRemixed at Bass Hit Recording, NYC",
+        "released": "1994",
+        "styles": {
+            "style": [
+                "Deep House",
+                "Garage House",
+                "House"
+            ]
+        },
+        "title": "Whatchugot / Buddha Head",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "7:44",
+                    "position": "A1",
+                    "title": "Whatchugot (Main Mix)"
+                },
+                {
+                    "duration": "7:44",
+                    "position": "A2",
+                    "title": "Whatchugot (Bass Dub)"
+                },
+                {
+                    "duration": "7:13",
+                    "position": "B1",
+                    "title": "Whatchugot (Alternate Vocal Mix)"
+                },
+                {
+                    "duration": "7:40",
+                    "position": "B2",
+                    "title": "Whatchugot (Sax Mix)"
+                },
+                {
+                    "duration": "4:01",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "Morgera",
+                                "id": "198364",
+                                "join": "",
+                                "name": "Fabio Morgera",
+                                "role": "Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "Clay",
+                                "id": "799054",
+                                "join": "",
+                                "name": "Gordon Clay",
+                                "role": "Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "18026",
+                                "join": "",
+                                "name": "Hed Rush",
+                                "role": "Written-By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "B3",
+                    "title": "Buddha Head (Album Version)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "449",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=d1Zx3HBMNx4",
+                    "description": "",
+                    "title": "Groove Collective - Whatchugot(Sax Mix)"
+                },
+                {
+                    "_duration": "469",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=HWo4x682GlI",
+                    "description": "Genre: Electronic \nStyle: Deep House, Garage House \nYear: 1994",
+                    "title": "Groove Collective - Whatchugot  (main mix)"
+                },
+                {
+                    "_duration": "465",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=M_3T8M0iCUw",
+                    "description": "Track remixed by Little Louie Vega. Year 1994.",
+                    "title": "Groove Collective - Whatchugot (Bass Dub)"
+                },
+                {
+                    "_duration": "433",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=IxQB0d6FHMY",
+                    "description": "(Promotional Use Only. All Rights belong to their respective owners.\nSupport Artists, if You like, buy the Music. 'Please' if You want to remove a song just leave me a message and I will do it. Thanks!)\n\nhttp://www.youtube.com/user/DancinDeep - Dancin Dee",
+                    "title": "(1994) Groove Collective - Watchugot ['Little' Louie Vega Alternate Vocal RMX]"
+                }
+            ]
+        }
+    }
+}

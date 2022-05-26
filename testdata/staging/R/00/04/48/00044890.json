@@ -1,0 +1,116 @@
+{
+    "release": {
+        "_id": "44890",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "15289",
+                "join": "",
+                "name": "Syn",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "1910",
+                "join": "",
+                "name": "Pete Namlook",
+                "role": "Written-By",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "498",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "495"
+                },
+                {
+                    "_height": "498",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "495"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK  08/94",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "1717382"
+        },
+        "notes": "Limited to 1000 copies.\r\n\"REMEMBER US\" \r\nIs Etched On Runout Groove On Side B",
+        "released": "1994-10-10",
+        "styles": {
+            "style": [
+                "Hard Trance",
+                "Ambient"
+            ]
+        },
+        "title": "Syn 5",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "15:00",
+                    "position": "A",
+                    "title": "Subconscious Power"
+                },
+                {
+                    "duration": "14:52",
+                    "position": "B",
+                    "title": "Ancient History"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "893",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=3WZVVDUBJHk",
+                    "description": "",
+                    "title": "Syn - Ancient History"
+                },
+                {
+                    "_duration": "899",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=CvQTPpxX0gk",
+                    "description": "",
+                    "title": "Syn - Subconscious Power"
+                }
+            ]
+        }
+    }
+}

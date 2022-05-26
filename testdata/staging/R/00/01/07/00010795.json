@@ -1,0 +1,204 @@
+{
+    "release": {
+        "_id": "10795",
+        "_status": "Accepted",
+        "artists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "1174",
+                    "join": "/",
+                    "name": "Sterac",
+                    "role": "",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "20",
+                    "join": "",
+                    "name": "Percy X",
+                    "role": "",
+                    "tracks": ""
+                }
+            ]
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "571831",
+                    "name": "100% Pure Music",
+                    "resource_url": "https://api.discogs.com/labels/571831"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "295038",
+                    "name": "Soma Music",
+                    "resource_url": "https://api.discogs.com/labels/295038"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "2416",
+                    "name": "Rewind The Classics",
+                    "resource_url": "https://api.discogs.com/labels/2416"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "154822",
+                    "name": "UCMG UK",
+                    "resource_url": "https://api.discogs.com/labels/154822"
+                }
+            ]
+        },
+        "country": "UK",
+        "data_quality": "Needs Vote",
+        "extraartists": "",
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "45 RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_type": "Barcode",
+                "_value": "5 033154 607356"
+            }
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "573"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "597"
+                },
+                {
+                    "_height": "596",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "596",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "RTC 004-5",
+                "_id": "2416",
+                "_name": "Rewind The Classics"
+            }
+        },
+        "notes": "A: Published by 100% Pure Music.\n© Rewind The Classics/UCMG UK 2000.\n\nB: Catalogue number: Soma 26.\nP\u0026C 1995 Soma Recordings.\nPublished by Soma Music.\n© Rewind:The Classics/UCMG UK 2000.\n\nmanufactured in england.\n\nNotes.\n1. The A side of this release (Asphyx) is actually X-Tracks. This mistake comes from repeated errors ever since X-Tracks featured [url=https://www.discogs.com/release/4939]on this release from 1995[/url]. See the review quoting Steve Rachmad by Alain_Patrick (March 24th 2005) in which he reveals how \"Sterac\" indicates how this came to be i.e. that the original pressing that most people refer to as Asphyx, is in fact X-Tracks.\n2. On this release, the writing label side shows \"1B1\" in the middle of the runout indicating Side B. Similarly so, the barcode label side shows \"1A1\" indicating Side A. However, in relation to the tracklist for this release, the writing label side is in fact Side A, whilst the barcode label side is Side B.",
+        "released": "2000",
+        "styles": {
+            "style": "Techno"
+        },
+        "title": "Asphyx / RD600",
+        "tracklist": {
+            "track": [
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1174",
+                            "join": "",
+                            "name": "Sterac",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1617",
+                            "join": "",
+                            "name": "Steve Rachmad",
+                            "role": "Composed By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "A",
+                    "title": "Asphyx"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "20",
+                            "join": "",
+                            "name": "Percy X",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "20",
+                            "join": "",
+                            "name": "Percy X",
+                            "role": "Written-By, Producer",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "B",
+                    "title": "RD600"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "425",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=nAdoGZLTJs0",
+                    "description": "Sterac - Asphyx\nLabel:100% Pure - PURE 9\nFormat:Vinyl, 12, 33 ⅓ RPM\nCountry:Netherlands\nReleased:1995\nGenre:Electronic\nStyle:Techno\n\nTracklist\n-------------\nA1 Asphyx\nA2 Darkness In My Life\nB1 X-Tracks\nB2 Pacifia",
+                    "title": "Sterac - Asphyx"
+                },
+                {
+                    "_duration": "471",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Y4bHJhSfNvM",
+                    "description": "Techno Classics",
+                    "title": "Percy X. RD600"
+                }
+            ]
+        }
+    }
+}

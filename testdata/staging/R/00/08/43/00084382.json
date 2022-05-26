@@ -1,0 +1,241 @@
+{
+    "release": {
+        "_id": "84382",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "264879",
+                "join": "",
+                "name": "Outland (2)",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "294386",
+                    "name": "Klanglabor Frankfurt",
+                    "resource_url": "https://api.discogs.com/labels/294386"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "265012",
+                    "name": "Klanglabor Hödeshof",
+                    "resource_url": "https://api.discogs.com/labels/265012"
+                },
+                {
+                    "catno": "46614",
+                    "entity_type": "17",
+                    "entity_type_name": "Pressed By",
+                    "id": "277449",
+                    "name": "P+O Pallas",
+                    "resource_url": "https://api.discogs.com/labels/277449"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "andre@faxlabel.com",
+                    "id": "2022694",
+                    "join": "",
+                    "name": "Andre Ruello",
+                    "role": "Graphics",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "58657",
+                    "join": "",
+                    "name": "Peter Kuhlmann",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "661",
+                    "join": "",
+                    "name": "Bill Laswell",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "PW 43 P+O-46614-A2 02-00"
+                },
+                {
+                    "_type": "Mastering SID Code",
+                    "_value": "IFPI L962"
+                },
+                {
+                    "_type": "Mould SID Code",
+                    "_value": "none"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "591",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "469",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "297",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "598",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "604",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PW 43",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "16666"
+        },
+        "notes": "Recorded at Klanglabor Frankfurt \u0026 Traben-Trarbach.\r\n\r\nLimited to 2000 copies.",
+        "released": "2000-02-07",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Downtempo",
+                "Dub",
+                "Experimental"
+            ]
+        },
+        "title": "Outland IV",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "5:15",
+                    "position": "1",
+                    "title": "The Old World"
+                },
+                {
+                    "duration": "2:57",
+                    "position": "2",
+                    "title": "East Meets West"
+                },
+                {
+                    "duration": "4:52",
+                    "position": "3",
+                    "title": "Our Small Blue World"
+                },
+                {
+                    "duration": "4:55",
+                    "position": "4",
+                    "title": "Bella Prime"
+                },
+                {
+                    "duration": "4:40",
+                    "position": "5",
+                    "title": "Physical Transformation"
+                },
+                {
+                    "duration": "9:14",
+                    "position": "6",
+                    "title": "African Dub"
+                },
+                {
+                    "duration": "6:26",
+                    "position": "7",
+                    "title": "East Leaves West"
+                },
+                {
+                    "duration": "12:06",
+                    "position": "8",
+                    "title": "DSPill"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "296",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=aPrFslYHnrQ",
+                    "description": "2000",
+                    "title": "Bill Laswell \u0026 Pete Namlook - Outland IV - 04 - Bella Prime"
+                },
+                {
+                    "_duration": "503",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=EH4GroaR4Es",
+                    "description": "Released on the Outland IV Album. PW 43.\nMusic by:  Pete Namlook and Bill Laswell, 2000\nMusical edit and Video by: Abstructure",
+                    "title": "Outland - East Meets West + East Leaves West (Abstructure Edit)"
+                }
+            ]
+        }
+    }
+}

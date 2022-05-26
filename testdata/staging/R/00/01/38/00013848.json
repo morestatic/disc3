@@ -1,0 +1,227 @@
+{
+    "release": {
+        "_id": "13848",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "Coeur Atomique",
+                "id": "5374582",
+                "join": "",
+                "name": "Cœur Atomique",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": {
+                "catno": "",
+                "entity_type": "10",
+                "entity_type_name": "Manufactured By",
+                "id": "291931",
+                "name": "CD Plant MFG",
+                "resource_url": "https://api.discogs.com/labels/291931"
+            }
+        },
+        "country": "Germany",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": {
+                "anv": "Coeur Atomique",
+                "id": "5374582",
+                "join": "",
+                "name": "Cœur Atomique",
+                "role": "Written-By",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "CD PLANT MFG PS 08/27 CDM01"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "349",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "349"
+                },
+                {
+                    "_height": "388",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "504"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PS 08/27",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "false",
+            "content": "995371"
+        },
+        "notes": "Limitation: 500\n\nIdentical with [r=8468737], except for the tray card typeface (Akzidenz-Grotesk), and the different spelling of the artist name / title (\"Coeur Atomique\", not \"Cœur Atomique\") on back, on disc and on page 4 of the front insert.",
+        "released": "1993-10-11",
+        "styles": {
+            "style": [
+                "Techno",
+                "Ambient",
+                "Acid",
+                "House"
+            ]
+        },
+        "title": "Coeur Atomique",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "6:43",
+                    "position": "1",
+                    "title": "Atom Age"
+                },
+                {
+                    "duration": "6:26",
+                    "position": "2",
+                    "title": "Sundance (101 Mix)"
+                },
+                {
+                    "duration": "6:53",
+                    "position": "3",
+                    "title": "Risk"
+                },
+                {
+                    "duration": "5:25",
+                    "position": "4",
+                    "title": "Le Coeur"
+                },
+                {
+                    "duration": "6:13",
+                    "position": "5",
+                    "title": "Tabloid"
+                },
+                {
+                    "duration": "7:21",
+                    "position": "6",
+                    "title": "Retortion"
+                },
+                {
+                    "duration": "7:00",
+                    "position": "7",
+                    "title": "Volte-Face"
+                },
+                {
+                    "duration": "5:31",
+                    "position": "8",
+                    "title": "Tuff Transmitter"
+                },
+                {
+                    "duration": "8:35",
+                    "position": "9",
+                    "title": "Retouch"
+                },
+                {
+                    "duration": "4:37",
+                    "position": "10",
+                    "title": "Sundance (RZ-1 Mix)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "407",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=uYQIBjm8_e8",
+                    "description": "Coeur Atomique  - Coeur Atomique  E.P.\nFax +49-69/450464\nAckid Techno \n1993",
+                    "title": "Coeur Atomique -- Atom Age ( 1993 )"
+                },
+                {
+                    "_duration": "385",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=wcDPTgHsH38",
+                    "description": "http://www.discogs.com/Coeur-Atomique-Coeur-Atomique/release/87135\n\r\n\r-uploaded in HD at http://www.TunesToTube.com",
+                    "title": "Coeur Atomique - Sundance (101 Mix) (Acid Techno 1993)"
+                },
+                {
+                    "_duration": "417",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=rEbvBrwCwaA",
+                    "description": "http://www.discogs.com/Coeur-Atomique-Coeur-Atomique/release/13848\n\r\n\r-uploaded in HD at http://www.TunesToTube.com",
+                    "title": "Coeur Atomique - Risk (Acid Techno 1993)"
+                },
+                {
+                    "_duration": "370",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=qnv_vt8tGUE",
+                    "description": "http://www.discogs.com/Coeur-Atomique-Coeur-Atomique/release/13848\n\r\n\r-uploaded in HD at http://www.TunesToTube.com",
+                    "title": "Coeur Atomique - Tabloid (Techno 1993)"
+                },
+                {
+                    "_duration": "441",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=ruHsswmeh7Q",
+                    "description": "Retortion · AtomTM\n\nCoeur Atomique\n\n℗ 2018 AtomTM_Audio_Archive\n\nReleased on: 1993-10-10\n\nC O M P O S E R: AtomTM\nM U S I C_ P U B L I S H E R: Freibank Musikverlag\n\nAuto-generated by YouTube.",
+                    "title": "Retortion"
+                },
+                {
+                    "_duration": "421",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=mQXXUysmOsw",
+                    "description": "Volte-Face · AtomTM\n\nCoeur Atomique\n\n℗ 2018 AtomTM_Audio_Archive\n\nReleased on: 1993-10-10\n\nC O M P O S E R: AtomTM\nM U S I C_ P U B L I S H E R: Freibank Musikverlag\n\nAuto-generated by YouTube.",
+                    "title": "Volte-Face"
+                },
+                {
+                    "_duration": "335",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=bH3rI1_jETc",
+                    "description": "Nice cut from Atom Heart. Good stuff!",
+                    "title": "Coeur Atomique - Tuff Transmitter - Atom Heart Uwe Schmidt Pete Namlook Fax Records"
+                },
+                {
+                    "_duration": "518",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=XanePM-Tqsg",
+                    "description": "Artist: Cœur Atomique (Actually called Atom Heart).\nAlbum: Cœur atomique.\nTrack: Retouch.\nYear of Release: 1993.\nGenre: IDM, Ambient Techno.\n_________________\n\nExcerpt taken from the film  Caribou Vibration Ensemble by Matthew Colquhoun under Creative",
+                    "title": "Coeur Atomique - Retouch"
+                },
+                {
+                    "_duration": "279",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=sXnmAViDUA8",
+                    "description": "Coeur Atomique  - Coeur Atomique  E.P.\nFax +49-69/450464\nAckid Techno \n1993",
+                    "title": "Coeur Atomique -- Sundance (RZ-1 Mix) 1993"
+                }
+            ]
+        }
+    }
+}

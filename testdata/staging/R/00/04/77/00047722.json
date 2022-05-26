@@ -1,0 +1,231 @@
+{
+    "release": {
+        "_id": "47722",
+        "_status": "Accepted",
+        "artists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "60",
+                    "join": "Feat.",
+                    "name": "Pete Moss",
+                    "role": "",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "38508",
+                    "join": "",
+                    "name": "Denise De La Cruz",
+                    "role": "",
+                    "tracks": ""
+                }
+            ]
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "26",
+                    "entity_type_name": "Produced At",
+                    "id": "1566086",
+                    "name": "The Recline Center",
+                    "resource_url": "https://api.discogs.com/labels/1566086"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "37",
+                    "entity_type_name": "Produced For",
+                    "id": "365662",
+                    "name": "Ovum Music Publishing",
+                    "resource_url": "https://api.discogs.com/labels/365662"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "1566139",
+                    "name": "Recline Music",
+                    "resource_url": "https://api.discogs.com/labels/1566139"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "35",
+                    "name": "Ovum Recordings",
+                    "resource_url": "https://api.discogs.com/labels/35"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "35",
+                    "name": "Ovum Recordings",
+                    "resource_url": "https://api.discogs.com/labels/35"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "29",
+                    "entity_type_name": "Mastered At",
+                    "id": "199325",
+                    "name": "Frankford/Wayne Mastering Labs",
+                    "resource_url": "https://api.discogs.com/labels/199325"
+                }
+            ]
+        },
+        "country": "US",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "J. Wink",
+                    "id": "3",
+                    "join": "",
+                    "name": "Josh Wink",
+                    "role": "Executive-Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "M. Brookman",
+                    "id": "581564",
+                    "join": "",
+                    "name": "Matt Brookman",
+                    "role": "Executive-Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1848962",
+                    "join": "",
+                    "name": "Kimco Entertainment",
+                    "role": "Management [Worldwide]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "GSV",
+                    "id": "316801",
+                    "join": "",
+                    "name": "Greg Vaughn",
+                    "role": "Mastered By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "60",
+                    "join": "",
+                    "name": "Pete Moss",
+                    "role": "Written-By, Producer",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Runout Etching Side A",
+                    "_type": "Matrix / Runout",
+                    "_value": "OVM-145-A F/W GSV"
+                },
+                {
+                    "_description": "Runout Etching Side B",
+                    "_type": "Matrix / Runout",
+                    "_value": "OVM-145-B F/W GSV"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "OVM145",
+                "_id": "35",
+                "_name": "Ovum Recordings"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "1313208"
+        },
+        "notes": "All tracks written and produced @ The Recline Center for Recline Music (BMI).\nOvum Music Publishing (ASCAP) / Recline Music (BMI)\n©℗ 2002 Ovum Recordings\nMastered at Frankford/Wayne.",
+        "released": "2002-02-28",
+        "styles": {
+            "style": [
+                "Progressive House",
+                "House",
+                "Tech House"
+            ]
+        },
+        "title": "Down 4 Me",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "38508",
+                            "join": "",
+                            "name": "Denise De La Cruz",
+                            "role": "Lyrics By [Vocals Written By], Vocals, Performer, Featuring",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "A1",
+                    "title": "Down 4 Me"
+                },
+                {
+                    "duration": "",
+                    "position": "B1",
+                    "title": "Eye Opening"
+                },
+                {
+                    "duration": "",
+                    "position": "B2",
+                    "title": "Low - Phono"
+                }
+            ]
+        },
+        "videos": {
+            "video": {
+                "_duration": "447",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=dX_R4_N9_To",
+                "description": "2002. Down 4 Me Vinyl, 12  -  Ovum Recordings\nWritten-By, Producer – Pete Moss\nLyrics By [Vocals Written By], Vocals, Performer, Featuring – Denise De La Cruz",
+                "title": "Pete Moss  -  Down 4 Me feat. Denise De La Cruz"
+            }
+        }
+    }
+}

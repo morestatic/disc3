@@ -1,0 +1,183 @@
+{
+    "release": {
+        "_id": "18719",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "11581",
+                "join": "",
+                "name": "Mion",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "26064",
+                    "name": "N.E.W.S.",
+                    "resource_url": "https://api.discogs.com/labels/26064"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "26064",
+                    "name": "N.E.W.S.",
+                    "resource_url": "https://api.discogs.com/labels/26064"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "17",
+                    "entity_type_name": "Pressed By",
+                    "id": "265700",
+                    "name": "Disco-Press",
+                    "resource_url": "https://api.discogs.com/labels/265700"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "30",
+                    "entity_type_name": "Lacquer Cut At",
+                    "id": "158759",
+                    "name": "The Exchange",
+                    "resource_url": "https://api.discogs.com/labels/158759"
+                }
+            ]
+        },
+        "country": "Belgium",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "Nilz",
+                    "id": "386598",
+                    "join": "",
+                    "name": "Nilesh Patel",
+                    "role": "Lacquer Cut By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "20",
+                    "join": "",
+                    "name": "Percy X",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM",
+                        "EP"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Barcode",
+                    "_value": "7 90115 10361 0"
+                },
+                {
+                    "_type": "Rights Society",
+                    "_value": "SABAM"
+                },
+                {
+                    "_description": "Etched runout, side A",
+                    "_type": "Matrix / Runout",
+                    "_value": "DP 6 A THE EXCHANGE - NiLZ."
+                },
+                {
+                    "_description": "Etched runout, side B",
+                    "_type": "Matrix / Runout",
+                    "_value": "MM 036B²"
+                }
+            ]
+        },
+        "images": {
+            "image": {
+                "_height": "598",
+                "_type": "primary",
+                "_uri": "",
+                "_uri150": "",
+                "_width": "600"
+            }
+        },
+        "labels": {
+            "label": {
+                "_catno": "mm 036",
+                "_id": "38414",
+                "_name": "Music Man Records"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "233647"
+        },
+        "notes": "\"\u003cpc\u003e 1997 news\"\n\"not designed by glyn johns\"",
+        "released": "1997",
+        "styles": {
+            "style": "Techno"
+        },
+        "title": "Miori E.P.",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "7:26",
+                    "position": "A",
+                    "title": "Drop The Filter"
+                },
+                {
+                    "duration": "8:10",
+                    "position": "B1",
+                    "title": "Miori Part 1"
+                },
+                {
+                    "duration": "7:54",
+                    "position": "B2",
+                    "title": "Miori Part 2"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "465",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=zBqIuI9J9fM",
+                    "description": "http://www.discogs.com/Mion-Miori-EP/master/233647",
+                    "title": "Mion - Miori Part 2"
+                },
+                {
+                    "_duration": "536",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=A3dm11G1yek",
+                    "description": "This has been pitched down to -7, as I've always found this track to be a little too fast...\r\n\r\nMion ‎– Miori E.P.\r\nLabel:  Music Man Records [mm 036]\r\nFormat:  Vinyl, 12, EP \r\nCountry:  Belgium\r\nReleased:  1997\r\nGenre:  Techno\n\r\n\r- video upload powe",
+                    "title": "Mion - Miori Part 1"
+                },
+                {
+                    "_duration": "440",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=RwAdt62k5AU",
+                    "description": "Provided to YouTube by N.E.W.S. NV\n\nDrop The Filter · Mion\n\nMiori E.P.\n\n℗ N.E.W.S.\n\nReleased on: 1997-10-30\n\nArtist: Mion\n\nAuto-generated by YouTube.",
+                    "title": "Drop The Filter"
+                }
+            ]
+        }
+    }
+}

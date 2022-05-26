@@ -1,0 +1,272 @@
+{
+    "release": {
+        "_id": "214686",
+        "_status": "Accepted",
+        "artists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "20",
+                    "join": "\u0026",
+                    "name": "Percy X",
+                    "role": "",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "459",
+                    "join": "",
+                    "name": "Mark Broom",
+                    "role": "",
+                    "tracks": ""
+                }
+            ]
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "18",
+                    "name": "Soma Quality Recordings",
+                    "resource_url": "https://api.discogs.com/labels/18"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "18",
+                    "name": "Soma Quality Recordings",
+                    "resource_url": "https://api.discogs.com/labels/18"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "271696",
+                    "name": "SPG Publishing UK Ltd",
+                    "resource_url": "https://api.discogs.com/labels/271696"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "48207",
+                    "name": "Copyright Control",
+                    "resource_url": "https://api.discogs.com/labels/48207"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "27",
+                    "entity_type_name": "Mixed At",
+                    "id": "305157",
+                    "name": "Bentham Mansion",
+                    "resource_url": "https://api.discogs.com/labels/305157"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "30",
+                    "entity_type_name": "Lacquer Cut At",
+                    "id": "265278",
+                    "name": "Curve Pusher",
+                    "resource_url": "https://api.discogs.com/labels/265278"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "17",
+                    "entity_type_name": "Pressed By",
+                    "id": "56025",
+                    "name": "MPO",
+                    "resource_url": "https://api.discogs.com/labels/56025"
+                }
+            ]
+        },
+        "country": "UK",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "Lawrie",
+                    "id": "80202",
+                    "join": "",
+                    "name": "Lawrence Dunster",
+                    "role": "Lacquer Cut By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "459",
+                    "join": "",
+                    "name": "Mark Broom",
+                    "role": "Written-By, Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "529343",
+                    "join": "",
+                    "name": "Tony Scott (4)",
+                    "role": "Written-By, Producer",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "45 RPM",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Barcode",
+                    "_value": "7 96122 21406 6"
+                },
+                {
+                    "_description": "A side run-out",
+                    "_type": "Matrix / Runout",
+                    "_value": "SOMA 140 A MPO Lawrie@CURVEPUSHER"
+                },
+                {
+                    "_description": "B side run-out",
+                    "_type": "Matrix / Runout",
+                    "_value": "MPO SOMA 140 AA Lawrie@CURVEPUSHER"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC12668"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "320",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "320"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "591"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "595"
+                },
+                {
+                    "_height": "197",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "Soma 140",
+                "_id": "18",
+                "_name": "Soma Quality Recordings"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "37387"
+        },
+        "notes": "Mixed at Bentham Mansion, London.\r\nPublished by SPG Publishing UK Ltd \u0026 Copyright Control.\r\nP + C Soma Recordings 2003\r\n\r\nManufactured in France.\r\n\r\nSide A: 45 RPM\r\nSide B: 33 ⅓ RPM",
+        "released": "2003-12-15",
+        "styles": {
+            "style": [
+                "Techno",
+                "Tech House"
+            ]
+        },
+        "title": "Lady Killer",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A",
+                    "title": "Lady Killer"
+                },
+                {
+                    "duration": "",
+                    "position": "B1",
+                    "title": "Box Clever"
+                },
+                {
+                    "duration": "",
+                    "position": "B2",
+                    "title": "Indian File"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "314",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=qc9Gz5R3w9I",
+                    "description": "http://www.discogs.com/Percy-X-Mark-Broom-Lady-Killer/release/214686\r\n\r\nPercy X \u0026 Mark Broom - Lady Killer",
+                    "title": "Percy X \u0026 Mark Broom - Lady Killer"
+                },
+                {
+                    "_duration": "280",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=DFps5kRR2BE",
+                    "description": "Provided to YouTube by PIAS\n\nIndian File · Percy X · Mark Broom\n\nLady Killer\n\n℗ Soma Records\n\nReleased on: 2003-12-15\n\nComposer: Broom\nComposer: Scott\n\nAuto-generated by YouTube.",
+                    "title": "Indian File"
+                },
+                {
+                    "_duration": "266",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=uxS6hwIM1rI",
+                    "description": "http://www.discogs.com/Percy-X-Mark-Broom-Lady-Killer/release/214686\r\n\r\nPercy X \u0026 Mark Broom - Box Clever",
+                    "title": "Percy X \u0026 Mark Broom - Box Clever"
+                },
+                {
+                    "_duration": "240",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=m3pMqEREg7o",
+                    "description": "Artist: Percy X \u0026 Mark Broom, Title:  Box Clever, Title Of EP: Lady Killer, Format: Vinyl, Label: Soma Quality Recordings, Catalog: Soma 140, Country: United Kingdom, Released: 15 December 2003, Genre: Electronic, Style: Techno\nBUY - http://www.discogs.co",
+                    "title": "Percy X \u0026 Mark Broom ‎- Box Clever (Original Mix)"
+                },
+                {
+                    "_duration": "309",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=dDd39ueEVwM",
+                    "description": "http://www.discogs.com/Percy-X-Mark-Broom-Lady-Killer/release/214686\r\n\r\nPercy X \u0026 Mark Broom - Indian File",
+                    "title": "Percy X \u0026 Mark Broom - Indian File"
+                },
+                {
+                    "_duration": "320",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=3xYiU6lW2lM",
+                    "description": "",
+                    "title": "Percy X \u0026 Mark Broom - Lady Killer"
+                }
+            ]
+        }
+    }
+}

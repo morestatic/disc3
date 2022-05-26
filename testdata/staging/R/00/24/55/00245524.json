@@ -1,0 +1,413 @@
+{
+    "release": {
+        "_id": "245524",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "800",
+                "join": "",
+                "name": "Terry Lee Brown Jr.",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "Germany",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "800",
+                "join": "",
+                "name": "Terry Lee Brown Jr.",
+                "role": "DJ Mix",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Compilation",
+                        "Mixed"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": {
+                "_height": "515",
+                "_type": "secondary",
+                "_uri": "",
+                "_uri150": "",
+                "_width": "600"
+            }
+        },
+        "labels": {
+            "label": {
+                "_catno": "PLACCD034-2",
+                "_id": "244",
+                "_name": "Plastic City"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "56869"
+        },
+        "released": "2004-03-29",
+        "styles": {
+            "style": [
+                "Deep House",
+                "Tech House",
+                "Dub"
+            ]
+        },
+        "title": "Terry's Café 7 - Mild Flavour",
+        "tracklist": {
+            "track": [
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "8442",
+                            "join": "",
+                            "name": "Unai",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:58",
+                    "position": "1",
+                    "title": "Stars In Your Eyes"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "Interpolar",
+                            "id": "226768",
+                            "join": "",
+                            "name": "Interpol (3)",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:20",
+                    "position": "2",
+                    "title": "Non Stop Unterwegs (Version 1)"
+                },
+                {
+                    "artists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "10963",
+                                "join": "Pres.",
+                                "name": "Carsten Fietz",
+                                "role": "",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "17495",
+                                "join": "",
+                                "name": "Submeditation",
+                                "role": "",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "duration": "4:36",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "10963",
+                            "join": "",
+                            "name": "Carsten Fietz",
+                            "role": "Presenter",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "3",
+                    "title": "Boxmusic"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "3058",
+                            "join": "",
+                            "name": "Dub Taylor",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:10",
+                    "position": "4",
+                    "title": "Before You Go"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "57828",
+                            "join": "",
+                            "name": "Razoof",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:32",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "4247",
+                            "join": "",
+                            "name": "Salz",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "5",
+                    "title": "I Just Wanna Thank God (Salz Remix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "164950",
+                            "join": "",
+                            "name": "Tony Anderson Project",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "2:18",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "459",
+                            "join": "",
+                            "name": "Mark Broom",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "6",
+                    "title": "Marzipan Ladder  (Mark Broom Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "41899",
+                            "join": "",
+                            "name": "Spiritchaser",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:38",
+                    "position": "7",
+                    "title": "As We Continue"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "47792",
+                            "join": "",
+                            "name": "Osborne",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:08",
+                    "position": "8",
+                    "title": "Daylight"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "21028",
+                            "join": "",
+                            "name": "Rulers Of The Deep",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:15",
+                    "position": "9",
+                    "title": "Elu On Mu Ilu"
+                },
+                {
+                    "artists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "111265",
+                                "join": "aka",
+                                "name": "Jean F. Cochois",
+                                "role": "",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "30256",
+                                "join": "",
+                                "name": "The Timewriter",
+                                "role": "",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "duration": "4:52",
+                    "position": "10",
+                    "title": "Night Train"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "128201",
+                            "join": "",
+                            "name": "Gunga",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "3:43",
+                    "position": "11",
+                    "title": "Amur"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "Sixtyniners Presents Smoken Machine",
+                            "id": "878295",
+                            "join": "",
+                            "name": "Sixtyniners",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "2:22",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "878295",
+                            "join": "",
+                            "name": "Sixtyniners",
+                            "role": "Presenter",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "12",
+                    "title": "Bring To Us"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "60",
+                            "join": "",
+                            "name": "Pete Moss",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:55",
+                    "position": "13",
+                    "title": "Right On"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "152983",
+                            "join": "",
+                            "name": "The Faction",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "3:43",
+                    "position": "14",
+                    "title": "A Little Lit"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "134517",
+                            "join": "",
+                            "name": "Soda Inc.",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:06",
+                    "position": "15",
+                    "title": "Solo Sour"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "Terry Lee Brown Junior",
+                            "id": "800",
+                            "join": "",
+                            "name": "Terry Lee Brown Jr.",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:56",
+                    "position": "16",
+                    "title": "Deeper Solidity"
+                },
+                {
+                    "artists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "111265",
+                                "join": "aka",
+                                "name": "Jean F. Cochois",
+                                "role": "",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "30256",
+                                "join": "",
+                                "name": "The Timewriter",
+                                "role": "",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "duration": "5:58",
+                    "position": "17",
+                    "title": "I Wanna Know"
+                }
+            ]
+        },
+        "videos": {
+            "video": {
+                "_duration": "4712",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=yZwa21WSdYY",
+                "description": "Tracklist: https://www.discogs.com/de/Terry-Lee-Brown-Jr-Terrys-Caf%C3%A9-7/master/56869",
+                "title": "Terry's Cafe Vol. 7 (2004)"
+            }
+        }
+    }
+}

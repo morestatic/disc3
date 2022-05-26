@@ -1,0 +1,264 @@
+{
+    "release": {
+        "_id": "52638",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "80775",
+                "join": "",
+                "name": "Second Nature (2)",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "10",
+                    "entity_type_name": "Manufactured By",
+                    "id": "267946",
+                    "name": "CD Plant AB",
+                    "resource_url": "https://api.discogs.com/labels/267946"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "26",
+                    "entity_type_name": "Produced At",
+                    "id": "277133",
+                    "name": "Greenpoint Studios",
+                    "resource_url": "https://api.discogs.com/labels/277133"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "24",
+                    "entity_type_name": "Engineered At",
+                    "id": "277133",
+                    "name": "Greenpoint Studios",
+                    "resource_url": "https://api.discogs.com/labels/277133"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "36",
+                    "entity_type_name": "Edited At",
+                    "id": "277133",
+                    "name": "Greenpoint Studios",
+                    "resource_url": "https://api.discogs.com/labels/277133"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "24",
+                    "join": "",
+                    "name": "Atom Heart",
+                    "role": "Composed By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "661",
+                    "join": "",
+                    "name": "Bill Laswell",
+                    "role": "Composed By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "25",
+                    "join": "",
+                    "name": "Tetsu Inoue",
+                    "role": "Composed By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "539207",
+                    "join": "",
+                    "name": "Linger Decoree",
+                    "role": "Design [Treatment By]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "13227",
+                    "join": "",
+                    "name": "Robert Musso",
+                    "role": "Engineer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "128097",
+                    "join": "",
+                    "name": "Layng Martine",
+                    "role": "Engineer [Assistant], Edited By [Digital Editing]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "528420",
+                    "join": "",
+                    "name": "Arielle (4)",
+                    "role": "Photography By [First Nature Scans Provided By]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "24",
+                    "join": "",
+                    "name": "Atom Heart",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "661",
+                    "join": "",
+                    "name": "Bill Laswell",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "25",
+                    "join": "",
+                    "name": "Tetsu Inoue",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "CD PLANT AB PS 08/78 CDM01"
+                },
+                {
+                    "_type": "Mould SID Code",
+                    "_value": "ifpi 8402"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "598",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "599"
+                },
+                {
+                    "_height": "379",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                },
+                {
+                    "_height": "595",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "599"
+                },
+                {
+                    "_height": "231",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "242"
+                },
+                {
+                    "_height": "246",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "499"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PS 08/78",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "146316"
+        },
+        "notes": "Created at Greenpoint Studio, Brooklyn, New York\r\nLimitation: 1000",
+        "released": "1995-08-14",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Downtempo",
+                "Dub",
+                "Minimal"
+            ]
+        },
+        "title": "Second Nature",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "28:42",
+                    "position": "1",
+                    "title": "Synthetic Forest"
+                },
+                {
+                    "duration": "16:59",
+                    "position": "2",
+                    "title": "Green Paste"
+                },
+                {
+                    "duration": "16:29",
+                    "position": "3",
+                    "title": "Artificial Seaside"
+                },
+                {
+                    "duration": "6:25",
+                    "position": "4",
+                    "title": "Landing Cycle"
+                }
+            ]
+        },
+        "videos": {
+            "video": {
+                "_duration": "4115",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=xhYnCLE5H-E",
+                "description": "",
+                "title": "Atom Heart   Tetsu Inoue   Bill Laswell – Second Nature Full LP"
+            }
+        }
+    }
+}

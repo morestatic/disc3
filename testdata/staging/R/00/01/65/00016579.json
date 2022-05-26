@@ -1,0 +1,284 @@
+{
+    "release": {
+        "_id": "16579",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "14128",
+                "join": "",
+                "name": "4Voice",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": {
+                "catno": "17169",
+                "entity_type": "10",
+                "entity_type_name": "Manufactured By",
+                "id": "277449",
+                "name": "P+O Pallas",
+                "resource_url": "https://api.discogs.com/labels/277449"
+            }
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "1910",
+                "join": "",
+                "name": "Pete Namlook",
+                "role": "Written-By",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "PK 08-79 P+O-17169-A1 06-93"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC6269"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "465",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/79",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "146286"
+        },
+        "notes": "Four Voice\r\n\r\nThe sound of a unique synthesizer lays the foundation for the music.\r\n\r\n4VOICE\r\nFRANKFURT 1993\r\n\r\nSpecial thanks to:\r\n\r\nElisabeth\r\nFabia\r\nChristian Thier\r\nMark Goeder\r\nTurgay of Turgay Audio\r\nLudwig Rehberg of EMS\r\n\r\nLimitation: 500\r\n\r\nAll tracks written by Pete Namlook except 2, 3 by Pete Namlook and Maik Maurice (arrangement assistant).",
+        "released": "1993-07-12",
+        "styles": {
+            "style": [
+                "Trance",
+                "House",
+                "Ambient"
+            ]
+        },
+        "title": "4Voice",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "2:14",
+                    "position": "1",
+                    "title": "4VI Intro"
+                },
+                {
+                    "duration": "5:22",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "141026",
+                            "join": "",
+                            "name": "Maik Maurice",
+                            "role": "Arranged By [Arrangement Assistant]",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "2",
+                    "title": "Music Hypnotizes (Hypnotizing Mix)"
+                },
+                {
+                    "duration": "6:49",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "141026",
+                            "join": "",
+                            "name": "Maik Maurice",
+                            "role": "Arranged By [Arrangement Assistant]",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "3",
+                    "title": "Catching The Scent Of Mystery"
+                },
+                {
+                    "duration": "11:00",
+                    "position": "4",
+                    "title": "Light"
+                },
+                {
+                    "duration": "6:27",
+                    "position": "5",
+                    "title": "Eternal Spirit (Northern Mix)"
+                },
+                {
+                    "duration": "5:52",
+                    "position": "6",
+                    "title": "Move"
+                },
+                {
+                    "duration": "6:04",
+                    "position": "7",
+                    "title": "Fairlight 1"
+                },
+                {
+                    "duration": "5:24",
+                    "position": "8",
+                    "title": "The Mystery"
+                },
+                {
+                    "duration": "8:16",
+                    "position": "9",
+                    "title": "Join Us On Our Way To The Final Frontier"
+                },
+                {
+                    "duration": "6:59",
+                    "position": "10",
+                    "title": "Move #2"
+                },
+                {
+                    "duration": "7:22",
+                    "position": "11",
+                    "title": "The Final Frontier"
+                },
+                {
+                    "duration": "2:32",
+                    "position": "12",
+                    "title": "4VI Outro"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "4441",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=xiY48gyK8Jc",
+                    "description": "Artist: Pete Namlook\nAlbum: 4Voice\nLabel: Fax +49-69/450464\nYear: 1993\n\nTracklist:\n1. 4VI Intro [0:00]\n2. Music Hypnotizes (Hypnotizing Mix) [2:14]\n3. Catching The Scent Of Mystery [7:20]\n4. Light [14:11]\n5. Eternal Spirit (Northern Mix) [25:10]\n6. Move [",
+                    "title": "Pete Namlook - 4Voice (Full Album) [1993]"
+                },
+                {
+                    "_duration": "499",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=l_vxPIbTH0Y",
+                    "description": "4Voice - 4Voice 3\n4Voice - Move \nFax +49-69/450464\nTechno Trance Hardcore \n1993",
+                    "title": "4Voice - Move ( 1993 )"
+                },
+                {
+                    "_duration": "365",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=IQJfTByAmSI",
+                    "description": "4Voice 4 EP\r\nLabel: Fax +49-69/450464  \r\nCatalog#: PK 08/064  \r\nFormat: Vinyl, 12, Limited Edition\r\nCountry: Germany \r\nReleased: 26 Apr 1993 \r\nGenre: Electronic  \r\nStyle: Trance, Ambient  \r\nCredits: Written-By - Pete Namlook  \r\nNotes: Limitation: 500",
+                    "title": "4Voice - Fairlight 1"
+                },
+                {
+                    "_duration": "313",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=lywJ1E715ns",
+                    "description": "Album: The Definitive Ambient Collection 1\r\nYear: 1993",
+                    "title": "Pete Namlook - 4 Voice - The Mystery"
+                },
+                {
+                    "_duration": "499",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=ToTbhkY_CzQ",
+                    "description": "👕 Trance Music Is Divine T-Shirt : https://bit.ly/TranceMusicIsDivine \n👕 DJs Matter Skull T-Shirt : https://bit.ly/DJsMatter  \n👕 Hyper T-Shirt : http://bit.ly/hyperTshirt\n📱 Vinyl Head Iphone Case : http://bit.ly/VinylHeads  \n👕 Retro Houser",
+                    "title": "4 Voice - Join Us On Our Way To The Final Frontier"
+                },
+                {
+                    "_duration": "416",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=o_6KTLCCXkQ",
+                    "description": "Label:Fax +49-69/450464\nCatalog#:PK 08/079\nFormat:CD, Limited Edition\nCountry:Germany\nReleased:12 Jul 1993\nGenre:Electronic\nStyle:Trance, House, Ambient\nCredits:Written-By - Pete Namlook\nNotes:Limited to 500 copies.\nAll tracks written by Pete Namlook exce",
+                    "title": "Pete Namlook Present 4Voice - Move #2  (1993)"
+                },
+                {
+                    "_duration": "335",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=FSD4tqBaqSk",
+                    "description": "",
+                    "title": "4Voice - Music Hypnotizes (Hypnotizing Mix) (1992)"
+                },
+                {
+                    "_duration": "391",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=VJA6ucUcj6k",
+                    "description": "Great track by 4Voice (Pete Namlook) released on his 4Voice 3 EP on Fax +49-69/450464 in 1993!\n\nhttps://www.discogs.com/4-Voice-III/master/169473\nhttps://www.discogs.com/artist/14128-4Voice\nhttps://www.discogs.com/label/60-Fax-49-69450464\nhttps://www.di",
+                    "title": "4Voice - Eternal Spirit (Northern Mix)"
+                },
+                {
+                    "_duration": "411",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=qWF37Z7XIY4",
+                    "description": "4Voice - 4Voice\nTrack no.3: Catching The Scent Of Mystery\nYear: 1993\n\nhttp://www.discogs.com/4Voice-4Voice/master/146286\n\nSubscribe for more electronic music in HD.",
+                    "title": "4Voice - Catching The Scent Of Mystery"
+                }
+            ]
+        }
+    }
+}

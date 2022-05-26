@@ -1,0 +1,122 @@
+{
+    "release": {
+        "_id": "194447",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "5279",
+                "join": "",
+                "name": "Air (2)",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": {
+                "catno": "",
+                "entity_type": "26",
+                "entity_type_name": "Produced At",
+                "id": "294391",
+                "name": "Sonic Studios Frankfurt",
+                "resource_url": "https://api.discogs.com/labels/294391"
+            }
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "1910",
+                "join": "",
+                "name": "Pete Namlook",
+                "role": "Written-By",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "500",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                },
+                {
+                    "_height": "500",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK  08/53",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "129338"
+        },
+        "notes": "Run-outs :\r\nA - produced at sonic studios frankfurt for namlook productions\r\nB - the future sound of frankfurt\r\n\r\nLimited to 500 copies",
+        "released": "1993-03-22",
+        "styles": {
+            "style": "Ambient"
+        },
+        "title": "Air 4",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "8:27",
+                    "position": "A",
+                    "title": "Je Suis Triste Et Seule Ici"
+                },
+                {
+                    "duration": "12:02",
+                    "position": "B",
+                    "title": "Arc"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "489",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=mcQYom5LKZk",
+                    "description": "Album: The Definitive Ambient Collection 1",
+                    "title": "Pete Namlook-Air - Je Suis Triste Et Seule Ici"
+                },
+                {
+                    "_duration": "727",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Znx6_yjIgr0",
+                    "description": "Beautiful track by Air (Pete Namlook) released on his Air 4 EP on Fax +49-69/450464 in 1993!\n\nhttps://www.discogs.com/Air-Air-4/master/129338\nhttps://www.discogs.com/artist/5279-Air-2\nhttps://www.discogs.com/label/60-Fax-49-69450464\nhttps://www.discogs.",
+                    "title": "Air - Arc"
+                }
+            ]
+        }
+    }
+}

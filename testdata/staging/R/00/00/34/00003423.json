@@ -1,0 +1,778 @@
+{
+    "release": {
+        "_id": "3423",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "194",
+                "join": "",
+                "name": "Various",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "26064",
+                    "name": "N.E.W.S.",
+                    "resource_url": "https://api.discogs.com/labels/26064"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "26064",
+                    "name": "N.E.W.S.",
+                    "resource_url": "https://api.discogs.com/labels/26064"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "9",
+                    "entity_type_name": "Distributed By",
+                    "id": "33652",
+                    "name": "BMG Ariola",
+                    "resource_url": "https://api.discogs.com/labels/33652"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "9",
+                    "entity_type_name": "Distributed By",
+                    "id": "26064",
+                    "name": "N.E.W.S.",
+                    "resource_url": "https://api.discogs.com/labels/26064"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "31",
+                    "entity_type_name": "Glass Mastered At",
+                    "id": "298325",
+                    "name": "DOCdata Benelux",
+                    "resource_url": "https://api.discogs.com/labels/298325"
+                }
+            ]
+        },
+        "country": "Belgium",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "0",
+                    "join": "",
+                    "name": "Meulemans",
+                    "role": "Artwork By [Colors \u0026 Type]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "4297",
+                    "join": "",
+                    "name": "T-Quest",
+                    "role": "DJ Mix [Emballé]",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "Mixed"
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Barcode",
+                    "_value": "5 414165 004905"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "DOCdata NEWS541416500490"
+                },
+                {
+                    "_type": "Mould SID Code",
+                    "_value": "IFPI 3812"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "469",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "595",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "597",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "597",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "643",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "475",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "541416 500490",
+                "_id": "1900",
+                "_name": "541"
+            }
+        },
+        "notes": "Listed as I ♥ Techno\r\n\r\n℗ \u0026 © 2000 - news",
+        "released": "2000-10-09",
+        "styles": {
+            "style": "Techno"
+        },
+        "title": "I Love Techno 10",
+        "tracklist": {
+            "track": [
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "219",
+                            "join": "",
+                            "name": "Green Velvet",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "3:35",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "219",
+                            "join": "",
+                            "name": "Green Velvet",
+                            "role": "Written-By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "1",
+                    "title": "Answering Machine (Green Velvet 2000 Remix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1000",
+                            "join": "",
+                            "name": "Dave Clarke",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "1:58",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "D. Clarke",
+                            "id": "1000",
+                            "join": "",
+                            "name": "Dave Clarke",
+                            "role": "Written-By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "2",
+                    "title": "Compass"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "20",
+                            "join": "",
+                            "name": "Percy X",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:11",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "20",
+                            "join": "",
+                            "name": "Percy X",
+                            "role": "Written-By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "3",
+                    "title": "Break It Down (Percy X Remix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "16",
+                            "join": "",
+                            "name": "Christian Smith",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "2:04",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "16",
+                            "join": "",
+                            "name": "Christian Smith",
+                            "role": "Written-By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "4",
+                    "title": "Mojito (Original Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "3",
+                                "join": ",",
+                                "name": "Josh Wink",
+                                "role": "",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "789",
+                                "join": "",
+                                "name": "Lil' Louis",
+                                "role": "",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "duration": "7:06",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "M. Burns",
+                            "id": "576156",
+                            "join": "",
+                            "name": "Marvin Burns",
+                            "role": "Written-By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "5",
+                    "title": "How's Your Evening So Far"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1525",
+                            "join": "",
+                            "name": "Andrew McLauchlan",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:19",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "A. MacLauchlan",
+                            "id": "1525",
+                            "join": "",
+                            "name": "Andrew McLauchlan",
+                            "role": "Written-By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "6",
+                    "title": "Love Story"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "4293",
+                            "join": "",
+                            "name": "Jerome",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "3:06",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "J. Krom",
+                            "id": "9731",
+                            "join": "",
+                            "name": "Jeroen Krom",
+                            "role": "Written-By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "7",
+                    "title": "G-Wise"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "4294",
+                            "join": "",
+                            "name": "Cherry Bomb",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "1:28",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "R. Brown",
+                            "id": "11454",
+                            "join": "",
+                            "name": "Richard Brown",
+                            "role": "Written-By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "8",
+                    "title": "Bursting Out"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "2995",
+                            "join": "",
+                            "name": "R.S.P.",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:02",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "F. Lig",
+                                "id": "1087",
+                                "join": "",
+                                "name": "Fabrice Lig",
+                                "role": "Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "J. Vanesse",
+                                "id": "56286",
+                                "join": "",
+                                "name": "Jean Vanesse",
+                                "role": "Written-By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "9",
+                    "title": "Hypocrisy"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1328",
+                            "join": "",
+                            "name": "Sven Väth",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:15",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "J. Wuttke",
+                                "id": "20742",
+                                "join": "",
+                                "name": "Jörn Elling Wuttke",
+                                "role": "Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "R. Flügel",
+                                "id": "13111",
+                                "join": "",
+                                "name": "Roman Flügel",
+                                "role": "Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "S. Väth",
+                                "id": "1328",
+                                "join": "",
+                                "name": "Sven Väth",
+                                "role": "Written-By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "10",
+                    "title": "Strahlemann \u0026 Söhne"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "4",
+                            "join": "",
+                            "name": "Johannes Heil",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:55",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "J. Heil",
+                            "id": "4",
+                            "join": "",
+                            "name": "Johannes Heil",
+                            "role": "Written-By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "11",
+                    "title": "Golden Dawn"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "879",
+                            "join": "",
+                            "name": "Claude Young",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "3:12",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "C. Young",
+                            "id": "879",
+                            "join": "",
+                            "name": "Claude Young",
+                            "role": "Written-By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "12",
+                    "title": "Rise"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "4295",
+                            "join": "",
+                            "name": "Jochem Paap",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:36",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "J. Paap",
+                            "id": "4295",
+                            "join": "",
+                            "name": "Jochem Paap",
+                            "role": "Written-By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "13",
+                    "title": "Electric Deluxe"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "3661",
+                            "join": "",
+                            "name": "Co-Fusion",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:20",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "136387",
+                                "join": "",
+                                "name": "Heigo Tani",
+                                "role": "Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "631465",
+                                "join": "",
+                                "name": "Shuji Wada",
+                                "role": "Written-By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "14",
+                    "title": "Elm"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "4296",
+                            "join": "",
+                            "name": "John Thomas",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "3:44",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "1461",
+                                "join": "",
+                                "name": "Technasia",
+                                "role": "Remix, Producer [Additional]",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "4296",
+                                "join": "",
+                                "name": "John Thomas",
+                                "role": "Written-By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "15",
+                    "title": "Undisputed Life (Technasia Remix 2)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "2993",
+                            "join": "",
+                            "name": "Monika Kruse @ Voodooamt",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "1:43",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "7473",
+                                "join": "",
+                                "name": "Monika Kruse",
+                                "role": "Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "1319",
+                                "join": "",
+                                "name": "Patrick Lindsey",
+                                "role": "Written-By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "16",
+                    "title": "Wavez Cycle"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "K-Alexi Shelby",
+                            "id": "2184",
+                            "join": "",
+                            "name": "K-Alexi",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "1:42",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "1617",
+                                "join": "",
+                                "name": "Steve Rachmad",
+                                "role": "Remix",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "K-Alexi Shelby",
+                                "id": "2184",
+                                "join": "",
+                                "name": "K-Alexi",
+                                "role": "Written-By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "17",
+                    "title": "Club MCM (Steve Rachmad Remix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1606",
+                            "join": "",
+                            "name": "Scorp",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "2:09",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1617",
+                            "join": "",
+                            "name": "Steve Rachmad",
+                            "role": "Written-By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "18",
+                    "title": "Energetix"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "4287",
+                            "join": "",
+                            "name": "Clemens Neufeld",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:14",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "C. Neufeld",
+                            "id": "4287",
+                            "join": "",
+                            "name": "Clemens Neufeld",
+                            "role": "Written-By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "19",
+                    "title": "1001"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "750",
+                            "join": "",
+                            "name": "Laurent Garnier",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:44",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "1000",
+                                "join": "",
+                                "name": "Dave Clarke",
+                                "role": "Remix",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "L. Garnier",
+                                "id": "750",
+                                "join": "",
+                                "name": "Laurent Garnier",
+                                "role": "Written-By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "20",
+                    "title": "Greed (Dave Clarke Mix)"
+                }
+            ]
+        },
+        "videos": {
+            "video": {
+                "_duration": "4705",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=wodYa9ihIfE",
+                "description": "This mix CD has been uploaded to share the love of diverse forms of techno and beyond, along with some forgotten history dear to many followers of the genre. We support the brands, artists and labels, promoting classic mixes from yesteryear we enjoy and t",
+                "title": "DT:Recommends - I ♥ Techno 10 - T-Quest (2000) Mix CD"
+            }
+        }
+    }
+}

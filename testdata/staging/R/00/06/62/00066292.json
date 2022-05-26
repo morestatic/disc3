@@ -1,0 +1,267 @@
+{
+    "release": {
+        "_id": "66292",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "194",
+                "join": "",
+                "name": "Various",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "UK",
+        "data_quality": "Needs Vote",
+        "extraartists": "",
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Compilation",
+                        "Mixed"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": {
+                "_height": "443",
+                "_type": "primary",
+                "_uri": "",
+                "_uri150": "",
+                "_width": "450"
+            }
+        },
+        "labels": {
+            "label": {
+                "_catno": "CH - 014 CD",
+                "_id": "3654",
+                "_name": "Choice Productions"
+            }
+        },
+        "released": "2000",
+        "styles": {
+            "style": "Deep House"
+        },
+        "title": "Chill House Vol. 2",
+        "tracklist": {
+            "track": [
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "82",
+                            "join": "",
+                            "name": "Crazy Penis",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "8:26",
+                    "position": "1",
+                    "title": "Get It On"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "2042",
+                            "join": "",
+                            "name": "House Of 909",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:01",
+                    "position": "2",
+                    "title": "Shakedown PT1."
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "49290",
+                            "join": "",
+                            "name": "The Love Allstars",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "7:08",
+                    "position": "3",
+                    "title": "Ok, Alright"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "137",
+                            "join": "",
+                            "name": "Dino \u0026 Terry",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "3:49",
+                    "position": "4",
+                    "title": "Show Me"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "13812",
+                            "join": "",
+                            "name": "MSD",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "7:03",
+                    "position": "5",
+                    "title": "Satisfy"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "698",
+                            "join": "",
+                            "name": "Chris Brann",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "3:40",
+                    "position": "6",
+                    "title": "No Room For Form PT2."
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "22354",
+                            "join": "",
+                            "name": "Manhattan Project",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:36",
+                    "position": "7",
+                    "title": "Life's Like Good Music"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "55",
+                            "join": "",
+                            "name": "DJ Rasoul",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:52",
+                    "position": "8",
+                    "title": "When You Hold Me (Rasoul Ride)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "3181",
+                            "join": "",
+                            "name": "Kevin Yost \u0026 Peter Funk",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:51",
+                    "position": "9",
+                    "title": "Dreams Of You"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "8048",
+                            "join": "",
+                            "name": "Frankman",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "3:28",
+                    "position": "10",
+                    "title": "Unterzucker (B1 Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "675",
+                            "join": "",
+                            "name": "Vincenzo",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "3:34",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1029",
+                            "join": "",
+                            "name": "I:Cube",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "11",
+                    "title": "Peace Is Not The Word To Play (I:cubes Vocopops Muzak Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "19645",
+                            "join": "",
+                            "name": "Glance",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:55",
+                    "position": "12",
+                    "title": "Time"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "60",
+                            "join": "",
+                            "name": "Pete Moss",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:31",
+                    "position": "13",
+                    "title": "Late Night Up North"
+                }
+            ]
+        }
+    }
+}

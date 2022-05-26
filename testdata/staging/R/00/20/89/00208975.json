@@ -1,0 +1,144 @@
+{
+    "release": {
+        "_id": "208975",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "60",
+                "join": "",
+                "name": "Pete Moss",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "UK",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "99355",
+                "join": "",
+                "name": "Erica Stone",
+                "role": "Vocals",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "12\""
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "ALO 052",
+                "_id": "93",
+                "_name": "Alola"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "144155"
+        },
+        "released": "2003-00-00",
+        "styles": {
+            "style": [
+                "Progressive House",
+                "Tech House"
+            ]
+        },
+        "title": "Strive To Live",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A",
+                    "title": "Strive To Live (Original Mix)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "125161",
+                            "join": "",
+                            "name": "The Idiots",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "B1",
+                    "title": "Strive To Live (The Idiots Mix)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "2046",
+                            "join": "",
+                            "name": "16B",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "B2",
+                    "title": "Strive To Live (16B Mix)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "418",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=KGMGKI2BQ3I",
+                    "description": "",
+                    "title": "Pete Moss - Strive To Live (orginal mix)"
+                },
+                {
+                    "_duration": "440",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=K7ZDUnYgD3I",
+                    "description": "Low bitrate (128kbps)\n\nPete Moss ‎– Strive To Live // Alola ‎– ALO 052\nI do not own any rights of the material i upload,so if you are a producer or a label that u would like this video to be removed please let me know and i will do it immediately",
+                    "title": "Strive To Live (The Idiots Mix) - Pete moss"
+                },
+                {
+                    "_duration": "415",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=DEN5e7Z_q78",
+                    "description": "Follow Me Here: http://www.facebook.com/pages/TechHouseBoyz/178788462142164?v=wall",
+                    "title": "Pete Moss - Strive To Live (16b Mix)"
+                }
+            ]
+        }
+    }
+}

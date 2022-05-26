@@ -1,0 +1,156 @@
+{
+    "release": {
+        "_id": "180393",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "21219",
+                "join": "",
+                "name": "Gideon \u0026 Rob H",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "UK",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "21201",
+                    "join": "",
+                    "name": "Gideon Jackson",
+                    "role": "Producer, Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "508716",
+                    "join": "",
+                    "name": "Rob Hallums",
+                    "role": "Producer, Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "12\""
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_type": "Barcode",
+                "_value": "5025425406324"
+            }
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "425",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "432"
+                },
+                {
+                    "_height": "593",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "589",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "LOAD 063",
+                "_id": "40",
+                "_name": "Loaded Records"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "423511"
+        },
+        "released": "2000",
+        "styles": {
+            "style": [
+                "House",
+                "Tech House"
+            ]
+        },
+        "title": "Don't Hold Back",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A1",
+                    "title": "Don't Hold Back"
+                },
+                {
+                    "duration": "",
+                    "position": "A2",
+                    "title": "Don't Hold Back (Acapella)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "447",
+                            "join": "",
+                            "name": "DJ Q",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "B",
+                    "title": "Don't Hold Back (DJ Q Remix)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "619",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=oNCtIgkE2hY",
+                    "description": "",
+                    "title": "Gideon \u0026 Rob H -- Don't Hold Back"
+                },
+                {
+                    "_duration": "701",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=uId3AXdRia0",
+                    "description": "",
+                    "title": "Gideon \u0026 Rob H - Don't Hold Back"
+                },
+                {
+                    "_duration": "523",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=MIiTGlqapuU",
+                    "description": "",
+                    "title": "Gideon \u0026 Rob H - Our House (Don't Hold Back) - DJ Q Remix"
+                }
+            ]
+        }
+    }
+}

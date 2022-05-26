@@ -1,0 +1,358 @@
+{
+    "release": {
+        "_id": "167942",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "194",
+                "join": "",
+                "name": "Various",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "US",
+        "data_quality": "Needs Vote",
+        "extraartists": "",
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Compilation",
+                        "Mixed"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": {
+                "_height": "600",
+                "_type": "primary",
+                "_uri": "",
+                "_uri150": "",
+                "_width": "600"
+            }
+        },
+        "labels": {
+            "label": [
+                {
+                    "_catno": "ASW 12513-2",
+                    "_id": "188",
+                    "_name": "Astralwerks"
+                },
+                {
+                    "_catno": "NMCD011",
+                    "_id": "10",
+                    "_name": "Naked Music Recordings"
+                }
+            ]
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "37190"
+        },
+        "released": "2002",
+        "styles": {
+            "style": [
+                "House",
+                "Future Jazz",
+                "Downtempo"
+            ]
+        },
+        "title": "Naked Music Presents Carte Blanche 3",
+        "tracklist": {
+            "track": [
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "302",
+                            "join": "",
+                            "name": "Blu Mar Ten",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "1",
+                    "title": "Trauma"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "3381",
+                            "join": "",
+                            "name": "Fenomenon",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "2",
+                    "title": "Romero Avenue"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "92403",
+                            "join": "",
+                            "name": "Bum Bum",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "3",
+                    "title": "Light"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "16416",
+                            "join": "",
+                            "name": "Stateless",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "4",
+                    "title": "Fall Into You"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "36185",
+                            "join": "",
+                            "name": "Onda",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "5",
+                    "title": "Deeper Love"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "3000",
+                            "join": "",
+                            "name": "Projections",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "6",
+                    "title": "Backbone"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "4083",
+                            "join": "",
+                            "name": "P'Taah",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "7",
+                    "title": "Hold You Close"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "8123",
+                            "join": "",
+                            "name": "Central Living",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1476",
+                            "join": "",
+                            "name": "Metro Area",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "8",
+                    "title": "Inside (Metro Area Remix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "3337",
+                            "join": "",
+                            "name": "Andy Caldwell",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "9",
+                    "title": "Lectropic"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "3315",
+                            "join": "",
+                            "name": "Streetlife Originals",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "10",
+                    "title": "Don't Leave Me Behind"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "58771",
+                            "join": "",
+                            "name": "Kimra",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "11",
+                    "title": "Essential Things"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "Gaelle",
+                            "id": "64616",
+                            "join": "",
+                            "name": "Gaelle Adisson",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "12",
+                    "title": "Falling"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "40",
+                            "join": "",
+                            "name": "Dave Warrin",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "13",
+                    "title": "Man/Child"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "639",
+                            "join": "",
+                            "name": "Weekender",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "14",
+                    "title": "Thinking About You"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1404",
+                            "join": "",
+                            "name": "Quant",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "15",
+                    "title": "Stimulus"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "249",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=L-KTWDuRc2A",
+                    "description": "Nice chilled naked music track from the album Carte Blanche 3.",
+                    "title": "Andy Caldwell - Lectropic"
+                },
+                {
+                    "_duration": "5041",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=w65LnJKu5cQ",
+                    "description": "perfect chill deephouse mix album\n\nNO copyright infringement intended\n\nLike it? BUY it!\nhttp://www.discogs.com/Various-Naked-Music-Presents-Carte-Blanche-3/master/37190",
+                    "title": "Naked Music presents Carte Blanche vol 3"
+                },
+                {
+                    "_duration": "374",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=R8k4CI0Wcb4",
+                    "description": "From the 2002 compilation CD, Naked Music Presents...Carte Blanche 3, track 12. This song can also be found on Gaelle's 2004 CD, Transient........Enjoy!",
+                    "title": "Gaelle - Falling"
+                },
+                {
+                    "_duration": "4367",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=sXjEpDuIvts",
+                    "description": "Naked Music Presents Carte Blanche 3 (2002) Full Album",
+                    "title": "Naked Music Presents Carte Blanche 3 (2002) - Downtempo/ Chill Out/ Future Jazz/ Deep House"
+                },
+                {
+                    "_duration": "4360",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=qEIttP3L3GU",
+                    "description": "Video created by SunShine.",
+                    "title": "Naked Music - Carte Blanche ((3))"
+                },
+                {
+                    "_duration": "399",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=eh9Ci8j7Bk0",
+                    "description": "ONDA - Deeper Love from the album Carte Blanche, Vol. 3 (Naked Music)",
+                    "title": "ONDA - Deeper Love"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,733 @@
+{
+    "release": {
+        "_id": "13819",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "194",
+                "join": "",
+                "name": "Various",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "Germany",
+        "data_quality": "Needs Vote",
+        "extraartists": "",
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "4",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Compilation",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "466",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "466",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "466",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "466",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PKPWPS 3",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "43086"
+        },
+        "notes": "Limitation: 1000\n\nA mixed selection of the finest, most soothing ambient releases on the Fax record label at the time. Features tracks from not only Pete Namlook, but other major influences such as Tetsu Inoue, Jonah Sharp, etc.\n\nThe booklet has a cookbook feeling to it, and has many delicious recipes to cook to while listening to the music (but only as a suggestion).",
+        "released": "1995-03-20",
+        "styles": {
+            "style": [
+                "IDM",
+                "Ambient"
+            ]
+        },
+        "title": "The Ambient Cookbook",
+        "tracklist": {
+            "track": [
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "47682",
+                            "join": "",
+                            "name": "Sad World",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "10:10",
+                    "position": "1-1",
+                    "title": "Terasury"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "4771613",
+                            "join": "",
+                            "name": "Ambiant Otaku",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "15:36",
+                    "position": "1-2",
+                    "title": "Holy Dance"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "3886866",
+                            "join": "",
+                            "name": "Music To Films",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "13:08",
+                    "position": "1-3",
+                    "title": "Music For Films (Movement 5)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "292739",
+                            "join": "",
+                            "name": "From Within",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "12:26",
+                    "position": "1-4",
+                    "title": "Sad Alliance"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "2909",
+                            "join": "",
+                            "name": "Silence",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:54",
+                    "position": "1-5",
+                    "title": "Heaven (Aw-Cut)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "293000",
+                            "join": "",
+                            "name": "I.F.",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "14:09",
+                    "position": "1-6",
+                    "title": "Kisy Loa"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "14128",
+                            "join": "",
+                            "name": "4Voice",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "2:24",
+                    "position": "1-7",
+                    "title": "4Vl Outro"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "293005",
+                            "join": "",
+                            "name": "Zenith (6)",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "11:34",
+                    "position": "2-1",
+                    "title": "Electro Dreams"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "5279",
+                            "join": "",
+                            "name": "Air (2)",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "8:23",
+                    "position": "2-2",
+                    "title": "Travelling Without Moving (Trip #9)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "38287",
+                            "join": "",
+                            "name": "Transonic",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "7:11",
+                    "position": "2-3",
+                    "title": "Time Span Zero"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "15315",
+                            "join": "",
+                            "name": "The Putney",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "12:38",
+                    "position": "2-4",
+                    "title": "Angel Circle"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "69011",
+                            "join": "",
+                            "name": "Shades Of Orion",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "24:10",
+                    "position": "2-5",
+                    "title": "Biotrip"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "22",
+                            "join": "",
+                            "name": "Datacide",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:23",
+                    "position": "2-6",
+                    "title": "Data Haiku"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "126598",
+                            "join": "",
+                            "name": "Electro Harmonix",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "11:11",
+                    "position": "3-1",
+                    "title": "Floating Sync"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "Namlook",
+                            "id": "1910",
+                            "join": "",
+                            "name": "Pete Namlook",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "8:26",
+                    "position": "3-2",
+                    "title": "The Gate To The Milky Way (Excerpt From Namlook IX)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "13231",
+                            "join": "",
+                            "name": "David Reeves",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:48",
+                    "position": "3-3",
+                    "title": "Astralbohrer"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "13232",
+                            "join": "",
+                            "name": "Chris Meloche",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "10:00",
+                    "position": "3-4",
+                    "title": "Loop 6 (Excerpt)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "293201",
+                            "join": "",
+                            "name": "The Whole Traffic",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "16:47",
+                    "position": "3-5",
+                    "title": "Talk"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "3796",
+                            "join": "",
+                            "name": "Daniel Pemberton",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:34",
+                    "position": "3-6",
+                    "title": "Antarctica"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "293292",
+                            "join": "",
+                            "name": "Aerial Service Area",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "15:03",
+                    "position": "3-7",
+                    "title": "Another Green Airport"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1910",
+                            "join": "",
+                            "name": "Pete Namlook",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "7:27",
+                    "position": "4-1",
+                    "title": "Music For Ballet (Excerpt)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "38287",
+                            "join": "",
+                            "name": "Transonic",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:50",
+                    "position": "4-2",
+                    "title": "Whirlpool (Slow Spiral Of Clouds) Excerpt"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "152",
+                            "join": "",
+                            "name": "David Moufang",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "15:58",
+                    "position": "4-3",
+                    "title": "In / Out"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "32557",
+                            "join": "",
+                            "name": "XJacks",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "10:59",
+                    "position": "4-4",
+                    "title": "Celophane"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "264576",
+                            "join": "",
+                            "name": "Wechselspannung",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:40",
+                    "position": "4-5",
+                    "title": "Wechselspannung (Excerpt)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1948773",
+                            "join": "",
+                            "name": "Organic Cloud",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "12:56",
+                    "position": "4-6",
+                    "title": "Chill In Chill Out"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "Namlook",
+                            "id": "1910",
+                            "join": "",
+                            "name": "Pete Namlook",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "11:24",
+                    "position": "4-7",
+                    "title": "Subharmonic Interference (Excerpt From Namlook VII)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "4337",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=-vfotwH9iqI",
+                    "description": "The Ambient Cookbook [CD3] (4×CD Compilation, 1995)\n\n1. Electro Harmonix (Tetsu Inoue/Jonah Sharp) - Floating Sync (00:00)\n2. Namlook (Pete Namlook) - The Gate to the Milky Way (11:01)\n3. Otras 2 (David Reeves) - Astralbohrer (19:30)\n4. Recurring Dreams",
+                    "title": "The Ambient Cookbook [CD3] [full album]"
+                },
+                {
+                    "_duration": "4417",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=02PGf1NnnBA",
+                    "description": "The Ambient Cookbook [CD1] (4×CD Compilation, 1995)\n\n1. Sad World (Dr. Atmo/Ramin) - Terasury (00:00)\n2. Ambiant Otaku (Tetsu Inoue) - Holy Dance (10:10)\n3. Music for Films (Dr. Atmo/Oliver Lieb) - Movement 5 (25:16)\n4. From Within (Pete Namlook/Richie H",
+                    "title": "The Ambient Cookbook [CD1] [full album]"
+                },
+                {
+                    "_duration": "4067",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=4HoPR7nu_N0",
+                    "description": "The Ambient Cookbook [CD4] (4×CD Compilation, 1995)\n\n1. Music for Ballet (Pete Namlook) - excerpt (00:00)\n2. Transonic 2 (Robert Musso) - Whirlpool (Slow Spiral of Clouds)-excerpt (07:30)\n3. Solitaire (David Moufang) - In/Out (13:46)\n4. Xjacks (Dandy Jac",
+                    "title": "The Ambient Cookbook [CD4] [full album]"
+                },
+                {
+                    "_duration": "4157",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=buLZK6avqUo",
+                    "description": "The Ambient Cookbook [CD2] (4×CD Compilation, 1995)\n\n1. Zenith (Tetsu Inoue/Carlos Vivanco) - Electro Dreams (00:00)\n2. Air (Pete Namlook) - Trip #9 (10:46)\n3. Transonic (Robert Musso) - Time Span Zero (19:10)\n4. The Putney (Pete Namlook/Ludwig Rehberg)",
+                    "title": "The Ambient Cookbook [CD2] [full album]"
+                }
+            ]
+        }
+    }
+}

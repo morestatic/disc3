@@ -1,0 +1,223 @@
+{
+    "release": {
+        "_id": "36781",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "97",
+                "join": "",
+                "name": "Super_Collider",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "40",
+                    "name": "Loaded Records",
+                    "resource_url": "https://api.discogs.com/labels/40"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "40",
+                    "name": "Loaded Records",
+                    "resource_url": "https://api.discogs.com/labels/40"
+                }
+            ]
+        },
+        "country": "UK",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "344",
+                    "join": "",
+                    "name": "Cristian Vogel",
+                    "role": "Written-By, Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "345",
+                    "join": "",
+                    "name": "Jamie Lidell",
+                    "role": "Written-By, Producer",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Single",
+                        "Stereo"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_type": "Barcode",
+                "_value": "5025425405129"
+            }
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "605",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "298",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "300"
+                },
+                {
+                    "_height": "294",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "296",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "Load51CD",
+                "_id": "40",
+                "_name": "Loaded Records"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "false",
+            "content": "43894"
+        },
+        "notes": "Cardboard Packaging with cardboard inner sleeve",
+        "released": "1999-06-28",
+        "styles": {
+            "style": [
+                "Leftfield",
+                "Abstract",
+                "House"
+            ]
+        },
+        "title": "It Won't Be Long / Take Me Home",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "1",
+                    "title": "It Won't Be Long (Edit)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "7211",
+                            "join": "",
+                            "name": "Midfield General",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "2",
+                    "title": "It Won't Be Long (Midfield General Mix)"
+                },
+                {
+                    "duration": "",
+                    "position": "3",
+                    "title": "Take Me Home (Original)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "487",
+                            "join": "",
+                            "name": "Buckfunk 3000",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "4",
+                    "title": "Take Me Home (Buckfunk 3000 Mix)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "248",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=hUgtLCdQyf4",
+                    "description": "",
+                    "title": "Super Collider - It Won't Be Long"
+                },
+                {
+                    "_duration": "410",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Mh9xkyEfSGc",
+                    "description": "It Won't Be Long/Take Me Home 12\r\nLoaded Records\r\n1999.",
+                    "title": "Super_Collider - Take Me Home (Buckfunk 3000 Mix)"
+                },
+                {
+                    "_duration": "368",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=F9PJjFz9nuE",
+                    "description": "(C) Loaded\r\n\r\nhttp://www.youtube.com/user/7e51en",
+                    "title": "Super Collider - It Won't Be Long |Midfield General Remix| (Head On)"
+                },
+                {
+                    "_duration": "405",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=izLkKA_Hotk",
+                    "description": "",
+                    "title": "It Won't Be Long (Neil Landstrumm Remix)"
+                },
+                {
+                    "_duration": "257",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=X-aKKYYkb4w",
+                    "description": "",
+                    "title": "Super Collider - It Won't Be Long (High res/ Official video)"
+                },
+                {
+                    "_duration": "365",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=lNbM1_5y4hc",
+                    "description": "(C) Loaded",
+                    "title": "Super Collider - Take Me Home (Head On)"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,732 @@
+{
+    "release": {
+        "_id": "5353",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "4296",
+                "join": "",
+                "name": "John Thomas",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "398",
+                    "name": "Logistic Records",
+                    "resource_url": "https://api.discogs.com/labels/398"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "398",
+                    "name": "Logistic Records",
+                    "resource_url": "https://api.discogs.com/labels/398"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "17",
+                    "entity_type_name": "Pressed By",
+                    "id": "68697",
+                    "name": "Disctronics",
+                    "resource_url": "https://api.discogs.com/labels/68697"
+                }
+            ]
+        },
+        "country": "France",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "4296",
+                "join": "",
+                "name": "John Thomas",
+                "role": "DJ Mix",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "Digipak",
+                "descriptions": {
+                    "description": [
+                        "Compilation",
+                        "Mixed"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Barcode",
+                    "_value": "3 539932 301161"
+                },
+                {
+                    "_type": "Rights Society",
+                    "_value": "SACEM / SDRM"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "DISCTRONICS LOG 17 01"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "IFPI L502"
+                },
+                {
+                    "_type": "Mould SID Code",
+                    "_value": "IFPI HJ06"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "532",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "540"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": [
+                {
+                    "_catno": "LOG017CD",
+                    "_id": "398",
+                    "_name": "Logistic Records"
+                },
+                {
+                    "_catno": "log 017",
+                    "_id": "398",
+                    "_name": "Logistic Records"
+                }
+            ]
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "249221"
+        },
+        "notes": "1: title misspelled as \"Unstopp-Blesoul\"\n2 \u0026 20: artist given as \"Steve Bicknell\" (real name)\n\nCat number is log 017 on the CD and LOG 017 CD according to the Logistic Records website.",
+        "released": "2001-01-15",
+        "styles": {
+            "style": "Techno"
+        },
+        "title": "Caught In The Act",
+        "tracklist": {
+            "track": [
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "Andrew Mc Lauchlan",
+                            "id": "1525",
+                            "join": "",
+                            "name": "Andrew McLauchlan",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "1:17",
+                    "position": "1",
+                    "title": "Unstoppable Soul"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "14929",
+                            "join": "",
+                            "name": "S.B. Project",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "1:13",
+                    "position": "2",
+                    "title": "Unconscious Behaviour"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "4605",
+                            "join": "",
+                            "name": "Earth People",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "2:53",
+                    "position": "3",
+                    "title": "Dance"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "459",
+                            "join": "",
+                            "name": "Mark Broom",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "2:54",
+                    "position": "4",
+                    "title": "Upside Down"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "205",
+                            "join": "",
+                            "name": "Jeff Mills",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "2:59",
+                    "position": "5",
+                    "title": "Solid Sleep"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1479",
+                            "join": "",
+                            "name": "Rue East",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "1:36",
+                    "position": "6",
+                    "title": "After Hours"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "5746",
+                            "join": "",
+                            "name": "Missing Channel",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "1:39",
+                    "position": "7",
+                    "title": "Legion Of Hunger"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "4296",
+                            "join": "",
+                            "name": "John Thomas",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "2:42",
+                    "position": "8",
+                    "title": "My Destiny"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1174",
+                            "join": "",
+                            "name": "Sterac",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "3:25",
+                    "position": "9",
+                    "title": "Liteon"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "20",
+                            "join": "",
+                            "name": "Percy X",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "1:54",
+                    "position": "10",
+                    "title": "Track 2"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "3947",
+                            "join": "",
+                            "name": "Ben Sims",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "0:48",
+                    "position": "11",
+                    "title": "B Side Loop"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1479",
+                            "join": "",
+                            "name": "Rue East",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "3:05",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "3947",
+                            "join": "",
+                            "name": "Ben Sims",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "12",
+                    "title": "Summer Of Blood (Ben Sims Final Filter Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "6329",
+                            "join": "",
+                            "name": "Static Drum",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "2:20",
+                    "position": "13",
+                    "title": "External"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "6330",
+                            "join": "",
+                            "name": "Alkahest",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "2:45",
+                    "position": "14",
+                    "title": "Elemental"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "6331",
+                            "join": "",
+                            "name": "Kaotic Spacial Rhythms",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "1:52",
+                    "position": "15",
+                    "title": "Barrage 1"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1112",
+                            "join": "",
+                            "name": "Steve Bicknell",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "2:39",
+                    "position": "16",
+                    "title": "Lost Recordings #3 (B1)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "3042",
+                            "join": "",
+                            "name": "Jay Denham",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "0:49",
+                    "position": "17",
+                    "title": "Black Man Impakt (B2)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "879",
+                            "join": "",
+                            "name": "Claude Young",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "3:24",
+                    "position": "18",
+                    "title": "Ancelyn"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "710109",
+                            "join": "",
+                            "name": "Umek",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "3:14",
+                    "position": "19",
+                    "title": "Mamomit"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "14929",
+                            "join": "",
+                            "name": "S.B. Project",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "1:15",
+                    "position": "20",
+                    "title": "Cultural Co-Operation (B2)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "2155",
+                            "join": "",
+                            "name": "The Cause",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "2:27",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "3947",
+                            "join": "",
+                            "name": "Ben Sims",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "21",
+                    "title": "Solar Time (Ben Sims Hardgroove Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1136",
+                            "join": "",
+                            "name": "Robert Hood",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "2:30",
+                    "position": "22",
+                    "title": "Moveable Parts Chapter 1 Untitled 2"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "6332",
+                            "join": "",
+                            "name": "Olga+Jozef",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "2:44",
+                    "position": "23",
+                    "title": "Olga+Jozef #07 B1"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "2156",
+                            "join": "",
+                            "name": "Ben Long",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "1:23",
+                    "position": "24",
+                    "title": "The Imperial Leather EP (A4)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "4296",
+                            "join": "",
+                            "name": "John Thomas",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "2:53",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1461",
+                            "join": "",
+                            "name": "Technasia",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "25",
+                    "title": "Undisputed Life (Technasia Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1119",
+                            "join": "",
+                            "name": "Diskordia",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "2:30",
+                    "position": "26",
+                    "title": "So Big So Close"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "4968",
+                            "join": "",
+                            "name": "Oliver Kapp",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "2:17",
+                    "position": "27",
+                    "title": "Bella Figura"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1190",
+                            "join": "",
+                            "name": "Grain",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "2:29",
+                    "position": "28",
+                    "title": "Fat Cat 016 (B1)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "Andrew Mc Lauchlan",
+                            "id": "1525",
+                            "join": "",
+                            "name": "Andrew McLauchlan",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "3:13",
+                    "position": "29",
+                    "title": "Love Story"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "6333",
+                            "join": "",
+                            "name": "Morgan Reno",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "1:16",
+                    "position": "30",
+                    "title": "Gone Fission"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1790",
+                            "join": "",
+                            "name": "Rino Cerrone",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "2:16",
+                    "position": "31",
+                    "title": "Untitled (Rillis 01 3rd Loop Side A)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "6329",
+                            "join": "",
+                            "name": "Static Drum",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "2:04",
+                    "position": "32",
+                    "title": "The Form"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1479",
+                            "join": "",
+                            "name": "Rue East",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "0:42",
+                    "position": "33",
+                    "title": "Diskoid"
+                }
+            ]
+        },
+        "videos": {
+            "video": {
+                "_duration": "4424",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=Nuo0jCEjgY0",
+                "description": "This mix CD has been uploaded to share the love of diverse forms of techno and beyond, along with some forgotten history dear to many followers of the genre. We support the brands, artists and labels, promoting classic mixes from yesteryear we enjoy and t",
+                "title": "DT:Recommends | John Thomas - Caught In The Act (2001) Mix CD"
+            }
+        }
+    }
+}

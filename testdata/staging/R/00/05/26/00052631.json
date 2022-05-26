@@ -1,0 +1,198 @@
+{
+    "release": {
+        "_id": "52631",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "13231",
+                "join": "",
+                "name": "David Reeves",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": {
+                "catno": "",
+                "entity_type": "16",
+                "entity_type_name": "Made By",
+                "id": "267946",
+                "name": "CD Plant AB",
+                "resource_url": "https://api.discogs.com/labels/267946"
+            }
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "13231",
+                "join": "",
+                "name": "David Reeves",
+                "role": "Written-By [All Tracks Written By]",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Limited Edition",
+                        "Album"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "CD PLANT AB  PS 08/74  CDM01"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "597",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "462",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "603",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "595",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "605",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PS 08/74",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Limitation: 1000\n\nAll tracks improvised live to DAT under sterile conditions at OTRASlab, Guelph, Canada, Jan.-Feb., 1995\n\n\"Heaven, and how to get there\" by Pastor Reese - Oct. 13, 1991\n\"Sounds of the Junkyard\" by Michael Siegel (Smithsonian Folkways)\nMercury transmissions courtesy NASA\n\nLove \u0026 thanks: Discreet, Wendy Morgan, Karl Virtanen, Steve Brenner, Michael Lautenschlaeger.",
+        "released": "1995-07-03",
+        "styles": {
+            "style": [
+                "Abstract",
+                "Techno",
+                "Ambient"
+            ]
+        },
+        "title": "In Starless Space",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "2:11",
+                    "position": "1",
+                    "title": "Message Fragment"
+                },
+                {
+                    "duration": "10:38",
+                    "position": "2",
+                    "title": "Luminous Flightpath"
+                },
+                {
+                    "duration": "7:03",
+                    "position": "3",
+                    "title": "The Termite Oracle"
+                },
+                {
+                    "duration": "7:45",
+                    "position": "4",
+                    "title": "NGC 1961"
+                },
+                {
+                    "duration": "5:44",
+                    "position": "5",
+                    "title": "Free-Cyanatic"
+                },
+                {
+                    "duration": "7:24",
+                    "position": "6",
+                    "title": "Aurora 7"
+                },
+                {
+                    "duration": "8:45",
+                    "position": "7",
+                    "title": "Catalytic"
+                },
+                {
+                    "duration": "10:13",
+                    "position": "8",
+                    "title": "Starless, Endless"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "3589",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Bi6kha67dz8",
+                    "description": "Artist: David Reeves\nAlbum: In Starless Space\nLabel: Fax +49-69/450464\nYear: 1995\n\nTracklist:\n1. Message Fragment [0:00] **\n2. Luminous Flightpath [2:11]\n3. The Termite Oracle [12:50] **\n4. NGC 1961 [19:54]\n5. Free-cynatic [27:40] **\n6. Aurora 7 [33:25] *",
+                    "title": "David Reeves - In Starless Space (Full Album) [1995]"
+                },
+                {
+                    "_duration": "639",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=XieYvFKgKrE",
+                    "description": "Ambient techno from In Starless Space, 1995.",
+                    "title": "David Reeves - Luminous Flightpath"
+                },
+                {
+                    "_duration": "471",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=jnermmQ-YEY",
+                    "description": "terribly underrated album and artist,\r\nfrom In Starless Space, \r\nFax +49-69/450464 ‎– PS 08/74, released 1995.",
+                    "title": "David Reeves - NGC 1961"
+                }
+            ]
+        }
+    }
+}

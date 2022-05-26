@@ -1,0 +1,147 @@
+{
+    "release": {
+        "_id": "234914",
+        "_status": "Accepted",
+        "artists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "137105",
+                    "join": "Feat.",
+                    "name": "JJ Flores \u0026 Steve Smooth",
+                    "role": "",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "9680",
+                    "join": "",
+                    "name": "Alex Peace",
+                    "role": "",
+                    "tracks": ""
+                }
+            ]
+        },
+        "companies": "",
+        "country": "US",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "3021",
+                    "join": "",
+                    "name": "JJ Flores",
+                    "role": "Mixed By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "137105",
+                    "join": "",
+                    "name": "JJ Flores \u0026 Steve Smooth",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "9680",
+                    "join": "",
+                    "name": "Alex Peace",
+                    "role": "Vocals",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "0",
+                    "join": "",
+                    "name": "S. Stanula, J. Flores \u0026 A. Martinez",
+                    "role": "Written By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "12\""
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "179",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "MDR9666-1",
+                "_id": "20",
+                "_name": "Moody Recordings"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "227649"
+        },
+        "released": "2003",
+        "styles": {
+            "style": [
+                "House",
+                "Tribal House",
+                "Tech House"
+            ]
+        },
+        "title": "Discoteca",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A",
+                    "title": "Discoteca"
+                },
+                {
+                    "duration": "",
+                    "position": "B",
+                    "title": "Discoteca (Remix)"
+                }
+            ]
+        },
+        "videos": {
+            "video": {
+                "_duration": "410",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=vtvLRM5nsjY",
+                "description": "Steve Smooth \u0026 JJ Flores Discoteca",
+                "title": "Steve Smooth \u0026 JJ Flores Discoteca"
+            }
+        }
+    }
+}

@@ -1,0 +1,209 @@
+{
+    "release": {
+        "_id": "58038",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "15606",
+                "join": "",
+                "name": "Superchumbo",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "5005",
+                    "name": "Twisted America Records",
+                    "resource_url": "https://api.discogs.com/labels/5005"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "40",
+                    "name": "Loaded Records",
+                    "resource_url": "https://api.discogs.com/labels/40"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "9",
+                    "entity_type_name": "Distributed By",
+                    "id": "149122",
+                    "name": "3mv",
+                    "resource_url": "https://api.discogs.com/labels/149122"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "9",
+                    "entity_type_name": "Distributed By",
+                    "id": "264522",
+                    "name": "Pinnacle (3)",
+                    "resource_url": "https://api.discogs.com/labels/264522"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "349531",
+                    "name": "Cage Music",
+                    "resource_url": "https://api.discogs.com/labels/349531"
+                }
+            ]
+        },
+        "country": "UK",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "69319",
+                    "join": "",
+                    "name": "Pete Gleadall",
+                    "role": "Engineer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "102062",
+                    "join": "",
+                    "name": "Rob Di Stefano",
+                    "role": "Executive-Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "48766",
+                    "join": "",
+                    "name": "Sylvia Mason-James",
+                    "role": "Vocals [Featuring]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "8462",
+                    "join": "",
+                    "name": "Tom Stephan",
+                    "role": "Written-By, Producer",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "12\""
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_type": "Barcode",
+                "_value": "5 025425 409226"
+            }
+        },
+        "images": {
+            "image": {
+                "_height": "130",
+                "_type": "primary",
+                "_uri": "",
+                "_uri150": "",
+                "_width": "130"
+            }
+        },
+        "labels": {
+            "label": {
+                "_catno": "LOAD 092",
+                "_id": "40",
+                "_name": "Loaded Records"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "false",
+            "content": "136596"
+        },
+        "released": "2002-09-30",
+        "styles": {
+            "style": "House"
+        },
+        "title": "Irresistible!",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A",
+                    "title": "Irresistible! (Mouth-Watering Mix)"
+                },
+                {
+                    "duration": "",
+                    "position": "B",
+                    "title": "Irresistible! (Delicious Dub)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "193",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=wravpk1GOeo",
+                    "description": "RS: What about your videos? I work in a video club and I remember when I got the video for Irresistible, I was like oh my God, how did they do this thing? Did you envision translating that song from audio to visual, and did you make the video yourself?\r\nT",
+                    "title": "Superchumbo Irresistible (feat. Sylvia Mason James)"
+                },
+                {
+                    "_duration": "211",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=WyK88uVn4mo",
+                    "description": "Provided to YouTube by The Orchard Enterprises\n\nIrresistible · Superchumbo · Sylvia Mason-James\n\nWowie Zowie\n\n℗ 2005 TWISTED Records, Inc.\n\nReleased on: 2007-02-26\n\nAuto-generated by YouTube.",
+                    "title": "Irresistible"
+                },
+                {
+                    "_duration": "689",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=JJAYOgtXifw",
+                    "description": "bomb",
+                    "title": "Superchumbo, Tom Stephan - Irresistible!  Maurel \u0026 Fauvrelle More Mix"
+                },
+                {
+                    "_duration": "577",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=pSLneHBl_CY",
+                    "description": "Irresistible.  Mouth Watering Mix.  Superchumbo.\nTwisted America Records.\n2002.\n\nSuperchumbo = Tom Stephan.",
+                    "title": "Irresistible (Mouth Watering Mix) - Superchumbo"
+                },
+                {
+                    "_duration": "478",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Pd-ETYNzebM",
+                    "description": "Irresistible.  Adam Freemer's Aquatic Dub.  Superchumbo.\nTwisted America Records.\n2002.",
+                    "title": "Irresistible (Adam Freemer's Aquatic Dub) - Superchumbo"
+                },
+                {
+                    "_duration": "335",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=hsio8TBWyZ4",
+                    "description": "Provided to YouTube by The Orchard Enterprises\n\nIrresistible · Superchumbo\n\nTwist This Pussy 2003\n\n℗ 2003 TWISTED Records, Inc.\n\nReleased on: 2007-03-08\n\nAuto-generated by YouTube.",
+                    "title": "Irresistible"
+                },
+                {
+                    "_duration": "301",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=-AWb1VYQpYE",
+                    "description": "Side A \nLabel - Loaded Records ‎– LOAD 092 X 2002\nHouse\nOld School Never Died\n#Machines #Technics #Quartz #SL1210MK2\n#superchumbo #frankmaurel #carlosfauvrelle #loadedrecords\n#márciomorales #smallroomrecords409 \n#house #techouse #techno\n🇵🇹🎶",
+                    "title": "Superchumbo - Irresistible (Frank Maurel \u0026 Carlos Fauvrelle More Mix)"
+                }
+            ]
+        }
+    }
+}

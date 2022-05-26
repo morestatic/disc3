@@ -1,0 +1,120 @@
+{
+    "release": {
+        "_id": "136650",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "5511",
+                "join": "",
+                "name": "Slacker",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "UK",
+        "data_quality": "Needs Vote",
+        "extraartists": "",
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM",
+                        "Promo"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Runout A Side Etched",
+                    "_type": "Matrix / Runout",
+                    "_value": "THE EXCHANGE  MANDY  OMM  LOAD 37A  o"
+                },
+                {
+                    "_description": "Runout B Side Etched",
+                    "_type": "Matrix / Runout",
+                    "_value": "LOAD 37AA"
+                }
+            ]
+        },
+        "images": {
+            "image": {
+                "_height": "320",
+                "_type": "primary",
+                "_uri": "",
+                "_uri150": "",
+                "_width": "316"
+            }
+        },
+        "labels": {
+            "label": {
+                "_catno": "LOAD 37DJ",
+                "_id": "40",
+                "_name": "Loaded Records"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "false",
+            "content": "77188"
+        },
+        "released": "1996-07-15",
+        "styles": {
+            "style": "Progressive House"
+        },
+        "title": "Flying",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A",
+                    "title": "Flying"
+                },
+                {
+                    "duration": "",
+                    "position": "AA1",
+                    "title": "For Yourself"
+                },
+                {
+                    "duration": "",
+                    "position": "AA2",
+                    "title": "Flying High"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "508",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=S-Zp8_cPrOs",
+                    "description": "Label:Loaded Records\r\nCatalog#:LOAD 037\r\nFormat:Vinyl, 12\r\nCountry:UK\r\nReleased:1997\r\nGenre:Electronic\r\nStyle:Progressive House\r\nNotes:\r\nRating:   4.6/5",
+                    "title": "Slacker - Flying"
+                },
+                {
+                    "_duration": "455",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=XRZMMyA4XOw",
+                    "description": "",
+                    "title": "B1 - Slacker - For Yourself"
+                },
+                {
+                    "_duration": "434",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=no4lIJXJPXA",
+                    "description": "https://www.discogs.com/Slacker-Flying/release/172939",
+                    "title": "Slacker - Flying High [1996]"
+                }
+            ]
+        }
+    }
+}

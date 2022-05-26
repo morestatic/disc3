@@ -1,0 +1,260 @@
+{
+    "release": {
+        "_id": "123343",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "13462",
+                "join": "",
+                "name": "Spyra",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "29",
+                    "entity_type_name": "Mastered At",
+                    "id": "296048",
+                    "name": "Horus Sound Studio",
+                    "resource_url": "https://api.discogs.com/labels/296048"
+                },
+                {
+                    "catno": "59328",
+                    "entity_type": "17",
+                    "entity_type_name": "Pressed By",
+                    "id": "277449",
+                    "name": "P+O Pallas",
+                    "resource_url": "https://api.discogs.com/labels/277449"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "2379615",
+                    "join": "",
+                    "name": "Sebastian \"HAL9000\" Fries",
+                    "role": "Graphics",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "2118078",
+                    "join": "",
+                    "name": "PEK (3)",
+                    "role": "Layout",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "519835",
+                    "join": "",
+                    "name": "Modo Bierkamp",
+                    "role": "Mastered By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "Wolfram Der Spyra",
+                    "id": "13462",
+                    "join": "",
+                    "name": "Spyra",
+                    "role": "Producer, Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "157496",
+                    "join": "",
+                    "name": "Christiane Winning",
+                    "role": "Vocals [Processed]",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Limited Edition",
+                        "Album"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Text",
+                    "_type": "Barcode",
+                    "_value": "8 07297 02672 6"
+                },
+                {
+                    "_description": "Scanned, UPC A",
+                    "_type": "Barcode",
+                    "_value": "807297026726"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "PS 08/98 P+O-59328-A1 01-03"
+                },
+                {
+                    "_type": "Mastering SID Code",
+                    "_value": "IFPI L961"
+                },
+                {
+                    "_type": "Mould SID Code",
+                    "_value": "IFPI 3J02"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "593",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "468",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "593",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PS 08/98",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Limitation: 2000\n\nThis recording is dedicated to all Invisible Entities\n\nMastered at Horus Sound Studio Hannover\nRecorded in Köln - Ehrenfeld\n\nThis is part three in a CD-series about radio waves and other interesting phenomena that we're unable to see...\n\nIssued in standard jewel case. Barcode appears on insert.",
+        "released": "2003-01-19",
+        "styles": {
+            "style": [
+                "Electro",
+                "Future Jazz",
+                "Ambient"
+            ]
+        },
+        "title": "Invisible Fields",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "4:20",
+                    "position": "1",
+                    "title": "Test Transmission"
+                },
+                {
+                    "duration": "8:54",
+                    "position": "2",
+                    "title": "Entropy Is Just..."
+                },
+                {
+                    "duration": "9:27",
+                    "position": "3",
+                    "title": "...A Seven Letter Word"
+                },
+                {
+                    "duration": "2:44",
+                    "position": "4",
+                    "title": "Three Players In An Artificial Landscape"
+                },
+                {
+                    "duration": "10:54",
+                    "position": "5",
+                    "title": "XyloCity Part I"
+                },
+                {
+                    "duration": "9:50",
+                    "position": "6",
+                    "title": "XyloCity Part II"
+                },
+                {
+                    "duration": "23:51",
+                    "position": "7",
+                    "title": "Bath"
+                },
+                {
+                    "duration": "3:54",
+                    "position": "8",
+                    "title": "Temporarily Not Available"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "256",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=-trWSHRKpgE",
+                    "description": "Wolfram Spyra  es un compositor aleman de música ambiental . Test transmission, pertenece al album  Invisible fields. http://www.derspyra.de/frameset/spyra_set1.htm.",
+                    "title": "SPYRA _Test transmission"
+                },
+                {
+                    "_duration": "165",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=7t3bb_9rnpU",
+                    "description": "Video:        Galaxy Note 3\nLocation:   Moulin de Belesbat,   Botigny sur Essonne , France\nAudio:  Autor :  Wolfram Der Spyra \n             Album:  Invisible Fields 2003\nMr. Wolfram Spyra (born 12 December 1964) is a  German electronic music , musician, c",
+                    "title": "Wolfram Der Spyra- Three players in an artificial landscape"
+                },
+                {
+                    "_duration": "657",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=wiFZJN4KTZM",
+                    "description": "http://www.discogs.com/Spyra-Invisible-Fields/release/123343",
+                    "title": "Spyra - Xylocity Part I"
+                }
+            ]
+        }
+    }
+}

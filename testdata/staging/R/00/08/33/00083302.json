@@ -1,0 +1,214 @@
+{
+    "release": {
+        "_id": "83302",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "25453",
+                "join": "",
+                "name": "Psychonavigation",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "17",
+                    "entity_type_name": "Pressed By",
+                    "id": "291931",
+                    "name": "CD Plant MFG",
+                    "resource_url": "https://api.discogs.com/labels/291931"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "277133",
+                    "name": "Greenpoint Studios",
+                    "resource_url": "https://api.discogs.com/labels/277133"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "2749220",
+                    "join": "",
+                    "name": "SFX Lab, Inc.",
+                    "role": "Graphics",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "661",
+                    "join": "",
+                    "name": "Bill Laswell",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "CD PLANT MFG PW 13 CDM01"
+                },
+                {
+                    "_type": "Mastering SID Code",
+                    "_value": "none"
+                },
+                {
+                    "_type": "Mould SID Code",
+                    "_value": "none"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "595",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "465",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "245",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "497"
+                },
+                {
+                    "_height": "593",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "611",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "280",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PW 13",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "16624"
+        },
+        "notes": "Limited edition of 1000, not specified in the release.\n\nRecorded at Greenpoint, Brooklyn.\n\nPSYCHONAVIGATION\nNEW YORK 1994\n\nSpecial thanks to:\n\nElisabeth / Fabia / Kathrin \nLudwig Rehberg of EMS\n\nRobert Musso\nLayng Martime\nTracy McKnight of Material, Inc.\n\nIssued in a standard jewel case with a black tray and a 4-page booklet.",
+        "released": "1994-04-25",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Downtempo",
+                "Dub",
+                "Experimental"
+            ]
+        },
+        "title": "Psychonavigation",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "38:46",
+                    "position": "1",
+                    "title": "Psychic And UFO Revelations In The Last Days"
+                },
+                {
+                    "duration": "10:17",
+                    "position": "2",
+                    "title": "Angel Tech"
+                },
+                {
+                    "duration": "21:22",
+                    "position": "3",
+                    "title": "Black Dawn"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "2326",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=ol0LMKb-Oyc",
+                    "description": "",
+                    "title": "Bill Laswell And Pete Namlook - Psychic and UFO Revelations in the Last Days (Psychonavigation)"
+                },
+                {
+                    "_duration": "618",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Fpj4JsaaFMY",
+                    "description": "Angel Tech\r\nPsychonavigation\r\nPete Namlook \u0026 Bill Laswell \r\n1994",
+                    "title": "Pete Namlook \u0026 Bill Laswell - Angel Tech"
+                },
+                {
+                    "_duration": "1270",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Ougu4fZEHAI",
+                    "description": "http://www.discogs.com/Psychonavigation-Psychonavigation/release/83302\n\r\n\r-uploaded in HD at http://www.TunesToTube.com",
+                    "title": "Psychonavigation - Black Dawn (Ambient 1994)"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,313 @@
+{
+    "release": {
+        "_id": "133607",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "Julius Papp - Dave Warrin",
+                "id": "265",
+                "join": "",
+                "name": "Julius Papp \u0026 Dave Warrin",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "829863",
+                    "name": "Multivitamin Productions",
+                    "resource_url": "https://api.discogs.com/labels/829863"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "248",
+                    "name": "Yellow Productions",
+                    "resource_url": "https://api.discogs.com/labels/248"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "37",
+                    "entity_type_name": "Produced For",
+                    "id": "829863",
+                    "name": "Multivitamin Productions",
+                    "resource_url": "https://api.discogs.com/labels/829863"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "356122",
+                    "name": "Oskris Toons",
+                    "resource_url": "https://api.discogs.com/labels/356122"
+                }
+            ]
+        },
+        "country": "France",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "425805",
+                    "join": "",
+                    "name": "Alain Ho",
+                    "role": "A\u0026R",
+                    "tracks": ""
+                },
+                {
+                    "anv": "Chris «Da French Kiss»",
+                    "id": "23059",
+                    "join": "",
+                    "name": "Chris The French Kiss",
+                    "role": "A\u0026R",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "687179",
+                    "join": "",
+                    "name": "John Warrin",
+                    "role": "Guitar",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "40",
+                    "join": "",
+                    "name": "Dave Warrin",
+                    "role": "Keyboards",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "40",
+                    "join": "",
+                    "name": "Dave Warrin",
+                    "role": "Producer, Arranged By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "5615",
+                    "join": "",
+                    "name": "Julius Papp",
+                    "role": "Producer, Arranged By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1834285",
+                    "join": "",
+                    "name": "Restez Vivants !",
+                    "role": "Sleeve",
+                    "tracks": ""
+                },
+                {
+                    "anv": "D. Warrin",
+                    "id": "40",
+                    "join": "",
+                    "name": "Dave Warrin",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "J. Warrin",
+                    "id": "687179",
+                    "join": "",
+                    "name": "John Warrin",
+                    "role": "Written-By",
+                    "tracks": "A1"
+                },
+                {
+                    "anv": "J. Papp",
+                    "id": "5615",
+                    "join": "",
+                    "name": "Julius Papp",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "EP",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Side A runout groove, machine stamped, P etched",
+                    "_type": "Matrix / Runout",
+                    "_value": "DFI-98 4 YB̶ P 042 A"
+                },
+                {
+                    "_description": "Side A runout groove, etched",
+                    "_type": "Matrix / Runout",
+                    "_value": "YP042/A GOP-TR-"
+                },
+                {
+                    "_description": "Side A runout groove, etched",
+                    "_type": "Matrix / Runout",
+                    "_value": "GOP-TR- YP042/B"
+                },
+                {
+                    "_description": "Side A runout groove, machine stamped, P etched",
+                    "_type": "Matrix / Runout",
+                    "_value": "DFI-98 4 YB̶ P 042 B"
+                },
+                {
+                    "_type": "Rights Society",
+                    "_value": "ASCAP"
+                },
+                {
+                    "_description": "On labels",
+                    "_type": "Rights Society",
+                    "_value": "SACEM SDRM SACD SGDL"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "296",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "300"
+                },
+                {
+                    "_height": "299",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "300"
+                }
+            ]
+        },
+        "labels": {
+            "label": [
+                {
+                    "_catno": "YP 042",
+                    "_id": "248",
+                    "_name": "Yellow Productions"
+                },
+                {
+                    "_catno": "YP042",
+                    "_id": "248",
+                    "_name": "Yellow Productions"
+                }
+            ]
+        },
+        "notes": "Flûte: The man\n\n℗ 1998 Multivitamin Productions\n© 1998 Yellow Productions\n\nThe machine stamped part YB 042, of both runout grooves, has the \"B\" hand deleted and replaced by a etched \"P\", thus resulting in the cat# YP 042.",
+        "released": "1998",
+        "styles": {
+            "style": [
+                "Deep House",
+                "House"
+            ]
+        },
+        "title": "Odyssey EP",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A1",
+                    "title": "First Light (Excursion Mix)"
+                },
+                {
+                    "duration": "",
+                    "position": "A2",
+                    "title": "First Light (Excursion Dub)"
+                },
+                {
+                    "duration": "",
+                    "position": "B1",
+                    "title": "Deep Shadow"
+                },
+                {
+                    "duration": "",
+                    "position": "B2",
+                    "title": "Sun Return"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "284",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=g1eHFQh8RuQ",
+                    "description": "",
+                    "title": "Julius Papp ft. Dave Warrin - Deep Shadow"
+                },
+                {
+                    "_duration": "476",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Y_LV10VvAEQ",
+                    "description": "",
+                    "title": "Julius Papp \u0026 Dave Warrin: First Light (Excursion Mix)"
+                },
+                {
+                    "_duration": "312",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=tjkmni4ouaw",
+                    "description": "",
+                    "title": "Sun Return"
+                },
+                {
+                    "_duration": "252",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=HObP8rNfYLQ",
+                    "description": "",
+                    "title": "Sun Return"
+                },
+                {
+                    "_duration": "312",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=ryV2WTFeFLY",
+                    "description": "",
+                    "title": "Deep Shadow"
+                },
+                {
+                    "_duration": "441",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=2bB5Cd0t2KY",
+                    "description": "",
+                    "title": "First Light"
+                }
+            ]
+        }
+    }
+}

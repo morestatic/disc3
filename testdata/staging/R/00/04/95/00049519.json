@@ -1,0 +1,158 @@
+{
+    "release": {
+        "_id": "49519",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "293021",
+                "join": "",
+                "name": "62 Eulengasse",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": {
+                "catno": "",
+                "entity_type": "10",
+                "entity_type_name": "Manufactured By",
+                "id": "291931",
+                "name": "CD Plant MFG",
+                "resource_url": "https://api.discogs.com/labels/291931"
+            }
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "25",
+                    "join": "",
+                    "name": "Tetsu Inoue",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "CD PLANT MFG PW 21 CDM01"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "590",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "595",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "298",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "469",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PW 21",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "245865"
+        },
+        "notes": "62 EULENGASSE\nFRANKFURT 1995\n\nMade in Germany\n\nLimitation: 1,000",
+        "released": "1995-05-15",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Experimental"
+            ]
+        },
+        "title": "62 Eulengasse",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "51:48",
+                    "position": "1",
+                    "title": "Time - Cage"
+                },
+                {
+                    "duration": "22:00",
+                    "position": "2",
+                    "title": "xxxx"
+                }
+            ]
+        },
+        "videos": {
+            "video": {
+                "_duration": "4429",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=9X-VelV9QF4",
+                "description": "1. Time - Cage 00:00\n2. xxxx 51:47\n\nArtist: Pete Namlook \u0026 Tetsu Inoue\nAlbum: 62 Eulengasse\nYear: 1995\nLabel: Fax +49-69/450464\n\nPlease support the artist. If you like it, buy it.",
+                "title": "Pete Namlook \u0026 Tetsu Inoue - 62 Eulengasse (Full Album)"
+            }
+        }
+    }
+}

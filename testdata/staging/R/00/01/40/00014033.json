@@ -1,0 +1,218 @@
+{
+    "release": {
+        "_id": "14033",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "97",
+                "join": "",
+                "name": "Super_Collider",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": {
+                "catno": "",
+                "entity_type": "30",
+                "entity_type_name": "Lacquer Cut At",
+                "id": "158759",
+                "name": "The Exchange",
+                "resource_url": "https://api.discogs.com/labels/158759"
+            }
+        },
+        "country": "UK",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "Guy's",
+                    "id": "369860",
+                    "join": "",
+                    "name": "Guy Davie",
+                    "role": "Lacquer Cut By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "3338",
+                    "join": "",
+                    "name": "Derrick Carter",
+                    "role": "Remix",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM",
+                        "Single Sided",
+                        "Etched",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_description": "Side A runout",
+                "_type": "Matrix / Runout",
+                "_value": "SUPER 4 A-01-1-I GUY'S THE EXCHANGE"
+            }
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "596",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "607",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "455",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "SUPER 4",
+                "_id": "40",
+                "_name": "Loaded Records"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "false",
+            "content": "43887"
+        },
+        "notes": "B-Side is etched with the same image featured on the label and the sleeve sticker.",
+        "released": "1998",
+        "styles": {
+            "style": "Deep House"
+        },
+        "title": "Darn (Cold Way O' Lovin') (Derrick Carter Mix)",
+        "tracklist": {
+            "track": {
+                "duration": "",
+                "position": "A",
+                "title": "Darn (Cold Way O' Lovin') (Derrick Carter Mix)"
+            }
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "357",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=dh2kauFcGpw",
+                    "description": "Head on 1999",
+                    "title": "Super Collider - Darn (Cold Way O'Lovin)"
+                },
+                {
+                    "_duration": "590",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=NOSkgtoREs8",
+                    "description": "Not much left to say about this gem. Classic classic classic!\nSuper Collider - Darn (Cold Way O' Lovin') Derrick Carter Mix 1998 Loaded Records.",
+                    "title": "Super Collider - Darn (Cold Way O' Lovin') Derrick Carter Mix [1998]"
+                },
+                {
+                    "_duration": "230",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=eCDiTXumEXE",
+                    "description": "",
+                    "title": "Super Collider - Darn (Cold Way O'Lovin) - Official video"
+                },
+                {
+                    "_duration": "461",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=vpee4NzCMzg",
+                    "description": "",
+                    "title": "Super Collider   Darn  Cold Way O' Lovin'"
+                },
+                {
+                    "_duration": "459",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=IltNooDRwuc",
+                    "description": "Provided to YouTube by Believe SAS\n\nDarn (Cold Way O' Lovin) (Harvey's Collision Course) · Super Collider\n\nDarn\n\n℗ 1998 Loaded Records Limited, a BMG Company\n\nReleased on: 1998-04-11\n\nAuthor: Christian Vogel\nAuthor: Jamie Lidell\nComposer: Christian Vog",
+                    "title": "Darn (Cold Way O' Lovin) (Harvey's Collision Course)"
+                },
+                {
+                    "_duration": "464",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=jeDa8xzQ9wg",
+                    "description": "Loaded Legends\n\nAvailable now in all stores.\n\nBeatport: btprt.dj/1c6so72\niTunes: bit.ly/1lCncS9",
+                    "title": "Super Collider - Darn (Cold Way O' Lovin) - Harvey's Southern Impact"
+                },
+                {
+                    "_duration": "393",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=ib3_4xFcbAg",
+                    "description": ".",
+                    "title": "Super Collider.Darn Cold Way Of Lovin.Harveys Sudden Impact Dub.."
+                },
+                {
+                    "_duration": "274",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=-1_YaZpa2Tg",
+                    "description": "Provided to YouTube by Believe SAS\n\nDarn (Cold Way O' Lovin) (Jamie Lidell Remix) · Super Collider\n\nArchives\n\n℗ 2011 Loaded Records Limited, a BMG Company\n\nReleased on: 2011-06-06\n\nAuthor: Christian Vogel\nAuthor: Jamie Lidell\nComposer: Christian Vogel",
+                    "title": "Darn (Cold Way O' Lovin) (Jamie Lidell Remix)"
+                },
+                {
+                    "_duration": "356",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=0eCoZbqhBfw",
+                    "description": "Provided to YouTube by Loaded Records\n\nDarn (Cold Way O' Lovin) · Super Collider\n\nDarn (Cold Way O'Lovin)\n\n℗ 1998 Loaded Records Limited, a BMG Company\n\nPerformance: Cristian Vogel\nPerformance: Jamie Lidderdale\n\nAuto-generated by YouTube.",
+                    "title": "Darn (Cold Way O' Lovin)"
+                },
+                {
+                    "_duration": "459",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=moYz_N3a-EM",
+                    "description": "Provided to YouTube by Loaded Records\n\nDarn (Cold Way O' Lovin) (Harvey's Collision Course) · Super Collider\n\nDarn (Cold Way O'Lovin)\n\n℗ 1998 Loaded Records Limited, a BMG Company\n\nPerformance: Cristian Vogel\nPerformance: Jamie Lidderdale\n\nAuto-generat",
+                    "title": "Darn (Cold Way O' Lovin) (Harvey's Collision Course)"
+                },
+                {
+                    "_duration": "272",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=qWDJPPTMdy8",
+                    "description": "Provided to YouTube by Loaded Records\n\nDarn (Cold Way Of Lovin') (Dawn Of Lidell) · Super Collider\n\nDarn (Cold Way O'Lovin)\n\n℗ 1998 Loaded Records Limited, a BMG Company\n\nPerformance: Cristian Vogel\nPerformance: Jamie Lidderdale\n\nAuto-generated by YouT",
+                    "title": "Darn (Cold Way Of Lovin') (Dawn Of Lidell)"
+                },
+                {
+                    "_duration": "356",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=jtHi1g-oFG8",
+                    "description": "Provided to YouTube by Loaded records\n\nDarn (Cold Way O' Lovin) (Harvey's Sudden Impact Mix) · Super Collider\n\nArchives\n\n℗ 1998 Loaded Records Limited, a BMG Company\n\nPerformance: Cristian Vogel\nPerformance: Jamie Lidderdale\n\nAuto-generated by YouTube.",
+                    "title": "Darn (Cold Way O' Lovin) (Harvey's Sudden Impact Mix)"
+                }
+            ]
+        }
+    }
+}

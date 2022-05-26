@@ -1,0 +1,215 @@
+{
+    "release": {
+        "_id": "87721",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "14125",
+                "join": "",
+                "name": "Sextant",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "29",
+                    "entity_type_name": "Mastered At",
+                    "id": "265113",
+                    "name": "SST Brüggemann GmbH",
+                    "resource_url": "https://api.discogs.com/labels/265113"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "30",
+                    "entity_type_name": "Lacquer Cut At",
+                    "id": "265113",
+                    "name": "SST Brüggemann GmbH",
+                    "resource_url": "https://api.discogs.com/labels/265113"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "1584729",
+                    "join": "",
+                    "name": "SST (8)",
+                    "role": "Mastered By, Lacquer Cut By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "DJ Hubee",
+                    "id": "213509",
+                    "join": "",
+                    "name": "Hubertus Held",
+                    "role": "Written-By",
+                    "tracks": "A1 to B1"
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "This Side",
+                    "_type": "Matrix / Runout",
+                    "_value": "PK 08/34 A 2   SST  = PRODUCED AT SONIC STUDIOS FRANKFURT FOR NAMELOOK PRODUCTIONS ="
+                },
+                {
+                    "_description": "That Side",
+                    "_type": "Matrix / Runout",
+                    "_value": "PK 08/34 B   SPECIAL THANKS TO BOBBY SATTLER FOR SAXOPHONE SOLO ON B2"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/34",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "146295"
+        },
+        "notes": "Limitation: 500",
+        "released": "1993-01-18",
+        "styles": {
+            "style": [
+                "House",
+                "Ambient"
+            ]
+        },
+        "title": "Sextant 2",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "",
+                    "title": "This Side"
+                },
+                {
+                    "duration": "5:57",
+                    "position": "A1",
+                    "title": "It's Gonna Be Alright"
+                },
+                {
+                    "duration": "5:10",
+                    "position": "A2",
+                    "title": "It's Gonna Be"
+                },
+                {
+                    "duration": "",
+                    "position": "",
+                    "title": "That Side"
+                },
+                {
+                    "duration": "6:53",
+                    "position": "B1",
+                    "title": "Missing You"
+                },
+                {
+                    "duration": "5:02",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "451660",
+                            "join": "",
+                            "name": "Bobby Sattler",
+                            "role": "Saxophone",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "B2",
+                    "title": "Lakeshore Drive"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "355",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=sWeHXIcfOiY",
+                    "description": "Old School Techno",
+                    "title": "Sextant - It's Gonna Be Alright"
+                },
+                {
+                    "_duration": "312",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=rwR6MxImnTI",
+                    "description": "Sextant - Sextant 2\nProduction:Hubertus Held, Peter Kuhlmann\nLabel:Fax +49-69/450464\nCatalog#:PK 08/34\nFormat:Vinyl, 12\nCountry:Germany\nReleased:18 Jan 1993\nGenre:Electronic\nStyle:House, Ambient\nNotice: All rights belong to the artists. I upload these tr",
+                    "title": "Sextant - It's Gonna Be (1993)"
+                },
+                {
+                    "_duration": "409",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Ch9q2BCdIyQ",
+                    "description": "http://www.discogs.com/Sextant-Sextant-2/release/87721\n\r\n\r-uploaded in HD at http://www.TunesToTube.com",
+                    "title": "Sextant - Missing You (Ambient 1993)"
+                },
+                {
+                    "_duration": "303",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=m2d7yeSIF6k",
+                    "description": "http://www.discogs.com/Sextant-Sextant-2/release/87721\n\r\n\r-uploaded in HD at http://www.TunesToTube.com",
+                    "title": "Sextant - Lakeshore Drive (Ambient 1993)"
+                }
+            ]
+        }
+    }
+}

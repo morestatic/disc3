@@ -1,0 +1,233 @@
+{
+    "release": {
+        "_id": "16611",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "15315",
+                "join": "",
+                "name": "The Putney",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": {
+                "catno": "",
+                "entity_type": "10",
+                "entity_type_name": "Manufactured By",
+                "id": "291931",
+                "name": "CD Plant MFG",
+                "resource_url": "https://api.discogs.com/labels/291931"
+            }
+        },
+        "country": "Germany",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "14837",
+                    "join": "",
+                    "name": "Ludwig Rehberg",
+                    "role": "Written-By",
+                    "tracks": "1 to 5"
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "CD PLANT MFG PK 08/98 CDM01"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC6269"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "500",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                },
+                {
+                    "_height": "387",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                },
+                {
+                    "_height": "599",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "596",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "500",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/98",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Limited to 1000 copies.\r\n\r\nInstruments used on this album:\r\n\r\nEMS Synthi AKS\r\nEMS Synthi 100\r\nEMS Ringmodulator\r\nEMS Vocoder 3000\r\nEMS Logik\r\nEMS Vocoder 5000\r\nOberheim 4Voice",
+        "released": "1995-03-06",
+        "styles": {
+            "style": [
+                "Abstract",
+                "Dark Ambient",
+                "Techno"
+            ]
+        },
+        "title": "The Putney II",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "12:18",
+                    "position": "1",
+                    "title": "Earl Of Burlington"
+                },
+                {
+                    "duration": "12:05",
+                    "position": "2",
+                    "title": "Tower To A Wall"
+                },
+                {
+                    "duration": "7:25",
+                    "position": "3",
+                    "title": "Clockwork"
+                },
+                {
+                    "duration": "9:49",
+                    "position": "4",
+                    "title": "Blue Depression"
+                },
+                {
+                    "duration": "17:59",
+                    "position": "5",
+                    "title": "Appendix"
+                },
+                {
+                    "duration": "2:02",
+                    "position": "6",
+                    "title": "Finis"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "7713",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=b0HvnYrjoGU",
+                    "description": "1 Angel Circle 12:38\n2 Putney Dust 10:08\n3 Aeols Harp 23:24\n4 Pegasus \u0026 Andromeda 12:30\n5 Amourette 8:00\n6 Earl Of Burlington 12:18\n7 Tower To A Wall 12:05\n8 Clockwork 7:25\n9 Blue Depression 9:49\n10 Appendix 17:59\n11 Finis 2:02\n\nLabel: Fax +49-69/450464",
+                    "title": "The Putney - The Putney 1+2 1993 \u0026 95"
+                },
+                {
+                    "_duration": "739",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=P6HFJIfyvXg",
+                    "description": "Track 1 - Earl Of Burlington\nArtists : Pete Namlook \u0026 Ludwig Rehberg\nAlbum : The Putney II\n1995 FAX +49-69/450464",
+                    "title": "Pete Namlook \u0026 Ludwig Rehberg - Earl Of Burlington (The Putney II)"
+                },
+                {
+                    "_duration": "726",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=TIZuQ3VG410",
+                    "description": "Track 2 - Tower To A Wall\nArtists : Pete Namlook \u0026 Ludwig Rehberg\nAlbum : The Putney II\n1995 FAX +49-69/450464",
+                    "title": "Pete Namlook \u0026 Ludwig Rehberg - Tower To A Wall (The Putney II)"
+                },
+                {
+                    "_duration": "445",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=RJTLfgSu2qw",
+                    "description": "Track 3 - Clockwork\nArtists : Pete Namlook \u0026 Ludwig Rehberg\nAlbum : The Putney II\n1995 FAX +49-69/450464",
+                    "title": "Pete Namlook \u0026 Ludwig Rehberg - Clockwork (The Putney II)"
+                },
+                {
+                    "_duration": "589",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=hcEk6331R0s",
+                    "description": "Track 4 - Blue Depression\nArtists : Pete Namlook \u0026 Ludwig Rehberg\nAlbum : The Putney II\n1995 FAX +49-69/450464",
+                    "title": "Pete Namlook \u0026 Ludwig Rehberg - Blue Depression (The Putney II)"
+                },
+                {
+                    "_duration": "545",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=iyMavpvqAyQ",
+                    "description": "The Putney VHS tape - Track #1\n___\nThis video was created by using an EMS Videosizer which is fed with musical information in order to produce and treat color, shape, lightness and contrast of the visual information. Pete Namlook is a purist. He never wan",
+                    "title": "The Putney - Appendix (Part I)"
+                },
+                {
+                    "_duration": "540",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=3d4z26K5CKM",
+                    "description": "The Putney VHS tape - Track #2\n___\nThis video was created by using an EMS Videosizer which is fed with musical information in order to produce and treat color, shape, lightness and contrast of the visual information. Pete Namlook is a purist. He never wan",
+                    "title": "The Putney - Appendix (Part II)"
+                },
+                {
+                    "_duration": "122",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=ACYIYzvXEzc",
+                    "description": "Track 6 - Finis\nArtists : Pete Namlook \u0026 Ludwig Rehberg\nAlbum : The Putney II\n1995 FAX +49-69/450464",
+                    "title": "Pete Namlook \u0026 Ludwig Rehberg - Finis (The Putney II)"
+                }
+            ]
+        }
+    }
+}

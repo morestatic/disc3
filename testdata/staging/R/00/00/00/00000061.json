@@ -1,0 +1,160 @@
+{
+    "release": {
+        "_id": "61",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "4771613",
+                "join": "",
+                "name": "Ambiant Otaku",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": {
+                "catno": "",
+                "entity_type": "10",
+                "entity_type_name": "Manufactured By",
+                "id": "291931",
+                "name": "CD Plant MFG",
+                "resource_url": "https://api.discogs.com/labels/291931"
+            }
+        },
+        "country": "Germany",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "25",
+                "join": "",
+                "name": "Tetsu Inoue",
+                "role": "Written-By [All Tracks]",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "CD PLANT MFG PS 08/43 CDM01"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "461",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "246",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "497"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "595",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PS 08/43",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "45022"
+        },
+        "notes": "Cycles of Vibrations\r\n\r\nAMBIANT OTAKU\r\nNEW YORK / TOKYO 1994\r\n\r\nSpecial thanks to:\r\n\r\nIngrid\r\nTakeshi\r\nDJ Denard\r\n\r\nLimitation: 1000 copies.",
+        "released": "1994-03-28",
+        "styles": {
+            "style": "Ambient"
+        },
+        "title": "Ambiant Otaku",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "17:04",
+                    "position": "1",
+                    "title": "Karmic Light"
+                },
+                {
+                    "duration": "11:11",
+                    "position": "2",
+                    "title": "Low Of Vibration"
+                },
+                {
+                    "duration": "10:49",
+                    "position": "3",
+                    "title": "Ambiant Otaku"
+                },
+                {
+                    "duration": "15:36",
+                    "position": "4",
+                    "title": "Holy Dance"
+                },
+                {
+                    "duration": "17:47",
+                    "position": "5",
+                    "title": "Magnetic Field"
+                }
+            ]
+        },
+        "videos": {
+            "video": {
+                "_duration": "4352",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=Hld-bcNg7nI",
+                "description": "This is one of the most famous ambient music albums of the 90's.\n\nIf you enjoy this album, get it in high quality on iTunes:\nhttps://geo.itunes.apple.com/us/album/ambiant-otaku/id83255367?mt=1\u0026app=music\u0026at=1000lwSw\n\nNotes:\nCycles of Vibrations \n\nAMBIANT O",
+                "title": "Tetsu Inoue - Ambiant Otaku (Full Album)"
+            }
+        }
+    }
+}

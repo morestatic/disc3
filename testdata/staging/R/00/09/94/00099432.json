@@ -1,0 +1,151 @@
+{
+    "release": {
+        "_id": "99432",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "26043",
+                "join": "",
+                "name": "Alien Community",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": {
+                "catno": "",
+                "entity_type": "10",
+                "entity_type_name": "Manufactured By",
+                "id": "291931",
+                "name": "CD Plant MFG",
+                "resource_url": "https://api.discogs.com/labels/291931"
+            }
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "33693",
+                    "join": "",
+                    "name": "Jonah Sharp",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_type": "Matrix / Runout",
+                "_value": "CD PLANT MFG PW 06 CDM01"
+            }
+        },
+        "images": {
+            "image": {
+                "_height": "600",
+                "_type": "primary",
+                "_uri": "",
+                "_uri150": "",
+                "_width": "600"
+            }
+        },
+        "labels": {
+            "label": {
+                "_catno": "PW 06",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Alien Community\r\nSAN FRANCISCO 1993\r\n\r\nSpecial thanks to:\r\n\r\nElisabeth\r\nFABiA\r\nLudwig Rehberg of EMS\r\n\r\nCharlie Edwards\r\nAnarchic\r\n\r\nBillee \u0026 Jasper\r\nKirsten\r\n\r\nLimitation: 500\r\n\r\nThe tracklisting only states one title, \"Interdimensional Communication\" , which is spread over 7 tracks.\r\n\r\nReissued as part of [r=107218].",
+        "released": "1993-09-22",
+        "styles": {
+            "style": [
+                "Abstract",
+                "Ambient",
+                "Techno"
+            ]
+        },
+        "title": "Alien Community",
+        "tracklist": {
+            "track": {
+                "duration": "65:30",
+                "position": "",
+                "sub_tracks": {
+                    "track": [
+                        {
+                            "duration": "10:00",
+                            "position": "1",
+                            "title": "Part 1"
+                        },
+                        {
+                            "duration": "10:00",
+                            "position": "2",
+                            "title": "Part 2"
+                        },
+                        {
+                            "duration": "10:00",
+                            "position": "3",
+                            "title": "Part 3"
+                        },
+                        {
+                            "duration": "10:00",
+                            "position": "4",
+                            "title": "Part 4"
+                        },
+                        {
+                            "duration": "10:00",
+                            "position": "5",
+                            "title": "Part 5"
+                        },
+                        {
+                            "duration": "10:00",
+                            "position": "6",
+                            "title": "Part 6"
+                        },
+                        {
+                            "duration": "5:47",
+                            "position": "7",
+                            "title": "Part 7"
+                        }
+                    ]
+                },
+                "title": "Interdimensional Communication"
+            }
+        },
+        "videos": {
+            "video": {
+                "_duration": "3948",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=JjtS__7UgWg",
+                "description": "Track 1 - Interdimensional Communication\nArtists : Pete Namlook \u0026 Jonah Sharp\nAlbum : Alien Community\n1993 FAX +49-69/450464",
+                "title": "Pete Namlook \u0026 Jonah Sharp - Interdimensional Communication (Alien Community)"
+            }
+        }
+    }
+}

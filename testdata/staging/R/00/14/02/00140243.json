@@ -1,0 +1,636 @@
+{
+    "release": {
+        "_id": "140243",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "4703",
+                "join": "",
+                "name": "Commander Tom",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": {
+                "catno": "",
+                "entity_type": "9",
+                "entity_type_name": "Distributed By",
+                "id": "11471",
+                "name": "Intergroove",
+                "resource_url": "https://api.discogs.com/labels/11471"
+            }
+        },
+        "country": "Germany",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "0",
+                    "join": "",
+                    "name": "U. C. Graphic",
+                    "role": "Artwork By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "4703",
+                    "join": "",
+                    "name": "Commander Tom",
+                    "role": "Compiled By, DJ Mix",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Compilation",
+                        "Mixed"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_type": "Barcode",
+                "_value": "4017866260109"
+            }
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "577",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "575"
+                },
+                {
+                    "_height": "492",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "581"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "NOOMCD010-2",
+                "_id": "3016",
+                "_name": "Noom Records"
+            }
+        },
+        "notes": "Recorded live in New York City, Summer '98.",
+        "released": "1998",
+        "styles": {
+            "style": "Techno"
+        },
+        "title": "In The Mix III",
+        "tracklist": {
+            "track": [
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "Holy Ghost",
+                            "id": "79911",
+                            "join": "",
+                            "name": "Holy Ghost Inc.",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "0:55",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "Holy Ghost",
+                            "id": "79911",
+                            "join": "",
+                            "name": "Holy Ghost Inc.",
+                            "role": "Producer, Written-By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "301",
+                    "title": "Hand Of God (Intro)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "4703",
+                            "join": "",
+                            "name": "Commander Tom",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "3:33",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "4703",
+                            "join": "",
+                            "name": "Commander Tom",
+                            "role": "Producer, Written-By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "302",
+                    "title": "Kiss Myself"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "The Weathermen",
+                            "id": "130089",
+                            "join": "",
+                            "name": "Weathermen",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "3:04",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "90719",
+                            "join": "",
+                            "name": "Julian Liberator \u0026 Henry Cullen",
+                            "role": "Producer, Written-By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "303",
+                    "title": "Don't Stop"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1977",
+                            "join": "",
+                            "name": "The Subjective",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "1:44",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "1977",
+                                "join": "",
+                                "name": "The Subjective",
+                                "role": "Producer, Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "1110",
+                                "join": "",
+                                "name": "The Advent",
+                                "role": "Remix",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "304",
+                    "title": "Tremmer (The Advent Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "20",
+                            "join": "",
+                            "name": "Percy X",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:43",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "T. Scott",
+                            "id": "529343",
+                            "join": "",
+                            "name": "Tony Scott (4)",
+                            "role": "Producer, Written-By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "305",
+                    "title": "New Ground"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "46197",
+                            "join": "",
+                            "name": "Mindtours",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "2:11",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "449572",
+                                "join": "",
+                                "name": "Charlie Henderson",
+                                "role": "Producer, Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "73801",
+                                "join": "",
+                                "name": "Steevio",
+                                "role": "Producer, Written-By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "306",
+                    "title": "Yellow"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1711",
+                            "join": "",
+                            "name": "Chris Liebing",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "2:57",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "Chris Liebing \u0026 Andrew Wooden",
+                            "id": "2143",
+                            "join": "",
+                            "name": "Andrew Wooden \u0026 Chris Liebing",
+                            "role": "Producer, Written-By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "307",
+                    "title": "Anastasia"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "23332",
+                            "join": "",
+                            "name": "Ultratubes",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "3:09",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "Peter Haubfleisch \u0026 Marco Cannata",
+                                "id": "9872",
+                                "join": "",
+                                "name": "Marco Cannata \u0026 Peter Haubfleisch",
+                                "role": "Producer, Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "Pascal FEOS",
+                                "id": "4865",
+                                "join": "",
+                                "name": "Pascal F.E.O.S.",
+                                "role": "Remix, Producer [Additional]",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "308",
+                    "title": "Wheeler (Pascal FEOS Remix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "Andy Trex vs. Commander Tom",
+                            "id": "1103087",
+                            "join": "",
+                            "name": "Andy Trex Versus Commander Tom",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:21",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "Andy Trex And Commander Tom",
+                            "id": "1103087",
+                            "join": "",
+                            "name": "Andy Trex Versus Commander Tom",
+                            "role": "Producer, Written-By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "309",
+                    "title": "The Freaque (Commander Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "44201",
+                            "join": "",
+                            "name": "District 1",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "3:59",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "M. Robertson",
+                            "id": "405092",
+                            "join": "",
+                            "name": "Mark Robertson",
+                            "role": "Producer, Written-By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "310",
+                    "title": "IOBO"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "891",
+                            "join": "",
+                            "name": "Joey Beltram",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "2:46",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "891",
+                            "join": "",
+                            "name": "Joey Beltram",
+                            "role": "Producer, Written-By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "311",
+                    "title": "Ball Park"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "5939",
+                            "join": "",
+                            "name": "Mumps",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "2:16",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "5939",
+                            "join": "",
+                            "name": "Mumps",
+                            "role": "Producer, Written-By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "312",
+                    "title": "Mechanisms B"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1344",
+                            "join": "",
+                            "name": "Steve Stoll",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "3:24",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1344",
+                            "join": "",
+                            "name": "Steve Stoll",
+                            "role": "Producer, Written-By, Mixed By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "313",
+                    "title": "Model T"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "Samuel Overnas",
+                            "id": "8775",
+                            "join": "",
+                            "name": "Samuel Onervas",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "3:14",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "Samuel Overnas",
+                            "id": "8775",
+                            "join": "",
+                            "name": "Samuel Onervas",
+                            "role": "Producer, Written-By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "314",
+                    "title": "Fugitive A"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "4626",
+                            "join": "",
+                            "name": "DJ Slip",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "3:05",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "4626",
+                            "join": "",
+                            "name": "DJ Slip",
+                            "role": "Producer, Written-By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "315",
+                    "title": "Snapshot"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1360",
+                            "join": "",
+                            "name": "Adam Beyer",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:10",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1360",
+                            "join": "",
+                            "name": "Adam Beyer",
+                            "role": "Producer, Written-By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "316",
+                    "title": "4.50"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "Holy Ghost",
+                            "id": "79911",
+                            "join": "",
+                            "name": "Holy Ghost Inc.",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "3:03",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "Holy Ghost",
+                            "id": "79911",
+                            "join": "",
+                            "name": "Holy Ghost Inc.",
+                            "role": "Producer, Written-By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "317",
+                    "title": "Hand Of God (Intro)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1711",
+                            "join": "",
+                            "name": "Chris Liebing",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "2:31",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "Chris Liebing \u0026 Andrew Wooden",
+                                "id": "2143",
+                                "join": "",
+                                "name": "Andrew Wooden \u0026 Chris Liebing",
+                                "role": "Producer, Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "1175",
+                                "join": "",
+                                "name": "James Ruskin",
+                                "role": "Remix",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "318",
+                    "title": "Dandu Groove (James Ruskin Remix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "Phan-Tom",
+                            "id": "157860",
+                            "join": "",
+                            "name": "Phantom (4)",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "8:00",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "4703",
+                            "join": "",
+                            "name": "Commander Tom",
+                            "role": "Producer, Written-By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "319",
+                    "title": "When Doves Fly"
+                }
+            ]
+        },
+        "videos": {
+            "video": {
+                "_duration": "3907",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=-XlThAJCBfw",
+                "description": "This mix CD has been uploaded to share the love of diverse forms of techno and beyond, along with some forgotten history dear to many followers of the genre. We support the brands, artists and labels, promoting classic mixes from yesteryear we enjoy and t",
+                "title": "DT:Recommends | Commander Tom - In The Mix III (1998) Mix CD"
+            }
+        }
+    }
+}

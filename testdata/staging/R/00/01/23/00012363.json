@@ -1,0 +1,114 @@
+{
+    "release": {
+        "_id": "12363",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "A.D.N.Y.",
+                "id": "50",
+                "join": "",
+                "name": "ADNY",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "26",
+                "join": "",
+                "name": "Alexi Delano",
+                "role": "Producer",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "EP",
+                        "33 ⅓ RPM",
+                        "45 RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "330",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "330"
+                },
+                {
+                    "_height": "330",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "330"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "CSLTD103",
+                "_id": "2436",
+                "_name": "Corner Shots Ltd"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "562650"
+        },
+        "notes": "Exclusive distributed by Word And Sound Music.\r\nMade in England.\r\n\r\nAll songs produced at Minimum Studios, NYC.\r\n\r\nSide A is labeled as having two tracks: Precious Lady and Vida Mia, however there is only one track: Precious Lady.\r\n\r\nSide A plays at 45 RPM.",
+        "released": "2001-08-00",
+        "styles": {
+            "style": [
+                "Deep House",
+                "Tribal House"
+            ]
+        },
+        "title": "Vida Mia",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A",
+                    "title": "Precious Lady"
+                },
+                {
+                    "duration": "",
+                    "position": "B1",
+                    "title": "I'm Still Here"
+                },
+                {
+                    "duration": "",
+                    "position": "B2",
+                    "title": "Mundo Solo"
+                }
+            ]
+        },
+        "videos": {
+            "video": {
+                "_duration": "216",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=B9GwDjnPeM0",
+                "description": "(2005)\nCaroLove❤",
+                "title": "A.D.N.Y. - Precious Lady (Vida Mia)"
+            }
+        }
+    }
+}

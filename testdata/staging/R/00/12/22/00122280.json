@@ -1,0 +1,360 @@
+{
+    "release": {
+        "_id": "122280",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "20",
+                "join": "",
+                "name": "Percy X",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "17",
+                    "entity_type_name": "Pressed By",
+                    "id": "56025",
+                    "name": "MPO",
+                    "resource_url": "https://api.discogs.com/labels/56025"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "29",
+                    "entity_type_name": "Mastered At",
+                    "id": "158759",
+                    "name": "The Exchange",
+                    "resource_url": "https://api.discogs.com/labels/158759"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "18",
+                    "name": "Soma Quality Recordings",
+                    "resource_url": "https://api.discogs.com/labels/18"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "18",
+                    "name": "Soma Quality Recordings",
+                    "resource_url": "https://api.discogs.com/labels/18"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "267822",
+                    "name": "23rd Precinct Music Ltd",
+                    "resource_url": "https://api.discogs.com/labels/267822"
+                }
+            ]
+        },
+        "country": "UK",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "Simon",
+                    "id": "92821",
+                    "join": "",
+                    "name": "Simon Davey",
+                    "role": "Mastered By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "20",
+                    "join": "",
+                    "name": "Percy X",
+                    "role": "Written-By, Producer",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "2",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "LP",
+                        "Album"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "SIde A",
+                    "_type": "Matrix / Runout",
+                    "_value": "SOMA LP4 A1 THE EXCHANGE Dmm MPO"
+                },
+                {
+                    "_description": "SIde B",
+                    "_type": "Matrix / Runout",
+                    "_value": "SOMA LP 4 B1 THE EXCHANGE SIMON MPO"
+                },
+                {
+                    "_description": "SIde C",
+                    "_type": "Matrix / Runout",
+                    "_value": "SOMA LP 4 C1 THE EXCHANGE SIMON Dmm MPO"
+                },
+                {
+                    "_description": "SIde D",
+                    "_type": "Matrix / Runout",
+                    "_value": "SOMA LP 4 D1 THE EXCHANGE SIMON Dmm MPO"
+                },
+                {
+                    "_type": "Barcode",
+                    "_value": "5 024856 610041"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "SOMA LP4",
+                "_id": "18",
+                "_name": "Soma Quality Recordings"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "37382"
+        },
+        "notes": "Direct Metal Mastering",
+        "released": "1996-02-26",
+        "styles": {
+            "style": "Techno"
+        },
+        "title": "Spyx",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "2341",
+                            "join": "",
+                            "name": "Chris Cowie",
+                            "role": "Co-producer",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "A1",
+                    "title": "Spyx"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "2341",
+                            "join": "",
+                            "name": "Chris Cowie",
+                            "role": "Co-producer",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "A2",
+                    "title": "Aerobix"
+                },
+                {
+                    "duration": "",
+                    "position": "B1",
+                    "title": "Loner"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "2341",
+                            "join": "",
+                            "name": "Chris Cowie",
+                            "role": "Co-producer",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "B2",
+                    "title": "Semilike"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "2341",
+                            "join": "",
+                            "name": "Chris Cowie",
+                            "role": "Co-producer",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "C1",
+                    "title": "Aquius"
+                },
+                {
+                    "duration": "",
+                    "position": "C2",
+                    "title": "Faint"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "2341",
+                            "join": "",
+                            "name": "Chris Cowie",
+                            "role": "Co-producer",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "D1",
+                    "title": "Star System"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "2341",
+                            "join": "",
+                            "name": "Chris Cowie",
+                            "role": "Co-producer",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "D2",
+                    "title": "Subloop"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "436",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=FIdsOr2iYJI",
+                    "description": "Provided to YouTube by Pias UK Limited\n\nSpyx · Percy X\n\nSpy X\n\n℗ 1996 Soma\n\nReleased on: 1996-02-26\n\nMixer: Chris Cowie\nMixer: Tony Scott\nProducer: Chris Cowie\nProducer: Tony Scott\nComposer: Chris Cowie\nComposer: Tony Scott\nLyricist: Chris Cowie\nLyrici",
+                    "title": "Spyx"
+                },
+                {
+                    "_duration": "461",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=hmp4XUZLK6M",
+                    "description": "",
+                    "title": "Percy X - Aerobix ! SPY 007 Matrix CIA Agent Techno DNB Drum n Bass Music YTve.wmv"
+                },
+                {
+                    "_duration": "472",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=BEBuuXRXo54",
+                    "description": "Percy X ‎– Spyx\nLabel: Soma Quality Recordings ‎– SOMA LP 04\nFormat: 2 × Vinyl, LP, Album \nCountry: UK\nReleased: 26 Feb 1996\nGenre: Electronic\nStyle: Techno\n\nhttp://www.discogs.com/Percy-X-Spyx/release/122280",
+                    "title": "Percy X - Aquius [Soma Quality Recordings] - 1996"
+                },
+                {
+                    "_duration": "357",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=5n7gXu1d0Jg",
+                    "description": "http://www.discogs.com/Percy-X-X-Trak-1/release/12391",
+                    "title": "Percy X - X-Trak 1"
+                },
+                {
+                    "_duration": "500",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=k0-bTMnuTrw",
+                    "description": "Percy X ‎– Spyx\r\nLabel: Soma Quality Recordings ‎– SOMA LP 04\r\nFormat: 2 × Vinyl, LP, Album \r\nCountry: UK\r\nReleased: 26 Feb 1996\r\nGenre: Electronic\r\nStyle: Techno\r\n\r\nhttps://www.discogs.com/Percy-X-Spyx/release/122280\r\n\r\nNo copyright infringement",
+                    "title": "Percy X - Loner"
+                },
+                {
+                    "_duration": "323",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=lzMQkPsoWTA",
+                    "description": "From LP Spyx (1996)",
+                    "title": "Percy X  -  -3"
+                },
+                {
+                    "_duration": "321",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Aq5FGE8iJVw",
+                    "description": "http://www.discogs.com/Percy-X-Spyx/master/37382",
+                    "title": "Percy X -- Spyx-Subloop"
+                },
+                {
+                    "_duration": "452",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=OmoCXNWol7w",
+                    "description": "Provided to YouTube by Pias UK Limited\n\nSemilike · Percy X\n\nSpy X\n\n℗ 1996 Soma\n\nReleased on: 1996-02-26\n\nMixer: Chris Cowie\nMixer: Tony Scott\nProducer: Chris Cowie\nProducer: Tony Scott\nComposer: Chris Cowie\nComposer: Tony Scott\nLyricist: Chris Cowie\nLy",
+                    "title": "Semilike"
+                },
+                {
+                    "_duration": "440",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=yjaD_x0tAaY",
+                    "description": "https://www.discogs.com/fr/Percy-X-Spyx/release/122280",
+                    "title": "Percy X - Faint (Techno 1996)"
+                },
+                {
+                    "_duration": "453",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=N8Mv6LBh0yE",
+                    "description": "Provided to YouTube by Pias UK Limited\n\nStarSystem · Percy X\n\nSpy X\n\n℗ 1996 Soma\n\nReleased on: 1996-02-26\n\nMixer: Chris Cowie\nMixer: Tony Scott\nProducer: Chris Cowie\nProducer: Tony Scott\nComposer: Chris Cowie\nComposer: Tony Scott\nLyricist: Chris Cowie",
+                    "title": "StarSystem"
+                }
+            ]
+        }
+    }
+}

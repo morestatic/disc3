@@ -1,0 +1,181 @@
+{
+    "release": {
+        "_id": "161125",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "Air Bureau",
+                "id": "17136",
+                "join": "",
+                "name": "The Aircrash Bureau",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "UK",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "5178",
+                    "join": "",
+                    "name": "Patrik Skoog",
+                    "role": "Management [Managed By]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "Guy's",
+                    "id": "369860",
+                    "join": "",
+                    "name": "Guy Davie",
+                    "role": "Mastered By [Run-out]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "2076368",
+                    "join": "",
+                    "name": "Patrik Simolin",
+                    "role": "Other [A \u0026 R]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "535896",
+                    "join": "",
+                    "name": "Henrik Larsson (2)",
+                    "role": "Producer, Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "71520",
+                    "join": "",
+                    "name": "Niklas Ehrlin",
+                    "role": "Producer, Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "570",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "570"
+                },
+                {
+                    "_height": "570",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "570"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "LOAD101",
+                "_id": "40",
+                "_name": "Loaded Records"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "false",
+            "content": "115110"
+        },
+        "notes": "This track was originally released as by [url=http://www.discogs.com/artist/Aircrash+Bureau%2C+The]The Aircrash Bureau[/url].\r\n\r\nMastered at The Exchange.",
+        "released": "2003-00-00",
+        "styles": {
+            "style": "Tech House"
+        },
+        "title": "Don't Expect Me (To Forget You)",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "58602",
+                                "join": "",
+                                "name": "Mark Wilkinson",
+                                "role": "Remix",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "53509",
+                                "join": "",
+                                "name": "Paul Jackson",
+                                "role": "Remix",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "A",
+                    "title": "Don't Expect Me (To Forget You) (Paul Jackson \u0026 Mark Wilkinson Remix)"
+                },
+                {
+                    "duration": "",
+                    "position": "AA",
+                    "title": "Don't Expect Me (To Forget You) (Original)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "478",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=8YeAa1TalAw",
+                    "description": "The Aircrash Bureau, The - Don't Expect Me (To Forget You) \r\nEP\r\n2002\r\nProgressive Trance, Progressive House",
+                    "title": "The Aircrash Bureau - Don't Expect Me (Minilogue Remix)"
+                },
+                {
+                    "_duration": "595",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=3e8PIAqhcW0",
+                    "description": "",
+                    "title": "The Aircrash Bureau - Don't Expect Me (Antiloop Remix)"
+                },
+                {
+                    "_duration": "497",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=xb3eNLE0HW8",
+                    "description": "Air Bureau ‎– Don't Expect Me (To Forget You)\n\nLabel: Loaded Records ‎– LOAD101\nFormat: Vinyl, 12, 33 ⅓ RPM \nCountry: UK\nReleased: 2003\nGenre: Electronic\nStyle: Progressive House, Tech House",
+                    "title": "Air Bureau ‎– Don't Expect Me (To Forget You) (Paul Jackson \u0026 Mark Wilkinson Remix)"
+                },
+                {
+                    "_duration": "492",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=6Cg83duta6s",
+                    "description": "Air Bureau ‎– Don't Expect Me (To Forget You)\n\nLabel: Loaded Records ‎– LOAD101\nFormat: Vinyl, 12, 33 ⅓ RPM \nCountry: UK\nReleased: 2003\nGenre: Electronic\nStyle: Progressive House, Tech House",
+                    "title": "Air Bureau ‎– Don't Expect Me (To Forget You) (Original)"
+                }
+            ]
+        }
+    }
+}

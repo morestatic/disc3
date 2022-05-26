@@ -1,0 +1,202 @@
+{
+    "release": {
+        "_id": "109327",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "2910",
+                "join": "",
+                "name": "Hearts Of Space",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "26",
+                    "entity_type_name": "Produced At",
+                    "id": "294391",
+                    "name": "Sonic Studios Frankfurt",
+                    "resource_url": "https://api.discogs.com/labels/294391"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "30",
+                    "entity_type_name": "Lacquer Cut At",
+                    "id": "265113",
+                    "name": "SST Brüggemann GmbH",
+                    "resource_url": "https://api.discogs.com/labels/265113"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "37",
+                    "entity_type_name": "Produced For",
+                    "id": "664058",
+                    "name": "Namlook Productions",
+                    "resource_url": "https://api.discogs.com/labels/664058"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "1584729",
+                    "join": "",
+                    "name": "SST (8)",
+                    "role": "Lacquer Cut By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "4865",
+                    "join": "",
+                    "name": "Pascal F.E.O.S.",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "45 RPM",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "A-Side Runout Etching",
+                    "_type": "Matrix / Runout",
+                    "_value": "PK 08/55 A =PRODUCED AT SONIC STUDIOS FRANKFURT FOR NAMLOOK PRODUCTI SST"
+                },
+                {
+                    "_description": "B-Side Runout Etching",
+                    "_type": "Matrix / Runout",
+                    "_value": "PK 08/55 B = 70's BEAUTY ∙ BREATH OUT AND LISTEN TO THE RAINLOOPER = SST"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "290",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "290"
+                },
+                {
+                    "_height": "300",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "300"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/55",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "29189"
+        },
+        "notes": "Limited to 500 copies",
+        "released": "1993-03-29",
+        "styles": {
+            "style": [
+                "Trance",
+                "Ambient",
+                "Acid"
+            ]
+        },
+        "title": "Hearts Of Space 4",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "",
+                    "title": "This Side"
+                },
+                {
+                    "duration": "6:51",
+                    "position": "A",
+                    "title": "Breathe Out"
+                },
+                {
+                    "duration": "",
+                    "position": "",
+                    "title": "Other Side"
+                },
+                {
+                    "duration": "5:56",
+                    "position": "B1",
+                    "title": "Rain Looper"
+                },
+                {
+                    "duration": "2:28",
+                    "position": "B2",
+                    "title": "70's Beauty"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "416",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=O2v36W6LrXI",
+                    "description": "Label: Rising High Records ‎– RSN 73\r\nFormat: Vinyl, 12, White Label, Promo, 33 ⅓ RPM\r\nCountry: UK\r\nReleased: 1993\r\nGenre: Electronic\r\nStyle: Trance, Techno\r\n\r\nhttps://www.discogs.com/Hearts-Of-Space-Breath-Out/release/1115349\r\n\r\nI don't make any m",
+                    "title": "Hearts Of Space - Breath Out"
+                },
+                {
+                    "_duration": "151",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=OM3cMnf-48s",
+                    "description": "Ambient 1993",
+                    "title": "Hearts of space  - 70's beauty"
+                },
+                {
+                    "_duration": "348",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=ifdQi9X2Xqc",
+                    "description": "Producers: Pascal F.E.O.S., Pete Namlook\nhttps://www.discogs.com/fr/Hearts-Of-Space-Breath-Out/release/69850",
+                    "title": "Hearts Of Space - Rain Looper (Acidtrance 1993)"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,135 @@
+{
+    "release": {
+        "_id": "82421",
+        "_status": "Accepted",
+        "artists": {
+            "artist": [
+                {
+                    "anv": "A.D.N.Y.",
+                    "id": "50",
+                    "join": "\u0026",
+                    "name": "ADNY",
+                    "role": "",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "675",
+                    "join": "",
+                    "name": "Vincenzo",
+                    "role": "",
+                    "tracks": ""
+                }
+            ]
+        },
+        "companies": "",
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": "",
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "12\""
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "Raw 621",
+                "_id": "2363",
+                "_name": "Raw Elements"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "552953"
+        },
+        "released": "1998-03-20",
+        "styles": {
+            "style": [
+                "House",
+                "Minimal"
+            ]
+        },
+        "title": "Various",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "11:36",
+                    "position": "A",
+                    "title": "Ladyblue"
+                },
+                {
+                    "duration": "4:36",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "A.D.",
+                            "id": "26",
+                            "join": "",
+                            "name": "Alexi Delano",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "B1",
+                    "title": "Ladyblue (A.D. Remix)"
+                },
+                {
+                    "duration": "7:52",
+                    "position": "B2",
+                    "title": "Revelation"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "667",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Rx6iqdLPJDw",
+                    "description": "Mar/20/1998. Various Vinyl, 12  -  Raw Elements",
+                    "title": "A.D.N.Y. \u0026 Vincenzo  -  Ladyblue"
+                },
+                {
+                    "_duration": "361",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=68hhji5sAbE",
+                    "description": "http://www.discogs.com/ADNY--Vincenzo-Various/release/82421\n\nhttp://www.soundcloud.com/rhodesman\n\n1998 germany",
+                    "title": "Adny \u0026 Vincenzo (Revelation) 1998"
+                },
+                {
+                    "_duration": "278",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=DpxRzkk4HLw",
+                    "description": "Provided to YouTube by Kontor New Media GmbH\n\nLadyblue (A.D. Remix) · A.D.N.Y. \u0026 Vincenzo\n\nVarious E.P.\n\n℗ Raw Elements Records\n\nReleased on: 1998-03-20\n\nArtist: A.D.N.Y. \u0026 Vincenzo\nComposer: Alexi Delano\nMusic  Publisher: Ed. Babelfish\nComposer: Vince",
+                    "title": "Ladyblue (A.D. Remix)"
+                }
+            ]
+        }
+    }
+}

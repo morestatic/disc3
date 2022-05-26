@@ -1,0 +1,136 @@
+{
+    "release": {
+        "_id": "209184",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "14125",
+                "join": "",
+                "name": "Sextant",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "Germany",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "DJ Hubee",
+                    "id": "213509",
+                    "join": "",
+                    "name": "Hubertus Held",
+                    "role": "Written-By",
+                    "tracks": "B1, B2"
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM",
+                        "45 RPM",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "490",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "486"
+                },
+                {
+                    "_height": "495",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "491"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/49",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Limitation: 500\n\"ARE WE LIVING IN A GLOBAL VIRTUAL REALITY SYSTEM? WHO IS ON THE OUTSIDE?!\"\nIs Etched On Runout Groove On Side B\n\n\nSide A plays 45rpm\nSide B plays 33 1/3 rpm",
+        "released": "1993-03-08",
+        "styles": {
+            "style": [
+                "Techno",
+                "Hard Trance"
+            ]
+        },
+        "title": "Sextant 3",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "8:47",
+                    "position": "A",
+                    "title": "Global System"
+                },
+                {
+                    "duration": "5:28",
+                    "position": "B1",
+                    "title": "Catchy Global System"
+                },
+                {
+                    "duration": "5:29",
+                    "position": "B2",
+                    "title": "Virtual Global System"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "529",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=_3HediOgVvE",
+                    "description": "Sextant ‎- Sextant 3\nSello:Fax +49-69/450464 ‎– PK 08/49\nFormato:Vinyl\nPaís:Germany\nPublicado:1993\nGénero:Electronic\nEstilo:Techno, Hard Trance\nWritten By DJ Hubee",
+                    "title": "Sextant - Global System (A)"
+                },
+                {
+                    "_duration": "329",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=S9DbW5iiRQg",
+                    "description": "Sextant ‎- Sextant 3\nSello:Fax +49-69/450464 ‎– PK 08/49\nFormato:Vinyl\nPaís:Germany\nPublicado:1993\nGénero:Electronic\nEstilo:Techno, Hard Trance\nWritten By Pete Namlook",
+                    "title": "Sextant - Catchy Global System (B1)"
+                },
+                {
+                    "_duration": "330",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=NEwekF_Q94A",
+                    "description": "Sextant ‎- Sextant 3\nSello:Fax +49-69/450464 ‎– PK 08/49\nFormato:Vinyl\nPaís:Germany\nPublicado:1993\nGénero:Electronic\nEstilo:Techno, Hard Trance\nWritten By Pete Namlook",
+                    "title": "Sextant - Virtual Global System (B2)"
+                }
+            ]
+        }
+    }
+}

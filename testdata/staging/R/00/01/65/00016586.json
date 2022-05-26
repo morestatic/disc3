@@ -1,0 +1,205 @@
+{
+    "release": {
+        "_id": "16586",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "Namlook",
+                "id": "1910",
+                "join": "",
+                "name": "Pete Namlook",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": {
+                "catno": "",
+                "entity_type": "10",
+                "entity_type_name": "Manufactured By",
+                "id": "291931",
+                "name": "CD Plant MFG",
+                "resource_url": "https://api.discogs.com/labels/291931"
+            }
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "41714",
+                    "join": "",
+                    "name": "Charles Uzzell-Edwards",
+                    "role": "Artwork [Frontcover Collage]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Composed By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "Namlook",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Liner Notes",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Limited Edition",
+                        "Mixed"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "CD PLANT MFG  PK 08/90 CDM01"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "592",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "592",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "592",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/90",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Recorded and composed live at Wembley, London on April 10th, 1994 from 1.30 to 2.40 am.\r\nLimited to 1000 copies\r\n\r\nTracklisting simply states one track:\r\n\"Reality 1.02.18\"",
+        "released": "1994-06-27",
+        "styles": {
+            "style": [
+                "Trance",
+                "Ambient"
+            ]
+        },
+        "title": "Namlook V",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "5:00",
+                    "position": "1",
+                    "title": "Reality (Part 1)"
+                },
+                {
+                    "duration": "5:00",
+                    "position": "2",
+                    "title": "Reality (Part 2)"
+                },
+                {
+                    "duration": "5:00",
+                    "position": "3",
+                    "title": "Reality (Part 3)"
+                },
+                {
+                    "duration": "5:00",
+                    "position": "4",
+                    "title": "Reality (Part 4)"
+                },
+                {
+                    "duration": "5:00",
+                    "position": "5",
+                    "title": "Reality (Part 5)"
+                },
+                {
+                    "duration": "5:00",
+                    "position": "6",
+                    "title": "Reality (Part 6)"
+                },
+                {
+                    "duration": "5:00",
+                    "position": "7",
+                    "title": "Reality (Part 7)"
+                },
+                {
+                    "duration": "5:00",
+                    "position": "8",
+                    "title": "Reality (Part 8)"
+                },
+                {
+                    "duration": "5:00",
+                    "position": "9",
+                    "title": "Reality (Part 9)"
+                },
+                {
+                    "duration": "5:00",
+                    "position": "10",
+                    "title": "Reality (Part 10)"
+                },
+                {
+                    "duration": "5:00",
+                    "position": "11",
+                    "title": "Reality (Part 11)"
+                },
+                {
+                    "duration": "7:15",
+                    "position": "12",
+                    "title": "Reality (Part 12)"
+                }
+            ]
+        },
+        "videos": {
+            "video": {
+                "_duration": "3737",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=L0KviNKTPYU",
+                "description": "Artist: Pete Namlook\nAlbum: Namlook V\nLabel: Fax\nYear: 1994\n\n1. Reality, Part 1 [00:00]\n2. Reality, Part 2 [05:00]\n3. Reality, Part 3 [10:00]\n4. Reality, Part 4 [15:01]\n5. Reality, Part 5 [20:01]\n6. Reality, Part 6 [25:00]\n7. Reality, Part 7 [30:00]\n8. Re",
+                "title": "Pete Namlook - Namlook V (Full Album) [1994]"
+            }
+        }
+    }
+}

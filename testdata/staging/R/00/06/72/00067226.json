@@ -1,0 +1,198 @@
+{
+    "release": {
+        "_id": "67226",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "293000",
+                "join": "",
+                "name": "I.F.",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "265055",
+                    "name": "reSource Heidelberg",
+                    "resource_url": "https://api.discogs.com/labels/265055"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "10",
+                    "entity_type_name": "Manufactured By",
+                    "id": "291931",
+                    "name": "CD Plant MFG",
+                    "resource_url": "https://api.discogs.com/labels/291931"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "944",
+                    "join": "",
+                    "name": "Deep Space Network",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "8521",
+                    "join": "",
+                    "name": "Dr. Atmo",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "CD PLANT MFG PS 08/33 CDM01"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "461",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PS 08/33",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Ali Baba's caravan waiting for the magic words \"open sesame\"\r\n\r\nI.F.\r\nIntergalactic Federation\r\n\r\nI.F. is Deep Space Network (David Moufang + Jonas Grossmann) and Dr. Atmo + Dje Deiook\r\n\r\nI.F.\r\nHEIDELBERG - FRANKFURT 1993\r\n\r\nRecorded at Resource Studio Heidelberg\r\n\r\nVery special thanks to:\r\n\r\nKarpfen\r\nCebra\r\n\"Not coming back\" Boris\r\nBiff \u0026 Thorsten\r\nBernd\r\nConny\r\n\r\nLimitation: 500",
+        "released": "1994-01-17",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Downtempo",
+                "Dub"
+            ]
+        },
+        "title": "I.F.",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "12:41",
+                    "position": "1",
+                    "title": "Jadd"
+                },
+                {
+                    "duration": "25:05",
+                    "position": "2",
+                    "title": "Ten Waves"
+                },
+                {
+                    "duration": "14:44",
+                    "position": "3",
+                    "title": "Kisy Loa"
+                },
+                {
+                    "duration": "23:57",
+                    "position": "4",
+                    "title": "Caravan"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "767",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=-gN8pkSLTyc",
+                    "description": "Intergalactic Federation\n(Deep Space Network \u0026 Dr Atmo)\np:1993\nc: Fax Records 1994",
+                    "title": "I.F. - JADD"
+                },
+                {
+                    "_duration": "891",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=yCYCRyqlp7s",
+                    "description": "Taken from I.F. (Fax +49-69/450464 - PS 08/33).\nhttp://www.discogs.com/artist/I.F.",
+                    "title": "I.F. - Kisy Loa"
+                },
+                {
+                    "_duration": "1440",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=3OvHVqd7aAI",
+                    "description": "Intergalactic Federation\n(Deep Space Network \u0026 Dr Atmo)\np:1993\nc: Fax Records 1994",
+                    "title": "I.F. - Caravan"
+                }
+            ]
+        }
+    }
+}

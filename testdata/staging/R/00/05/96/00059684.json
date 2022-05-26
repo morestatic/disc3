@@ -1,0 +1,165 @@
+{
+    "release": {
+        "_id": "59684",
+        "_status": "Accepted",
+        "artists": {
+            "artist": [
+                {
+                    "anv": "A.D.N.Y.",
+                    "id": "50",
+                    "join": "\u0026",
+                    "name": "ADNY",
+                    "role": "",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "675",
+                    "join": "",
+                    "name": "Vincenzo",
+                    "role": "",
+                    "tracks": ""
+                }
+            ]
+        },
+        "companies": {
+            "company": {
+                "catno": "",
+                "entity_type": "9",
+                "entity_type_name": "Distributed By",
+                "id": "366107",
+                "name": "Container Distribution",
+                "resource_url": "https://api.discogs.com/labels/366107"
+            }
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "26",
+                    "join": "",
+                    "name": "Alexi Delano",
+                    "role": "Producer, Written-By, Arranged By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "Vincenzo K",
+                    "id": "675",
+                    "join": "",
+                    "name": "Vincenzo",
+                    "role": "Producer, Written-By, Arranged By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM",
+                        "EP",
+                        "Stereo"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Side A runout",
+                    "_type": "Matrix / Runout",
+                    "_value": "\"Dessous 001 A1\""
+                },
+                {
+                    "_description": "Side B runout",
+                    "_type": "Matrix / Runout",
+                    "_value": "\"Dessous 001 ep\""
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "301",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "300"
+                },
+                {
+                    "_height": "297",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "300"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "dessous 01",
+                "_id": "772",
+                "_name": "Dessous Recordings"
+            }
+        },
+        "notes": "\"New Day\" contains a sample of \"By All Means\" as recorded by Alphonse Mouzon.\n\"Soulmates\" contains a sample of \"Summer Madness\" (Live at the Rainbow Theatre, London) by Kool \u0026 the Gang.",
+        "released": "1999-03-29",
+        "styles": {
+            "style": "Deep House"
+        },
+        "title": "Concrete City",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "5:20",
+                    "position": "A",
+                    "title": "New Day"
+                },
+                {
+                    "duration": "5:42",
+                    "position": "B1",
+                    "title": "Soulmates"
+                },
+                {
+                    "duration": "5:27",
+                    "position": "B2",
+                    "title": "Vibes"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "323",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Nq7Dx6kMBEE",
+                    "description": "A.D.N.Y.  \u0026 Vincenzo - Soulmates",
+                    "title": "A.D.N.Y.  \u0026 Vincenzo - Soulmates"
+                },
+                {
+                    "_duration": "330",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=fnc7ic7J0ZQ",
+                    "description": "A.D.N.Y.  \u0026 Vincenzo - New Day",
+                    "title": "A.D.N.Y.  \u0026 Vincenzo - New Day"
+                },
+                {
+                    "_duration": "344",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=5Qg5H5LOMUk",
+                    "description": "A.D.N.Y.  \u0026 Vincenzo - Vibes",
+                    "title": "A.D.N.Y.  \u0026 Vincenzo - Vibes"
+                }
+            ]
+        }
+    }
+}

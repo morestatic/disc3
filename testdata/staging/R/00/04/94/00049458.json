@@ -1,0 +1,156 @@
+{
+    "release": {
+        "_id": "49458",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "97",
+                "join": "",
+                "name": "Super_Collider",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "UK",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "344",
+                    "join": "",
+                    "name": "Cristian Vogel",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "345",
+                    "join": "",
+                    "name": "Jamie Lidell",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "7\"",
+                        "Single",
+                        "45 RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "500",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "491"
+                },
+                {
+                    "_height": "500",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "498"
+                },
+                {
+                    "_height": "450",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "446"
+                },
+                {
+                    "_height": "450",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "446"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "424"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "LOAD 077 7",
+                "_id": "40",
+                "_name": "Loaded Records"
+            }
+        },
+        "notes": "Both tracks written at No Future Studios, Brighton.\r\n\r\nThis 7\" was given away on the cover of Brixton based magazine Milesahead issue 12.\r\nThe tracks have been pressed in the wrong order to what is listed on the sleeve and label, \r\nNeil Landstrumm Remix is on the A\r\nUnder My Nose is on side B.",
+        "released": "1999",
+        "styles": {
+            "style": [
+                "Abstract",
+                "Techno",
+                "Experimental"
+            ]
+        },
+        "title": "Under My Nose",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A",
+                    "title": "Under My Nose"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "1118",
+                                "join": "",
+                                "name": "Neil Landstrumm",
+                                "role": "Producer",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "1118",
+                                "join": "",
+                                "name": "Neil Landstrumm",
+                                "role": "Remix",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "B",
+                    "title": "It Won't Be Long (Neil Landstrumm Remix)"
+                }
+            ]
+        },
+        "videos": {
+            "video": {
+                "_duration": "359",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=lx0uQCMWsTo",
+                "description": "",
+                "title": "Super Collider - Under My Nose"
+            }
+        }
+    }
+}

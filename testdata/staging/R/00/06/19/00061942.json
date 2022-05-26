@@ -1,0 +1,132 @@
+{
+    "release": {
+        "_id": "61942",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "9806",
+                "join": "",
+                "name": "DJ Abstract",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "US",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "9806",
+                    "join": "",
+                    "name": "DJ Abstract",
+                    "role": "Written-By, Producer, Presenter",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "57446",
+                    "join": "",
+                    "name": "Alex Posell",
+                    "role": "Written-by, Producer [Both Credited To]",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "12\""
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "400",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "400"
+                },
+                {
+                    "_height": "400",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "400"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PAL023",
+                "_id": "30",
+                "_name": "Palette Recordings"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "1376008"
+        },
+        "notes": "Distributed by Integrale.",
+        "released": "2002",
+        "styles": {
+            "style": "Tech House"
+        },
+        "title": "Eversol",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A",
+                    "title": "Storm Trooper"
+                },
+                {
+                    "duration": "",
+                    "position": "B1",
+                    "title": "Flea Bite"
+                },
+                {
+                    "duration": "",
+                    "position": "B2",
+                    "title": "Meia Lua De Compasso"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "353",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=L9JgH0VxOcs",
+                    "description": "https://www.discogs.com/DJ-Abstract-Eversol-EP/release/61942",
+                    "title": "DJ Abstract - Storm Trooper"
+                },
+                {
+                    "_duration": "317",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=lStxLeg0axg",
+                    "description": "https://www.discogs.com/DJ-Abstract-Eversol-EP/release/61942",
+                    "title": "DJ Abstract - Flea Bite"
+                },
+                {
+                    "_duration": "373",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=JClJAji4Tp8",
+                    "description": "https://www.discogs.com/DJ-Abstract-Eversol-EP/release/61942",
+                    "title": "DJ Abstract - Meia Lua De Compasso"
+                }
+            ]
+        }
+    }
+}

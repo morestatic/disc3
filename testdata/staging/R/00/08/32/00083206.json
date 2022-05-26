@@ -1,0 +1,228 @@
+{
+    "release": {
+        "_id": "83206",
+        "_status": "Accepted",
+        "artists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "15725",
+                    "join": "\u0026",
+                    "name": "Grant Dell",
+                    "role": "",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "15728",
+                    "join": "Presents",
+                    "name": "Gareth Oxby",
+                    "role": "",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "49745",
+                    "join": "",
+                    "name": "Tribalation",
+                    "role": "",
+                    "tracks": ""
+                }
+            ]
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "40",
+                    "name": "Loaded Records",
+                    "resource_url": "https://api.discogs.com/labels/40"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "40",
+                    "name": "Loaded Records",
+                    "resource_url": "https://api.discogs.com/labels/40"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "9",
+                    "entity_type_name": "Distributed By",
+                    "id": "285289",
+                    "name": "Prime Distribution",
+                    "resource_url": "https://api.discogs.com/labels/285289"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "48207",
+                    "name": "Copyright Control",
+                    "resource_url": "https://api.discogs.com/labels/48207"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "29",
+                    "entity_type_name": "Mastered At",
+                    "id": "319506",
+                    "name": "P.R. Records Limited",
+                    "resource_url": "https://api.discogs.com/labels/319506"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "17",
+                    "entity_type_name": "Pressed By",
+                    "id": "1514150",
+                    "name": "Independent Pressing Co.",
+                    "resource_url": "https://api.discogs.com/labels/1514150"
+                }
+            ]
+        },
+        "country": "UK",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "6742248",
+                    "join": "",
+                    "name": "M (91)",
+                    "role": "Plated By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "15725",
+                    "join": "",
+                    "name": "Grant Dell",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "15728",
+                    "join": "",
+                    "name": "Gareth Oxby",
+                    "role": "Written-By, Producer, Mixed By, Engineer",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM",
+                        "EP"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Etched runout A",
+                    "_type": "Matrix / Runout",
+                    "_value": "LOAD 76-A₁ PRM"
+                },
+                {
+                    "_description": "Etched runout B",
+                    "_type": "Matrix / Runout",
+                    "_value": "LOAD 76-B₁ PRM"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "602",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "599",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "604",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "LOAD 76",
+                "_id": "40",
+                "_name": "Loaded Records"
+            }
+        },
+        "notes": "Made In England\n℗+© 2001",
+        "released": "2001",
+        "styles": {
+            "style": [
+                "House",
+                "Tribal",
+                "Tech House"
+            ]
+        },
+        "title": "EP1",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A1",
+                    "title": "Why Did You Do That?"
+                },
+                {
+                    "duration": "",
+                    "position": "AA1",
+                    "title": "Jabba"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "787",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=HhaeS0MiADw",
+                    "description": "Label: Loaded Records ‎-- LOAD 76\r\nFormat: Vinyl, 12, 33 ⅓ RPM, EP \r\nCountry: UK\r\nReleased: 2001\r\nGenre: Electronic\r\nStyle: House, Tribal, Tech House",
+                    "title": "Grant Dell \u0026 Gareth Oxby - Why Did You Do That?"
+                },
+                {
+                    "_duration": "638",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Skb-tzuzN1A",
+                    "description": "https://www.discogs.com/Grant-Dell-Gareth-Oxby-Tribalation-EP1/release/83206\n\nDear producer/owner, the  purpose of this channel is to promote artists. No copyright infringement intended! If you want the music removed , please contact kerouacandsmileyt@gma",
+                    "title": "Grant Dell \u0026 Gareth Oxby ‎– Jabba"
+                }
+            ]
+        }
+    }
+}

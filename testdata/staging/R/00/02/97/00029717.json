@@ -1,0 +1,328 @@
+{
+    "release": {
+        "_id": "29717",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "Li'sha",
+                "id": "670",
+                "join": "",
+                "name": "Lisa Shaw",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "9",
+                    "entity_type_name": "Distributed By",
+                    "id": "43373",
+                    "name": "Deep Dish Records",
+                    "resource_url": "https://api.discogs.com/labels/43373"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "10",
+                    "entity_type_name": "Manufactured By",
+                    "id": "43373",
+                    "name": "Deep Dish Records",
+                    "resource_url": "https://api.discogs.com/labels/43373"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "37",
+                    "entity_type_name": "Produced For",
+                    "id": "55",
+                    "name": "Transport Recordings",
+                    "resource_url": "https://api.discogs.com/labels/55"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "69",
+                    "name": "Yoshitoshi Recordings",
+                    "resource_url": "https://api.discogs.com/labels/69"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "69",
+                    "name": "Yoshitoshi Recordings",
+                    "resource_url": "https://api.discogs.com/labels/69"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "277429",
+                    "name": "Dish Deep Music",
+                    "resource_url": "https://api.discogs.com/labels/277429"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "324139",
+                    "name": "Deluxe Tempo Music",
+                    "resource_url": "https://api.discogs.com/labels/324139"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "24",
+                    "entity_type_name": "Engineered At",
+                    "id": "355338",
+                    "name": "Moulton Studios",
+                    "resource_url": "https://api.discogs.com/labels/355338"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "30",
+                    "entity_type_name": "Lacquer Cut At",
+                    "id": "120735",
+                    "name": "masterpiece",
+                    "resource_url": "https://api.discogs.com/labels/120735"
+                }
+            ]
+        },
+        "country": "US",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "9571",
+                    "join": "",
+                    "name": "Jay-J",
+                    "role": "Engineer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "45917",
+                    "join": "",
+                    "name": "Dubfire \u0026 Sharam",
+                    "role": "Executive Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "Wally C",
+                    "id": "361546",
+                    "join": "",
+                    "name": "Walter Coelho",
+                    "role": "Lacquer Cut By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "Miguel 'Migs'",
+                    "id": "34",
+                    "join": "",
+                    "name": "Miguel Migs",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "5915",
+                    "join": "",
+                    "name": "Lexicon Avenue",
+                    "role": "Remix",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "47799",
+                    "join": "",
+                    "name": "Chris Scott",
+                    "role": "Remix, Producer [Additional Production]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "493829",
+                    "join": "",
+                    "name": "Mark Armstrong",
+                    "role": "Remix, Producer [Additional Production]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "47800",
+                    "join": "",
+                    "name": "Scott Bradford",
+                    "role": "Remix, Producer [Additional Production]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "Li'sha",
+                    "id": "670",
+                    "join": "",
+                    "name": "Lisa Shaw",
+                    "role": "Vocals",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "40",
+                    "join": "",
+                    "name": "Dave Warrin",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "Salmon",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "45 RPM",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Text",
+                    "_type": "Barcode",
+                    "_value": "7 04865 00751 7"
+                },
+                {
+                    "_description": "Scanned",
+                    "_type": "Barcode",
+                    "_value": "704865007517"
+                },
+                {
+                    "_description": "Runout etched, side A",
+                    "_type": "Matrix / Runout",
+                    "_value": "YR-075-A1 WALLY C. MASTERPIECE"
+                },
+                {
+                    "_description": "Runout etched, side B",
+                    "_type": "Matrix / Runout",
+                    "_value": "YR-075-B"
+                },
+                {
+                    "_type": "Rights Society",
+                    "_value": "Ascap"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "YR075",
+                "_id": "69",
+                "_name": "Yoshitoshi Recordings"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "false",
+            "content": "280437"
+        },
+        "notes": "Engineered at Moulton Street Studios, San Francisco.\n\nComes in salmon coloured [l69] sleeve.",
+        "released": "2002-02-27",
+        "styles": {
+            "style": [
+                "Progressive House",
+                "Tech House"
+            ]
+        },
+        "title": "That's Why I'm Here (Lexicon Avenue Dubs)",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A",
+                    "title": "That's Why I'm Here (Lexicon Avenue Dub)"
+                },
+                {
+                    "duration": "",
+                    "position": "B",
+                    "title": "That's Why I'm Here (Lexicon Avenue's Release The Crow Dub)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "372",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=kl0MkyJnw_M",
+                    "description": "",
+                    "title": "Li'Sha - That's Why I'm Here (Migs Moodscape Dub)"
+                },
+                {
+                    "_duration": "418",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=GpXE9BWVuB0",
+                    "description": "Label:Yoshitoshi Recordings ‎– YR075\nFormat:Vinyl, 12, 45 RPM, Salmon\nCountry:US\nReleased:27 Feb 2002\nGenre:Electronic\nStyle:Progressive House, Tech House",
+                    "title": "Li'sha ‎– That's Why I'm Here (Lexicon Avenue Dub)"
+                },
+                {
+                    "_duration": "301",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=M8Pg23R0oqk",
+                    "description": "Label:  © Transport Recordings ‎– TSP 001\nFormat: Vinyl, 12, EP\nLand: US\nYear: 1999\nGenre: Electronic, Funk / Soul\nStyle: House, Deep House, Soul",
+                    "title": "Phenix feat. Lisa Shaw - That's Why I'm Here"
+                },
+                {
+                    "_duration": "436",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=LjNAvn1hIFU",
+                    "description": "",
+                    "title": "Li'sha - That's Why I'm Here (Mig's Delux Soul Vocal)"
+                },
+                {
+                    "_duration": "474",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=i5B7LxdTE6M",
+                    "description": "Label:Yoshitoshi Recordings ‎– YR075\nFormat:Vinyl, 12, 45 RPM, Salmon\nCountry:US\nReleased:27 Feb 2002\nGenre:Electronic\nStyle:Progressive House, Tech House",
+                    "title": "Li'sha ‎– That's Why I'm Here (Lexicon Avenue's Release The Crow Dub)"
+                },
+                {
+                    "_duration": "376",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=M8g6XEt7tvc",
+                    "description": "Written \u0026 produced by Dave Warrin.\r\nVocals by Li'sha.",
+                    "title": "LI'SHA - That Why I'm Here [Dave's Wave].  1999"
+                },
+                {
+                    "_duration": "429",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=QCVwA5yit6k",
+                    "description": "",
+                    "title": "LI'SHA - THAT'S WHY I'M HERE (MIGS TRANSPORTERS VOCAL)"
+                }
+            ]
+        }
+    }
+}

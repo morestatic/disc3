@@ -1,0 +1,301 @@
+{
+    "release": {
+        "_id": "116922",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "2909",
+                "join": "",
+                "name": "Silence",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "63",
+                    "name": "Instinct Records",
+                    "resource_url": "https://api.discogs.com/labels/63"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "6",
+                    "entity_type_name": "Licensed From",
+                    "id": "60",
+                    "name": "Fax +49-69/450464",
+                    "resource_url": "https://api.discogs.com/labels/60"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "10",
+                    "entity_type_name": "Manufactured By",
+                    "id": "264196",
+                    "name": "KAO Optical Products",
+                    "resource_url": "https://api.discogs.com/labels/264196"
+                }
+            ]
+        },
+        "country": "US",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "8521",
+                    "join": "",
+                    "name": "Dr. Atmo",
+                    "role": "Written-By",
+                    "tracks": "All"
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": "All"
+                }
+            ]
+        },
+        "formats": {
+            "format": [
+                {
+                    "_name": "CD",
+                    "_qty": "1",
+                    "_text": "",
+                    "descriptions": {
+                        "description": "Album"
+                    }
+                },
+                {
+                    "_name": "CD",
+                    "_qty": "1",
+                    "_text": "",
+                    "descriptions": {
+                        "description": "Album"
+                    }
+                },
+                {
+                    "_name": "All Media",
+                    "_qty": "1",
+                    "_text": "",
+                    "descriptions": {
+                        "description": "Compilation"
+                    }
+                }
+            ]
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Barcode",
+                    "_value": "7 20841 55572 8"
+                },
+                {
+                    "_description": "Disc 1, mirrored",
+                    "_type": "Matrix / Runout",
+                    "_value": "MANUFACTURED BY KAO OPTICAL PRODUCTS ***AL007194-02*** FAX5557"
+                },
+                {
+                    "_description": "Disc 1",
+                    "_type": "Mastering SID Code",
+                    "_value": "none"
+                },
+                {
+                    "_description": "Disc 1",
+                    "_type": "Mould SID Code",
+                    "_value": "none"
+                },
+                {
+                    "_description": "Disc 2, mirrored",
+                    "_type": "Matrix / Runout",
+                    "_value": "MANUFACTURED BY KAO OPTICAL PRODUCTS ***AL007195-03*** FAX5557"
+                },
+                {
+                    "_description": "Disc 2, mould text",
+                    "_type": "Matrix / Runout",
+                    "_value": "A"
+                },
+                {
+                    "_type": "Mastering SID Code",
+                    "_value": "none"
+                },
+                {
+                    "_type": "Mould SID Code",
+                    "_value": "none"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "592"
+                },
+                {
+                    "_height": "482",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "585"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "590"
+                },
+                {
+                    "_height": "585",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "585",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "592"
+                },
+                {
+                    "_height": "482",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "517",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": [
+                {
+                    "_catno": "FAX-5557-2",
+                    "_id": "854027",
+                    "_name": "FAX USA"
+                },
+                {
+                    "_catno": "FAX-5557-2",
+                    "_id": "60",
+                    "_name": "Fax +49-69/450464"
+                }
+            ]
+        },
+        "notes": "Instinct/Fax USA reissue of the first two \"Silence\" albums that were originally released in 1992 and 1993, respectively. The second disc includes the track \"What is Time?\", which didn't feature on the initial \"Silence II\" release, but was added here and also on the Ambient World reissue.\nFurther, the initial \"Silence II\" has an unedited version of 2-2, \"Heaven\", with a duration of 22:55.\n\nOn both discs, back of front insert, and back insert (back cover):\nFAX +49-69/450464 logo\n\nBack insert (back cover):\nLicense courtesy of Fax Records (Germany)\n© Instinct Records\nprinted in the USA\n\nSome copies came with a sticker on the original cello-wrap:\nSILENCE\na FAX artist\nAMBIENT DOUBLE CD\nFAX-5557\n\nIssued in a single-wide CD jewel case (hinged on left, with DOUBLE embossed on tray sholder) with a 4-panel front insert.",
+        "released": "1994",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Experimental",
+                "Tribal"
+            ]
+        },
+        "title": "Silence I + II",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "21:51",
+                    "position": "1-1",
+                    "title": "Omid / Hope"
+                },
+                {
+                    "duration": "22:24",
+                    "position": "1-2",
+                    "title": "Garden Of Dreams"
+                },
+                {
+                    "duration": "9:49",
+                    "position": "1-3",
+                    "title": "Santur"
+                },
+                {
+                    "duration": "20:08",
+                    "position": "1-4",
+                    "title": "Trip"
+                },
+                {
+                    "duration": "29:24",
+                    "position": "2-1",
+                    "title": "Life / Death"
+                },
+                {
+                    "duration": "6:54",
+                    "position": "2-2",
+                    "title": "Heaven (Aw-Cut)"
+                },
+                {
+                    "duration": "11:28",
+                    "position": "2-3",
+                    "title": "Faith"
+                },
+                {
+                    "duration": "14:22",
+                    "position": "2-4",
+                    "title": "What Is Time?"
+                },
+                {
+                    "duration": "11:20",
+                    "position": "2-5",
+                    "title": "Sweet Angels"
+                }
+            ]
+        },
+        "videos": {
+            "video": {
+                "_duration": "8867",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=3AvcerpAIFA",
+                "description": "Pete Namlook and Dr. Atmo - Silence I + II [double CD full album] [1995]\n\nDisc-1\n1. Omid (Hope) 00:00\n2. Garden of Dreams 21:53\n3. Santur 44:20\n4. Trip 54:10\n\nDisc-2\n1. Life/Dead 01:14:16\n2. Heaven 01:43:40\n3. Faith 01:50:40\n4. What is Time 02:02:02\n5. Sw",
+                "title": "Pete Namlook - Silence I+II [full album]"
+            }
+        }
+    }
+}

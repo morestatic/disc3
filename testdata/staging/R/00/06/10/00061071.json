@@ -1,0 +1,332 @@
+{
+    "release": {
+        "_id": "61071",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "697675",
+                "join": "",
+                "name": "Domenic Cappello",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "UK",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "697675",
+                "join": "",
+                "name": "Domenic Cappello",
+                "role": "DJ Mix",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "Mixed"
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_type": "Barcode",
+                "_value": "5025425200250"
+            }
+        },
+        "images": {
+            "image": {
+                "_height": "597",
+                "_type": "primary",
+                "_uri": "",
+                "_uri150": "",
+                "_width": "600"
+            }
+        },
+        "labels": {
+            "label": {
+                "_catno": "LOADED CD2",
+                "_id": "40",
+                "_name": "Loaded Records"
+            }
+        },
+        "notes": "Title appears on the release as:\nSub Club presents Subversion Mixed by Domenic Cappello\n\nTracks 9 and 11 are incorrectly titled \"It's A Love Thing\" on the release",
+        "released": "2000",
+        "styles": {
+            "style": [
+                "House",
+                "Techno",
+                "Deep House"
+            ]
+        },
+        "title": "Subversion",
+        "tracklist": {
+            "track": [
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "3633",
+                            "join": "",
+                            "name": "Purveyors Of Fine Funk",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "2:50",
+                    "position": "1",
+                    "title": "Ashes Smashing Red"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "3686",
+                            "join": "",
+                            "name": "Benji Candelario",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "2:13",
+                    "position": "2",
+                    "title": "Komputer"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "Plastic Avenger",
+                            "id": "3563",
+                            "join": "",
+                            "name": "The Plastic Avengers",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:49",
+                    "position": "3",
+                    "title": "Chunkus Mahunkus"
+                },
+                {
+                    "artists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "67226",
+                                "join": "Presents",
+                                "name": "Stacey Pullen",
+                                "role": "",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "7554",
+                                "join": "",
+                                "name": "Black Odyssey",
+                                "role": "",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "duration": "7:16",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "67226",
+                            "join": "",
+                            "name": "Stacey Pullen",
+                            "role": "Presenter",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "4",
+                    "title": "Sweat"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1286",
+                            "join": "",
+                            "name": "Gene Farris",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:00",
+                    "position": "5",
+                    "title": "Here I Am Baby"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1489",
+                            "join": "",
+                            "name": "Octave One",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:11",
+                    "position": "6",
+                    "title": "Siege"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "3133",
+                            "join": "",
+                            "name": "Rhythim Is Rhythim",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:09",
+                    "position": "7",
+                    "title": "The Beginning (Aztec Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "17184",
+                            "join": "",
+                            "name": "Danny Morales",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:17",
+                    "position": "8",
+                    "title": "As The World Turns"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "866",
+                            "join": "",
+                            "name": "Paul Johnson",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "3:11",
+                    "position": "9",
+                    "title": "It's A Love Thang"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "170",
+                            "join": "",
+                            "name": "DJ Sneak",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:43",
+                    "position": "10",
+                    "title": "Cruise Kontrol"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "866",
+                            "join": "",
+                            "name": "Paul Johnson",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "2:55",
+                    "position": "11",
+                    "title": "It's A Love Thang"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "30",
+                            "join": "",
+                            "name": "Groove Collective",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:33",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "694",
+                                "join": "",
+                                "name": "Anthony Nicholson",
+                                "role": "Remix",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "693",
+                                "join": "",
+                                "name": "Ron Trent",
+                                "role": "Remix",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "12",
+                    "title": "Deal With It (The Gallery Collective Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "R Tyme",
+                            "id": "3231",
+                            "join": "",
+                            "name": "R-Tyme",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:16",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "4978",
+                            "join": "",
+                            "name": "Mayday",
+                            "role": "Mixed By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "13",
+                    "title": "R-Theme (Mayday Mix)"
+                }
+            ]
+        },
+        "videos": {
+            "video": {
+                "_duration": "3669",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=-psEZAAfgQg",
+                "description": "Domenic Cappello ‎– Subversion [Loaded]\n\nhttps://www.discogs.com/release/61071",
+                "title": "Domenic Cappello ‎– Subversion"
+            }
+        }
+    }
+}

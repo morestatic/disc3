@@ -1,0 +1,119 @@
+{
+    "release": {
+        "_id": "194446",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "15294",
+                "join": "",
+                "name": "Stanley Conaway",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "Germany",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "DJ Hubee",
+                    "id": "213509",
+                    "join": "",
+                    "name": "Hubertus Held",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "485",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "485"
+                },
+                {
+                    "_height": "485",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "485"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/43",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Limited 500 copies.\r\n\"SPECIAL THANKS AND LOVE TO MY WIFE TRACY CONAWAY\" \r\nIs Etched On Runout Groove On Side B",
+        "released": "1993-02-15",
+        "styles": {
+            "style": "House"
+        },
+        "title": "Stanley Conaway 3",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "6:04",
+                    "position": "A",
+                    "title": "Pepperbeef"
+                },
+                {
+                    "duration": "6:14",
+                    "position": "B",
+                    "title": "Pepperbee"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "365",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=-1MmL8TB8yo",
+                    "description": "http://www.discogs.com/Stanley-Conaway-Stanley-Conaway-3/release/194446\n\r\n\r-uploaded in HD at http://www.TunesToTube.com",
+                    "title": "Stanley Conaway - Pepperbeef (House 1993)"
+                },
+                {
+                    "_duration": "380",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=E0o5VPsxoUc",
+                    "description": "playful and flamboyant, the kinda tune that has everyone on a pivot, swivelling side to side pouting across the room, full peacock plumage on show\r\n\r\nDJ Hubee \u0026 Pete Namlook on production\r\n\r\nFax +49-69/450464 - Germany - 1993\r\n\r\nhttps://www.discogs.com/St",
+                    "title": "Stanley Conaway - Pepperbee"
+                }
+            ]
+        }
+    }
+}

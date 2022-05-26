@@ -1,0 +1,256 @@
+{
+    "release": {
+        "_id": "111421",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "8436",
+                "join": "",
+                "name": "Mojolators",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "US",
+        "data_quality": "Needs Vote",
+        "extraartists": "",
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "2",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Scanned",
+                    "_type": "Barcode",
+                    "_value": "713405964517"
+                },
+                {
+                    "_description": "Text",
+                    "_type": "Barcode",
+                    "_value": "7 13405 96451 7"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "MDR9645-1",
+                "_id": "20",
+                "_name": "Moody Recordings"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "139261"
+        },
+        "released": "2001",
+        "styles": {
+            "style": "House"
+        },
+        "title": "Drifting (Remixes)",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "6974642",
+                            "join": "",
+                            "name": "Camilla (32)",
+                            "role": "Featuring",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "A",
+                    "title": "Drifting (Original Mix)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "5013",
+                            "join": "",
+                            "name": "King Unique",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "B1",
+                    "title": "Drifting (King Unique Mix)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "20089",
+                            "join": "",
+                            "name": "Yousef",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "B2",
+                    "title": "Drifting (Yousef Mix)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "8436",
+                            "join": "",
+                            "name": "Mojolators",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "C1",
+                    "title": "Drifting (Mojolators Vocal Mix)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "1127039",
+                                "join": "",
+                                "name": "Cecil Moore",
+                                "role": "Remix",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "45529",
+                                "join": "",
+                                "name": "George Andrews",
+                                "role": "Remix",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "C2",
+                    "title": "Drifting (George Andrews \u0026 Cecil Moore Mix)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "85853",
+                            "join": "",
+                            "name": "Neil Hinde",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "D1",
+                    "title": "Drifting (Neil Hinde Mix)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "73546",
+                            "join": "",
+                            "name": "Xportent",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "D2",
+                    "title": "Drifting (Xportent Mix)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "409",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=N83L1Zdse-Y",
+                    "description": "Mojolators - Drifting (King Unique Mix)  ENJOY!",
+                    "title": "Mojolators - Drifting (King Unique Mix)"
+                },
+                {
+                    "_duration": "465",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=ZBiLKv67ZA4",
+                    "description": "http://www.discogs.com/Mojolators-Drifting-Remixes/release/1266524 Enjoy!",
+                    "title": "Mojolators - Drifting (Mojolators Vocal Mix) (2001)"
+                },
+                {
+                    "_duration": "553",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=4VxEo6ZY0jg",
+                    "description": "Subscribe here: https://goo.gl/TUHo4C\nBuy / Stream here: https://beatport.com/release/drifting-feat-camilla/1146397\n\nArtist: Yousef \u0026 Mojolators \u0026 Carmilla\nTrack Name: Drifting\nLabel Name: Moody Records\nRelease Date: 2013\n\nFollow Yousef:\nhttp://yousef.co.",
+                    "title": "Mojolators Feat. Camilla - Drifting (Yousef Remix) [Moody Records]"
+                },
+                {
+                    "_duration": "563",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=dHh2p4VDXtg",
+                    "description": "Recuerda puedes encontrar el mejor repertorio con los temas que más sonaron en los mejores clubs en el canal de YouTube: \nJose Galan - Musica Vinilo - https://www.youtube.com/channel/UC3BTbm6jCARPCb5z11CifIQ\n\nY los mejores sets con los temas más actuale",
+                    "title": "Mojolators - Drifting"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,476 @@
+{
+    "release": {
+        "_id": "21535",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "DJ John Howard",
+                "id": "1925",
+                "join": "",
+                "name": "John Howard",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "US",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "1925",
+                "join": "",
+                "name": "John Howard",
+                "role": "DJ Mix",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "Mixed"
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Text",
+                    "_type": "Barcode",
+                    "_value": "6 00353 00402 3"
+                },
+                {
+                    "_description": "String",
+                    "_type": "Barcode",
+                    "_value": "600353004023 "
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "592",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "469",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "OM040",
+                "_id": "702",
+                "_name": "OM Records"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "128789"
+        },
+        "released": "2000",
+        "styles": {
+            "style": [
+                "House",
+                "Deep House"
+            ]
+        },
+        "title": "San Francisco Sessions Vol.2",
+        "tracklist": {
+            "track": [
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "6540",
+                            "join": "",
+                            "name": "Martin Solveig",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:20",
+                    "position": "1",
+                    "title": "Heart Of Africa"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "18099",
+                            "join": "",
+                            "name": "The Deal",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "3:02",
+                    "position": "2",
+                    "title": "Play On (Inner Dub Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "2466",
+                            "join": "",
+                            "name": "Midnite City Soul Affair",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "3:46",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1746",
+                            "join": "",
+                            "name": "Jii Hoo",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "3",
+                    "title": "Still Loving You (Ji Hoo Remix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "679",
+                            "join": "",
+                            "name": "Bjørn Torske",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:16",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "190",
+                            "join": "",
+                            "name": "Erot",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "4",
+                    "title": "Sexy Disco (Erotic Dub Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "131408",
+                                "join": "\u0026",
+                                "name": "Kad Achouri",
+                                "role": "",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "287980",
+                                "join": "",
+                                "name": "London Latin Syndicate",
+                                "role": "",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "duration": "3:40",
+                    "position": "5",
+                    "title": "Latiname (Club Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "Bob Sinclair",
+                            "id": "224",
+                            "join": "",
+                            "name": "Bob Sinclar",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:01",
+                    "position": "6",
+                    "title": "Favelas"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "18101",
+                            "join": "",
+                            "name": "Freeloader",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:30",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "35",
+                            "join": "",
+                            "name": "Attaboy",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "7",
+                    "title": "Autobreakdown (Attaboy Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "4289",
+                            "join": "",
+                            "name": "Dan Jones",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:29",
+                    "position": "8",
+                    "title": "This Is The Way"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "10603",
+                            "join": "",
+                            "name": "Children Of Planet Earth",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:14",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "5357",
+                            "join": "",
+                            "name": "Guiro",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "9",
+                    "title": "You Are The Future (Guiro Dub)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "5142",
+                            "join": "",
+                            "name": "Shaboom",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:57",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "4139",
+                            "join": "",
+                            "name": "Mario J",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "10",
+                    "title": "Totally (Mario J Remix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "18102",
+                            "join": "",
+                            "name": "Eternal Boyman",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:58",
+                    "position": "11",
+                    "title": "Valkommen Till Framtiden"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "Plastic Avengers",
+                            "id": "3563",
+                            "join": "",
+                            "name": "The Plastic Avengers",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:14",
+                    "position": "12",
+                    "title": "Moondrops"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1280",
+                            "join": "",
+                            "name": "Underworld",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "7:45",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "180",
+                            "join": "",
+                            "name": "Salt City Orchestra",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "13",
+                    "title": "Cups (Salt City Orchestra's Vertical Bacon Vocal)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "3459",
+                            "join": "",
+                            "name": "Gabriel René",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:15",
+                    "position": "14",
+                    "title": "Dont You Cry (Big Latin Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "30",
+                            "join": "",
+                            "name": "Groove Collective",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "7:09",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "31",
+                            "join": "",
+                            "name": "Swag",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "15",
+                    "title": "Everything Is Changing (Swag Dub)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "431",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=l8_7p5WkS0Q",
+                    "description": "",
+                    "title": "Martin Solveig - Heart Of Africa"
+                },
+                {
+                    "_duration": "485",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=WvmQkdFju5s",
+                    "description": "Freeloader - Autobreakdown A1",
+                    "title": "Freeloader - Autobreakdown (Attaboy Mix)"
+                },
+                {
+                    "_duration": "325",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=tH9XpACc9Xo",
+                    "description": "Torske - Sexy Disco [Erotic Dub]\r\n\r\nhttp://www.discogs.com/Torske-Sexy-Disco/release/13090",
+                    "title": "Torske - Sexy Disco [Erotic Dub]"
+                },
+                {
+                    "_duration": "470",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=4XwcAiBho0E",
+                    "description": "You wanted it in a full lenght and unmixed version ? Done.",
+                    "title": "Children Of Planet Earth - You Are The Future (Guiro's Dub) Full Unmixed"
+                },
+                {
+                    "_duration": "392",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=NxTmhGgiWxM",
+                    "description": "Rare...  This is a hidden track. Taken from the Salomé De Bahia - Outro lugar cd single back in 1999. Enjoy!  :)",
+                    "title": "Bob Sinclar - Favelas (Crashapella)"
+                },
+                {
+                    "_duration": "519",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=BSNxzlH-Zps",
+                    "description": "Taken from the album Space Graffiti\nReleased on NRK Sound Division, 2000",
+                    "title": "Plastic Avengers - Moondrops"
+                },
+                {
+                    "_duration": "507",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=ThWDgF7wEiI",
+                    "description": "Underworld - Cups (Salt City Orchestra Vertical Bacon Vocal Mix) (John Digweed set). 4/5. Support the artist, buy the music.",
+                    "title": "Underworld - Cups (Salt City Orchestra Vertical Bacon Vocal Mix) (John Digweed set)"
+                },
+                {
+                    "_duration": "429",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=nPft9wFr1nE",
+                    "description": "",
+                    "title": "Gabriel Rene - Don't You Cry (Big Latin Mix) (feat. Nicole Weisberg)"
+                },
+                {
+                    "_duration": "442",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Z63kg5HHixo",
+                    "description": "© Astralwerks (2001)",
+                    "title": "Everything Is Changing (Swag Remix) - Groove Collective"
+                },
+                {
+                    "_duration": "466",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=yUp98HhxLps",
+                    "description": "Eternal Boyman aka Jori Hulkkonen 1999\n\nDisclaimer : no copyright infringement is intended, if the owner would like this removed let me know.",
+                    "title": "Eternal Boyman - Valkommen till framtiden"
+                }
+            ]
+        }
+    }
+}

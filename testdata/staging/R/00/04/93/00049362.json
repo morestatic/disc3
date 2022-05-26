@@ -1,0 +1,256 @@
+{
+    "release": {
+        "_id": "49362",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "29599",
+                "join": "",
+                "name": "The Dark Side Of The Moog",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "273555",
+                    "name": "Fabrik, Hamburg",
+                    "resource_url": "https://api.discogs.com/labels/273555"
+                },
+                {
+                    "catno": "43079",
+                    "entity_type": "17",
+                    "entity_type_name": "Pressed By",
+                    "id": "277449",
+                    "name": "P+O Pallas",
+                    "resource_url": "https://api.discogs.com/labels/277449"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "2118078",
+                    "join": "",
+                    "name": "PEK (3)",
+                    "role": "Graphics",
+                    "tracks": ""
+                },
+                {
+                    "anv": "W. Roettger",
+                    "id": "619326",
+                    "join": "",
+                    "name": "Wolfgang Röttger",
+                    "role": "Photography By [Live Photos]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "10360",
+                    "join": "",
+                    "name": "Klaus Schulze",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "58657",
+                    "join": "",
+                    "name": "Peter Kuhlmann",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "10360",
+                    "join": "",
+                    "name": "Klaus Schulze",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "PK 08/146 P+O-43079-A2 05-99"
+                },
+                {
+                    "_type": "Mastering SID Code",
+                    "_value": "IFPI L962"
+                },
+                {
+                    "_type": "Mould SID Code",
+                    "_value": "none"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "596",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "472",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "598",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "596",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "590"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/146",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "14023"
+        },
+        "notes": "Recorded live at the 23rd Jazz Festival Hamburg (Fabrik) on 23rd of April 1999. Finalized at Klanglabor, Traben-Trarbach/Mosel.\n\nLimitation: 3000. Made in Germany.\n\nThe title is (as with all other releases from the series), a wordplay of a song title from Pink Floyd: \"Careful with that Axe, Eugene\" turns into \"Careful with the AKS, Peter\". The AKS is a vintage synthesizer, and Peter is of course the real name of Pete Namlook.\n\nDuration of sub-tracks was taken from cd-player.",
+        "released": "1999-05-31",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Downtempo",
+                "Drum n Bass",
+                "Dub",
+                "Electro",
+                "Experimental"
+            ]
+        },
+        "title": "The Dark Side Of The Moog VIII",
+        "tracklist": {
+            "track": {
+                "duration": "1:16:51",
+                "position": "",
+                "sub_tracks": {
+                    "track": [
+                        {
+                            "duration": "25:16",
+                            "position": "1",
+                            "title": "Part I"
+                        },
+                        {
+                            "duration": "1:12",
+                            "position": "2",
+                            "title": "Part II"
+                        },
+                        {
+                            "duration": "6:19",
+                            "position": "3",
+                            "title": "Part III"
+                        },
+                        {
+                            "duration": "8:08",
+                            "position": "4",
+                            "title": "Part IV"
+                        },
+                        {
+                            "duration": "4:36",
+                            "position": "5",
+                            "title": "Part V"
+                        },
+                        {
+                            "duration": "15:40",
+                            "position": "6",
+                            "title": "Part VI"
+                        },
+                        {
+                            "duration": "6:58",
+                            "position": "7",
+                            "title": "Part VII"
+                        },
+                        {
+                            "duration": "8:40",
+                            "position": "8",
+                            "title": "Part VIII"
+                        }
+                    ]
+                },
+                "title": "Careful With The AKS, Peter"
+            }
+        },
+        "videos": {
+            "video": {
+                "_duration": "4610",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=fmyC2R_bbRg",
+                "description": "The Dark Side Of The Moog 8.",
+                "title": "Klaus Schulze \u0026 Pete Namlook - Careful with the AKS, Peter"
+            }
+        }
+    }
+}

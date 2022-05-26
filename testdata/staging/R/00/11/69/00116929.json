@@ -1,0 +1,394 @@
+{
+    "release": {
+        "_id": "116929",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "5279",
+                "join": "",
+                "name": "Air (2)",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "63",
+                    "name": "Instinct Records",
+                    "resource_url": "https://api.discogs.com/labels/63"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "6",
+                    "entity_type_name": "Licensed From",
+                    "id": "60",
+                    "name": "Fax +49-69/450464",
+                    "resource_url": "https://api.discogs.com/labels/60"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "10",
+                    "entity_type_name": "Manufactured By",
+                    "id": "264196",
+                    "name": "KAO Optical Products",
+                    "resource_url": "https://api.discogs.com/labels/264196"
+                }
+            ]
+        },
+        "country": "US",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "424669",
+                    "join": "",
+                    "name": "Kathrin Kruse",
+                    "role": "Music Consultant [Advice], Flute",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "723630",
+                    "join": "",
+                    "name": "Alexa Spielmann",
+                    "role": "Soprano Vocals",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "39643",
+                    "join": "",
+                    "name": "Elisabeth Michels",
+                    "role": "Soprano Vocals",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": [
+                {
+                    "_name": "CD",
+                    "_qty": "1",
+                    "_text": "",
+                    "descriptions": {
+                        "description": [
+                            "Album",
+                            "Reissue"
+                        ]
+                    }
+                },
+                {
+                    "_name": "CD",
+                    "_qty": "1",
+                    "_text": "",
+                    "descriptions": {
+                        "description": [
+                            "Album",
+                            "Reissue"
+                        ]
+                    }
+                },
+                {
+                    "_name": "All Media",
+                    "_qty": "1",
+                    "_text": "",
+                    "descriptions": {
+                        "description": [
+                            "Compilation",
+                            "Mixed"
+                        ]
+                    }
+                }
+            ]
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Text",
+                    "_type": "Barcode",
+                    "_value": "7 20841 55562 9"
+                },
+                {
+                    "_description": "String",
+                    "_type": "Barcode",
+                    "_value": "720841555629"
+                },
+                {
+                    "_description": "CD1. Mirrored",
+                    "_type": "Matrix / Runout",
+                    "_value": "MANUFACTURED BY KAO OPTICAL PRODUCTS ***AL007196-02*** FAX 5556-2"
+                },
+                {
+                    "_description": "CD2. Mirrored",
+                    "_type": "Matrix / Runout",
+                    "_value": "MANUFACTURED BY KAO OPTICAL PRODUCTS ***AL007197-02*** FAX 5556-2"
+                },
+                {
+                    "_description": "CD1 \u0026 CD2. Moulded in inner ring. Mirrored.",
+                    "_type": "Other",
+                    "_value": "1"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "594"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "598"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "596"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "596"
+                },
+                {
+                    "_height": "486",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "484",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "582"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "598"
+                },
+                {
+                    "_height": "321",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": [
+                {
+                    "_catno": "FAX-5556-2",
+                    "_id": "854027",
+                    "_name": "FAX USA"
+                },
+                {
+                    "_catno": "FAX-5556-2",
+                    "_id": "60",
+                    "_name": "Fax +49-69/450464"
+                }
+            ]
+        },
+        "notes": "Instinct/Fax USA reissue of the first two Air CDs that were released in 1993 and 1994, respectively.\r\n\r\nPete Namlook\r\nFRANKFURT 1993/94\r\n\r\n(C) 1994 Instinc Records\r\nLicense courtesy of Fax Records (Germany)\r\nPrinted in USA\r\n\r\nThe durations were taken from the discs' table of contents except for the index tracks whose durations are printed on the tray card. The actual durations for both discs are, respectively 60:02 and 60:15.",
+        "released": "1994-10-18",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Downtempo",
+                "Experimental",
+                "Trance",
+                "Tribal"
+            ]
+        },
+        "title": "Air I + II",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "",
+                    "title": "Air"
+                },
+                {
+                    "duration": "60:00",
+                    "position": "",
+                    "sub_tracks": {
+                        "track": [
+                            {
+                                "duration": "7:53",
+                                "position": "1-01",
+                                "title": "Wind"
+                            },
+                            {
+                                "duration": "4:36",
+                                "position": "1-02",
+                                "title": "1st Impression"
+                            },
+                            {
+                                "duration": "0:37",
+                                "position": "1-03",
+                                "title": "Breeze"
+                            },
+                            {
+                                "duration": "7:34",
+                                "position": "1-04",
+                                "title": "Je Suis Triste Et Seul Ici"
+                            },
+                            {
+                                "duration": "3:13",
+                                "position": "1-05",
+                                "title": "Spiritual Invocation"
+                            },
+                            {
+                                "duration": "11:40",
+                                "position": "1-06",
+                                "title": "Arc"
+                            },
+                            {
+                                "duration": "2:55",
+                                "position": "1-07",
+                                "title": "Mystical Appearance"
+                            },
+                            {
+                                "duration": "9:29",
+                                "position": "1-08",
+                                "title": "Chaque Ligne De Ta Peau Fut Aimée"
+                            },
+                            {
+                                "duration": "12:05",
+                                "position": "1-09",
+                                "title": "Lost In Passion"
+                            }
+                        ]
+                    },
+                    "title": "You"
+                },
+                {
+                    "duration": "",
+                    "position": "",
+                    "title": "Air II"
+                },
+                {
+                    "duration": "60:00",
+                    "position": "",
+                    "sub_tracks": {
+                        "track": [
+                            {
+                                "duration": "11:45",
+                                "position": "2-01",
+                                "title": "Trip 1"
+                            },
+                            {
+                                "duration": "5:59",
+                                "position": "2-02",
+                                "title": "Trip 2"
+                            },
+                            {
+                                "duration": "2:23",
+                                "position": "2-03",
+                                "title": "Trip 3"
+                            },
+                            {
+                                "duration": "4:30",
+                                "position": "2-04",
+                                "title": "Trip 4"
+                            },
+                            {
+                                "duration": "7:37",
+                                "position": "2-05",
+                                "title": "Trip 5"
+                            },
+                            {
+                                "duration": "3:52",
+                                "position": "2-06",
+                                "title": "Trip 6"
+                            },
+                            {
+                                "duration": "0:59",
+                                "position": "2-07",
+                                "title": "Trip 7"
+                            },
+                            {
+                                "duration": "4:34",
+                                "position": "2-08",
+                                "title": "Trip 8"
+                            },
+                            {
+                                "duration": "8:22",
+                                "position": "2-09",
+                                "title": "Trip 9"
+                            },
+                            {
+                                "duration": "4:31",
+                                "position": "2-10",
+                                "title": "Trip 10"
+                            },
+                            {
+                                "duration": "5:43",
+                                "position": "2-11",
+                                "title": "Trip 11"
+                            }
+                        ]
+                    },
+                    "title": "Traveling Without Moving"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "3601",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=tuNE4Pfttpg",
+                    "description": "Artist: Pete Namlook\nAlbum: Air\nLabel: Fax +49-69/450464\nYear: 1993\n\nTracklist:\n1. Wind [0:00]\n2. 1st Impression [7:53]\n3. Breeze [12:29]\n4. Je Suis Triste Et Seul Ici [13:07]\n5. Spiritual Invocation [20:41]\n6. Arc [23:53]\n7. Mystical Appearance [35:34]\n8",
+                    "title": "Pete Namlook - Air (Full Album) [1993]"
+                },
+                {
+                    "_duration": "3614",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=uZDY-W2QbP4",
+                    "description": "Artist: Pete Namlook\nAlbum: Air II\nLabel: Fax +49-69/450464\nYear: 1994\n\n*Traveling Without Moving* Tracklist:\n1. Trip 1 [0:00]\n2. Trip 2 [11:44]\n3. Trip 3 [17:44] **\n4. Trip 4 [20:07] **\n5. Trip 5 [24:38]\n6. Trip 6 [32:16] **\n7. Trip 7 [36:07] **\n8. Trip",
+                    "title": "Pete Namlook - Air II (Full Album) [1994]"
+                }
+            ]
+        }
+    }
+}

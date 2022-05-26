@@ -1,0 +1,225 @@
+{
+    "release": {
+        "_id": "219680",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "15606",
+                "join": "",
+                "name": "Superchumbo",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "40",
+                    "name": "Loaded Records",
+                    "resource_url": "https://api.discogs.com/labels/40"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "40",
+                    "name": "Loaded Records",
+                    "resource_url": "https://api.discogs.com/labels/40"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "30",
+                    "entity_type_name": "Lacquer Cut At",
+                    "id": "181778",
+                    "name": "Metropolis Mastering",
+                    "resource_url": "https://api.discogs.com/labels/181778"
+                }
+            ]
+        },
+        "country": "UK",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "Miles",
+                    "id": "383408",
+                    "join": "",
+                    "name": "Miles Showell",
+                    "role": "Lacquer Cut By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "48766",
+                    "join": "",
+                    "name": "Sylvia Mason-James",
+                    "role": "Vocals [Featuring]",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM",
+                        "Promo"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "A side runout etched",
+                    "_type": "Matrix / Runout",
+                    "_value": "LOAD . 92 A₁ Miles."
+                },
+                {
+                    "_description": "AA side runout etched",
+                    "_type": "Matrix / Runout",
+                    "_value": "LOAD 92 B₁ Miles"
+                },
+                {
+                    "_description": "A \u0026 AA side runout stamped",
+                    "_type": "Matrix / Runout",
+                    "_value": "Ⓜ"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": [
+                {
+                    "_catno": "LOAD92p",
+                    "_id": "40",
+                    "_name": "Loaded Records"
+                },
+                {
+                    "_catno": "LOAD92p",
+                    "_id": "5005",
+                    "_name": "Twisted America Records"
+                }
+            ]
+        },
+        "master_id": {
+            "_is_main_release": "false",
+            "content": "136596"
+        },
+        "notes": "Comes in Loaded promo sleeve, says 'Promo Only.'\n\nP Loaded Records 2002.  C Loaded Record 2002.\n\nMade in England",
+        "released": "2002",
+        "styles": {
+            "style": "Progressive House"
+        },
+        "title": "Irresistible",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A",
+                    "title": "Irresistible (Original)"
+                },
+                {
+                    "duration": "",
+                    "position": "AA",
+                    "title": "Irresistible (Dub)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "193",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=wravpk1GOeo",
+                    "description": "RS: What about your videos? I work in a video club and I remember when I got the video for Irresistible, I was like oh my God, how did they do this thing? Did you envision translating that song from audio to visual, and did you make the video yourself?\r\nT",
+                    "title": "Superchumbo Irresistible (feat. Sylvia Mason James)"
+                },
+                {
+                    "_duration": "211",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=WyK88uVn4mo",
+                    "description": "Provided to YouTube by The Orchard Enterprises\n\nIrresistible · Superchumbo · Sylvia Mason-James\n\nWowie Zowie\n\n℗ 2005 TWISTED Records, Inc.\n\nReleased on: 2007-02-26\n\nAuto-generated by YouTube.",
+                    "title": "Irresistible"
+                },
+                {
+                    "_duration": "689",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=JJAYOgtXifw",
+                    "description": "bomb",
+                    "title": "Superchumbo, Tom Stephan - Irresistible!  Maurel \u0026 Fauvrelle More Mix"
+                },
+                {
+                    "_duration": "577",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=pSLneHBl_CY",
+                    "description": "Irresistible.  Mouth Watering Mix.  Superchumbo.\nTwisted America Records.\n2002.\n\nSuperchumbo = Tom Stephan.",
+                    "title": "Irresistible (Mouth Watering Mix) - Superchumbo"
+                },
+                {
+                    "_duration": "478",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Pd-ETYNzebM",
+                    "description": "Irresistible.  Adam Freemer's Aquatic Dub.  Superchumbo.\nTwisted America Records.\n2002.",
+                    "title": "Irresistible (Adam Freemer's Aquatic Dub) - Superchumbo"
+                },
+                {
+                    "_duration": "335",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=hsio8TBWyZ4",
+                    "description": "Provided to YouTube by The Orchard Enterprises\n\nIrresistible · Superchumbo\n\nTwist This Pussy 2003\n\n℗ 2003 TWISTED Records, Inc.\n\nReleased on: 2007-03-08\n\nAuto-generated by YouTube.",
+                    "title": "Irresistible"
+                },
+                {
+                    "_duration": "301",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=-AWb1VYQpYE",
+                    "description": "Side A \nLabel - Loaded Records ‎– LOAD 092 X 2002\nHouse\nOld School Never Died\n#Machines #Technics #Quartz #SL1210MK2\n#superchumbo #frankmaurel #carlosfauvrelle #loadedrecords\n#márciomorales #smallroomrecords409 \n#house #techouse #techno\n🇵🇹🎶",
+                    "title": "Superchumbo - Irresistible (Frank Maurel \u0026 Carlos Fauvrelle More Mix)"
+                }
+            ]
+        }
+    }
+}

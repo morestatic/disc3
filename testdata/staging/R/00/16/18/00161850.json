@@ -1,0 +1,186 @@
+{
+    "release": {
+        "_id": "161850",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "30",
+                "join": "",
+                "name": "Groove Collective",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "US",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "158991",
+                "join": "",
+                "name": "Genji Siraisi",
+                "role": "Producer",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "12\""
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Runout A Side Etched",
+                    "_type": "Matrix / Runout",
+                    "_value": "LSL-227A ✔  [Signature]"
+                },
+                {
+                    "_description": "Runout B Side Etched",
+                    "_type": "Matrix / Runout",
+                    "_value": "LSL-227B RE.1  I  [Signature]"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "484",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "567",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "LSL 227",
+                "_id": "5432",
+                "_name": "Liquid Sound Lounge"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "false",
+            "content": "169373"
+        },
+        "released": "2000",
+        "styles": {
+            "style": [
+                "Deep House",
+                "Jazzdance"
+            ]
+        },
+        "title": "Some People",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "7:02",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "5314",
+                            "join": "",
+                            "name": "Victor Simonelli",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "a1",
+                    "title": "Some People (VJS HeMix)"
+                },
+                {
+                    "duration": "0:30",
+                    "position": "a2",
+                    "title": "Some People (BaDAba)"
+                },
+                {
+                    "duration": "6:00",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "35068",
+                                "join": "",
+                                "name": "Jeannie Hopper",
+                                "role": "Remix",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "20364",
+                                "join": "",
+                                "name": "Vicki Bell",
+                                "role": "Remix",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "b1",
+                    "title": "Some People (Bell-Hop Breaks Six SheMix)"
+                },
+                {
+                    "duration": "2:14",
+                    "position": "b2",
+                    "title": "Some People (Some Bonus Beats)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "430",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=iAJP16JXLtg",
+                    "description": "",
+                    "title": "Groove Collective - Some People"
+                },
+                {
+                    "_duration": "429",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=SEXTvJ1gZik",
+                    "description": "From:Some People 12\r\nLabel: Liquid Sound Lounge\r\nUnited States\r\nEnjoy :)",
+                    "title": "Groove Collective-Some people (95 North remix) (2000)"
+                },
+                {
+                    "_duration": "399",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=LKOlH0IGkd4",
+                    "description": "-uploaded in HD at http://www.TunesToTube.com",
+                    "title": "Groove Collective ~ Some People (95 North Dub)"
+                }
+            ]
+        }
+    }
+}

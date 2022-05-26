@@ -1,0 +1,171 @@
+{
+    "release": {
+        "_id": "14",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "50",
+                "join": "",
+                "name": "ADNY",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "US",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "A.Delano",
+                    "id": "26",
+                    "join": "",
+                    "name": "Alexi Delano",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "J.Dahlback",
+                    "id": "239",
+                    "join": "",
+                    "name": "Jesper Dahlbäck",
+                    "role": "Producer",
+                    "tracks": "B1"
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "599"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "ET12-003",
+                "_id": "2",
+                "_name": "Earthtones Recordings"
+            }
+        },
+        "notes": "No durations appear on release.",
+        "released": "1999-04-00",
+        "styles": {
+            "style": [
+                "House",
+                "Deep House"
+            ]
+        },
+        "title": "Sincere, The Sky Be",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "5:42",
+                    "position": "A1",
+                    "title": "What If I Love"
+                },
+                {
+                    "duration": "5:20",
+                    "position": "A2",
+                    "title": "Seems Like Yesterday"
+                },
+                {
+                    "duration": "5:18",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "227631",
+                                "join": "",
+                                "name": "Anjay Carney",
+                                "role": "Saxophone [Sax]",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "926345",
+                                "join": "",
+                                "name": "John Stewart (5)",
+                                "role": "Vocals",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "B1",
+                    "title": "Deeper"
+                },
+                {
+                    "duration": "4:53",
+                    "position": "B2",
+                    "title": "Sincere, The Sky Be"
+                },
+                {
+                    "duration": "1:33",
+                    "position": "B3",
+                    "title": "City Spring"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "344",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=P3pDUH9VwSQ",
+                    "description": "ADNY ‎– WHAT IF I LOVE (ET12-003)\n\n#pvnx #thismustbethetrack #russianadvisor #ra #bvckgrnd\n\nhttps://www.discogs.com/ADNY-SincereSky-Be/release/14\nLabel: Earthtones Recordings ‎– ET12-003\nFormat: Vinyl, 12, 33 ⅓ RPM \nCountry: US\nReleased: Apr 19",
+                    "title": "ADNY ‎– WHAT IF I LOVE (ET12-003)"
+                },
+                {
+                    "_duration": "326",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=oPJV67sUl08",
+                    "description": "http://www.discogs.com/ADNY-SincereSky-Be/release/14",
+                    "title": "ADNY - Seems Like Yesterday"
+                },
+                {
+                    "_duration": "315",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=KcAzjrDvoS0",
+                    "description": "ADNY - Deeper",
+                    "title": "ADNY - Deeper"
+                },
+                {
+                    "_duration": "314",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=sFC7ocV1hdQ",
+                    "description": "http://www.discogs.com/ADNY-SincereSky-Be/release/14",
+                    "title": "ADNY - Sincere, The Sky Be"
+                }
+            ]
+        }
+    }
+}

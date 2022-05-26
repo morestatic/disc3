@@ -1,0 +1,166 @@
+{
+    "release": {
+        "_id": "33215",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "97",
+                "join": "",
+                "name": "Super_Collider",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "UK",
+        "data_quality": "Correct",
+        "extraartists": "",
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "Promo"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": {
+                "_height": "600",
+                "_type": "secondary",
+                "_uri": "",
+                "_uri150": "",
+                "_width": "598"
+            }
+        },
+        "labels": {
+            "label": {
+                "_catno": "SUPER 3",
+                "_id": "40",
+                "_name": "Loaded Records"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "false",
+            "content": "43894"
+        },
+        "released": "1999-00-00",
+        "styles": {
+            "style": [
+                "Abstract",
+                "Techno",
+                "Experimental"
+            ]
+        },
+        "title": "It Won't Be Long",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A1",
+                    "title": "It Won't Be Long (Original)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1118",
+                            "join": "",
+                            "name": "Neil Landstrumm",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "A2",
+                    "title": "It Won't Be Long (Neil Landstrumm Remix)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "7211",
+                            "join": "",
+                            "name": "Midfield General",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "B1",
+                    "title": "It Won't Be Long (Midfield General Remix)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "26237",
+                            "join": "",
+                            "name": "The Lidettes",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "B2",
+                    "title": "It Wont Be Long (The Lidettes Remix)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "248",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=hUgtLCdQyf4",
+                    "description": "",
+                    "title": "Super Collider - It Won't Be Long"
+                },
+                {
+                    "_duration": "410",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Mh9xkyEfSGc",
+                    "description": "It Won't Be Long/Take Me Home 12\r\nLoaded Records\r\n1999.",
+                    "title": "Super_Collider - Take Me Home (Buckfunk 3000 Mix)"
+                },
+                {
+                    "_duration": "368",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=F9PJjFz9nuE",
+                    "description": "(C) Loaded\r\n\r\nhttp://www.youtube.com/user/7e51en",
+                    "title": "Super Collider - It Won't Be Long |Midfield General Remix| (Head On)"
+                },
+                {
+                    "_duration": "405",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=izLkKA_Hotk",
+                    "description": "",
+                    "title": "It Won't Be Long (Neil Landstrumm Remix)"
+                },
+                {
+                    "_duration": "257",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=X-aKKYYkb4w",
+                    "description": "",
+                    "title": "Super Collider - It Won't Be Long (High res/ Official video)"
+                },
+                {
+                    "_duration": "365",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=lNbM1_5y4hc",
+                    "description": "(C) Loaded",
+                    "title": "Super Collider - Take Me Home (Head On)"
+                }
+            ]
+        }
+    }
+}

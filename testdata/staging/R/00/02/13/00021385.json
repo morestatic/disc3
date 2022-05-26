@@ -1,0 +1,144 @@
+{
+    "release": {
+        "_id": "21385",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "3633",
+                "join": "",
+                "name": "Purveyors Of Fine Funk",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "US",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "D. Curtin",
+                    "id": "3402",
+                    "join": "",
+                    "name": "Dan Curtin",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "The Purveyors Of Fine Funk",
+                    "id": "3633",
+                    "join": "",
+                    "name": "Purveyors Of Fine Funk",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "EP",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_type": "Barcode",
+                "_value": "7 13405 96301 5"
+            }
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "591"
+                },
+                {
+                    "_height": "416",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "418"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "MDR9630-1",
+                "_id": "20",
+                "_name": "Moody Recordings"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "204467"
+        },
+        "notes": "Sleeve shows incorrect track order, label is correct.",
+        "released": "2000-00-00",
+        "styles": {
+            "style": [
+                "Deep House",
+                "Tech House"
+            ]
+        },
+        "title": "Sonicsoul EP",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "7:09",
+                    "position": "A1",
+                    "title": "Give Me Joy"
+                },
+                {
+                    "duration": "7:28",
+                    "position": "A2",
+                    "title": "Sonicsoul"
+                },
+                {
+                    "duration": "8:17",
+                    "position": "B",
+                    "title": "Only Hot"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "458",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=PxeiKCFO1CU",
+                    "description": "",
+                    "title": "Sonicsoul"
+                },
+                {
+                    "_duration": "435",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=nBCnLYCZG3M",
+                    "description": "",
+                    "title": "Give Me Joy"
+                },
+                {
+                    "_duration": "496",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=bkzlrFmgtOM",
+                    "description": "",
+                    "title": "Only Hot"
+                }
+            ]
+        }
+    }
+}

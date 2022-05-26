@@ -1,0 +1,207 @@
+{
+    "release": {
+        "_id": "68587",
+        "_status": "Accepted",
+        "artists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "15725",
+                    "join": "\u0026",
+                    "name": "Grant Dell",
+                    "role": "",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "15728",
+                    "join": "Presents",
+                    "name": "Gareth Oxby",
+                    "role": "",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "49745",
+                    "join": "",
+                    "name": "Tribalation",
+                    "role": "",
+                    "tracks": ""
+                }
+            ]
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "48207",
+                    "name": "Copyright Control",
+                    "resource_url": "https://api.discogs.com/labels/48207"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "9",
+                    "entity_type_name": "Distributed By",
+                    "id": "285289",
+                    "name": "Prime Distribution",
+                    "resource_url": "https://api.discogs.com/labels/285289"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "40",
+                    "name": "Loaded Records",
+                    "resource_url": "https://api.discogs.com/labels/40"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "40",
+                    "name": "Loaded Records",
+                    "resource_url": "https://api.discogs.com/labels/40"
+                }
+            ]
+        },
+        "country": "UK",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "15728",
+                    "join": "",
+                    "name": "Gareth Oxby",
+                    "role": "Mixed By, Engineer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "15728",
+                    "join": "",
+                    "name": "Gareth Oxby",
+                    "role": "Written-By, Producer, Presenter",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "15725",
+                    "join": "",
+                    "name": "Grant Dell",
+                    "role": "Written-By, Producer, Presenter",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "EP",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Text",
+                    "_type": "Barcode",
+                    "_value": "5025 4254 087 2 4"
+                },
+                {
+                    "_description": "Scanned",
+                    "_type": "Barcode",
+                    "_value": "5025425408724"
+                },
+                {
+                    "_description": "Etched runout A",
+                    "_type": "Matrix / Runout",
+                    "_value": "LOAD 87-A¹ MA"
+                },
+                {
+                    "_description": "Etched runout B",
+                    "_type": "Matrix / Runout",
+                    "_value": "LOAD 87-AA¹ MA"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "592",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "LOAD 087",
+                "_id": "40",
+                "_name": "Loaded Records"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "234325"
+        },
+        "released": "2001",
+        "styles": {
+            "style": "House"
+        },
+        "title": "EP3",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A",
+                    "title": "I Can't Understand"
+                },
+                {
+                    "duration": "",
+                    "position": "AA",
+                    "title": "Tribal Shakedown"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "525",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=kbbZw1DugL0",
+                    "description": "Tribalation - Tribal Shakedown [Loaded, 2001]",
+                    "title": "Tribalation - Tribal Shakedown [Loaded, 2001]"
+                },
+                {
+                    "_duration": "586",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=kVRY8BXe3jI",
+                    "description": "Grant Dell \u0026 Gareth Oxby Presents Tribalation ‎– EP3\r\nLabel: Loaded Records ‎– LOAD 087\r\nFormat: Vinyl, 12, EP, 33 ⅓ RPM \r\nCountry: UK\r\nReleased: 2001\r\nGenre: Electronic\r\nStyle: House\r\n\r\nhttps://www.discogs.com/Grant-Dell-Gareth-Oxby-Presents-T",
+                    "title": "Tribalation - I Can't Understand"
+                }
+            ]
+        }
+    }
+}

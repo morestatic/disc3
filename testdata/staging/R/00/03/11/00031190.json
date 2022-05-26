@@ -1,0 +1,201 @@
+{
+    "release": {
+        "_id": "31190",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "1377",
+                "join": "",
+                "name": "G Flame",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "US",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "14888",
+                "join": "",
+                "name": "Cisco Ferreira",
+                "role": "Producer",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "2",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "EP"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "591",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "591"
+                },
+                {
+                    "_height": "300",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "296"
+                },
+                {
+                    "_height": "300",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "300"
+                },
+                {
+                    "_height": "299",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "300"
+                },
+                {
+                    "_height": "298",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "300"
+                },
+                {
+                    "_height": "298",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "300"
+                },
+                {
+                    "_height": "76",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "300"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "MDR9651-1",
+                "_id": "20",
+                "_name": "Moody Recordings"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "397690"
+        },
+        "notes": "'Da Wallz' contains samples from [url=http://www.discogs.com/release/31300]'Bring Down The Walls[/url] by Robert Owens",
+        "released": "2002",
+        "styles": {
+            "style": [
+                "Techno",
+                "Tech House"
+            ]
+        },
+        "title": "House Traitor E.P.",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A",
+                    "title": "Da Wallz"
+                },
+                {
+                    "duration": "",
+                    "position": "B",
+                    "title": "Golden Brown"
+                },
+                {
+                    "duration": "",
+                    "position": "C",
+                    "title": "House Traitors"
+                },
+                {
+                    "duration": "",
+                    "position": "D1",
+                    "title": "D-Youth Prt 2"
+                },
+                {
+                    "duration": "",
+                    "position": "D2",
+                    "title": "Golden Brown (Sex Mix)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "177",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=cN2AmLStf5o",
+                    "description": "G Flame is one of Cicso Ferreira's production aliases. He is probably best known for his mid-1990's work as one half of techno duo The Advent, and has been involved in remixing work from the likes of CJ Bolland, The Prodigy, and New Order. G Flame was a h",
+                    "title": "G Flame-Golden Brown (Sex Mix) (2002 house/techno)"
+                },
+                {
+                    "_duration": "339",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=yJRQMFuIT4Y",
+                    "description": "g flame - da wallz",
+                    "title": "g flame - da wallz"
+                },
+                {
+                    "_duration": "319",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=dNXBBlsWDwI",
+                    "description": "Provided to YouTube by Symphonic Distribution\n\nHouse Traitors · G Flame\n\nHouse Traitor EP\n\n℗ 2013 Moody Recordings\n\nReleased on: 2013-08-25\n\nAuto-generated by YouTube.",
+                    "title": "House Traitors (Original Mix)"
+                },
+                {
+                    "_duration": "175",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=cvJjXzLCgaw",
+                    "description": "Provided to YouTube by Symphonic Distribution\n\nGolden Brown · G Flame\n\nHouse Traitor EP\n\n℗ 2013 Moody Recordings\n\nReleased on: 2013-08-25\n\nAuto-generated by YouTube.",
+                    "title": "Golden Brown (Sex Mix)"
+                },
+                {
+                    "_duration": "340",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=3hD05Kl-_GQ",
+                    "description": "Provided to YouTube by Symphonic Distribution\n\nDa Wallz · G Flame\n\nHouse Traitor EP\n\n℗ 2013 Moody Recordings\n\nReleased on: 2013-08-25\n\nAuto-generated by YouTube.",
+                    "title": "Da Wallz (Original Mix)"
+                },
+                {
+                    "_duration": "195",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=IC2GUtH-5ME",
+                    "description": "Provided to YouTube by Symphonic Distribution\n\nD-Youth Part 2 · G Flame\n\nHouse Traitor EP\n\n℗ 2013 Moody Recordings\n\nReleased on: 2013-08-25\n\nAuto-generated by YouTube.",
+                    "title": "D-Youth Part 2 (Original Mix)"
+                },
+                {
+                    "_duration": "266",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=RKywHGPplAE",
+                    "description": "Provided to YouTube by Symphonic Distribution\n\nGolden Brown · G Flame\n\nHouse Traitor EP\n\n℗ 2013 Moody Recordings\n\nReleased on: 2013-08-25\n\nAuto-generated by YouTube.",
+                    "title": "Golden Brown (Original Mix)"
+                }
+            ]
+        }
+    }
+}

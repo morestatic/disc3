@@ -1,0 +1,262 @@
+{
+    "release": {
+        "_id": "24304",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "293206",
+                "join": "",
+                "name": "Move D / Namlook",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "265012",
+                    "name": "Klanglabor Hödeshof",
+                    "resource_url": "https://api.discogs.com/labels/265012"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "36",
+                    "entity_type_name": "Edited At",
+                    "id": "265055",
+                    "name": "reSource Heidelberg",
+                    "resource_url": "https://api.discogs.com/labels/265055"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "27",
+                    "entity_type_name": "Mixed At",
+                    "id": "265012",
+                    "name": "Klanglabor Hödeshof",
+                    "resource_url": "https://api.discogs.com/labels/265012"
+                },
+                {
+                    "catno": "52533",
+                    "entity_type": "31",
+                    "entity_type_name": "Glass Mastered At",
+                    "id": "277449",
+                    "name": "P+O Pallas",
+                    "resource_url": "https://api.discogs.com/labels/277449"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "33",
+                    "entity_type_name": "Designed At",
+                    "id": "60",
+                    "name": "Fax +49-69/450464",
+                    "resource_url": "https://api.discogs.com/labels/60"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "D.Moufang",
+                    "id": "152",
+                    "join": "",
+                    "name": "David Moufang",
+                    "role": "Edited By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "2022694",
+                    "join": "",
+                    "name": "Andre Ruello",
+                    "role": "Graphics",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "152",
+                    "join": "",
+                    "name": "David Moufang",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "58657",
+                    "join": "",
+                    "name": "Peter Kuhlmann",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "152",
+                    "join": "",
+                    "name": "David Moufang",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Text",
+                    "_type": "Barcode",
+                    "_value": "8 07297 00912 5"
+                },
+                {
+                    "_description": "Scanned",
+                    "_type": "Barcode",
+                    "_value": "807297009125"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "PK 08/158  P+O-52533-A2  05-01"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "593",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "593",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "597",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "269",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "550"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/158",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "298653"
+        },
+        "notes": "Recorded live at Klanglabor on April, 19th 2001 (in booklet)\r\nRecorded and finalized at Klanglabor, Traben-Trarbach / Mosel (on tray card)\r\nEdited at reSource, Heidelberg\r\nSpecial thanks from P.N. to: [...] Andre Ruello for excellent graphics [...] (in booklet)\r\nGraphics: andre@faxlabel.com (on tray card)\r\nMade in Germany\r\nLimited to 2,000 copies.",
+        "released": "2001-05-21",
+        "styles": {
+            "style": [
+                "Techno",
+                "Future Jazz",
+                "Ambient"
+            ]
+        },
+        "title": "Move D / Namlook V - Wired",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "27:38",
+                    "position": "1",
+                    "title": "Softwired"
+                },
+                {
+                    "duration": "0:21",
+                    "position": "2",
+                    "title": "Short Return Of The Astrogator"
+                },
+                {
+                    "duration": "8:39",
+                    "position": "3",
+                    "title": "Hardwired - Tangent"
+                },
+                {
+                    "duration": "9:33",
+                    "position": "4",
+                    "title": "Hardwired - Hypotenuse"
+                },
+                {
+                    "duration": "4:39",
+                    "position": "5",
+                    "title": "Hardwired - Asymptote"
+                },
+                {
+                    "duration": "8:21",
+                    "position": "6",
+                    "title": "Wear Your Love Out"
+                },
+                {
+                    "duration": "8:44",
+                    "position": "7",
+                    "title": "1969"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "3995",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=JZXiEPtHmaM",
+                    "description": "Another masterpiece by the duo of David Moufang \u0026 Peter Kuhlmann.\nReleased 2001, Fax +49-69/450464.",
+                    "title": "Namlook \u0026 Move D - Wired (Full Album)"
+                },
+                {
+                    "_duration": "502",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=g8rTYuJGmu8",
+                    "description": "Move D / Namlook V - Wired:\n\nhttp://www.discogs.com/Move-D-Namlook-Move-D-Namlook-V-Wired/release/24304",
+                    "title": "Move D / Namlook - Wear Your Love Out"
+                }
+            ]
+        }
+    }
+}

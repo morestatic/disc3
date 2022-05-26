@@ -1,0 +1,164 @@
+{
+    "release": {
+        "_id": "74070",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "29599",
+                "join": "",
+                "name": "The Dark Side Of The Moog",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "661",
+                    "join": "",
+                    "name": "Bill Laswell",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "10360",
+                    "join": "",
+                    "name": "Klaus Schulze",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Side-A",
+                    "_type": "Matrix / Runout",
+                    "_value": "\u003c\u003c Produced by Pete Namlook - Recorded at Klanglabor Frankfurt. Greenpoint, Moldau Musik \u003e\u003e"
+                },
+                {
+                    "_description": "Side-B",
+                    "_type": "Matrix / Runout",
+                    "_value": "Three Sources -\u003e One Direction"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "500",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                },
+                {
+                    "_height": "500",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/112",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "false",
+            "content": "13955"
+        },
+        "notes": "Limitation: 1000",
+        "released": "1996-04-01",
+        "styles": {
+            "style": "Ambient"
+        },
+        "title": "The Dark Side Of The Moog IV",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "6:03",
+                    "position": "A1",
+                    "title": "Three Pipers At The Gates Of Dawn (Excerpt) (Part I - Excerpt)"
+                },
+                {
+                    "duration": "15:51",
+                    "position": "A2",
+                    "title": "Three Pipers At The Gates Of Dawn (Excerpt) (Part II)"
+                },
+                {
+                    "duration": "8:51",
+                    "position": "B1",
+                    "title": "Three Pipers At The Gates Of Dawn (Excerpt) (Part VIII)"
+                },
+                {
+                    "duration": "1:55",
+                    "position": "B2",
+                    "title": "Three Pipers At The Gates Of Dawn (Excerpt) (Part IX)"
+                },
+                {
+                    "duration": "7:11",
+                    "position": "B3",
+                    "title": "Three Pipers At The Gates Of Dawn (Excerpt) (Part VI - Excerpt)"
+                }
+            ]
+        },
+        "videos": {
+            "video": {
+                "_duration": "3603",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=JkACjmiepmo",
+                "description": "Artists : Pete Namlook \u0026 Klaus Schulze (feat Bill Laswell)\nAlbum : The Dark Side of the Moog 4\nSongs : Three Pipers at the Gates of Dawn (9 Parts)\nReleased  in 1996\n\nAll tracks created by Pete Namlook, Klaus Schulze \u0026 Bill Laswell (I-III,V,VII)\nProduced b",
+                "title": "Pete Namlook \u0026 Klaus Schulze - The Dark Side of the Moog 4 [Three Pipers at the Gates of Dawn]"
+            }
+        }
+    }
+}

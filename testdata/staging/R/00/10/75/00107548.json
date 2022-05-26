@@ -1,0 +1,381 @@
+{
+    "release": {
+        "_id": "107548",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "Omid16B",
+                "id": "2046",
+                "join": "",
+                "name": "16B",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "UK",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "2046",
+                "join": "",
+                "name": "16B",
+                "role": "DJ Mix",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "Mixed"
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Printed",
+                    "_type": "Barcode",
+                    "_value": "800505120827"
+                },
+                {
+                    "_description": "Scanned",
+                    "_type": "Barcode",
+                    "_value": "0800505120827"
+                }
+            ]
+        },
+        "images": {
+            "image": {
+                "_height": "600",
+                "_type": "primary",
+                "_uri": "",
+                "_uri150": "",
+                "_width": "600"
+            }
+        },
+        "labels": {
+            "label": {
+                "_catno": "ALO/CD005",
+                "_id": "93",
+                "_name": "Alola"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "207937"
+        },
+        "released": "2002-07-00",
+        "styles": {
+            "style": [
+                "Deep House",
+                "Tech House"
+            ]
+        },
+        "title": "Everything All Of Them Every Year",
+        "tracklist": {
+            "track": [
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "Omid",
+                            "id": "40996",
+                            "join": "",
+                            "name": "Omid Nourizadeh",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "7:40",
+                    "position": "1",
+                    "title": "Home"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "60",
+                            "join": "",
+                            "name": "Pete Moss",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:00",
+                    "position": "2",
+                    "title": "In Your Dreams"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "11827",
+                            "join": "",
+                            "name": "Loudeast",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:55",
+                    "position": "3",
+                    "title": "Are You Talking To Me"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "85",
+                            "join": "",
+                            "name": "YMC",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:21",
+                    "position": "4",
+                    "title": "Tears"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "Omid",
+                            "id": "40996",
+                            "join": "",
+                            "name": "Omid Nourizadeh",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:34",
+                    "position": "5",
+                    "title": "When Did I Get Like This"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "2042",
+                            "join": "",
+                            "name": "House Of 909",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:47",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "447",
+                            "join": "",
+                            "name": "DJ Q",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "6",
+                    "title": "Blanford Superfly (DJ Q's Smoke Filled Room Dub)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "8366",
+                            "join": "",
+                            "name": "Remote Control",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:28",
+                    "position": "7",
+                    "title": "Golden Acre"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "Omid",
+                            "id": "40996",
+                            "join": "",
+                            "name": "Omid Nourizadeh",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:21",
+                    "position": "8",
+                    "title": "The Top"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "3225",
+                            "join": "",
+                            "name": "Vince Watson",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:23",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "2046",
+                            "join": "",
+                            "name": "16B",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "9",
+                    "title": "Mystical Rhythm (16B Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "237",
+                            "join": "",
+                            "name": "O.T.C",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "3:28",
+                    "position": "10",
+                    "title": "The Dragon Lady"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "87",
+                            "join": "",
+                            "name": "Mr. C",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "3:48",
+                    "position": "11",
+                    "title": "Click"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "2041",
+                            "join": "",
+                            "name": "Mode 2",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:13",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "2046",
+                            "join": "",
+                            "name": "16B",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "12",
+                    "title": "SOS (16B Remix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "67981",
+                            "join": "",
+                            "name": "Navid Nourizadeh",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:15",
+                    "position": "13",
+                    "title": "Black \u0026 White"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "Omid",
+                            "id": "40996",
+                            "join": "",
+                            "name": "Omid Nourizadeh",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:47",
+                    "position": "14",
+                    "title": "Talk With Your Mouth Shut"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "421",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=gLndMieG3Uo",
+                    "description": "Album: Everything All Of Them Every Year\nYear: 2002",
+                    "title": "Nav - Space Chase"
+                },
+                {
+                    "_duration": "344",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=dA1xuPHkCKg",
+                    "description": "Album: Everything All Of Them Every Year\nYear: 2002",
+                    "title": "Pete Moss - Right On"
+                },
+                {
+                    "_duration": "552",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=wPRomglDdbg",
+                    "description": "Apr/2001. The Blandford Superfly Vinyl, 12  -  Alola Records\nHouse Of 909 real: Nigel Casey, Trevor Loveys, Affie Yusuf.\nHouse Of 909 members: Affie Yusuf, Nigel Casey, Simon Bradshaw, Trevor Loveys.\nAlola records was created by Omid 16B Nourizadeh. Re",
+                    "title": "House Of 909  -  The Blandford Superfly (DJQ's Smoke-Filled Room Dub)"
+                },
+                {
+                    "_duration": "500",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=LwNFYs7lJNA",
+                    "description": "1999. Home Vinyl, 12, Single Sided  -  Alola\nWritten and produced by Omid Nourizadeh",
+                    "title": "Omid  -  Home"
+                },
+                {
+                    "_duration": "541",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=-OoqfDOZZSI",
+                    "description": "Provided to YouTube by IIP-DDS\n\nAre You Talkin' To Me? · Loudeast\n\nEverything, All Of them, Every Year\n\n℗ Alola Records\n\nReleased on: 2013-03-18\n\nArtist: Loudeast\n\nAuto-generated by YouTube.",
+                    "title": "Are You Talkin' To Me?"
+                },
+                {
+                    "_duration": "512",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=iU1lICL6zWs",
+                    "description": "Provided to YouTube by IIP-DDS\n\nClick · Mr. C\n\nEverything, All Of them, Every Year\n\n℗ Alola Records\n\nReleased on: 2013-03-18\n\nArtist: Mr. C\n\nAuto-generated by YouTube.",
+                    "title": "Click"
+                },
+                {
+                    "_duration": "444",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=He864_QYBYU",
+                    "description": "Provided to YouTube by IIP-DDS\n\nMystical Rhythm (NAV Remix) · Vince Watson\n\nMystical Rhythm\n\n℗ Alola Records\n\nReleased on: 2013-03-18\n\nRemixer: Navid Nourizadeh\nMusic  Publisher: Alola / SexOnWax Music / Westbury Music LTD\n\nAuto-generated by YouTube.",
+                    "title": "Mystical Rhythm (NAV Remix)"
+                }
+            ]
+        }
+    }
+}

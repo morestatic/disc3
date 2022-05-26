@@ -1,0 +1,150 @@
+{
+    "release": {
+        "_id": "123433",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "The Wildchild Experience",
+                "id": "6246",
+                "join": "",
+                "name": "Wildchild",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "UK",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "6246",
+                "join": "",
+                "name": "Wildchild",
+                "role": "Written-By, Producer, Mixed By",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "605",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "300",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "299"
+                },
+                {
+                    "_height": "300",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "299"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "LOAD 11",
+                "_id": "40",
+                "_name": "Loaded Records"
+            }
+        },
+        "notes": "Published by Original Artists Music\r\nAA1 remixed for Twitch Prodns.",
+        "released": "1993",
+        "styles": {
+            "style": "House"
+        },
+        "title": "Wildtrax Vol 3 (Part 2)",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A1",
+                    "title": "Disco Pepper"
+                },
+                {
+                    "duration": "",
+                    "position": "A2",
+                    "title": "The Poser"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1965",
+                            "join": "",
+                            "name": "Mike Wertheim",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "AA1",
+                    "title": "Jump To My Beat (US Remix)"
+                },
+                {
+                    "duration": "",
+                    "position": "AA2",
+                    "title": "First Things First (Remix)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "450",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=SY_Nc5CnL2U",
+                    "description": "http://www.discogs.com/Wildchild-Experience-The-Wildtrax-Vol-3-Part-2/release/123433\n\nsimilar sounds here - https://soundcloud.com/calum-james",
+                    "title": "Wildchild - Disco Pepper"
+                },
+                {
+                    "_duration": "424",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=9pEow2-Hkio",
+                    "description": "http://itunes.apple.com/gb/album/wildtrax-vol-3-pt-2-ep/id379435000",
+                    "title": "Wildchild - The poser"
+                },
+                {
+                    "_duration": "370",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=ZJ-Vpgfm3uk",
+                    "description": "House 1993\nthis track is energy like no other\nwhat a monster creative, complex and complete sequence drop in at :31\nlot of dirty warehouse memories of this one",
+                    "title": "Wildchild Experience - Jump To My Beat (US remix)"
+                },
+                {
+                    "_duration": "492",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Yiwz1t-e66w",
+                    "description": "http://itunes.apple.com/gb/album/wildtrax-vol-3-pt-2-ep/id379435000",
+                    "title": "Wildchild - First things first (remix)"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,126 @@
+{
+    "release": {
+        "_id": "109331",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "86751",
+                "join": "",
+                "name": "Biosatellites",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "Germany",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "7649",
+                    "join": "",
+                    "name": "DJ Criss",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "Tobias Balle-Peterson",
+                    "id": "582903",
+                    "join": "",
+                    "name": "Tobias Balle-Petersen",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_description": "Etched B side",
+                "_type": "Matrix / Runout",
+                "_value": "\"ELEPHANT BEEEER!!\""
+            }
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "478",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "474"
+                },
+                {
+                    "_height": "490",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "488"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PS 08/17",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Limitation: 500\r\n\"ELEPHANT BEEEER!!\" \r\nIs Etched On Runout Groove On Side B",
+        "released": "1993-05-04",
+        "styles": {
+            "style": "Hardcore"
+        },
+        "title": "Biosatellites",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "6:07",
+                    "position": "A",
+                    "title": "Elephant Overload"
+                },
+                {
+                    "duration": "5:44",
+                    "position": "B",
+                    "title": "Strong Island"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "367",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=qC5TqkvO-LM",
+                    "description": "Biosatellites -- Biosatellites\r\nAcid Techno Industrial Hardcore\r\n1993\r\n\r\nLimited 500",
+                    "title": "Biosatellites -- Elephant Overload ( 1993 )"
+                },
+                {
+                    "_duration": "344",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=xvlPAa73sQ8",
+                    "description": "Biosatellites -- Biosatellites",
+                    "title": "Biosatellites -- Strong Island ( 1993 )"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,176 @@
+{
+    "release": {
+        "_id": "49382",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "Namlook",
+                "id": "1910",
+                "join": "",
+                "name": "Pete Namlook",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": {
+                "catno": "",
+                "entity_type": "23",
+                "entity_type_name": "Recorded At",
+                "id": "265012",
+                "name": "Klanglabor Hödeshof",
+                "resource_url": "https://api.discogs.com/labels/265012"
+            }
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "2118078",
+                    "join": "",
+                    "name": "PEK (3)",
+                    "role": "Graphics",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "58657",
+                    "join": "",
+                    "name": "Peter Kuhlmann",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "595",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "461",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/145",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "409001"
+        },
+        "notes": "Recorded at Klanglabor, Traben-Trarbach.\r\nLimited to 2000 copies.",
+        "released": "1999-03-08",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Drum n Bass",
+                "Experimental",
+                "Techno"
+            ]
+        },
+        "title": "Namlook XIV - Solarized",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "12:33",
+                    "position": "1",
+                    "title": "Go No Go"
+                },
+                {
+                    "duration": "14:55",
+                    "position": "2",
+                    "title": "Solarized"
+                },
+                {
+                    "duration": "15:09",
+                    "position": "3",
+                    "title": "Hidden Love"
+                },
+                {
+                    "duration": "11:30",
+                    "position": "4",
+                    "title": "BEsic AnEmal"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "755",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Mb1J5wh_T6Y",
+                    "description": "Track 1 - Go No Go\nArtist : Pete Namlook\nAlbum : Namlook XIV - Solarized\n1999 FAX +49-69/450464",
+                    "title": "Pete Namlook - Go No Go (Namlook XIV - Solarized)"
+                },
+                {
+                    "_duration": "895",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=krJsSG-q7Is",
+                    "description": "Track 2 - Solarized\nArtist : Pete Namlook\nAlbum : Namlook XIV - Solarized\n1999 FAX +49-69/450464",
+                    "title": "Pete Namlook - Solarized (Namlook XIV - Solarized)"
+                },
+                {
+                    "_duration": "910",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=6GdUVUuqV2g",
+                    "description": "Track 3 - Hidden Love\nArtist : Pete Namlook\nAlbum : Namlook XIV - Solarized\n1999 FAX +49-69/450464",
+                    "title": "Pete Namlook - Hidden Love (Namlook XIV - Solarized)"
+                },
+                {
+                    "_duration": "690",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=PnFn7msvAL4",
+                    "description": "Track 4 - BEsic AnEmal\nArtist : Pete Namlook\nAlbum : Namlook XIV - Solarized\n1999 FAX +49-69/450464",
+                    "title": "Pete Namlook - BEsic AnEmal (Namlook XIV - Solarized)"
+                },
+                {
+                    "_duration": "600",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=IKAGSOmssdw",
+                    "description": "Epic track from Namlook XIV Solarized.\n\nSamples are from the movie Armageddon (1998) (https://www.youtube.com/watch?v=JZDKbRWGqTw)",
+                    "title": "Namlook - Solarized - Go No Go"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,214 @@
+{
+    "release": {
+        "_id": "123688",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "293020",
+                "join": "",
+                "name": "Create",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": {
+                "catno": "",
+                "entity_type": "10",
+                "entity_type_name": "Manufactured By",
+                "id": "291931",
+                "name": "CD Plant MFG",
+                "resource_url": "https://api.discogs.com/labels/291931"
+            }
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "41714",
+                    "join": "",
+                    "name": "Charles Uzzell-Edwards",
+                    "role": "Graphics",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "41714",
+                    "join": "",
+                    "name": "Charles Uzzell-Edwards",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Mixed",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "CD PLANT MFG PW 15 CDM01"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "598",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "295",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "300"
+                },
+                {
+                    "_height": "500",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "583"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PW 15",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Limitation: 1000\r\nRecorded in San Francisco 1994\r\n\r\nTracklisting states only one title, Macro, which is spread over 15 tracks.",
+        "released": "1994-06-02",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Downtempo",
+                "Experimental"
+            ]
+        },
+        "title": "Create",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "5:01",
+                    "position": "1",
+                    "title": "Macro (Part 1)"
+                },
+                {
+                    "duration": "5:00",
+                    "position": "2",
+                    "title": "Macro (Part 2)"
+                },
+                {
+                    "duration": "5:00",
+                    "position": "3",
+                    "title": "Macro (Part 3)"
+                },
+                {
+                    "duration": "5:01",
+                    "position": "4",
+                    "title": "Macro (Part 4)"
+                },
+                {
+                    "duration": "4:59",
+                    "position": "5",
+                    "title": "Macro (Part 5)"
+                },
+                {
+                    "duration": "5:01",
+                    "position": "6",
+                    "title": "Macro (Part 6)"
+                },
+                {
+                    "duration": "4:59",
+                    "position": "7",
+                    "title": "Macro (Part 7)"
+                },
+                {
+                    "duration": "5:01",
+                    "position": "8",
+                    "title": "Macro (Part 8)"
+                },
+                {
+                    "duration": "4:59",
+                    "position": "9",
+                    "title": "Macro (Part 9)"
+                },
+                {
+                    "duration": "5:01",
+                    "position": "10",
+                    "title": "Macro (Part 10)"
+                },
+                {
+                    "duration": "4:59",
+                    "position": "11",
+                    "title": "Macro (Part 11)"
+                },
+                {
+                    "duration": "5:00",
+                    "position": "12",
+                    "title": "Macro (Part 12)"
+                },
+                {
+                    "duration": "5:00",
+                    "position": "13",
+                    "title": "Macro (Part 13)"
+                },
+                {
+                    "duration": "7:53",
+                    "position": "14",
+                    "title": "Macro (Part 14)"
+                },
+                {
+                    "duration": "0:07",
+                    "position": "15",
+                    "title": "Macro (Part 15)"
+                }
+            ]
+        },
+        "videos": {
+            "video": {
+                "_duration": "4382",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=Y0kSm2qgMMw",
+                "description": "Artist: Pete Namlook \u0026 Charles Uzzell-Edwards\nAlbum: Create\nLabel: Fax\nYear: 1994\n\n1. Macro, Part 1 [00:00]\n2. Macro, Part 2 [05:01]\n3. Macro, Part 3 [10:01]\n4. Macro, Part 4 [15:01]\n5. Macro, Part 5 [20:02]\n6. Macro, Part 6 [25:01]\n7. Macro, Part 7 [30:0",
+                "title": "Pete Namlook \u0026 Charles Uzzell-Edwards - Create (Full Album) [1994]"
+            }
+        }
+    }
+}

@@ -1,0 +1,349 @@
+{
+    "release": {
+        "_id": "12",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "30",
+                "join": "",
+                "name": "Groove Collective",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "US",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "30",
+                    "join": "",
+                    "name": "Groove Collective",
+                    "role": "Co-producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "74994",
+                    "join": "",
+                    "name": "Bruno Ybarra",
+                    "role": "Directed By [Label Director]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "Dave Boonshoft",
+                    "id": "209463",
+                    "join": "",
+                    "name": "David Boonshoft",
+                    "role": "Executive-Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "297683",
+                    "join": "",
+                    "name": "Steve Souder",
+                    "role": "Mixed By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "158991",
+                    "join": "",
+                    "name": "Genji Siraisi",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "36607",
+                    "join": "",
+                    "name": "Itaal Shur",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "80165",
+                    "join": "",
+                    "name": "Hiroyuki Sanada",
+                    "role": "Recorded By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "G. Siraisi",
+                    "id": "158991",
+                    "join": "",
+                    "name": "Genji Siraisi",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "I. Shur",
+                    "id": "36607",
+                    "join": "",
+                    "name": "Itaal Shur",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "J. Maron",
+                    "id": "92196",
+                    "join": "",
+                    "name": "Jonathan Maron",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "M.A. Jones",
+                    "id": "352023",
+                    "join": "",
+                    "name": "Mark Anthony Jones",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Side A",
+                    "_type": "Matrix / Runout",
+                    "_value": "NM-004 A1RE1"
+                },
+                {
+                    "_description": "Side B",
+                    "_type": "Matrix / Runout",
+                    "_value": "NM-004 B1"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "598",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "NM004",
+                "_id": "10",
+                "_name": "Naked Music Recordings"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "542341"
+        },
+        "released": "1999",
+        "styles": {
+            "style": "Deep House"
+        },
+        "title": "Everything Is Changing",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "8:44",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "31",
+                                "join": "",
+                                "name": "Swag",
+                                "role": "Remix",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "8783",
+                                "join": "",
+                                "name": "Chris Duckenfield",
+                                "role": "Remix [Credited To], Producer [Addiotional]",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "11454",
+                                "join": "",
+                                "name": "Richard Brown",
+                                "role": "Remix [Credited To], Producer [Addiotional]",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "A1",
+                    "title": "Everything Is Changing (Swag Dub)"
+                },
+                {
+                    "duration": "4:34",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "32",
+                            "join": "",
+                            "name": "Jay Denes",
+                            "role": "Remix, Producer [Additional]",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "A2",
+                    "title": "Everything Is Changing (Jay's Naked Edit)"
+                },
+                {
+                    "duration": "7:30",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "39",
+                            "join": "",
+                            "name": "Baby Mammoth",
+                            "role": "Remix, Producer [Additional]",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "B1",
+                    "title": "Everything Is Changing (Baby Mammoth Mix)"
+                },
+                {
+                    "duration": "5:49",
+                    "position": "B2",
+                    "title": "Everything Is Changing (Album Version)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "524",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=nRgrrUtb_v4",
+                    "description": "Dub mix on Naked music records from 1999/2000",
+                    "title": "Groove Collective...Everything is changing (SWAG Dub)"
+                },
+                {
+                    "_duration": "331",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Z0cloQO0sNk",
+                    "description": "Track remixed by Jay Denes",
+                    "title": "Groove Collective  - Everything Is Changing (Jay's Naked Edit)"
+                },
+                {
+                    "_duration": "376",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=zjX-ndAMIvA",
+                    "description": "''Ocean's Eleven'' style. If You like the movie, You gonna love this tune. Enjoy.",
+                    "title": "Groove Collective - Everything is Changing (Baby Mammouth Mix)"
+                },
+                {
+                    "_duration": "350",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=B_5Wn9JcgYA",
+                    "description": "Provided to YouTube by Entertainment One Distribution US\n\nEverything Is Changing · Groove Collective\n\nDeclassified\n\n℗ Shanachie\n\nReleased on: 2005-06-20\n\nAuto-generated by YouTube.",
+                    "title": "Everything Is Changing"
+                },
+                {
+                    "_duration": "523",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=p7x93sOO_kU",
+                    "description": "1999. Everything is Changing Vinyl, 12  -  Naked Music Recordings",
+                    "title": "Groove Collective  -  Everything is Changing (SWAG Dub)"
+                },
+                {
+                    "_duration": "520",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=0ZWSirEhtfo",
+                    "description": "Groove Collective - Everything Is Changing (Swag Dub) [Naked Music, 1999]",
+                    "title": "Groove Collective - Everything Is Changing (Swag Dub) [Naked Music, 1999]"
+                },
+                {
+                    "_duration": "435",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=8GccegwG4zM",
+                    "description": "",
+                    "title": "Groove Collective - Everythin"
+                },
+                {
+                    "_duration": "431",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=iKFA2T13GR4",
+                    "description": "Groove Collective - Everything Is Changing (Swag Remix)",
+                    "title": "Groove Collective - Everything Is Changing (Swag Remix)"
+                },
+                {
+                    "_duration": "431",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=3w_7IyedH1I",
+                    "description": "Provided to YouTube by Universal Music Group\n\nEverything Is Changing (Swag Remix) · Groove Collective\n\nBare Essentials\n\n℗ 1999 Naked Music NYC Recordings LLC\n\nReleased on: 2002-01-01\n\nProducer, Co- Producer: Groove Collective\nProducer: G. Siraisi\nProdu",
+                    "title": "Everything Is Changing (Swag Remix)"
+                },
+                {
+                    "_duration": "431",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=mUmd2dwlnoc",
+                    "description": "House music",
+                    "title": "Everything is changing - Groove Collective (Swag Dub)"
+                },
+                {
+                    "_duration": "347",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=687SJmaHuUk",
+                    "description": "The Turntable Series Presents ~\nArtist ~ Groove Collective ~\nSong ~ Everything Is Changing ~\nAlbum ~ Declassified ~",
+                    "title": "Groove Collective ~ Everything Is Changing"
+                },
+                {
+                    "_duration": "341",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=x1dC03_-6RY",
+                    "description": "Provided to YouTube by Entertainment One Distribution US\n\nEverything Is Changing · Groove Collective\n\nThe Best of Groove Collective\n\n℗ Shanachie\n\nReleased on: 2005-06-20\n\nAuto-generated by YouTube.",
+                    "title": "Everything Is Changing"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,205 @@
+{
+    "release": {
+        "_id": "175961",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "14126",
+                "join": "",
+                "name": "Subsequence",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "26",
+                    "entity_type_name": "Produced At",
+                    "id": "294391",
+                    "name": "Sonic Studios Frankfurt",
+                    "resource_url": "https://api.discogs.com/labels/294391"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "37",
+                    "entity_type_name": "Produced For",
+                    "id": "664058",
+                    "name": "Namlook Productions",
+                    "resource_url": "https://api.discogs.com/labels/664058"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "30",
+                    "entity_type_name": "Lacquer Cut At",
+                    "id": "265113",
+                    "name": "SST Brüggemann GmbH",
+                    "resource_url": "https://api.discogs.com/labels/265113"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "1584729",
+                    "join": "",
+                    "name": "SST (8)",
+                    "role": "Lacquer Cut By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "24",
+                    "join": "",
+                    "name": "Atom Heart",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "12\""
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                },
+                {
+                    "_description": "This Side",
+                    "_type": "Matrix / Runout",
+                    "_value": "PK 08/46 A = PRODUCED AT SONIC STUDIOS FRANKFURT FOR NAMLOOK PRODUCTIONS = SST"
+                },
+                {
+                    "_description": "Other Side",
+                    "_type": "Matrix / Runout",
+                    "_value": "PK 08/46 B SST WALK ON SUNSHINE"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "493",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "489"
+                },
+                {
+                    "_height": "488",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "484"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/46",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "229378"
+        },
+        "notes": "500 copies Pressed.",
+        "released": "1993-02-22",
+        "styles": {
+            "style": [
+                "Trance",
+                "Hard Trance",
+                "Ambient"
+            ]
+        },
+        "title": "Subsequence 3",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "",
+                    "title": "This Side"
+                },
+                {
+                    "duration": "6:04",
+                    "position": "A",
+                    "title": "Walking In My Dreams"
+                },
+                {
+                    "duration": "",
+                    "position": "",
+                    "title": "Other Side"
+                },
+                {
+                    "duration": "5:36",
+                    "position": "B1",
+                    "title": "Walking"
+                },
+                {
+                    "duration": "5:03",
+                    "position": "B2",
+                    "title": "Dreamwalk"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "1005",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=7rb3twsSwnk",
+                    "description": "Artist: Pete Namlook + Atom™\nAlbum: Subsequence EP 3\nLabel: Fax +49-69/450464\nYear: 1993\n\nTracklist:\n1. Walking In My Dreams [0:00]\n2. Walking [6:05]\n3. Dreamwalk [11:42]\n\nAll music uploaded to this channel is available for educational and informative p",
+                    "title": "Pete Namlook + Atom™ - Subsequence EP 3 (Full Album) [1993]"
+                },
+                {
+                    "_duration": "360",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=nPUIccM4jvI",
+                    "description": "http://www.discogs.com/Subsequence-Subsequence-3/release/175961\n\r\n\r-uploaded in HD at http://www.TunesToTube.com",
+                    "title": "Subsequence - Walking In My Dreams (Trance 1993)"
+                },
+                {
+                    "_duration": "341",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=rufCPCe4LHM",
+                    "description": "http://www.discogs.com/Subsequence-Subsequence-3/release/175961\n\r\n\r-uploaded in HD at http://www.TunesToTube.com",
+                    "title": "Subsequence - Walking (Trance 1993)"
+                },
+                {
+                    "_duration": "285",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=KT3v-Ax5VG0",
+                    "description": "http://www.discogs.com/Subsequence-Subsequence-3/release/175961\n\r\n\r-uploaded in HD at http://www.TunesToTube.com",
+                    "title": "Subsequence - Dreamwalk (Ambient 1993)"
+                }
+            ]
+        }
+    }
+}

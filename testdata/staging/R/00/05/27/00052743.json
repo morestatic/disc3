@@ -1,0 +1,233 @@
+{
+    "release": {
+        "_id": "52743",
+        "_status": "Accepted",
+        "artists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "25",
+                    "join": "/",
+                    "name": "Tetsu Inoue",
+                    "role": "",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "41714",
+                    "join": "/",
+                    "name": "Charles Uzzell-Edwards",
+                    "role": "",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "166618",
+                    "join": "",
+                    "name": "Daimon Beail",
+                    "role": "",
+                    "tracks": ""
+                }
+            ]
+        },
+        "companies": {
+            "company": {
+                "catno": "47446",
+                "entity_type": "31",
+                "entity_type_name": "Glass Mastered At",
+                "id": "277449",
+                "name": "P+O Pallas",
+                "resource_url": "https://api.discogs.com/labels/277449"
+            }
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "CUE",
+                    "id": "41714",
+                    "join": "",
+                    "name": "Charles Uzzell-Edwards",
+                    "role": "Artwork",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "2118078",
+                    "join": "",
+                    "name": "PEK (3)",
+                    "role": "Graphics",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "41714",
+                    "join": "",
+                    "name": "Charles Uzzell-Edwards",
+                    "role": "Producer, Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "166618",
+                    "join": "",
+                    "name": "Daimon Beail",
+                    "role": "Producer, Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "25",
+                    "join": "",
+                    "name": "Tetsu Inoue",
+                    "role": "Producer, Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Mastering SID Code",
+                    "_value": "IFPI L961"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "PS 08/97 P+O-47446-A1 03-00"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "599",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "597"
+                },
+                {
+                    "_height": "513",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "599"
+                },
+                {
+                    "_height": "596",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "599"
+                },
+                {
+                    "_height": "611",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "607",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PS 08/97",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Environments: S.F. 2000\nAmbience: 2000 Remixes of 94-95\nMade in Marin\nLimitation: 2000\nMade in Germany\n\n*** Listening to the different \ntracks in the original location\nis encouraged,  so that all of \nthe sensory elements of the original \nenvironment merge \nwith the recorded 'AUDIO'\npieces ****",
+        "released": "2000-04-03",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Experimental",
+                "Field Recording",
+                "Glitch"
+            ]
+        },
+        "title": "Audio",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "5:42",
+                    "position": "1",
+                    "title": "SFO Downtown"
+                },
+                {
+                    "duration": "5:18",
+                    "position": "2",
+                    "title": "Haight + Cole"
+                },
+                {
+                    "duration": "4:20",
+                    "position": "3",
+                    "title": "Tenderloin"
+                },
+                {
+                    "duration": "14:58",
+                    "position": "4",
+                    "title": "Church And Market"
+                },
+                {
+                    "duration": "9:46",
+                    "position": "5",
+                    "title": "6th And Market"
+                },
+                {
+                    "duration": "6:03",
+                    "position": "6",
+                    "title": "Polk And California"
+                },
+                {
+                    "duration": "6:49",
+                    "position": "7",
+                    "title": "Alien"
+                },
+                {
+                    "duration": "3:21",
+                    "position": "8",
+                    "title": "15th And Church"
+                },
+                {
+                    "duration": "3:11",
+                    "position": "9",
+                    "title": "Birdsong"
+                },
+                {
+                    "duration": "3:49",
+                    "position": "10",
+                    "title": "Arboretum"
+                }
+            ]
+        }
+    }
+}

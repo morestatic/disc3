@@ -1,0 +1,131 @@
+{
+    "release": {
+        "_id": "12691",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "20",
+                "join": "",
+                "name": "Percy X",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "UK",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": {
+                "anv": "Nilz",
+                "id": "386598",
+                "join": "",
+                "name": "Nilesh Patel",
+                "role": "Mastered By",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_type": "Barcode",
+                "_value": "5024856620262"
+            }
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "590",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "597",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "506",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "494"
+                },
+                {
+                    "_height": "495",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "494"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "SOMA 026",
+                "_id": "18",
+                "_name": "Soma Quality Recordings"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "37384"
+        },
+        "released": "1995-05-22",
+        "styles": {
+            "style": "Techno"
+        },
+        "title": "Odyssey / RD600",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A",
+                    "title": "Odyssey"
+                },
+                {
+                    "duration": "",
+                    "position": "B",
+                    "title": "RD600"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "446",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=AqD6KTOlTj4",
+                    "description": "Percy X ‎– Odyssey / RD600\nLabel: Soma Quality Recordings ‎– SOMA 026\nFormat: Vinyl, 12 \nCountry: UK\nReleased: 22 May 1995\nGenre: Electronic\nStyle: Techno\n-----\nIf you are a Techno Lover, Please Like, Share, Comment and Subscribe! Thanks.\n\nFacebo",
+                    "title": "Percy X ‎– Odyssey (Original Mix)"
+                },
+                {
+                    "_duration": "464",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=bbh9KWLzEX0",
+                    "description": "Percy X ‎– Odyssey / RD600\nLabel: Soma Quality Recordings ‎– SOMA 026\nFormat: Vinyl, 12 \nCountry: UK\nReleased: 22 May 1995\nGenre: Electronic\nStyle: Techno\n-----\nIf you are a Techno Lover, Please Like, Share, Comment and Subscribe! Thanks.\n\nFacebo",
+                    "title": "Percy X - RD600 (Original Mix)"
+                }
+            ]
+        }
+    }
+}

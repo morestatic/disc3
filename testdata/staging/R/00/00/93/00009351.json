@@ -1,0 +1,150 @@
+{
+    "release": {
+        "_id": "9351",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "A.D.N.Y.",
+                "id": "50",
+                "join": "",
+                "name": "ADNY",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "Sweden",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "26",
+                "join": "",
+                "name": "Alexi Delano",
+                "role": "Written-By [All Tracks By]",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "500",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                },
+                {
+                    "_height": "500",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "SK 015",
+                "_id": "5",
+                "_name": "Svek"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "1792107"
+        },
+        "released": "1997-07-00",
+        "styles": {
+            "style": [
+                "House",
+                "Electro",
+                "Tech House"
+            ]
+        },
+        "title": "We Are Svek",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A1",
+                    "title": "We Are Svek"
+                },
+                {
+                    "duration": "",
+                    "position": "A2",
+                    "title": "Private Eye"
+                },
+                {
+                    "duration": "",
+                    "position": "B1",
+                    "title": "I Play My Groove"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1706671",
+                            "join": "",
+                            "name": "The Lords of Svek",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "B2",
+                    "title": "We Play Your Groove"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "366",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=EkI1QTXDHkY",
+                    "description": "https://www.discogs.com/ADNY-We-Are-Svek/release/9351\n\nA.D.N.Y. - We Are Svek",
+                    "title": "A.D.N.Y. - We Are Svek"
+                },
+                {
+                    "_duration": "286",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=U9gT4EKa7Eg",
+                    "description": "https://www.discogs.com/ADNY-We-Are-Svek/release/9351\n\nA.D.N.Y. - Private Eye",
+                    "title": "A.D.N.Y. - Private Eye"
+                },
+                {
+                    "_duration": "316",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=NmmFdSSidfs",
+                    "description": "https://www.discogs.com/ADNY-We-Are-Svek/release/9351\n\nA.D.N.Y. - I Play Your Groove",
+                    "title": "A.D.N.Y. - I Play Your Groove"
+                },
+                {
+                    "_duration": "281",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=iIdW7zfsIHQ",
+                    "description": "https://www.discogs.com/ADNY-We-Are-Svek/release/9351\n\nA.D.N.Y. - We Play Your Groove",
+                    "title": "A.D.N.Y. - We Play Your Groove"
+                }
+            ]
+        }
+    }
+}

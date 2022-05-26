@@ -1,0 +1,176 @@
+{
+    "release": {
+        "_id": "38",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "60",
+                "join": "",
+                "name": "Pete Moss",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "26",
+                    "entity_type_name": "Produced At",
+                    "id": "1566086",
+                    "name": "The Recline Center",
+                    "resource_url": "https://api.discogs.com/labels/1566086"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "24",
+                    "entity_type_name": "Engineered At",
+                    "id": "1566086",
+                    "name": "The Recline Center",
+                    "resource_url": "https://api.discogs.com/labels/1566086"
+                }
+            ]
+        },
+        "country": "US",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "60",
+                "join": "",
+                "name": "Pete Moss",
+                "role": "Written-By, Producer, Engineer",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "12\""
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "597",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "601",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "OVM117",
+                "_id": "35",
+                "_name": "Ovum Recordings"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "442131"
+        },
+        "notes": "Written, produced \u0026 engineered @ the Recline Center in Philly.",
+        "released": "1999",
+        "styles": {
+            "style": [
+                "Dub",
+                "Deep House",
+                "Tech House"
+            ]
+        },
+        "title": "Late Night Up North",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A1",
+                    "title": "Late Night Up North (Original Mix)"
+                },
+                {
+                    "duration": "",
+                    "position": "A2",
+                    "title": "Late Night Up North (Feel Free Dub)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "Wink",
+                            "id": "3",
+                            "join": "",
+                            "name": "Josh Wink",
+                            "role": "Remix, Producer [Additional]",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "B",
+                    "title": "Late Night Up North (Wink Interpretation)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "561",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=n-bAF1aqFGU",
+                    "description": "Vinyl:\nhttps://www.discogs.com/de/Pete-Moss-Late-Night-Up-North/release/38",
+                    "title": "Pete Moss - Late Night Up North (Wink Interpretation)"
+                },
+                {
+                    "_duration": "385",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=bDPWMLnSf3Q",
+                    "description": "1999. Late Night Up North Vinyl, 12  -  Ovum Recordings\nWritten-By, Producer, Engineer – Pete Moss",
+                    "title": "Pete Moss  -  Late Night Up North (Original Mix)"
+                },
+                {
+                    "_duration": "388",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=683K6U2w66M",
+                    "description": "Pete Moss -- Late Night Up North\nLabel: Ovum Recordings\nCatalog#: OVM117\nFormat: Vinyl, 12\nCountry: US\nReleased: 1999\nGenre: Electronic\nStyle: Dub, Deep House, Tech House",
+                    "title": "Pete Moss -- Late Night Up North (Feel Free Dub)"
+                },
+                {
+                    "_duration": "566",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=f_2PW_wI-nY",
+                    "description": "Label: Ovum Recordings ‎– OVM117\nFormat: Vinyl, 12 \nCountry: US\nReleased: 1999\nGenre: Electronic\nStyle: Dub, Deep House, Tech House",
+                    "title": "Pete Moss - Late Night Up North (Wink Interpretation)"
+                }
+            ]
+        }
+    }
+}

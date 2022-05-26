@@ -1,0 +1,450 @@
+{
+    "release": {
+        "_id": "13771",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "194",
+                "join": "",
+                "name": "Various",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": {
+                "catno": "",
+                "entity_type": "17",
+                "entity_type_name": "Pressed By",
+                "id": "281588",
+                "name": "ODC UK",
+                "resource_url": "https://api.discogs.com/labels/281588"
+            }
+        },
+        "country": "UK",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "126763",
+                "join": "",
+                "name": "Melanie Clarke",
+                "role": "Design",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "Compilation"
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Text",
+                    "_type": "Barcode",
+                    "_value": "5 024856 600066"
+                },
+                {
+                    "_description": "Scanned",
+                    "_type": "Barcode",
+                    "_value": "5024856600066"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "SOMA CD 6 ODC UK"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "595",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "467",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "599"
+                },
+                {
+                    "_height": "595",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "298",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "467",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": [
+                {
+                    "_catno": "Soma CD6",
+                    "_id": "18",
+                    "_name": "Soma Quality Recordings"
+                },
+                {
+                    "_catno": "Soma cd 6",
+                    "_id": "18",
+                    "_name": "Soma Quality Recordings"
+                }
+            ]
+        },
+        "master_id": {
+            "_is_main_release": "false",
+            "content": "31806"
+        },
+        "notes": "Track 7 is mislabel as \"Indo Silver Club (Part 1)\".",
+        "released": "1996-11-11",
+        "styles": {
+            "style": [
+                "House",
+                "Techno"
+            ]
+        },
+        "title": "Soma Quality Recordings - Volume 3",
+        "tracklist": {
+            "track": [
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "20",
+                            "join": "",
+                            "name": "Percy X",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "8:26",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "Weatherhall",
+                                "id": "2657",
+                                "join": "",
+                                "name": "Andrew Weatherall",
+                                "role": "Remix",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "Bloodsugar",
+                                "id": "49831",
+                                "join": "",
+                                "name": "Blood Sugar",
+                                "role": "Remix",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "Harrow",
+                                "id": "38973",
+                                "join": "",
+                                "name": "David Harrow",
+                                "role": "Remix",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "1",
+                    "title": "-3 (Bloodsugar Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "245",
+                            "join": "",
+                            "name": "Envoy",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:13",
+                    "position": "2",
+                    "title": "Uptime Downtime"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "208",
+                            "join": "",
+                            "name": "Chaser",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "7:17",
+                    "position": "3",
+                    "title": "Sides Of Iron"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1017",
+                            "join": "",
+                            "name": "Maas",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:24",
+                    "position": "4",
+                    "title": "Juan Is The Teacher"
+                },
+                {
+                    "artists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "1023",
+                                "join": "'s",
+                                "name": "Russ Gabriel",
+                                "role": "",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "1016",
+                                "join": "",
+                                "name": "Audio Spectrum",
+                                "role": "",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "duration": "6:47",
+                    "position": "5",
+                    "title": "Alligator Voodoo"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1015",
+                            "join": "",
+                            "name": "Slam",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "9:44",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "3338",
+                                "join": "",
+                                "name": "Derrick Carter",
+                                "role": "Remix",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "Carter \u0026 Nazuka",
+                                "id": "6626",
+                                "join": "",
+                                "name": "Derrick Carter \u0026 Chris Nazuka",
+                                "role": "Remix",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "6",
+                    "title": "Positive Education (Derrick Carter Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1289",
+                            "join": "",
+                            "name": "Daft Punk",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:39",
+                    "position": "7",
+                    "title": "Indo Silver Club (Part Two)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1021",
+                            "join": "",
+                            "name": "Equus",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "8:07",
+                    "position": "8",
+                    "title": "Lava Flow"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1015",
+                            "join": "",
+                            "name": "Slam",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "7:25",
+                    "position": "9",
+                    "title": "Dark Forces"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1114",
+                            "join": "",
+                            "name": "Surgeon",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:02",
+                    "position": "10",
+                    "title": "Muggerscum Out"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "12377",
+                            "join": "",
+                            "name": "Mode 4",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:38",
+                    "position": "11",
+                    "title": "Blip"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "275",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=VubH7FuW6TQ",
+                    "description": "Daft Punk - Homework :\n℗ 1997 Daft Life under exclusive license to Parlophone Records Ltd./Parlophone Music, a division of Parlophone Music France\n\nYoutube Playlist :\nDaft Punk - Homework (Official album) : http://bit.ly/1TborpU\nDaft Punk - Discovery (O",
+                    "title": "Daft Punk - Indo Silver Club (Official Audio)"
+                },
+                {
+                    "_duration": "314",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=zhw-Z7uBV9c",
+                    "description": "Provided to YouTube by Pias UK Limited\n\nUptime Downtime · Envoy\n\nHeart Of The Soul E.P\n\n℗ 1995 Soma\n\nReleased on: 1995-10-09\n\nMixer: Hope Grant\nProducer: Hope Grant\nComposer: Hope Grant\nLyricist: Hope Grant\nMusic Publisher: SPG Publishing UK Ltd\n\nAuto-",
+                    "title": "Uptime Downtime"
+                },
+                {
+                    "_duration": "386",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=u3pb-wq94Z0",
+                    "description": "SOMA 38\n\n(1996)",
+                    "title": "Maas - Juan Is The Teacher"
+                },
+                {
+                    "_duration": "440",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=NH_iWAuxDcU",
+                    "description": "Provided to YouTube by PIAS\n\nSides of Iron · Chaser\n\nSides of Iron\n\n℗ Soma Records\n\nReleased on: 1995-11-27\n\nComposer: Hayes\nComposer: Sandberg\n\nAuto-generated by YouTube.",
+                    "title": "Sides of Iron"
+                },
+                {
+                    "_duration": "407",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=v8ZLV8EDeOU",
+                    "description": "Provided to YouTube by Pias UK Limited\n\nAlligator Voodoo · Russ Gabriel\n\nPilgrimage E.P\n\n℗ 1996 Soma\n\nReleased on: 1996-03-18\n\nMixer: Russ Gabriel\nProducer: Russ Gabriel\nMusic  Publisher: Copyright Control\nComposer: Russ Gabriel\nLyricist: Russ Gabriel",
+                    "title": "Alligator Voodoo"
+                },
+                {
+                    "_duration": "240",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=W3HSaTX8WQM",
+                    "description": "Part Two is the album version.",
+                    "title": "Daft Punk- Indo Silver Club (Part One) (HIGH QUALITY)"
+                },
+                {
+                    "_duration": "628",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=iNCexwvLO94",
+                    "description": "Provided to YouTube by PIAS\n\nPositive Education (Chris \u0026 Derrick Reversed \u0026 Reiterated Reconstruction) · Slam\n\nPositive Education\n\n℗ Soma Records\n\nReleased on: 1995-09-25\n\nComposer: G. Gibbons\nComposer: Jim Muotune\nComposer: Orde Meikle\nComposer: Stuar",
+                    "title": "Positive Education (Chris \u0026 Derrick Reversed \u0026 Reiterated Reconstruction)"
+                },
+                {
+                    "_duration": "489",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=JWEzY7_n2qk",
+                    "description": "Label:\nSoma Quality Recordings ‎– Soma 040\nFormat:\nVinyl, 12, EP \nCountry:\nUK\nReleased:\n01 Jul 1996\nGenre:\nElectronic\nStyle:\nBreaks, Techno, Tech House, Acid",
+                    "title": "Equus - lava flow"
+                },
+                {
+                    "_duration": "450",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=g_bGKtzGLRA",
+                    "description": "Slam ‎- Dark Forces (1996)\nLabel:Soma Quality Recordings ‎– Soma 45\nFormat:Vinyl, 12, 33 ⅓ RPM\nCountry:UK Released:16 Sep 1996\nGenre:Electronic Style:Techno \nhttp://www.discogs.com/Slam-Dark-Forces/release/10574\n\n\n*********************\nhttp://tec",
+                    "title": "Slam ‎- Dark Forces [Soma 45]"
+                },
+                {
+                    "_duration": "300",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=DA483rzkTDc",
+                    "description": "http://www.discogs.com/viewimages?release=7324\r\n\r\nhttps://richiemccann.com\nhttps://phunklore.com\nhttp://soundcloud.com/phunklore\nhttp://facebook.com/phunklore",
+                    "title": "Surgeon - Muggerscum Out"
+                },
+                {
+                    "_duration": "352",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=0N7LjatsdEw",
+                    "description": "Provided to YouTube by Pias UK Limited\n\nBlip · Mode4\n\nBlip\n\n℗ 1995 Soma\n\nReleased on: 1995-12-06\n\nMixer: Tracey Hudson\nProducer: Tracey Hudson\nComposer: Tracey Hudson\nLyricist: Tracey Hudson\nMusic Publisher: SPG Publishing UK Ltd\n\nAuto-generated by You",
+                    "title": "Blip"
+                }
+            ]
+        }
+    }
+}

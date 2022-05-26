@@ -1,0 +1,1013 @@
+{
+  "status": "Official",
+  "genres": [],
+  "label-info": [
+    {
+      "catalog-number": "TT 006-2",
+      "label": {
+        "genres": [],
+        "sort-name": "T&T Records",
+        "type": "Original Production",
+        "disambiguation": "German metal label",
+        "label-code": 4700,
+        "id": "c718b75d-39af-4c38-bdf9-2b0b374c0716",
+        "name": "T&T Records",
+        "type-id": "7aaa37fe-2def-3476-b359-80245850062d",
+        "tags": [],
+        "aliases": [
+          {
+            "locale": null,
+            "type": null,
+            "name": "T+T Records",
+            "type-id": null,
+            "begin": null,
+            "primary": null,
+            "ended": false,
+            "sort-name": "T+T Records",
+            "end": null
+          },
+          {
+            "end": null,
+            "ended": false,
+            "sort-name": "T+T Records",
+            "primary": null,
+            "begin": null,
+            "type-id": null,
+            "name": "T+T Records",
+            "type": null,
+            "locale": null
+          },
+          {
+            "end": null,
+            "sort-name": "T+T Records",
+            "ended": false,
+            "begin": null,
+            "primary": null,
+            "type-id": null,
+            "name": "T+T Records",
+            "locale": null,
+            "type": null
+          },
+          {
+            "end": null,
+            "sort-name": "T+T Records",
+            "ended": false,
+            "primary": null,
+            "begin": null,
+            "type-id": null,
+            "name": "T+T Records",
+            "type": null,
+            "locale": null
+          },
+          {
+            "type-id": null,
+            "primary": null,
+            "begin": null,
+            "type": null,
+            "locale": null,
+            "name": "T+T Records",
+            "end": null,
+            "ended": false,
+            "sort-name": "T+T Records"
+          },
+          {
+            "end": null,
+            "sort-name": "T+T Records",
+            "ended": false,
+            "begin": null,
+            "primary": null,
+            "type-id": null,
+            "name": "T+T Records",
+            "locale": null,
+            "type": null
+          }
+        ]
+      }
+    }
+  ],
+  "tags": [],
+  "release-events": [
+    {
+      "date": "1993",
+      "area": {
+        "iso-3166-1-codes": [
+          "DE"
+        ],
+        "sort-name": "Germany",
+        "name": "Germany",
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "disambiguation": "",
+        "type": null,
+        "type-id": null
+      }
+    }
+  ],
+  "country": "DE",
+  "date": "1993",
+  "asin": "B0000075W9",
+  "artist-credit": [
+    {
+      "name": "Virgin Steele",
+      "artist": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "tags": [
+          {
+            "name": "heavy metal",
+            "count": 2
+          },
+          {
+            "count": 0,
+            "name": "heavy/power-metal"
+          },
+          {
+            "count": 1,
+            "name": "life"
+          },
+          {
+            "count": 1,
+            "name": "mythology"
+          },
+          {
+            "count": 1,
+            "name": "power metal"
+          },
+          {
+            "count": 1,
+            "name": "the unconquerable spirit"
+          }
+        ],
+        "aliases": [],
+        "id": "74b86100-7414-4b64-b386-a48270a9bb02",
+        "disambiguation": "USA heavy/power metal",
+        "type": "Group",
+        "name": "Virgin Steele",
+        "genres": [
+          {
+            "name": "heavy metal",
+            "id": "a6719055-99c4-47eb-beaa-71081f2376f9",
+            "count": 2,
+            "disambiguation": ""
+          },
+          {
+            "name": "power metal",
+            "count": 1,
+            "disambiguation": "",
+            "id": "f0b0aa5f-ed81-456b-85ab-492002a29eeb"
+          }
+        ],
+        "sort-name": "Virgin Steele"
+      },
+      "joinphrase": ""
+    }
+  ],
+  "annotation": null,
+  "media": [
+    {
+      "format-id": "9712d52a-4509-3d4b-a1a2-67c88c643e31",
+      "position": 1,
+      "format": "CD",
+      "tracks": [
+        {
+          "length": 284600,
+          "number": "1",
+          "id": "e7c2d00b-9540-3239-95e5-60749e592d2f",
+          "position": 1,
+          "title": "Sex Religion Machine",
+          "artist-credit": [
+            {
+              "artist": {
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                "aliases": [],
+                "disambiguation": "USA heavy/power metal",
+                "type": "Group",
+                "id": "74b86100-7414-4b64-b386-a48270a9bb02",
+                "name": "Virgin Steele",
+                "sort-name": "Virgin Steele"
+              },
+              "name": "Virgin Steele",
+              "joinphrase": ""
+            }
+          ],
+          "recording": {
+            "video": false,
+            "tags": [],
+            "title": "Sex Religion Machine",
+            "aliases": [],
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "name": "Virgin Steele",
+                "artist": {
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                  "type": "Group",
+                  "disambiguation": "USA heavy/power metal",
+                  "id": "74b86100-7414-4b64-b386-a48270a9bb02",
+                  "sort-name": "Virgin Steele",
+                  "name": "Virgin Steele"
+                }
+              }
+            ],
+            "id": "d52aef4e-4d4a-49fc-a20b-12530e9e19bc",
+            "length": 284600,
+            "disambiguation": "",
+            "isrcs": [],
+            "genres": [],
+            "first-release-date": "1993-03"
+          }
+        },
+        {
+          "id": "28808738-c124-3d55-986c-723f32de7802",
+          "number": "2",
+          "length": 232573,
+          "position": 2,
+          "title": "Love Is Pain",
+          "recording": {
+            "id": "1cf553e7-22b7-4f9e-90b6-fd417049fa0c",
+            "disambiguation": "",
+            "length": 232573,
+            "video": false,
+            "tags": [],
+            "title": "Love Is Pain",
+            "aliases": [],
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "name": "Virgin Steele",
+                "artist": {
+                  "name": "Virgin Steele",
+                  "type": "Group",
+                  "disambiguation": "USA heavy/power metal",
+                  "sort-name": "Virgin Steele",
+                  "id": "74b86100-7414-4b64-b386-a48270a9bb02",
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+                }
+              }
+            ],
+            "genres": [],
+            "first-release-date": "1993-03",
+            "isrcs": []
+          },
+          "artist-credit": [
+            {
+              "name": "Virgin Steele",
+              "artist": {
+                "sort-name": "Virgin Steele",
+                "aliases": [],
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                "name": "Virgin Steele",
+                "disambiguation": "USA heavy/power metal",
+                "type": "Group",
+                "id": "74b86100-7414-4b64-b386-a48270a9bb02"
+              },
+              "joinphrase": ""
+            }
+          ]
+        },
+        {
+          "position": 3,
+          "number": "3",
+          "length": 252626,
+          "id": "a3221419-3b53-3d63-b34b-97c355db6798",
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "name": "Virgin Steele",
+              "artist": {
+                "sort-name": "Virgin Steele",
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                "aliases": [],
+                "type": "Group",
+                "disambiguation": "USA heavy/power metal",
+                "id": "74b86100-7414-4b64-b386-a48270a9bb02",
+                "name": "Virgin Steele"
+              }
+            }
+          ],
+          "recording": {
+            "length": 252626,
+            "disambiguation": "",
+            "id": "9cda830c-1be7-43da-b278-0d68bb3cceef",
+            "title": "Jet Black",
+            "video": false,
+            "tags": [],
+            "artist-credit": [
+              {
+                "name": "Virgin Steele",
+                "artist": {
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                  "id": "74b86100-7414-4b64-b386-a48270a9bb02",
+                  "sort-name": "Virgin Steele",
+                  "disambiguation": "USA heavy/power metal",
+                  "type": "Group",
+                  "name": "Virgin Steele"
+                },
+                "joinphrase": ""
+              }
+            ],
+            "aliases": [],
+            "genres": [],
+            "first-release-date": "1993-03",
+            "isrcs": []
+          },
+          "title": "Jet Black"
+        },
+        {
+          "position": 4,
+          "id": "6e961f7f-0638-31ff-a3e0-8b1d030b89da",
+          "number": "4",
+          "length": 76373,
+          "recording": {
+            "genres": [],
+            "first-release-date": "1993-03",
+            "isrcs": [],
+            "id": "a6ee8674-dcda-44f7-a357-0121e4819977",
+            "length": 76373,
+            "disambiguation": "",
+            "tags": [],
+            "video": false,
+            "title": "Invitation",
+            "aliases": [],
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "name": "Virgin Steele",
+                "artist": {
+                  "name": "Virgin Steele",
+                  "id": "74b86100-7414-4b64-b386-a48270a9bb02",
+                  "sort-name": "Virgin Steele",
+                  "disambiguation": "USA heavy/power metal",
+                  "type": "Group",
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+                }
+              }
+            ]
+          },
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "artist": {
+                "disambiguation": "USA heavy/power metal",
+                "type": "Group",
+                "id": "74b86100-7414-4b64-b386-a48270a9bb02",
+                "name": "Virgin Steele",
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                "aliases": [],
+                "sort-name": "Virgin Steele"
+              },
+              "name": "Virgin Steele"
+            }
+          ],
+          "title": "Invitation"
+        },
+        {
+          "id": "eefbf89e-3f91-3ce8-9bcf-3b0c11d7ca89",
+          "length": 285626,
+          "number": "5",
+          "position": 5,
+          "title": "I Dress in Black",
+          "recording": {
+            "id": "22f8cdcc-0978-4b29-b013-da44713a90bc",
+            "length": 285626,
+            "disambiguation": "",
+            "video": false,
+            "tags": [],
+            "title": "I Dress in Black",
+            "aliases": [],
+            "artist-credit": [
+              {
+                "artist": {
+                  "name": "Virgin Steele",
+                  "type": "Group",
+                  "disambiguation": "USA heavy/power metal",
+                  "sort-name": "Virgin Steele",
+                  "id": "74b86100-7414-4b64-b386-a48270a9bb02",
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+                },
+                "name": "Virgin Steele",
+                "joinphrase": ""
+              }
+            ],
+            "genres": [],
+            "first-release-date": "1993-03",
+            "isrcs": []
+          },
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "name": "Virgin Steele",
+              "artist": {
+                "sort-name": "Virgin Steele",
+                "name": "Virgin Steele",
+                "type": "Group",
+                "disambiguation": "USA heavy/power metal",
+                "id": "74b86100-7414-4b64-b386-a48270a9bb02",
+                "aliases": [],
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Crown of Thorns",
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "name": "Virgin Steele",
+              "artist": {
+                "sort-name": "Virgin Steele",
+                "disambiguation": "USA heavy/power metal",
+                "type": "Group",
+                "id": "74b86100-7414-4b64-b386-a48270a9bb02",
+                "name": "Virgin Steele",
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                "aliases": []
+              }
+            }
+          ],
+          "recording": {
+            "length": 388106,
+            "disambiguation": "",
+            "id": "d12e3441-99c1-4ae4-a6c1-e5c1295bbf16",
+            "artist-credit": [
+              {
+                "artist": {
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                  "name": "Virgin Steele",
+                  "disambiguation": "USA heavy/power metal",
+                  "type": "Group",
+                  "sort-name": "Virgin Steele",
+                  "id": "74b86100-7414-4b64-b386-a48270a9bb02"
+                },
+                "name": "Virgin Steele",
+                "joinphrase": ""
+              }
+            ],
+            "aliases": [],
+            "title": "Crown of Thorns",
+            "video": false,
+            "tags": [],
+            "first-release-date": "1993-03",
+            "genres": [],
+            "isrcs": []
+          },
+          "number": "6",
+          "length": 388106,
+          "id": "f586016d-3c59-389a-b366-eb2df7383fcd",
+          "position": 6
+        },
+        {
+          "position": 7,
+          "number": "7",
+          "length": 54226,
+          "id": "8f24df83-85f0-39d2-aac6-c778c61fc327",
+          "artist-credit": [
+            {
+              "name": "Virgin Steele",
+              "artist": {
+                "sort-name": "Virgin Steele",
+                "name": "Virgin Steele",
+                "id": "74b86100-7414-4b64-b386-a48270a9bb02",
+                "disambiguation": "USA heavy/power metal",
+                "type": "Group",
+                "aliases": [],
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+              },
+              "joinphrase": ""
+            }
+          ],
+          "recording": {
+            "aliases": [],
+            "artist-credit": [
+              {
+                "artist": {
+                  "name": "Virgin Steele",
+                  "id": "74b86100-7414-4b64-b386-a48270a9bb02",
+                  "sort-name": "Virgin Steele",
+                  "disambiguation": "USA heavy/power metal",
+                  "type": "Group",
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+                },
+                "name": "Virgin Steele",
+                "joinphrase": ""
+              }
+            ],
+            "video": false,
+            "tags": [],
+            "title": "Cage of Angels",
+            "id": "cecafb2a-e41c-4ad9-b44f-d1a68d676ffb",
+            "length": 54226,
+            "disambiguation": "",
+            "isrcs": [],
+            "first-release-date": "1993-03",
+            "genres": []
+          },
+          "title": "Cage of Angels"
+        },
+        {
+          "number": "8",
+          "length": 262600,
+          "id": "45d61af8-cf6e-3fc8-a15e-85eeebed17a6",
+          "position": 8,
+          "title": "Never Believed in Good-Bye",
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "artist": {
+                "name": "Virgin Steele",
+                "type": "Group",
+                "disambiguation": "USA heavy/power metal",
+                "id": "74b86100-7414-4b64-b386-a48270a9bb02",
+                "aliases": [],
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                "sort-name": "Virgin Steele"
+              },
+              "name": "Virgin Steele"
+            }
+          ],
+          "recording": {
+            "aliases": [],
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "artist": {
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                  "name": "Virgin Steele",
+                  "disambiguation": "USA heavy/power metal",
+                  "type": "Group",
+                  "id": "74b86100-7414-4b64-b386-a48270a9bb02",
+                  "sort-name": "Virgin Steele"
+                },
+                "name": "Virgin Steele"
+              }
+            ],
+            "video": false,
+            "tags": [],
+            "title": "Never Believed in Good‐Bye",
+            "id": "b5d07d9a-0249-4e4d-929d-66fc0a1b5c7f",
+            "disambiguation": "",
+            "length": 262600,
+            "isrcs": [],
+            "first-release-date": "1993-03",
+            "genres": []
+          }
+        },
+        {
+          "position": 9,
+          "id": "62111e02-870a-380c-bea1-3fc6b3c5ae9d",
+          "length": 279800,
+          "number": "9",
+          "recording": {
+            "id": "6817c9e5-8dfd-4ea6-aca5-1e326660bd15",
+            "disambiguation": "",
+            "length": 279800,
+            "tags": [],
+            "video": false,
+            "title": "Too Hot to Handle",
+            "aliases": [],
+            "artist-credit": [
+              {
+                "artist": {
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                  "name": "Virgin Steele",
+                  "id": "74b86100-7414-4b64-b386-a48270a9bb02",
+                  "sort-name": "Virgin Steele",
+                  "type": "Group",
+                  "disambiguation": "USA heavy/power metal"
+                },
+                "name": "Virgin Steele",
+                "joinphrase": ""
+              }
+            ],
+            "genres": [],
+            "first-release-date": "1993-03",
+            "isrcs": []
+          },
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "artist": {
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                "aliases": [],
+                "id": "74b86100-7414-4b64-b386-a48270a9bb02",
+                "type": "Group",
+                "disambiguation": "USA heavy/power metal",
+                "name": "Virgin Steele",
+                "sort-name": "Virgin Steele"
+              },
+              "name": "Virgin Steele"
+            }
+          ],
+          "title": "Too Hot to Handle"
+        },
+        {
+          "title": "Love’s Gone",
+          "artist-credit": [
+            {
+              "name": "Virgin Steele",
+              "artist": {
+                "aliases": [],
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                "name": "Virgin Steele",
+                "type": "Group",
+                "disambiguation": "USA heavy/power metal",
+                "id": "74b86100-7414-4b64-b386-a48270a9bb02",
+                "sort-name": "Virgin Steele"
+              },
+              "joinphrase": ""
+            }
+          ],
+          "recording": {
+            "title": "Love’s Gone",
+            "video": false,
+            "tags": [],
+            "artist-credit": [
+              {
+                "artist": {
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                  "name": "Virgin Steele",
+                  "sort-name": "Virgin Steele",
+                  "id": "74b86100-7414-4b64-b386-a48270a9bb02",
+                  "type": "Group",
+                  "disambiguation": "USA heavy/power metal"
+                },
+                "name": "Virgin Steele",
+                "joinphrase": ""
+              }
+            ],
+            "aliases": [],
+            "length": 266000,
+            "disambiguation": "",
+            "id": "55f8762e-24d6-46b6-993f-9c9043403b6a",
+            "isrcs": [],
+            "genres": [],
+            "first-release-date": "1993-03"
+          },
+          "number": "10",
+          "length": 268173,
+          "id": "ac16cd76-3666-3ddb-afe0-92bd936af17f",
+          "position": 10
+        },
+        {
+          "position": 11,
+          "id": "9ccf717a-17da-368d-b079-3289e170e64d",
+          "number": "11",
+          "length": 283466,
+          "recording": {
+            "isrcs": [],
+            "genres": [],
+            "first-release-date": "1993-03",
+            "title": "Wild Fire Woman",
+            "tags": [],
+            "video": false,
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "artist": {
+                  "name": "Virgin Steele",
+                  "disambiguation": "USA heavy/power metal",
+                  "type": "Group",
+                  "id": "74b86100-7414-4b64-b386-a48270a9bb02",
+                  "sort-name": "Virgin Steele",
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+                },
+                "name": "Virgin Steele"
+              }
+            ],
+            "aliases": [],
+            "length": 283000,
+            "disambiguation": "",
+            "id": "96bf778b-e309-45f0-a20b-c5b321647e9d"
+          },
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "name": "Virgin Steele",
+              "artist": {
+                "type": "Group",
+                "disambiguation": "USA heavy/power metal",
+                "id": "74b86100-7414-4b64-b386-a48270a9bb02",
+                "name": "Virgin Steele",
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                "aliases": [],
+                "sort-name": "Virgin Steele"
+              }
+            }
+          ],
+          "title": "Wild Fire Woman"
+        },
+        {
+          "position": 12,
+          "id": "8459fd3c-e7d4-322b-a7ec-5585d55f0305",
+          "length": 271493,
+          "number": "12",
+          "recording": {
+            "first-release-date": "1993-03",
+            "genres": [],
+            "isrcs": [],
+            "disambiguation": "",
+            "length": 271493,
+            "id": "697fcee0-4e57-4e2b-9683-ade9a0281045",
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "artist": {
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                  "name": "Virgin Steele",
+                  "type": "Group",
+                  "disambiguation": "USA heavy/power metal",
+                  "sort-name": "Virgin Steele",
+                  "id": "74b86100-7414-4b64-b386-a48270a9bb02"
+                },
+                "name": "Virgin Steele"
+              }
+            ],
+            "aliases": [],
+            "title": "Cry Forever",
+            "tags": [],
+            "video": false
+          },
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "artist": {
+                "type": "Group",
+                "disambiguation": "USA heavy/power metal",
+                "id": "74b86100-7414-4b64-b386-a48270a9bb02",
+                "name": "Virgin Steele",
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                "aliases": [],
+                "sort-name": "Virgin Steele"
+              },
+              "name": "Virgin Steele"
+            }
+          ],
+          "title": "Cry Forever"
+        },
+        {
+          "recording": {
+            "isrcs": [],
+            "genres": [],
+            "first-release-date": "1993-03",
+            "video": false,
+            "tags": [],
+            "title": "Haunting the Last Hours",
+            "aliases": [],
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "artist": {
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                  "name": "Virgin Steele",
+                  "id": "74b86100-7414-4b64-b386-a48270a9bb02",
+                  "sort-name": "Virgin Steele",
+                  "type": "Group",
+                  "disambiguation": "USA heavy/power metal"
+                },
+                "name": "Virgin Steele"
+              }
+            ],
+            "id": "130c9599-7308-44ae-8f9c-6191b1023986",
+            "disambiguation": "",
+            "length": 54306
+          },
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "name": "Virgin Steele",
+              "artist": {
+                "aliases": [],
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                "name": "Virgin Steele",
+                "type": "Group",
+                "disambiguation": "USA heavy/power metal",
+                "id": "74b86100-7414-4b64-b386-a48270a9bb02",
+                "sort-name": "Virgin Steele"
+              }
+            }
+          ],
+          "title": "Haunting the Last Hours",
+          "position": 13,
+          "id": "4d29576a-e9be-331e-ae4e-33fe6ef9f6af",
+          "number": "13",
+          "length": 54306
+        },
+        {
+          "title": "Last Rose of Summer",
+          "artist-credit": [
+            {
+              "joinphrase": "",
+              "artist": {
+                "sort-name": "Virgin Steele",
+                "aliases": [],
+                "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                "name": "Virgin Steele",
+                "disambiguation": "USA heavy/power metal",
+                "type": "Group",
+                "id": "74b86100-7414-4b64-b386-a48270a9bb02"
+              },
+              "name": "Virgin Steele"
+            }
+          ],
+          "recording": {
+            "isrcs": [],
+            "genres": [
+              {
+                "id": "a6719055-99c4-47eb-beaa-71081f2376f9",
+                "count": 1,
+                "disambiguation": "",
+                "name": "heavy metal"
+              },
+              {
+                "name": "metal",
+                "id": "cc28f5aa-5e19-487c-88e1-e56b022f1fdd",
+                "disambiguation": "",
+                "count": 1
+              },
+              {
+                "name": "rock",
+                "disambiguation": "",
+                "count": 1,
+                "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798"
+              }
+            ],
+            "first-release-date": "1993-03",
+            "tags": [
+              {
+                "count": 1,
+                "name": "heavy metal"
+              },
+              {
+                "name": "metal",
+                "count": 1
+              },
+              {
+                "count": 1,
+                "name": "rock"
+              }
+            ],
+            "video": false,
+            "title": "Last Rose of Summer",
+            "aliases": [],
+            "artist-credit": [
+              {
+                "joinphrase": "",
+                "name": "Virgin Steele",
+                "artist": {
+                  "type": "Group",
+                  "disambiguation": "USA heavy/power metal",
+                  "sort-name": "Virgin Steele",
+                  "id": "74b86100-7414-4b64-b386-a48270a9bb02",
+                  "name": "Virgin Steele",
+                  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+                }
+              }
+            ],
+            "id": "225d1d85-4dae-4320-932d-970fb9b98e3d",
+            "length": 258760,
+            "disambiguation": ""
+          },
+          "number": "14",
+          "length": 258760,
+          "id": "01074b79-3f36-36be-8635-999cf2891ccf",
+          "position": 14
+        }
+      ],
+      "title": "",
+      "discs": [
+        {
+          "offsets": [
+            150,
+            21495,
+            38938,
+            57885,
+            63613,
+            85035,
+            114143,
+            118210,
+            137905,
+            158890,
+            179003,
+            200263,
+            220625,
+            224698
+          ],
+          "offset-count": 14,
+          "sectors": 244105,
+          "id": "egg2FSZRx6jWQFsK8_2TV06tBYE-"
+        }
+      ],
+      "track-offset": 0,
+      "track-count": 14
+    }
+  ],
+  "cover-art-archive": {
+    "artwork": true,
+    "front": true,
+    "darkened": false,
+    "back": true,
+    "count": 3
+  },
+  "quality": "normal",
+  "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+  "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+  "relations": [
+    {
+      "target-type": "url",
+      "source-credit": "",
+      "attribute-values": {},
+      "ended": false,
+      "attributes": [],
+      "target-credit": "",
+      "type-id": "4f2e710d-166c-480c-a293-2e2c8d658d87",
+      "direction": "forward",
+      "begin": null,
+      "type": "amazon asin",
+      "end": null,
+      "attribute-ids": {},
+      "url": {
+        "id": "1f0da0ba-663e-4e0f-8745-4c2865613547",
+        "resource": "https://www.amazon.de/gp/product/B0000075W9"
+      }
+    }
+  ],
+  "title": "Life Among the Ruins",
+  "aliases": [],
+  "release-group": {
+    "disambiguation": "",
+    "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+    "secondary-types": [],
+    "id": "bfd60dd7-4d46-3eeb-9ff4-cb3201623ae4",
+    "secondary-type-ids": [],
+    "title": "Life Among the Ruins",
+    "tags": [
+      {
+        "count": 1,
+        "name": "arena rock"
+      },
+      {
+        "count": 1,
+        "name": "hard rock"
+      },
+      {
+        "count": 1,
+        "name": "heavy metal"
+      },
+      {
+        "count": 1,
+        "name": "rock"
+      }
+    ],
+    "artist-credit": [
+      {
+        "joinphrase": "",
+        "artist": {
+          "disambiguation": "USA heavy/power metal",
+          "type": "Group",
+          "id": "74b86100-7414-4b64-b386-a48270a9bb02",
+          "name": "Virgin Steele",
+          "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+          "aliases": [],
+          "sort-name": "Virgin Steele"
+        },
+        "name": "Virgin Steele"
+      }
+    ],
+    "aliases": [],
+    "primary-type": "Album",
+    "genres": [
+      {
+        "name": "arena rock",
+        "id": "26af3760-750a-4b5e-a699-78c87697585a",
+        "disambiguation": "",
+        "count": 1
+      },
+      {
+        "disambiguation": "",
+        "count": 1,
+        "id": "51cb9f91-e6a2-41bf-891f-e78e3f1e52ab",
+        "name": "hard rock"
+      },
+      {
+        "id": "a6719055-99c4-47eb-beaa-71081f2376f9",
+        "disambiguation": "",
+        "count": 1,
+        "name": "heavy metal"
+      },
+      {
+        "name": "rock",
+        "disambiguation": "",
+        "count": 1,
+        "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798"
+      }
+    ],
+    "first-release-date": "1993-03"
+  },
+  "text-representation": {
+    "script": "Latn",
+    "language": "eng"
+  },
+  "id": "0004836a-3a0c-44a7-b856-0c648389dae8",
+  "disambiguation": "",
+  "barcode": "4011777103623",
+  "packaging": "Jewel Case"
+}

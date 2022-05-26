@@ -1,0 +1,750 @@
+{
+    "release": {
+        "_id": "44106",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "194",
+                "join": "",
+                "name": "Various",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "57",
+                    "name": "Distance",
+                    "resource_url": "https://api.discogs.com/labels/57"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "57",
+                    "name": "Distance",
+                    "resource_url": "https://api.discogs.com/labels/57"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "245",
+                    "name": "R \u0026 S Records",
+                    "resource_url": "https://api.discogs.com/labels/245"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "1531552",
+                    "name": "Edition Bigen",
+                    "resource_url": "https://api.discogs.com/labels/1531552"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "493152",
+                    "name": "Poes One",
+                    "resource_url": "https://api.discogs.com/labels/493152"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "1531553",
+                    "name": "Yellow Moose Music",
+                    "resource_url": "https://api.discogs.com/labels/1531553"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "1003",
+                    "name": "BMG",
+                    "resource_url": "https://api.discogs.com/labels/1003"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "312298",
+                    "name": "BMLC Sound",
+                    "resource_url": "https://api.discogs.com/labels/312298"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "216650",
+                    "name": "BE'S Songs",
+                    "resource_url": "https://api.discogs.com/labels/216650"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "48207",
+                    "name": "Copyright Control",
+                    "resource_url": "https://api.discogs.com/labels/48207"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "597533",
+                    "name": "Frank De Wulf Productions",
+                    "resource_url": "https://api.discogs.com/labels/597533"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "295038",
+                    "name": "Soma Music",
+                    "resource_url": "https://api.discogs.com/labels/295038"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "6",
+                    "entity_type_name": "Licensed From",
+                    "id": "245",
+                    "name": "R \u0026 S Records",
+                    "resource_url": "https://api.discogs.com/labels/245"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "6",
+                    "entity_type_name": "Licensed From",
+                    "id": "7796",
+                    "name": "Pias France",
+                    "resource_url": "https://api.discogs.com/labels/7796"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "6",
+                    "entity_type_name": "Licensed From",
+                    "id": "42647",
+                    "name": "Double O Records",
+                    "resource_url": "https://api.discogs.com/labels/42647"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "6",
+                    "entity_type_name": "Licensed From",
+                    "id": "401954",
+                    "name": "Target Records Belgium",
+                    "resource_url": "https://api.discogs.com/labels/401954"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "6",
+                    "entity_type_name": "Licensed From",
+                    "id": "1248",
+                    "name": "I.T.P. Recordings",
+                    "resource_url": "https://api.discogs.com/labels/1248"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "6",
+                    "entity_type_name": "Licensed From",
+                    "id": "18",
+                    "name": "Soma Quality Recordings",
+                    "resource_url": "https://api.discogs.com/labels/18"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "307743",
+                    "name": "Sun Electric G.E.C.",
+                    "resource_url": "https://api.discogs.com/labels/307743"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "271251",
+                    "name": "Lab Studio, Berlin",
+                    "resource_url": "https://api.discogs.com/labels/271251"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "392706",
+                    "name": "On-One Studios",
+                    "resource_url": "https://api.discogs.com/labels/392706"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "1531551",
+                    "name": "My Place, Gent",
+                    "resource_url": "https://api.discogs.com/labels/1531551"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "362183",
+                    "name": "Dada Studios (2)",
+                    "resource_url": "https://api.discogs.com/labels/362183"
+                }
+            ]
+        },
+        "country": "France",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "6743796",
+                "join": "",
+                "name": "Philippe Marchal (3)",
+                "role": "A\u0026R",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "Compilation"
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Text",
+                    "_type": "Barcode",
+                    "_value": "3 512841 101824"
+                },
+                {
+                    "_type": "Barcode",
+                    "_value": "3512841101824"
+                },
+                {
+                    "_type": "Other",
+                    "_value": "DK021"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "DURECO DI0182"
+                },
+                {
+                    "_type": "Rights Society",
+                    "_value": "SACEM/SDRM"
+                },
+                {
+                    "_description": "Track 3",
+                    "_type": "Rights Society",
+                    "_value": "ASCAP"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "417",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "418"
+                },
+                {
+                    "_height": "462",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "599"
+                },
+                {
+                    "_height": "599",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "299"
+                },
+                {
+                    "_height": "597",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "599"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "Di 0182",
+                "_id": "57",
+                "_name": "Distance"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "1836446"
+        },
+        "notes": "Track 1 mixtitle printed as \"(Latex Mix)\" in booklet and \"(Frank De Wulf Latex Remix)\" on backcover.\n\nP \u0026 C 1995 Distance\n\nTracks 1, 4, 6:\nPublished by R\u0026S Records\nLicensed from R\u0026S Records - Belgium\n\nTrack 2:\nRecorded at Sun Electric G.E.C and LAB. Berlin\nPublished by Edition Bigen/R\u0026S Records\nLicensed from R\u0026S Records - Belgium\n\nTrack 3:\nRecorded @ On-One Studios\nPublished by Poes One (ASCAP) - Licensed from Pias France\n\nTrack 5:\nPublished by Yellow Moose Music/BMG\nLicensed from Double \"O\" Records - USA\n\nTrack 7:\nPublished by BMLC-Sound/Be's Song\nLicensed from Target Records - Belgium\n\nTrack 8:\nPublished by Copyright Control\nLicensed from ITP Records - England\n\nTrack 9:\nRecorded at My Place, Gent\nPublished by F. de Wulf Prod./R\u0026S Records\nLicensed from R\u0026S Records - Belgium\n\nTrack 10:\nRecorded at DADA Studio, London\nPublished by Copyright Control\nLicensed from ITP Records - England\n\nTrack 11:\nPublished by Soma Music\nLicensed from Soma Recordings - England",
+        "released": "1995",
+        "styles": {
+            "style": [
+                "Techno",
+                "Tech House"
+            ]
+        },
+        "title": "Techno Sound Of Distance 1",
+        "tracklist": {
+            "track": [
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "3956",
+                            "join": "",
+                            "name": "Biosphere",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:47",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "1309",
+                                "join": "",
+                                "name": "Frank De Wulf",
+                                "role": "Remix",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "25441",
+                                "join": "",
+                                "name": "Geir Jenssen",
+                                "role": "Written-By, Composed By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "1",
+                    "title": "Novelty Waves (Frank De Wulf Latex Remix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1193",
+                            "join": "",
+                            "name": "Sun Electric",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "7:07",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "1193",
+                                "join": "",
+                                "name": "Sun Electric",
+                                "role": "Producer",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "30730",
+                                "join": "",
+                                "name": "Max Loderbauer",
+                                "role": "Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "18714",
+                                "join": "",
+                                "name": "Tom Thiel",
+                                "role": "Written-By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "2",
+                    "title": "Kiko"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "891",
+                            "join": "",
+                            "name": "Joey Beltram",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "3:32",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "891",
+                            "join": "",
+                            "name": "Joey Beltram",
+                            "role": "Producer, Engineer, Written-By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "3",
+                    "title": "Electric"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "2659",
+                            "join": "",
+                            "name": "Sven Van Hees",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "8:38",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "2659",
+                            "join": "",
+                            "name": "Sven Van Hees",
+                            "role": "Written-By, Producer",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "4",
+                    "title": "Psychadelic Bellydance"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "33369",
+                            "join": "",
+                            "name": "Perez \u0026 Dowell",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "7:00",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "429687",
+                                "join": "",
+                                "name": "Richard Dowell",
+                                "role": "Written-By, Composed By, Producer",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "Tony Perez",
+                                "id": "429686",
+                                "join": "",
+                                "name": "Toni Perez",
+                                "role": "Written-By, Composed By, Producer",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "5",
+                    "title": "Generatio!"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "6878",
+                            "join": "",
+                            "name": "The Source Experience",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "8:09",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "6367",
+                            "join": "",
+                            "name": "Robert Leiner",
+                            "role": "Written-By, Producer, Mixed By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "6",
+                    "title": "Voices Of The Spirit"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "33370",
+                            "join": "",
+                            "name": "Blackbones",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:39",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "J.Bertoli",
+                                "id": "54383",
+                                "join": "",
+                                "name": "J. Bertoli",
+                                "role": "Mixed By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "J.Bertoli",
+                                "id": "54383",
+                                "join": "",
+                                "name": "J. Bertoli",
+                                "role": "Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "T.Varone",
+                                "id": "113541",
+                                "join": "",
+                                "name": "Tony Varone",
+                                "role": "Written-By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "7",
+                    "title": "Paranoia (Is It Acid Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "BC",
+                            "id": "3247",
+                            "join": "",
+                            "name": "B.C.",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "7:35",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "BC",
+                            "id": "3247",
+                            "join": "",
+                            "name": "B.C.",
+                            "role": "Written-By, Producer",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "8",
+                    "title": "Stronghold"
+                },
+                {
+                    "artists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "1309",
+                                "join": "Vs",
+                                "name": "Frank De Wulf",
+                                "role": "",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "T.Quest",
+                                "id": "4297",
+                                "join": "",
+                                "name": "T-Quest",
+                                "role": "",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "duration": "6:13",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "1309",
+                                "join": "",
+                                "name": "Frank De Wulf",
+                                "role": "Written-By, Producer",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "T.Quest",
+                                "id": "4297",
+                                "join": "",
+                                "name": "T-Quest",
+                                "role": "Written-By, Producer",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "9",
+                    "title": "Play"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "8793",
+                            "join": "",
+                            "name": "Pluto",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "8:26",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "45017",
+                                "join": "",
+                                "name": "Steve Dub",
+                                "role": "Engineer",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "8793",
+                                "join": "",
+                                "name": "Pluto",
+                                "role": "Written-By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "10",
+                    "title": "Free To Run (Bullet Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "20",
+                            "join": "",
+                            "name": "Percy X",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "7:28",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "20",
+                            "join": "",
+                            "name": "Percy X",
+                            "role": "Written-By, Producer",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "11",
+                    "title": "Odyssey"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "410",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=fjY0kKJxZBk",
+                    "description": "Techno 1994",
+                    "title": "Biosphere - Novelty Waves (Frank De Wulf Latex Remix).wmv"
+                },
+                {
+                    "_duration": "213",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Uo15eSeommo",
+                    "description": "Simply one of the best techno tracks ever! From the Caliber EP released by Warp Records in '94.",
+                    "title": "Joey Beltram-Electric"
+                },
+                {
+                    "_duration": "479",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=YFMhdOACsY8",
+                    "description": "Label: Global Cuts\nReleased: 1994\nGenre: Electronic\nStyle: Progressive House, Trance",
+                    "title": "Sven Van Hees - Psychedelic Bellydance"
+                },
+                {
+                    "_duration": "416",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=3cdR4gGIyLQ",
+                    "description": "Perez \u0026 Dowell - Untitled \nLabel:Music Man Records - MM 012 \nFormat:Vinyl, 12, 33 ⅓ RPM \nCountry:Belgium \nReleased:1994 \nGenre:Electronic \nStyle:Techno \n\nTracklist \n-------------\nA In It\nB1 Darkened Dome\nB2 Sound Of Dub\nC Generatio !\nD Source Of Dub",
+                    "title": "Perez \u0026 Dowell - Generatio !"
+                },
+                {
+                    "_duration": "426",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=PwqUQ2gRPn8",
+                    "description": "Techno, Experimental\nWritten by Robert Leiner\nFrom the sampler In Order To Dance 5\nR \u0026 S Records\nBelgium 1994",
+                    "title": "Source Experience - The Voices Of The Spirit"
+                },
+                {
+                    "_duration": "402",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=5HyqKo-slWg",
+                    "description": "http://www.fmf-team.com\n\nLabel: Oscillator\nCatalog#: OS. 037\nFormat: Vinyl, 12\nCountry: Belgium\nReleased: 1995\nGenre: Electronic\nStyle: Trance, Techno",
+                    "title": "Blackbones - Paranoia (Is It Acid Mix) (1995)"
+                },
+                {
+                    "_duration": "453",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=2YLafaRA7OE",
+                    "description": "B.C. - Stronghold\r\nStronghold, I.T.P. Recordings ITP 005, 1994\r\nCisco Ferreira, Robert Leiner",
+                    "title": "B. C. - Stronghold"
+                },
+                {
+                    "_duration": "383",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Hn1WFIQEThY",
+                    "description": "Label: R \u0026 S Records ‎– RS 94053\nFrom: Play E.P\nProducer, Written-By – Frank De Wulf, T-Quest",
+                    "title": "Frank De Wulf Vs.T.Quest  - Play [1994]"
+                },
+                {
+                    "_duration": "505",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=S9KVHSdd3DI",
+                    "description": "http://www.discogs.com/Various-Global-Technological-Innovations-UK-1/release/82574",
+                    "title": "Pluto - Free To Run (Bullet Mix)"
+                },
+                {
+                    "_duration": "448",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=4I7X3iQg5eI",
+                    "description": "http://www.discogs.com/Percy-X-Odyssey/master/37384",
+                    "title": "Percy X ‎-- Odyssey-Odyssey"
+                }
+            ]
+        }
+    }
+}

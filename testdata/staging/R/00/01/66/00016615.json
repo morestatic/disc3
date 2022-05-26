@@ -1,0 +1,224 @@
+{
+    "release": {
+        "_id": "16615",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "3936",
+                "join": "",
+                "name": "Koolfang",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": {
+                "catno": "",
+                "entity_type": "10",
+                "entity_type_name": "Manufactured By",
+                "id": "291931",
+                "name": "CD Plant MFG",
+                "resource_url": "https://api.discogs.com/labels/291931"
+            }
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "152",
+                    "join": "",
+                    "name": "David Moufang",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Label Code",
+                    "_value": "LC6269"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "CD PLANT MFG PK 08/104  CDM01"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "592",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "591",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "697",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "597",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "466",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/104",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "\"Is it Jazz?\r\n...just a warm day...\"\r\n\r\nKoolfang\r\nFrankfurt 1995\r\n\r\nLimited to 1000 copies",
+        "released": "1995-05-26",
+        "styles": {
+            "style": [
+                "Future Jazz",
+                "Ambient"
+            ]
+        },
+        "title": "Jambient",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "19:14",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "1910",
+                                "join": "",
+                                "name": "Pete Namlook",
+                                "role": "Edited By [Trumpet Solo Construction]",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "Cacciato",
+                                "id": "65491",
+                                "join": "",
+                                "name": "Rebucatt Cacciatore",
+                                "role": "Trumpet",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "1",
+                    "title": "Koolfang"
+                },
+                {
+                    "duration": "24:50",
+                    "position": "2",
+                    "title": "Fusonics"
+                },
+                {
+                    "duration": "4:47",
+                    "position": "3",
+                    "title": "O-Ton"
+                },
+                {
+                    "duration": "10:00",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "39643",
+                            "join": "",
+                            "name": "Elisabeth Michels",
+                            "role": "Soprano Vocals [Soprano]",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "4",
+                    "title": "Counter"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "1158",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=xwWETY5Vr2M",
+                    "description": "Track 1 - Koolfang\nArtists : Pete Namlook \u0026 David Moufang\nAlbum : Koolfang - Jambient\n1995 FAX +49-69/450464",
+                    "title": "Pete Namlook \u0026 David Moufang - Koolfang (Koolfang - Jambient)"
+                },
+                {
+                    "_duration": "1492",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=TYxw2GBUJxw",
+                    "description": "Track 2 - Fusonics\nArtists : Pete Namlook \u0026 David Moufang\nAlbum : Koolfang - Jambient\n1995 FAX +49-69/450464",
+                    "title": "Pete Namlook \u0026 David Moufang - Fusonics (Koolfang - Jambient)"
+                },
+                {
+                    "_duration": "288",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=fMCb0YhDMOc",
+                    "description": "Track 3 - O-Ton\nArtists : Pete Namlook \u0026 David Moufang\nAlbum : Koolfang - Jambient\n1995 FAX +49-69/450464",
+                    "title": "Pete Namlook \u0026 David Moufang - O-Ton (Koolfang - Jambient)"
+                },
+                {
+                    "_duration": "601",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=QJCJ-dE2G2U",
+                    "description": "Track 4 - Counter\nArtists : Pete Namlook \u0026 David Moufang\nAlbum : Koolfang - Jambient\n1995 FAX +49-69/450464",
+                    "title": "Pete Namlook \u0026 David Moufang - Counter (Koolfang - Jambient)"
+                }
+            ]
+        }
+    }
+}

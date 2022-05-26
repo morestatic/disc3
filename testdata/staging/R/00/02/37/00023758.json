@@ -1,0 +1,177 @@
+{
+    "release": {
+        "_id": "23758",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "9720",
+                "join": "",
+                "name": "Curtis",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "UK",
+        "data_quality": "Correct",
+        "extraartists": "",
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "12\""
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "607",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "598",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "224",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "300"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "LOAD 054",
+                "_id": "40",
+                "_name": "Loaded Records"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "false",
+            "content": "218700"
+        },
+        "notes": "All tracks written and produced by F. LeFrancois\r\n\r\nAA1/AA2 Additional production and remix by Si Begg\r\n\r\nConception graphique: 3 Points (Additional Design by Red)",
+        "released": "1999-00-00",
+        "styles": {
+            "style": [
+                "Electro",
+                "House",
+                "Techno"
+            ]
+        },
+        "title": "Superstar Dog",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A1",
+                    "title": "Superstar Dog  (Original Mix)"
+                },
+                {
+                    "duration": "",
+                    "position": "A2",
+                    "title": "Superstar Dog  (Instrumental)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "340",
+                            "join": "",
+                            "name": "Si Begg",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "AA1",
+                    "title": "Superstar Dog  (Si Begg's Buckfunk 3000 Mix)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "340",
+                            "join": "",
+                            "name": "Si Begg",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "AA2",
+                    "title": "Superstar Dog  (Si Begg's Euro-Disco Mix)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "249",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=_Gwhs1PKdgs",
+                    "description": "The song Superstar Dog off of the album Grand Hotel by Curtis.",
+                    "title": "Superstar Dog"
+                },
+                {
+                    "_duration": "251",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=hIQWrmlxu1Q",
+                    "description": "Grand Hotel, 1998. Track 1: Superstar Dog",
+                    "title": "Curtis - Superstar Dog"
+                },
+                {
+                    "_duration": "457",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=wpxXgVGgCf4",
+                    "description": "Provided to YouTube by Loaded records\n\nSuperstar Dog (Si Begg's Buckfunk 3000 Mix) · Curtis (冷炫忱)\n\nSuperstar Dog\n\n℗ 1999 Loaded Records Limited, a BMG Company\n\nPerformance: Fabien le François\n\nAuto-generated by YouTube.",
+                    "title": "Superstar Dog (Si Begg's Buckfunk 3000 Mix)"
+                },
+                {
+                    "_duration": "407",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=aqx_IltmOPo",
+                    "description": "Curtis -- Superstar Dog\r\nCurtis is Fabien le François\r\nLabel:Loaded Records\r\nCatalog#:LOAD 054\r\nFormat:Vinyl, 12 \r\nCountry:UK\r\nReleased:1999\r\nGenre:Electronic\r\nStyle:Electro, House, Techno",
+                    "title": "Superstar Dog(Instrumental) - Curtis  /  Superstar Dog EP (Loaded)"
+                },
+                {
+                    "_duration": "408",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=5dTnBzMAMrc",
+                    "description": "Provided to YouTube by Loaded records\n\nSuperstar Dog (Instrumental) · Curtis (冷炫忱)\n\nSuperstar Dog\n\n℗ 1999 Loaded Records Limited, a BMG Company\n\nPerformance: Fabien le François\n\nAuto-generated by YouTube.",
+                    "title": "Superstar Dog (Instrumental)"
+                },
+                {
+                    "_duration": "457",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=BMqJhVbfR5w",
+                    "description": "Provided to YouTube by Loaded records\n\nSuperstar Dog (Si Begg's Euro Disco Mix) · Curtis (冷炫忱)\n\nSuperstar Dog\n\n℗ 1999 Loaded Records Limited, a BMG Company\n\nPerformance: Fabien le François\n\nAuto-generated by YouTube.",
+                    "title": "Superstar Dog (Si Begg's Euro Disco Mix)"
+                },
+                {
+                    "_duration": "317",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=3Cj-ot6CZMI",
+                    "description": "Provided to YouTube by CDBaby\n\nSuperstar · Curtis\n\nSuperstar\n\n℗ 2016 Curtis\n\nReleased on: 2016-02-02\n\nAuto-generated by YouTube.",
+                    "title": "Superstar"
+                }
+            ]
+        }
+    }
+}

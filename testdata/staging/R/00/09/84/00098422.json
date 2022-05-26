@@ -1,0 +1,753 @@
+{
+    "release": {
+        "_id": "98422",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "1015",
+                "join": "",
+                "name": "Slam",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "UK",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "1015",
+                "join": "",
+                "name": "Slam",
+                "role": "DJ Mix",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Compilation",
+                        "Mixed"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_type": "Matrix / Runout",
+                "_value": "SOMA10 | Key Productions | *26496 | IFPI LD13"
+            }
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "SOMA10",
+                "_id": "18",
+                "_name": "Soma Quality Recordings"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "false",
+            "content": "37499"
+        },
+        "notes": "Issued with [url=http://www.discogs.com/release/90353]Soma 10 Anthology (Limited Edition)[/url]. Comes in a card slipcase, without a jewel case.\r\n\r\nCatalog# was taken from CD matrix.\r\n\r\nTotal duration: 73:33 minutes\r\n\r\n1: ℗\u0026© 1995 Soma Recordings Ltd., published by Soma Music, an HSC production\r\n2: ℗\u0026© 1998 Soma Recordings Ltd., published by Copyright Control\r\n3: ℗\u0026© 1997 Soma Recordings Ltd., published by Copyright Control\r\n4: ℗\u0026© 1997 Soma Recordings Ltd., published by Ewan Andrew Pearson (MCPS)\r\n5: ℗\u0026© 1998 Soma Recordings Ltd., published by Soma Music\r\n6: ℗\u0026© 2001 Soma Recordings Ltd., published by Soma Music/Sherlock Holmes Music\r\n7: ℗\u0026© 2000 Soma Recordings Ltd., published by Soma Music\r\n8: ℗\u0026© 2000 Sirkus, published by Copyright Control, licensed by Sirkus, written \u0026 produced for Simple Soul Productions\r\n9: ℗\u0026© 2001 Soma Recordings Ltd., published by Bucks Music Ltd.\r\n10: ℗\u0026© 2001 Soma Recordings Ltd., published by Geometry/Westbury\r\n11: ℗\u0026© 2000 Soma Recordings Ltd., published by Soma Music\r\n12: ℗\u0026© 2000 Soma Recordings Ltd., published by Soma Music\r\n13: ℗\u0026© 2001 Soma Recordings Ltd., published by Soma Music\r\n14: ℗\u0026© 1997 Soma Recordings Ltd., published by Soma Music\r\n15: ℗\u0026© 1995 Soma Recordings Ltd., published by Soma Music\r\n16: ℗\u0026© 1996 Soma Recordings Ltd., published by Soma Music",
+        "released": "2002-04-09",
+        "styles": {
+            "style": [
+                "Tribal",
+                "Tech House"
+            ]
+        },
+        "title": "Slam Hidden Treasures",
+        "tracklist": {
+            "track": [
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "245",
+                            "join": "",
+                            "name": "Envoy",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "0:21",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "33599",
+                            "join": "",
+                            "name": "Hope Grant",
+                            "role": "Written-By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "1",
+                    "title": "Prologue 02"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "7606",
+                            "join": "",
+                            "name": "Scott Grooves",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:20",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "7606",
+                            "join": "",
+                            "name": "Scott Grooves",
+                            "role": "Written-By, Producer",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "2",
+                    "title": "Pieces Of A Dream"
+                },
+                {
+                    "artists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "1023",
+                                "join": "Presents",
+                                "name": "Russ Gabriel",
+                                "role": "",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "1016",
+                                "join": "",
+                                "name": "Audio Spectrum",
+                                "role": "",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "duration": "3:50",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1023",
+                            "join": "",
+                            "name": "Russ Gabriel",
+                            "role": "Written-By, Producer, Presenter",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "3",
+                    "title": "Sex With A Stranger"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1017",
+                            "join": "",
+                            "name": "Maas",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:09",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "19221",
+                            "join": "",
+                            "name": "Ewan Pearson",
+                            "role": "Written-By, Producer",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "4",
+                    "title": "Euro Star"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "208",
+                            "join": "",
+                            "name": "Chaser",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "2:57",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "193661",
+                                "join": "",
+                                "name": "Lars Sandberg",
+                                "role": "Written-By, Producer",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "692",
+                                "join": "",
+                                "name": "Nigel Hayes",
+                                "role": "Written-By, Producer",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "5",
+                    "title": "F-Train"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1015",
+                            "join": "",
+                            "name": "Slam",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:23",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "244",
+                                "join": "",
+                                "name": "H-Foundation",
+                                "role": "Remix, Producer [Additional]",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "73435",
+                                "join": "",
+                                "name": "Tyrone Palmer",
+                                "role": "Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "225760",
+                                "join": "",
+                                "name": "Orde Meikle",
+                                "role": "Written-By, Producer",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "78458",
+                                "join": "",
+                                "name": "Stuart McMillan",
+                                "role": "Written-By, Producer",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "6",
+                    "title": "Lifetimes (H-Foundation Dub)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1940",
+                            "join": "",
+                            "name": "Silicone Soul",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:52",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "244",
+                                "join": "",
+                                "name": "H-Foundation",
+                                "role": "Remix, Producer [Additional]",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "468511",
+                                "join": "",
+                                "name": "Craig Morrison",
+                                "role": "Written-By, Producer",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "468510",
+                                "join": "",
+                                "name": "Graeme Reedie",
+                                "role": "Written-By, Producer",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "7",
+                    "title": "Chic-O-Laa (H-Foundation Remix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "Aaron Carl",
+                            "id": "382254",
+                            "join": "",
+                            "name": "Aaron-Carl",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:45",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "1017",
+                                "join": "",
+                                "name": "Maas",
+                                "role": "Remix",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "19221",
+                                "join": "",
+                                "name": "Ewan Pearson",
+                                "role": "Remix [Credited To], Producer [Additional]",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "Aaron Carl",
+                                "id": "382254",
+                                "join": "",
+                                "name": "Aaron-Carl",
+                                "role": "Written-By, Producer",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "8",
+                    "title": "Crucified (Maas 'Michigan Bass' Mix )"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "173",
+                            "join": "",
+                            "name": "Common Factor",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:47",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "55685",
+                            "join": "",
+                            "name": "Nick Calingaert",
+                            "role": "Written-By, Producer",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "9",
+                    "title": "Rise (Tech Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "3980",
+                            "join": "",
+                            "name": "Tony Thomas",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:53",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "Anthony Thomas",
+                            "id": "3980",
+                            "join": "",
+                            "name": "Tony Thomas",
+                            "role": "Written-By, Producer",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "10",
+                    "title": "Beginnings"
+                },
+                {
+                    "artists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "6544",
+                                "join": "Present",
+                                "name": "Hipp-E \u0026 Tony",
+                                "role": "",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "77787",
+                                "join": "",
+                                "name": "Soul Interactive",
+                                "role": "",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "duration": "4:23",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "8226",
+                                "join": "",
+                                "name": "Greg Sankovich",
+                                "role": "Keyboards [Keys By]",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "6544",
+                                "join": "",
+                                "name": "Hipp-E \u0026 Tony",
+                                "role": "Presenter",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "684780",
+                                "join": "",
+                                "name": "Eric Galavis",
+                                "role": "Written-By, Producer",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "8152",
+                                "join": "",
+                                "name": "Tony Hewitt",
+                                "role": "Written-By, Producer",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "11",
+                    "title": "Riddem Control"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "20",
+                            "join": "",
+                            "name": "Percy X",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "2:55",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "Dave Donaldson",
+                                "id": "340794",
+                                "join": "",
+                                "name": "David Donaldson",
+                                "role": "Engineer",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "20",
+                                "join": "",
+                                "name": "Percy X",
+                                "role": "Written-By, Producer",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "12",
+                    "title": "U Know What It Is"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1019",
+                            "join": "",
+                            "name": "Funk D'Void",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "3:53",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "Samuel L Sessions",
+                                "id": "212070",
+                                "join": "",
+                                "name": "Samuel L Session",
+                                "role": "Remix, Producer [Additional]",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "193661",
+                                "join": "",
+                                "name": "Lars Sandberg",
+                                "role": "Written-By, Producer",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "13",
+                    "title": "Diabla (Samuel L Sessions Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "164",
+                            "join": "",
+                            "name": "Pressure Funk",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:11",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "Jim Muotone",
+                                "id": "463943",
+                                "join": "",
+                                "name": "Jim Muotune",
+                                "role": "Written-By, Producer",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "78458",
+                                "join": "",
+                                "name": "Stuart McMillan",
+                                "role": "Written-By, Producer",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "14",
+                    "title": "Nemesis Cycle"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1018",
+                            "join": "",
+                            "name": "Rejuvination",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:57",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "463942",
+                                "join": "",
+                                "name": "Glenn Gibbons",
+                                "role": "Written-By, Producer",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "Jim Muotone",
+                                "id": "463943",
+                                "join": "",
+                                "name": "Jim Muotune",
+                                "role": "Written-By, Producer",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "15",
+                    "title": "Don't Forget Who You Are"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1019",
+                            "join": "",
+                            "name": "Funk D'Void",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:52",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "193661",
+                            "join": "",
+                            "name": "Lars Sandberg",
+                            "role": "Written-By, Producer",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "16",
+                    "title": "V-Ger"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "331",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=n1ZqN_VFhdo",
+                    "description": "With Human After All, you had tons of remixes and no video. With Da Funk it is the opposite, a video with no song. I fixed both. :) If it sounds off, it's lower and faster. Getting this stuff in is a challenge, trial and error my friends. Hope you enjoy i",
+                    "title": "Daft Punk - Da Funk"
+                },
+                {
+                    "_duration": "510",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=-xxlMBsdu8I",
+                    "description": "",
+                    "title": "Slam - Lifetimes.wmv"
+                },
+                {
+                    "_duration": "4414",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=jR4dOgmeXvo",
+                    "description": "Slam - Hidden Treasures [Soma]\n\nhttps://www.discogs.com/release/98422",
+                    "title": "Slam - Hidden Treasures"
+                },
+                {
+                    "_duration": "350",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Frll7kxCScs",
+                    "description": "",
+                    "title": "Counterplan - 90 degrees (DJ Q Mix)"
+                },
+                {
+                    "_duration": "529",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=E4dSRpSnPOU",
+                    "description": "Label: Soma Quality Recordings  \nCatalog#: SOMA 008  \nFormat: Vinyl, 12, 33 ⅓ RPM \nCountry: UK \nReleased: 23 Aug 1993 \nGenre: Electronic  \nStyle: Deep House, Tech House  \nCredits: Written-By - Glenn Gibbons , Jim Muotune , Orde Meikle , Stuart McMillan",
+                    "title": "Soma - Slam Positive Education"
+                },
+                {
+                    "_duration": "224",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=k3AcfIIBfg0",
+                    "description": "",
+                    "title": "Slam - Lifetimes"
+                },
+                {
+                    "_duration": "265",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=HC8gY7GU3eo",
+                    "description": "Original Video of Mothership Reconnection (Daft Punk Remix) by Scott Grooves Feat. Parliament / Funkadelic (1998)\nhttps://www.facebook.com/SomaRecords",
+                    "title": "Scott Grooves Feat. Parliament / Funkadelic - Mothership Reconnection (Daft Punk Remix) (1080p HD)"
+                },
+                {
+                    "_duration": "387",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=DJcp3y-zTxY",
+                    "description": "https://www.somarecords.com/\nhttps://www.facebook.com/SomaRecords\nhttps://myspace.com/somarecords\nhttps://soundcloud.com/soma\nhttps://twitter.com/SomaRecords\nhttps://www.youtube.com/user/OfficialSomaRecords",
+                    "title": "Rejuvination   I B O"
+                },
+                {
+                    "_duration": "326",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=5gzK8BSj2Ro",
+                    "description": "-uploaded in HD at http://www.TunesToTube.com",
+                    "title": "Funk D'void - V-ger"
+                },
+                {
+                    "_duration": "414",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=8AYX0DZY4Lk",
+                    "description": "Russ Gabriel's Audio Spectrum - Alligator Voodoo",
+                    "title": "Russ Gabriel's Audio Spectrum - Alligator Voodoo"
+                },
+                {
+                    "_duration": "379",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=GKAwCYddrBk",
+                    "description": "Classic dance track first released in 1991 on soma records\r\n\r\n**CLICK LINK BELOW FOR HQ AUDIO**\r\n\r\nhttp://uk.youtube.com/watch?v=GKAwCYddrBk\u0026fmt=18\r\n\r\n\r\n\r\nhttp://www.somarecords.com/music/soma_1/",
+                    "title": "Slam - Eterna"
+                },
+                {
+                    "_duration": "637",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=iVhRPY47mNA",
+                    "description": "20:20 Vision -  Future Remembrance (20:20 Livestyle Mix)",
+                    "title": "20:20 Vision -  Future Remembrance (20:20 Livetsyle Mix)"
+                },
+                {
+                    "_duration": "364",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=qVJ6ZDIlhJc",
+                    "description": "Soma, 1994",
+                    "title": "Desert Storm - Scoraig '93"
+                }
+            ]
+        }
+    }
+}

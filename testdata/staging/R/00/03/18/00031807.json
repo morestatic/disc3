@@ -1,0 +1,210 @@
+{
+    "release": {
+        "_id": "31807",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "661",
+                "join": "",
+                "name": "Bill Laswell",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": {
+                "catno": "",
+                "entity_type": "26",
+                "entity_type_name": "Produced At",
+                "id": "277133",
+                "name": "Greenpoint Studios",
+                "resource_url": "https://api.discogs.com/labels/277133"
+            }
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "461953",
+                    "join": "",
+                    "name": "Robert Soares",
+                    "role": "A\u0026R [Subharmonic]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "128097",
+                    "join": "",
+                    "name": "Layng Martine",
+                    "role": "Engineer [Assistant]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "13227",
+                    "join": "",
+                    "name": "Robert Musso",
+                    "role": "Engineer, Effects [Treatments]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1415325",
+                    "join": "",
+                    "name": "Tracy McKnight",
+                    "role": "Management [Material Inc.]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "631648",
+                    "join": "",
+                    "name": "Bill Murphy",
+                    "role": "Other [Axiom Interface]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "370164",
+                    "join": "",
+                    "name": "Peter Wetherbee",
+                    "role": "Other [Axiom Interface]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "174741",
+                    "join": "",
+                    "name": "Thi-Linh Le",
+                    "role": "Photography By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "661",
+                    "join": "",
+                    "name": "Bill Laswell",
+                    "role": "Producer, Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Limited Edition",
+                        "Album"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "CD PLANT MFG PS 08/66 CDM01"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "603",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "602",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "471",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PS 08/66",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "589777"
+        },
+        "notes": "OUTER DARK\r\nNEW YORK 1994\r\n\r\nLimitation: 1,000 copies\r\n\r\nCreated at Greenpoint Studio, Brooklyn, New York.\r\n\r\nMade in Germany.",
+        "released": "1994-12-05",
+        "styles": {
+            "style": "Ambient"
+        },
+        "title": "Outer Dark",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "24:14",
+                    "position": "1",
+                    "title": "Chakra"
+                },
+                {
+                    "duration": "23:31",
+                    "position": "2",
+                    "title": "Ananta (Passing Dream)"
+                }
+            ]
+        },
+        "videos": {
+            "video": {
+                "_duration": "2866",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=WG77voikofE",
+                "description": "Artist: Bill Laswell\nAlbum: Outer Dark\nLabel: Fax +49-69/450464\nYear: 1994\n\n1. Chakra [00:00]\n2. Ananta (Passing Dream) [24:14]\n\nRequest album uploads here: https://goo.gl/forms/S5Iqb6ukrSH2MobC3\n\nAll music uploaded to this channel is available for educat",
+                "title": "Bill Laswell - Outer Dark (Full Album) [1994]"
+            }
+        }
+    }
+}

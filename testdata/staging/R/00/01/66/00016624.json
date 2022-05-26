@@ -1,0 +1,235 @@
+{
+    "release": {
+        "_id": "16624",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "15317",
+                "join": "",
+                "name": "Jet Chamber",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "294386",
+                    "name": "Klanglabor Frankfurt",
+                    "resource_url": "https://api.discogs.com/labels/294386"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "10",
+                    "entity_type_name": "Manufactured By",
+                    "id": "267946",
+                    "name": "CD Plant AB",
+                    "resource_url": "https://api.discogs.com/labels/267946"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "24",
+                    "join": "",
+                    "name": "Atom Heart",
+                    "role": "Composed By [Music Composed By]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Composed By [Music Composed By]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "58657",
+                    "join": "",
+                    "name": "Peter Kuhlmann",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "519207",
+                    "join": "",
+                    "name": "Uwe Schmidt",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "24",
+                    "join": "",
+                    "name": "Atom Heart",
+                    "role": "Written-By [All Tracks]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By [All Tracks]",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "CD PLANT AB PK 08/115 CDM01"
+                },
+                {
+                    "_type": "Mastering SID Code",
+                    "_value": "IFPI LB01"
+                },
+                {
+                    "_type": "Mould SID Code",
+                    "_value": "ifpi 8406"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "599",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "468",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "601",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "595",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "596",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "599",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/115",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Recorded at Klanglabor, Frankfurt\n\nLimited to 2,000 copies.\n\nTrack 2 is incorrectly listed as \"Calm Box\" on the CD.",
+        "released": "1996-05-06",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Breakbeat",
+                "Experimental",
+                "Techno",
+                "IDM"
+            ]
+        },
+        "title": "Jet Chamber II",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "18:30",
+                    "position": "1",
+                    "title": "Inner Rotation"
+                },
+                {
+                    "duration": "17:20",
+                    "position": "2",
+                    "title": "Rotation"
+                },
+                {
+                    "duration": "26:56",
+                    "position": "3",
+                    "title": "Outer Rotation"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "3772",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=SHFpaNAgsIE",
+                    "description": "Artist: Pete Namlook \u0026 Atom Heart\nAlbum: Jet Chamber II\nLabel: Fax +49-69/450464\nYear: 1996\n\nTracklist:\n1. Inner Rotation [0:00] **\n2. Calm Box [18:31]\n3. Outer Rotation [35:52]\n\n** THIS TRACK NEVER BEFORE HEARD ON YOUTUBE UNTIL NOW!\n\nRequest album(s) her",
+                    "title": "Pete Namlook \u0026 Atom Heart - Jet Chamber II (Full Album) [1996]"
+                },
+                {
+                    "_duration": "1044",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=EPxE1ayFEEY",
+                    "description": "Taken from Jet Chamber II (Fax +49-69/450464 - PK 08/115).\nhttp://www.discogs.com/artist/15317-Jet-Chamber",
+                    "title": "Jet Chamber - Calm Box"
+                },
+                {
+                    "_duration": "571",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=eGtP4MXj3Ac",
+                    "description": "http://www.discogs.com/Various-Genetic-Drift/release/52066\n\r\n\r-uploaded in HD at http://www.TunesToTube.com",
+                    "title": "Jet Chamber - Outer Rotation (excerpt) (IDM 1995)"
+                }
+            ]
+        }
+    }
+}

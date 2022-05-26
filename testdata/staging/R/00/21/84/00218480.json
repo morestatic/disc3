@@ -1,0 +1,291 @@
+{
+    "release": {
+        "_id": "218480",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "62",
+                "join": "",
+                "name": "John Tejada",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "UK",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "62",
+                "join": "",
+                "name": "John Tejada",
+                "role": "DJ Mix",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "Digipak",
+                "descriptions": {
+                    "description": "Mixed"
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_type": "Barcode",
+                "_value": "5 037140 003474"
+            }
+        },
+        "images": {
+            "image": {
+                "_height": "300",
+                "_type": "secondary",
+                "_uri": "",
+                "_uri150": "",
+                "_width": "300"
+            }
+        },
+        "labels": {
+            "label": {
+                "_catno": "PAL-CD2",
+                "_id": "30",
+                "_name": "Palette Recordings"
+            }
+        },
+        "released": "2003-00-00",
+        "styles": {
+            "style": [
+                "House",
+                "IDM"
+            ]
+        },
+        "title": "More Backstock",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "4:21",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "160",
+                            "join": "",
+                            "name": "Arian Leviste",
+                            "role": "Featuring",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "1",
+                    "title": "Notes By Distance"
+                },
+                {
+                    "duration": "3:55",
+                    "position": "2",
+                    "title": "The Display"
+                },
+                {
+                    "duration": "4:02",
+                    "position": "3",
+                    "title": "Pasadena Shuffle"
+                },
+                {
+                    "duration": "4:09",
+                    "position": "4",
+                    "title": "Time Step"
+                },
+                {
+                    "duration": "2:41",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "160",
+                            "join": "",
+                            "name": "Arian Leviste",
+                            "role": "Featuring",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "5",
+                    "title": "Morning Becomes The Sun"
+                },
+                {
+                    "duration": "2:41",
+                    "position": "6",
+                    "title": "Digital People"
+                },
+                {
+                    "duration": "3:10",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "160",
+                            "join": "",
+                            "name": "Arian Leviste",
+                            "role": "Featuring",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "7",
+                    "title": "Genetic Pagan"
+                },
+                {
+                    "duration": "3:25",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1137",
+                            "join": "",
+                            "name": "Daniel Bell",
+                            "role": "Featuring",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "8",
+                    "title": "Eye Of The Storm"
+                },
+                {
+                    "duration": "2:34",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "160",
+                            "join": "",
+                            "name": "Arian Leviste",
+                            "role": "Featuring",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "9",
+                    "title": "Hylozoic Directions"
+                },
+                {
+                    "duration": "3:10",
+                    "position": "10",
+                    "title": "Sunder"
+                },
+                {
+                    "duration": "4:02",
+                    "position": "11",
+                    "title": "Roq It"
+                },
+                {
+                    "duration": "3:47",
+                    "position": "12",
+                    "title": "Western Starland (Vip Mix)"
+                },
+                {
+                    "duration": "1:50",
+                    "position": "13",
+                    "title": "Holdin' It Down"
+                },
+                {
+                    "duration": "3:10",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "4845",
+                            "join": "",
+                            "name": "Titonton Duvanté",
+                            "role": "Featuring",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "14",
+                    "title": "Passin' Through"
+                },
+                {
+                    "duration": "1:50",
+                    "position": "15",
+                    "title": "Too Bad The Scene Is Dead"
+                },
+                {
+                    "duration": "2:04",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "160",
+                            "join": "",
+                            "name": "Arian Leviste",
+                            "role": "Featuring",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "16",
+                    "title": "Pattern Translator"
+                },
+                {
+                    "duration": "1:27",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "160",
+                            "join": "",
+                            "name": "Arian Leviste",
+                            "role": "Featuring",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "17",
+                    "title": "Liquid"
+                },
+                {
+                    "duration": "2:41",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "160",
+                            "join": "",
+                            "name": "Arian Leviste",
+                            "role": "Featuring",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "18",
+                    "title": "Multimode"
+                },
+                {
+                    "duration": "3:10",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "160",
+                            "join": "",
+                            "name": "Arian Leviste",
+                            "role": "Featuring",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "19",
+                    "title": "Memoria Technica"
+                },
+                {
+                    "duration": "2:59",
+                    "position": "20",
+                    "title": "Music For Doubles (Vip Mix)"
+                },
+                {
+                    "duration": "5:48",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "317",
+                            "join": "",
+                            "name": "Klute",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "21",
+                    "title": "Music For Doubles (Klute Remix)"
+                }
+            ]
+        }
+    }
+}

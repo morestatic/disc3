@@ -1,0 +1,381 @@
+{
+    "release": {
+        "_id": "22498",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "194",
+                "join": "",
+                "name": "Various",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "6",
+                    "entity_type_name": "Licensed From",
+                    "id": "472503",
+                    "name": "Transmat Records",
+                    "resource_url": "https://api.discogs.com/labels/472503"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "6",
+                    "entity_type_name": "Licensed From",
+                    "id": "830",
+                    "name": "International House Records",
+                    "resource_url": "https://api.discogs.com/labels/830"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "6",
+                    "entity_type_name": "Licensed From",
+                    "id": "315806",
+                    "name": "430 West Records",
+                    "resource_url": "https://api.discogs.com/labels/315806"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "1727534",
+                    "name": "Transmat Mayday Music",
+                    "resource_url": "https://api.discogs.com/labels/1727534"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "830",
+                    "name": "International House Records",
+                    "resource_url": "https://api.discogs.com/labels/830"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "315806",
+                    "name": "430 West Records",
+                    "resource_url": "https://api.discogs.com/labels/315806"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "40",
+                    "name": "Loaded Records",
+                    "resource_url": "https://api.discogs.com/labels/40"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "40",
+                    "name": "Loaded Records",
+                    "resource_url": "https://api.discogs.com/labels/40"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "1727534",
+                    "name": "Transmat Mayday Music",
+                    "resource_url": "https://api.discogs.com/labels/1727534"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "158763",
+                    "name": "Zomba Music",
+                    "resource_url": "https://api.discogs.com/labels/158763"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "363762",
+                    "name": "Mixcon Music",
+                    "resource_url": "https://api.discogs.com/labels/363762"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "323954",
+                    "name": "Munch Man Music",
+                    "resource_url": "https://api.discogs.com/labels/323954"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "17",
+                    "entity_type_name": "Pressed By",
+                    "id": "754",
+                    "name": "EMI Records",
+                    "resource_url": "https://api.discogs.com/labels/754"
+                }
+            ]
+        },
+        "country": "UK",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": {
+                "anv": "Guy's",
+                "id": "369860",
+                "join": "",
+                "name": "Guy Davie",
+                "role": "Lacquer Cut By",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM",
+                        "Sampler"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Side A runout stamped",
+                    "_type": "Matrix / Runout",
+                    "_value": "LOADED 2P L̶O̶A̶D̶ ̶2̶P̶  A-1-1-1 Guy's"
+                },
+                {
+                    "_description": "Side B runout stamped",
+                    "_type": "Matrix / Runout",
+                    "_value": "LOADED L̶O̶A̶D̶  2P B-1-1-1"
+                },
+                {
+                    "_description": "A1, B2",
+                    "_type": "Rights Society",
+                    "_value": "BMI"
+                },
+                {
+                    "_description": "B1",
+                    "_type": "Rights Society",
+                    "_value": "ASCAP"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "128",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "Loaded 2P",
+                "_id": "40",
+                "_name": "Loaded Records"
+            }
+        },
+        "notes": "Side A label:\nSub Club Presents Subversion\nFrom an upcoming mix CD on Loaded Records\nMixed by Domenic Capello\n℗Loaded Records 2000 \n©Loaded Records 2000\n\nSide B label:\n[A1] \nTaken from '[url=https://www.discogs.com/R-Tyme-Illusion-R-Theme/release/4676]MS-9[/url]'\nPublished by Transmat Mayday Music / Zomba Music (BMI)\np 1989 Transmat Mayday Music\nCourtesy of Transmat Records\n[B1]\nTaken from '[m=446648]'\nPublished by Mixcon Music (ASCAP)\nP 1998 IHR / Courtesy of International House Records\n[B2]\nTaken from the '[m=1164384] EP'\nPublished by Munch Man Music (BMI)\nP 1995 430 West Records\nCourtesy of 430 West Records\n\nTrack A is misspelled \"R Theme (Mayday Mix)\" on this release\nTrack B1 is misspelled \"It's A Love Thing\" on this release",
+        "released": "2000",
+        "styles": {
+            "style": [
+                "House",
+                "Techno"
+            ]
+        },
+        "title": "Subversion",
+        "tracklist": {
+            "track": [
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "R Tyme",
+                            "id": "3231",
+                            "join": "",
+                            "name": "R-Tyme",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "650",
+                                "join": "",
+                                "name": "Derrick May",
+                                "role": "Producer",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "4978",
+                                "join": "",
+                                "name": "Mayday",
+                                "role": "Remix",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "Darrell Wynn",
+                                "id": "5022",
+                                "join": "",
+                                "name": "D-Wynn",
+                                "role": "Written-By, Composed By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "4978",
+                                "join": "",
+                                "name": "Mayday",
+                                "role": "Written-By, Composed By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "A1",
+                    "title": "R Theme (Mayday Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "866",
+                            "join": "",
+                            "name": "Paul Johnson",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "866",
+                            "join": "",
+                            "name": "Paul Johnson",
+                            "role": "Producer, Mixed By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "B1",
+                    "title": "It's A Love Thing"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1489",
+                            "join": "",
+                            "name": "Octave One",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "1489",
+                                "join": "",
+                                "name": "Octave One",
+                                "role": "Producer",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "L. Burden",
+                                "id": "5747",
+                                "join": "",
+                                "name": "Lawrence Burden",
+                                "role": "Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "L. Burden",
+                                "id": "266338",
+                                "join": "",
+                                "name": "Lenny Burden",
+                                "role": "Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "L. Burden",
+                                "id": "207686",
+                                "join": "",
+                                "name": "Lynell Burden",
+                                "role": "Written-By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "B2",
+                    "title": "Siege"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "362",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=d6p4B9EbBp0",
+                    "description": "",
+                    "title": "R-Tyme R-Theme (Mayday mix) Detroit techno classic!"
+                },
+                {
+                    "_duration": "356",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=oKgfVXJqEpM",
+                    "description": "",
+                    "title": "Paul Johnson - It's a Love Thang"
+                },
+                {
+                    "_duration": "291",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=2htezp01TOI",
+                    "description": "",
+                    "title": "Octave One - Siege"
+                }
+            ]
+        }
+    }
+}

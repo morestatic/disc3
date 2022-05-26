@@ -1,0 +1,46 @@
+{
+    "artist": {
+        "aliases": {
+            "name": {
+                "_id": "159612",
+                "content": "Mirage (10)"
+            }
+        },
+        "data_quality": "Correct",
+        "id": "60",
+        "images": {
+            "image": [
+                {
+                    "_height": "134",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "200"
+                },
+                {
+                    "_height": "225",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "300"
+                }
+            ]
+        },
+        "name": "Pete Moss",
+        "namevariations": {
+            "name": [
+                "DJ Pete Moss",
+                "Moss",
+                "P Moss",
+                "P. Moss",
+                "P.Moss",
+                "Pete"
+            ]
+        },
+        "profile": "A native of New England, Pete Moss is a Philadelphia-based DJ and producer of deep house and tech house. Owns and runs the Recline Records label.",
+        "realname": "Pete Moss",
+        "urls": {
+            "url": "http://www.myspace.com/reclinerecords"
+        }
+    }
+}

@@ -1,0 +1,147 @@
+{
+    "release": {
+        "_id": "48423",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "21141",
+                "join": "",
+                "name": "16th Element",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "UK",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "198702",
+                "join": "",
+                "name": "Kam Denny",
+                "role": "Written-By, Producer",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "12\""
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "500",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                },
+                {
+                    "_height": "500",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                },
+                {
+                    "_height": "599",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "480",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "480"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "LOAD 89",
+                "_id": "40",
+                "_name": "Loaded Records"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "349589"
+        },
+        "notes": "Licensed from Vicious Vinyl Records",
+        "released": "2002-06-10",
+        "styles": {
+            "style": [
+                "House",
+                "Disco"
+            ]
+        },
+        "title": "Well Strung",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A",
+                    "title": "Well Strung"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "Andy Van",
+                                "id": "288810",
+                                "join": "",
+                                "name": "Andrew Van Dorsselaer",
+                                "role": "Remix",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "426267",
+                                "join": "",
+                                "name": "Jaded",
+                                "role": "Remix",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "AA",
+                    "title": "Well Strung (Jaded vs Andy Van Re-Rub)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "417",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=vHrs4Z7tJ5k",
+                    "description": "Label:Subliminal ‎– SUB 81\nFormat:2 × Vinyl, 12Country:US\nReleased:2002\nGenre:Electronic\nStyle:House, Tech House \n\nhttps://www.discogs.com/16th-Element-Warp-Well-Strung/release/185307",
+                    "title": "16th Element - Well Strung (Original Mix)"
+                },
+                {
+                    "_duration": "416",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Fhi7A2abR7U",
+                    "description": "2001. Warp / Well Strung Vinyl, 12  -  Vicious Vinyl\nProducer, Written-By – Kam Denny",
+                    "title": "16th Element  -  Well Strung"
+                }
+            ]
+        }
+    }
+}

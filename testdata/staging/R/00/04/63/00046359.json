@@ -1,0 +1,500 @@
+{
+    "release": {
+        "_id": "46359",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "François K",
+                "id": "20662",
+                "join": "",
+                "name": "François Kevorkian",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "US",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": {
+                "anv": "François K",
+                "id": "20662",
+                "join": "",
+                "name": "François Kevorkian",
+                "role": "DJ Mix",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "Mixed"
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Text",
+                    "_type": "Barcode",
+                    "_value": "7 90185 00842 6"
+                },
+                {
+                    "_description": "Scanned",
+                    "_type": "Barcode",
+                    "_value": "790185008426"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "535",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "511",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "599"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "WM50084-2",
+                "_id": "48",
+                "_name": "Wave Music"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "132405"
+        },
+        "notes": "Issued in a Digipak.",
+        "released": "2001",
+        "styles": {
+            "style": [
+                "House",
+                "Deep House"
+            ]
+        },
+        "title": "Deep And Sexy (A Wave Music Compilation)",
+        "tracklist": {
+            "track": [
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "36606",
+                            "join": "",
+                            "name": "Fluid X",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "8:18",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "35146",
+                                "join": "",
+                                "name": "Matthias Heilbronn",
+                                "role": "Featuring",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "5478",
+                                "join": "",
+                                "name": "Rob Rives",
+                                "role": "Producer",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "1",
+                    "title": "Change"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "33",
+                            "join": "",
+                            "name": "Blue Six",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:24",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "François K",
+                                "id": "20662",
+                                "join": "",
+                                "name": "François Kevorkian",
+                                "role": "Remix",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "32",
+                                "join": "",
+                                "name": "Jay Denes",
+                                "role": "Remix",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "2",
+                    "title": "Do Ya Like It? (Body \u0026 Soul Dub)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "50",
+                            "join": "",
+                            "name": "ADNY",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:51",
+                    "position": "3",
+                    "title": "Omato Grosso"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "60872",
+                            "join": "",
+                            "name": "Sun Orchestra",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "7:50",
+                    "position": "4",
+                    "title": "Driftin'"
+                },
+                {
+                    "artists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "5826",
+                                "join": "Featuring",
+                                "name": "Nathan Haines",
+                                "role": "",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "56471",
+                                "join": "",
+                                "name": "Verna Francis",
+                                "role": "",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "duration": "7:19",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "18999",
+                                "join": "",
+                                "name": "Phil Asher",
+                                "role": "Producer",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "5318",
+                                "join": "",
+                                "name": "Restless Soul",
+                                "role": "Remix",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "5",
+                    "title": "Earth Is The Place (Restless Soul Peaktime Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "François K",
+                            "id": "20662",
+                            "join": "",
+                            "name": "François Kevorkian",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:35",
+                    "position": "6",
+                    "title": "Enlightenment"
+                },
+                {
+                    "artists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "1812",
+                                "join": "Presents",
+                                "name": "Eric Kupper",
+                                "role": "",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "217420",
+                                "join": "",
+                                "name": "Organika",
+                                "role": "",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "duration": "7:52",
+                    "position": "7",
+                    "title": "Havana"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "13808",
+                            "join": "",
+                            "name": "Boyd Jarvis",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "7:59",
+                    "position": "8",
+                    "title": "Sunny Days"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "5421",
+                            "join": "",
+                            "name": "Papillon",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:16",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "16647",
+                            "join": "",
+                            "name": "Floppy Sounds",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "9",
+                    "title": "Strong Blend (Fully Roasted Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "16691",
+                            "join": "",
+                            "name": "Milk \u0026 Honey",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:46",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "36607",
+                                "join": "",
+                                "name": "Itaal Shur",
+                                "role": "Producer",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "35",
+                                "join": "",
+                                "name": "Attaboy",
+                                "role": "Remix",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "10",
+                    "title": "Touch (Attaboy Dub)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "33",
+                            "join": "",
+                            "name": "Blue Six",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:58",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "32",
+                            "join": "",
+                            "name": "Jay Denes",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "11",
+                    "title": "Sweeter Love (Jay's Full Vocal)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "13813",
+                            "join": "",
+                            "name": "Moments Of Soul",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:24",
+                    "position": "12",
+                    "title": "Love Is"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "534",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=q0oilSn7RvA",
+                    "description": "one of the best house tracks ever... enjoy ;-)  \r\n\r\nhttp://www.discogs.com/Fran%C3%A7ois-K-Enlightenment/release/365748",
+                    "title": "François K. - The Enlightenment"
+                },
+                {
+                    "_duration": "499",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=3mAUFQBDrUQ",
+                    "description": "1998. Sweeter Love Vinyl, 12  -  Wave Music\nMixed By, Producer – Jay Denes\nVocals – L.T. (Lysa Aya Trenier)\nExecutive Producer – David Boonshoft",
+                    "title": "Blue 6  -  Sweeter Love (Jay's Full Vocal)"
+                },
+                {
+                    "_duration": "352",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=SpAEfe7TxgM",
+                    "description": "Name of Compilation: François K ‎– Deep And Sexy (A Wave Music Compilation)\r\nNumber of Discs: 1\r\nPublished: 2001\r\nLabel: Wave Music\r\nCould be found at: Amazon.com (best choice), or discogs.com\r\nListen to the Compilation: allmusic.com",
+                    "title": "(François K) Deep And Sexy - ADNY - Omato Grosso"
+                },
+                {
+                    "_duration": "919",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=YRqCKb90lJE",
+                    "description": "Fluid X (François Kevorkian \u0026 Rob Rives)\r\nLabel:Wave Music",
+                    "title": "Fluid X - Change"
+                },
+                {
+                    "_duration": "331",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=bj4TEVC5PDY",
+                    "description": "Blue Six\r\nDo Ya Like It Body and Soul Dub\r\nV/A Deep and Sexy CD1",
+                    "title": "Blue Six Do Ya Like It (BodyandSoul Dub mix)"
+                },
+                {
+                    "_duration": "440",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Kvvwjhp7g0Q",
+                    "description": "",
+                    "title": "Nathan Haines feat. Verna Francis - Earth Is The Place (Restless Soul Peaktime Mix)"
+                },
+                {
+                    "_duration": "481",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=qrU-b6Y-Lqg",
+                    "description": "Name of Compilation: François K ‎– Deep And Sexy (A Wave Music Compilation)\r\nNumber of Discs: 1\r\nPublished: 2001\r\nLabel: Wave Music\r\nCould be found at: Amazon.com (best choice), or discogs.com\r\nListen to the Compilation: allmusic.com",
+                    "title": "(François K) Deep And Sexy - Boyd Jarvis - Sunny Days"
+                },
+                {
+                    "_duration": "560",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=fG7UDgpLoUA",
+                    "description": "12 Sun Orchestra meets Shade of Soul vinyl.\nFrance\n2001\nDeep House / House\nOrgan : Franck Roger\nPiano : Olivier Portal\nWritten by : Olivier Portal Sun Orchestra\n\n*No copyright infringement intended \u0026 this channel is not monetized.\n\nFaceBook French Vort",
+                    "title": "Sun Orchestra Driftin 2001 Straight Up Recordings"
+                },
+                {
+                    "_duration": "589",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=5Bo8Py70NmA",
+                    "description": "Track from Wave Music",
+                    "title": "Eric Kupper Presents Organika - Havana"
+                },
+                {
+                    "_duration": "495",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=1GpqYbc51DA",
+                    "description": "2001. The Strong Blend Vinyl, 12, EP  -  Wave Music",
+                    "title": "Papillon  -  Strong Blend (Floppy Sounds Fully Roasted Mix)"
+                },
+                {
+                    "_duration": "421",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=nx-0zKFmQwQ",
+                    "description": "2001. Touch (Part 2) Vinyl, 12  -  Wave Music",
+                    "title": "Itaal Shur presents Milk \u0026 Honey  -  Touch (Part 2) (Attaboy Dub)"
+                },
+                {
+                    "_duration": "513",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=SzlXBJ6VIw4",
+                    "description": "Moments of Soul - Love Is.\r\n\r\nMoments Of Soul\r\nReal Name:\r\nNick Jones \u0026 Kaleem Shabazz",
+                    "title": "Moments Of Soul - Love is"
+                },
+                {
+                    "_duration": "4718",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=7WCnOSddM9c",
+                    "description": "vai alla playlist: https://www.youtube.com/playlist?list=PLzNp1bV9HZh6rNiJzybGk4bIhxn_RMNl8\n\nFrançois K* ‎– Deep And Sexy (A Wave Music Compilation)\nEtichetta: Wave Music ‎– WM50084-2\nSerie: Deep And Sexy – 1\nFormato: CD, Mixed \nDJ Mix – Fran",
+                    "title": "François K* ‎– Deep And Sexy (A Wave Music Compilation)"
+                }
+            ]
+        }
+    }
+}

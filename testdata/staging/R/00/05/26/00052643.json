@@ -1,0 +1,203 @@
+{
+    "release": {
+        "_id": "52643",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "4771631",
+                "join": "",
+                "name": "Otras",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": {
+                "catno": "",
+                "entity_type": "10",
+                "entity_type_name": "Manufactured By",
+                "id": "291931",
+                "name": "CD Plant MFG",
+                "resource_url": "https://api.discogs.com/labels/291931"
+            }
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "277722",
+                    "join": "",
+                    "name": "Steve Brenner",
+                    "role": "Technician [Technical Support]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "13231",
+                    "join": "",
+                    "name": "David Reeves",
+                    "role": "Written-By [All Tracks Written By]",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Limited Edition",
+                        "Album"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "CD PLANT MFG PS 08/68 CDM01"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "594",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "460",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "598",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "594",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "593",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "594",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PS 08/68",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Limitation: 1000\n\nGuelph, Canada 1994\n\nSpecial thanks to:\nBill Buschert - addtional synthesis on \"Skygood\"\nSteve Brenner - technical support\nWendy Morgan",
+        "released": "1995-04-03",
+        "styles": {
+            "style": [
+                "Abstract",
+                "Ambient",
+                "Downtempo",
+                "Techno"
+            ]
+        },
+        "title": "Otras 2",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "5:53",
+                    "position": "1",
+                    "title": "OH/IR"
+                },
+                {
+                    "duration": "9:22",
+                    "position": "2",
+                    "title": "Yuma"
+                },
+                {
+                    "duration": "10:53",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "3734124",
+                            "join": "",
+                            "name": "Bill Buschert",
+                            "role": "Synth [Additional Synthesis]",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "3",
+                    "title": "Skygod"
+                },
+                {
+                    "duration": "7:17",
+                    "position": "4",
+                    "title": "Under The Radar"
+                },
+                {
+                    "duration": "5:48",
+                    "position": "5",
+                    "title": "Astralbohrer"
+                },
+                {
+                    "duration": "10:29",
+                    "position": "6",
+                    "title": "Undreamt"
+                },
+                {
+                    "duration": "10:46",
+                    "position": "7",
+                    "title": "Tremendum"
+                },
+                {
+                    "duration": "9:01",
+                    "position": "8",
+                    "title": "Plebos"
+                }
+            ]
+        },
+        "videos": {
+            "video": {
+                "_duration": "4170",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=bCo9npdRpGQ",
+                "description": "Amorphous omens in formless fantasia. \nAll music by David Reeves. A personal favourite of mine, enjoy :) \n\n0:00 OH/IR\n5:53 Yuma \n15:15 Skygod\n26:08 Under the Radar\n33:25 Astralbohrer\n39:13 Undreamt\n49:43 Tremendum\n1:00:29 Plebos\n\nPS 08/68\nFax +49-69/45046",
+                "title": "Otras - Otras 2 [Full album]"
+            }
+        }
+    }
+}

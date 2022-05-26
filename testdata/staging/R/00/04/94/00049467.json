@@ -1,0 +1,189 @@
+{
+    "release": {
+        "_id": "49467",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "32373",
+                "join": "",
+                "name": "Glitch",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": {
+                "catno": "17096",
+                "entity_type": "17",
+                "entity_type_name": "Pressed By",
+                "id": "277449",
+                "name": "P+O Pallas",
+                "resource_url": "https://api.discogs.com/labels/277449"
+            }
+        },
+        "country": "Germany",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "656116",
+                    "join": "",
+                    "name": "Bump Stadelman",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "49477",
+                    "join": "",
+                    "name": "Dan Nigrin",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_type": "Matrix / Runout",
+                "_value": "PW 04 P+O-17096-A2 06-93"
+            }
+        },
+        "images": {
+            "image": {
+                "_height": "600",
+                "_type": "primary",
+                "_uri": "",
+                "_uri150": "",
+                "_width": "600"
+            }
+        },
+        "labels": {
+            "label": {
+                "_catno": "PW 04",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "1667579"
+        },
+        "notes": "GLITCH IS:\n\nDAN NIGRIN\n(Samples, Synths, Programming, Engineering, Design)\n+\nBUMP STADELMAN\n(Samples, Synths, Live Percussion, Video, Design)\n\nCONCEIVED \u0026 EXECUTED BY GLITCH\nAT STUDIO dB BAD\nBALTIMORE, MARYLAND\nUSA, EARTH\n\n\"Closed Mind\" Intro recorded live at Limelight, N.Y.C., May 14th, 1993.\n\nTHANX TO:\n\nJOE DICARLO, CHRIS CAMBELL \u0026 CHRIS BULLOGH AT MODERN MUSIC\nDON CORRIERI OF REALITY STUDIO\nDONNIE BURLIN\nF.J. HUGHES\nBRAD PUMPHREY\nSCOTT VAN CAMPEN\nPETER KUHLMANN\n\nLimitation: 500 copies. Released at earliest in June.",
+        "released": "1993-06-05",
+        "styles": {
+            "style": [
+                "Acid",
+                "Ambient",
+                "Downtempo",
+                "Hard Trance",
+                "Techno",
+                "Trance"
+            ]
+        },
+        "title": "Inertia",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "5:01",
+                    "position": "1",
+                    "title": "Surge"
+                },
+                {
+                    "duration": "4:58",
+                    "position": "2",
+                    "title": "Torsion Control"
+                },
+                {
+                    "duration": "4:03",
+                    "position": "3",
+                    "title": "Closed Mind"
+                },
+                {
+                    "duration": "5:12",
+                    "position": "4",
+                    "title": "Mind Expander"
+                },
+                {
+                    "duration": "3:58",
+                    "position": "5",
+                    "title": "No303oN"
+                },
+                {
+                    "duration": "6:04",
+                    "position": "6",
+                    "title": "Love Remains"
+                },
+                {
+                    "duration": "5:24",
+                    "position": "7",
+                    "title": "Electra Rising"
+                },
+                {
+                    "duration": "4:27",
+                    "position": "8",
+                    "title": "Skeletorsion"
+                },
+                {
+                    "duration": "5:12",
+                    "position": "9",
+                    "title": "Throbbing Dream Of Tangerine Gristle"
+                },
+                {
+                    "duration": "14:38",
+                    "position": "10",
+                    "title": "Thought Signals (Live)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "237",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=sjA0n6n2uAc",
+                    "description": "Video by buMp for the track Closed Mind by Glitch from the Fax Records CD - INERTIA - PW-04 1993. Created as a promo for RockAmerica video service and live show visual. http://www.defectiverecords.com, http://www.namlook.de/",
+                    "title": "CLOSED MIND - GLITCH"
+                },
+                {
+                    "_duration": "300",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=6TO3WXetTKc",
+                    "description": "Music video by buMp for the track  Surge from the FAX RECORDS-Germany Cat# PW-04. 1993",
+                    "title": "SURGE - GLITCH"
+                },
+                {
+                    "_duration": "296",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=mkkJc1Eu-kA",
+                    "description": "Video created for the Glitch live show.\nfrom the Fax release Inertia CD, PW04",
+                    "title": "TORSION CONTROL - GLITCH - FAX RECORDS - 1993"
+                },
+                {
+                    "_duration": "238",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=R4hbjHKUuMo",
+                    "description": "Video made to accompany live performance.\nfrom Fax cd and 12 release Inertia PW 04",
+                    "title": "No303oN - Glitch - Fax Records - 1993"
+                }
+            ]
+        }
+    }
+}

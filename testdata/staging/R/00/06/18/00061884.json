@@ -1,0 +1,222 @@
+{
+    "release": {
+        "_id": "61884",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "293198",
+                "join": "",
+                "name": "Virtual Vices",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "265012",
+                    "name": "Klanglabor Hödeshof",
+                    "resource_url": "https://api.discogs.com/labels/265012"
+                },
+                {
+                    "catno": "54852",
+                    "entity_type": "10",
+                    "entity_type_name": "Manufactured By",
+                    "id": "277449",
+                    "name": "P+O Pallas",
+                    "resource_url": "https://api.discogs.com/labels/277449"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "2022694",
+                    "join": "",
+                    "name": "Andre Ruello",
+                    "role": "Artwork [Cover Graphics]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "Wolfram Der Spyra",
+                    "id": "13462",
+                    "join": "",
+                    "name": "Spyra",
+                    "role": "Performer [Steel Cello]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "58657",
+                    "join": "",
+                    "name": "Peter Kuhlmann",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "39678",
+                    "join": "",
+                    "name": "Jenny Gibbert",
+                    "role": "Vocals",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Vocals",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "Wolfram Spyra",
+                    "id": "13462",
+                    "join": "",
+                    "name": "Spyra",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Text",
+                    "_type": "Barcode",
+                    "_value": "8 07297 01722 9"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "PK 08/161  P+O-54852-A1   11-01"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "592",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "593",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "297",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/161",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Recorded at Klanglabor, Traben-Trarbach.\nLimitation: 2000.",
+        "released": "2001-11-26",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Dub",
+                "Electro",
+                "Future Jazz",
+                "Techno"
+            ]
+        },
+        "title": "Virtual Vices III",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "7:11",
+                    "position": "1",
+                    "title": "What About God"
+                },
+                {
+                    "duration": "13:53",
+                    "position": "2",
+                    "title": "Taurus"
+                },
+                {
+                    "duration": "9:51",
+                    "position": "3",
+                    "title": "Oscillation 3"
+                },
+                {
+                    "duration": "13:51",
+                    "position": "4",
+                    "title": "Event Horizon"
+                },
+                {
+                    "duration": "10:57",
+                    "position": "5",
+                    "title": "Last Dance On Luna"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "3351",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=EA-N78siO6c",
+                    "description": "Released in November, 2001 on FAX +49-69/450464\n\n\n00:00 What About God\n07:12 Taurus\n21:08 Oscillation 3\n31:00 Event Horizon\n44:52 Last Dance On Luna",
+                    "title": "[PK 08/161] Pete Namlook \u0026 Wolfram Spyra - Virtual Vices III"
+                },
+                {
+                    "_duration": "658",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=CePiuxopOSo",
+                    "description": "Released on Virtual Vices III, 2001\nMusic by Wolfarm (DER) Spyra and Pete Namlook\nVideo by: Abstructure,",
+                    "title": "Virtual Vices - Last Dance On Luna"
+                }
+            ]
+        }
+    }
+}

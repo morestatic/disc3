@@ -1,0 +1,310 @@
+{
+    "release": {
+        "_id": "49350",
+        "_status": "Accepted",
+        "artists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "/",
+                    "name": "Pete Namlook",
+                    "role": "",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "213509",
+                    "join": "",
+                    "name": "Hubertus Held",
+                    "role": "",
+                    "tracks": ""
+                }
+            ]
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "32993",
+                    "entity_type": "10",
+                    "entity_type_name": "Manufactured By",
+                    "id": "277449",
+                    "name": "P+O Pallas",
+                    "resource_url": "https://api.discogs.com/labels/277449"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "294386",
+                    "name": "Klanglabor Frankfurt",
+                    "resource_url": "https://api.discogs.com/labels/294386"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "2118078",
+                    "join": "",
+                    "name": "PEK (3)",
+                    "role": "Graphics",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "58657",
+                    "join": "",
+                    "name": "Peter Kuhlmann",
+                    "role": "Guitar",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "58657",
+                    "join": "",
+                    "name": "Peter Kuhlmann",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "Robert Sattler",
+                    "id": "451660",
+                    "join": "",
+                    "name": "Bobby Sattler",
+                    "role": "Saxophone",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "213509",
+                    "join": "",
+                    "name": "Hubertus Held",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "PK 08/131 P+O-32993-A2 04-97"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "598",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "598",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "599",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "599",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "508",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/131",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Limitation: 1000\r\n\r\nFrankfurt 1997",
+        "released": "1997-05-05",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Future Jazz",
+                "Techno",
+                "Trance",
+                "House"
+            ]
+        },
+        "title": "Pete Namlook / Hubertus Held",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "6:06",
+                    "position": "1",
+                    "title": "Pepperbeef"
+                },
+                {
+                    "duration": "5:37",
+                    "position": "2",
+                    "title": "Hey Leroy"
+                },
+                {
+                    "duration": "5:57",
+                    "position": "3",
+                    "title": "It's Gonna Be Alright"
+                },
+                {
+                    "duration": "6:14",
+                    "position": "4",
+                    "title": "Part Of The Scene"
+                },
+                {
+                    "duration": "4:30",
+                    "position": "5",
+                    "title": "Oscar (Final Edit)"
+                },
+                {
+                    "duration": "6:51",
+                    "position": "6",
+                    "title": "Global System (Legal Edit)"
+                },
+                {
+                    "duration": "5:07",
+                    "position": "7",
+                    "title": "Drug Oriented"
+                },
+                {
+                    "duration": "6:54",
+                    "position": "8",
+                    "title": "Missing You"
+                },
+                {
+                    "duration": "5:13",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "39643",
+                            "join": "",
+                            "name": "Elisabeth Michels",
+                            "role": "Soprano Vocals [Soprano]",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "9",
+                    "title": "Lakeshore Drive"
+                },
+                {
+                    "duration": "5:13",
+                    "position": "10",
+                    "title": "I've Learned The Code"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "361",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=JnOuQ99t1kA",
+                    "description": "Pete Namlook/Hubertus Held, 1997",
+                    "title": "It's Gonna Be Alright - Pete Namlook \u0026 Hubertus Held"
+                },
+                {
+                    "_duration": "365",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=-1MmL8TB8yo",
+                    "description": "http://www.discogs.com/Stanley-Conaway-Stanley-Conaway-3/release/194446\n\r\n\r-uploaded in HD at http://www.TunesToTube.com",
+                    "title": "Stanley Conaway - Pepperbeef (House 1993)"
+                },
+                {
+                    "_duration": "335",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=UN5GZiY9nk4",
+                    "description": "http://www.discogs.com/Stanley-Conaway-Stanley-Conaway-4/release/182086\n\r\n\r-uploaded in HD at http://www.TunesToTube.com",
+                    "title": "Stanley Conaway - Hey Leroy (House 1993)"
+                },
+                {
+                    "_duration": "394",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=KdT99T5qKrw",
+                    "description": "Used to hear this alot on the Sami B show on Sunset 102FM.  Can't really remember for sure, but it was probibly Jay Wearden playing it.  Was during the Riverside days.",
+                    "title": "Sextant - Part Of The Scene"
+                },
+                {
+                    "_duration": "268",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=lzhECxcVmAU",
+                    "description": "http://www.discogs.com/Sextant-Sextant-4/release/200405\n\r\n\r-uploaded in HD at http://www.TunesToTube.com",
+                    "title": "Sextant - Oscar (Trance 1993)"
+                },
+                {
+                    "_duration": "408",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=5kKIWm_PI2E",
+                    "description": "Sextant aka Pete Namlook \u0026 Hubertus Held\n\nSextant ‎- Sextant 2\nSello:Fax +49-69/450464 ‎- PK 08/34\nFormato:Vinyl, 12, Limited Edition\nPaís:Germany\nFecha:18 Jan 1993\nGénero:Electronic\nEstilo:House, Ambient \nhttps://www.discogs.com/Sextant-Sextant-",
+                    "title": "Sextant - Missing You [1993] [Fax +49-69/450464]"
+                },
+                {
+                    "_duration": "316",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=fKaX4PnYJXY",
+                    "description": "http://www.discogs.com/Stanley-Conaway-Stanley-Conaway-4/release/182086\n\r\n\r-uploaded in HD at http://www.TunesToTube.com",
+                    "title": "Stanley Conaway - I've Learned the Code (House 1993)"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,136 @@
+{
+    "release": {
+        "_id": "102772",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "Namlook",
+                "id": "1910",
+                "join": "",
+                "name": "Pete Namlook",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "Germany",
+        "data_quality": "Needs Vote",
+        "extraartists": "",
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition",
+                        "Mixed"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": {
+                "_height": "603",
+                "_type": "secondary",
+                "_uri": "",
+                "_uri150": "",
+                "_width": "600"
+            }
+        },
+        "labels": {
+            "label": {
+                "_catno": "SEA 04",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Limitation: 1000\r\n\r\n3rd CD of a series of four \"Musical Postcards\" CDs released in 1994, except for the 4th CD, \"Summer\", which is released in 1995.\r\n\r\nReleased in a clear plastic sleeve with no notes or tracklisting. \r\nThe artwork on the CD gives only 1 track, \"Seasons Greetings =Autumn= (65:24)\", which is split into Twelve parts on the CD.",
+        "released": "1994-10-10",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Downtempo"
+            ]
+        },
+        "title": "Seasons Greetings - Autumn",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "5:02",
+                    "position": "1",
+                    "title": "Autumn - Part I"
+                },
+                {
+                    "duration": "5:00",
+                    "position": "2",
+                    "title": "Autumn - Part II"
+                },
+                {
+                    "duration": "5:01",
+                    "position": "3",
+                    "title": "Autumn - Part III"
+                },
+                {
+                    "duration": "4:59",
+                    "position": "4",
+                    "title": "Autumn - Part IV"
+                },
+                {
+                    "duration": "5:00",
+                    "position": "5",
+                    "title": "Autumn - Part V"
+                },
+                {
+                    "duration": "10:0",
+                    "position": "6",
+                    "title": "Autumn - Part VI"
+                },
+                {
+                    "duration": "5:00",
+                    "position": "7",
+                    "title": "Autumn - Part VII"
+                },
+                {
+                    "duration": "5:00",
+                    "position": "8",
+                    "title": "Autumn - Part VIII"
+                },
+                {
+                    "duration": "5:00",
+                    "position": "9",
+                    "title": "Autumn - Part IX"
+                },
+                {
+                    "duration": "5:00",
+                    "position": "10",
+                    "title": "Autumn  - Part X"
+                },
+                {
+                    "duration": "5:00",
+                    "position": "11",
+                    "title": "Autumn - Part XI"
+                },
+                {
+                    "duration": "5:23",
+                    "position": "12",
+                    "title": "Autumn - Part XII"
+                }
+            ]
+        },
+        "videos": {
+            "video": {
+                "_duration": "3925",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=TfC-INACYLc",
+                "description": "Pete Namlook – Seasons Greetings - Autumn\nLabel: Fax +49-69/450464 – SEA 04\nSeries: Seasons Greetings – 4\nFormat:\nCD, Album, Limited Edition, Mixed\n\nReleased: 10 Oct 1994\nMixed\n\n1  Autumn - Part I  \n2  Autumn - Part II  \n3  Autumn - Part III  \n4  Au",
+                "title": "Namlook ‎– Seasons Greetings   Autumn"
+            }
+        }
+    }
+}

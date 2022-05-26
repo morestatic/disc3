@@ -1,0 +1,188 @@
+{
+    "release": {
+        "_id": "16008",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "1506",
+                "join": "",
+                "name": "Bert Dunk",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "9",
+                    "entity_type_name": "Distributed By",
+                    "id": "149122",
+                    "name": "3MV",
+                    "resource_url": "https://api.discogs.com/labels/149122"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "9",
+                    "entity_type_name": "Distributed By",
+                    "id": "264522",
+                    "name": "Pinnacle (3)",
+                    "resource_url": "https://api.discogs.com/labels/264522"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "48207",
+                    "name": "Copyright Control",
+                    "resource_url": "https://api.discogs.com/labels/48207"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "40",
+                    "name": "Loaded Records",
+                    "resource_url": "https://api.discogs.com/labels/40"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "40",
+                    "name": "Loaded Records",
+                    "resource_url": "https://api.discogs.com/labels/40"
+                }
+            ]
+        },
+        "country": "UK",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "1506",
+                "join": "",
+                "name": "Bert Dunk",
+                "role": "Producer, Written-By",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Barcode",
+                    "_value": "5025425406027"
+                },
+                {
+                    "_description": "A",
+                    "_type": "Matrix / Runout",
+                    "_value": "LOAD 60 A-1-1- 1-"
+                },
+                {
+                    "_description": "AA",
+                    "_type": "Matrix / Runout",
+                    "_value": "LOAD 60 AA-1-1- 1-"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "300",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "300"
+                },
+                {
+                    "_height": "300",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "297"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "LOAD 060",
+                "_id": "40",
+                "_name": "Loaded Records"
+            }
+        },
+        "notes": "Made in the UK.",
+        "released": "2000-00-00",
+        "styles": {
+            "style": "House"
+        },
+        "title": "If It Moves ...Dunk It",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A",
+                    "title": "All In My Mind"
+                },
+                {
+                    "duration": "",
+                    "position": "AA1",
+                    "title": "Groove Y'All"
+                },
+                {
+                    "duration": "",
+                    "position": "AA2",
+                    "title": "Dunkin' Groove"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "343",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=AkUGvwBpW1w",
+                    "description": "http://www.discogs.com/Bert-Dunk-If-It-Moves-Dunk-It/release/16008 Enjoy!",
+                    "title": "Bert Dunk - All In My Mind (Original) (2000)"
+                },
+                {
+                    "_duration": "425",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=sQQGchieOTI",
+                    "description": "Three more tracks of Fine House Music Vol 1 / similar genre see below.\n\nSoul Grabber - Motocross Madness:\nhttp://www.youtube.com/watch?v=4ZV_GXKqtf4\nFlunky - Hey Marvin:\nhttp://www.youtube.com/watch?v=_fFshwjdsBA\nSoul Grabber - Part 3:\nhttp://www.youtube.",
+                    "title": "Bert Dunk - Groove Y'all [Fine House Music Volume 1 - Loaded Records - LOADED4CD]"
+                },
+                {
+                    "_duration": "341",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Pck6Sim45CQ",
+                    "description": "Feel free to like, share, and subscribe. 🙂\n\nI do not own this content. This custom video was created to give this classic jam something different to watch than a still image. This is for nostalgic and entertainment purposes only.\n\nThis track is a big f",
+                    "title": "Bert Dunk - All in My Mind | 1080p60 HD 33 RPM | ©2000 Loaded Records"
+                },
+                {
+                    "_duration": "339",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=wI6ZgMM_vfs",
+                    "description": "Provided to YouTube by Loaded Records\n\nDunkin' Groove · Bert Dunk\n\nIf It Moves Dunk It\n\n℗ 2000 Loaded Records Limited, a BMG Company\n\nPerformance: Bert Dunk\n\nAuto-generated by YouTube.",
+                    "title": "Dunkin' Groove"
+                }
+            ]
+        }
+    }
+}

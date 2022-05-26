@@ -1,0 +1,279 @@
+{
+    "release": {
+        "_id": "220436",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "194",
+                "join": "",
+                "name": "Various",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "Austria",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "420105",
+                    "join": "",
+                    "name": "Chris Esycho",
+                    "role": "Compiled By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "\"Wicked\" Plastic",
+                    "id": "83049",
+                    "join": "",
+                    "name": "Wicked Plastic",
+                    "role": "Edited By, Mastered By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "Compilation"
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "598",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "465",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "598"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "XXX055",
+                "_id": "3420",
+                "_name": "XXX Records"
+            }
+        },
+        "released": "1998",
+        "styles": {
+            "style": "Techno"
+        },
+        "title": "Gazometertraxxx: XXX 10",
+        "tracklist": {
+            "track": [
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1175",
+                            "join": "",
+                            "name": "James Ruskin",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "2:50",
+                    "position": "1",
+                    "title": "Transistion"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "Glory B.",
+                            "id": "5999",
+                            "join": "",
+                            "name": "Glory B",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "7:18",
+                    "position": "2",
+                    "title": "While They Sleep"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "4313",
+                            "join": "",
+                            "name": "Beroshima",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "7:01",
+                    "position": "3",
+                    "title": "Good Morning Berlin"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1579",
+                            "join": "",
+                            "name": "Luke Slater",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "7:52",
+                    "position": "4",
+                    "title": "Purely"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "165059",
+                            "join": "",
+                            "name": "Lucky Toky",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:41",
+                    "position": "5",
+                    "title": "Sanitka"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "2905",
+                            "join": "",
+                            "name": "Acid Jesus",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:30",
+                    "position": "6",
+                    "title": "Interstate"
+                },
+                {
+                    "artists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "20",
+                                "join": "Presents",
+                                "name": "Percy X",
+                                "role": "",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "Short Fictions",
+                                "id": "72791",
+                                "join": "",
+                                "name": "Shortfiction",
+                                "role": "",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "duration": "6:56",
+                    "position": "7",
+                    "title": "Feisar"
+                },
+                {
+                    "artists": {
+                        "artist": [
+                            {
+                                "anv": "Polson",
+                                "id": "9926",
+                                "join": "\u0026",
+                                "name": "Richard Polson",
+                                "role": "",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "Ruskin",
+                                "id": "1175",
+                                "join": "",
+                                "name": "James Ruskin",
+                                "role": "",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "duration": "4:59",
+                    "position": "8",
+                    "title": "Institute For The Future"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "891",
+                            "join": "",
+                            "name": "Joey Beltram",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:05",
+                    "position": "9",
+                    "title": "Floaters"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1114",
+                            "join": "",
+                            "name": "Surgeon",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:46",
+                    "position": "10",
+                    "title": "Scorn"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "245",
+                            "join": "",
+                            "name": "Envoy",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:47",
+                    "position": "11",
+                    "title": "Emotional"
+                }
+            ]
+        }
+    }
+}

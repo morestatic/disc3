@@ -1,0 +1,171 @@
+{
+    "release": {
+        "_id": "60040",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "38972",
+                "join": "",
+                "name": "Kidstuff",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "40",
+                    "name": "Loaded Records",
+                    "resource_url": "https://api.discogs.com/labels/40"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "40",
+                    "name": "Loaded Records",
+                    "resource_url": "https://api.discogs.com/labels/40"
+                }
+            ]
+        },
+        "country": "UK",
+        "data_quality": "Needs Vote",
+        "extraartists": "",
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Text",
+                    "_type": "Barcode",
+                    "_value": "5 025425 409622"
+                },
+                {
+                    "_description": "Scanned",
+                    "_type": "Barcode",
+                    "_value": "5025425409622"
+                },
+                {
+                    "_description": "Side A",
+                    "_type": "Matrix / Runout",
+                    "_value": "LOAD 96A₁  Gym's THE EXCHANGE"
+                },
+                {
+                    "_description": "Side B",
+                    "_type": "Matrix / Runout",
+                    "_value": "LOAD 0̶̷̸ 96B₁"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "635",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "635",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "596"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "LOAD 096",
+                "_id": "40",
+                "_name": "Loaded Records"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "422955"
+        },
+        "notes": "Made In England\r\n℗loaded records 2002\r\n©loaded records 2002\r\nwww.loadedrecords.com",
+        "released": "2002-10-08",
+        "styles": {
+            "style": [
+                "Tribal",
+                "Tribal House"
+            ]
+        },
+        "title": "Do What You Wanna",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A1",
+                    "title": "Do What You Wanna (Classic 80's Mullet Mix)"
+                },
+                {
+                    "duration": "",
+                    "position": "A2",
+                    "title": "Do What You Wanna (DJ Tool 1)"
+                },
+                {
+                    "duration": "",
+                    "position": "A3",
+                    "title": "Do What You Wanna (DJ Tool 2)"
+                },
+                {
+                    "duration": "",
+                    "position": "B1",
+                    "title": "Do What You Wanna (Millenium Mulletizm Mix)"
+                },
+                {
+                    "duration": "",
+                    "position": "B2",
+                    "title": "Do What You Wanna (DJ Tool 3)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "534",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=9ZI4IBG6bWg",
+                    "description": "Provided to YouTube by Loaded Records\n\nDo What You Wanna (Millenium Mulletizm Mix) · Kidstuff\n\nDo What You Wanna\n\n℗ 2002 Loaded Records Limited, a BMG Company\n\nPerformance: Kidstuff\n\nAuto-generated by YouTube.",
+                    "title": "Do What You Wanna (Millenium Mulletizm Mix)"
+                },
+                {
+                    "_duration": "534",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=z9R5NWB8p4E",
+                    "description": "Provided to YouTube by Loaded Records\n\nDo What You Wanna (Classic 80's Mullet Mix) · Kidstuff\n\nDo What You Wanna\n\n℗ 2002 Loaded Records Limited, a BMG Company\n\nPerformance: Kidstuff\n\nAuto-generated by YouTube.",
+                    "title": "Do What You Wanna (Classic 80's Mullet Mix)"
+                }
+            ]
+        }
+    }
+}

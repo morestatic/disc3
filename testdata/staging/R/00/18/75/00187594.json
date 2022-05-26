@@ -1,0 +1,168 @@
+{
+    "release": {
+        "_id": "187594",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "69011",
+                "join": "",
+                "name": "Shades Of Orion",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": {
+                "catno": "",
+                "entity_type": "17",
+                "entity_type_name": "Pressed By",
+                "id": "291931",
+                "name": "CD Plant MFG",
+                "resource_url": "https://api.discogs.com/labels/291931"
+            }
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "25",
+                    "join": "",
+                    "name": "Tetsu Inoue",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "CD PLANT MFG PW 09 CDM01"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "464",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "601",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "594",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "610",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PW 09",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "90704"
+        },
+        "notes": "ORION\r\n\r\nOrion as a symbol of the attainable infinity\r\n\r\nSHADES OF ORION\r\nFRANKFURT 1993\r\n\r\nSpecial thanks to:\r\n\r\nElisabeth\r\nFABiA\r\nLudwig Rehberg of EMS\r\n\r\nIngrid\r\nNick\r\n\r\nLimitation: 500\r\nMade in Germany",
+        "released": "1993-11-24",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Downtempo"
+            ]
+        },
+        "title": "Shades Of Orion",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "24:12",
+                    "position": "1",
+                    "title": "Biotrip"
+                },
+                {
+                    "duration": "12:37",
+                    "position": "2",
+                    "title": "Shades Of Orion"
+                },
+                {
+                    "duration": "12:48",
+                    "position": "3",
+                    "title": "Did You Ever Retire A Human..."
+                },
+                {
+                    "duration": "20:46",
+                    "position": "4",
+                    "title": "Liquid Shade"
+                }
+            ]
+        },
+        "videos": {
+            "video": {
+                "_duration": "4218",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=0Brg50xKu-g",
+                "description": "Artist: Pete Namlook \u0026 Tetsu Inoue\nAlbum: Shades Of Orion\nLabel: Fax +49-69/450464\nYear: 1993\n\nTracklist:\n1. Biotrip [0:00]\n2. Shades Of Orion [24:08]\n3. Did You Ever Retire A Human... [36:47]\n4. Liquid Shade [49:34]\n\nAll music uploaded to this channel is",
+                "title": "Pete Namlook \u0026 Tetsu Inoue - Shades Of Orion (Full Album) [1993]"
+            }
+        }
+    }
+}

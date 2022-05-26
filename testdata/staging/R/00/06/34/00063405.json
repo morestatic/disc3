@@ -1,0 +1,561 @@
+{
+    "release": {
+        "_id": "63405",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "194",
+                "join": "",
+                "name": "Various",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "9",
+                    "entity_type_name": "Distributed By",
+                    "id": "264555",
+                    "name": "SRD",
+                    "resource_url": "https://api.discogs.com/labels/264555"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "9",
+                    "entity_type_name": "Distributed By",
+                    "id": "23694",
+                    "name": "Universal Music",
+                    "resource_url": "https://api.discogs.com/labels/23694"
+                }
+            ]
+        },
+        "country": "UK",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "164260",
+                    "join": "",
+                    "name": "Brenda Russell",
+                    "role": "Compiled By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "Unknown",
+                    "id": "1920154",
+                    "join": "",
+                    "name": "The Unknown (20)",
+                    "role": "Design",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1875876",
+                    "join": "",
+                    "name": "NASA (10)",
+                    "role": "Photography By [Photo]",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "Compilation"
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Barcode",
+                    "_value": "6 42620 10762 4"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "AAC2093 01883 KICKCD76 SP · I : 0"
+                },
+                {
+                    "_description": "Variants 1 \u0026 2",
+                    "_type": "Mastering SID Code",
+                    "_value": "IFPI L122"
+                },
+                {
+                    "_description": "Variant 1",
+                    "_type": "Mould SID Code",
+                    "_value": "IFPI 8Y07"
+                },
+                {
+                    "_description": "variant 2",
+                    "_type": "Mould SID Code",
+                    "_value": "IFPI 8Y06"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "592",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "468",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "594",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "597",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "594",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "471",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "400",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "400"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "KICK CD 76",
+                "_id": "628",
+                "_name": "Kickin Records"
+            }
+        },
+        "notes": "Track 5 is credited to [m=39463] as main artist.\nTrack 6 is side A2 from [m=19183].\nTracks 7 and 9 'exclusive tracks'.\nTrack 8 'exclusive mix'.\nTrack 12 is only listed inside the inlay booklet. \n\nDistributed in UK by SRD\nDistributed in France by Universal Music",
+        "released": "1998",
+        "styles": {
+            "style": "Techno"
+        },
+        "title": "Techno Nations 8",
+        "tracklist": {
+            "track": [
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "2470",
+                            "join": "",
+                            "name": "Puente Latino",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:50",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "Cari Lekebusch / Alexi Delano",
+                            "id": "1779857",
+                            "join": "",
+                            "name": "Alexi Delano \u0026 Cari Lekebusch",
+                            "role": "Recorded By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "1",
+                    "title": "Who 'Diz?"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "20",
+                            "join": "",
+                            "name": "Percy X",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:36",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "20",
+                            "join": "",
+                            "name": "Percy X",
+                            "role": "Written-By, Producer",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "2",
+                    "title": "Track 2"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "16941",
+                            "join": "",
+                            "name": "Landlord",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:04",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "16941",
+                            "join": "",
+                            "name": "Landlord",
+                            "role": "Written-By, Producer",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "3",
+                    "title": "Crash"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "19",
+                            "join": "",
+                            "name": "Sound Associates",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:45",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "Daz Saund / Ben Tisdall",
+                            "id": "3653",
+                            "join": "",
+                            "name": "Daz Saund \u0026 Ben Tisdall",
+                            "role": "Written-By, Producer",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "4",
+                    "title": "Music"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "26334",
+                            "join": "",
+                            "name": "Mark Lloyd",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:36",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "26334",
+                            "join": "",
+                            "name": "Mark Lloyd",
+                            "role": "Written-By, Producer",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "5",
+                    "title": "Sub-Thunk Part 2"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1360",
+                            "join": "",
+                            "name": "Adam Beyer",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:30",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1360",
+                            "join": "",
+                            "name": "Adam Beyer",
+                            "role": "Written-By, Producer",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "6",
+                    "title": "5.31"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1026",
+                            "join": "",
+                            "name": "Space DJz",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "3:40",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "Jamie Bissmire / Ben Long",
+                            "id": "1481889",
+                            "join": "",
+                            "name": "Jamie Bissmire \u0026 Ben Long",
+                            "role": "Written-By, Producer",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "7",
+                    "title": "Track 2"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "7505",
+                            "join": "",
+                            "name": "The Blunted Boy Wonder",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "7:52",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1344",
+                            "join": "",
+                            "name": "Steve Stoll",
+                            "role": "Written-By, Producer",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "8",
+                    "title": "Captive"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "88",
+                            "join": "",
+                            "name": "Dave Angel",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:02",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "88",
+                            "join": "",
+                            "name": "Dave Angel",
+                            "role": "Written-By, Producer",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "9",
+                    "title": "Body Punch Phunk"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "51403",
+                            "join": "",
+                            "name": "Headlock",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:05",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "1494",
+                                "join": "",
+                                "name": "Jamie Anderson",
+                                "role": "Remix",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "Anderson",
+                                "id": "1494",
+                                "join": "",
+                                "name": "Jamie Anderson",
+                                "role": "Written-By, Producer",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "Beber",
+                                "id": "16049",
+                                "join": "",
+                                "name": "Kevin Beber",
+                                "role": "Written-By, Producer",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "10",
+                    "title": "Wind Up (Jamie Anderson Remix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "12480",
+                            "join": "",
+                            "name": "Outbreak",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "7:48",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "13407",
+                                "join": "",
+                                "name": "Henry Cullen",
+                                "role": "Written-By, Producer",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "6341",
+                                "join": "",
+                                "name": "Marco Lenzi",
+                                "role": "Written-By, Producer",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "8333",
+                                "join": "",
+                                "name": "Nils Hess",
+                                "role": "Written-By, Producer",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "11",
+                    "title": "Signal 2"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1110",
+                            "join": "",
+                            "name": "The Advent",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:35",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "14888",
+                                "join": "",
+                                "name": "Cisco Ferreira",
+                                "role": "Written-By, Producer",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "8328",
+                                "join": "",
+                                "name": "Colin McBean",
+                                "role": "Written-By, Producer",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "12",
+                    "title": "Distance"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "332",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=0RLlnGl1yjc",
+                    "description": "Kickin Records ‎– KICK CD 76\nVarious - Techno Nations 8 (1998)",
+                    "title": "Adam Beyer - 5.31 [Kickin Records]"
+                },
+                {
+                    "_duration": "476",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=UJlsXu7avUI",
+                    "description": "1998\nhttps://www.discogs.com/Various-Techno-Nations-8/release/63405",
+                    "title": "The Blunted Boy Wonder - Captive"
+                },
+                {
+                    "_duration": "229",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=xomwgiwuuGg",
+                    "description": "Hardcore underground acid tek tune, another classic Space DJZ production. Lifted from the Kickin Records sampler, Techno Nations 8. 2KSD/SPRMM.",
+                    "title": "SPACE DJZ  - TRACK 2"
+                },
+                {
+                    "_duration": "296",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=YCEjrEsFKuk",
+                    "description": "Explorando Los Angeles...",
+                    "title": "Puente Latino +Who 'Diz+"
+                }
+            ]
+        }
+    }
+}

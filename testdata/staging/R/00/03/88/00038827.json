@@ -1,0 +1,120 @@
+{
+    "release": {
+        "_id": "38827",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "292993",
+                "join": "",
+                "name": "Elektro",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "Germany",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "15130",
+                    "join": "",
+                    "name": "Robert Görl",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_description": "B-Side",
+                "_type": "Matrix / Runout",
+                "_value": "NICE HANDS"
+            }
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "599"
+                },
+                {
+                    "_height": "500",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/110",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Limitation: 1000",
+        "released": "1996-03-11",
+        "styles": {
+            "style": [
+                "Hard Trance",
+                "Ambient"
+            ]
+        },
+        "title": "Elektro",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "15:38",
+                    "position": "A",
+                    "title": "Perfect Body - Part II"
+                },
+                {
+                    "duration": "8:06",
+                    "position": "B",
+                    "title": "Perfect Body - Part III"
+                }
+            ]
+        },
+        "videos": {
+            "video": {
+                "_duration": "2827",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=CHHskLlQ24E",
+                "description": "Artist: Pete Namlook \u0026 Robert Görl\nAlbum: Elektro\nLabel: Fax\nYear: 1996\n\n1. Perfect Body, Part I [00:00]\n2. Perfect Body, Part II [06:45]\n3. Perfect Body, Part III [22:15]\n4. Perfect Body, Part IV [30:20]\n5. Perfect Body, Part V [42:03]\n\n\nAll music uploa",
+                "title": "Pete Namlook \u0026 Robert Görl - Elektro (Full Album) [1996]"
+            }
+        }
+    }
+}

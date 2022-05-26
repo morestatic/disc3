@@ -1,0 +1,243 @@
+{
+    "release": {
+        "_id": "2841",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "3363",
+                "join": "",
+                "name": "Colette",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "US",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "483369",
+                    "join": "",
+                    "name": "Adam Nelson",
+                    "role": "Instruments",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "3362",
+                    "join": "",
+                    "name": "Angel Alanis",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "3363",
+                    "join": "",
+                    "name": "Colette",
+                    "role": "Vocals, Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "12\""
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Text",
+                    "_type": "Barcode",
+                    "_value": "7 13405 96261 2"
+                },
+                {
+                    "_description": "Scanned",
+                    "_type": "Barcode",
+                    "_value": "713405962612"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "601",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "603",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "1831",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "MDR9626-1",
+                "_id": "20",
+                "_name": "Moody Recordings"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "219034"
+        },
+        "released": "2000-00-00",
+        "styles": {
+            "style": [
+                "House",
+                "Deep House",
+                "Tech House"
+            ]
+        },
+        "title": "Try Her For Love",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "255",
+                            "join": "",
+                            "name": "Johnny Fiasco",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "A1",
+                    "title": "Try Her For Love (Johnny Fiasco's Vocal Mix)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "26",
+                            "join": "",
+                            "name": "Alexi Delano",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "A2",
+                    "title": "Try Her For Love (Alexi Delano Corner Shots Mix)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "3362",
+                            "join": "",
+                            "name": "Angel Alanis",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "B1",
+                    "title": "Try Her For Love (Angel Alanis Mix)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "19420",
+                            "join": "",
+                            "name": "Sombionx",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "B2",
+                    "title": "Try Her For Love (Your Learning Sombionx Mix)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "423",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=3wvDHYECCVY",
+                    "description": "Provided to YouTube by Symphonic Distribution\n\nTry Her For Love · Colette · Johnny Fiasco\n\nTry Her For Love\n\n℗ 2013 Moody Recordings\n\nReleased on: 2013-08-25\n\nRemixer: Johnny Fiasco\n\nAuto-generated by YouTube.",
+                    "title": "Try Her For Love (Johnny Fiasco Vocal Mix)"
+                },
+                {
+                    "_duration": "589",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=HI29un0V2Eo",
+                    "description": "The sizzling, jazz-infused Cricco Castelli rework of Try Her For Love by US vocal house icon, Colette. Recorded direct from vinyl... get into this!\n\nReleased September 2000 on Moody Recordings.\n\n===\n\nNOTE: I do not own copyright to this material! I will r",
+                    "title": "Colette - Try Her For Love (Cricco Castelli Remix)"
+                },
+                {
+                    "_duration": "321",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=jPEKGBMJHFs",
+                    "description": "Provided to YouTube by Symphonic Distribution\n\nTry Her For Love · Colette · Alexi Delano\n\nTry Her For Love\n\n℗ 2013 Moody Recordings\n\nReleased on: 2013-08-25\n\nRemixer: Alexi Delano\n\nAuto-generated by YouTube.",
+                    "title": "Try Her For Love (Alexi Delano Corner Shots Mix)"
+                },
+                {
+                    "_duration": "489",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=PpGZhaj0NNE",
+                    "description": "The sensational DJ Q \u0026 Blackman rework of Try Her For Love by US vocal house icon, Colette. Recorded direct from vinyl... get into this!\n\nReleased September, 2000 on Moody Recordings.\n\n===\n\n\nNOTE: I do not own copyright to this material! I will remove thi",
+                    "title": "Colette - Try Her For Love (Child Of Gill Mix By DJ Q \u0026 Blackman)"
+                },
+                {
+                    "_duration": "558",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=WONMrSdUc2M",
+                    "description": "Provided to YouTube by Symphonic Distribution\n\nTry Her For Love · Colette · Angel Alanis\n\nTry Her For Love\n\n℗ 2013 Moody Recordings\n\nReleased on: 2013-08-25\n\nRemixer: Angel Alanis\n\nAuto-generated by YouTube.",
+                    "title": "Try Her For Love (Angel Alanis Mix)"
+                },
+                {
+                    "_duration": "329",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=oNsgtxCcCx0",
+                    "description": "Provided to YouTube by Symphonic Distribution\n\nTry Her For Love · Colette · Sombionx\n\nTry Her For Love\n\n℗ 2013 Moody Recordings\n\nReleased on: 2013-08-25\n\nRemixer: Sombionx\n\nAuto-generated by YouTube.",
+                    "title": "Try Her For Love (Your Learning Sombionx Mix)"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,450 @@
+{
+    "release": {
+        "_id": "40618",
+        "_status": "Accepted",
+        "artists": {
+            "artist": [
+                {
+                    "anv": "A.D.N.Y.",
+                    "id": "50",
+                    "join": "Presents",
+                    "name": "ADNY",
+                    "role": "",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1386",
+                    "join": "",
+                    "name": "Leiva",
+                    "role": "",
+                    "tracks": ""
+                }
+            ]
+        },
+        "companies": {
+            "company": {
+                "catno": "A927358",
+                "entity_type": "17",
+                "entity_type_name": "Pressed By",
+                "id": "129094",
+                "name": "Optimal Media Production",
+                "resource_url": "https://api.discogs.com/labels/129094"
+            }
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "U.C. Graphic",
+                    "id": "1832542",
+                    "join": "",
+                    "name": "UC Graphic",
+                    "role": "Design",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "3383283",
+                    "join": "",
+                    "name": "Evelyn Gögele",
+                    "role": "Illustration",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "577043",
+                    "join": "",
+                    "name": "Karin Roiseux",
+                    "role": "Management [Licensing \u0026 Management]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "A.D.N.Y.",
+                    "id": "50",
+                    "join": "",
+                    "name": "ADNY",
+                    "role": "Presenter",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "26",
+                    "join": "",
+                    "name": "Alexi Delano",
+                    "role": "Written-By, Producer",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "Album"
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Text",
+                    "_type": "Barcode",
+                    "_value": "4 017866 920355"
+                },
+                {
+                    "_description": "Scanned",
+                    "_type": "Barcode",
+                    "_value": "4017866920355"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 4675"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "UCMG PLAC019-2 A927358-01"
+                },
+                {
+                    "_type": "Mastering SID Code",
+                    "_value": "ifpi L571"
+                },
+                {
+                    "_type": "Mould SID Code",
+                    "_value": "IFPI 9706"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "597",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "466",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "603",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "583",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "592",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "590",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "592",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "590",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "592",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "586",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": [
+                {
+                    "_catno": "PLAC CD 019-2",
+                    "_id": "244",
+                    "_name": "Plastic City"
+                },
+                {
+                    "_catno": "PLACCD019-2",
+                    "_id": "244",
+                    "_name": "Plastic City"
+                }
+            ]
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "120871"
+        },
+        "notes": "All songs recorded at Minimum Studios, NYC.",
+        "released": "1999-09-21",
+        "styles": {
+            "style": [
+                "Deep House",
+                "Tech House"
+            ]
+        },
+        "title": "The Way Eye See",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "6:00",
+                    "position": "1",
+                    "title": "The Future Is Now"
+                },
+                {
+                    "duration": "6:11",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1145948",
+                            "join": "",
+                            "name": "Rich Unapanta",
+                            "role": "Vocals",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "2",
+                    "title": "Something For The Souls"
+                },
+                {
+                    "duration": "5:09",
+                    "position": "3",
+                    "title": "Quotes"
+                },
+                {
+                    "duration": "5:06",
+                    "position": "4",
+                    "title": "Deficient"
+                },
+                {
+                    "duration": "5:24",
+                    "position": "5",
+                    "title": "Sane"
+                },
+                {
+                    "duration": "5:26",
+                    "position": "6",
+                    "title": "Afrobeat"
+                },
+                {
+                    "duration": "5:45",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1319551",
+                            "join": "",
+                            "name": "George Ronteris",
+                            "role": "Vocals",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "7",
+                    "title": "Musical Soul"
+                },
+                {
+                    "duration": "7:10",
+                    "position": "8",
+                    "title": "Near You"
+                },
+                {
+                    "duration": "5:04",
+                    "position": "9",
+                    "title": "Strive"
+                },
+                {
+                    "duration": "6:27",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "53",
+                            "join": "",
+                            "name": "Casey Hogan",
+                            "role": "Co-producer",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "10",
+                    "title": "Indulgements"
+                },
+                {
+                    "duration": "5:53",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "53",
+                            "join": "",
+                            "name": "Casey Hogan",
+                            "role": "Co-producer",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "11",
+                    "title": "Quere Mas"
+                },
+                {
+                    "duration": "5:05",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "53",
+                            "join": "",
+                            "name": "Casey Hogan",
+                            "role": "Co-producer",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "12",
+                    "title": "Queseva"
+                },
+                {
+                    "duration": "5:21",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "53",
+                            "join": "",
+                            "name": "Casey Hogan",
+                            "role": "Co-producer",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "13",
+                    "title": "One Step Ahead"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "361",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Bj4PPlW_p2A",
+                    "description": "Provided to YouTube by Daredo\n\nThe Future Is Now · ADNY presents Leiva\n\nThe Way Eye See\n\n℗ 1999 Plastic City / daredo music\n\nReleased on: 1999-09-20\n\nComposer: Alexi Delano\nMusic  Publisher: Copyright Control\n\nAuto-generated by YouTube.",
+                    "title": "The Future Is Now"
+                },
+                {
+                    "_duration": "371",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=PVJPZjXuo44",
+                    "description": "Provided to YouTube by Daredo\n\nSomething For The Souls · ADNY presents Leiva\n\nThe Way Eye See\n\n℗ 1999 Plastic City / daredo music\n\nReleased on: 1999-09-20\n\nComposer: Alexi Delano\nMusic  Publisher: Copyright Control\n\nAuto-generated by YouTube.",
+                    "title": "Something For The Souls"
+                },
+                {
+                    "_duration": "310",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Z3vwMLXC1rA",
+                    "description": "Provided to YouTube by Daredo\n\nQuotes · ADNY presents Leiva\n\nThe Way Eye See\n\n℗ 1999 Plastic City / daredo music\n\nReleased on: 1999-09-20\n\nComposer: Alexi Delano\nMusic  Publisher: Copyright Control\n\nAuto-generated by YouTube.",
+                    "title": "Quotes"
+                },
+                {
+                    "_duration": "306",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=XorBPPwN71Y",
+                    "description": "Provided to YouTube by Daredo\n\nDeficient · ADNY presents Leiva\n\nThe Way Eye See\n\n℗ 1999 Plastic City / daredo music\n\nReleased on: 1999-09-20\n\nComposer: Alexi Delano\nMusic  Publisher: Copyright Control\n\nAuto-generated by YouTube.",
+                    "title": "Deficient"
+                },
+                {
+                    "_duration": "324",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=E2EZU9QWGGU",
+                    "description": "Provided to YouTube by Daredo\n\nSane · ADNY presents Leiva\n\nThe Way Eye See\n\n℗ 1999 Plastic City / daredo music\n\nReleased on: 1999-09-20\n\nComposer: Alexi Delano\nMusic  Publisher: Copyright Control\n\nAuto-generated by YouTube.",
+                    "title": "Sane"
+                },
+                {
+                    "_duration": "327",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=SCj2ZFt2-Gs",
+                    "description": "Provided to YouTube by Daredo\n\nAfrobeat · ADNY presents Leiva\n\nThe Way Eye See\n\n℗ 1999 Plastic City / daredo music\n\nReleased on: 1999-09-20\n\nComposer: Alexi Delano\nMusic  Publisher: Copyright Control\n\nAuto-generated by YouTube.",
+                    "title": "Afrobeat"
+                },
+                {
+                    "_duration": "345",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=wWOwe19rgeE",
+                    "description": "Provided to YouTube by Daredo\n\nMusical Soul · ADNY presents Leiva\n\nThe Way Eye See\n\n℗ 1999 Plastic City / daredo music\n\nReleased on: 1999-09-20\n\nComposer: Alexi Delano\nMusic  Publisher: Copyright Control\n\nAuto-generated by YouTube.",
+                    "title": "Musical Soul"
+                },
+                {
+                    "_duration": "431",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=0n7Hfi6g0A0",
+                    "description": "Provided to YouTube by Daredo\n\nNear You · ADNY presents Leiva\n\nThe Way Eye See\n\n℗ 1999 Plastic City / daredo music\n\nReleased on: 1999-09-20\n\nComposer: Alexi Delano\nMusic  Publisher: Copyright Control\n\nAuto-generated by YouTube.",
+                    "title": "Near You"
+                },
+                {
+                    "_duration": "304",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=1kT5q1ovlrI",
+                    "description": "Provided to YouTube by Daredo\n\nStrive · ADNY presents Leiva\n\nThe Way Eye See\n\n℗ 1999 Plastic City / daredo music\n\nReleased on: 1999-09-20\n\nComposer: Alexi Delano\nMusic  Publisher: Copyright Control\n\nAuto-generated by YouTube.",
+                    "title": "Strive"
+                },
+                {
+                    "_duration": "388",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=fIz6ZL-FFnA",
+                    "description": "Provided to YouTube by Daredo\n\nIndulgements · ADNY presents Leiva\n\nThe Way Eye See\n\n℗ 1999 Plastic City / daredo music\n\nReleased on: 1999-09-20\n\nComposer: Alexi Delano\nMusic  Publisher: Copyright Control\n\nAuto-generated by YouTube.",
+                    "title": "Indulgements"
+                },
+                {
+                    "_duration": "353",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=avufGyAYUYA",
+                    "description": "Provided to YouTube by Daredo\n\nQuere Mas · ADNY presents Leiva\n\nThe Way Eye See\n\n℗ 1999 Plastic City / daredo music\n\nReleased on: 1999-09-20\n\nComposer: Alexi Delano\nMusic  Publisher: Copyright Control\n\nAuto-generated by YouTube.",
+                    "title": "Quere Mas"
+                },
+                {
+                    "_duration": "306",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=pHFHrS9mtAs",
+                    "description": "Provided to YouTube by Daredo\n\nQueseva · ADNY presents Leiva\n\nThe Way Eye See\n\n℗ 1999 Plastic City / daredo music\n\nReleased on: 1999-09-20\n\nComposer: Alexi Delano\nMusic  Publisher: Copyright Control\n\nAuto-generated by YouTube.",
+                    "title": "Queseva"
+                },
+                {
+                    "_duration": "322",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=7Px_Ys8nQXA",
+                    "description": "Provided to YouTube by Daredo\n\nOne Step Ahead · ADNY presents Leiva\n\nThe Way Eye See\n\n℗ 1999 Plastic City / daredo music\n\nReleased on: 1999-09-20\n\nComposer: Alexi Delano\nMusic  Publisher: Copyright Control\n\nAuto-generated by YouTube.",
+                    "title": "One Step Ahead"
+                }
+            ]
+        }
+    }
+}

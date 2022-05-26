@@ -1,0 +1,219 @@
+{
+    "release": {
+        "_id": "52642",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "13232",
+                "join": "",
+                "name": "Chris Meloche",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "721358",
+                    "name": "Rough Cut Studio",
+                    "resource_url": "https://api.discogs.com/labels/721358"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "10",
+                    "entity_type_name": "Manufactured By",
+                    "id": "291931",
+                    "name": "CD Plant MFG",
+                    "resource_url": "https://api.discogs.com/labels/291931"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "13232",
+                "join": "",
+                "name": "Chris Meloche",
+                "role": "Written-By",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "CD PLANT MFG PS 08/69 CDM01"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "594",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "463",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "296",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PS 08/69",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Chris Meloche, London, Canada, 1995\r\nRecorded at Rough Cut Studio, London, Canada\r\nMade in Germany\r\n\r\nLimitation: 1,000 copies\r\nTracklisting only states one title, In the Air, which is spread over twelve untitled tracks. The durations here listed were taken from the disc's table of contents except for the index track which is the duration printed on the booklet. The actual duration of the whole disc is 1:00:57.",
+        "released": "1995-04-18",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Drone",
+                "Minimal"
+            ]
+        },
+        "title": "Wireless",
+        "tracklist": {
+            "track": {
+                "duration": "60:57",
+                "position": "",
+                "sub_tracks": {
+                    "track": [
+                        {
+                            "duration": "5:01",
+                            "position": "1",
+                            "title": "Untitled"
+                        },
+                        {
+                            "duration": "5:30",
+                            "position": "2",
+                            "title": "Untitled"
+                        },
+                        {
+                            "duration": "4:24",
+                            "position": "3",
+                            "title": "Untitled"
+                        },
+                        {
+                            "duration": "2:09",
+                            "position": "4",
+                            "title": "Untitled"
+                        },
+                        {
+                            "duration": "5:25",
+                            "position": "5",
+                            "title": "Untitled"
+                        },
+                        {
+                            "duration": "3:37",
+                            "position": "6",
+                            "title": "Untitled"
+                        },
+                        {
+                            "duration": "6:28",
+                            "position": "7",
+                            "title": "Untitled"
+                        },
+                        {
+                            "duration": "2:44",
+                            "position": "8",
+                            "title": "Untitled"
+                        },
+                        {
+                            "duration": "5:48",
+                            "position": "9",
+                            "title": "Untitled"
+                        },
+                        {
+                            "duration": "9:06",
+                            "position": "10",
+                            "title": "Untitled"
+                        },
+                        {
+                            "duration": "2:45",
+                            "position": "11",
+                            "title": "Untitled"
+                        },
+                        {
+                            "duration": "7:54",
+                            "position": "12",
+                            "title": "Untitled"
+                        }
+                    ]
+                },
+                "title": "In The Air"
+            }
+        },
+        "videos": {
+            "video": {
+                "_duration": "3655",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=YRjEkUM_O5E",
+                "description": "Provided to YouTube by The Orchard Enterprises\n\nWireless · Chris Meloche\n\nWireless\n\n℗ 2016 Silent Records\n\nReleased on: 2016-12-09\n\nMusic Publisher: SOCAN\n\nAuto-generated by YouTube.",
+                "title": "Wireless"
+            }
+        }
+    }
+}

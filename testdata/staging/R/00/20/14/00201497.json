@@ -1,0 +1,139 @@
+{
+    "release": {
+        "_id": "201497",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "96176",
+                "join": "",
+                "name": "Gamma (2)",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "8521",
+                    "join": "",
+                    "name": "Dr. Atmo",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "16732",
+                    "join": "",
+                    "name": "Massimo Vivona",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Side-A etching",
+                    "_type": "Other",
+                    "_value": "PRODUCED AT TRANCELAB STUDIO"
+                },
+                {
+                    "_description": "Side-B etching",
+                    "_type": "Other",
+                    "_value": "PIF - PERSIAN - ITALIAN - FRIENDSHIP"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "480",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "480"
+                },
+                {
+                    "_height": "480",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "480"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PS  08/28",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "235919"
+        },
+        "notes": "Limitation: 500",
+        "released": "1993-10-18",
+        "styles": {
+            "style": [
+                "Trance",
+                "Techno"
+            ]
+        },
+        "title": "Gamma",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "10:44",
+                    "position": "A",
+                    "title": "Attuale"
+                },
+                {
+                    "duration": "13:21",
+                    "position": "B",
+                    "title": "Intellectuale"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "634",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=53e3LYHIUBY",
+                    "description": "Music: Dr. Atmo and Massimo Vivona 1993. Video: Abstructure 2015\n\nMassimo Vivona on Youtube --- https://www.youtube.com/channel/UC1hWG_1YDZv7ftnCjHmLO0A\n\nMassimo Vivona on Residentadvisor.net: \n• https://www.residentadvisor.net/dj/massimovivona\n• http",
+                    "title": "Gamma - Attuale"
+                },
+                {
+                    "_duration": "801",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=ABVye5OFnF8",
+                    "description": "Gamma (PS 08/30)\r\n\r\nReleased November 1993",
+                    "title": "Gamma - Intellectuale (1993)"
+                }
+            ]
+        }
+    }
+}

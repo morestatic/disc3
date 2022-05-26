@@ -1,0 +1,187 @@
+{
+    "release": {
+        "_id": "10906",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "4295",
+                "join": "",
+                "name": "Jochem Paap",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "269832",
+                    "name": "Speedy J Music",
+                    "resource_url": "https://api.discogs.com/labels/269832"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "38714",
+                    "name": "Les Editions Confidentielles",
+                    "resource_url": "https://api.discogs.com/labels/38714"
+                },
+                {
+                    "catno": "45004",
+                    "entity_type": "17",
+                    "entity_type_name": "Pressed By",
+                    "id": "277449",
+                    "name": "P+O Pallas",
+                    "resource_url": "https://api.discogs.com/labels/277449"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "2118078",
+                    "join": "",
+                    "name": "PEK (3)",
+                    "role": "Graphics",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "4295",
+                    "join": "",
+                    "name": "Jochem Paap",
+                    "role": "Written-By, Producer",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "PS 08/96 P+O-45004-A2 09-99"
+                },
+                {
+                    "_type": "Mastering SID Code",
+                    "_value": "IFPI L962"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "247",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "249"
+                },
+                {
+                    "_height": "245",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "499"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PS 08/96",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "313776"
+        },
+        "notes": "Rotterdam 1995-1998\nPublished by Speedy J Music / LEC\n\nLimitation: 2000\nMade in Germany",
+        "released": "1999-10-11",
+        "styles": {
+            "style": [
+                "Abstract",
+                "Ambient"
+            ]
+        },
+        "title": "Vrs-Mbnt-Pcs 9598 II",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "5:54",
+                    "position": "1",
+                    "title": "Dx-snth"
+                },
+                {
+                    "duration": "28:05",
+                    "position": "2",
+                    "title": "Mrg-rvx"
+                },
+                {
+                    "duration": "18:15",
+                    "position": "3",
+                    "title": "Jchm-2ngn"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "355",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=0hhmMbMdJuE",
+                    "description": "http://www.discogs.com/Jochem-Paap-Vrs-Mbnt-Pcs-9598-II/release/10906",
+                    "title": "Dx-Snth"
+                },
+                {
+                    "_duration": "1689",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=yGFtebmC2sk",
+                    "description": "Artist Name : Jochem Paap\nTrack Title : Mrg-Rvx\nAlbum Title : Vrs-Mbnt-Pcs 9598 II\nDate : 1999\nGenre : Ambient",
+                    "title": "Jochem Paap - Mrg-Rvx"
+                },
+                {
+                    "_duration": "3141",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=DsQVjpw9UzM",
+                    "description": "Dx-snth 5:54\nMrg-rvx 28:05\nJchm-2ngn 18:15\n\n\nLabel: Fax +49-69/450464",
+                    "title": "Jochem Paap ‎– Vrs Mbnt Pcs 9598 II 1999"
+                }
+            ]
+        }
+    }
+}

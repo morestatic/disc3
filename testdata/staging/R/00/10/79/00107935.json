@@ -1,0 +1,167 @@
+{
+    "release": {
+        "_id": "107935",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "7067",
+                "join": "",
+                "name": "Synthadelic",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": {
+                "catno": "",
+                "entity_type": "26",
+                "entity_type_name": "Produced At",
+                "id": "294391",
+                "name": "Sonic Studios Frankfurt",
+                "resource_url": "https://api.discogs.com/labels/294391"
+            }
+        },
+        "country": "Germany",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "24",
+                    "join": "",
+                    "name": "Atom Heart",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "A-Side",
+                    "_type": "Matrix / Runout",
+                    "_value": "PRODUCED AT SONIC STUDIOS FRANKFURT FOR NAMLOOK PRODUCTIONS"
+                },
+                {
+                    "_description": "B-Side",
+                    "_type": "Matrix / Runout",
+                    "_value": "SPECIAL THANKS TO SUSI CREAMCHEESE (OUR SECRETARY)"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/15",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "146298"
+        },
+        "notes": "Limitation: 500 copies.",
+        "released": "1993-01-25",
+        "styles": {
+            "style": [
+                "Hardcore",
+                "Ambient"
+            ]
+        },
+        "title": "Synthadelic 3",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "5:14",
+                    "position": "A",
+                    "title": "I'm A Secretary"
+                },
+                {
+                    "duration": "5:04",
+                    "position": "B1",
+                    "title": "Type All Day"
+                },
+                {
+                    "duration": "5:09",
+                    "position": "B2",
+                    "title": "Secretary"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "241",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=3wmU-BVYTP8",
+                    "description": "",
+                    "title": "Synthadelic (Pete Namlook \u0026 Atom Heart) - I'm A Secretary (DJ Creator Remix) (1993)"
+                },
+                {
+                    "_duration": "317",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=oGPrcQts_Rg",
+                    "description": "Artist: Synthadelic (Pete Namlook \u0026 Atom Heart)\nTitle: I'm a Secretary\nLabel: Grand Mal\nCat#: GM 001\nCountry: Belgium\nYear: 1993",
+                    "title": "Synthadelic - I'm a Secretary"
+                },
+                {
+                    "_duration": "305",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=1BSev7BeI9U",
+                    "description": "Synthadelic ‎-- Synthadelic 3\nLabel:Fax +49-69/450464 \nFormat:Vinyl, 12, Limited Edition\nCountry:Germany\nReleased:Apr 1993\nGenre:Electronic\nStyle:Techno Acid Hardcore",
+                    "title": "Synthadelic -- Type All Day ( 1993 )"
+                },
+                {
+                    "_duration": "290",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=3dGiyy6pwfo",
+                    "description": "http://www.discogs.com/Synthadelic-Synthadelic-3/release/107935\n\r\n\r-uploaded in HD at http://www.TunesToTube.com",
+                    "title": "Synthadelic - Secretary (Ambient 1993)"
+                }
+            ]
+        }
+    }
+}

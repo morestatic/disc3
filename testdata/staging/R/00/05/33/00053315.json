@@ -1,0 +1,187 @@
+{
+    "release": {
+        "_id": "53315",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "223",
+                "join": "",
+                "name": "2nd Shift",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "875290",
+                    "name": "Tien Ciao Publishing",
+                    "resource_url": "https://api.discogs.com/labels/875290"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "9",
+                    "entity_type_name": "Distributed By",
+                    "id": "377734",
+                    "name": "Innergalactic Groove Source",
+                    "resource_url": "https://api.discogs.com/labels/377734"
+                },
+                {
+                    "catno": "9701X52",
+                    "entity_type": "30",
+                    "entity_type_name": "Lacquer Cut At",
+                    "id": "610887",
+                    "name": "A+R Record Manufacturing Corporation",
+                    "resource_url": "https://api.discogs.com/labels/610887"
+                },
+                {
+                    "catno": "9701X52",
+                    "entity_type": "17",
+                    "entity_type_name": "Pressed By",
+                    "id": "610887",
+                    "name": "A+R Record Manufacturing Corporation",
+                    "resource_url": "https://api.discogs.com/labels/610887"
+                }
+            ]
+        },
+        "country": "US",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "4524437",
+                    "join": "",
+                    "name": "Scott Osler",
+                    "role": "Executive-Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "SPGII",
+                    "id": "583679",
+                    "join": "",
+                    "name": "Stan Getz II",
+                    "role": "Lacquer Cut By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "223",
+                    "join": "",
+                    "name": "2nd Shift",
+                    "role": "Producer",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "12\""
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "A Side Runout, Etched",
+                    "_type": "Matrix / Runout",
+                    "_value": "Fair Park003∙A 9701X52∙A A+R SPGII"
+                },
+                {
+                    "_description": "B Side Runout, Etched",
+                    "_type": "Matrix / Runout",
+                    "_value": "Fair Park003∙B 9701X52 A+R SPGII"
+                },
+                {
+                    "_description": "Etched in runout",
+                    "_type": "Pressing Plant ID",
+                    "_value": "A+R"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "597",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "599"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "FPR003",
+                "_id": "50",
+                "_name": "Fair Park"
+            }
+        },
+        "notes": "thanks:derrick carter, chris nazuka, spencer kincy, luke solomon,luke sardello, sandy rivera,",
+        "released": "1996",
+        "styles": {
+            "style": "House"
+        },
+        "title": "Always Rushen'",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A1",
+                    "title": "Always Rushen'"
+                },
+                {
+                    "duration": "",
+                    "position": "A2",
+                    "title": "When I Was A Child..."
+                },
+                {
+                    "duration": "",
+                    "position": "B1",
+                    "title": "Parmesan"
+                },
+                {
+                    "duration": "",
+                    "position": "B2",
+                    "title": "Conceptual Country \u0026 Western"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "440",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=naDZJG9b7wU",
+                    "description": "Fair Park. 1996",
+                    "title": "2nd Shift - Always Rushen'"
+                },
+                {
+                    "_duration": "420",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=9AdwJGaodSQ",
+                    "description": "https://www.discogs.com/2nd-Shift-Always-Rushen/release/53315\n\nPromotional Use Only. All Rights belong to their respective owners.",
+                    "title": "2nd Shift - Parmesan"
+                }
+            ]
+        }
+    }
+}

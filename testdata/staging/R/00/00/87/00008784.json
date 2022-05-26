@@ -1,0 +1,200 @@
+{
+    "release": {
+        "_id": "8784",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "20",
+                "join": "",
+                "name": "Percy X",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "295038",
+                    "name": "Soma Music",
+                    "resource_url": "https://api.discogs.com/labels/295038"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "270709",
+                    "name": "Soma Recordings Ltd.",
+                    "resource_url": "https://api.discogs.com/labels/270709"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "270709",
+                    "name": "Soma Recordings Ltd.",
+                    "resource_url": "https://api.discogs.com/labels/270709"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "17",
+                    "entity_type_name": "Pressed By",
+                    "id": "56025",
+                    "name": "MPO",
+                    "resource_url": "https://api.discogs.com/labels/56025"
+                }
+            ]
+        },
+        "country": "UK",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": {
+                "anv": "T.Scott",
+                "id": "529343",
+                "join": "",
+                "name": "Tony Scott (4)",
+                "role": "Producer, Written-By",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM",
+                        "EP"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Barcode",
+                    "_value": "7 96122 09126 1"
+                },
+                {
+                    "_description": "Runout Side A",
+                    "_type": "Matrix / Runout",
+                    "_value": "SOMA 91  A1 MPO"
+                },
+                {
+                    "_description": "Runout Side B",
+                    "_type": "Matrix / Runout",
+                    "_value": "SOMA 91  B1 MPO"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "606",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "598",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "599",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "SOMA 91",
+                "_id": "18",
+                "_name": "Soma Quality Recordings"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "1145271"
+        },
+        "notes": "Track A2 ends into a (badly cut) locked groove.\r\n\r\n℗ \u0026 © 1999 Soma Recordings Ltd\r\nPublished by Soma Music",
+        "released": "1999-12-06",
+        "styles": {
+            "style": [
+                "Tribal",
+                "Techno"
+            ]
+        },
+        "title": "Worklife EP",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A1",
+                    "title": "Worklife"
+                },
+                {
+                    "duration": "",
+                    "position": "A2",
+                    "title": "Worklife Groovelock"
+                },
+                {
+                    "duration": "",
+                    "position": "B1",
+                    "title": "By Night"
+                },
+                {
+                    "duration": "",
+                    "position": "B2",
+                    "title": "Salsa Break 2"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "334",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=j7QvU6LRqBY",
+                    "description": "Worklife EP\nLabel: Soma Quality Recordings ‎– SOMA 91\nFormat: Vinyl, 12, 33 ⅓ RPM, EP\nCountry: UK\nReleased: 06 Dec 1999 \nGenre: Electronic\nStyle: Techno\n--------------------------------------\nhttp://www.discogs.com/Percy-X-Worklife-EP/release/8784",
+                    "title": "Percy X - Worklife [SOMA 91]"
+                },
+                {
+                    "_duration": "188",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=WGTpzdlLnU0",
+                    "description": "Provided to YouTube by Pias UK Limited\n\nWorklife (Groovelock) · Percy X\n\nWorklike EP\n\n℗ 1999 Soma\n\nReleased on: 1999-12-06\n\nMixer: Tony Scott\nProducer: Tony Scott\nComposer: Tony Scott\nLyricist: Tony Scott\nMusic Publisher: SPG Publishing UK Ltd\n\nAuto-ge",
+                    "title": "Worklife (Groovelock)"
+                },
+                {
+                    "_duration": "410",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=eAklIbqcSq0",
+                    "description": "Support the artist, buy the record!",
+                    "title": "Percy X - By Night"
+                },
+                {
+                    "_duration": "322",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=YTOTHonsALE",
+                    "description": "http://www.discogs.com/Percy-X-Worklife-EP/release/8784\r\n(1999)  Tony Scott Anthony Scott MacKinnon\r\nBiography\r\n\r\nSoma's mysterious digital funkmaster and techno veteran Percy X returns to the label and asks where's the music?\r\n\r\n'Where's The Music' is",
+                    "title": "PERCY X - Salsa Break 2 ( Worklife EP [Soma Quality recordings] )"
+                }
+            ]
+        }
+    }
+}

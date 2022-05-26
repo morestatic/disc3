@@ -1,0 +1,764 @@
+{
+    "release": {
+        "_id": "146758",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "3878",
+                "join": "",
+                "name": "Doc Martin",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "348989",
+                    "name": "Fabric Records Ltd.",
+                    "resource_url": "https://api.discogs.com/labels/348989"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "348989",
+                    "name": "Fabric Records Ltd.",
+                    "resource_url": "https://api.discogs.com/labels/348989"
+                },
+                {
+                    "catno": "O31918",
+                    "entity_type": "17",
+                    "entity_type_name": "Pressed By",
+                    "id": "264517",
+                    "name": "GZ Digital Media",
+                    "resource_url": "https://api.discogs.com/labels/264517"
+                }
+            ]
+        },
+        "country": "UK",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "3878",
+                "join": "",
+                "name": "Doc Martin",
+                "role": "DJ Mix",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "Mixed"
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Barcode",
+                    "_value": "0 802560 001929"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "O31918 FABRIC19P"
+                },
+                {
+                    "_type": "Mastering SID Code",
+                    "_value": "IFPI LD02"
+                },
+                {
+                    "_type": "Mould SID Code",
+                    "_value": "IFPI 5J34"
+                },
+                {
+                    "_description": "Variant 1",
+                    "_type": "Matrix / Runout",
+                    "_value": "031918 FABRIC19P"
+                },
+                {
+                    "_description": "Variant 1",
+                    "_type": "Mastering SID Code",
+                    "_value": "IFPI LD02"
+                },
+                {
+                    "_description": "Variant 1",
+                    "_type": "Mould SID Code",
+                    "_value": "IFPI 5J24"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "615",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "560",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "584",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "500",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "Fabric19",
+                "_id": "1115422",
+                "_name": "Fabric (2)"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "440256"
+        },
+        "notes": "This release comes in the standard Fabric packaging of a metal case with a outer card sleeve.\n\nTrack 2 is erroneously called \"Dig Deep\" on cardboard (see images).",
+        "released": "2003-05-05",
+        "styles": {
+            "style": [
+                "Progressive House",
+                "House"
+            ]
+        },
+        "title": "Fabric 10",
+        "tracklist": {
+            "track": [
+                {
+                    "artists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "2880",
+                                "join": "Ft.",
+                                "name": "Markus Enochson",
+                                "role": "",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "16926",
+                                "join": "",
+                                "name": "E-Man",
+                                "role": "",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "duration": "1:56",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "2880",
+                                "join": "",
+                                "name": "Markus Enochson",
+                                "role": "Producer",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "Eric 'E-Man' Clark",
+                                "id": "365281",
+                                "join": "",
+                                "name": "Eric Clark",
+                                "role": "Vocals",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "1",
+                    "title": "Musical Prayer"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "44371",
+                            "join": "",
+                            "name": "Broker/Dealer",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:14",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "783089",
+                                "join": "",
+                                "name": "Ryan Bishop",
+                                "role": "Written-By, Producer",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "783090",
+                                "join": "",
+                                "name": "Ryan Fitzgerald",
+                                "role": "Written-By, Producer",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "2",
+                    "title": "Boots And Pants"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "52499",
+                            "join": "",
+                            "name": "Glowing Glisses",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "7:55",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "148",
+                                "join": "",
+                                "name": "Larry Heard",
+                                "role": "Remix, Co-producer",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "57280",
+                                "join": "",
+                                "name": "Florian Schirmacher",
+                                "role": "Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "91938",
+                                "join": "",
+                                "name": "Guido Schneider",
+                                "role": "Written-By, Producer",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "3",
+                    "title": "On The Bridge (Larry Heard's After Dark Club Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "6376",
+                            "join": "",
+                            "name": "Tiefschwarz",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:17",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "51457",
+                                "join": "",
+                                "name": "Ali Schwarz",
+                                "role": "Written-By, Producer",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "51456",
+                                "join": "",
+                                "name": "Basti Schwarz",
+                                "role": "Written-By, Producer",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "83200",
+                                "join": "",
+                                "name": "Jochen Schmalbach",
+                                "role": "Written-By, Producer",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "4",
+                    "title": "Renix"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "52858",
+                            "join": "",
+                            "name": "Rise Ashen",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:45",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "239201",
+                                "join": "",
+                                "name": "Stephane Lefrancois",
+                                "role": "Percussion [Additional]",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "239202",
+                                "join": "",
+                                "name": "Peter Gould",
+                                "role": "Saxophone",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "60896",
+                                "join": "",
+                                "name": "Nick-E",
+                                "role": "Vocals",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "52858",
+                                "join": "",
+                                "name": "Rise Ashen",
+                                "role": "Written-By, Producer",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "5",
+                    "title": "Second Wind"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "60",
+                            "join": "",
+                            "name": "Pete Moss",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "2:18",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "473978",
+                                "join": "",
+                                "name": "Jeff Craven",
+                                "role": "Executive Producer",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "68944",
+                                "join": "",
+                                "name": "Peter Moss",
+                                "role": "Written-By, Producer",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "6",
+                    "title": "The Shuttle"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "70606",
+                            "join": "",
+                            "name": "Rev",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "3:20",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "13711",
+                                "join": "",
+                                "name": "Dol-lop",
+                                "role": "Mixed By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "176915",
+                                "join": "",
+                                "name": "Kinka",
+                                "role": "Percussion [Programming]",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "13711",
+                                "join": "",
+                                "name": "Dol-lop",
+                                "role": "Programmed By, Mixed By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "70606",
+                                "join": "",
+                                "name": "Rev",
+                                "role": "Written-By, Producer",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "7",
+                    "title": "\"AU\""
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "71138",
+                            "join": "",
+                            "name": "Slade Stiles",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:08",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "Haris",
+                                "id": "452097",
+                                "join": "",
+                                "name": "Haris Custovic",
+                                "role": "Remix, Co-producer",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "Nathan \"Slade\" Chapman",
+                                "id": "1064719",
+                                "join": "",
+                                "name": "Nathan Chapman",
+                                "role": "Written-By, Producer",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "8",
+                    "title": "Ding Bling (Haris Electric Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "Rednail +1",
+                            "id": "22140",
+                            "join": "",
+                            "name": "Rednail Kidz + 1",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:35",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "1552",
+                                "join": "",
+                                "name": "Chez Damier",
+                                "role": "Written-By, Producer",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "7517",
+                                "join": "",
+                                "name": "Chris Nazuka",
+                                "role": "Written-By, Producer",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "3338",
+                                "join": "",
+                                "name": "Derrick Carter",
+                                "role": "Written-By, Producer",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "9",
+                    "title": "I Think Of You"
+                },
+                {
+                    "artists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "14297",
+                                "join": "\u0026",
+                                "name": "Brett Johnson",
+                                "role": "",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "3466",
+                                "join": "",
+                                "name": "Dave Barker",
+                                "role": "",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "duration": "5:02",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "14297",
+                                "join": "",
+                                "name": "Brett Johnson",
+                                "role": "Written-By, Producer, Remix",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "3466",
+                                "join": "",
+                                "name": "Dave Barker",
+                                "role": "Written-By, Producer, Remix",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "10",
+                    "title": "Stucco Homes (Return Of The Ghost Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "323345",
+                            "join": "",
+                            "name": "Sublevel (2)",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:36",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "3878",
+                                "join": "",
+                                "name": "Doc Martin",
+                                "role": "Written-By, Producer",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "877559",
+                                "join": "",
+                                "name": "Lillia Auzou",
+                                "role": "Written-By, Producer",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "11",
+                    "title": "Just Us"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "7627",
+                            "join": "",
+                            "name": "DJ Buck",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:05",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "64331",
+                                "join": "",
+                                "name": "Moody B",
+                                "role": "Co-producer",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "Buck",
+                                "id": "7627",
+                                "join": "",
+                                "name": "DJ Buck",
+                                "role": "Written-By, Producer",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "12",
+                    "title": "Highlights"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "31401",
+                            "join": "",
+                            "name": "Patrick Turner",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "3:19",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "31401",
+                            "join": "",
+                            "name": "Patrick Turner",
+                            "role": "Written-By, Producer",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "13",
+                    "title": "Bonus Beats"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "5142",
+                            "join": "",
+                            "name": "Shaboom",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:39",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "6478",
+                                "join": "",
+                                "name": "Blakkat",
+                                "role": "Remix",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "Mark Thomas Bell",
+                                "id": "172927",
+                                "join": "",
+                                "name": "Mark Bell (3)",
+                                "role": "Written-By, Producer",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "14",
+                    "title": "If You Need Me (Blakkat's Street Party Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "103557",
+                            "join": "",
+                            "name": "One Deck \u0026 Popular",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "3:48",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "103557",
+                            "join": "",
+                            "name": "One Deck \u0026 Popular",
+                            "role": "Written-By, Producer",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "15",
+                    "title": "Son Of Stitt"
+                }
+            ]
+        },
+        "videos": {
+            "video": {
+                "_duration": "4146",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=upRIq4GDGIY",
+                "description": "1  Musical Prayer - Markus Enochson Doc Martin feat: Eman / Markus Enochson 1:56 \n\n2  Dig Deep - Ryan Bishop / Ryan Fitzgerald Doc Martin feat: Broker/Dealer 6:14 \n\n3  On the Bridge -  Florian Schirmacher / Guido Schneider Doc Martin feat: Glowing Glisses",
+                "title": "FABRC 10   Mixed by DOC MARTIN for FABRIC RECORDS UK.  [2003]"
+            }
+        }
+    }
+}

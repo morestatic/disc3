@@ -1,0 +1,148 @@
+{
+    "release": {
+        "_id": "28",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "60",
+                "join": "",
+                "name": "Pete Moss",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": {
+                "catno": "",
+                "entity_type": "23",
+                "entity_type_name": "Recorded At",
+                "id": "1566086",
+                "name": "The Recline Center",
+                "resource_url": "https://api.discogs.com/labels/1566086"
+            }
+        },
+        "country": "US",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "6871571",
+                    "join": "",
+                    "name": "Unit L",
+                    "role": "Design",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "60",
+                    "join": "",
+                    "name": "Pete Moss",
+                    "role": "Producer, Written-By, Engineer",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM",
+                        "EP"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "509",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "507"
+                },
+                {
+                    "_height": "523",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "522"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "RECLINE003",
+                "_id": "29",
+                "_name": "Recline"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "1715186"
+        },
+        "notes": "There is an untitled third track on side B not listed on the labels. The center labels are identical except for the font colour of artist and title which is red on side A and orange on side B. Nevertheless, the tracklisting is incorrect on both sides.",
+        "released": "2000",
+        "styles": {
+            "style": [
+                "Deep House",
+                "Tech House"
+            ]
+        },
+        "title": "Outward Bound EP",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A1",
+                    "title": "Take No Mess"
+                },
+                {
+                    "duration": "",
+                    "position": "A2",
+                    "title": "Take No Mess (Edit)"
+                },
+                {
+                    "duration": "",
+                    "position": "B",
+                    "title": "Untitled"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "344",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=TrF1elKuBMg",
+                    "description": "https://www.discogs.com/Pete-Moss-Outward-Bound-EP/release/28",
+                    "title": "Pete Moss ‎– Take No Mess"
+                },
+                {
+                    "_duration": "285",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=M4eHjJQmJFU",
+                    "description": "https://www.discogs.com/release/28",
+                    "title": "Pete Moss - Take No Mess (Edit)"
+                },
+                {
+                    "_duration": "340",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Gav6Mh0wZ-Q",
+                    "description": "http://www.discogs.com/release/28",
+                    "title": "Pete Moss - Outward Bound EP - Untitled"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,273 @@
+{
+    "release": {
+        "_id": "78660",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "264879",
+                "join": "",
+                "name": "Outland (2)",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "294386",
+                    "name": "Klanglabor Frankfurt",
+                    "resource_url": "https://api.discogs.com/labels/294386"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "10",
+                    "entity_type_name": "Manufactured By",
+                    "id": "291931",
+                    "name": "CD Plant MFG",
+                    "resource_url": "https://api.discogs.com/labels/291931"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "631648",
+                    "join": "",
+                    "name": "Bill Murphy",
+                    "role": "Other [Axiom]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "370164",
+                    "join": "",
+                    "name": "Peter Wetherbee",
+                    "role": "Other [Axiom]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1415325",
+                    "join": "",
+                    "name": "Tracy McKnight",
+                    "role": "Other [Material Inc.]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "58657",
+                    "join": "",
+                    "name": "Peter Kuhlmann",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "60086",
+                    "join": "",
+                    "name": "Nicky Skopelitis",
+                    "role": "Recorded By [Mongolian Voices And Instruments]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "196031",
+                    "join": "",
+                    "name": "Oz Fritz",
+                    "role": "Recorded By [Mongolian Voices And Instruments]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "661",
+                    "join": "",
+                    "name": "Bill Laswell",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "CD PLANT MFG PW 19 CDM01"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "590",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "468",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "298",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "593",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "612",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PW 19",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "16653"
+        },
+        "notes": "Outland, Frankfurt 1994.\n\nMongolian voices and instruments recorded in Ulaan Bator, Mongolia, Aug 1994.\n\nLimited edition of 1000, not specified in the release.\n\nThe track is credited as one track on the CD and artwork, but splitted into 5 minute parts for convenient skipping if needed.",
+        "released": "1994-11-17",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Experimental"
+            ]
+        },
+        "title": "Outland",
+        "tracklist": {
+            "track": {
+                "duration": "62:00",
+                "position": "",
+                "sub_tracks": {
+                    "track": [
+                        {
+                            "duration": "5:00",
+                            "position": "1",
+                            "title": "Part 1"
+                        },
+                        {
+                            "duration": "5:00",
+                            "position": "2",
+                            "title": "Part 2"
+                        },
+                        {
+                            "duration": "5:03",
+                            "position": "3",
+                            "title": "Part 3"
+                        },
+                        {
+                            "duration": "4:57",
+                            "position": "4",
+                            "title": "Part 4"
+                        },
+                        {
+                            "duration": "5:00",
+                            "position": "5",
+                            "title": "Part 5"
+                        },
+                        {
+                            "duration": "5:00",
+                            "position": "6",
+                            "title": "Part 6"
+                        },
+                        {
+                            "duration": "5:00",
+                            "position": "7",
+                            "title": "Part 7"
+                        },
+                        {
+                            "duration": "5:00",
+                            "position": "8",
+                            "title": "Part 8"
+                        },
+                        {
+                            "duration": "5:00",
+                            "position": "9",
+                            "title": "Part 9"
+                        },
+                        {
+                            "duration": "5:00",
+                            "position": "10",
+                            "title": "Part 10"
+                        },
+                        {
+                            "duration": "5:00",
+                            "position": "11",
+                            "title": "Part 11"
+                        },
+                        {
+                            "duration": "7:03",
+                            "position": "12",
+                            "title": "Part 12"
+                        }
+                    ]
+                },
+                "title": "From The Earth To The Ceiling"
+            }
+        },
+        "videos": {
+            "video": {
+                "_duration": "3724",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=ZMDXxY4D-7A",
+                "description": "When gods talk...",
+                "title": "From The Earth To The Ceiling - Outland (Pete Namlook \u0026 Bill Laswell, 1994)"
+            }
+        }
+    }
+}

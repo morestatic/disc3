@@ -1,0 +1,208 @@
+{
+    "release": {
+        "_id": "16587",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "Namlook",
+                "id": "1910",
+                "join": "",
+                "name": "Pete Namlook",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "583117",
+                    "name": "Cubik",
+                    "resource_url": "https://api.discogs.com/labels/583117"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "10",
+                    "entity_type_name": "Manufactured By",
+                    "id": "291931",
+                    "name": "CD Plant MFG",
+                    "resource_url": "https://api.discogs.com/labels/291931"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Composed By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "Namlook",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Liner Notes",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "CD PLANT MFG  PK 08/92   CDM01"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "500",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                },
+                {
+                    "_height": "383",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                },
+                {
+                    "_height": "500",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                },
+                {
+                    "_height": "245",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                },
+                {
+                    "_height": "500",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/92",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Limited to 1000 copies\r\n\r\nThe music originated instinctively whilst being played live.\r\nThere was no concept for the composition before, only a kaleidoscope of sounds stemming from the given instruments.\r\nThe music of this CD is dedicated to the caves at the Cubik-Event near Zurich. A gloomy atmosphere was created by the vast and dark surrounding.\r\nWire-mesh seperated the audience from me and gave the feeling of being an exotic animal making strange noises in its cage surrounded by spectators.\r\nNamlook Frankfurt 1994\r\n\r\nRecorded and composed live at Cubik,\r\nZurich/Switzerland on May 28th, 1994 from 1.00 am to 2.00 am.\r\n(Erroneously is \"Zurich\" given as locality where the event took place. Cubik '94 was @ altes Gugelmannareal / Roggwil / Berne / Switzerland).",
+        "released": "1994-08-29",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Downtempo",
+                "Experimental"
+            ]
+        },
+        "title": "Namlook VI",
+        "tracklist": {
+            "track": {
+                "duration": "58:47",
+                "position": "",
+                "sub_tracks": {
+                    "track": [
+                        {
+                            "duration": "5:02",
+                            "position": "1",
+                            "title": "The Caves Of Cubik I"
+                        },
+                        {
+                            "duration": "5:01",
+                            "position": "2",
+                            "title": "The Caves Of Cubik II"
+                        },
+                        {
+                            "duration": "5:02",
+                            "position": "3",
+                            "title": "The Caves Of Cubik III"
+                        },
+                        {
+                            "duration": "5:01",
+                            "position": "4",
+                            "title": "The Caves Of Cubik IV"
+                        },
+                        {
+                            "duration": "5:02",
+                            "position": "5",
+                            "title": "The Caves Of Cubik V"
+                        },
+                        {
+                            "duration": "5:02",
+                            "position": "6",
+                            "title": "The Caves Of Cubik VI"
+                        },
+                        {
+                            "duration": "5:01",
+                            "position": "7",
+                            "title": "The Caves Of Cubik VII"
+                        },
+                        {
+                            "duration": "5:01",
+                            "position": "8",
+                            "title": "The Caves Of Cubik VIII"
+                        },
+                        {
+                            "duration": "5:02",
+                            "position": "9",
+                            "title": "The Caves Of Cubik IX"
+                        },
+                        {
+                            "duration": "5:01",
+                            "position": "10",
+                            "title": "The Caves Of Cubik X"
+                        },
+                        {
+                            "duration": "8:44",
+                            "position": "11",
+                            "title": "The Caves Of Cubik XI"
+                        }
+                    ]
+                },
+                "title": "The Caves Of Cubik"
+            }
+        }
+    }
+}

@@ -1,0 +1,352 @@
+{
+    "release": {
+        "_id": "76528",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "9592",
+                "join": "",
+                "name": "Pizzaman",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "6",
+                    "entity_type_name": "Licensed From",
+                    "id": "317309",
+                    "name": "Cowboy Records Ltd.",
+                    "resource_url": "https://api.discogs.com/labels/317309"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "5",
+                    "entity_type_name": "Licensed To",
+                    "id": "40",
+                    "name": "Loaded Records",
+                    "resource_url": "https://api.discogs.com/labels/40"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "9",
+                    "entity_type_name": "Distributed By",
+                    "id": "149122",
+                    "name": "3MV",
+                    "resource_url": "https://api.discogs.com/labels/149122"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "9",
+                    "entity_type_name": "Distributed By",
+                    "id": "465006",
+                    "name": "Sony Music Operations",
+                    "resource_url": "https://api.discogs.com/labels/465006"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "270893",
+                    "name": "Polygram Music",
+                    "resource_url": "https://api.discogs.com/labels/270893"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "24",
+                    "entity_type_name": "Engineered At",
+                    "id": "308085",
+                    "name": "Esselle Studios",
+                    "resource_url": "https://api.discogs.com/labels/308085"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "17",
+                    "entity_type_name": "Pressed By",
+                    "id": "754",
+                    "name": "EMI Records",
+                    "resource_url": "https://api.discogs.com/labels/754"
+                }
+            ]
+        },
+        "country": "UK",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "59261",
+                    "join": "",
+                    "name": "Simon Thornton",
+                    "role": "Engineer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "116018",
+                    "join": "",
+                    "name": "JC Reid",
+                    "role": "Executive-Producer",
+                    "tracks": "A1, A2"
+                },
+                {
+                    "anv": "",
+                    "id": "9592",
+                    "join": "",
+                    "name": "Pizzaman",
+                    "role": "Executive-Producer",
+                    "tracks": "AA1, AA2"
+                },
+                {
+                    "anv": "",
+                    "id": "28522",
+                    "join": "",
+                    "name": "Play Boys",
+                    "role": "Executive-Producer",
+                    "tracks": "A1, A2"
+                },
+                {
+                    "anv": "",
+                    "id": "434465",
+                    "join": "",
+                    "name": "Tim Jeffery",
+                    "role": "Executive-Producer",
+                    "tracks": "A1, A2"
+                },
+                {
+                    "anv": "",
+                    "id": "116018",
+                    "join": "",
+                    "name": "JC Reid",
+                    "role": "Producer",
+                    "tracks": "AA1, AA2"
+                },
+                {
+                    "anv": "",
+                    "id": "9592",
+                    "join": "",
+                    "name": "Pizzaman",
+                    "role": "Producer",
+                    "tracks": "A1, A2"
+                },
+                {
+                    "anv": "",
+                    "id": "28522",
+                    "join": "",
+                    "name": "Play Boys",
+                    "role": "Producer",
+                    "tracks": "AA1, AA2"
+                },
+                {
+                    "anv": "",
+                    "id": "434465",
+                    "join": "",
+                    "name": "Tim Jeffery",
+                    "role": "Producer",
+                    "tracks": "AA1, AA2"
+                },
+                {
+                    "anv": "",
+                    "id": "9592",
+                    "join": "",
+                    "name": "Pizzaman",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Barcode",
+                    "_value": "5025425301667"
+                },
+                {
+                    "_description": "Side A runout stamp",
+                    "_type": "Matrix / Runout",
+                    "_value": "12 LOAD 16 A-1-1-1"
+                },
+                {
+                    "_description": "Side AA runout stamp",
+                    "_type": "Matrix / Runout",
+                    "_value": "12 LOAD 16 AA-1-1-1"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "440",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "435"
+                },
+                {
+                    "_height": "434",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "425"
+                },
+                {
+                    "_height": "560",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "564",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "597",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": [
+                {
+                    "_catno": "12 LOAD 16",
+                    "_id": "40",
+                    "_name": "Loaded Records"
+                },
+                {
+                    "_catno": "12 LOAD 16",
+                    "_id": "5495",
+                    "_name": "Cowboy Records"
+                }
+            ]
+        },
+        "master_id": {
+            "_is_main_release": "false",
+            "content": "100602"
+        },
+        "notes": "Printed on covers:\nEngineered [...] at Esselle.\nDistributed by 3MV/Sony Music Operations\nMade in U.K.\n[Back cover only] Licensed by Cowboy Records Ltd.\n\nPrinted on labels:\nMade in UK\nLoaded Records licensed by Cowboy Records Ltd.\nDistributed by 3MV/Sony Music Operations\n[A1, AA1] Engineered [...] at Esselle Studios",
+        "released": "1994",
+        "styles": {
+            "style": "Progressive House"
+        },
+        "title": "Trippin On Sunshine",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "6:55",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "9592",
+                            "join": "",
+                            "name": "Pizzaman",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "A1",
+                    "title": "Trippin On Sunshine (Pizzaman Mix)"
+                },
+                {
+                    "duration": "7:35",
+                    "position": "A2",
+                    "title": "Trippin On Sunshine (California Sunshine Mix)"
+                },
+                {
+                    "duration": "7:50",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "28522",
+                            "join": "",
+                            "name": "Play Boys",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "AA1",
+                    "title": "Trippin On Sunshine (Play Boys Fully Loaded Dub)"
+                },
+                {
+                    "duration": "4:11",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "28522",
+                            "join": "",
+                            "name": "Play Boys",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "AA2",
+                    "title": "Trippin On Sunshine (Play Boys Mixing Thing)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "228",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=xMi4TJpgxLU",
+                    "description": "Pizzaman - Trippin' on Sunshine\r\n-------------------------------------\r\nOriginal video from VIVA Housefrau\r\n(first play : 02.09.1994)\r\n----------------------------------------\r\n\r\nArtist :\r\n---------\r\nPizzaman\r\n\r\nTitel :\r\n--------\r\nTrippin' on Sunshine",
+                    "title": "Pizzaman - Trippin' on Sunshine (Orig. video 1992/93)"
+                },
+                {
+                    "_duration": "403",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=fvgKZ5wHWd0",
+                    "description": "Pizzaman - Trippin on sunshine /// Old Skool",
+                    "title": "Pizzaman - Trippin on sunshine"
+                },
+                {
+                    "_duration": "719",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=YSRcE789mmM",
+                    "description": "Pizzaman-- Trippin On Sunshine \r\nLabel: Loaded Records\r\nCatalog#:  12 LOAD 16 \r\nFormat: Vinyl, 12 \r\nCountry: UK\r\nReleased:  1994 \r\nGenre: Electronic\r\nStyle: Progressive House",
+                    "title": "Pizzaman - Trippin on Sunshine (Play Boys Fully Loaded Dub) \u0026 (Play Boys Mixing Thing)"
+                },
+                {
+                    "_duration": "871",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=6WUOHQuTpz4",
+                    "description": "Pizzaman-- Trippin On Sunshine \r\nLabel: Loaded Records\r\nCatalog#:  12 LOAD 16 \r\nFormat: Vinyl, 12 \r\nCountry: UK\r\nReleased:  1994 \r\nGenre: Electronic\r\nStyle: Progressive House",
+                    "title": "Pizzaman - Trippin on Sunshine (Pizzaman Mix) \u0026 (California Sunshine Mix)"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,438 @@
+{
+    "release": {
+        "_id": "157218",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "14923",
+                "join": "",
+                "name": "Annie",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "9",
+                    "entity_type_name": "Distributed By",
+                    "id": "149122",
+                    "name": "3MV",
+                    "resource_url": "https://api.discogs.com/labels/149122"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "9",
+                    "entity_type_name": "Distributed By",
+                    "id": "264522",
+                    "name": "Pinnacle (3)",
+                    "resource_url": "https://api.discogs.com/labels/264522"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "40",
+                    "name": "Loaded Records",
+                    "resource_url": "https://api.discogs.com/labels/40"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "40",
+                    "name": "Loaded Records",
+                    "resource_url": "https://api.discogs.com/labels/40"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "16",
+                    "entity_type_name": "Made By",
+                    "id": "329811",
+                    "name": "Disctronics S",
+                    "resource_url": "https://api.discogs.com/labels/329811"
+                }
+            ]
+        },
+        "country": "UK",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "804752",
+                    "join": "",
+                    "name": "Red Design",
+                    "role": "Design",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "2253733",
+                    "join": "",
+                    "name": "Jasper Goodall",
+                    "role": "Illustration",
+                    "tracks": ""
+                },
+                {
+                    "anv": "Torbjorn Brundtland",
+                    "id": "17500",
+                    "join": "",
+                    "name": "Torbjørn Brundtland",
+                    "role": "Technician [Recorded \u0026 Mixed With Assistance From]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "14923",
+                    "join": "",
+                    "name": "Annie",
+                    "role": "Written-By, Producer, Arranged By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "190",
+                    "join": "",
+                    "name": "Erot",
+                    "role": "Written-By, Producer, Arranged By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "Single"
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Barcode",
+                    "_value": "5025 4254 069 5 9"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "LOAD CD 69 01 DISCTRONICS"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "514",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "465",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "528",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "596",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "Load 69CD",
+                "_id": "40",
+                "_name": "Loaded Records"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "false",
+            "content": "38501"
+        },
+        "notes": "Written, produced and arranged by Annie \u0026 Erot in the Sandal.\r\nRecorded \u0026 mixed at Studio 7.\r\n\r\nPublished by Copyright Control.\r\nMade in England.\r\n\r\n℗ Loaded Records 2000 © Loaded Records 2000",
+        "released": "2000",
+        "styles": {
+            "style": [
+                "House",
+                "Disco"
+            ]
+        },
+        "title": "The Greatest Hit",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "4:22",
+                    "position": "1",
+                    "title": "The Greatest Hit (Edit)"
+                },
+                {
+                    "duration": "7:32",
+                    "position": "2",
+                    "title": "The Greatest Hit (Extended Disco Mix)"
+                },
+                {
+                    "duration": "9:40",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "555241",
+                                "join": "",
+                                "name": "Alistair Walker",
+                                "role": "Brass",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "609767",
+                                "join": "",
+                                "name": "Dan Foster",
+                                "role": "Brass",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "Henry Collis",
+                                "id": "527945",
+                                "join": "",
+                                "name": "Henry Collins (3)",
+                                "role": "Brass",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "362489",
+                                "join": "",
+                                "name": "Paul Taylor (3)",
+                                "role": "Brass",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "815251",
+                                "join": "",
+                                "name": "Rob Owers",
+                                "role": "Brass",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "815246",
+                                "join": "",
+                                "name": "Sophie Lewis",
+                                "role": "Brass",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "417701",
+                                "join": "",
+                                "name": "Nick Glover-Horne",
+                                "role": "Engineer",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "21010",
+                                "join": "",
+                                "name": "Anu Pillai",
+                                "role": "Guitar, Bass, Keyboards [Keys], Arranged By [Strings \u0026 Brass Arrangements]",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "12228",
+                                "join": "",
+                                "name": "Freeform Five",
+                                "role": "Remix",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "21010",
+                                "join": "",
+                                "name": "Anu Pillai",
+                                "role": "Remix, Producer [Additional Production]",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "815244",
+                                "join": "",
+                                "name": "Andy Stewhouse",
+                                "role": "Strings",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "815252",
+                                "join": "",
+                                "name": "Clem Brown",
+                                "role": "Strings",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "815245",
+                                "join": "",
+                                "name": "Elliot Wise",
+                                "role": "Strings",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "815243",
+                                "join": "",
+                                "name": "Gareth James",
+                                "role": "Strings",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "815247",
+                                "join": "",
+                                "name": "Jamie Paton",
+                                "role": "Strings",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "815249",
+                                "join": "",
+                                "name": "Miori Azuma",
+                                "role": "Strings",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "815250",
+                                "join": "",
+                                "name": "Vince Doran",
+                                "role": "Strings",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "815248",
+                                "join": "",
+                                "name": "Zoe Adams",
+                                "role": "Strings",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "3",
+                    "title": "The Greatest Hit (Freeform Reform Vocal)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "331",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=STpP1nQwVhg",
+                    "description": "Norwegian classic on Loaded Records\nTrack edited: get your full copy here: http://btprt.dj/1jwyX93\nAnnie: http://www.smalltownsupersound.com/artist/annie\n\nThe Greatest Hit  was written and produced by Annie and DJ Tore Erot Kroknes. The song samples Mad",
+                    "title": "Annie - Greatest Hit (Extended Disco Mix)"
+                },
+                {
+                    "_duration": "451",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=B0C9hyLdFn0",
+                    "description": "",
+                    "title": "The Greatest Hit (Extended Disco Mix) - Annie"
+                },
+                {
+                    "_duration": "642",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=vUF4or9z380",
+                    "description": "Provided to YouTube by Warner Music Group\n\nThe Greatest Dub (Soul Mekanik Dub) · Annie\n\nThe Greatest Dubs\n\n℗ 2000 Loaded Records Limited, a BMG Company\n\nPerformance: Annie\n\nAuto-generated by YouTube.",
+                    "title": "The Greatest Dub (Soul Mekanik Dub)"
+                },
+                {
+                    "_duration": "583",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=BizK3P8Nv94",
+                    "description": "Provided to YouTube by Believe SAS\n\nGreatest Hit (Freeform Reform Vocal '2000') · Annie\n\nGreatest Hit\n\n℗ Loaded\n\nReleased on: 2000-09-04\n\nComposer: Annie\nComposer: Erot\nMusic Publisher: WEBO GIRL PUBLISHING INC BLEU-DISQUE-MUSIC CO INC W B MUSIC CORP W",
+                    "title": "Greatest Hit (Freeform Reform Vocal '2000')"
+                },
+                {
+                    "_duration": "457",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=iErLs6GdNvs",
+                    "description": "Provided to YouTube by Daredo\n\nThe Greatest Hit (Tres Remix) · Annie\n\nThe Greatest Hit\n\n℗ Annie\n\nReleased on: 2010-11-26\n\nComposer: Annie\nMusic Publisher: Copyright Control\n\nAuto-generated by YouTube.",
+                    "title": "The Greatest Hit (Tres Remix)"
+                },
+                {
+                    "_duration": "141",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=I13r9XEmopc",
+                    "description": "Provided to YouTube by Warner Music Group\n\nThe Greatest Dub (Soul Mekanik Accapella) · Annie\n\nThe Greatest Dubs\n\n℗ 2000 Loaded Records Limited, a BMG Company\n\nPerformance: Annie\n\nAuto-generated by YouTube.",
+                    "title": "The Greatest Dub (Soul Mekanik Accapella)"
+                },
+                {
+                    "_duration": "582",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=rI0Sa-HoCXY",
+                    "description": "",
+                    "title": "The Greatest Dub (Greatest Hit) by Annie"
+                },
+                {
+                    "_duration": "583",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=_dVfYIfxpY4",
+                    "description": "Provided to YouTube by Loaded Records\n\nGreatest Hit (Freeform Reform Vocal '2000') · Annie\n\nGreatest Hit\n\n℗ 2000 Loaded Records Limited, a BMG Company\n\nPerformance: Annie\nComposer, Writer: Annie, Erot in the Sandal\n\nAuto-generated by YouTube.",
+                    "title": "Greatest Hit (Freeform Reform Vocal '2000')"
+                },
+                {
+                    "_duration": "579",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=G8oMzRbAvBo",
+                    "description": "Provided to YouTube by Believe SAS\n\nThe Greatest Dubs · Annie\n\nThe Greatest Dubs\n\n℗ 2000 Loaded Records Limited, a BMG Company\n\nReleased on: 2000-09-10\n\nComposer: Annie\nComposer: Erot\nComposer: Madonna\nMusic Publisher: WEBO GIRL PUBLISHING INC BLEU-DIS",
+                    "title": "The Greatest Dubs"
+                },
+                {
+                    "_duration": "580",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=QAXPTewjwKY",
+                    "description": "Provided to YouTube by Daredo\n\nThe Greatest Hit (Original Dub Mix) · Annie\n\nThe Greatest Hit\n\n℗ Annie\n\nReleased on: 2010-11-26\n\nComposer: Annie\nMusic  Publisher: Copyright Control\n\nAuto-generated by YouTube.",
+                    "title": "The Greatest Hit (Original Dub Mix)"
+                },
+                {
+                    "_duration": "361",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=K70bEDvWgaY",
+                    "description": "http://www.discogs.com/marketplace?release_id=20846\u0026ev=rb\n\nhttp://www.soundcloud.com/rhodesman\n\n1999 norway",
+                    "title": "Annie (The Greatest Hit... 7 Dub Rework) 1999"
+                },
+                {
+                    "_duration": "384",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=TfashtpvaX0",
+                    "description": "awesome remix",
+                    "title": "Annie - Greatest Hit (Stefano Noferini \u0026 Marini Mix)HQ"
+                }
+            ]
+        }
+    }
+}

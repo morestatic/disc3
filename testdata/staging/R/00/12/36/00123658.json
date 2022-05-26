@@ -1,0 +1,193 @@
+{
+    "release": {
+        "_id": "123658",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "293020",
+                "join": "",
+                "name": "Create",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "17",
+                    "entity_type_name": "Pressed By",
+                    "id": "267946",
+                    "name": "CD Plant AB",
+                    "resource_url": "https://api.discogs.com/labels/267946"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "579933",
+                    "name": "Octopus One San Francisco",
+                    "resource_url": "https://api.discogs.com/labels/579933"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Complete and Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "58657",
+                    "join": "",
+                    "name": "Peter Kuhlmann",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "41714",
+                    "join": "",
+                    "name": "Charles Uzzell-Edwards",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Limited Edition",
+                        "Album"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Barcode",
+                    "_value": "CD PLANT AB PW 26 CDM01"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "471",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "500",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PW 26",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "If you blot out sense and sound, what do you hear?\r\nIf you blot out time and matter, what do you hear?\r\nFrom macrocosm to microcosm, what do you hear?\r\n\r\nAs we come closer to the magic structure, the images fade away...\r\nOnly one means remains for approaching it more closely...sound...\r\nIf you blot out sense and sound, what do you hear?\r\nIf you blot out time and matter, what do you hear?\r\n\r\nSound...what do you hear...perfection\r\n\r\nSan Francisco 1995\r\nLimitation: 1000\r\n\r\nRecorded at Octopus Sound Studio, SFO.",
+        "released": "1996-02-26",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Downtempo",
+                "Dub",
+                "Minimal"
+            ]
+        },
+        "title": "Create 2",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "21:10",
+                    "position": "1",
+                    "title": "Environmental San Francisco I"
+                },
+                {
+                    "duration": "11:26",
+                    "position": "2",
+                    "title": "Siddhartha"
+                },
+                {
+                    "duration": "20:54",
+                    "position": "3",
+                    "title": "OM"
+                },
+                {
+                    "duration": "10:50",
+                    "position": "4",
+                    "title": "Environmental San Francisco II"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "1271",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=CxzxU9kfvlk",
+                    "description": "Producer - Peter Namlook\nWritten-By - Charles Uzzell-Edwards, Pete Namlook\n\nCreate - Create 2\n\nLabel: Fax +49-69/450464 - PW 26\nFormat: CD, Limited Edition, Album\nCountry: Germany\nReleased: 26 Feb 1996\nGenre: Electronic\nStyle: Ambient \n\nIf you blot out se",
+                    "title": "Create - Environmental San Francisco I"
+                },
+                {
+                    "_duration": "687",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=YLdx2e3EXpg",
+                    "description": "One of the Namster's best ever tracks delves deeply into Buddhism and existential sonic dread.",
+                    "title": "Pete Namlook \u0026 Charles Uzzell-Edwards - Siddhartha"
+                },
+                {
+                    "_duration": "1255",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=8agOgyT0v6s",
+                    "description": "https://www.discogs.com/Create-Create-2/release/123658",
+                    "title": "Create╭ ╯OM"
+                }
+            ]
+        }
+    }
+}

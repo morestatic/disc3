@@ -1,0 +1,247 @@
+{
+    "release": {
+        "_id": "16577",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "15287",
+                "join": "",
+                "name": "Deltraxx",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": {
+                "catno": "",
+                "entity_type": "10",
+                "entity_type_name": "Manufactured By",
+                "id": "291931",
+                "name": "CD Plant MFG",
+                "resource_url": "https://api.discogs.com/labels/291931"
+            }
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "7649",
+                    "join": "",
+                    "name": "DJ Criss",
+                    "role": "Written-By",
+                    "tracks": "1, 2, 4, 5, 7, 8"
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "CD PLANT MFG PK08/83 CDM01"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "461",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/83",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Limited to 500 copies.\r\n\r\nExplore your mind...\r\n\r\nDELTRAXX\r\nFRANKFURT 1993.\r\n\r\nSpecial thanks to:\r\n\r\nElisabeth\r\nFabia\r\nLudwig Rehberg of EMS\r\nKathrin Kruse.\r\n\r\nF.J. und Monika\r\nMarkus\r\nNadine.",
+        "released": "1993-11-15",
+        "styles": {
+            "style": [
+                "Acid",
+                "Ambient",
+                "Hard Trance",
+                "Techno"
+            ]
+        },
+        "title": "Deltraxx",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "7:44",
+                    "position": "1",
+                    "title": "Altered States (Unfused \u0026 Tuned)"
+                },
+                {
+                    "duration": "5:37",
+                    "position": "2",
+                    "title": "The Real Secret"
+                },
+                {
+                    "duration": "5:07",
+                    "position": "3",
+                    "title": "Identification"
+                },
+                {
+                    "duration": "5:25",
+                    "position": "4",
+                    "title": "Orbit (Half Moon Bay Mix)"
+                },
+                {
+                    "duration": "5:37",
+                    "position": "5",
+                    "title": "Arcangel (Red Stripe Mix)"
+                },
+                {
+                    "duration": "6:47",
+                    "position": "6",
+                    "title": "Quadra (Lost City)"
+                },
+                {
+                    "duration": "5:59",
+                    "position": "7",
+                    "title": "Welcome To Voice Print Identification"
+                },
+                {
+                    "duration": "5:47",
+                    "position": "8",
+                    "title": "Explorers Of The Mind (Legal Version)"
+                },
+                {
+                    "duration": "5:08",
+                    "position": "9",
+                    "title": "Slow Planet"
+                },
+                {
+                    "duration": "8:00",
+                    "position": "10",
+                    "title": "Alaska Slowater"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "480",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=fpC5vDEj7HE",
+                    "description": "Music by:  Pete Namlook 1993\nVideo edit by: Abstructure\n\nReleased on the Deltraxx Album and on the Deltraxx 4 12 EP on Fax Records",
+                    "title": "Deltraxx - Alaska Slowater"
+                },
+                {
+                    "_duration": "3705",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=bwj7FBd0WwE",
+                    "description": "Artist: Pete Namlook \u0026 DJ Criss\nAlbum: Deltraxx\nLabel: Fax +49-69/450464\nYear: 1993\n\nTracklist:\n1. Altered States (Unfused \u0026 Tuned) [0:00]\n2. The Real Secret [7:47]\n3. Identification [13:30]\n4. Orbit (Half Moon Bay Mix) [18:41]\n5. Arcangel (Red Stripe Mix",
+                    "title": "Pete Namlook \u0026 DJ Criss - Deltraxx (Full Album) [1993]"
+                },
+                {
+                    "_duration": "329",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=4VkeAyL3Xys",
+                    "description": "http://www.discogs.com/Deltraxx-Deltraxx/release/16577",
+                    "title": "Deltraxx - Orbit (Half Moon Bay Mix)"
+                },
+                {
+                    "_duration": "342",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=zgMDqz3fuoo",
+                    "description": "Deltraxx ‎-- Deltraxx 3\nLabel: Fax +49-69/450464 ‎-- PK 08/35\nFormat: Vinyl, 12, Limited Edition \nCountry: Germany\nReleased: 11 Jan 1993\nGenre: Electronic\nStyle: Techno, Acid, Ambient",
+                    "title": "Deltraxx ‎-- Arcangel (red stripe mix) 1993"
+                },
+                {
+                    "_duration": "413",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Gng4A0XUL98",
+                    "description": "http://www.discogs.com/Deltraxx-Deltraxx/release/16577",
+                    "title": "Deltraxx - Quadra (Lost City)"
+                },
+                {
+                    "_duration": "362",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=oZPjXqw4VvA",
+                    "description": "PETE NAMLOOK \u0026 DJ CRISIS-WELCOME TO VOICE PRINT IDENTIFICATION\n\nOLD SCHOOL ELECTRONICA\nTECHNO,TRANCE \u0026 RAVE",
+                    "title": "PETE NAMLOOK \u0026 DJ CRISIS-WELCOME TO VOICE PRINT IDENTIFICATION.wmv"
+                },
+                {
+                    "_duration": "705",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=KNin1n9KqCs",
+                    "description": "Deltraxx ‎-- Explorers Of The Mind \nFax +49-69/450464 \nacid techno \n1993",
+                    "title": "Deltraxx ‎-- Explorers Of The Mind  ( Legal Mix ) 1993"
+                }
+            ]
+        }
+    }
+}

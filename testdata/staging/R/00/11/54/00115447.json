@@ -1,0 +1,261 @@
+{
+    "release": {
+        "_id": "115447",
+        "_status": "Accepted",
+        "artists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "4389",
+                    "join": "Featuring",
+                    "name": "CZR",
+                    "role": "",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "28521",
+                    "join": "",
+                    "name": "Darryl Pandy",
+                    "role": "",
+                    "tracks": ""
+                }
+            ]
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "29",
+                    "entity_type_name": "Mastered At",
+                    "id": "270907",
+                    "name": "Metropolis Mastering, Ltd",
+                    "resource_url": "https://api.discogs.com/labels/270907"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "10",
+                    "entity_type_name": "Manufactured By",
+                    "id": "321147",
+                    "name": "Mix Connection",
+                    "resource_url": "https://api.discogs.com/labels/321147"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "9",
+                    "entity_type_name": "Distributed By",
+                    "id": "321147",
+                    "name": "Mix Connection",
+                    "resource_url": "https://api.discogs.com/labels/321147"
+                }
+            ]
+        },
+        "country": "US",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "F. Rodriguez",
+                    "id": "31951",
+                    "join": "",
+                    "name": "Frankie \"Hollywood\" Rodriguez",
+                    "role": "Co-producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "471429",
+                    "join": "",
+                    "name": "Mark Richardson (3)",
+                    "role": "Mastered By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "Cesar H.",
+                    "id": "548965",
+                    "join": "",
+                    "name": "Cesar Hernandez",
+                    "role": "Producer, Mixed By, Arranged By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "D. Pandy",
+                    "id": "28521",
+                    "join": "",
+                    "name": "Darryl Pandy",
+                    "role": "Vocals",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Run-out side A",
+                    "_type": "Matrix / Runout",
+                    "_value": "MDR 9601-1 A M.M.M.J.R."
+                },
+                {
+                    "_description": "Run-out side B",
+                    "_type": "Matrix / Runout",
+                    "_value": "MDR 9601-1 B RE M.M.M.J.R."
+                },
+                {
+                    "_type": "Barcode",
+                    "_value": "7 13405 96011 3"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "599",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "MDR9601-1",
+                "_id": "20",
+                "_name": "Moody Recordings"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "265159"
+        },
+        "released": "1998",
+        "styles": {
+            "style": "Garage House"
+        },
+        "title": "Do You Want My Love?",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A1",
+                    "title": "Do You Want My Love? (CZR's Melodic Mix)"
+                },
+                {
+                    "duration": "",
+                    "position": "A2",
+                    "title": "Do You Want My Love? (Tucker's Frat House Anthem)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "Mijango",
+                            "id": "77055",
+                            "join": "",
+                            "name": "Andres Mijangos",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "B1",
+                    "title": "Do You Want My Love? (Mijango's Club Mix)"
+                },
+                {
+                    "duration": "",
+                    "position": "B2",
+                    "title": "Do You Want My Love? (Rick's Serpent \u0026 The Dragon Remix)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "429",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=JGBYaxOeNrM",
+                    "description": "LINK DE DESCARGA:\nhttp://www.mediafire.com/file/epp94x1kqaza676/CZR_Feat._Darryl_Pandy_-_Do_You_Want_My_Love_%2528Rick%2527s_Serpent_%2526_The_Dragon_Remix%2529.mp3/file",
+                    "title": "CZR Feat. Darryl Pandy - Do You Want My Love (Rick's Serpent \u0026 The Dragon Remix)"
+                },
+                {
+                    "_duration": "437",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=BUH6NfxQzMo",
+                    "description": "Provided to YouTube by Symphonic Distribution\n\nDo You Want My Love (feat. Darryl Pandy) · CZR · Darryl Pandy · Rick\n\nDo You Want My Love (feat. Darryl Pandy)\n\n℗ 2013 Mixcon Music (ASCAP)\n\nReleased on: 2013-08-25\n\nFeaturing: Darryl Pandy\nRemixer: Rick",
+                    "title": "Do You Want My Love (feat. Darryl Pandy)"
+                },
+                {
+                    "_duration": "395",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=65-NYnknbAM",
+                    "description": "Provided to YouTube by Symphonic Distribution\n\nDo You Want My Love (feat. Darryl Pandy) · CZR · Darryl Pandy\n\nDo You Want My Love (feat. Darryl Pandy)\n\n℗ 2013 Mixcon Music (ASCAP)\n\nReleased on: 2013-08-25\n\nFeaturing: Darryl Pandy\n\nAuto-generated by Yo",
+                    "title": "Do You Want My Love (feat. Darryl Pandy)"
+                },
+                {
+                    "_duration": "210",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=rQckeKV3QZI",
+                    "description": "Label: Moody Recordings \nFormat: Vinyl, 12, 33 ⅓ RPM\nCountry: US\nReleased: 1998\nGenre: Electronic\nStyle: Garage House\n\nTracklist \n  \nB2   Do You Want My Love? (Rick's Serpent \u0026 The Dragon Remix)",
+                    "title": "CZR Featuring Darryl Pandy - Do You Want My Love (Preview)"
+                },
+                {
+                    "_duration": "516",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=FStuLbxX8qU",
+                    "description": "Provided to YouTube by Symphonic Distribution\n\nDo You Want My Love (feat. Darryl Pandy) · CZR · Darryl Pandy · Mijango\n\nDo You Want My Love (feat. Darryl Pandy)\n\n℗ 2013 Mixcon Music (ASCAP)\n\nReleased on: 2013-08-25\n\nFeaturing: Darryl Pandy\nRemixer: M",
+                    "title": "Do You Want My Love (feat. Darryl Pandy)"
+                },
+                {
+                    "_duration": "359",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=ONLfCgiE_iE",
+                    "description": "Provided to YouTube by Symphonic Distribution\n\nDo You Want My Love (feat. Darryl Pandy) · CZR · Darryl Pandy · Tucker\n\nDo You Want My Love (feat. Darryl Pandy)\n\n℗ 2013 Mixcon Music (ASCAP)\n\nReleased on: 2013-08-25\n\nFeaturing: Darryl Pandy\nRemixer: Tu",
+                    "title": "Do You Want My Love (feat. Darryl Pandy)"
+                },
+                {
+                    "_duration": "4168",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=s0ssr_-mhn0",
+                    "description": "Hispanic Syndicate Empire Intro\n\nCZR - Deep Into The Track\n\nCZR - Structure\n\nJoey Beltram - Flashcube\n\nFast Eddie - Clap Your Hands\n\nDo It Real - Walk Away (CZR Remix)\n\nNYC DJ's - Shake It (CZR Remix)\n\nP.J. Project, The - Nice \u0026 Fast\n\nHouz' Mon - 101 Rmx",
+                    "title": "DJ CZR - Chicago House Experience"
+                }
+            ]
+        }
+    }
+}

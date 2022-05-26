@@ -1,0 +1,1110 @@
+{
+    "release": {
+        "_id": "88289",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "194",
+                "join": "",
+                "name": "Various",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "3894804",
+                    "join": "",
+                    "name": "Ulrike \"Pütz\" Böcking",
+                    "role": "Liner Notes [Recipes]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "2022694",
+                    "join": "",
+                    "name": "Andre Ruello",
+                    "role": "Liner Notes [Translation Help]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "3894805",
+                    "join": "",
+                    "name": "Klara Funkel",
+                    "role": "Liner Notes [Translation Help]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "835",
+                    "join": "",
+                    "name": "Richie Hawtin",
+                    "role": "Liner Notes [Translation Help]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "3894805",
+                    "join": "",
+                    "name": "Klara Funkel",
+                    "role": "Other [Spiritual Help]",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "4",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Compilation",
+                        "Limited Edition",
+                        "Mixed"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_type": "Barcode",
+                "_value": "8 07297 02442 5"
+            }
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "587",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "587",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "474",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "500",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                },
+                {
+                    "_height": "500",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                },
+                {
+                    "_height": "500",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                },
+                {
+                    "_height": "500",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                },
+                {
+                    "_height": "245",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PKPWPS 6",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "188744"
+        },
+        "notes": "Limitation: 1,000. Released to celebrate the 10th anniversary of Fax.\n\nThe tracklist above reproduce the contents of the release as printed on the booklet, it does not match the actual tracks on the discs as the pieces are mixed over long stretches, overlap each other, and may run across 2 or 3 disc tracks.\n\n1-10 and 4-06 artist name written as SHADO\n3-03 artist name written as New Organic Life\n4-08 artist name written as EMC\n4-12 artist name written as Seasons Greetings",
+        "released": "2002-11-11",
+        "styles": {
+            "style": [
+                "Abstract",
+                "Downtempo",
+                "Ambient"
+            ]
+        },
+        "title": "The Ambient Cookbook II",
+        "tracklist": {
+            "track": [
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "2909",
+                            "join": "",
+                            "name": "Silence",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "1-01",
+                    "title": "Omid/Hope"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "5279",
+                            "join": "",
+                            "name": "Air (2)",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "1-02",
+                    "title": "Clearing Your Head"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "2907",
+                            "join": "",
+                            "name": "Escape",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "1-03",
+                    "title": "Trip From Mars"
+                },
+                {
+                    "artists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "1910",
+                                "join": "/",
+                                "name": "Pete Namlook",
+                                "role": "",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "213509",
+                                "join": "",
+                                "name": "Hubertus Held",
+                                "role": "",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "duration": "",
+                    "position": "1-04",
+                    "title": "Missing You"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "25453",
+                            "join": "",
+                            "name": "Psychonavigation",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "1-05",
+                    "title": "Telepathy II"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "2908",
+                            "join": "",
+                            "name": "Sequential",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "1-06",
+                    "title": "Sequenchill"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "2908",
+                            "join": "",
+                            "name": "Sequential",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "1-07",
+                    "title": "Lost In The Sea"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "5374582",
+                            "join": "",
+                            "name": "Cœur Atomique",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "1-08",
+                    "title": "Tuff Transmitter"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1910",
+                            "join": "",
+                            "name": "Pete Namlook",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "1-09",
+                    "title": "Noise Atoms"
+                },
+                {
+                    "artists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "1910",
+                                "join": "\u0026",
+                                "name": "Pete Namlook",
+                                "role": "",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "518861",
+                                "join": "",
+                                "name": "Bobby Bird (2)",
+                                "role": "",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "duration": "",
+                    "position": "1-10",
+                    "title": "Begend"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "15317",
+                            "join": "",
+                            "name": "Jet Chamber",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "1-11",
+                    "title": "Clearing Your Head"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "15289",
+                            "join": "",
+                            "name": "Syn",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "1-12",
+                    "title": "The Flight"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "293198",
+                            "join": "",
+                            "name": "Virtual Vices",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "1-13",
+                    "title": "We Don't Mind The Rain"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "Namlook",
+                            "id": "1910",
+                            "join": "",
+                            "name": "Pete Namlook",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "1-14",
+                    "title": "The Real World"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "2912",
+                            "join": "",
+                            "name": "Dreamfish",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "1-15",
+                    "title": "Fishology"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "5279",
+                            "join": "",
+                            "name": "Air (2)",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "2-01",
+                    "title": "Elle A Du Shell"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "292739",
+                            "join": "",
+                            "name": "From Within",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "2-02",
+                    "title": "Silent Intelligence - Parts 5-6"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "14805",
+                            "join": "",
+                            "name": "The Fires Of Ork",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "2-03",
+                    "title": "In Heaven"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "2909",
+                            "join": "",
+                            "name": "Silence",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "2-04",
+                    "title": "Dream Time"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "15289",
+                            "join": "",
+                            "name": "Syn",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "2-05",
+                    "title": "Night Time Pleasures"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "29599",
+                            "join": "",
+                            "name": "The Dark Side Of The Moog",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "2-06",
+                    "title": "Set The Controls For The Heart Of The Mother - Part 6"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "25453",
+                            "join": "",
+                            "name": "Psychonavigation",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "2-07",
+                    "title": "Telepathy II"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "69011",
+                            "join": "",
+                            "name": "Shades Of Orion",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "2-08",
+                    "title": "Betelgeuzian Ritual"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "4771613",
+                            "join": "",
+                            "name": "Ambiant Otaku",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "2-09",
+                    "title": "Magnetic Field"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "264616",
+                            "join": "",
+                            "name": "2350 Broadway",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "2-10",
+                    "title": "Morning Spirit"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "Move D/Namlook",
+                            "id": "293206",
+                            "join": "",
+                            "name": "Move D / Namlook",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "2-11",
+                    "title": "False Decodings"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "3936",
+                            "join": "",
+                            "name": "Koolfang",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "2-12",
+                    "title": "Counter"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1910",
+                            "join": "",
+                            "name": "Pete Namlook",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "2-13",
+                    "title": "Environmental Observation Post"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "15317",
+                            "join": "",
+                            "name": "Jet Chamber",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "2-14",
+                    "title": "Tightness"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "5279",
+                            "join": "",
+                            "name": "Air (2)",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "2-15",
+                    "title": "Est-Ce Que L'Amour Fait Mal ?"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "5279",
+                            "join": "",
+                            "name": "Air (2)",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "2-16",
+                    "title": "Je Suis Triste Et Seul Ici"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "2909",
+                            "join": "",
+                            "name": "Silence",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "3-01",
+                    "title": "Hello From The Children Of Planet Earth"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "5279",
+                            "join": "",
+                            "name": "Air (2)",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "3-02",
+                    "title": "Travelling Without Moving - Trip 1"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1910",
+                            "join": "",
+                            "name": "Pete Namlook",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "3-03",
+                    "title": "Interview With New And Native Organic Life"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1306",
+                            "join": "",
+                            "name": "Pulsation",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "3-04",
+                    "title": "Pulsar"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "15317",
+                            "join": "",
+                            "name": "Jet Chamber",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "3-05",
+                    "title": "Tightness"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "2909",
+                            "join": "",
+                            "name": "Silence",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "3-06",
+                    "title": "Into The Desert"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "14805",
+                            "join": "",
+                            "name": "The Fires Of Ork",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "3-07",
+                    "title": "Talk To The Stars"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "15289",
+                            "join": "",
+                            "name": "Syn",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "3-08",
+                    "title": "The Flight"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "25453",
+                            "join": "",
+                            "name": "Psychonavigation",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "3-09",
+                    "title": "Mind Over Matter"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "293023",
+                            "join": "",
+                            "name": "Planetarium",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "3-10",
+                    "title": "Spirit Preparation"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "292997",
+                            "join": "",
+                            "name": "Miles Apart",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "3-11",
+                    "title": "Soft CRD"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "2909",
+                            "join": "",
+                            "name": "Silence",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "3-12",
+                    "title": "Bedouin Love"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "264879",
+                            "join": "",
+                            "name": "Outland (2)",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "3-13",
+                    "title": "African Virus - Part 3"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "2908",
+                            "join": "",
+                            "name": "Sequential",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "3-14",
+                    "title": "Sonne"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "293197",
+                            "join": "",
+                            "name": "Possible Gardens",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "3-15",
+                    "title": "Breeding Machine"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "4295",
+                            "join": "",
+                            "name": "Jochem Paap",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "3-16",
+                    "title": "DX Synth"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "25453",
+                            "join": "",
+                            "name": "Psychonavigation",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "4-01",
+                    "title": "Life Eternal"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "2910",
+                            "join": "",
+                            "name": "Hearts Of Space",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "4-02",
+                    "title": "Drawn"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "292991",
+                            "join": "",
+                            "name": "Sultan (2)",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "4-03",
+                    "title": "Gel Gör Beni Ask N'eyledi"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "25453",
+                            "join": "",
+                            "name": "Psychonavigation",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "4-04",
+                    "title": "DSPill"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "25453",
+                            "join": "",
+                            "name": "Psychonavigation",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "4-05",
+                    "title": "Trauntoniolo"
+                },
+                {
+                    "artists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "1910",
+                                "join": "\u0026",
+                                "name": "Pete Namlook",
+                                "role": "",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "518861",
+                                "join": "",
+                                "name": "Bobby Bird (2)",
+                                "role": "",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "duration": "",
+                    "position": "4-06",
+                    "title": "Secret Location"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "264616",
+                            "join": "",
+                            "name": "2350 Broadway",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "4-07",
+                    "title": "Rich Dreams"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1910",
+                            "join": "",
+                            "name": "Pete Namlook",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "4-08",
+                    "title": "Vocal Atoms"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "293198",
+                            "join": "",
+                            "name": "Virtual Vices",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "4-09",
+                    "title": "Last Dance On Luna"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "2909",
+                            "join": "",
+                            "name": "Silence",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "4-10",
+                    "title": "While Angels Sleep"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "2909",
+                            "join": "",
+                            "name": "Silence",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "4-11",
+                    "title": "Master Of The Sky"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1910",
+                            "join": "",
+                            "name": "Pete Namlook",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "4-12",
+                    "title": "Winter"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "292991",
+                            "join": "",
+                            "name": "Sultan (2)",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "4-13",
+                    "title": "Yenilik #8"
+                }
+            ]
+        },
+        "videos": {
+            "video": {
+                "_duration": "18121",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=0VrtsGMzows",
+                "description": "Released in November, 2002 on FAX +49-69/450464\n4xCD compilation of tracks celebrating the 10-year anniversary of FAX +49-69/450464. Tracks are mixed together with many songs overlapping for long stretches.\nLater released as a CDr in the mp3 format, autog",
+                "title": "[PKPWPS 6] Pete Namlook \u0026 various artists - The Ambient Cookbook II"
+            }
+        }
+    }
+}

@@ -1,0 +1,223 @@
+{
+    "release": {
+        "_id": "16626",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "292994",
+                "join": "",
+                "name": "Amp (5)",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": {
+                "catno": "",
+                "entity_type": "23",
+                "entity_type_name": "Recorded At",
+                "id": "294386",
+                "name": "Klanglabor Frankfurt",
+                "resource_url": "https://api.discogs.com/labels/294386"
+            }
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "2118078",
+                    "join": "",
+                    "name": "PEK (3)",
+                    "role": "Graphics",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "9847",
+                    "join": "",
+                    "name": "Dandy Jack",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "58657",
+                    "join": "",
+                    "name": "Peter Kuhlmann",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "9847",
+                    "join": "",
+                    "name": "Dandy Jack",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_type": "Label Code",
+                "_value": "LC 6269"
+            }
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "599",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "471",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "593",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "598"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/117",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Limitation: 1000\r\nRecorded at Klanglabor, Frankfurt",
+        "released": "1996-07-01",
+        "styles": {
+            "style": [
+                "IDM",
+                "Techno",
+                "Electro"
+            ]
+        },
+        "title": "Amp",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "7:36",
+                    "position": "1",
+                    "title": "Chica"
+                },
+                {
+                    "duration": "7:02",
+                    "position": "2",
+                    "title": "Strahl"
+                },
+                {
+                    "duration": "9:41",
+                    "position": "3",
+                    "title": "Kuch"
+                },
+                {
+                    "duration": "11:35",
+                    "position": "4",
+                    "title": "Staircase"
+                },
+                {
+                    "duration": "8:20",
+                    "position": "5",
+                    "title": "Adolescence"
+                },
+                {
+                    "duration": "6:33",
+                    "position": "6",
+                    "title": "Tale Of The Experi-Men"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "456",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=3IhU-f4qXRE",
+                    "description": "",
+                    "title": "Pete Namlook \u0026 Dandy Jack   Chica"
+                },
+                {
+                    "_duration": "421",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=PHsP1GbbFGc",
+                    "description": "",
+                    "title": "Pete Namlook \u0026 Dandy Jack   Strahl"
+                },
+                {
+                    "_duration": "582",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=fxxwX-LonMg",
+                    "description": "",
+                    "title": "Pete Namlook \u0026 Dandy Jack   Kuch"
+                },
+                {
+                    "_duration": "696",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=EXm9DlP3HOA",
+                    "description": "",
+                    "title": "Pete Namlook \u0026 Dandy Jack   Staircase"
+                },
+                {
+                    "_duration": "496",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=VMHlcr38lOU",
+                    "description": "",
+                    "title": "Pete Namlook \u0026 Dandy Jack   Adolescence"
+                },
+                {
+                    "_duration": "376",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Q9Ifo1Q2wjA",
+                    "description": "",
+                    "title": "Pete Namlook \u0026 Dandy Jack   Tale of the Experi Men"
+                }
+            ]
+        }
+    }
+}

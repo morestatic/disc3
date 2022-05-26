@@ -1,0 +1,249 @@
+{
+    "release": {
+        "_id": "54632",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "194",
+                "join": "",
+                "name": "Various",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": {
+                "catno": "",
+                "entity_type": "17",
+                "entity_type_name": "Pressed By",
+                "id": "73708",
+                "name": "DOCdata",
+                "resource_url": "https://api.discogs.com/labels/73708"
+            }
+        },
+        "country": "Belgium",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "495168",
+                "join": "",
+                "name": "DJ Groove Merchant",
+                "role": "Compiled By",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Compilation",
+                        "Sampler"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Rights Society",
+                    "_value": "sabam/biem"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "DOCdata V2 VVP1001012P"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "300",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "299"
+                },
+                {
+                    "_height": "299",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "300"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PLASTIKSSAMP 005",
+                "_id": "7506",
+                "_name": "Plastiks Magazine"
+            }
+        },
+        "notes": "Comes free with Plastiks nr. 43.\n\nTrack 7 incorrectly listed as \"Úú..ú\"",
+        "released": "2000",
+        "styles": {
+            "style": [
+                "Freestyle",
+                "House"
+            ]
+        },
+        "title": "Plastiks Sampler",
+        "tracklist": {
+            "track": [
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "409899",
+                            "join": "",
+                            "name": "Etienne De Crécy",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:28",
+                    "position": "1",
+                    "title": "Out Of My Hands"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "43618",
+                            "join": "",
+                            "name": "Orishas",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:14",
+                    "position": "2",
+                    "title": "Connexión"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "Awayteam",
+                            "id": "64068",
+                            "join": "",
+                            "name": "The Away Team",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:26",
+                    "position": "3",
+                    "title": "Struggler (Long Arm Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "43619",
+                            "join": "",
+                            "name": "10 Cents",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "3:03",
+                    "position": "4",
+                    "title": "Think Different"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "20",
+                            "join": "",
+                            "name": "Percy X",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:45",
+                    "position": "5",
+                    "title": "Break It Down"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "9972",
+                            "join": "",
+                            "name": "Nigo",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:03",
+                    "position": "6",
+                    "title": "Kung Fu Fightin'"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "345",
+                            "join": "",
+                            "name": "Jamie Lidell",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:08",
+                    "position": "7",
+                    "title": "Daddy's Car"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "5102",
+                            "join": "",
+                            "name": "Leila",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:46",
+                    "position": "8",
+                    "title": "Thanks, Mr. Jones"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "30236",
+                            "join": "",
+                            "name": "Wizards Of Ooze",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "2:54",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "43620",
+                            "join": "",
+                            "name": "John Weener",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "9",
+                    "title": "Big Red Balloon (John Weener Remix)"
+                }
+            ]
+        }
+    }
+}

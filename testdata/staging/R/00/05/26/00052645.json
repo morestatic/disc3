@@ -1,0 +1,191 @@
+{
+    "release": {
+        "_id": "52645",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "4771676",
+                "join": "",
+                "name": "The MS-Series",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": {
+                "catno": "",
+                "entity_type": "10",
+                "entity_type_name": "Manufactured By",
+                "id": "291931",
+                "name": "CD Plant MFG",
+                "resource_url": "https://api.discogs.com/labels/291931"
+            }
+        },
+        "country": "Germany",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "41716",
+                "join": "",
+                "name": "Pino \u0026 Wildjamin",
+                "role": "Written-By",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "CD PLANT MFG PS 08/70 CDM01"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "586",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "568"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "584"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "590"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "590"
+                },
+                {
+                    "_height": "476",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "585"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PS 08/70",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Frankfurt 1995\r\nSpecial thanks to: Udo, Rene, Chris², Soul\r\nLimitation: 1000",
+        "released": "1995-05-02",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Dub",
+                "Techno",
+                "Trance"
+            ]
+        },
+        "title": "The MS-Series",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "12:18",
+                    "position": "1",
+                    "title": "Monochill"
+                },
+                {
+                    "duration": "12:20",
+                    "position": "2",
+                    "title": "Voltage Control"
+                },
+                {
+                    "duration": "9:17",
+                    "position": "3",
+                    "title": "No Comment"
+                },
+                {
+                    "duration": "7:54",
+                    "position": "4",
+                    "title": "Compress It"
+                },
+                {
+                    "duration": "30:10",
+                    "position": "5",
+                    "title": "Dub"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "515",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=pOOBMrpHsoI",
+                    "description": "The MS-Series  - No Comment [FAX Records] (1995)\n\nSello: Fax +49-69/450464 ‎– PS 08/70\nFormato: CD, Album, Limited Edition\nPaís: Germany\nPublicado: 02 May 1995\nGénero: Electronic\nEstilo: Ambient, Dub, Techno, Trance\n\n            Written-By – Pino",
+                    "title": "The MS-Series  - No Comment [FAX Records] (1995)"
+                },
+                {
+                    "_duration": "475",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=w10Uvuyvq-k",
+                    "description": "Old school trance gem. Release: Pino \u0026 Wildjamin - The MS-Series / Fax +49-69/450464",
+                    "title": "Pino \u0026 Wildjamin - Compress It (1995)"
+                },
+                {
+                    "_duration": "561",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=qKilgyn_gRQ",
+                    "description": "https://www.discogs.com/The-MS-Series-The-MS-Series/release/52645",
+                    "title": "The MS-Series - No Comment"
+                },
+                {
+                    "_duration": "4320",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=bvjIKXieScA",
+                    "description": "Artist: Pino \u0026 Wildjamin\nAlbum: The MS-Series\nLabel: Fax +49-69/450464\nYear: 1995\n\nTracklist:\n1. Monochill [0:00] **\n2. Voltage Control [12:18] **\n3. No Comment [24:38] **\n4. Compress It [33:55]\n5. Dub [41:49] **\n\n** THIS TRACK NEVER BEFORE HEARD ON YOUTU",
+                    "title": "Pino \u0026 Wildjamin - The MS-Series (Full Album) [1995]"
+                }
+            ]
+        }
+    }
+}

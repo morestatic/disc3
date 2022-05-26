@@ -1,0 +1,127 @@
+{
+    "release": {
+        "_id": "182091",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "15293",
+                "join": "",
+                "name": "Oversize Pussy",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "Germany",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "DJ Pussy Lover",
+                    "id": "61940",
+                    "join": "",
+                    "name": "Pussylover",
+                    "role": "Written-By",
+                    "tracks": "A, B1"
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "450",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "450"
+                },
+                {
+                    "_height": "450",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "450"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/45",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Limitation: 500\r\n\"DEDICATED TO ALL CYBERSPACE PUSSIES OF THIS PLANET\" \r\nIs Etched On Runout Groove On Side B",
+        "released": "1993-02-22",
+        "styles": {
+            "style": [
+                "Techno",
+                "Acid"
+            ]
+        },
+        "title": "Oversize Pussy 3",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "5:28",
+                    "position": "A",
+                    "title": "Rardar"
+                },
+                {
+                    "duration": "6:05",
+                    "position": "B1",
+                    "title": "Tobago"
+                },
+                {
+                    "duration": "4:47",
+                    "position": "B2",
+                    "title": "Orange"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "325",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=B4wyjBrhaV4",
+                    "description": "http://www.discogs.com/Oversize-Pussy-Oversize-Pussy-3/release/182091\n\r\n\r-uploaded in HD at http://www.TunesToTube.com",
+                    "title": "Oversize Pussy - Rardar (Techno 1993)"
+                },
+                {
+                    "_duration": "291",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=oBB9f-AXPr0",
+                    "description": "http://www.discogs.com/Oversize-Pussy-Oversize-Pussy-3/release/182091\n\r\n\r-uploaded in HD at http://www.TunesToTube.com",
+                    "title": "Oversize Pussy - Orange (Techno 1993)"
+                }
+            ]
+        }
+    }
+}

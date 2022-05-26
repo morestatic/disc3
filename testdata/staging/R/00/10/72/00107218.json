@@ -1,0 +1,350 @@
+{
+    "release": {
+        "_id": "107218",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "26043",
+                "join": "",
+                "name": "Alien Community",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "10",
+                    "entity_type_name": "Manufactured By",
+                    "id": "264196",
+                    "name": "KAO Optical Products",
+                    "resource_url": "https://api.discogs.com/labels/264196"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "63",
+                    "name": "Instinct Records",
+                    "resource_url": "https://api.discogs.com/labels/63"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "6",
+                    "entity_type_name": "Licensed From",
+                    "id": "60",
+                    "name": "Fax +49-69/450464",
+                    "resource_url": "https://api.discogs.com/labels/60"
+                }
+            ]
+        },
+        "country": "US",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "2749220",
+                    "join": "",
+                    "name": "SFX Lab, Inc.",
+                    "role": "Graphics",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "33693",
+                    "join": "",
+                    "name": "Jonah Sharp",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": [
+                {
+                    "_name": "CD",
+                    "_qty": "1",
+                    "_text": "",
+                    "descriptions": {
+                        "description": "Album"
+                    }
+                },
+                {
+                    "_name": "CD",
+                    "_qty": "1",
+                    "_text": "",
+                    "descriptions": {
+                        "description": "Album"
+                    }
+                },
+                {
+                    "_name": "All Media",
+                    "_qty": "1",
+                    "_text": "",
+                    "descriptions": {
+                        "description": "Compilation"
+                    }
+                }
+            ]
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Text",
+                    "_type": "Barcode",
+                    "_value": "7 20841 55592 6"
+                },
+                {
+                    "_description": "Scanned",
+                    "_type": "Barcode",
+                    "_value": "720841555926"
+                },
+                {
+                    "_description": "CD1",
+                    "_type": "Matrix / Runout",
+                    "_value": "MANUFACTURED BY KAO OPTICAL PRODUCTS ***AL 0700160-03*** FAX-5559-2"
+                },
+                {
+                    "_description": "CD2",
+                    "_type": "Matrix / Runout",
+                    "_value": "MANUFACTURED BY KAO OPTICAL PRODUCTS ***AL 0700161-01*** FAX-5559-2"
+                },
+                {
+                    "_description": "CD1 Inner hub, face side.",
+                    "_type": "Matrix / Runout",
+                    "_value": "B"
+                },
+                {
+                    "_description": "CD2 Inner hub, face side.",
+                    "_type": "Matrix / Runout",
+                    "_value": "2"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "592",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "471",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "599"
+                },
+                {
+                    "_height": "594",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "590",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": [
+                {
+                    "_catno": "FAX-5559-2",
+                    "_id": "854027",
+                    "_name": "FAX USA"
+                },
+                {
+                    "_catno": "FAX-5559-2",
+                    "_id": "60",
+                    "_name": "Fax +49-69/450464"
+                }
+            ]
+        },
+        "notes": "Combined reissue of [r=99432] and [r=49473].\n\nALIEN COMMUNITY\nSAN FRANCISCO 1993/94\n\n© 1994 Instinct Records.\nPrinted in the USA\nLicense courtesy of Fax Records (Germany).\n\nTracklisting for both discs only states one title for each, \"Interdimensional Communication\" and \"A Long And Perilous Voyage\", which are respectively spread over 7 and 12 tracks. The durations here listed were taken from the disc's table of contents except for the index tracks which are the durations printed on the booklet. The actual duration of the whole discs are respectively 1:05:47 and 1:00:39.",
+        "released": "1994-10-18",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Experimental"
+            ]
+        },
+        "title": "Alien Community I + II",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "1:05:30",
+                    "position": "",
+                    "sub_tracks": {
+                        "track": [
+                            {
+                                "duration": "10:00",
+                                "position": "1-1",
+                                "title": "Untitled"
+                            },
+                            {
+                                "duration": "10:00",
+                                "position": "1-2",
+                                "title": "Untitled"
+                            },
+                            {
+                                "duration": "10:00",
+                                "position": "1-3",
+                                "title": "Untitled"
+                            },
+                            {
+                                "duration": "10:00",
+                                "position": "1-4",
+                                "title": "Untitled"
+                            },
+                            {
+                                "duration": "10:00",
+                                "position": "1-5",
+                                "title": "Untitled"
+                            },
+                            {
+                                "duration": "10:00",
+                                "position": "1-6",
+                                "title": "Untitled"
+                            },
+                            {
+                                "duration": "5:48",
+                                "position": "1-7",
+                                "title": "Untitled"
+                            }
+                        ]
+                    },
+                    "title": "Interdimensional Communication"
+                },
+                {
+                    "duration": "1:00:39",
+                    "position": "",
+                    "sub_tracks": {
+                        "track": [
+                            {
+                                "duration": "4:59",
+                                "position": "2-1",
+                                "title": "Untitled"
+                            },
+                            {
+                                "duration": "5:00",
+                                "position": "2-2",
+                                "title": "Untitled"
+                            },
+                            {
+                                "duration": "5:00",
+                                "position": "2-3",
+                                "title": "Untitled"
+                            },
+                            {
+                                "duration": "5:00",
+                                "position": "2-4",
+                                "title": "Untitled"
+                            },
+                            {
+                                "duration": "5:00",
+                                "position": "2-5",
+                                "title": "Untitled"
+                            },
+                            {
+                                "duration": "5:00",
+                                "position": "2-6",
+                                "title": "Untitled"
+                            },
+                            {
+                                "duration": "5:00",
+                                "position": "2-7",
+                                "title": "Untitled"
+                            },
+                            {
+                                "duration": "5:00",
+                                "position": "2-8",
+                                "title": "Untitled"
+                            },
+                            {
+                                "duration": "5:00",
+                                "position": "2-9",
+                                "title": "Untitled"
+                            },
+                            {
+                                "duration": "5:00",
+                                "position": "2-10",
+                                "title": "Untitled"
+                            },
+                            {
+                                "duration": "5:00",
+                                "position": "2-11",
+                                "title": "Untitled"
+                            },
+                            {
+                                "duration": "5:40",
+                                "position": "2-12",
+                                "title": "Untitled"
+                            }
+                        ]
+                    },
+                    "title": "A Long And Perilous Voyage"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "3948",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=JjtS__7UgWg",
+                    "description": "Track 1 - Interdimensional Communication\nArtists : Pete Namlook \u0026 Jonah Sharp\nAlbum : Alien Community\n1993 FAX +49-69/450464",
+                    "title": "Pete Namlook \u0026 Jonah Sharp - Interdimensional Communication (Alien Community)"
+                },
+                {
+                    "_duration": "3640",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=li4lny-5eTU",
+                    "description": "Track 1 - A Long And Perilous Voyage\nArtists : Pete Namlook \u0026 Jonah Sharp\nAlbum : Alien Community 2\n1994 FAX +49-69/450464",
+                    "title": "Pete Namlook \u0026 Jonah Sharp - A Long And Perilous Voyage (Alien Community 2)"
+                }
+            ]
+        }
+    }
+}

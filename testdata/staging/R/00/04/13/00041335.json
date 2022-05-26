@@ -1,0 +1,461 @@
+{
+    "release": {
+        "_id": "41335",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "194",
+                "join": "",
+                "name": "Various",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "270709",
+                    "name": "Soma Recordings Ltd.",
+                    "resource_url": "https://api.discogs.com/labels/270709"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "270709",
+                    "name": "Soma Recordings Ltd.",
+                    "resource_url": "https://api.discogs.com/labels/270709"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "16",
+                    "entity_type_name": "Made By",
+                    "id": "56025",
+                    "name": "MPO",
+                    "resource_url": "https://api.discogs.com/labels/56025"
+                }
+            ]
+        },
+        "country": "UK",
+        "data_quality": "Correct",
+        "extraartists": "",
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "Compilation"
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Text",
+                    "_type": "Barcode",
+                    "_value": "7 96122 01702 5"
+                },
+                {
+                    "_description": "Scanned",
+                    "_type": "Barcode",
+                    "_value": "796122017025"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "SOMACD 17 MPO 01 @ 01"
+                },
+                {
+                    "_type": "Mould SID Code",
+                    "_value": "IFPI 1211"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "596",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "464",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "594",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "295",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "464",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "Soma cd 17",
+                "_id": "18",
+                "_name": "Soma Quality Recordings"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "66844"
+        },
+        "released": "1999-10-26",
+        "styles": {
+            "style": [
+                "House",
+                "Tech House"
+            ]
+        },
+        "title": "Soma Quality Recordings - Volume 6",
+        "tracklist": {
+            "track": [
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1940",
+                            "join": "",
+                            "name": "Silicone Soul",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:52",
+                    "position": "1",
+                    "title": "Right On 4 Tha Darkness"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "10638",
+                            "join": "",
+                            "name": "Retroflex",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:35",
+                    "position": "2",
+                    "title": "Summer Situation (August)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "56",
+                            "join": "",
+                            "name": "E.B.E. (2)",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:29",
+                    "position": "3",
+                    "title": "Distant"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "13146",
+                            "join": "",
+                            "name": "Allergy",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:01",
+                    "position": "4",
+                    "title": "Intuition (Remix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "208",
+                            "join": "",
+                            "name": "Chaser",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:16",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "108",
+                            "join": "",
+                            "name": "Ian Pooley",
+                            "role": "Remix, Producer [Additional]",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "5",
+                    "title": "Tall Stories (Pooley's \"Lars From Mars\" Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "7606",
+                            "join": "",
+                            "name": "Scott Grooves",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:01",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1289",
+                            "join": "",
+                            "name": "Daft Punk",
+                            "role": "Remix, Producer [Additional]",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "6",
+                    "title": "Mothership Reconnection (Daft Punk Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1939",
+                            "join": "",
+                            "name": "Mfon",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "7:07",
+                    "position": "7",
+                    "title": "Ron Hardy's Resurrection"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1286",
+                            "join": "",
+                            "name": "Gene Farris",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:12",
+                    "position": "8",
+                    "title": "Do U Want Me?"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "245",
+                            "join": "",
+                            "name": "Envoy",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:34",
+                    "position": "9",
+                    "title": "Beautiful World"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1026",
+                            "join": "",
+                            "name": "Space DJz",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:11",
+                    "position": "10",
+                    "title": "Solaris"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "20",
+                            "join": "",
+                            "name": "Percy X",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:46",
+                    "position": "11",
+                    "title": "Reproduction"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "164",
+                            "join": "",
+                            "name": "Pressure Funk",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:17",
+                    "position": "12",
+                    "title": "Ghetto Jack"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1019",
+                            "join": "",
+                            "name": "Funk D'Void",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:54",
+                    "position": "13",
+                    "title": "Lucky Strike (Funk's 98 Mix)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "348",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=JJHYnhbyKzo",
+                    "description": "SOMA 076\n\n(1999)",
+                    "title": "Percy X - Reproduction"
+                },
+                {
+                    "_duration": "382",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=3wLgrkHdDEY",
+                    "description": "Silicone Soul - Right On 4 Tha Darkness SOMA 083",
+                    "title": "Silicone Soul - Right On 4 Tha Darkness SOMA 083"
+                },
+                {
+                    "_duration": "446",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=m6bgqgDvD4I",
+                    "description": "Mfon ‎- Ron Hardy's Resurrection\nLabel: Soma Quality Recordings ‎- SOMA 072\nFormat: Vinyl, 12\nCountry: UK\nReleased: 1998\nStyle: House",
+                    "title": "Mfon - Ron Hardy's Resurrection"
+                },
+                {
+                    "_duration": "436",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=_CHRUgShrEA",
+                    "description": "SOMA 071\r\n\r\n(1998)",
+                    "title": "Scott Grooves - Mothership Reconnection (Daft Punk Mix)"
+                },
+                {
+                    "_duration": "388",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=bupEht4kCGk",
+                    "description": "Chaser ‎- Tall Stories (Pooley's Lars From Mars Mix) \nWritten and produced by Lars Sandberg and Nigel Hayes \nRemix and additional production by Ian Pooley\nSoma Quality Recordings [1999]",
+                    "title": "Chaser ‎- Tall Stories (Pooley's Lars From Mars Mix) [1999] [FULL]"
+                },
+                {
+                    "_duration": "313",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=rFjLVKMMuYM",
+                    "description": "http://www.discogs.com/Space-DJz-Solaris/release/5894",
+                    "title": "Space Djz - Solaris - [Soma 82 - A1]"
+                },
+                {
+                    "_duration": "360",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=ONmIrdl6Xf4",
+                    "description": "Gene Farris - Mainline Disco EP is the latest release on Farris Wheel Recordings.\n\nVideo Encoded by Label Worx - http://www.label-worx.com",
+                    "title": "Gene Farris - Do You Want Me?"
+                },
+                {
+                    "_duration": "521",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=jXDKihsV5OQ",
+                    "description": "Provided to YouTube by Pias UK Limited\n\nBeautiful World · Envoy\n\nBeautiful World\n\n℗ 1999 Soma\n\nReleased on: 1999-02-08\n\nMixer: Hope Grant\nProducer: Hope Grant\nComposer: Hope Grant\nLyricist: Hope Grant\nMusic Publisher: SPG Publishing UK Ltd\n\nAuto-genera",
+                    "title": "Beautiful World"
+                },
+                {
+                    "_duration": "397",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=d3fyflPDlPk",
+                    "description": "Classic house track from 1999 on Soma Rec.",
+                    "title": "E.B.E. - Distant (Original Mix)"
+                },
+                {
+                    "_duration": "474",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=bHCMEQZ7fog",
+                    "description": "Provided to YouTube by Pias UK Limited\n\nSummer Situation (August) · Retroflex\n\nVariations In Consciousness part 2\n\n℗ 1999 Soma\n\nReleased on: 1999-03-08\n\nMixer: Calingaert\nMixer: Nazuka\nProducer: Calingaert\nProducer: Nazuka\nComposer: Calingaert\nComposer",
+                    "title": "Summer Situation (August)"
+                },
+                {
+                    "_duration": "492",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=1V8G8C8p6LM",
+                    "description": "Provided to YouTube by PIAS\n\nLucky Strike (Funks '98 Mix) · Funk D'Void\n\nLucky Strike\n\n℗ Soma Records\n\nReleased on: 1998-08-03\n\nComposer: Lars Sandberg\n\nAuto-generated by YouTube.",
+                    "title": "Lucky Strike (Funks '98 Mix)"
+                },
+                {
+                    "_duration": "366",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=rDxFQmOY7QQ",
+                    "description": "Provided to YouTube by Pias UK Limited\n\nIntuition (Remix) · Allergy\n\nNo Boundaries\n\n℗ 1998 Soma\n\nReleased on: 1998-10-26\n\nMixer: Dj Reggie Curry\nMixer: Trackmaster Lou\nProducer: Dj Reggie Curry\nProducer: Trackmaster Lou\nComposer: Dj Reggie Curry\nCompos",
+                    "title": "Intuition (Remix)"
+                },
+                {
+                    "_duration": "496",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=ATcPOGfXgOs",
+                    "description": "for wav file contact me\nLabel: Soma Quality Recordings ‎-- SOMA 86\nReleased:05 Jul 1999",
+                    "title": "Pressure Funk - Ghetto Jack"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,290 @@
+{
+    "release": {
+        "_id": "16565",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "194",
+                "join": "",
+                "name": "Various",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": {
+                "catno": "15224",
+                "entity_type": "10",
+                "entity_type_name": "Manufactured By",
+                "id": "277449",
+                "name": "P+O Pallas",
+                "resource_url": "https://api.discogs.com/labels/277449"
+            }
+        },
+        "country": "Germany",
+        "data_quality": "Needs Vote",
+        "extraartists": "",
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Limited Edition",
+                        "Compilation"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_type": "Matrix / Runout",
+                "_value": "PK 08/01 P+O-15224-A2 01-93"
+            }
+        },
+        "images": {
+            "image": {
+                "_height": "600",
+                "_type": "primary",
+                "_uri": "",
+                "_uri150": "",
+                "_width": "600"
+            }
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/01",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "280941"
+        },
+        "notes": "What is FAX +49-69/450464 ?\r\n\r\nCreating an environment for truth in music...\r\n...if the day ever comes when we have to compromise in any way, that's the day we close down the label.\r\n\r\nGreatest thanks to all the people who made my dream come true. P.N.\r\n\r\n= Produced at Sonic Studios Frankfurt for Namlook Productions =\r\n\r\nLimitation: 500",
+        "released": "1993-01-25",
+        "styles": {
+            "style": "Trance"
+        },
+        "title": "Compilation 1",
+        "tracklist": {
+            "track": [
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "15287",
+                            "join": "",
+                            "name": "Deltraxx",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "7:43",
+                    "position": "1",
+                    "title": "Altered States (Unfused \u0026 Tuned)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "15288",
+                            "join": "",
+                            "name": "Limelight",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:36",
+                    "position": "2",
+                    "title": "Limelight (Holy Guitar Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "14126",
+                            "join": "",
+                            "name": "Subsequence",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:04",
+                    "position": "3",
+                    "title": "Invocation (Dance 4 Trance Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "2910",
+                            "join": "",
+                            "name": "Hearts Of Space",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:14",
+                    "position": "4",
+                    "title": "With A Medium Into Trance (Drop Out Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "14127",
+                            "join": "",
+                            "name": "Synsyl",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:03",
+                    "position": "5",
+                    "title": "Breakout II"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "14128",
+                            "join": "",
+                            "name": "4Voice",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:20",
+                    "position": "6",
+                    "title": "Music Hypnotizes (Hypnotizing Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "2907",
+                            "join": "",
+                            "name": "Escape",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "8:24",
+                    "position": "7",
+                    "title": "Escape To Earth"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "14125",
+                            "join": "",
+                            "name": "Sextant",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:32",
+                    "position": "8",
+                    "title": "Drug Oriented Society"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "2909",
+                            "join": "",
+                            "name": "Silence",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "9:49",
+                    "position": "9",
+                    "title": "Santur"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "3791",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=C8zcE69qtSY",
+                    "description": "Released in January, 1993 on FAX +49-60/450464\n\nThe first FAX compilation from 12” vinyl EPs.\n\n \n00:00 Deltraxx - Altered States (Unfused \u0026 Tuned) \n07:45 Limelight - Limelight (Holy Guitar Mix)\n14:24 Subsequence - Invocation (Dance 4 Trance Mix)\n20:30 H",
+                    "title": "[PK 08/01] Pete Namlook - FAX Compilation 1"
+                },
+                {
+                    "_duration": "473",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=st_qj_cYt_E",
+                    "description": "",
+                    "title": "DELTRAXX - ALTERED STATES (UNFUSED \u0026 TUNED)"
+                },
+                {
+                    "_duration": "608",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=AEGJlTYpTaM",
+                    "description": "1993",
+                    "title": "Limelight - Limelight (Holy Guitar Mix)"
+                },
+                {
+                    "_duration": "361",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=ayxhqHJrRQs",
+                    "description": "",
+                    "title": "Subsequence   Invocation Dance 4 Trance Mix"
+                },
+                {
+                    "_duration": "375",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=JOigbkA0dJw",
+                    "description": "",
+                    "title": "Hearts Of Space - With A Medium Into Trance (Drop Out Mix) - 1992"
+                },
+                {
+                    "_duration": "360",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=7fF9A48qN4s",
+                    "description": "http://www.discogs.com/Synsyl-Synsyl/release/187593\n\r\n\r-uploaded in HD at http://www.TunesToTube.com",
+                    "title": "Synsyl ‎- Breakout II (Trance 1992)"
+                },
+                {
+                    "_duration": "324",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=W4_3aCj6jWY",
+                    "description": "4Voice - 4Voice\nTrack no.2: Music Hypnotizes (Hypnotizing Mix)\nYear: 1993\n\nhttp://www.discogs.com/4Voice-4Voice/master/146286\n\nSubscribe for more electronic music in HD.",
+                    "title": "4Voice - Music Hypnotizes (Hypnotizing Mix)"
+                },
+                {
+                    "_duration": "509",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=p_i3fqqsKCo",
+                    "description": "Pete Namlook and Dr Atmo\r\nEscape To Earth\r\nFax Records\r\n1994\r\n(Also released on Trance Europe Express 2)",
+                    "title": "Pete Namlook's Escape Escape To Earth"
+                },
+                {
+                    "_duration": "391",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=vE5Kbb7sppA",
+                    "description": "ETC Records\r\nBelgium\r\n1992\r\n\r\nThis is the general release  not the rarer German release (not on a label) limited edition (500 presses), not heard the German version so dont knwo wheter its the same or a remix, if anyone has it I'd love to see it uploaded",
+                    "title": "Sextant - Drug Orientated Society.wmv"
+                },
+                {
+                    "_duration": "591",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=J0PO7g6yx_k",
+                    "description": "",
+                    "title": "Pete Namlook \u0026 Dr. Atmo - Santur"
+                }
+            ]
+        }
+    }
+}

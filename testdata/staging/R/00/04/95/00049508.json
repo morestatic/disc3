@@ -1,0 +1,171 @@
+{
+    "release": {
+        "_id": "49508",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "69011",
+                "join": "",
+                "name": "Shades Of Orion",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": {
+                "catno": "",
+                "entity_type": "23",
+                "entity_type_name": "Recorded At",
+                "id": "294386",
+                "name": "Klanglabor Frankfurt",
+                "resource_url": "https://api.discogs.com/labels/294386"
+            }
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "58657",
+                    "join": "",
+                    "name": "Peter Kuhlmann",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "25",
+                    "join": "",
+                    "name": "Tetsu Inoue",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_type": "Label Code",
+                "_value": "LC 6269"
+            }
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "590",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "462",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "595"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PW 29",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "90706"
+        },
+        "notes": "SHADES OF ORION\r\nFRANKFURT 1996\r\n\r\nSpecial thanks to:\r\nElisabeth / Fabia / Kathrin / Uwe Schmidt / Ingrid Baier / Takeshi Kawana\r\n\r\nLimitation: 1,000\r\nRecorded at Klanglabor, Frankfurt",
+        "released": "1996-05-20",
+        "styles": {
+            "style": "Ambient"
+        },
+        "title": "Shades Of Orion 3",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "6:55",
+                    "position": "1",
+                    "title": "Beteigeuzian Ritual"
+                },
+                {
+                    "duration": "38:26",
+                    "position": "2",
+                    "title": "Stranded On Riegel 3"
+                },
+                {
+                    "duration": "25:38",
+                    "position": "3",
+                    "title": "Inouecent And Sirius"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "414",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=6dV_j_eU5n0",
+                    "description": "Track 1 - Beteigeuzian Ritual\nArtists : Pete Namlook \u0026 Tetsu Inoue\nAlbum : Shades Of Orion 3\n1996 FAX +49-69/450464",
+                    "title": "Pete Namlook \u0026 Tetsu Inoue - Beteigeuzian Ritual (Shades Of Orion 3)"
+                },
+                {
+                    "_duration": "2309",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=698BxrZi0FM",
+                    "description": "Track 2 - Stranded On Riegel 3\nArtists : Pete Namlook \u0026 Tetsu Inoue\nAlbum : Shades Of Orion 3\n1996 FAX+49-69/450464",
+                    "title": "Pete Namlook \u0026 Tetsu Inoue - Stranded On Riegel 3 (Shades Of Orion 3)"
+                },
+                {
+                    "_duration": "1541",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=-0oE3EJi-bA",
+                    "description": "Track 3 - Inouecent And Sirius\nArtists : Pete Namlook \u0026 Tetsu Inoue\nAlbum : Shades Of Orion 3\n1996 FAX +49-69/450464",
+                    "title": "Pete Namlook \u0026 Tetsu Inoue - Inouecent And Sirius (Shades Of Orion 3)"
+                }
+            ]
+        }
+    }
+}

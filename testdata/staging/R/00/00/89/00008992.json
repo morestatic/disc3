@@ -1,0 +1,174 @@
+{
+    "release": {
+        "_id": "8992",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "The Wildchild Experience",
+                "id": "6246",
+                "join": "",
+                "name": "Wildchild",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "362251",
+                    "name": "Original Artists Music",
+                    "resource_url": "https://api.discogs.com/labels/362251"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "29",
+                    "entity_type_name": "Mastered At",
+                    "id": "158759",
+                    "name": "The Exchange",
+                    "resource_url": "https://api.discogs.com/labels/158759"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "17",
+                    "entity_type_name": "Pressed By",
+                    "id": "56025",
+                    "name": "MPO",
+                    "resource_url": "https://api.discogs.com/labels/56025"
+                }
+            ]
+        },
+        "country": "UK",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "Pauls",
+                    "id": "388200",
+                    "join": "",
+                    "name": "Paul Solomons",
+                    "role": "Mastered By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "6246",
+                    "join": "",
+                    "name": "Wildchild",
+                    "role": "Producer, Written-By, Mixed By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Side A",
+                    "_type": "Matrix / Runout",
+                    "_value": "MPO L 002 A1 PAULS"
+                },
+                {
+                    "_description": "Side B",
+                    "_type": "Matrix / Runout",
+                    "_value": "MPO L 002 B1 EXCHANGE"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "602",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "L 002",
+                "_id": "40",
+                "_name": "Loaded Records"
+            }
+        },
+        "notes": "Track durations not given on sleeve or labels.\r\nTrack A2 is exactly the same as on [url=http://www.discogs.com/Wildchild-Experience-The-The-Best-Of-Wildtrax/master/777263]The Best Of Wildtrax[/url]. Although \"(Distorted Dub)\" has been kept out.",
+        "released": "1991",
+        "styles": {
+            "style": [
+                "House",
+                "Techno"
+            ]
+        },
+        "title": "Wildtrax Vol. 1",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "6:47",
+                    "position": "A1",
+                    "title": "Do What You Like (Ten Minute Mix)"
+                },
+                {
+                    "duration": "5:54",
+                    "position": "A2",
+                    "title": "Bring It Down (Distorted Dub)"
+                },
+                {
+                    "duration": "13:39",
+                    "position": "B",
+                    "title": "Know Eye (Long As You Like Mix)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "408",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=U3gQx4HTGhI",
+                    "description": "Junte-se ao G-Suite. A plataforma Google online\nhttps://goo.gl/4Zn9a6\nBuy cheap DJ Headphone\nhttps://www.gearbest.com/on-ear-over-ear-headphones/pp_320413.html?vip=2329894\n\nBuy pretty DJ Bag\nhttps://www.gearbest.com/action-cameras-sport-dv-accessories/pp_",
+                    "title": "The Wildchild Experience - Do What You Like )10 min mix)"
+                },
+                {
+                    "_duration": "349",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=bTJg_TByKD8",
+                    "description": "Loaded Records, United Kingdom 1991",
+                    "title": "The Wildchild Experience - Bring It Down (Distorted Dub)"
+                },
+                {
+                    "_duration": "599",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=WsoKLXBpfWU",
+                    "description": "Loaded Records, 1991",
+                    "title": "The Wildchild Experience - Know Eye (Long As You Like Mix)"
+                }
+            ]
+        }
+    }
+}

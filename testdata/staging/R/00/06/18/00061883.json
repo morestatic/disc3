@@ -1,0 +1,211 @@
+{
+    "release": {
+        "_id": "61883",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "Namlook",
+                "id": "1910",
+                "join": "",
+                "name": "Pete Namlook",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "265012",
+                    "name": "Klanglabor Hödeshof",
+                    "resource_url": "https://api.discogs.com/labels/265012"
+                },
+                {
+                    "catno": "53777",
+                    "entity_type": "31",
+                    "entity_type_name": "Glass Mastered At",
+                    "id": "277449",
+                    "name": "P+O Pallas",
+                    "resource_url": "https://api.discogs.com/labels/277449"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "andre@faxlabel.com",
+                    "id": "2022694",
+                    "join": "",
+                    "name": "Andre Ruello",
+                    "role": "Graphics",
+                    "tracks": ""
+                },
+                {
+                    "anv": "Hessischer Rundfunk, Hörspiel",
+                    "id": "3398661",
+                    "join": "",
+                    "name": "Hessischer Rundfunk (Hörspiel)",
+                    "role": "Producer [Produced By]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "521138",
+                    "join": "",
+                    "name": "Manfred Hess",
+                    "role": "Producer [Redaktion]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Text",
+                    "_type": "Barcode",
+                    "_value": "8 07297 01332 0"
+                },
+                {
+                    "_description": "Scanned",
+                    "_type": "Barcode",
+                    "_value": "0807297013320"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "PK 08/159 P+O-53777-A2 08-01"
+                },
+                {
+                    "_type": "Mastering SID Code",
+                    "_value": "IFPI L962"
+                },
+                {
+                    "_type": "Mould SID Code",
+                    "_value": "IFPI 3J03"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "450",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "450"
+                },
+                {
+                    "_height": "248",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "240"
+                },
+                {
+                    "_height": "247",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "497"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/159",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "The music on this CD had been broadcasted on -Hessischer Rundfunk HR2- 20th of April 2001.\nRecorded at Klanglabor, Traben-Trarbach.\nLimited to 2000 copies.",
+        "released": "2001-09-10",
+        "styles": {
+            "style": [
+                "Dark Ambient",
+                "Experimental"
+            ]
+        },
+        "title": "Namlook XVII - New Organic Life II",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "2:49",
+                    "position": "1",
+                    "title": "In The Beginning There Was The Grain"
+                },
+                {
+                    "duration": "3:35",
+                    "position": "2",
+                    "title": "In And Out Of Zoom"
+                },
+                {
+                    "duration": "9:18",
+                    "position": "3",
+                    "title": "Jet - Final Test"
+                },
+                {
+                    "duration": "2:35",
+                    "position": "4",
+                    "title": "Molecular Progression #3"
+                },
+                {
+                    "duration": "3:34",
+                    "position": "5",
+                    "title": "Pixel Party"
+                },
+                {
+                    "duration": "6:37",
+                    "position": "6",
+                    "title": "Airport Freak"
+                },
+                {
+                    "duration": "6:09",
+                    "position": "7",
+                    "title": "Take Me With You To The Stars"
+                },
+                {
+                    "duration": "6:22",
+                    "position": "8",
+                    "title": "Inun"
+                },
+                {
+                    "duration": "4:35",
+                    "position": "9",
+                    "title": "Sundance Of The Microbes"
+                },
+                {
+                    "duration": "6:50",
+                    "position": "10",
+                    "title": "Genetic Synthesis"
+                }
+            ]
+        }
+    }
+}

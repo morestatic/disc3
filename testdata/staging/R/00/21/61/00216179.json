@@ -1,0 +1,303 @@
+{
+    "release": {
+        "_id": "216179",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "1463",
+                "join": "",
+                "name": "Anthony Rother",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "62591-A",
+                    "entity_type": "16",
+                    "entity_type_name": "Made By",
+                    "id": "277449",
+                    "name": "P+O Pallas",
+                    "resource_url": "https://api.discogs.com/labels/277449"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "24187",
+                    "name": "Warner Chappell Music",
+                    "resource_url": "https://api.discogs.com/labels/24187"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "27",
+                    "entity_type_name": "Mixed At",
+                    "id": "270130",
+                    "name": "PSI Studio",
+                    "resource_url": "https://api.discogs.com/labels/270130"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "270130",
+                    "name": "PSI Studio",
+                    "resource_url": "https://api.discogs.com/labels/270130"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "andre@sansserif.com.au",
+                    "id": "2022694",
+                    "join": "",
+                    "name": "Andre Ruello",
+                    "role": "Graphics",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1463",
+                    "join": "",
+                    "name": "Anthony Rother",
+                    "role": "Producer, Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Mixed",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Text",
+                    "_type": "Barcode",
+                    "_value": "8 07297 03752 4"
+                },
+                {
+                    "_description": "Scanned",
+                    "_type": "Barcode",
+                    "_value": "807297037524"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "PS 08/104 P+O-62591-A 11-03"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "595",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "466",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "601",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "297",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PS 08/104",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "1060569"
+        },
+        "notes": "Mixed and recorded at PSI Studio Germany.\n\nAnthony Rother appears courtesy of Psi49net.\n\nLimitation: 2000.",
+        "released": "2003-11-13",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Downtempo",
+                "Minimal"
+            ]
+        },
+        "title": "Magic Diner",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "1:05",
+                    "position": "1",
+                    "title": "Part I"
+                },
+                {
+                    "duration": "5:00",
+                    "position": "2",
+                    "title": "Part II"
+                },
+                {
+                    "duration": "10:43",
+                    "position": "3",
+                    "title": "Part III"
+                },
+                {
+                    "duration": "5:32",
+                    "position": "4",
+                    "title": "Part IV"
+                },
+                {
+                    "duration": "2:53",
+                    "position": "5",
+                    "title": "Part V"
+                },
+                {
+                    "duration": "8:37",
+                    "position": "6",
+                    "title": "Part VI"
+                },
+                {
+                    "duration": "5:34",
+                    "position": "7",
+                    "title": "Part VII"
+                },
+                {
+                    "duration": "15:31",
+                    "position": "8",
+                    "title": "Part VIII"
+                },
+                {
+                    "duration": "4:53",
+                    "position": "9",
+                    "title": "Part IX"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "3595",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=-6lLQ99XsM8",
+                    "description": "All credits to Anthony Rother. This is the full album Magic Diner\nTRACKLIST (Next track begins after that short gap\\silence):\n0:00 - Part I\n1:06 - Part II\n6:08 - Part III\n16:51 - Part IV\n22:25 - Part V\n25:18 - Part VI\n33:56 - Part VII\n39:30 - Part VIII",
+                    "title": "Anthony Rother - Magic Diner"
+                },
+                {
+                    "_duration": "66",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=PjEDYTE17AA",
+                    "description": "",
+                    "title": "Anthony Rother - Magic Diner - 01 Part I"
+                },
+                {
+                    "_duration": "302",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=pR2j6mpmwwI",
+                    "description": "",
+                    "title": "Anthony Rother - Magic Diner - 02 Part II"
+                },
+                {
+                    "_duration": "644",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=-l5eGa3iraY",
+                    "description": "",
+                    "title": "Anthony Rother - Magic Diner - 03 Part III"
+                },
+                {
+                    "_duration": "333",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=IE-9vKMRM4o",
+                    "description": "",
+                    "title": "Anthony Rother - Magic Diner - 04 Part IV"
+                },
+                {
+                    "_duration": "175",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=_BPXW4tmg8M",
+                    "description": "",
+                    "title": "Anthony Rother - Magic Diner - 05 Part V"
+                },
+                {
+                    "_duration": "519",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Tng-Lyy-hJs",
+                    "description": "",
+                    "title": "Anthony Rother - Magic Diner - 06 Part VI"
+                },
+                {
+                    "_duration": "335",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=sFzlvTOg6ic",
+                    "description": "",
+                    "title": "Anthony Rother - Magic Diner - 07 Part VII"
+                },
+                {
+                    "_duration": "587",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=AZADwKDBQ4w",
+                    "description": "",
+                    "title": "Anthony Rother - Magic Diner - 08 Part VIII"
+                },
+                {
+                    "_duration": "295",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=ilv5wkkTvqM",
+                    "description": "",
+                    "title": "Anthony Rother - Magic Diner - 09 Part IX"
+                }
+            ]
+        }
+    }
+}

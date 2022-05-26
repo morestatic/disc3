@@ -1,0 +1,251 @@
+{
+    "release": {
+        "_id": "85837",
+        "_status": "Accepted",
+        "artists": {
+            "artist": [
+                {
+                    "anv": "Manaca",
+                    "id": "52264",
+                    "join": ",",
+                    "name": "Carlos Manaça",
+                    "role": "",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "167260",
+                    "join": "",
+                    "name": "Chus \u0026 Ceballos",
+                    "role": "",
+                    "tracks": ""
+                }
+            ]
+        },
+        "companies": "",
+        "country": "US",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "9680",
+                    "join": "",
+                    "name": "Alex Peace",
+                    "role": "Vocals",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "52264",
+                    "join": "",
+                    "name": "Carlos Manaça",
+                    "role": "Written-By, Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "Chus L. Esteban",
+                    "id": "38374",
+                    "join": "",
+                    "name": "DJ Chus",
+                    "role": "Written-By, Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "104668",
+                    "join": "",
+                    "name": "Pablo Ceballos",
+                    "role": "Written-By, Producer",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_type": "Barcode",
+                "_value": "7 13405 96441 8"
+            }
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "196"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "MDR9644-1",
+                "_id": "20",
+                "_name": "Moody Recordings"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "139259"
+        },
+        "released": "2002-05-00",
+        "styles": {
+            "style": "Tribal House"
+        },
+        "title": "The Strong Rhythm",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A",
+                    "title": "The Strong Rhythm (Original Stereo Mix)"
+                },
+                {
+                    "duration": "",
+                    "position": "B",
+                    "title": "The Strong Rhythm (Dj Chus Distraction Remix)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "558",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Jp97M78S9a0",
+                    "description": "",
+                    "title": "Chus \u0026 Ceballos - The strong rhythm ( Original stereo mix )"
+                },
+                {
+                    "_duration": "480",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=c7NXBAZ4rYE",
+                    "description": "Tribal tech-house tune, 2001.",
+                    "title": "Chus \u0026 Ceballos - The strong rhythm ( Dj Chus distraction remix )"
+                },
+                {
+                    "_duration": "545",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=tQQhtzhXl7Q",
+                    "description": "Provided to YouTube by Believe SAS\n\nThe Strong Rhythm (Original Stereo Mix) · Manaça, Chus \u0026 Ceballos\n\nThe Strong Rhythm\n\n℗ Stereo Productions SL.\n\nReleased on: 2001-01-01\n\nAuthor: C. Manaça\nAuthor: J. Pablo Ceballos \u0026 Chus L. Esteban\nMusic Publisher",
+                    "title": "The Strong Rhythm (Original Stereo Mix)"
+                },
+                {
+                    "_duration": "97",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Wo9cFJa-tqE",
+                    "description": "Provided to YouTube by Believe SAS\n\nThe Strong Rhythm · Manaça, Chus \u0026 Ceballos\n\nThe Strong Rhythm\n\n℗ Stereo Productions SL.\n\nReleased on: 2001-01-01\n\nAuthor: C. Manaça\nAuthor: J. Pablo Ceballos \u0026 Chus L. Esteban\nMusic Publisher: D.R\n\nAuto-generated",
+                    "title": "The Strong Rhythm"
+                },
+                {
+                    "_duration": "45",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=1ZN03l3V2BQ",
+                    "description": "Provided to YouTube by Believe SAS\n\nThe Strong Rhythm (Strongapella FX) · Manaça, Chus \u0026 Ceballos\n\nThe Strong Rhythm\n\n℗ Stereo Productions SL.\n\nReleased on: 2001-01-01\n\nAuthor: C. Manaça\nAuthor: J. Pablo Ceballos \u0026 Chus L. Esteban\nMusic Publisher: D.",
+                    "title": "The Strong Rhythm (Strongapella FX)"
+                },
+                {
+                    "_duration": "498",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Dj0B7wCst5Q",
+                    "description": "Provided to YouTube by Believe SAS\n\nThe Strong Rhythm (Wally Lopez \u0026 Dr. Kucho Remix) · Manaça, Chus \u0026 Ceballos\n\nThe Strong Rhythm\n\n℗ Stereo Productions SL.\n\nReleased on: 2001-01-01\n\nAuthor: C. Manaça\nAuthor: J. Pablo Ceballos \u0026 Chus L. Esteban\nMusic",
+                    "title": "The Strong Rhythm (Wally Lopez \u0026 Dr. Kucho Remix)"
+                },
+                {
+                    "_duration": "469",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=XsQLxUIbc-g",
+                    "description": "Provided to YouTube by Believe SAS\n\nThe Strong Rhythm (Chus \u0026 Ceballos Remix) · Manaça, Chus \u0026 Ceballos\n\nThe Strong Rhythm\n\n℗ Stereo Productions SL.\n\nReleased on: 2001-01-01\n\nAuthor: C. Manaça\nAuthor: J. Pablo Ceballos \u0026 Chus L. Esteban\nMusic Publish",
+                    "title": "The Strong Rhythm (Chus \u0026 Ceballos Remix)"
+                },
+                {
+                    "_duration": "562",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=pkHZ9n2k9Pg",
+                    "description": "Label:Magna Recordings ‎– MGN005\nFormat:Vinyl, 12\nCountry:Portugal\nReleased:2002\nGenre:Electronic\nStyle:House, Tribal \n\nhttps://www.discogs.com/Carlos-Mana%C3%A7a--Chus-Ceballos-The-Strong-Rhythm-The-Magna-Remixes/release/64900",
+                    "title": "Carlos Manaça \u0026 Chus \u0026 Ceballos ‎– The Strong Rhythm (Carlos Manaça Underdub Mix)"
+                },
+                {
+                    "_duration": "194",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=zhBsra5ofAU",
+                    "description": "ARTISTS: Carlos Manaça, Chus \u0026 Ceballos\nTITLE: The Strong Rhythm - Remixes\nLABEL: Magna Recordings\nCAT. #: MAGNA081D\nGENRE: Techno\nFORMAT: Digital\nRELEASE DATE: 20/02/2017\n\nTRACKLIST:\n01. The Strong Rhythm (D-Formation Remix)\n02. The Strong Rhythm (Georg",
+                    "title": "MAGNA081D Carlos Manac¸a Chus \u0026 Ceballos - The Strong Rhythm (George Privatti \u0026 Guille Plasencia Re"
+                },
+                {
+                    "_duration": "191",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=HGXOYszBA04",
+                    "description": "ARTISTS: Carlos Manaça, Chus \u0026 Ceballos\nTITLE: The Strong Rhythm - Remixes\nLABEL: Magna Recordings\nCAT. #: MAGNA081D\nGENRE: Techno\nFORMAT: Digital\nRELEASE DATE: 20/02/2017\n\nTRACKLIST:\n01. The Strong Rhythm (D-Formation Remix)\n02. The Strong Rhythm (Georg",
+                    "title": "MAGNA081D Carlos Manac¸a Chus \u0026 Ceballos - The Strong Rhythm (Made In Riot Remix) [Techno]"
+                },
+                {
+                    "_duration": "201",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=-flmhKvZu6A",
+                    "description": "ARTISTS: Carlos Manaça, Chus \u0026 Ceballos\nTITLE: The Strong Rhythm - Remixes\nLABEL: Magna Recordings\nCAT. #: MAGNA081D\nGENRE: Techno\nFORMAT: Digital\nRELEASE DATE: 20/02/2017\n\nTRACKLIST:\n01. The Strong Rhythm (D-Formation Remix)\n02. The Strong Rhythm (Georg",
+                    "title": "MAGNA081D Carlos Manac¸a, Chus \u0026 Ceballos - The Strong Rhythm (D-Formation Remix) [Techno]"
+                },
+                {
+                    "_duration": "445",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=p1GRKm0wKLo",
+                    "description": "Buy on Beatport: http://bit.ly/TRSMT048_bp\nRelease Date: 15 June 2015\n\nTransmit Recordings next release is a part of the Re-Transmit series, this time with the outstanding and historic in musical terms duo from Madrid – Spain Chus \u0026 Ceballos and their c",
+                    "title": "Chus \u0026 Ceballos, Carlos Manaca - Strong Rhythm (Eric Sneo Remix)"
+                },
+                {
+                    "_duration": "435",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=7RpnjuZFbzg",
+                    "description": "Buy on Beatport: http://bit.ly/TRSMT048_bp\nRelease Date: 15 June 2015\n\nTransmit Recordings next release is a part of the Re-Transmit series, this time with the outstanding and historic in musical terms duo from Madrid – Spain Chus \u0026 Ceballos and their c",
+                    "title": "Chus \u0026 Ceballos, Carlos Manaca - Strong Rhythm (Boris Remix)"
+                }
+            ]
+        }
+    }
+}

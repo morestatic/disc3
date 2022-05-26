@@ -1,0 +1,275 @@
+{
+    "release": {
+        "_id": "49510",
+        "_status": "Accepted",
+        "artists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "32563",
+                    "join": ",",
+                    "name": "New Composers",
+                    "role": "",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "",
+                    "tracks": ""
+                }
+            ]
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "45670",
+                    "entity_type": "17",
+                    "entity_type_name": "Pressed By",
+                    "id": "277449",
+                    "name": "P+O Pallas",
+                    "resource_url": "https://api.discogs.com/labels/277449"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "265012",
+                    "name": "Klanglabor Hödeshof",
+                    "resource_url": "https://api.discogs.com/labels/265012"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "391788",
+                    "name": "New Composers Studio",
+                    "resource_url": "https://api.discogs.com/labels/391788"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "2750002",
+                    "join": "",
+                    "name": "Planetarium St. Petersburg",
+                    "role": "Graphics [Cover Graphics]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "2118078",
+                    "join": "",
+                    "name": "PEK (3)",
+                    "role": "Layout",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "58657",
+                    "join": "",
+                    "name": "Peter Kuhlmann",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "Igr Ver",
+                    "id": "264444",
+                    "join": "",
+                    "name": "Igor Ver",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "Lakoff",
+                    "id": "264443",
+                    "join": "",
+                    "name": "Valery Alakhov",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "PW 42  P+O-45670-A2 11-99"
+                },
+                {
+                    "_type": "Mastering SID Code",
+                    "_value": "IFPI L962"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "590",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "471",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "497",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                },
+                {
+                    "_height": "592",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PW 42",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "538447"
+        },
+        "notes": "Limited to 2000 copies.\r\nRecorded at Klanglabor, Traben-Trarbach \u0026 New Composers Studio, St. Petersburg.\r\nDedicated to all Astronauts and Kosmonauts.",
+        "released": "1999-11-22",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Electro",
+                "Modern Classical",
+                "Techno"
+            ]
+        },
+        "title": "Planetarium 2",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "11:45",
+                    "position": "1",
+                    "title": "Moontrip"
+                },
+                {
+                    "duration": "10:23",
+                    "position": "2",
+                    "title": "Start Process"
+                },
+                {
+                    "duration": "2:54",
+                    "position": "3",
+                    "title": "Urgent Message"
+                },
+                {
+                    "duration": "8:35",
+                    "position": "4",
+                    "title": "MIR Station - Selektor"
+                },
+                {
+                    "duration": "4:17",
+                    "position": "5",
+                    "title": "Space Casino"
+                },
+                {
+                    "duration": "3:44",
+                    "position": "6",
+                    "title": "6 Beta 9 Answer"
+                },
+                {
+                    "duration": "8:53",
+                    "position": "7",
+                    "title": "Spirit Preparation"
+                },
+                {
+                    "duration": "3:48",
+                    "position": "8",
+                    "title": "Space Ballet"
+                },
+                {
+                    "duration": "2:43",
+                    "position": "9",
+                    "title": "225"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "3435",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Fq4X3NIirkA",
+                    "description": "New Composers \u0026 Pete Namlook ‎– Planetarium 2 [1999]\n(written by – Igr Ver, Pete Namlook, Lakoff)\n\n1 Moontrip (00:00)\n2 Start Process (11:47)\n3 Urgent Message (22:11)\n4 MIR Station - Selektor (25:05)\n5 Space Casino (33:41)\n6 6 Beta 9 Answer (37:59)",
+                    "title": "New Composers \u0026 Pete Namlook ‎– Planetarium 2 [full album]"
+                },
+                {
+                    "_duration": "624",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Em2Mp5DIAak",
+                    "description": "New Composers \u0026 Pete Namlook - Planetarium 2\n2 - Start Process\nFax +49-69/450464 [PW 42] - Nov 1999\n\nhttp://www.discogs.com/release/49510\n\nLimited to 2000 copies.\nRecorded at Klanglabor, Traben-Trarbach \u0026 New Composers Studio, St. Petersburg.\nDedicated to",
+                    "title": "New Composers \u0026 Pete Namlook - Start Process"
+                },
+                {
+                    "_duration": "258",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=ct9rwdgvWBQ",
+                    "description": "New Composers \u0026 Pete Namlook - Space Casino\nAlbum: Planetarium 2\nLabel: Fax +49-69/450464\nCountry: Russia\nYear: 1999\n\nMembers:\nIgor Ver\nValery Alakhov\n\n\nElectronic, Ambient, Techno\n\nhttps://www.discogs.com/de/artist/32563-New-Composers",
+                    "title": "New Composers \u0026 Pete Namlook - Space Casino"
+                },
+                {
+                    "_duration": "225",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=2ZWFxOiMirE",
+                    "description": "Album: Planetarium 2 (1998)\nFax +49-69/450464 Records",
+                    "title": "Pete Namlook \u0026 New Composers - 6 Beta 9 Answer"
+                }
+            ]
+        }
+    }
+}

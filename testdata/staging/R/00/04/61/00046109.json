@@ -1,0 +1,235 @@
+{
+    "release": {
+        "_id": "46109",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "9592",
+                "join": "",
+                "name": "Pizzaman",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": {
+                "catno": "18496",
+                "entity_type": "17",
+                "entity_type_name": "Pressed By",
+                "id": "207420",
+                "name": "SMA",
+                "resource_url": "https://api.discogs.com/labels/207420"
+            }
+        },
+        "country": "Australia",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "59261",
+                    "join": "",
+                    "name": "Simon Thornton",
+                    "role": "Engineer",
+                    "tracks": "1, 3 to 5"
+                },
+                {
+                    "anv": "",
+                    "id": "116018",
+                    "join": "",
+                    "name": "JC Reid",
+                    "role": "Executive Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "434465",
+                    "join": "",
+                    "name": "Tim Jeffery",
+                    "role": "Executive Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "9592",
+                    "join": "",
+                    "name": "Pizzaman",
+                    "role": "Producer, Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "Single"
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Barcode",
+                    "_value": "9399600139120"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "D 1391 SMA 18496"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "527",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "460",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "533",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "606",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": [
+                {
+                    "_catno": "D1391",
+                    "_id": "6580",
+                    "_name": "Liberation Records"
+                },
+                {
+                    "_catno": "D1391",
+                    "_id": "5495",
+                    "_name": "Cowboy Records"
+                },
+                {
+                    "_catno": "D1391",
+                    "_id": "40",
+                    "_name": "Loaded Records"
+                }
+            ]
+        },
+        "master_id": {
+            "_is_main_release": "false",
+            "content": "100602"
+        },
+        "notes": "Track 1, 3 \u0026 4: Engineered by Simon Thornton at Esselle Beat Company.\r\nTrack 5 Engineered by Simon Thornton at Loaded.",
+        "released": "1995",
+        "styles": {
+            "style": [
+                "House",
+                "Big Beat",
+                "Happy Hardcore"
+            ]
+        },
+        "title": "Trippin' On Sunshine",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "3:25",
+                    "position": "1",
+                    "title": "Trippin' On Sunshine (Radio Edit)"
+                },
+                {
+                    "duration": "9:52",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "Biff And Memphis",
+                            "id": "36157",
+                            "join": "",
+                            "name": "Biff \u0026 Memphis",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "2",
+                    "title": "Trippin' On Sunshine (Biff \u0026 Memphis Mix)"
+                },
+                {
+                    "duration": "6:55",
+                    "position": "3",
+                    "title": "Trippin' On Sunshine (Pizzaman Club Mix)"
+                },
+                {
+                    "duration": "7:36",
+                    "position": "4",
+                    "title": "Trippin' On Sunshine (California Sunshine Mix)"
+                },
+                {
+                    "duration": "7:19",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "Playboys",
+                            "id": "28522",
+                            "join": "",
+                            "name": "Play Boys",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "5",
+                    "title": "Trippin' On Sunshine (Playboys Dub)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "228",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=xMi4TJpgxLU",
+                    "description": "Pizzaman - Trippin' on Sunshine\r\n-------------------------------------\r\nOriginal video from VIVA Housefrau\r\n(first play : 02.09.1994)\r\n----------------------------------------\r\n\r\nArtist :\r\n---------\r\nPizzaman\r\n\r\nTitel :\r\n--------\r\nTrippin' on Sunshine",
+                    "title": "Pizzaman - Trippin' on Sunshine (Orig. video 1992/93)"
+                },
+                {
+                    "_duration": "403",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=fvgKZ5wHWd0",
+                    "description": "Pizzaman - Trippin on sunshine /// Old Skool",
+                    "title": "Pizzaman - Trippin on sunshine"
+                },
+                {
+                    "_duration": "719",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=YSRcE789mmM",
+                    "description": "Pizzaman-- Trippin On Sunshine \r\nLabel: Loaded Records\r\nCatalog#:  12 LOAD 16 \r\nFormat: Vinyl, 12 \r\nCountry: UK\r\nReleased:  1994 \r\nGenre: Electronic\r\nStyle: Progressive House",
+                    "title": "Pizzaman - Trippin on Sunshine (Play Boys Fully Loaded Dub) \u0026 (Play Boys Mixing Thing)"
+                },
+                {
+                    "_duration": "871",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=6WUOHQuTpz4",
+                    "description": "Pizzaman-- Trippin On Sunshine \r\nLabel: Loaded Records\r\nCatalog#:  12 LOAD 16 \r\nFormat: Vinyl, 12 \r\nCountry: UK\r\nReleased:  1994 \r\nGenre: Electronic\r\nStyle: Progressive House",
+                    "title": "Pizzaman - Trippin on Sunshine (Pizzaman Mix) \u0026 (California Sunshine Mix)"
+                }
+            ]
+        }
+    }
+}

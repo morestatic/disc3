@@ -1,0 +1,287 @@
+{
+    "release": {
+        "_id": "52521",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "293292",
+                "join": "",
+                "name": "Aerial Service Area",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "378686",
+                    "name": "PNG Studio",
+                    "resource_url": "https://api.discogs.com/labels/378686"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "939269",
+                    "name": "Secret Vo Ese Studio",
+                    "resource_url": "https://api.discogs.com/labels/939269"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "265233",
+                    "name": "Sel i/s/c",
+                    "resource_url": "https://api.discogs.com/labels/265233"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "457432",
+                    "name": "Noitect",
+                    "resource_url": "https://api.discogs.com/labels/457432"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "36",
+                    "entity_type_name": "Edited At",
+                    "id": "457432",
+                    "name": "Noitect",
+                    "resource_url": "https://api.discogs.com/labels/457432"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "27",
+                    "entity_type_name": "Mixed At",
+                    "id": "457432",
+                    "name": "Noitect",
+                    "resource_url": "https://api.discogs.com/labels/457432"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "10",
+                    "entity_type_name": "Manufactured By",
+                    "id": "291931",
+                    "name": "CD Plant MFG",
+                    "resource_url": "https://api.discogs.com/labels/291931"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "36674",
+                    "join": "",
+                    "name": "Niko Heyduck",
+                    "role": "Composed By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "32614",
+                    "join": "",
+                    "name": "Victor Sol",
+                    "role": "Composed By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "24",
+                    "join": "",
+                    "name": "Atom Heart",
+                    "role": "Composed By [Co-Composed With]",
+                    "tracks": "1 to 3"
+                },
+                {
+                    "anv": "",
+                    "id": "32614",
+                    "join": "",
+                    "name": "Victor Sol",
+                    "role": "Edited By [Digital Editing], Mixed By [Final Mix]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "36674",
+                    "join": "",
+                    "name": "Niko Heyduck",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "32614",
+                    "join": "",
+                    "name": "Victor Sol",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "24",
+                    "join": "",
+                    "name": "Atom Heart",
+                    "role": "Written-By [With]",
+                    "tracks": "1 to 3"
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "CD PLANT MFG PS 08/58 CDM01"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "593",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "297",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "461",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "586"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PS 08/58",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "1075719"
+        },
+        "notes": "Recorded between 1986 and 1994 at PNG Studios, Secret Vo Ese Studio, Sel i/s/c and Noitect, Sector A.\r\nDigital editing and final mix at Noitect/Barcelona.\r\n\r\nThank you:\r\nAlain \"Stocha\" Baumann for digital editing facilities, Wolfgang Warmbold for tapemachines, Peter Voigt/Captain Panama and Peter Weiss, Pink Elln/Tobias, Margret + Angela + our parents for support.\r\n\r\nLow volume listening recommended.\r\n\r\nLimitation: 1000",
+        "released": "1995-02-13",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Experimental",
+                "Minimal"
+            ]
+        },
+        "title": "Aerial Service Area",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "7:35",
+                    "position": "1",
+                    "title": "ETI Encoding"
+                },
+                {
+                    "duration": "18:52",
+                    "position": "2",
+                    "title": "Eternal ∞"
+                },
+                {
+                    "duration": "5:27",
+                    "position": "3",
+                    "title": "Liquid Water"
+                },
+                {
+                    "duration": "18:51",
+                    "position": "4",
+                    "title": "Highlow"
+                },
+                {
+                    "duration": "15:03",
+                    "position": "5",
+                    "title": "Another Green Airport"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "3949",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=G6kbKZ1la2w",
+                    "description": "Aerial Service Area  (1995)‎\nRelaxing space ambient,\n Low volume listening recommended\n\n1 ETI Encoding                        0:00\n2 Eternal                                   7:35\n3 Liquid Water                         26:27\n4 Highlow",
+                    "title": "Aerial Service Area ‎(Full Album)"
+                },
+                {
+                    "_duration": "1131",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=VqNRgfY5Kvs",
+                    "description": "Aerial Service Area - Eternal",
+                    "title": "Aerial Service Area Eternal"
+                },
+                {
+                    "_duration": "329",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Jc-W2KBV7nM",
+                    "description": "Aerial Service Area - Liquid Water\r\n\r\nhttp://www.discogs.com/Aerial-Service-Area-Aerial-Service-Area/release/52521",
+                    "title": "Aerial Service Area - Liquid Water"
+                },
+                {
+                    "_duration": "891",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=bws7lIwYeGs",
+                    "description": "Aerial Service Area - Another Green Airport\r\n\r\nhttp://www.discogs.com/Aerial-Service-Area-Aerial-Service-Area/release/52521",
+                    "title": "Aerial Service Area - Another Green Airport"
+                }
+            ]
+        }
+    }
+}

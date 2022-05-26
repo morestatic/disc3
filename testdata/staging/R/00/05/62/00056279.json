@@ -1,0 +1,441 @@
+{
+    "release": {
+        "_id": "56279",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "30",
+                "join": "",
+                "name": "Groove Collective",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "104817",
+                    "name": "GRP Records, Inc.",
+                    "resource_url": "https://api.discogs.com/labels/104817"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "104817",
+                    "name": "GRP Records, Inc.",
+                    "resource_url": "https://api.discogs.com/labels/104817"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "10",
+                    "entity_type_name": "Manufactured By",
+                    "id": "104817",
+                    "name": "GRP Records, Inc.",
+                    "resource_url": "https://api.discogs.com/labels/104817"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "9",
+                    "entity_type_name": "Distributed By",
+                    "id": "264222",
+                    "name": "Uni Distribution Corp.",
+                    "resource_url": "https://api.discogs.com/labels/264222"
+                }
+            ]
+        },
+        "country": "US",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "783718",
+                    "join": "",
+                    "name": "Maurice Bernstein",
+                    "role": "Executive-Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "114262",
+                    "join": "",
+                    "name": "Tommy LiPuma",
+                    "role": "Executive-Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "158991",
+                    "join": "",
+                    "name": "Genji Siraisi",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "30",
+                    "join": "",
+                    "name": "Groove Collective",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "36607",
+                    "join": "",
+                    "name": "Itaal Shur",
+                    "role": "Producer",
+                    "tracks": "3"
+                },
+                {
+                    "anv": "",
+                    "id": "32",
+                    "join": "",
+                    "name": "Jay Denes",
+                    "role": "Producer",
+                    "tracks": "7"
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "Digipak",
+                "descriptions": {
+                    "description": "Album"
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Scanned",
+                    "_type": "Barcode",
+                    "_value": "011105018722"
+                },
+                {
+                    "_description": "Text",
+                    "_type": "Barcode",
+                    "_value": "0 11105 0187 2 2"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "C1.1 109487-01 GSRD-187 UNI"
+                },
+                {
+                    "_type": "Mastering SID Code",
+                    "_value": "IFPI L891"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "530",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "497",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "597"
+                },
+                {
+                    "_height": "593",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "689",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "700",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "748",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "659",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "594",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "603",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "597",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "606",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "603",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "597",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "610",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "607",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "622",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "594",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "613",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "GSRD-187",
+                "_id": "33712",
+                "_name": "Giant Step Records"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "169355"
+        },
+        "released": "1996",
+        "styles": {
+            "style": [
+                "House",
+                "Acid Jazz",
+                "Future Jazz"
+            ]
+        },
+        "title": "We The People",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "1:20",
+                    "position": "1",
+                    "title": "Jay Wrestles The Bari Constrictor Pt.1"
+                },
+                {
+                    "duration": "5:41",
+                    "position": "2",
+                    "title": "Loisaida"
+                },
+                {
+                    "duration": "4:25",
+                    "position": "3",
+                    "title": "Lift Off"
+                },
+                {
+                    "duration": "5:10",
+                    "position": "4",
+                    "title": "Everybody (We The People)"
+                },
+                {
+                    "duration": "7:50",
+                    "position": "5",
+                    "title": "Fly"
+                },
+                {
+                    "duration": "6:45",
+                    "position": "6",
+                    "title": "Sneaky"
+                },
+                {
+                    "duration": "4:25",
+                    "position": "7",
+                    "title": "I Am"
+                },
+                {
+                    "duration": "4:15",
+                    "position": "8",
+                    "title": "Caterpillar"
+                },
+                {
+                    "duration": "4:51",
+                    "position": "9",
+                    "title": "Hide It"
+                },
+                {
+                    "duration": "5:06",
+                    "position": "10",
+                    "title": "Anthem"
+                },
+                {
+                    "duration": "5:16",
+                    "position": "11",
+                    "title": "Sedate"
+                },
+                {
+                    "duration": "4:28",
+                    "position": "12",
+                    "title": "Jay Wrestles The Bari Constrictor Pt.2"
+                },
+                {
+                    "duration": "0:58",
+                    "position": "13",
+                    "title": "Nightwaves"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "295",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=W7fTiy-mUOM",
+                    "description": "Provided to YouTube by Universal Music Group\n\nEverybody (We The People) · Groove Collective\n\nWe The People\n\n℗ 1996 UMG Recordings, Inc.\n\nReleased on: 1996-01-01\n\nProducer: Genji Siraisi\nProducer: Groove Collective\nComposer  Lyricist: Fabio Morgera\nComp",
+                    "title": "Everybody (We The People)"
+                },
+                {
+                    "_duration": "276",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=WWJeZx4nDeI",
+                    "description": "",
+                    "title": "Groove Collective - Lift Off"
+                },
+                {
+                    "_duration": "3856",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=VrJJrYUgGeo",
+                    "description": "Track list: \n\n01 - Jay Wrestles the Bari Constrictor part 1 00:00\n02 - Loisaida 01:20\n03 - Lift Off   07:13\n04 - Everybody (We the People) \n05 - Fly  11:38\n06 - Sneaky  19:27\n07 - I Am  26:14\n08 - Caterpillar 30:40\n09 - Hide It  34:54\n10 - Anthem  39:46\n1",
+                    "title": "Acid jazz Groove collective - we the people 1996 (full album)"
+                },
+                {
+                    "_duration": "352",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=vlnPy4-qT2s",
+                    "description": "Groove Collective, a group of highly talented musicians formed in downtown New York City in 1990, bringing jazz, funk, hip hop, and latin music fusion at its most sublime. Their album People People Music Music was nominated for the 49th Annual Grammy Awar",
+                    "title": "Groove Collective - Loisaida"
+                },
+                {
+                    "_duration": "267",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=r6JvmdFXQbs",
+                    "description": "Provided to YouTube by Universal Music Group\n\nLift Off · Groove Collective\n\nWe The People\n\n℗ 1996 UMG Recordings, Inc.\n\nReleased on: 1996-01-01\n\nProducer: Itaal Shur\nProducer: Genji Siraisi\nProducer: Groove Collective\nComposer  Lyricist: Jonathan Maron",
+                    "title": "Lift Off"
+                },
+                {
+                    "_duration": "475",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=PUl8VEOJDGY",
+                    "description": "well, this is one  of the most  impressive tracks of Groove Collective,  I bet  that you  would like it !!!  Just close your eyes, imagine and listen...  FLY!!",
+                    "title": "Groove Collective - Fly"
+                },
+                {
+                    "_duration": "269",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=NZvAsVj4IJg",
+                    "description": "http://mistaGROOVERadio.co.uk Love old skool vibes? Check out mistaGROOVE Radio - The Station That Keeps Old Vibes Alive! \n\nmistaGROOVE Radio is an internet radio station that broadcasts old skool vibes 24 hours a day - 7 days a week.  We specialize in So",
+                    "title": "Lift Off   Groove Collective 1996"
+                },
+                {
+                    "_duration": "471",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=_PhWm2vgRTg",
+                    "description": "From the album We The People (Giant Step Records, 1996).......\n\nGordon Nappy G Clay - Bongos, Composer, Percussion, Talking Drum, Timbales, Vocals\nJonathan Maron - Guitar (Bass), Guitar (Electric), Memory Moog, Vocoder\nMcBabee Power - Vocals\nVinia Moj",
+                    "title": "Groove Collective - Fly"
+                },
+                {
+                    "_duration": "352",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=HjILiJHU2HU",
+                    "description": "From the We The People CD",
+                    "title": "Groove Collective  Loisaida"
+                }
+            ]
+        }
+    }
+}

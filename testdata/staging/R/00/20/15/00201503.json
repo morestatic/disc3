@@ -1,0 +1,158 @@
+{
+    "release": {
+        "_id": "201503",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "292999",
+                "join": "",
+                "name": "Xenon (5)",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "7649",
+                    "join": "",
+                    "name": "DJ Criss",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "16732",
+                    "join": "",
+                    "name": "Massimo Vivona",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Etched Runout A-Side",
+                    "_type": "Matrix / Runout",
+                    "_value": "PRODUCED AT TRANCELAB STUDIO = PS 08/26 A"
+                },
+                {
+                    "_description": "Etched Runout B-Side",
+                    "_type": "Matrix / Runout",
+                    "_value": "SPECIAL THANKS TO HEIKE FOR EXCELLENT CATERING"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PS 08/26",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "182234"
+        },
+        "notes": "Limitation: 500",
+        "released": "1993-10-04",
+        "styles": {
+            "style": [
+                "Trance",
+                "Ambient"
+            ]
+        },
+        "title": "Xenon",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "7:17",
+                    "position": "A1",
+                    "title": "Atomic Solution"
+                },
+                {
+                    "duration": "6:04",
+                    "position": "A2",
+                    "title": "Universe"
+                },
+                {
+                    "duration": "10:20",
+                    "position": "B",
+                    "title": "Go With The Flow"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "428",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Tx5tr9EQM2Y",
+                    "description": "Xenon  - Atomic Solution [FAX Records] (1993)\n\nAlbum: Xenon (5) ‎– Xenon\nSello: Fax +49-69/450464 ‎– PS 08/26\nFormato: Vinyl, 12, Limited Edition\nPaís: Germany\nPublicado: 04 Oct 1993\nGénero: Electronic\nEstilo: Trance, Ambient\n\n            Writt",
+                    "title": "Xenon  - Atomic Solution [FAX Records] (1993)"
+                },
+                {
+                    "_duration": "362",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=tGkJd28pfcI",
+                    "description": "",
+                    "title": "Xenon - Universe  trance"
+                },
+                {
+                    "_duration": "620",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=63jkaAIKfM0",
+                    "description": "Rare old ambient from Fax +49-69/450464",
+                    "title": "Xenon - Go With The Flow (1993)"
+                },
+                {
+                    "_duration": "428",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=1s61pAB-B-o",
+                    "description": "https://www.discogs.com/fr/Xenon-Xenon/release/201503",
+                    "title": "Xenon - Atomic Solution (Trance 1993)"
+                }
+            ]
+        }
+    }
+}

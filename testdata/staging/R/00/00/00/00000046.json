@@ -1,0 +1,172 @@
+{
+    "release": {
+        "_id": "46",
+        "_status": "Accepted",
+        "artists": {
+            "artist": [
+                {
+                    "anv": "Håkan",
+                    "id": "96",
+                    "join": "Featuring",
+                    "name": "Håkan Lidbo",
+                    "role": "",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "95",
+                    "join": "",
+                    "name": "Laid",
+                    "role": "",
+                    "tracks": ""
+                }
+            ]
+        },
+        "companies": "",
+        "country": "UK",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "96",
+                "join": "",
+                "name": "Håkan Lidbo",
+                "role": "Producer, Written-By",
+                "tracks": "A2 to B2"
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_type": "Barcode",
+                "_value": "5 0254254 05921"
+            }
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "LOAD 59",
+                "_id": "40",
+                "_name": "Loaded Records"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "1757824"
+        },
+        "notes": "Title given as \"Håkan Presents... New Standards featuring Laid\".\r\n\r\n℗ © 1999 Loaded Records\r\nPublished by Container Publishing.\r\nMade in the UK.\r\nDistrbuted by 3mv/Pinnacle.",
+        "released": "1999",
+        "styles": {
+            "style": "House"
+        },
+        "title": "New Standards",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "J. Emmoth",
+                                "id": "63716",
+                                "join": "",
+                                "name": "Johan Emmoth",
+                                "role": "Producer, Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "J. Andersson",
+                                "id": "28679",
+                                "join": "",
+                                "name": "John Andersson",
+                                "role": "Producer, Written-By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "A1",
+                    "title": "Bug"
+                },
+                {
+                    "duration": "",
+                    "position": "A2",
+                    "title": "Keep On Dancing"
+                },
+                {
+                    "duration": "",
+                    "position": "AA1",
+                    "title": "Smooth Intruder"
+                },
+                {
+                    "duration": "",
+                    "position": "AA2",
+                    "title": "Relax..."
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "344",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=jGHs6FsWh-w",
+                    "description": "Håkan presents New Standards featuring Laid - Bug [LOAD 59]\n\nLoaded Records ‎– LOAD 59 // UK // 1999",
+                    "title": "Håkan featuring Laid - Bug [LOAD 59]"
+                },
+                {
+                    "_duration": "442",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=QyfGfi9c2BY",
+                    "description": "",
+                    "title": "Hakan - Keep on dancing"
+                },
+                {
+                    "_duration": "390",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=5HG11IPqopU",
+                    "description": "Provided to YouTube by Loaded Records\n\nSmooth Intruder · Håkan Lidbo\n\nNew Standards\n\n℗ 2000 Loaded Records Limited, a BMG Company\n\nPerformance: Håkan Lidbo\n\nAuto-generated by YouTube.",
+                    "title": "Smooth Intruder"
+                },
+                {
+                    "_duration": "372",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=sdfOXbQyjxM",
+                    "description": "Provided to YouTube by Loaded Records\n\nRelax · Håkan Lidbo\n\nNew Standards\n\n℗ 2000 Loaded Records Limited, a BMG Company\n\nPerformance: Håkan Lidbo\n\nAuto-generated by YouTube.",
+                    "title": "Relax"
+                }
+            ]
+        }
+    }
+}

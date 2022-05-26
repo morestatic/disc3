@@ -1,0 +1,252 @@
+{
+    "release": {
+        "_id": "52676",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "21141",
+                "join": "",
+                "name": "16th Element",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "6",
+                    "entity_type_name": "Licensed From",
+                    "id": "1979",
+                    "name": "Vicious Vinyl",
+                    "resource_url": "https://api.discogs.com/labels/1979"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "9",
+                    "entity_type_name": "Distributed By",
+                    "id": "149122",
+                    "name": "3MV",
+                    "resource_url": "https://api.discogs.com/labels/149122"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "9",
+                    "entity_type_name": "Distributed By",
+                    "id": "264522",
+                    "name": "Pinnacle (3)",
+                    "resource_url": "https://api.discogs.com/labels/264522"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "40",
+                    "name": "Loaded Records",
+                    "resource_url": "https://api.discogs.com/labels/40"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "1979",
+                    "name": "Vicious Vinyl",
+                    "resource_url": "https://api.discogs.com/labels/1979"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "16",
+                    "entity_type_name": "Made By",
+                    "id": "384694",
+                    "name": "Universal M \u0026 L, UK",
+                    "resource_url": "https://api.discogs.com/labels/384694"
+                }
+            ]
+        },
+        "country": "UK",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "198702",
+                "join": "",
+                "name": "Kam Denny",
+                "role": "Written-By, Producer",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "Single"
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Barcode",
+                    "_value": "502542520895 9"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "LOAD89CD 01 6"
+                },
+                {
+                    "_description": "Inner Ring [Mould]",
+                    "_type": "Matrix / Runout",
+                    "_value": "MADE IN THE UK BY UNIVERSAL M \u0026 L"
+                },
+                {
+                    "_type": "Mastering SID Code",
+                    "_value": "IFPI L136"
+                },
+                {
+                    "_type": "Mould SID Code",
+                    "_value": "IFPI 04F4"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "525",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "529",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "607",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "478",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "472"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "load 89cd",
+                "_id": "40",
+                "_name": "Loaded Records"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "false",
+            "content": "67207"
+        },
+        "notes": "Comes in a j-card style case. Track durations are not printed on the release. Original cased copies have a custom sticker that reads 'Featuring X-press 2 Remix'.\n\n℗ Loaded Records 2002\n© Vicious Vinyl Records 2001\n\nMade in England",
+        "released": "2002",
+        "styles": {
+            "style": [
+                "House",
+                "Tech House"
+            ]
+        },
+        "title": "Well Strung / Warp",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "6:55",
+                    "position": "1",
+                    "title": "Well Strung"
+                },
+                {
+                    "duration": "5:56",
+                    "position": "2",
+                    "title": "Warp"
+                },
+                {
+                    "duration": "7:06",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "2937",
+                            "join": "",
+                            "name": "X-Press 2",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "3",
+                    "title": "Warp (X-Press 2 4am At Fabric Mix)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "225",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=cXuiXX3M1SU",
+                    "description": "",
+                    "title": "16th element-Warp (X-press2 rmx)"
+                },
+                {
+                    "_duration": "343",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=0h3iLZY-Y90",
+                    "description": "Label:Subliminal ‎– SUB 81\nFormat:2 × Vinyl, 12\nCountry:US\nReleased:2002\nGenre:Electronic\nStyle:House, Tech House \n\nhttps://www.discogs.com/16th-Element-Warp-Well-Strung/release/185307",
+                    "title": "16th Element - Warp (Differential Mix)"
+                },
+                {
+                    "_duration": "365",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=SRuH-JMpuro",
+                    "description": "16th Element ‎– Warp / Well Strung\n\nLabel: Vicious Vinyl ‎– VV12046\nFormat: Vinyl, 12\nCountry: Australia\nReleased: 2001\nGenre: Electronic\nStyle: Progressive House, House\n\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬",
+                    "title": "16th Element ‎– Warp (Original Mix)"
+                },
+                {
+                    "_duration": "366",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=4qTuyhfjBHI",
+                    "description": "Released:2002\nGenre:Electronic\nStyle:House, Tech House",
+                    "title": "16th Element - Warp"
+                },
+                {
+                    "_duration": "445",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=2eXLn57tqro",
+                    "description": "Provided to YouTube by Vicious Recordings\n\nWell Strung (Jaded vs Andy Van Re-Rub) · 16th Element\n\nWarp / Well Strung\n\n℗ Vicious Recordings Pty Ltd\n\nReleased on: 2002-03-21\n\nArtist: 16th Element\n\nAuto-generated by YouTube.",
+                    "title": "Well Strung (Jaded vs Andy Van Re-Rub)"
+                },
+                {
+                    "_duration": "417",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=GLDsm9kY4Uc",
+                    "description": "16th Element ‎– Warp / Well Strung\n\nLabel: Vicious Vinyl ‎– VV12046\nFormat: Vinyl, 12\nCountry: Australia\nReleased: 2001\nGenre: Electronic\nStyle: Progressive House, House\n\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬",
+                    "title": "16th Element ‎– Well Strung (Original Mix)"
+                },
+                {
+                    "_duration": "417",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=vHrs4Z7tJ5k",
+                    "description": "Label:Subliminal ‎– SUB 81\nFormat:2 × Vinyl, 12Country:US\nReleased:2002\nGenre:Electronic\nStyle:House, Tech House \n\nhttps://www.discogs.com/16th-Element-Warp-Well-Strung/release/185307",
+                    "title": "16th Element - Well Strung (Original Mix)"
+                }
+            ]
+        }
+    }
+}

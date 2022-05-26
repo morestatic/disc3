@@ -1,0 +1,173 @@
+{
+    "release": {
+        "_id": "183355",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "60",
+                "join": "",
+                "name": "Pete Moss",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "29",
+                    "name": "Recline",
+                    "resource_url": "https://api.discogs.com/labels/29"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "29",
+                    "entity_type_name": "Mastered At",
+                    "id": "309015",
+                    "name": "Third Story Recording",
+                    "resource_url": "https://api.discogs.com/labels/309015"
+                }
+            ]
+        },
+        "country": "US",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "Dieselboy@Platinum_Studio",
+                    "id": "1865966",
+                    "join": "",
+                    "name": "Dieselboy (2)",
+                    "role": "Design",
+                    "tracks": ""
+                },
+                {
+                    "anv": "Mark Siriski",
+                    "id": "729829",
+                    "join": "",
+                    "name": "Mark Sir Risky",
+                    "role": "Mastered By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "60",
+                    "join": "",
+                    "name": "Pete Moss",
+                    "role": "Written-By, Producer",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM",
+                        "EP"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Side A Runout",
+                    "_type": "Matrix / Runout",
+                    "_value": "9804X29•A"
+                },
+                {
+                    "_description": "Side B Runout",
+                    "_type": "Matrix / Runout",
+                    "_value": "9804X29-B"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "RECLINE001",
+                "_id": "29",
+                "_name": "Recline"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "1474118"
+        },
+        "notes": "© 1999 Recline Records\nMastered @ Third Story.",
+        "released": "1998",
+        "styles": {
+            "style": [
+                "House",
+                "Deep House"
+            ]
+        },
+        "title": "Relocation EP",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A1",
+                    "title": "Relocation (Original)"
+                },
+                {
+                    "duration": "",
+                    "position": "A2",
+                    "title": "Time Travel (Original)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "Dozia",
+                            "id": "11",
+                            "join": "",
+                            "name": "DJ Dozia",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "B1",
+                    "title": "Relocation (Dozia's On Location Mix)"
+                }
+            ]
+        },
+        "videos": {
+            "video": {
+                "_duration": "339",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=EGGKcO8fUeE",
+                "description": "Buy @ https://www.beatport.com/release/relocation-ep/48811",
+                "title": "Pete Moss - Relocation (1998)"
+            }
+        }
+    }
+}

@@ -1,0 +1,108 @@
+{
+    "release": {
+        "_id": "102870",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "96",
+                "join": "",
+                "name": "Håkan Lidbo",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "UK",
+        "data_quality": "Needs Vote",
+        "extraartists": "",
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "EP"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "581",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "563",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "LOAD 62",
+                "_id": "40",
+                "_name": "Loaded Records"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "222068"
+        },
+        "released": "2000",
+        "styles": {
+            "style": [
+                "House",
+                "Dub",
+                "Deep House"
+            ]
+        },
+        "title": "Painkillers EP",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A1",
+                    "title": "Weekend Player"
+                },
+                {
+                    "duration": "",
+                    "position": "A2",
+                    "title": "No Anchovies"
+                },
+                {
+                    "duration": "",
+                    "position": "AA1",
+                    "title": "Root Syndicate"
+                },
+                {
+                    "duration": "",
+                    "position": "AA2",
+                    "title": "Out There"
+                }
+            ]
+        },
+        "videos": {
+            "video": {
+                "_duration": "353",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=Jqw3IeRXM1Y",
+                "description": "Provided to YouTube by Believe SAS\n\nRoot Syndicate · Hakan\n\nPainkillers\n\n℗ 2000 Loaded Records Limited, a BMG Company\n\nReleased on: 2000-04-17\n\nComposer: Hakan Lidbo\nMusic Publisher: CONTAINER PUBLISHING MISTY MUSIC AB MISTY MUSIC (UK)\n\nAuto-generated",
+                "title": "Root Syndicate"
+            }
+        }
+    }
+}

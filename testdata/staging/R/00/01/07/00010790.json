@@ -1,0 +1,286 @@
+{
+    "release": {
+        "_id": "10790",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "10848",
+                "join": "",
+                "name": "Olivetti",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "US",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "1690553",
+                "join": "",
+                "name": "Grant Horne",
+                "role": "DJ Mix",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Compilation",
+                        "Mixed"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "labels": {
+            "label": {
+                "_catno": "SOME02",
+                "_id": "2414",
+                "_name": "Chromosome57"
+            }
+        },
+        "notes": "1000 pressing.\r\n\r\nTrack 5 is misspelled as \"Dubb Me Sumpthin' Fresh\"",
+        "released": "2001-02-00",
+        "styles": {
+            "style": [
+                "Deep House",
+                "Tech House"
+            ]
+        },
+        "title": "Live Nude Music",
+        "tracklist": {
+            "track": [
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "4511",
+                            "join": "",
+                            "name": "Wolf n' Flow",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "1",
+                    "title": "Activate"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "3180",
+                            "join": "",
+                            "name": "Dr. Sparkle",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "2",
+                    "title": "Curb Feelers Theme"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1838",
+                            "join": "",
+                            "name": "Recloose",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "3",
+                    "title": "Soul Clap 2000"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "10851",
+                            "join": "",
+                            "name": "Murray Richardson",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "4",
+                    "title": "Armed"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "4484",
+                            "join": "",
+                            "name": "Halo, Hipp-E \u0026 Tony",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "5",
+                    "title": "Dubb Me Some'tin Fresh"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "3192",
+                            "join": "",
+                            "name": "Audio Soul Project",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "6",
+                    "title": "Back To Joy"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "6544",
+                            "join": "",
+                            "name": "Hipp-E \u0026 Tony",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "7",
+                    "title": "Musica De La Celva"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "60",
+                            "join": "",
+                            "name": "Pete Moss",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "8",
+                    "title": "Break Free"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "800",
+                            "join": "",
+                            "name": "Terry Lee Brown Jr.",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "9",
+                    "title": "Level Vibes"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "17689",
+                            "join": "",
+                            "name": "Phonogenic",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "2027",
+                            "join": "",
+                            "name": "David Duriez",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "10",
+                    "title": "Tammer (David Duriez Remix From Da Vault)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "10853",
+                            "join": "",
+                            "name": "The Short Room",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "11",
+                    "title": "Three Bands, One Spliff"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "7795",
+                            "join": "",
+                            "name": "Giovani \u0026 Mosler",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "12",
+                    "title": "Untitled"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "10852",
+                            "join": "",
+                            "name": "The Delinquents",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "13",
+                    "title": "Funktion"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "232",
+                            "join": "",
+                            "name": "Swayzak",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "14",
+                    "title": "Goose"
+                }
+            ]
+        }
+    }
+}

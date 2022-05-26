@@ -1,0 +1,166 @@
+{
+    "release": {
+        "_id": "58176",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "60",
+                "join": "",
+                "name": "Pete Moss",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "26",
+                    "entity_type_name": "Produced At",
+                    "id": "1566086",
+                    "name": "The Recline Center",
+                    "resource_url": "https://api.discogs.com/labels/1566086"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "24",
+                    "entity_type_name": "Engineered At",
+                    "id": "1566086",
+                    "name": "The Recline Center",
+                    "resource_url": "https://api.discogs.com/labels/1566086"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "37",
+                    "entity_type_name": "Produced For",
+                    "id": "1566139",
+                    "name": "Recline Music",
+                    "resource_url": "https://api.discogs.com/labels/1566139"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "32",
+                    "name": "Worship Recordings",
+                    "resource_url": "https://api.discogs.com/labels/32"
+                }
+            ]
+        },
+        "country": "US",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "60",
+                "join": "",
+                "name": "Pete Moss",
+                "role": "Engineer, Producer, Written-By",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "12\""
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "500",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                },
+                {
+                    "_height": "500",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                },
+                {
+                    "_height": "500",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "WOR 12",
+                "_id": "32",
+                "_name": "Worship Recordings"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "324985"
+        },
+        "released": "2002-01-00",
+        "styles": {
+            "style": [
+                "House",
+                "Deep House"
+            ]
+        },
+        "title": "The Zen Method",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "7:05",
+                    "position": "A",
+                    "title": "R. U. Serious"
+                },
+                {
+                    "duration": "6:30",
+                    "position": "B1",
+                    "title": "Desert Lightning"
+                },
+                {
+                    "duration": "7:50",
+                    "position": "B2",
+                    "title": "Make It Werk"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "432",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=oTO1hQkuvAk",
+                    "description": "2001. The Zen Method Vinyl, 12  -  Worship Recordings",
+                    "title": "Pete Moss  -  R.U. Serious"
+                },
+                {
+                    "_duration": "394",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=xw7B5OHs43I",
+                    "description": "Worship 2001",
+                    "title": "Pete Moss - Desert Lightning"
+                },
+                {
+                    "_duration": "485",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=GUh_GHfnct4",
+                    "description": "http://www.discogs.com/Pete-Moss-Zen-Method/release/58176",
+                    "title": "Pete Moss - Make It Werk"
+                }
+            ]
+        }
+    }
+}

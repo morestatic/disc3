@@ -1,0 +1,175 @@
+{
+    "release": {
+        "_id": "99957",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "2912",
+                "join": "",
+                "name": "Dreamfish",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": {
+                "catno": "16324",
+                "entity_type": "17",
+                "entity_type_name": "Pressed By",
+                "id": "277449",
+                "name": "P+O Pallas",
+                "resource_url": "https://api.discogs.com/labels/277449"
+            }
+        },
+        "country": "Germany",
+        "data_quality": "Complete and Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "3985",
+                    "join": "",
+                    "name": "Mixmaster Morris",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "PW 02 P+O-16324-A2 05-93"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "464",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PW 02",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "32126"
+        },
+        "notes": "LIVE THE DREAM\r\nDREAM THE FISH\r\n\r\nThe Dreamfish is an psychoactive creature consumed by natives of a certain tropical island for shamanic ritual. (Alexander Shulgin)\r\n\r\nDreamfish\r\nFRANKFURT 1993\r\n\r\nSpecial fishtanks to:\r\n\r\nCaspar Poundfish\r\n\r\nAndré Fischkopf\r\nThe Aphex Phish\r\n\r\nMotherfish Elisabeth\r\nChildfish FABiA\r\n\r\nLimitation: 500",
+        "released": "1993-05-00",
+        "styles": {
+            "style": [
+                "Techno",
+                "Ambient"
+            ]
+        },
+        "title": "Dreamfish",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "18:26",
+                    "position": "1",
+                    "title": "School Of Fish"
+                },
+                {
+                    "duration": "28:09",
+                    "position": "2",
+                    "title": "Hymn"
+                },
+                {
+                    "duration": "9:25",
+                    "position": "3",
+                    "title": "Fishology"
+                },
+                {
+                    "duration": "15:18",
+                    "position": "4",
+                    "title": "Under Water"
+                }
+            ]
+        },
+        "videos": {
+            "video": {
+                "_duration": "4255",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=j_0nRcpdKw4",
+                "description": "Pete Namlook \u0026 Mixmaster Morris - Dreamfish\n\n1. School Of Fish (00:00)\n2. Hymn (18:22)\n3. Fishology (46:17)\n4. Under Water (55:38)\n\nWritten-By – Mixmaster Morris, Pete Namlook",
+                "title": "Pete Namlook \u0026 Mixmaster Morris - Dreamfish [full album]"
+            }
+        }
+    }
+}

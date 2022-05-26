@@ -1,0 +1,144 @@
+{
+    "release": {
+        "_id": "74061",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "Namlook",
+                "id": "1910",
+                "join": "",
+                "name": "Pete Namlook",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": {
+                "catno": "",
+                "entity_type": "26",
+                "entity_type_name": "Produced At",
+                "id": "294386",
+                "name": "Klanglabor Frankfurt",
+                "resource_url": "https://api.discogs.com/labels/294386"
+            }
+        },
+        "country": "Germany",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "1910",
+                "join": "",
+                "name": "Pete Namlook",
+                "role": "Written-By, Producer",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                },
+                {
+                    "_description": "Side-A",
+                    "_type": "Matrix / Runout",
+                    "_value": "- The concept of this music is the disbanding of sound into it's finest components........ into sound - “ Atoms “"
+                },
+                {
+                    "_description": "Side-A",
+                    "_type": "Matrix / Runout",
+                    "_value": "Produced by Pete Namlook at Klanglabor Frankfurt"
+                },
+                {
+                    "_description": "Side-B",
+                    "_type": "Matrix / Runout",
+                    "_value": "- Atom - Audio Translation of Molecules - - Music from the heart of the - Atom -"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "500",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                },
+                {
+                    "_height": "500",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/111",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "1588797"
+        },
+        "notes": "Limitation: 1000\nAll tracks written and produced at Klanglabor/Frankfurt",
+        "released": "1996-03-18",
+        "styles": {
+            "style": [
+                "Abstract",
+                "Techno",
+                "Minimal"
+            ]
+        },
+        "title": "Atom",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "7:55",
+                    "position": "A1",
+                    "title": "Environmental Atoms"
+                },
+                {
+                    "duration": "4:45",
+                    "position": "A2",
+                    "title": "Subharmonic Atoms"
+                },
+                {
+                    "duration": "9:30",
+                    "position": "B1",
+                    "title": "Audio Atom"
+                }
+            ]
+        },
+        "videos": {
+            "video": {
+                "_duration": "287",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=eB9kXLzVWh4",
+                "description": "Namlook - Atom\nLabel: Fax +49-69/450464 - PK 08/107\nFormat: CD, Album, Limited Edition\nCountry: Germany\nReleased: 01 Jan 1996\nGenre: Electronic\nStyle: Experimental, Future Jazz, Minimal \n\nhttp://www.discogs.com/Namlook-Atom/release/16620\n\nFor Promotion On",
+                "title": "Namlook - Subharmonic Atoms"
+            }
+        }
+    }
+}

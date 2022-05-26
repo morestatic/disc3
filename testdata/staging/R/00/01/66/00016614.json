@@ -1,0 +1,220 @@
+{
+    "release": {
+        "_id": "16614",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "Namlook",
+                "id": "1910",
+                "join": "",
+                "name": "Pete Namlook",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "10",
+                    "entity_type_name": "Manufactured By",
+                    "id": "291931",
+                    "name": "CD Plant MFG",
+                    "resource_url": "https://api.discogs.com/labels/291931"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "751433",
+                    "name": "Global Warming, Ft. Lauderdale",
+                    "resource_url": "https://api.discogs.com/labels/751433"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Composed By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "Namlook",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Liner Notes",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "CD PLANT MFG PK 08/100 CDM01"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC6269"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "594",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "464",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/100",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Recorded and composed live at Global Warming, Ft. Lauderdale on December 3rd, 1994 from 1.00 am to 2.00 am.\r\n\r\nLimited to 1000 copies.",
+        "released": "1995-04-10",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Downtempo",
+                "Experimental"
+            ]
+        },
+        "title": "Namlook X",
+        "tracklist": {
+            "track": {
+                "duration": "60:24",
+                "position": "",
+                "sub_tracks": {
+                    "track": [
+                        {
+                            "duration": "5:00",
+                            "position": "1",
+                            "title": "Monolith (Part I)"
+                        },
+                        {
+                            "duration": "5:00",
+                            "position": "2",
+                            "title": "Monolith (Part II)"
+                        },
+                        {
+                            "duration": "5:00",
+                            "position": "3",
+                            "title": "Monolith (Part III)"
+                        },
+                        {
+                            "duration": "5:00",
+                            "position": "4",
+                            "title": "Monolith (Part IV)"
+                        },
+                        {
+                            "duration": "5:00",
+                            "position": "5",
+                            "title": "Monolith (Part V)"
+                        },
+                        {
+                            "duration": "5:00",
+                            "position": "6",
+                            "title": "Monolith (Part VI)"
+                        },
+                        {
+                            "duration": "5:00",
+                            "position": "7",
+                            "title": "Monolith (Part VII)"
+                        },
+                        {
+                            "duration": "5:00",
+                            "position": "8",
+                            "title": "Monolith (Part VIII)"
+                        },
+                        {
+                            "duration": "5:00",
+                            "position": "9",
+                            "title": "Monolith (Part IX)"
+                        },
+                        {
+                            "duration": "5:00",
+                            "position": "10",
+                            "title": "Monolith (Part X)"
+                        },
+                        {
+                            "duration": "5:00",
+                            "position": "11",
+                            "title": "Monolith (Part XI)"
+                        },
+                        {
+                            "duration": "5:24",
+                            "position": "12",
+                            "title": "Monolith (Part XII)"
+                        }
+                    ]
+                },
+                "title": "Monolith"
+            }
+        }
+    }
+}

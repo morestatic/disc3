@@ -1,0 +1,274 @@
+{
+    "release": {
+        "_id": "52407",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "194",
+                "join": "",
+                "name": "Various",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "Belgium",
+        "data_quality": "Correct",
+        "extraartists": "",
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "Compilation"
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": {
+                "_height": "592",
+                "_type": "primary",
+                "_uri": "",
+                "_uri150": "",
+                "_width": "600"
+            }
+        },
+        "labels": {
+            "label": {
+                "_catno": "KZ01CD",
+                "_id": "26064",
+                "_name": "N.E.W.S."
+            }
+        },
+        "released": "1997",
+        "styles": {
+            "style": "Techno"
+        },
+        "title": "Kozzmozz - First Trip In",
+        "tracklist": {
+            "track": [
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "355",
+                            "join": "",
+                            "name": "Unknown Artist",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "1",
+                    "title": "Mission (Intro)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1174",
+                            "join": "",
+                            "name": "Sterac",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "2",
+                    "title": "Thera"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "8881",
+                            "join": "",
+                            "name": "Metro Dade",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "3",
+                    "title": "The Andor Voyage"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "Autokinetic",
+                            "id": "9472",
+                            "join": "",
+                            "name": "Auto Kinetic",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "102",
+                            "join": "",
+                            "name": "Sensurreal",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "4",
+                    "title": "Symetry (Sensurreal's Resong)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "20",
+                            "join": "",
+                            "name": "Percy X",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "5",
+                    "title": "RD 600"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "3388",
+                            "join": "",
+                            "name": "Tata Box Inhibitors",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "6",
+                    "title": "Ribosomal"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1360",
+                            "join": "",
+                            "name": "Adam Beyer",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "7",
+                    "title": "Pung"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1607",
+                            "join": "",
+                            "name": "Secret Cinema",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1018",
+                            "join": "",
+                            "name": "Rejuvination",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "8",
+                    "title": "Straight Forward (Rejuvination Lateral Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1568",
+                            "join": "",
+                            "name": "Kenny Larkin",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "9",
+                    "title": "Loop 2 (Original)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "42247",
+                            "join": "",
+                            "name": "Subsurf",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "10",
+                    "title": "Cakewalk"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "42248",
+                            "join": "",
+                            "name": "Planet Of Drums",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "11",
+                    "title": "Acid Over Manhattan"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1110",
+                            "join": "",
+                            "name": "The Advent",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "12",
+                    "title": "Stassis"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1019",
+                            "join": "",
+                            "name": "Funk D'Void",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "13",
+                    "title": "Your Song"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "release": {
+        "_id": "141839",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "62",
+                "join": "",
+                "name": "John Tejada",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "US",
+        "data_quality": "Needs Vote",
+        "extraartists": "",
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "EP"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "360",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "480"
+                },
+                {
+                    "_height": "360",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "480"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "002",
+                "_id": "30",
+                "_name": "Palette Recordings"
+            }
+        },
+        "released": "1997-00-00",
+        "styles": {
+            "style": [
+                "Tech House",
+                "Techno"
+            ]
+        },
+        "title": "Ebonics EP",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "",
+                    "title": "Top Side"
+                },
+                {
+                    "duration": "",
+                    "position": "A",
+                    "title": "Holding It Down"
+                },
+                {
+                    "duration": "",
+                    "position": "",
+                    "title": "Bottom Side"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "160",
+                            "join": "",
+                            "name": "Arian Leviste",
+                            "role": "Co-producer",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "B1",
+                    "title": "Coupe De Ville"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "160",
+                            "join": "",
+                            "name": "Arian Leviste",
+                            "role": "Co-producer",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "B2",
+                    "title": "Finna Aks"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "356",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=CeUUers5VYs",
+                    "description": "https://www.discogs.com/fr/John-Tejada-Ebonics-EP/release/141839\n\nJoin the movement : https://www.facebook.com/KermesseWorld/ \nPodcasts : https://soundcloud.com/kermesseworld\nFollow : https://www.instagram.com/kermesseworld/\n\nFor promotional purpose only",
+                    "title": "John Tejada - Holding It Down"
+                },
+                {
+                    "_duration": "315",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=2L0Le8OKO3A",
+                    "description": "PAL002 \nJohn Tejada \nEubonics EP \na1 - Coupe De Ville\n\nWe do not own the rights to this song or the material used in this video\n\nIf you own the rights to this track or other right on our channel, please contact me and it will be taken down",
+                    "title": "John Tejada - Coupe De Ville"
+                }
+            ]
+        }
+    }
+}

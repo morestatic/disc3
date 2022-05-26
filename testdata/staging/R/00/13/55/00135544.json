@@ -1,0 +1,205 @@
+{
+    "release": {
+        "_id": "135544",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "10898",
+                "join": "",
+                "name": "Axwell",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "UK",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "421060",
+                    "join": "",
+                    "name": "Lex James",
+                    "role": "Bass Guitar [Live]",
+                    "tracks": "A1, AA1"
+                },
+                {
+                    "anv": "A. Hedfors",
+                    "id": "454280",
+                    "join": "",
+                    "name": "Axel Hedfors",
+                    "role": "Written-By, Producer",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Scanned \u0026 Text",
+                    "_type": "Barcode",
+                    "_value": "5025425406829"
+                },
+                {
+                    "_description": "Runout A",
+                    "_type": "Matrix / Runout",
+                    "_value": "LOAD 68 A-1-1- 1"
+                },
+                {
+                    "_description": "Runout AA",
+                    "_type": "Matrix / Runout",
+                    "_value": "LOAD 68 AA-1-1-1"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "570",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "570"
+                },
+                {
+                    "_height": "570",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "570"
+                }
+            ]
+        },
+        "labels": {
+            "label": [
+                {
+                    "_catno": "LOAD 61",
+                    "_id": "40",
+                    "_name": "Loaded Records"
+                },
+                {
+                    "_catno": "LOAD 68",
+                    "_id": "40",
+                    "_name": "Loaded Records"
+                }
+            ]
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "41988"
+        },
+        "notes": "This also comes as a white label with same tracks and cat# as LOAD 68.\n\nSide AA label erroneously states the catalog# as 'LOAD 61' when the runouts do indicate the intended catalog#, \"LOAD 68\".",
+        "released": "2000",
+        "styles": {
+            "style": [
+                "House",
+                "Acid Jazz"
+            ]
+        },
+        "title": "Jazz Player",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "17670",
+                            "join": "",
+                            "name": "MaUVe",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "A1",
+                    "title": "Jazz Player (MaUVe Remix)"
+                },
+                {
+                    "duration": "",
+                    "position": "A2",
+                    "title": "Jazz Player (Original)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "17670",
+                            "join": "",
+                            "name": "MaUVe",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "AA1",
+                    "title": "Jazz Player (MaUVe Dub)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1342",
+                            "join": "",
+                            "name": "Cut La Roc",
+                            "role": "Mixed By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "AA2",
+                    "title": "Jazz Player (Jazzapella)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "212",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Tv3oZNZXaEA",
+                    "description": "De los clasicos temas de Axwell es dificil encontrarlo (año 1999) ;)\nFrom the Axwell classic themes is difficult to find ( year 1999) ;)",
+                    "title": "Axwell - Jazz Player"
+                },
+                {
+                    "_duration": "413",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=9da9Eaa4zg4",
+                    "description": "",
+                    "title": "Axwell - Jazz Player (Stonebridge Mix)"
+                },
+                {
+                    "_duration": "468",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=wXRL6Eq66s0",
+                    "description": "Released year 2000 on Loaded Records",
+                    "title": "Axwell - Jazz Player (MaUVe Remix)"
+                },
+                {
+                    "_duration": "206",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=x2mn6ojN--U",
+                    "description": "Released year 2000 on Loaded Records",
+                    "title": "Axwell - Jazz Player (JazzaPella)"
+                }
+            ]
+        }
+    }
+}

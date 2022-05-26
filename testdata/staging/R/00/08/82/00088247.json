@@ -1,0 +1,126 @@
+{
+    "release": {
+        "_id": "88247",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "293206",
+                "join": "",
+                "name": "Move D / Namlook",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "152",
+                    "join": "",
+                    "name": "David Moufang",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "500",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                },
+                {
+                    "_height": "500",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/128",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "301887"
+        },
+        "notes": "Limited to 500 copies",
+        "released": "1997-03-24",
+        "styles": {
+            "style": [
+                "Techno",
+                "Ambient"
+            ]
+        },
+        "title": "Move D / Namlook II - A Day In The Live!",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "15:03",
+                    "position": "A",
+                    "title": "Fall Out Of Bed Into A Wonderful Maze"
+                },
+                {
+                    "duration": "16:19",
+                    "position": "B",
+                    "title": "Down To The EMC Where We Chill Out"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "813",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=rMiM-gYBlT4",
+                    "description": "Taken from A Day In The Life ! (FAX+49-69/450464 - PK 08/127, 1997).\nhttp://www.discogs.com/artist/293206-Move-D-Namlook",
+                    "title": "Move D / Namlook - Down To The EMC"
+                },
+                {
+                    "_duration": "906",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=tG9-FADlIUU",
+                    "description": "https://www.discogs.com/Move-D-Namlook-Move-D-Namlook-II-A-Day-In-The-Live/master/301887",
+                    "title": "Move D \u0026 Namlook - Fall Out Of Bed Into A Wonderf (1997)"
+                }
+            ]
+        }
+    }
+}

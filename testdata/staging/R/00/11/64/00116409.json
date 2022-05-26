@@ -1,0 +1,133 @@
+{
+    "release": {
+        "_id": "116409",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "15289",
+                "join": "",
+                "name": "Syn",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": {
+                "catno": "",
+                "entity_type": "26",
+                "entity_type_name": "Produced At",
+                "id": "294391",
+                "name": "Sonic Studios Frankfurt",
+                "resource_url": "https://api.discogs.com/labels/294391"
+            }
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "1910",
+                "join": "",
+                "name": "Pete Namlook",
+                "role": "Written-By",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "588",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "587"
+                },
+                {
+                    "_height": "588",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "588"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/48",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Produced at Sonic Studios Frankfurt for Namlook Productions.\n\nLimitation: 500\n\nTracks A and B1 sample dialogue from the movie 'Blade Runner' (1982).",
+        "released": "1993-03-01",
+        "styles": {
+            "style": [
+                "Trance",
+                "Ambient"
+            ]
+        },
+        "title": "Syn 3",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "8:00",
+                    "position": "A",
+                    "title": "If Only You Could See..."
+                },
+                {
+                    "duration": "5:11",
+                    "position": "B1",
+                    "title": "What I've Seen With Your Eyes"
+                },
+                {
+                    "duration": "6:20",
+                    "position": "B2",
+                    "title": "TAT 93"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "483",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Ox340Ym4gJ0",
+                    "description": "Tracks Thë Omën\n\nSyn - If Only You Could See... [FAX Records] (1993)\n\nAlbum: Syn ‎– Syn 3\nSello: Fax +49-69/450464 ‎– PK 08/48\nFormato: Vinyl, 12, Limited Edition\nPaís: Germany\nPublicado: 01 Mar 1993\nGénero: Electronic\nEstilo: Trance, Ambient",
+                    "title": "Syn - If Only You Could See... [FAX Records] (1993)"
+                },
+                {
+                    "_duration": "311",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=I1yBf68Ltto",
+                    "description": "info: http://www.discogs.com/release/116409",
+                    "title": "Syn - What I've Seen With Your Eyes (1993)"
+                },
+                {
+                    "_duration": "360",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=liFhiQeR1DM",
+                    "description": "http://www.discogs.com/Syn-Syn-3/release/116409\n\r\n\r-uploaded in HD at http://www.TunesToTube.com",
+                    "title": "Syn - TAT 93 (Ambient 1993)"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,211 @@
+{
+    "release": {
+        "_id": "31705",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "25453",
+                "join": "",
+                "name": "Psychonavigation",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "277133",
+                    "name": "Greenpoint Studios",
+                    "resource_url": "https://api.discogs.com/labels/277133"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "17",
+                    "entity_type_name": "Pressed By",
+                    "id": "267946",
+                    "name": "CD Plant AB",
+                    "resource_url": "https://api.discogs.com/labels/267946"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "661",
+                    "join": "",
+                    "name": "Bill Laswell",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "58657",
+                    "join": "",
+                    "name": "Peter Kuhlmann",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "58286",
+                    "join": "",
+                    "name": "Anton Fier",
+                    "role": "Recorded By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "13227",
+                    "join": "",
+                    "name": "Robert Musso",
+                    "role": "Recorded By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "661",
+                    "join": "",
+                    "name": "Bill Laswell",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_type": "Matrix / Runout",
+                "_value": "CD PLANT AB PW 24 CDM01"
+            }
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "592",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "472",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "244",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "498"
+                },
+                {
+                    "_height": "597",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "612",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PW 24",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "16621"
+        },
+        "notes": "Limited to 2000 copies.\r\n\r\nRecorded at Greenpoint Studio, Brooklyn, NY with Robert Musso and Anton Fier. Additional ambient recordings in Santa Barbara, California with Sherpa and Aisha.",
+        "released": "1995-05-12",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Downtempo",
+                "Dub",
+                "Experimental"
+            ]
+        },
+        "title": "Psychonavigation 2",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "15:56",
+                    "position": "1",
+                    "title": "Under Heaven"
+                },
+                {
+                    "duration": "13:13",
+                    "position": "2",
+                    "title": "Blue Shift"
+                },
+                {
+                    "duration": "9:29",
+                    "position": "3",
+                    "title": "The Fate Of Energy"
+                },
+                {
+                    "duration": "14:14",
+                    "position": "4",
+                    "title": "The Hell Of The Same"
+                },
+                {
+                    "duration": "1:47",
+                    "position": "5",
+                    "title": "Infinum"
+                }
+            ]
+        },
+        "videos": {
+            "video": {
+                "_duration": "3307",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=OVTYeZkUxb4",
+                "description": "1 Under Heaven         15:56\n2 Blue Shift                 13:13\n3 The Fate Of Energy  9:29\n4 The Hell Of The Same 14:14\n5 Infinum                           1:47\n\nレーベル: Ambient World ‎– aw 037\nフォーマット: CD, Album, Reissue \n国・地",
+                "title": "Bill Laswell, Pete Namlook – Psychonavigation 2"
+            }
+        }
+    }
+}

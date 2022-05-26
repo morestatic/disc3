@@ -1,0 +1,213 @@
+{
+    "release": {
+        "_id": "49385",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "15317",
+                "join": "",
+                "name": "Jet Chamber",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "47501",
+                    "entity_type": "10",
+                    "entity_type_name": "Manufactured By",
+                    "id": "277449",
+                    "name": "P+O Pallas",
+                    "resource_url": "https://api.discogs.com/labels/277449"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "265012",
+                    "name": "Klanglabor Hödeshof",
+                    "resource_url": "https://api.discogs.com/labels/265012"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "andre@faxlabel.com",
+                    "id": "2022694",
+                    "join": "",
+                    "name": "Andre Ruello",
+                    "role": "Graphics",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "8925",
+                    "join": "",
+                    "name": "Atom™",
+                    "role": "Mixed By, Edited By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "8925",
+                    "join": "",
+                    "name": "Atom™",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "58657",
+                    "join": "",
+                    "name": "Peter Kuhlmann",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "8925",
+                    "join": "",
+                    "name": "Atom™",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_type": "Matrix / Runout",
+                "_value": "PK 08/150 P+O-47501-A2 04-00"
+            }
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "593",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "390",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                },
+                {
+                    "_height": "500",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                },
+                {
+                    "_height": "300",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "593",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/150",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Limitation: 2000.\n\nRecorded at Klanglabor, Traben-Trarbach.\n\nSpecial thanks to: Elisabeth / Fabia / Jörg Strave / Markus Engel @ Steinberg / Cecilia \u0026 Louise.",
+        "released": "2000-04-10",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Breakbeat",
+                "Drum n Bass",
+                "Experimental"
+            ]
+        },
+        "title": "Jet Chamber V",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "21:26",
+                    "position": "1",
+                    "title": "I Miss Green"
+                },
+                {
+                    "duration": "16:59",
+                    "position": "2",
+                    "title": "Tightness"
+                },
+                {
+                    "duration": "13:40",
+                    "position": "3",
+                    "title": "Voted Steady"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "1286",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=gOW_Gadrl60",
+                    "description": "Jet Chamber ‎– Jet Chamber V,  Fax +49-69/450464 (2000)\n\nFollow me: http://www.facebook.com/itsmerubi\nFollow us: http://www.facebook.com/cmykollektiv\n\nBuy: http://www.discogs.com/Jet-Chamber-Jet-Chamber-V/release/49385",
+                    "title": "Jet Chamber - I Miss Green"
+                },
+                {
+                    "_duration": "1019",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=X65OCzzghcw",
+                    "description": "Jet Chamber ‎– Jet Chamber V,  Fax +49-69/450464 (2000)\n\nFollow me: http://www.facebook.com/itsmerubi\nFollow us: http://www.facebook.com/cmykollektiv\n\nBuy: http://www.discogs.com/Jet-Chamber-Jet-Chamber-V/release/49385",
+                    "title": "Jet Chamber - Tightness"
+                },
+                {
+                    "_duration": "821",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=df0tVRsB4bY",
+                    "description": "Jet Chamber ‎– Jet Chamber V,  Fax +49-69/450464 (2000)\n\nFollow me: http://www.facebook.com/itsmerubi\nFollow us: http://www.facebook.com/cmykollektiv\n\nBuy: http://www.discogs.com/Jet-Chamber-Jet-Chamber-V/release/49385",
+                    "title": "Jet Chamber - Voted Steady"
+                }
+            ]
+        }
+    }
+}

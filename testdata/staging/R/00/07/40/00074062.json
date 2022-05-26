@@ -1,0 +1,140 @@
+{
+    "release": {
+        "_id": "74062",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "293206",
+                "join": "",
+                "name": "Move D / Namlook",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "Germany",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "152",
+                    "join": "",
+                    "name": "David Moufang",
+                    "role": "Written-By, Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By, Producer",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_type": "Label Code",
+                "_value": "LC 6269"
+            }
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "500",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                },
+                {
+                    "_height": "500",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/122",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "146294"
+        },
+        "notes": "Recorded live at Resource, Heidelberg, 18/9/96.\r\nLimitation: 500",
+        "released": "1996-11-18",
+        "styles": {
+            "style": "Ambient"
+        },
+        "title": "Exploring The Psychedelic Landscape",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "16:59",
+                    "position": "A",
+                    "title": "Drop Kick"
+                },
+                {
+                    "duration": "6:22",
+                    "position": "B1",
+                    "title": "Floor #1"
+                },
+                {
+                    "duration": "11:44",
+                    "position": "B2",
+                    "title": "Floor #2"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "1022",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=asLj4wfeVwI",
+                    "description": "Taken from Exploring The Psychedelic Landscape (Fax +49-69/450464 - PK 08/121).\nhttp://www.beatport.com/release/exploring-the-psychedelic-landscape/45525\nhttps://itunes.apple.com/us/album/exploring-psychedelic-landscape/id41998300\nhttp://www.discogs.com",
+                    "title": "Move D / Namlook - Drop Kick"
+                },
+                {
+                    "_duration": "383",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=opZgwRVBVfU",
+                    "description": "Fax +49-69/450464 ‎– PK 08/122\nMove D / Namlook (David Moufang, Peter Kuhlmann) - Exploring The Psychedelic Landscape (1996)",
+                    "title": "Move D / Namlook - Floor #1"
+                },
+                {
+                    "_duration": "3907",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=tX8a_q8sZY8",
+                    "description": "first of the Move D • Namlook series\nreleased 1996\ntracklist:\nGiant Mushroom     11:21\nDrop Kick     16:59\nFloor     16:38\nSaucerful     6:23\nCoda  13:39",
+                    "title": "Move D • Namlook - Exploring the Psychedelic Landscape (full album)"
+                }
+            ]
+        }
+    }
+}

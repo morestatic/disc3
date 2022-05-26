@@ -1,0 +1,134 @@
+{
+    "release": {
+        "_id": "197134",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "2908",
+                "join": "",
+                "name": "Sequential",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "7649",
+                    "join": "",
+                    "name": "DJ Criss",
+                    "role": "Written-By",
+                    "tracks": "A1, B1"
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "230",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "230"
+                },
+                {
+                    "_height": "230",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "230"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/58",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Limitation: 500\r\n\"DUANE SKY FOR AMBIENT LOVERS\" \r\nIs Etched On Runout Groove On Side B",
+        "released": "1993-04-12",
+        "styles": {
+            "style": [
+                "Trance",
+                "Ambient"
+            ]
+        },
+        "title": "Sequential 4",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "6:49",
+                    "position": "A",
+                    "title": "Everything Is Under Control"
+                },
+                {
+                    "duration": "5:29",
+                    "position": "B1",
+                    "title": "Survival Of The Fittest"
+                },
+                {
+                    "duration": "5:42",
+                    "position": "B2",
+                    "title": "Duane Sky"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "410",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=jNO6V4gXuXM",
+                    "description": "Pete Namlook \u0026 DJ Criss on Fax Records (1992). This is track A1 from the Sequential 2 12. The label reads wrong though. The track came out later on Rising High with the title that stuck (Everything is Under Control)",
+                    "title": "Sequential - Everything Is Under Control"
+                },
+                {
+                    "_duration": "328",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=cFsfIdqAKAM",
+                    "description": "an alternative version to Everything Is Under Control. \nReleased on the Sequential 4 12 EP (PK 08/58), 1993\nMusic by Pete Namlook and DJ Criss\nVideo by Abstructure",
+                    "title": "Sequential - Survival Of The Fittest"
+                },
+                {
+                    "_duration": "4616",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=UUpKH987Yik",
+                    "description": "Artist: Pete Namlook \u0026 DJ Criss\nAlbum: Sequential\nLabel: Fax +49-69/450464\nYear: 1993\n\nTracklist:\n1. Sequential [0:00]\n2. 20,000 Leagues Under The Sea [6:50]\n3. A Trip To Paradise [13:49]\n4. Sonne [23:13]\n5. Saturn Cruises [28:36]\n6. Duane Sky [40:05]\n7.",
+                    "title": "Pete Namlook \u0026 DJ Criss - Sequential (Full Album) [1993]"
+                }
+            ]
+        }
+    }
+}

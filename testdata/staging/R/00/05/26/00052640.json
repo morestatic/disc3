@@ -1,0 +1,204 @@
+{
+    "release": {
+        "_id": "52640",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "293202",
+                "join": "",
+                "name": "Xangadix",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": {
+                "catno": "",
+                "entity_type": "10",
+                "entity_type_name": "Manufactured By",
+                "id": "291931",
+                "name": "CD Plant MFG",
+                "resource_url": "https://api.discogs.com/labels/291931"
+            }
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "773754",
+                    "join": "",
+                    "name": "3rd Samuel",
+                    "role": "Voice [Answering Machine]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "41716",
+                    "join": "",
+                    "name": "Pino \u0026 Wildjamin",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition",
+                        "Partially Mixed"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "CD PLANT MFG PS 08/65 CDM01"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "585"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "585"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "584"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "584"
+                },
+                {
+                    "_height": "479",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "585"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PS 08/65",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Limited to 1000 copies.\n\nThere was a mess-up in the printing/pressing run of this album – at least one disc is known to lack a proper label (both sides are silver). This unlabeled disc was packaged stuck to a proper disc in a single jewel case. The two are identical content-wise.\n\nTracks 1-5 are segued/mixed.",
+        "released": "1995-03-27",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Electro",
+                "Trance"
+            ]
+        },
+        "title": "Xangadix",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "7:21",
+                    "position": "1",
+                    "title": "Xangadix"
+                },
+                {
+                    "duration": "11:49",
+                    "position": "2",
+                    "title": "Some Filter For Namlook"
+                },
+                {
+                    "duration": "3:22",
+                    "position": "3",
+                    "title": "A.A. Generation"
+                },
+                {
+                    "duration": "5:35",
+                    "position": "4",
+                    "title": "Goro"
+                },
+                {
+                    "duration": "9:43",
+                    "position": "5",
+                    "title": "System Update"
+                },
+                {
+                    "duration": "11:04",
+                    "position": "6",
+                    "title": "Waveform"
+                },
+                {
+                    "duration": "10:07",
+                    "position": "7",
+                    "title": "Analog Silence"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "442",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Ap73oEHQHmU",
+                    "description": "Trance \r\nhttp://www.discogs.com/Xangadix-Xangadix/release/52640",
+                    "title": "Xangadix - Xangadix  (1995)"
+                },
+                {
+                    "_duration": "713",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=3NSTpwrlvI4",
+                    "description": "Taken from the Xangadix Album, PS 08/65\nMusic by: Pino \u0026 Wildjamin, 1993\nVideo: Abstructure, 2017",
+                    "title": "Xangadix - Some Filter for Namlook"
+                },
+                {
+                    "_duration": "584",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=gFx719mKs9w",
+                    "description": "https://www.discogs.com/Xangadix-Xangadix/release/52640",
+                    "title": "Xangadix -  System Update"
+                }
+            ]
+        }
+    }
+}

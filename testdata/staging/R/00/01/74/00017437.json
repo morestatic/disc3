@@ -1,0 +1,259 @@
+{
+    "release": {
+        "_id": "17437",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "20",
+                "join": "",
+                "name": "Percy X",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "270709",
+                    "name": "Soma Recordings Ltd.",
+                    "resource_url": "https://api.discogs.com/labels/270709"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "270709",
+                    "name": "Soma Recordings Ltd.",
+                    "resource_url": "https://api.discogs.com/labels/270709"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "29",
+                    "entity_type_name": "Mastered At",
+                    "id": "158759",
+                    "name": "The Exchange",
+                    "resource_url": "https://api.discogs.com/labels/158759"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "17",
+                    "entity_type_name": "Pressed By",
+                    "id": "56025",
+                    "name": "MPO",
+                    "resource_url": "https://api.discogs.com/labels/56025"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "295038",
+                    "name": "Soma Music",
+                    "resource_url": "https://api.discogs.com/labels/295038"
+                }
+            ]
+        },
+        "country": "UK",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "20",
+                    "join": "",
+                    "name": "Percy X",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "Marco Bernardini",
+                    "id": "144934",
+                    "join": "",
+                    "name": "Marco Bernardi",
+                    "role": "Written-By",
+                    "tracks": "A2"
+                },
+                {
+                    "anv": "",
+                    "id": "20",
+                    "join": "",
+                    "name": "Percy X",
+                    "role": "Written-By",
+                    "tracks": "A1, AA1, AA2, AA3"
+                },
+                {
+                    "anv": "",
+                    "id": "529343",
+                    "join": "",
+                    "name": "Tony Scott (4)",
+                    "role": "Written-By",
+                    "tracks": "A2"
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM",
+                        "EP"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Text",
+                    "_type": "Barcode",
+                    "_value": "7 96122 21146 1"
+                },
+                {
+                    "_description": "Scanned",
+                    "_type": "Barcode",
+                    "_value": "796122211461"
+                },
+                {
+                    "_description": "Runout Side A",
+                    "_type": "Matrix / Runout",
+                    "_value": "SOMA 114 A1 NILZ THE EXCHANGE  546 090-6 A1 MPO"
+                },
+                {
+                    "_description": "Runout Side B",
+                    "_type": "Matrix / Runout",
+                    "_value": "SOMA 114 AA1 NILZ THE EXCHANGE  546 090-6 AA1 MPO"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "595",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "597"
+                },
+                {
+                    "_height": "199",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "SOMA 114",
+                "_id": "18",
+                "_name": "Soma Quality Recordings"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "37379"
+        },
+        "notes": "℗ \u0026 © 2001 Soma Recordings Ltd.",
+        "released": "2001-11-12",
+        "styles": {
+            "style": [
+                "Tribal",
+                "Techno",
+                "Electro"
+            ]
+        },
+        "title": "Gain Ep",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A1",
+                    "title": "Gain"
+                },
+                {
+                    "duration": "",
+                    "position": "A2",
+                    "title": "Find Yourself"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1479",
+                            "join": "",
+                            "name": "Rue East",
+                            "role": "Remix, Producer [Additional]",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "AA1",
+                    "title": "Relentless (Rue East Remix)"
+                },
+                {
+                    "duration": "",
+                    "position": "AA2",
+                    "title": "Relentless Groove Locks"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "459",
+                            "join": "",
+                            "name": "Mark Broom",
+                            "role": "Remix, Producer [Additional]",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "AA3",
+                    "title": "Gain (Mark Broom Remix)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "408",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=2AUwix7Ds3U",
+                    "description": "http://www.discogs.com/Percy-X-Gain-EP/master/37379\nPercy X ‎- Gain EP\nLabel: Soma Quality Recordings\nGenre: Electronic\nStyle: Techno\nYear: 2001\n\nLike it? Buy it from here: http://www.beatport.com/track/find-yourself-original-mix/297023",
+                    "title": "Percy X - Find Yourself"
+                },
+                {
+                    "_duration": "420",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=y2aU7mh6C6w",
+                    "description": "Support the artist, buy the record!",
+                    "title": "Percy X - Gain"
+                },
+                {
+                    "_duration": "385",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=C8OOLRsghxk",
+                    "description": "Artist: Percy X \u0026 Rue East, Title: Relentless, Title Of EP: Gain, Format: Vinyl, Label: Soma Quality Recordings, Catalog: SOMA 114, Country: United Kingdom, Released: 12 November 2001, Genre: Electronic, Style: Techno\nBUY - https://www.discogs.com/sell/re",
+                    "title": "Percy X - Relentless (Rue East Remix)"
+                }
+            ]
+        }
+    }
+}

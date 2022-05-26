@@ -1,0 +1,165 @@
+{
+    "release": {
+        "_id": "10773",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "10839",
+                "join": "",
+                "name": "Future Funk Essentials",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "363762",
+                    "name": "Mixcon Music",
+                    "resource_url": "https://api.discogs.com/labels/363762"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "10",
+                    "entity_type_name": "Manufactured By",
+                    "id": "4146",
+                    "name": "Mix Connection Multimedia",
+                    "resource_url": "https://api.discogs.com/labels/4146"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "9",
+                    "entity_type_name": "Distributed By",
+                    "id": "4146",
+                    "name": "Mix Connection Multimedia",
+                    "resource_url": "https://api.discogs.com/labels/4146"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "20",
+                    "name": "Moody Recordings",
+                    "resource_url": "https://api.discogs.com/labels/20"
+                }
+            ]
+        },
+        "country": "US",
+        "data_quality": "Needs Vote",
+        "extraartists": "",
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "12\""
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_type": "Rights Society",
+                "_value": "ASCAP"
+            }
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "602",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "1256",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "MDR9620-1",
+                "_id": "20",
+                "_name": "Moody Recordings"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "268333"
+        },
+        "released": "1999-00-00",
+        "styles": {
+            "style": "Deep House"
+        },
+        "title": "Concepts In Jazz",
+        "tracklist": {
+            "track": [
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "7018",
+                            "join": "",
+                            "name": "Jordan Fields",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "A",
+                    "title": "Pump Fusion"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "9880",
+                            "join": "",
+                            "name": "DJ Rhythm",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "B",
+                    "title": "Portraits"
+                }
+            ]
+        },
+        "videos": {
+            "video": {
+                "_duration": "400",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=-PaWBYZ2RPA",
+                "description": "",
+                "title": "Jordan Fields - Pump Fusion [Original Mix] HQ"
+            }
+        }
+    }
+}

@@ -1,0 +1,191 @@
+{
+    "release": {
+        "_id": "27940",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "23213",
+                "join": "",
+                "name": "Ginger",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "US",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "Mike Hitman Wilson",
+                    "id": "2003",
+                    "join": "",
+                    "name": "Mike \"Hitman\" Wilson",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "23213",
+                    "join": "",
+                    "name": "Ginger",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "M. Wilson",
+                    "id": "2003",
+                    "join": "",
+                    "name": "Mike \"Hitman\" Wilson",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_type": "Barcode",
+                "_value": "713405962513"
+            }
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "500",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                },
+                {
+                    "_height": "450",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "597"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "597"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "MDR9625-1",
+                "_id": "20",
+                "_name": "Moody Recordings"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "342517"
+        },
+        "released": "2000",
+        "styles": {
+            "style": "Tech House"
+        },
+        "title": "Just Call On Me",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "96",
+                            "join": "",
+                            "name": "Håkan Lidbo",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "A1",
+                    "title": "Just Call On Me (Hakan Lidbo Mix)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "Mike Hitman Wilson",
+                            "id": "2003",
+                            "join": "",
+                            "name": "Mike \"Hitman\" Wilson",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "A2",
+                    "title": "Just Call On Me (Hitman's Club Mix)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "6347",
+                            "join": "",
+                            "name": "Halo",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "B",
+                    "title": "Just Call On Me (Halo's Dark Ride Dub)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "338",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=QVKYnTKlXbc",
+                    "description": "Mike hitman wilson on moody recordings\r\nhttp://www.discogs.com/Ginger-Just-Call-On-Me/release/27940",
+                    "title": "Ginger - Just Call On Me (Hitman's Club Mix).wmv"
+                },
+                {
+                    "_duration": "454",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=vYb0scRO4MU",
+                    "description": "",
+                    "title": "Ginger - Just call on me ( Hakan Libdo mix )"
+                },
+                {
+                    "_duration": "529",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=IDUQupBl3ig",
+                    "description": "Moody Recordings \nVinyl, 12\nCountry:US\nReleased:\n2000",
+                    "title": "Ginger - Just Call On Me (Halo's Dark Ride Dub)"
+                }
+            ]
+        }
+    }
+}

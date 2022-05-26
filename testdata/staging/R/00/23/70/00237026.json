@@ -1,0 +1,236 @@
+{
+    "release": {
+        "_id": "237026",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "194",
+                "join": "",
+                "name": "Various",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "US",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "473978",
+                "join": "",
+                "name": "Jeff Craven",
+                "role": "Compiled By",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "Compilation"
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Printed",
+                    "_type": "Barcode",
+                    "_value": "8 03273 00072 8"
+                },
+                {
+                    "_description": "Scanned",
+                    "_type": "Barcode",
+                    "_value": "0803273000728"
+                }
+            ]
+        },
+        "images": {
+            "image": {
+                "_height": "157",
+                "_type": "primary",
+                "_uri": "",
+                "_uri150": "",
+                "_width": "175"
+            }
+        },
+        "labels": {
+            "label": {
+                "_catno": "LARCD 007",
+                "_id": "12",
+                "_name": "Large Records"
+            }
+        },
+        "notes": "Compiled by Jeff Craven for Large Music\n\nDigipak version.\n\nTracks 1 and 4 originally available on Vista Recordings VIS-014. \nTrack 2 originally available on Large Records LAR-088.\nTrack 2 originally available on Large Records LAR-079 as 'Soul Muziq'.\nTrack 5 originally available on Large Records LAR-075. \nTrack 6 originally available on Large Records LAR-084.\nTrack 7 originally available on Large Records LAR-062.\nTrack 8 originally available on Large Records LAR-087.\nTrack 9 originally available on Large Records LAR-059.\nTrack 10 originally available on Vista Recordings VIS-001 as 'Nubionics'.",
+        "released": "2004",
+        "styles": {
+            "style": [
+                "House",
+                "Future Jazz",
+                "Deep House"
+            ]
+        },
+        "title": "Evolution Of New Sounds",
+        "tracklist": {
+            "track": [
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "195",
+                            "join": "",
+                            "name": "Peter Hecher",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:19",
+                    "position": "1",
+                    "title": "Funkdafied"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "696",
+                            "join": "",
+                            "name": "Glenn Underground",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "8:27",
+                    "position": "2",
+                    "title": "Trust"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "209173",
+                            "join": "",
+                            "name": "Roy Davis Jr.",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:20",
+                    "position": "3",
+                    "title": "Soul Music"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "195",
+                            "join": "",
+                            "name": "Peter Hecher",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:05",
+                    "position": "4",
+                    "title": "Respect 2 Giorgio"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "59",
+                            "join": "",
+                            "name": "Kerri Chandler",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "7:56",
+                    "position": "5",
+                    "title": "The Fix Is U"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "209173",
+                            "join": "",
+                            "name": "Roy Davis Jr.",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:57",
+                    "position": "6",
+                    "title": "Paradise"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "15380",
+                            "join": "",
+                            "name": "Jay-J \u0026 Macari",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:54",
+                    "position": "7",
+                    "title": "Hold On To You"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "182",
+                            "join": "",
+                            "name": "Solar House",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "7:19",
+                    "position": "8",
+                    "title": "Decisions"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "60",
+                            "join": "",
+                            "name": "Pete Moss",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:13",
+                    "position": "9",
+                    "title": "Deep Desires"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "183",
+                            "join": "",
+                            "name": "Natural Rhythm",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:55",
+                    "position": "10",
+                    "title": "Nu Bionics"
+                }
+            ]
+        }
+    }
+}

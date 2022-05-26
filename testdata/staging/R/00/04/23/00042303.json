@@ -1,0 +1,162 @@
+{
+    "release": {
+        "_id": "42303",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "60",
+                "join": "",
+                "name": "Pete Moss",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "1566139",
+                    "name": "Recline Music",
+                    "resource_url": "https://api.discogs.com/labels/1566139"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "9",
+                    "entity_type_name": "Distributed By",
+                    "id": "264267",
+                    "name": "Wordandsound",
+                    "resource_url": "https://api.discogs.com/labels/264267"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "60",
+                "join": "",
+                "name": "Pete Moss",
+                "role": "Written-By, Producer",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "12\""
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Rights Society",
+                    "_value": "GEMA"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 10720"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "dessous 19",
+                "_id": "772",
+                "_name": "Dessous Recordings"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "781176"
+        },
+        "notes": "Published by Reclinemusic (ASCAP).\nMade in EU.\nDistributed by Word And Sound.",
+        "released": "2001-08-27",
+        "styles": {
+            "style": [
+                "Deep House",
+                "Tech House"
+            ]
+        },
+        "title": "Sometimes...",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "5:37",
+                    "position": "A",
+                    "title": "Sometimes"
+                },
+                {
+                    "duration": "6:01",
+                    "position": "B1",
+                    "title": "Island Respect"
+                },
+                {
+                    "duration": "6:28",
+                    "position": "B2",
+                    "title": "Overflow"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "350",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=q00N1jDSGqg",
+                    "description": "Label: Dessous Recordings\nCatalog#: dessous 19\nFormat: Vinyl, 12\nCountry: Germany\nReleased: 27 Aug 2001\nGenre: Electronic\nStyle: Deep House, Tech House",
+                    "title": "Pete Moss - Sometimes"
+                },
+                {
+                    "_duration": "387",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=YRsZFR0B0ZE",
+                    "description": "Provided to YouTube by Paradise Entertainment \u0026 Distribution GmbH\n\nOverflow (Original Mix) · Pete Moss\n\nSometimes...\n\n℗ 2001 Dessous Recordings\n\nReleased on: 2001-08-27\n\nComposer: Pete Moss\nProducer: pete moss @ the recline center\nPublisher: reclinemus",
+                    "title": "Overflow (Original Mix)"
+                },
+                {
+                    "_duration": "364",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Vw2VAk1NtYU",
+                    "description": "Pete Moss - Island Respect [Dessous, 2001]",
+                    "title": "Pete Moss - Island Respect [Dessous, 2001]"
+                },
+                {
+                    "_duration": "387",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=iTIt9Cogk1s",
+                    "description": "Provided to YouTube by Kontor New Media GmbH\n\nOverflow · Pete Moss\n\nSometimes...\n\n℗ Dessous Recordings\n\nReleased on: 2001-08-27\n\nArtist: Pete Moss\nComposer: Pete Moss\nMusic  Publisher: reclinemusic (ascap)\n\nAuto-generated by YouTube.",
+                    "title": "Overflow"
+                }
+            ]
+        }
+    }
+}

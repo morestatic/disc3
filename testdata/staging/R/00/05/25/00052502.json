@@ -1,0 +1,259 @@
+{
+    "release": {
+        "_id": "52502",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "4771631",
+                "join": "",
+                "name": "Otras",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": {
+                "catno": "",
+                "entity_type": "10",
+                "entity_type_name": "Manufactured By",
+                "id": "291931",
+                "name": "CD Plant MFG",
+                "resource_url": "https://api.discogs.com/labels/291931"
+            }
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "1380282",
+                    "join": "",
+                    "name": "Wendy Morgan (2)",
+                    "role": "Programmed By [Programming Assistance]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "13231",
+                    "join": "",
+                    "name": "David Reeves",
+                    "role": "Written-By [All Tracks Written By]",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "CD PLANT MFG PS 08/60 CDM01"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "597",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "463",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "591",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "593",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PS 08/60",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Limitation: 1,000\n\nOtras, Guelph 1994\n\nSpecial thanks to:\nLindsay Stewart - Guitar on \"Scanners Live in Vain\"\nWendy Morgan - Programming Assistance\nRose \u0026 Hans\n\nThe title \"Scanners Live in Vain\" is taken from a short story by [a=Cordwainer Smith] copyright 1984 by Fantasy co-period inc.\n\nMade in Germany",
+        "released": "1995-01-16",
+        "styles": {
+            "style": [
+                "Abstract",
+                "Ambient",
+                "Downtempo",
+                "Techno"
+            ]
+        },
+        "title": "Otras",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "9:41",
+                    "position": "1",
+                    "title": "In Suspension"
+                },
+                {
+                    "duration": "15:39",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1380283",
+                            "join": "",
+                            "name": "Lindsay Stewart",
+                            "role": "Guitar",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "2",
+                    "title": "Scanners Live In Vain"
+                },
+                {
+                    "duration": "4:38",
+                    "position": "3",
+                    "title": "973.070"
+                },
+                {
+                    "duration": "5:22",
+                    "position": "4",
+                    "title": "Celestial Entrance"
+                },
+                {
+                    "duration": "8:34",
+                    "position": "5",
+                    "title": "The Derelict Fleet"
+                },
+                {
+                    "duration": "5:38",
+                    "position": "6",
+                    "title": "Auto-Plain"
+                },
+                {
+                    "duration": "5:04",
+                    "position": "7",
+                    "title": "Tetuan4"
+                },
+                {
+                    "duration": "3:28",
+                    "position": "8",
+                    "title": "The Flowing Light Of The Godhead"
+                },
+                {
+                    "duration": "14:20",
+                    "position": "9",
+                    "title": "1000th Sun"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "582",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=MYh_12Jtiv8",
+                    "description": "Track 1 - In Suspension\nArtist : David Reeves\nAlbum : Otras\n1995 FAX +49-69/450464",
+                    "title": "David Reeves - In Suspension (Otras)"
+                },
+                {
+                    "_duration": "938",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=g6nhdFAbDng",
+                    "description": "Track 2 - Scanners Live In Vain\nArtist : David Reeves\nAlbum : Otras\n1995 FAX +49-69/450464",
+                    "title": "David Reeves - Scanners Live In Vain (Otras)"
+                },
+                {
+                    "_duration": "278",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=5ivjCLjHiBA",
+                    "description": "Track 3 - 973.070\nArtist : David Reeves\nAlbum : Otras\n1995 FAX +49-69/450464",
+                    "title": "David Reeves - 973.070 (Otras)"
+                },
+                {
+                    "_duration": "323",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=cGX8PtdL9Y0",
+                    "description": "Track 4 - Celestial Entrance\nArtist : David Reeves\nAlbum : Otras\n1995 FAX +49-69/450464",
+                    "title": "David Reeves - Celestial Entrance (Otras)"
+                },
+                {
+                    "_duration": "514",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=teaJTvB6Ifo",
+                    "description": "Track 5 - The Derelict Fleet\nArtist : David Reeves\nAlbum : Otras\n1995 FAX +49-69/450464",
+                    "title": "David Reeves - The Derelict Fleet (Otras)"
+                },
+                {
+                    "_duration": "338",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=GnrDlrCnMCU",
+                    "description": "Track 6 - Auto-Plain\nArtist : David Reeves\nAlbum : Otras\n1995 FAX +49-69/450464",
+                    "title": "David Reeves - Auto-Plain (Otras)"
+                },
+                {
+                    "_duration": "304",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=UgUTYRVxhf4",
+                    "description": "Track 7 - Tetuan4\nArtist : David Reeves\nAlbum : Otras\n1995 FAX +49-69/450464",
+                    "title": "David Reeves - Tetuan4 (Otras)"
+                },
+                {
+                    "_duration": "209",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=XHy24M0eLmM",
+                    "description": "Track 8 - The Flowing Light Of The Godhead\nArtist : David Reeves\nAlbum : Otras\n1995 FAX +49-69/450464",
+                    "title": "David Reeves - The Flowing Light Of The Godhead (Otras)"
+                },
+                {
+                    "_duration": "860",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=14i3cpj1t4w",
+                    "description": "Track 9 - 1000th Sun\nArtist : David Reeves\nAlbum : Otras\n1995 FAX +49-69/450464",
+                    "title": "David Reeves - 1000th Sun (Otras)"
+                }
+            ]
+        }
+    }
+}

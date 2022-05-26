@@ -1,0 +1,158 @@
+{
+    "release": {
+        "_id": "79264",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "14127",
+                "join": "",
+                "name": "SynSyl",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "Germany",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "DJ Sylvie",
+                    "id": "22948",
+                    "join": "",
+                    "name": "Sylvie Marks",
+                    "role": "Written-By",
+                    "tracks": "A1, B2"
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Side A Etching",
+                    "_type": "Matrix / Runout",
+                    "_value": "PK 08/31 A SST = PRODUCED AT SONIC STUDIOS FRANKFURT FOR NAMLOOK PRODUCTIONS ="
+                },
+                {
+                    "_description": "Side B Etching",
+                    "_type": "Matrix / Runout",
+                    "_value": "PK 08/31 B SST \"AGAIN... MUSIC IS THE DRUG, NOTHING ELSE.... THINK...\""
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "497",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "493"
+                },
+                {
+                    "_height": "491",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "493"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/31",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Limitation: 500",
+        "released": "1993-01-04",
+        "styles": {
+            "style": [
+                "Techno",
+                "Hard Trance",
+                "Ambient"
+            ]
+        },
+        "title": "SynSyl 2",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "",
+                    "title": "This Side"
+                },
+                {
+                    "duration": "7:18",
+                    "position": "A1",
+                    "title": "AngeLIcKES the dEVIL"
+                },
+                {
+                    "duration": "",
+                    "position": "",
+                    "title": "Other Side"
+                },
+                {
+                    "duration": "5:22",
+                    "position": "B1",
+                    "title": "Angel Kicks The Devil"
+                },
+                {
+                    "duration": "5:45",
+                    "position": "B2",
+                    "title": "Angel"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "435",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=DQceCroYyCo",
+                    "description": "AngeLIcKES the dEVIL \n\r\n\r-uploaded in HD at http://www.TunesToTube.com",
+                    "title": "SynSyl ‎- AngeLIcKES the dEVIL (Trance 1993)"
+                },
+                {
+                    "_duration": "321",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=1HQrdz7mAH4",
+                    "description": "Uploaded by EliStatic Entertainments\n\nSynSyl -- SynSyl 2 \nLabel:Fax +49-69-450464 \nCatalog#:PK 08-31 \nFormat:Vinyl, 12-, Limited Edition\nCountry:Germany \nReleased:04 Jan 1993 \nGenre:Electronic \nStyle:Techno",
+                    "title": "SynSyl - Angel Kicks The Devil (1993)"
+                },
+                {
+                    "_duration": "325",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=AYeCyPDRbUE",
+                    "description": "http://www.discogs.com/SynSyl-SynSyl-2/release/79264\n\r\n\r-uploaded in HD at http://www.TunesToTube.com",
+                    "title": "Synsyl - Angel (Ambient 1993)"
+                }
+            ]
+        }
+    }
+}

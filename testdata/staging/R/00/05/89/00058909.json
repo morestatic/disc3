@@ -1,0 +1,129 @@
+{
+    "release": {
+        "_id": "58909",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "4511",
+                "join": "",
+                "name": "Wolf n' Flow",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "US",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": {
+                "anv": "Ralph Lawson \u0026 Carl Finlow",
+                "id": "57923",
+                "join": "",
+                "name": "Ralph Lawson And Carl Finlow",
+                "role": "Written-By, Producer",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "45 RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "591",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "591"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "MDR9637-1",
+                "_id": "20",
+                "_name": "Moody Recordings"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "44868"
+        },
+        "released": "2001-00-00",
+        "styles": {
+            "style": [
+                "House",
+                "Deep House"
+            ]
+        },
+        "title": "I'm Feelin' Moody",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "6:51",
+                    "position": "A",
+                    "title": "I'm Feelin' Moody (A Moody Vision)"
+                },
+                {
+                    "duration": "5:22",
+                    "position": "B",
+                    "title": "I'm Feelin' Moody (A Moody Dub)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "410",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=iReuJDEwTVI",
+                    "description": "Great tune from Moody Recordings",
+                    "title": "Wolf n' Flow - I'm Feelin' Moody (Moody)"
+                },
+                {
+                    "_duration": "334",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=YXJrcp_mQWk",
+                    "description": "Out now at Beatport: http://bit.ly/DDGDbeatport and iTunes: http://smarturl.it/DDGDiTunes\n\nExclusive streams of Gold Dust Mixes recovered and restored from the lost DAT tapes by Ralph Lawson.\n\nAdditional Production Carl Finlow\n\nMastered by Noel Summervill",
+                    "title": "Wolf n' Flow - I'm Feeling Moody (Dusty Dub)"
+                }
+            ]
+        }
+    }
+}

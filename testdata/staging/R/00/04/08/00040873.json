@@ -1,0 +1,542 @@
+{
+    "release": {
+        "_id": "40873",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "265",
+                "join": "",
+                "name": "Julius Papp \u0026 Dave Warrin",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "9",
+                    "entity_type_name": "Distributed By",
+                    "id": "47654",
+                    "name": "Next Music",
+                    "resource_url": "https://api.discogs.com/labels/47654"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "9",
+                    "entity_type_name": "Distributed By",
+                    "id": "123731",
+                    "name": "Zomba Distribution",
+                    "resource_url": "https://api.discogs.com/labels/123731"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "9",
+                    "entity_type_name": "Distributed By",
+                    "id": "264522",
+                    "name": "Pinnacle (3)",
+                    "resource_url": "https://api.discogs.com/labels/264522"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "16",
+                    "entity_type_name": "Made By",
+                    "id": "538377",
+                    "name": "MPO Broadcrest",
+                    "resource_url": "https://api.discogs.com/labels/538377"
+                }
+            ]
+        },
+        "country": "UK, Europe \u0026 US",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "40",
+                    "join": "",
+                    "name": "Dave Warrin",
+                    "role": "Arranged By",
+                    "tracks": "1 to 3, 5 to 7, 9 to 13"
+                },
+                {
+                    "anv": "",
+                    "id": "5615",
+                    "join": "",
+                    "name": "Julius Papp",
+                    "role": "Arranged By",
+                    "tracks": "1 to 7, 10 to 13"
+                },
+                {
+                    "anv": "",
+                    "id": "114538",
+                    "join": "",
+                    "name": "Joseph Ventola",
+                    "role": "Executive Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "687177",
+                    "join": "",
+                    "name": "J. Peake",
+                    "role": "Flute",
+                    "tracks": "3, 5, 12"
+                },
+                {
+                    "anv": "",
+                    "id": "40",
+                    "join": "",
+                    "name": "Dave Warrin",
+                    "role": "Keyboards",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "40",
+                    "join": "",
+                    "name": "Dave Warrin",
+                    "role": "Producer",
+                    "tracks": "1 to 3, 5, 6, 7, 9, 10, 11, 12, 13"
+                },
+                {
+                    "anv": "",
+                    "id": "5615",
+                    "join": "",
+                    "name": "Julius Papp",
+                    "role": "Producer",
+                    "tracks": "1 to 8, 10 to 13"
+                },
+                {
+                    "anv": "",
+                    "id": "40",
+                    "join": "",
+                    "name": "Dave Warrin",
+                    "role": "Written-By",
+                    "tracks": "1 to 3, 5 to 7, 9 to 13"
+                },
+                {
+                    "anv": "",
+                    "id": "5615",
+                    "join": "",
+                    "name": "Julius Papp",
+                    "role": "Written-By",
+                    "tracks": "1 to 7, 10 to 13"
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "Album"
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "String",
+                    "_type": "Barcode",
+                    "_value": "681407700825"
+                },
+                {
+                    "_description": "Text",
+                    "_type": "Barcode",
+                    "_value": "6 81407 70082 5"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "IRCD008 [MPO swirl logo]"
+                },
+                {
+                    "_type": "Mastering SID Code",
+                    "_value": "IFPI LR51"
+                },
+                {
+                    "_description": "Next Music Distribution Code",
+                    "_type": "Other",
+                    "_value": "MD843"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "587",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "468",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "610",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "610",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "590",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "467",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": [
+                {
+                    "_catno": "IR-CD008E",
+                    "_id": "39",
+                    "_name": "i! Records"
+                },
+                {
+                    "_catno": "IR-CD008",
+                    "_id": "39",
+                    "_name": "i! Records"
+                }
+            ]
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "214223"
+        },
+        "released": "2002",
+        "styles": {
+            "style": "Deep House"
+        },
+        "title": "Behind The Sun",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "6:21",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "687179",
+                            "join": "",
+                            "name": "John Warrin",
+                            "role": "Guitar",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "1",
+                    "title": "Watercolors"
+                },
+                {
+                    "duration": "4:56",
+                    "position": "2",
+                    "title": "Aquatic"
+                },
+                {
+                    "duration": "5:38",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "687179",
+                                "join": "",
+                                "name": "John Warrin",
+                                "role": "Arranged By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "687179",
+                                "join": "",
+                                "name": "John Warrin",
+                                "role": "Guitar",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "687179",
+                                "join": "",
+                                "name": "John Warrin",
+                                "role": "Producer",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "687179",
+                                "join": "",
+                                "name": "John Warrin",
+                                "role": "Written-By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "3",
+                    "title": "Notorious (Jazz Excursion Mix)"
+                },
+                {
+                    "duration": "6:51",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "439394",
+                                "join": "",
+                                "name": "Noel Catura",
+                                "role": "Flute",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "439394",
+                                "join": "",
+                                "name": "Noel Catura",
+                                "role": "Saxophone",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "557876",
+                                "join": "",
+                                "name": "Modesto Briseno",
+                                "role": "Trumpet",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "70175",
+                                "join": "",
+                                "name": "Bill Williams",
+                                "role": "Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "439394",
+                                "join": "",
+                                "name": "Noel Catura",
+                                "role": "Written-By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "4",
+                    "title": "Another Morning"
+                },
+                {
+                    "duration": "5:56",
+                    "position": "5",
+                    "title": "Peace Of Mind (Space Cadet Version)"
+                },
+                {
+                    "duration": "5:37",
+                    "position": "6",
+                    "title": "Behind The Sun"
+                },
+                {
+                    "duration": "5:12",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "480846",
+                            "join": "",
+                            "name": "Breze",
+                            "role": "Vocals",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "7",
+                    "title": "Feel You (Excursion Mix)"
+                },
+                {
+                    "duration": "4:41",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "70175",
+                                "join": "",
+                                "name": "Bill Williams",
+                                "role": "Engineer [Additional]",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "40",
+                                "join": "",
+                                "name": "Dave Warrin",
+                                "role": "Featuring",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "70175",
+                                "join": "",
+                                "name": "Bill Williams",
+                                "role": "Percussion",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "439394",
+                                "join": "",
+                                "name": "Noel Catura",
+                                "role": "Saxophone",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "Kenny Gamble, Leon Huff",
+                                "id": "223460",
+                                "join": "",
+                                "name": "Gamble \u0026 Huff",
+                                "role": "Written-By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "8",
+                    "title": "Love Is The Message"
+                },
+                {
+                    "duration": "5:03",
+                    "position": "9",
+                    "title": "Somewhere"
+                },
+                {
+                    "duration": "6:10",
+                    "position": "10",
+                    "title": "Out There"
+                },
+                {
+                    "duration": "4:36",
+                    "position": "11",
+                    "title": "Inner Peace"
+                },
+                {
+                    "duration": "6:04",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "687179",
+                                "join": "",
+                                "name": "John Warrin",
+                                "role": "Guitar",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "687178",
+                                "join": "",
+                                "name": "Shannon Miles",
+                                "role": "Vocals",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "12",
+                    "title": "Notorious (Discofied Ride)"
+                },
+                {
+                    "duration": "6:08",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "11847",
+                            "join": "",
+                            "name": "Mr. Bill",
+                            "role": "Vocals",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "13",
+                    "title": "Ain't Right"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "413",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=e8d9AP0EbCc",
+                    "description": "Artist: Julius Papp \u0026 Dave Warrin\nAlbum: Behind The Sun\nLabel: i! Records\nCatalogue: IR-AL008\nReleased: 2002\n\nPromotional Use Only. All Rights belong to their respective owners.",
+                    "title": "Julius Papp \u0026 Dave Warrin - Another Morning"
+                },
+                {
+                    "_duration": "305",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=NsrRNJD5eMY",
+                    "description": "Artist: Julius Papp \u0026 Dave Warrin\nAlbum: Behind The Sun\nLabel: i! Records\nCatalogue: IR-AL008\nReleased: 2002\n\nPromotional Use Only. All Rights belong to their respective owners.",
+                    "title": "Julius Papp \u0026 Dave Warrin - Somewhere"
+                },
+                {
+                    "_duration": "293",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=V2cdeDl4KyQ",
+                    "description": "Artist: Julius Papp \u0026 Dave Warrin\nAlbum: Behind The Sun\nLabel: i! Records\nCatalogue: IR-AL008\nReleased: 2002\n\nPromotional Use Only. All Rights belong to their respective owners.",
+                    "title": "Julius Papp \u0026 Dave Warrin - Aquatic"
+                },
+                {
+                    "_duration": "362",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=tUnEm1ynu5c",
+                    "description": "Artist: Julius Papp \u0026 Dave Warrin\nAlbum: Love Is The Message EP\nLabel: i! Records\nCatalogue: IR-216\nReleased: 2001-11\n\nPromotional Use Only. All Rights belong to their respective owners.",
+                    "title": "Julius Papp \u0026 Dave Warrin - Love Is Still The Message (Old School mix)"
+                },
+                {
+                    "_duration": "313",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=tkOsYQ0hD0I",
+                    "description": "Artist: Julius Papp \u0026 Dave Warrin\nAlbum: Feel You EP\nLabel: i! Records\nCatalogue: IR-154\nReleased: 1998\n\nPromotional Use Only. All Rights belong to their respective owners.",
+                    "title": "Julius Papp \u0026 Dave Warrin - Feel You (Excursion Mix)"
+                },
+                {
+                    "_duration": "381",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=YbA0Tqu4JEM",
+                    "description": "Artist: Julius Papp \u0026 Dave Warrin\nAlbum: Feel You EP\nLabel: i! Records\nCatalogue: IR-154\nReleased: 1998\n\nPromotional Use Only. All Rights belong to their respective owners.",
+                    "title": "Julius Papp \u0026 Dave Warrin - Watercolors"
+                }
+            ]
+        }
+    }
+}

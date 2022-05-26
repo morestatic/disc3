@@ -1,0 +1,175 @@
+{
+    "release": {
+        "_id": "29",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "61",
+                "join": "",
+                "name": "John Tejada \u0026 Arian Leviste",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "314115",
+                    "name": "Parallax Muzik",
+                    "resource_url": "https://api.discogs.com/labels/314115"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "9",
+                    "entity_type_name": "Distributed By",
+                    "id": "199013",
+                    "name": "Integrale Muzique Limited",
+                    "resource_url": "https://api.discogs.com/labels/199013"
+                }
+            ]
+        },
+        "country": "US",
+        "data_quality": "Needs Vote",
+        "extraartists": "",
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_type": "Rights Society",
+                "_value": "BMI"
+            }
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "337",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "340"
+                },
+                {
+                    "_height": "336",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "340"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PAL-11",
+                "_id": "30",
+                "_name": "Palette Recordings"
+            }
+        },
+        "notes": "All songs Parallax Muzik B.M.I.\r\nPalette: 818-892-1354\r\nDistributed by Integrale.",
+        "released": "2000",
+        "styles": {
+            "style": [
+                "Techno",
+                "Tech House"
+            ]
+        },
+        "title": "6 Hits Of Sunshine",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "",
+                    "title": "Top Side"
+                },
+                {
+                    "duration": "",
+                    "position": "A1",
+                    "title": "6 Hits Of Sunshine"
+                },
+                {
+                    "duration": "",
+                    "position": "A2",
+                    "title": "A Present Of Presence"
+                },
+                {
+                    "duration": "",
+                    "position": "",
+                    "title": "Bottom Side"
+                },
+                {
+                    "duration": "",
+                    "position": "B1",
+                    "title": "Pattern Translator"
+                },
+                {
+                    "duration": "",
+                    "position": "B2",
+                    "title": "Blue Is Bashful"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "302",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=A2cb9Ti5PQU",
+                    "description": "https://www.discogs.com/John-Tejada-Arian-Leviste-6-Hits-Of-Sunshine/release/29\n\nJohn Tejada \u0026 Arian Leviste ‎– 6 Hits Of Sunshine\nLabel: Palette Recordings ‎– PAL-11\nFormat: Vinyl, 12, 33 ⅓ RPM \nCountry: US\nReleased: 2000\nGenre: Electronic\nSty",
+                    "title": "John Tejada \u0026 Arian Leviste - 6 Hits Of Sunshine"
+                },
+                {
+                    "_duration": "297",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=KfiTn7qQIVA",
+                    "description": "https://www.discogs.com/John-Tejada-Arian-Leviste-6-Hits-Of-Sunshine/release/29\n\nJohn Tejada \u0026 Arian Leviste ‎– 6 Hits Of Sunshine\nLabel: Palette Recordings ‎– PAL-11\nFormat: Vinyl, 12, 33 ⅓ RPM \nCountry: US\nReleased: 2000\nGenre: Electronic\nSty",
+                    "title": "John Tejada \u0026 Arian Leviste - A Present Of Presence"
+                },
+                {
+                    "_duration": "290",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=5BSUjB27mUs",
+                    "description": "https://www.discogs.com/John-Tejada-Arian-Leviste-6-Hits-Of-Sunshine/release/29\n\nJohn Tejada \u0026 Arian Leviste ‎– 6 Hits Of Sunshine\nLabel: Palette Recordings ‎– PAL-11\nFormat: Vinyl, 12, 33 ⅓ RPM \nCountry: US\nReleased: 2000\nGenre: Electronic\nSty",
+                    "title": "John Tejada \u0026 Arian Leviste - Pattern Translator"
+                },
+                {
+                    "_duration": "298",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=l4YDPNL7Gmg",
+                    "description": "https://www.discogs.com/John-Tejada-Arian-Leviste-6-Hits-Of-Sunshine/release/29\n\nJohn Tejada \u0026 Arian Leviste ‎– 6 Hits Of Sunshine\nLabel: Palette Recordings ‎– PAL-11\nFormat: Vinyl, 12, 33 ⅓ RPM \nCountry: US\nReleased: 2000\nGenre: Electronic\nSty",
+                    "title": "John Tejada \u0026 Arian Leviste - Blue Is Bashful"
+                },
+                {
+                    "_duration": "142",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=jyJ9COiq4z4",
+                    "description": "Provided to YouTube by The Orchard Enterprises\n\n6 Hits of Sunshine · John Tejada\n\nBackstock\n\n℗ 2014 Urabon Records\n\nReleased on: 2002-07-23\n\nAuto-generated by YouTube.",
+                    "title": "6 Hits of Sunshine"
+                },
+                {
+                    "_duration": "163",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=e_t5qIM0fVM",
+                    "description": "Provided to YouTube by The Orchard Enterprises\n\nBlue Is Bashful · John Tejada\n\nBackstock\n\n℗ 2014 Urabon Records\n\nReleased on: 2002-07-23\n\nAuto-generated by YouTube.",
+                    "title": "Blue Is Bashful"
+                }
+            ]
+        }
+    }
+}

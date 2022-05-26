@@ -1,0 +1,470 @@
+{
+    "release": {
+        "_id": "23319",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "4297",
+                "join": "",
+                "name": "T-Quest",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "26064",
+                    "name": "N.E.W.S.",
+                    "resource_url": "https://api.discogs.com/labels/26064"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "26064",
+                    "name": "N.E.W.S.",
+                    "resource_url": "https://api.discogs.com/labels/26064"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "9",
+                    "entity_type_name": "Distributed By",
+                    "id": "33652",
+                    "name": "BMG Ariola",
+                    "resource_url": "https://api.discogs.com/labels/33652"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "9",
+                    "entity_type_name": "Distributed By",
+                    "id": "26064",
+                    "name": "N.E.W.S.",
+                    "resource_url": "https://api.discogs.com/labels/26064"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "17",
+                    "entity_type_name": "Pressed By",
+                    "id": "73708",
+                    "name": "DOCdata",
+                    "resource_url": "https://api.discogs.com/labels/73708"
+                }
+            ]
+        },
+        "country": "Belgium",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "4297",
+                "join": "",
+                "name": "T-Quest",
+                "role": "DJ Mix [Phixed By]",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "Mixed"
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Text",
+                    "_type": "Barcode",
+                    "_value": "5 414165 005742"
+                },
+                {
+                    "_description": "Scanned",
+                    "_type": "Barcode",
+                    "_value": "5414165005742"
+                },
+                {
+                    "_type": "Rights Society",
+                    "_value": "SABAM"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "DOCdata NEWS541416500574"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "598"
+                },
+                {
+                    "_height": "469",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "598"
+                },
+                {
+                    "_height": "610",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "605",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "591",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "602",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "614",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "471",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "541416 500574",
+                "_id": "1900",
+                "_name": "541"
+            }
+        },
+        "released": "2001-02-26",
+        "styles": {
+            "style": "Techno"
+        },
+        "title": "Kozzmozz 04 - Da.K.Is.Yours.",
+        "tracklist": {
+            "track": [
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "8006",
+                            "join": "",
+                            "name": "Superfunk",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:09",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "84670",
+                                "join": "",
+                                "name": "Everis Pellius",
+                                "role": "Featuring",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "801",
+                                "join": "",
+                                "name": "Laidback Luke",
+                                "role": "Remix",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "1",
+                    "title": "Last Dance (And I Come Over) (Laidback Luke Remix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "20",
+                            "join": "",
+                            "name": "Percy X",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "1:50",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1112",
+                            "join": "",
+                            "name": "Steve Bicknell",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "2",
+                    "title": "Maintain (Steve Bicknell Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "6348",
+                            "join": "",
+                            "name": "Gary Martin",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "3:26",
+                    "position": "3",
+                    "title": "Black Forest"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "2430",
+                            "join": "",
+                            "name": "Geo Vogt",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:20",
+                    "position": "4",
+                    "title": "Inorganic Bodies"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "3885",
+                            "join": "",
+                            "name": "Terence Fixmer",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "3:09",
+                    "position": "5",
+                    "title": "Body Pressure"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1100",
+                            "join": "",
+                            "name": "Blake Baxter",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "3:49",
+                    "position": "6",
+                    "title": "Weomp!"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1505",
+                            "join": "",
+                            "name": "Trevor Rockcliffe",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "2:58",
+                    "position": "7",
+                    "title": "2001 Jack"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "8370",
+                            "join": "",
+                            "name": "A²",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "3:56",
+                    "position": "8",
+                    "title": "Do You Like The Way You Feel When You Shake? (Mix 1)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1711",
+                            "join": "",
+                            "name": "Chris Liebing",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "2:57",
+                    "position": "9",
+                    "title": "Seven Eleven"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1605",
+                            "join": "",
+                            "name": "Deetron",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "2:43",
+                    "position": "10",
+                    "title": "Ratio"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "3465",
+                            "join": "",
+                            "name": "Phuture 303",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "2:30",
+                    "position": "11",
+                    "title": "Riden"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "Storm",
+                            "id": "46349",
+                            "join": "",
+                            "name": "Strom",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:50",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "2063",
+                            "join": "",
+                            "name": "DJ Rush",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "12",
+                    "title": "Circuit Breaker II (DJ Rush Remix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1711",
+                            "join": "",
+                            "name": "Chris Liebing",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "3:31",
+                    "position": "13",
+                    "title": "Call It What You Want (Part 4)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1711",
+                            "join": "",
+                            "name": "Chris Liebing",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:42",
+                    "position": "14",
+                    "title": "Untitled"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "9427",
+                            "join": "",
+                            "name": "Petar Dundov",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:29",
+                    "position": "15",
+                    "title": "Evolver (Part 2)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1579",
+                            "join": "",
+                            "name": "Luke Slater",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "10:20",
+                    "position": "16",
+                    "title": "All Exhale (Club Mix)"
+                }
+            ]
+        }
+    }
+}

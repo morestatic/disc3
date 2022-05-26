@@ -1,0 +1,189 @@
+{
+    "release": {
+        "_id": "49381",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "293198",
+                "join": "",
+                "name": "Virtual Vices",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": {
+                "catno": "",
+                "entity_type": "23",
+                "entity_type_name": "Recorded At",
+                "id": "265012",
+                "name": "Klanglabor Hödeshof",
+                "resource_url": "https://api.discogs.com/labels/265012"
+            }
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "Wolfram Spyra",
+                    "id": "13462",
+                    "join": "",
+                    "name": "Spyra",
+                    "role": "Performer [Steel Cello, Bow Chimes]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "58657",
+                    "join": "",
+                    "name": "Peter Kuhlmann",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "Wolfram Spyra",
+                    "id": "13462",
+                    "join": "",
+                    "name": "Spyra",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_type": "Label Code",
+                "_value": "LC 6269 "
+            }
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "592",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "591",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "297",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/154",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Recorded at Klanglabor, Traben-Trarbach.\nThe \"Steel Cello\" and the \"Bow Chimes\" are inventions of [url=https://www.discogs.com/artist/101284-Robert-Rutman]Bob Rutman[/url].\nLimitation: 2000.",
+        "released": "2000-09-11",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Electro"
+            ]
+        },
+        "title": "Virtual Vices II",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "14:44",
+                    "position": "1",
+                    "title": "Bauxit"
+                },
+                {
+                    "duration": "14:29",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "39678",
+                                "join": "",
+                                "name": "Jenny Gibbert",
+                                "role": "Vocals",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "1910",
+                                "join": "",
+                                "name": "Pete Namlook",
+                                "role": "Vocals",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "2",
+                    "title": "2nd Level Distance"
+                },
+                {
+                    "duration": "11:00",
+                    "position": "3",
+                    "title": "Tshoogy Beatbox"
+                },
+                {
+                    "duration": "21:23",
+                    "position": "4",
+                    "title": "Svuk"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "887",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=IZLUUyuHyA4",
+                    "description": "Virtual Vices - Virtual Vices II (Fax +49-69/450464)\n\nhttp://www.discogs.com/artist/Virtual+Vices",
+                    "title": "Virtual Vices - Bauxit"
+                },
+                {
+                    "_duration": "865",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=kKCGEuq6j68",
+                    "description": "enjoy",
+                    "title": "Pete Namlook \u0026 Wolfram Spyra - 2nd Level Distance"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,163 @@
+{
+    "release": {
+        "_id": "52665",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "47682",
+                "join": "",
+                "name": "Sad World",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": {
+                "catno": "",
+                "entity_type": "10",
+                "entity_type_name": "Manufactured By",
+                "id": "267946",
+                "name": "CD Plant AB",
+                "resource_url": "https://api.discogs.com/labels/267946"
+            }
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "8521",
+                    "join": "",
+                    "name": "Dr. Atmo",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "Ramin",
+                    "id": "62865",
+                    "join": "",
+                    "name": "Ramin Naghachian",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "CD PLANT AB PS 08/82 CDM01"
+                },
+                {
+                    "_type": "Mould SID Code",
+                    "_value": "ifpi 8402"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "506",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "596",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "481",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "595"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PS 08/82",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Limitation: 1000\n\n\"No more Sad World\"\n\nSad World\nFrankfurt 1995\n\nHi To:\nMirella\nOmid\nMustafa\nNaghi\nDeep Space Network\nMixmaster Morris\nTim Han\nPaul Cooper\nIngo\n\nMade in Germany\n\nTrack 2 printed duration is 30:25, actual duration is 30:30.",
+        "released": "1995-09-11",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Downtempo",
+                "Experimental",
+                "Tribal"
+            ]
+        },
+        "title": "Sad World 3",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "13:05",
+                    "position": "1",
+                    "title": "Iskander"
+                },
+                {
+                    "duration": "30:30",
+                    "position": "2",
+                    "title": "Shirin"
+                },
+                {
+                    "duration": "19:05",
+                    "position": "3",
+                    "title": "Khorasan"
+                }
+            ]
+        }
+    }
+}

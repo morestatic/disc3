@@ -1,0 +1,258 @@
+{
+    "release": {
+        "_id": "132158",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "1463",
+                "join": "",
+                "name": "Anthony Rother",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "27",
+                    "entity_type_name": "Mixed At",
+                    "id": "270130",
+                    "name": "PSI Studio",
+                    "resource_url": "https://api.discogs.com/labels/270130"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "270130",
+                    "name": "PSI Studio",
+                    "resource_url": "https://api.discogs.com/labels/270130"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "93313",
+                    "name": "Warner/Chappell Music",
+                    "resource_url": "https://api.discogs.com/labels/93313"
+                },
+                {
+                    "catno": "59580",
+                    "entity_type": "31",
+                    "entity_type_name": "Glass Mastered At",
+                    "id": "277449",
+                    "name": "P+O Pallas",
+                    "resource_url": "https://api.discogs.com/labels/277449"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "andre@sansserif.com.au",
+                    "id": "2022694",
+                    "join": "",
+                    "name": "Andre Ruello",
+                    "role": "Graphics",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1463",
+                    "join": "",
+                    "name": "Anthony Rother",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1463",
+                    "join": "",
+                    "name": "Anthony Rother",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Mixed",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Scanned",
+                    "_type": "Barcode",
+                    "_value": "807297026924"
+                },
+                {
+                    "_description": "Text",
+                    "_type": "Barcode",
+                    "_value": "8 07297 02692 4"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                },
+                {
+                    "_type": "Mastering SID Code",
+                    "_value": "IFPI L962"
+                },
+                {
+                    "_type": "Mould SID Code",
+                    "_value": "IFPI 3J01"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "PS 08/100 P+O-59580-A2  01-03"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "591",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "466",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "599"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "597",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "298",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PS 08/100",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "1061580"
+        },
+        "notes": "Anthony Rother\r\nFrankfurt 2003\r\n\r\nMixed and recorded at PSI Studio Germany\r\nLimitation: 2000\r\n\r\nAnthony Rother appears courtesy of psi49net\r\nwww.psi49net.de",
+        "released": "2003-02-12",
+        "styles": {
+            "style": [
+                "Electro",
+                "Ambient"
+            ]
+        },
+        "title": "Elixir Of Life",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "3:40",
+                    "position": "1",
+                    "title": "Elixir Of Life (Part 1)"
+                },
+                {
+                    "duration": "7:24",
+                    "position": "2",
+                    "title": "Elixir Of Life (Part 2)"
+                },
+                {
+                    "duration": "5:49",
+                    "position": "3",
+                    "title": "Elixir Of Life (Part 3)"
+                },
+                {
+                    "duration": "4:16",
+                    "position": "4",
+                    "title": "Elixir Of Life (Part 4)"
+                },
+                {
+                    "duration": "6:40",
+                    "position": "5",
+                    "title": "Elixir Of Life (Part 5)"
+                },
+                {
+                    "duration": "7:06",
+                    "position": "6",
+                    "title": "Elixir Of Life (Part 6)"
+                },
+                {
+                    "duration": "5:39",
+                    "position": "7",
+                    "title": "Elixir Of Life (Part 7)"
+                },
+                {
+                    "duration": "5:25",
+                    "position": "8",
+                    "title": "Elixir Of Life (Part 8)"
+                },
+                {
+                    "duration": "8:09",
+                    "position": "9",
+                    "title": "Elixir Of Life (Part 9)"
+                },
+                {
+                    "duration": "6:35",
+                    "position": "10",
+                    "title": "Elixir Of Life (Part 10)"
+                }
+            ]
+        },
+        "videos": {
+            "video": {
+                "_duration": "3633",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=tfcrPfjyhC4",
+                "description": "ELIXIR OF LIFE“ is an album by Anthony Rother\nreleased in the year 2016 on the label STAHL-INDUSTRIES / On FAX in the year 2003\n\nThe album is available as Digital Album at https://anthonyrother.bandcamp.com/album/elixir-of-life\n\nBandcamp: https://antho",
+                "title": "Anthony Rother - ELIXIR OF LIFE (Full Album)"
+            }
+        }
+    }
+}

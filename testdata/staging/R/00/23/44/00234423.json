@@ -1,0 +1,355 @@
+{
+    "release": {
+        "_id": "234423",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "838",
+                "join": "",
+                "name": "Move D",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "63110",
+                    "entity_type": "10",
+                    "entity_type_name": "Manufactured By",
+                    "id": "277449",
+                    "name": "P+O Pallas",
+                    "resource_url": "https://api.discogs.com/labels/277449"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "265055",
+                    "name": "reSource Heidelberg",
+                    "resource_url": "https://api.discogs.com/labels/265055"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "391746",
+                    "name": "Studio KM 20",
+                    "resource_url": "https://api.discogs.com/labels/391746"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "322612",
+                    "name": "Studio Pankow",
+                    "resource_url": "https://api.discogs.com/labels/322612"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "33",
+                    "entity_type_name": "Designed At",
+                    "id": "394536",
+                    "name": "sansserifgrafik",
+                    "resource_url": "https://api.discogs.com/labels/394536"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "2118078",
+                    "join": "",
+                    "name": "PEK (3)",
+                    "role": "Graphics",
+                    "tracks": ""
+                },
+                {
+                    "anv": "Andre",
+                    "id": "2022694",
+                    "join": "",
+                    "name": "Andre Ruello",
+                    "role": "Graphics [With Help By]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "152",
+                    "join": "",
+                    "name": "David Moufang",
+                    "role": "Keyboards [Keys], Guitar [Guitars], Pedal Steel Guitar [Pedal Steel], Bass, Percussion, Whistle, Voice",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "5712017",
+                    "join": "",
+                    "name": "rawhill.images",
+                    "role": "Photography By [Cover Photo]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "666234",
+                    "join": "",
+                    "name": "Lola Corvette",
+                    "role": "Photography By [Underwater Pictures]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "152",
+                    "join": "",
+                    "name": "David Moufang",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "Dan",
+                    "id": "852521",
+                    "join": "",
+                    "name": "Dan Moufang",
+                    "role": "Voice",
+                    "tracks": "3, 6, 11, 12"
+                },
+                {
+                    "anv": "",
+                    "id": "152",
+                    "join": "",
+                    "name": "David Moufang",
+                    "role": "Written-By [All Tracks]",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Text",
+                    "_type": "Barcode",
+                    "_value": "8 07297 03772 2"
+                },
+                {
+                    "_type": "Barcode",
+                    "_value": "807297037722"
+                },
+                {
+                    "_type": "Mastering SID Code",
+                    "_value": "IFPI L963"
+                },
+                {
+                    "_type": "Mould SID Code",
+                    "_value": "IFPI 3J03"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "PS 08/105 P+O-63110-A 12-03"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "570",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "589",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "581",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "577",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PS 08/105",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Recorded at reSource Studio, Heidelberg except 1, 11 recorded at KM 20, Heidelberg; 4 recorded at Kai's Studio Pankow, Berlin / Graphics: PEK with help by andre@sansserifgrafik.com\n\nThanks to my family and friends\nThis is to all you(r) kids out there !\nMove D\nHeidelberg 2004\n\nMade in Germany\n\nLimitation: 2000\n\nReleased in standard jewel case with 4 pp. insert.",
+        "released": "2004-01-15",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Downtempo",
+                "Dub",
+                "Future Jazz"
+            ]
+        },
+        "title": "Pop For Dwoozle",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "2:02",
+                    "position": "1",
+                    "title": "Put Your Ear To The Ground"
+                },
+                {
+                    "duration": "4:15",
+                    "position": "2",
+                    "title": "Looking For Grasshoppers"
+                },
+                {
+                    "duration": "4:47",
+                    "position": "3",
+                    "title": "Goofi"
+                },
+                {
+                    "duration": "3:43",
+                    "position": "4",
+                    "title": "Insel Poel '97 / Berlin Von Seiner Schönsten Seite"
+                },
+                {
+                    "duration": "4:19",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "Gunter 'Ruit' Kraus",
+                            "id": "652102",
+                            "join": "",
+                            "name": "Gunter Kraus",
+                            "role": "Keyboards [Additional Keys]",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "5",
+                    "title": "Haheessh"
+                },
+                {
+                    "duration": "7:05",
+                    "position": "6",
+                    "title": "The Tree / Travelling Without Moving"
+                },
+                {
+                    "duration": "0:34",
+                    "position": "7",
+                    "title": "Will Funk For Food"
+                },
+                {
+                    "duration": "3:21",
+                    "position": "8",
+                    "title": "Cacao Facil"
+                },
+                {
+                    "duration": "3:52",
+                    "position": "9",
+                    "title": "Watching Trains (Züge Gucken)"
+                },
+                {
+                    "duration": "6:16",
+                    "position": "10",
+                    "title": "Uchi Soto Uki"
+                },
+                {
+                    "duration": "20:17",
+                    "position": "11",
+                    "title": "Tonspur 11"
+                },
+                {
+                    "duration": "1:26",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "Dan",
+                            "id": "852521",
+                            "join": "",
+                            "name": "Dan Moufang",
+                            "role": "Percussion",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "12",
+                    "title": "∞"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "260",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=ENaUOmJyiBc",
+                    "description": "Move D - Looking For Grasshoppers\r\nalbum: Pop For Dwoozle (2004)\r\n\r\nmore info:\r\nhttp://www.discogs.com/Move-D-Pop-For-Dwoozle/release/234423",
+                    "title": "Move D - Looking For Grasshoppers"
+                },
+                {
+                    "_duration": "288",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=tcjghLHrIKA",
+                    "description": "Artist: Move D\r\nTitle: Goofi\r\nAlbum: Pop for Dwoozle\r\nTrack Number: 3\r\nYear: 2004\r\nLabel: Fax +49-69/450464\r\nCat#: PS 08/105",
+                    "title": "Move D - Goofi"
+                },
+                {
+                    "_duration": "224",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=WBxz0pu73bM",
+                    "description": "Move D - Insel Poel '97 / Berlin Son seiner Schönsten Seite (Pop For Dwoozle, 2004)",
+                    "title": "Move D - Insel Poel '97 / Berlin Son seiner Schönsten Seite (Pop For Dwoozle, 2004)"
+                },
+                {
+                    "_duration": "260",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=teAphWeKaGw",
+                    "description": "http://www.discogs.com/Move-D-Pop-For-Dwoozle/release/234423\n\nI do not claim to own the copyright to this music. This upload is only for promotional purposes.",
+                    "title": "Move D -  Haheessh"
+                },
+                {
+                    "_duration": "426",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=zwpixudAhNY",
+                    "description": "Pop For Dwoozle, Fax +49-69/450464, 2004",
+                    "title": "Move D - The Tree/Travelling Without Moving"
+                },
+                {
+                    "_duration": "1221",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=xJc8pc3qIaY",
+                    "description": "Taken from Pop For Dwoozle (Fax +49-69/450464 - PS 08/105).\nhttps://itunes.apple.com/de/album/pop-for-dwoozle/id161852858\nhttp://www.discogs.com/artist/Move+D",
+                    "title": "Move D - Tonspur 11"
+                }
+            ]
+        }
+    }
+}

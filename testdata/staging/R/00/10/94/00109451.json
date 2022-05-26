@@ -1,0 +1,226 @@
+{
+    "release": {
+        "_id": "109451",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "293202",
+                "join": "",
+                "name": "Xangadix",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "41716",
+                "join": "",
+                "name": "Pino \u0026 Wildjamin",
+                "role": "Written-By",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Limited Edition",
+                        "Album"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "CD PLANT AB  PS 08/73  CDM01"
+                },
+                {
+                    "_type": "Mould SID Code",
+                    "_value": "ifpi 8401"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "586"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "589"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "589"
+                },
+                {
+                    "_height": "479",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "582"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PS 08/73",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Xangadix\nFrankfurt 1995\n\nLimitation: 1000",
+        "released": "1995-07-10",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Trance",
+                "Acid"
+            ]
+        },
+        "title": "Xangadix 2",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "10:45",
+                    "position": "1",
+                    "title": "Space Solex"
+                },
+                {
+                    "duration": "7:43",
+                    "position": "2",
+                    "title": "Electric Eyes"
+                },
+                {
+                    "duration": "6:42",
+                    "position": "3",
+                    "title": "Rubicon"
+                },
+                {
+                    "duration": "7:52",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "773971",
+                            "join": "",
+                            "name": "Christoph Groneberg",
+                            "role": "Written-By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "4",
+                    "title": "Biopace"
+                },
+                {
+                    "duration": "9:10",
+                    "position": "5",
+                    "title": "Marmus"
+                },
+                {
+                    "duration": "7:36",
+                    "position": "6",
+                    "title": "Surrounded By Mystery"
+                },
+                {
+                    "duration": "8:32",
+                    "position": "7",
+                    "title": "Harmonic Brack"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "645",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Jxz_GCAP8CU",
+                    "description": "Track 1 - Space Solex\nArtists : Pino \u0026 Wildjamin\nAlbum : Xangadix 2\n1995 FAX +49-69/450464",
+                    "title": "Pino \u0026 Wildjamin - Space Solex (Xangadix 2)"
+                },
+                {
+                    "_duration": "463",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=T42i_-oLt74",
+                    "description": "Track 2 - Electric Eyes\nArtists : Pino \u0026 Wildjamin\nAlbum : Xangadix 2\n1995 FAX +49-69/450464",
+                    "title": "Pino \u0026 Wildjamin - Electric Eyes (Xangadix 2)"
+                },
+                {
+                    "_duration": "402",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=2Z7K-SQDLMQ",
+                    "description": "Track 3 - Rubicon\nArtists : Pino \u0026 Wildjamin\nAlbum : Xangadix 2\n1995 FAX +49-69/450464",
+                    "title": "Pino \u0026 Wildjamin - Rubicon (Xangadix 2)"
+                },
+                {
+                    "_duration": "473",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=C3Nr-gQArlo",
+                    "description": "Track 4 - Biopace\nArtists : Pino \u0026 Wildjamin (co-written with Christoph Groneberg)\nAlbum : Xangadix 2\n1995 FAX +49-69/450464",
+                    "title": "Pino \u0026 Wildjamin - Biopace (Xangadix 2)"
+                },
+                {
+                    "_duration": "551",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=TIL14lkWM1Y",
+                    "description": "Track 5 - Marmus\nArtists : Pino \u0026 Wildjamin\nAlbum : Xangadix 2\n1995 FAX +49-69/450464",
+                    "title": "Pino \u0026 Wildjamin - Marmus (Xangadix 2)"
+                },
+                {
+                    "_duration": "457",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=VEwLcFxCfRg",
+                    "description": "Track 6 - Surrounded By Mystery\nArtists : Pino \u0026 Wildjamin\nAlbum : Xangadix 2\n1995 FAX +49-69/450464",
+                    "title": "Pino \u0026 Wildjamin - Surrounded By Mystery (Xangadix 2)"
+                },
+                {
+                    "_duration": "514",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=ne-3csemb4Y",
+                    "description": "Track 7 - Harmonic Brack\nArtists : Pino \u0026 Wildjamin\nAlbum : Xangadix 2\n1995 FAX +49-69/450464",
+                    "title": "Pino \u0026 Wildjamin - Harmonic Brack (Xangadix 2)"
+                }
+            ]
+        }
+    }
+}

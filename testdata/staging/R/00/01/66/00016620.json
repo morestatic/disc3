@@ -1,0 +1,218 @@
+{
+    "release": {
+        "_id": "16620",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "Namlook",
+                "id": "1910",
+                "join": "",
+                "name": "Pete Namlook",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": {
+                "catno": "",
+                "entity_type": "23",
+                "entity_type_name": "Recorded At",
+                "id": "294386",
+                "name": "Klanglabor Frankfurt",
+                "resource_url": "https://api.discogs.com/labels/294386"
+            }
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Composed By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "58657",
+                    "join": "",
+                    "name": "Peter Kuhlmann",
+                    "role": "Producer",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_type": "Label Code",
+                "_value": "LC 6269"
+            }
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "595",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "471",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "500",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                },
+                {
+                    "_height": "596",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "596",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "595",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/107",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "125208"
+        },
+        "notes": "Limited to 2000 copies. Sticker on front cover saying \"200th product\".",
+        "released": "1996-01-01",
+        "styles": {
+            "style": [
+                "Experimental",
+                "Future Jazz",
+                "Minimal",
+                "Techno"
+            ]
+        },
+        "title": "Atom",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "7:55",
+                    "position": "1",
+                    "title": "Environmental Atoms"
+                },
+                {
+                    "duration": "14:59",
+                    "position": "2",
+                    "title": "Noise Atoms"
+                },
+                {
+                    "duration": "15:35",
+                    "position": "3",
+                    "title": "Machine Atoms"
+                },
+                {
+                    "duration": "4:45",
+                    "position": "4",
+                    "title": "Subharmonic Atoms"
+                },
+                {
+                    "duration": "13:57",
+                    "position": "5",
+                    "title": "Sadness Atoms"
+                },
+                {
+                    "duration": "9:30",
+                    "position": "6",
+                    "title": "Audio Atoms"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "287",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=eB9kXLzVWh4",
+                    "description": "Namlook - Atom\nLabel: Fax +49-69/450464 - PK 08/107\nFormat: CD, Album, Limited Edition\nCountry: Germany\nReleased: 01 Jan 1996\nGenre: Electronic\nStyle: Experimental, Future Jazz, Minimal \n\nhttp://www.discogs.com/Namlook-Atom/release/16620\n\nFor Promotion On",
+                    "title": "Namlook - Subharmonic Atoms"
+                },
+                {
+                    "_duration": "4005",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=1ISsGDvn9AQ",
+                    "description": "Artist: Pete Namlook\nAlbum: Atom\nLabel: Fax +49-69/450464\nYear: 1996\n\nTracklist:\n1. Environmental Atoms [0:00]\n2. Noise Atoms [7:55]\n3. Machine Atoms [22:55]\n4. Subharmonic Atoms [38:30]\n5. Sadness Atoms [43:16]\n6. Audio Atoms [57:13] **\n\n** THIS TRACK NE",
+                    "title": "Pete Namlook - Atom (Full Album) [1996]"
+                },
+                {
+                    "_duration": "940",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=vK7-cYNUXss",
+                    "description": "—\n\n\n\nhttps://www.discogs.com/Namlook-Atom/release/16620",
+                    "title": "Namlook - Machine Atoms [PK 08/107]"
+                },
+                {
+                    "_duration": "211",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=dzAp3SznRII",
+                    "description": "http://www.discogs.com/Namlook-Atom/release/16620\n\r\n\r-uploaded in HD at http://www.TunesToTube.com",
+                    "title": "Pete Namlook - Noise Atoms (Trance 1996)"
+                },
+                {
+                    "_duration": "840",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=zQdNzxuxrw8",
+                    "description": "http://j.mp/miscmusic",
+                    "title": "Pete Namlook - Sadness Atoms"
+                },
+                {
+                    "_duration": "636",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=85hgPz8N4no",
+                    "description": "Various ‎– The Ambient Cookbook II\nLabel:Fax +49-69/450464 ‎– PKPWPS 6\nFormat:4 × CD, Compilation, Limited Edition, Mixed\nCountry:Germany\nReleased:11 Nov 2002\nGenre:Electronic\nStyle:Abstract, Downtempo, Ambient \nhttp://www.discogs.com/Various-The",
+                    "title": "Pete Namlook - Vocal Atoms"
+                }
+            ]
+        }
+    }
+}

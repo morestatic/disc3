@@ -1,0 +1,186 @@
+{
+    "release": {
+        "_id": "12300",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "1948773",
+                "join": "",
+                "name": "Organic Cloud",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "25",
+                "join": "",
+                "name": "Tetsu Inoue",
+                "role": "Written-By",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_type": "Label Code",
+                "_value": "LC 6269"
+            }
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "592",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "588",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "598",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "597",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "465",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "581",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PS 08/57",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "45057"
+        },
+        "notes": "Limitation: 1000\r\nMade in Germany",
+        "released": "1995-01-30",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Downtempo",
+                "Dub"
+            ]
+        },
+        "title": "Organic Cloud",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "16:27",
+                    "position": "1",
+                    "title": "The Night In Goa"
+                },
+                {
+                    "duration": "12:54",
+                    "position": "2",
+                    "title": "Journey To Ixtlan"
+                },
+                {
+                    "duration": "12:56",
+                    "position": "3",
+                    "title": "Chill In Chill Out"
+                },
+                {
+                    "duration": "16:47",
+                    "position": "4",
+                    "title": "Ring Of Power"
+                },
+                {
+                    "duration": "12:56",
+                    "position": "5",
+                    "title": "Bionic Commune"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "987",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=SjZiucN9YtM",
+                    "description": "Artist: Tetsu Inoue\nTitle: The Night in Goa\n\ntaken from the album Organic Cloud (1995)\nhttp://www.discogs.com/Tetsu-Inoue-Organic-Cloud/release/12300",
+                    "title": "Tetsu Inoue ~ The Night in Goa"
+                },
+                {
+                    "_duration": "786",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=s8zNvfUXr8M",
+                    "description": "Tetsu Inoue ‎– Organic Cloud\nLabel: Fax +49-69/450464 ‎– PS 08/57\nFormat: CD, Album, Limited Edition \nCountry: Germany\nReleased: 30 Jan 1995\nGenre: Electronic\nStyle: Ambient, Downtempo, Dub\nhttp://www.discogs.com/Tetsu-Inoue-Organic-Cloud/release/",
+                    "title": "Tetsu Inoue ‎– Journey to Ixtlan"
+                },
+                {
+                    "_duration": "778",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=ocgE_ONYx3c",
+                    "description": "Organic Cloud\nFax Compilation Vol 2",
+                    "title": "Chill In Chill Out - Tetsu Inoue  (HQ)"
+                },
+                {
+                    "_duration": "1008",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=SwnUw8XlIoo",
+                    "description": "http://www.discogs.com/artist/Tetsu+Inoue\nart by Christofer Hartley Gil",
+                    "title": "Tetsu Inoue - Ring Of Power (Organic Cloud)"
+                },
+                {
+                    "_duration": "776",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=E96ptqk2ukw",
+                    "description": "From the album Organic Cloud.\nAll credits to Tetsu Inoue.\n\nRendered in 320 kbps audio.",
+                    "title": "Tetsu Inoue - Bionic Commune (Full \u0026 HQ)"
+                }
+            ]
+        }
+    }
+}

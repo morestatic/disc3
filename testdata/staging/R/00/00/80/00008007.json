@@ -1,0 +1,439 @@
+{
+    "release": {
+        "_id": "8007",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "La-Di-Da",
+                "id": "62429",
+                "join": "",
+                "name": "DJ Ladida",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "1039",
+                    "name": "Nextera",
+                    "resource_url": "https://api.discogs.com/labels/1039"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "1039",
+                    "name": "Nextera",
+                    "resource_url": "https://api.discogs.com/labels/1039"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "9",
+                    "entity_type_name": "Distributed By",
+                    "id": "276829",
+                    "name": "Popron Distribuce s.r.o.",
+                    "resource_url": "https://api.discogs.com/labels/276829"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "29",
+                    "entity_type_name": "Mastered At",
+                    "id": "280219",
+                    "name": "RA Studio",
+                    "resource_url": "https://api.discogs.com/labels/280219"
+                }
+            ]
+        },
+        "country": "Czech Republic",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "La-Di-Da",
+                    "id": "62429",
+                    "join": "",
+                    "name": "DJ Ladida",
+                    "role": "DJ Mix",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "2891290",
+                    "join": "",
+                    "name": "Entity (22)",
+                    "role": "Design",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "2461568",
+                    "join": "",
+                    "name": "Don Gawthorne",
+                    "role": "Executive-Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "2038932",
+                    "join": "",
+                    "name": "Kristian Kotarac",
+                    "role": "Executive-Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "406653",
+                    "join": "",
+                    "name": "Karel Kourek",
+                    "role": "Mastered By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "Mixed"
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Text",
+                    "_type": "Barcode",
+                    "_value": "8 590442 535472"
+                },
+                {
+                    "_description": "Supply Number",
+                    "_type": "Other",
+                    "_value": "253547"
+                },
+                {
+                    "_type": "Rights Society",
+                    "_value": "OSA / BIEM"
+                }
+            ]
+        },
+        "images": {
+            "image": {
+                "_height": "200",
+                "_type": "secondary",
+                "_uri": "",
+                "_uri150": "",
+                "_width": "200"
+            }
+        },
+        "labels": {
+            "label": [
+                {
+                    "_catno": "ERA 9805-2",
+                    "_id": "1039",
+                    "_name": "Nextera"
+                },
+                {
+                    "_catno": "ERA 9805/2",
+                    "_id": "1039",
+                    "_name": "Nextera"
+                }
+            ]
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "1230885"
+        },
+        "notes": "Next Era The Art Of Fusion\r\nERA 9805-2 on Disc and spine\r\nERA 9805/2 in booklet",
+        "released": "1998",
+        "styles": {
+            "style": [
+                "Techno",
+                "Tech House"
+            ]
+        },
+        "title": "Techno Energy 5",
+        "tracklist": {
+            "track": [
+                {
+                    "artists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "1505",
+                                "join": "Feat.",
+                                "name": "Trevor Rockcliffe",
+                                "role": "",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "1100",
+                                "join": "",
+                                "name": "Blake Baxter",
+                                "role": "",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "duration": "5:34",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1100",
+                            "join": "",
+                            "name": "Blake Baxter",
+                            "role": "Featuring",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "1",
+                    "title": "Visions Of You (Oral Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "5659",
+                            "join": "",
+                            "name": "Counter Plan",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "3:51",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "447",
+                            "join": "",
+                            "name": "DJ Q",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "2",
+                    "title": "90° (DJ Q Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "8775",
+                            "join": "",
+                            "name": "Samuel Onervas",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:29",
+                    "position": "3",
+                    "title": "Inter-Primate Express (Melrob Rmx)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1735",
+                            "join": "",
+                            "name": "Paul Mac",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "3:51",
+                    "position": "4",
+                    "title": "Reminiscent"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "3878",
+                            "join": "",
+                            "name": "Doc Martin",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:00",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "Blakdoctor",
+                            "id": "4356",
+                            "join": "",
+                            "name": "BlakDoktor",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "5",
+                    "title": "Never (Blakdoctor Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "3649",
+                                "join": "\u0026",
+                                "name": "Mijk Van Dijk",
+                                "role": "",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "1538",
+                                "join": "",
+                                "name": "Thomas Schumacher",
+                                "role": "",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "duration": "4:07",
+                    "position": "6",
+                    "title": "Delivery"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "3656",
+                            "join": "",
+                            "name": "Throb",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "3:59",
+                    "position": "7",
+                    "title": "Filtermulle"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "17275",
+                            "join": "",
+                            "name": "Andreas Leifeld",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:05",
+                    "position": "8",
+                    "title": "Move"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "20",
+                            "join": "",
+                            "name": "Percy X",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "3:01",
+                    "position": "9",
+                    "title": "Track 2"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "3646",
+                            "join": "",
+                            "name": "Acorn Arts",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:14",
+                    "position": "10",
+                    "title": "Skydancer"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "2470",
+                            "join": "",
+                            "name": "Puente Latino",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "3:31",
+                    "position": "11",
+                    "title": "Place Of Birth"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "3432",
+                            "join": "",
+                            "name": "L.S.G.",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:06",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "800",
+                            "join": "",
+                            "name": "Terry Lee Brown Jr.",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "12",
+                    "title": "Terry' Patchwork Of V. 2 (Terry Lee Brown Jr. Rmx)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "8780",
+                            "join": "",
+                            "name": "DM-1",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:26",
+                    "position": "13",
+                    "title": "Steel Groove"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "La-Di-Da",
+                            "id": "62429",
+                            "join": "",
+                            "name": "DJ Ladida",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:09",
+                    "position": "14",
+                    "title": "Long Island"
+                }
+            ]
+        }
+    }
+}

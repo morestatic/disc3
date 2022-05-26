@@ -1,0 +1,199 @@
+{
+    "release": {
+        "_id": "49371",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "293196",
+                "join": "",
+                "name": "Polytime",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "265012",
+                    "name": "Klanglabor Hödeshof",
+                    "resource_url": "https://api.discogs.com/labels/265012"
+                },
+                {
+                    "catno": "38226",
+                    "entity_type": "10",
+                    "entity_type_name": "Manufactured By",
+                    "id": "277449",
+                    "name": "P+O Pallas",
+                    "resource_url": "https://api.discogs.com/labels/277449"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "2118078",
+                    "join": "",
+                    "name": "PEK (3)",
+                    "role": "Graphics",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "58657",
+                    "join": "",
+                    "name": "Peter Kuhlmann",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "73564",
+                    "join": "",
+                    "name": "Karl Berger",
+                    "role": "Written-By",
+                    "tracks": "1 to 3, 5"
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "PK 08/140 P+O-38226-A1 05-98"
+                },
+                {
+                    "_type": "Mastering SID Code",
+                    "_value": "IFPI L961"
+                },
+                {
+                    "_type": "Mould SID Code",
+                    "_value": "IFPI 3J02"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "593",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "597",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "298",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/140",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Recorded at Klanglabor, Traben-Trarbach.\r\nLimitation: 1000",
+        "released": "1998-06-01",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Dub",
+                "Future Jazz"
+            ]
+        },
+        "title": "Polytime",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "7:29",
+                    "position": "1",
+                    "title": "Worldwide Roaming"
+                },
+                {
+                    "duration": "11:00",
+                    "position": "2",
+                    "title": "Insight"
+                },
+                {
+                    "duration": "15:57",
+                    "position": "3",
+                    "title": "Polytime"
+                },
+                {
+                    "duration": "5:43",
+                    "position": "4",
+                    "title": "Tina"
+                },
+                {
+                    "duration": "11:21",
+                    "position": "5",
+                    "title": "True Blue"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "686",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=fD2LOVJykfY",
+                    "description": "Music by: Pete Namlook \u0026 Karl Berger, 1998\nVideo by: Abstructure",
+                    "title": "Polytime - True Blue"
+                },
+                {
+                    "_duration": "3093",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=6KamF2ekWSM",
+                    "description": "Artist: Pete Namlook \u0026 Karl Berger\nAlbum: Polytime\nLabel: Fax +49-69/450464\nYear: 1998\n\nTracklist:\n1. Worldwide Roaming [0:00] \n2. Insight [7:29] \n3. Polytime [18:29]\n4. Tina [34:27] \n5. True Blue [40:10]\n\nAll music uploaded to this channel is available f",
+                    "title": "Pete Namlook \u0026 Karl Berger - Polytime (Full Album) [1998]"
+                }
+            ]
+        }
+    }
+}

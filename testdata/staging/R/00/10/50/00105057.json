@@ -1,0 +1,200 @@
+{
+    "release": {
+        "_id": "105057",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "5511",
+                "join": "",
+                "name": "Slacker",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "29",
+                    "entity_type_name": "Mastered At",
+                    "id": "158759",
+                    "name": "The Exchange",
+                    "resource_url": "https://api.discogs.com/labels/158759"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "17",
+                    "entity_type_name": "Pressed By",
+                    "id": "266587",
+                    "name": "Orlake Records",
+                    "resource_url": "https://api.discogs.com/labels/266587"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "48207",
+                    "name": "Copyright Control",
+                    "resource_url": "https://api.discogs.com/labels/48207"
+                }
+            ]
+        },
+        "country": "UK",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "Mark",
+                    "id": "791639",
+                    "join": "",
+                    "name": "Mark Embleton",
+                    "role": "Mastered By [DMM]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "5511",
+                    "join": "",
+                    "name": "Slacker",
+                    "role": "Written-By, Producer",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Text",
+                    "_type": "Barcode",
+                    "_value": "5 025425 112560"
+                },
+                {
+                    "_description": "Scanned",
+                    "_type": "Barcode",
+                    "_value": "5025425112560"
+                },
+                {
+                    "_description": "Etchings Side A",
+                    "_type": "Matrix / Runout",
+                    "_value": "LOAD+25+A EXCHANGE DM ORLAKE MARK"
+                },
+                {
+                    "_description": "Etchings Side AA",
+                    "_type": "Matrix / Runout",
+                    "_value": "LOAD+25+AA ORLAKE"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "LOAD 25",
+                "_id": "40",
+                "_name": "Loaded Records"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "260381"
+        },
+        "notes": "Labels: Direct metal mastered at 33 RPM.",
+        "released": "1995",
+        "styles": {
+            "style": [
+                "Progressive House",
+                "House"
+            ]
+        },
+        "title": "Feel Space / Jukebox In The Sky",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A1",
+                    "title": "Feel Space"
+                },
+                {
+                    "duration": "",
+                    "position": "A2",
+                    "title": "Feel Space (Synthy)"
+                },
+                {
+                    "duration": "",
+                    "position": "AA1",
+                    "title": "Jukebox In The Sky"
+                },
+                {
+                    "duration": "",
+                    "position": "AA2",
+                    "title": "Feel Space (Billed)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "489",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=o3TdhfS58lQ",
+                    "description": "https://www.discogs.com/Slacker-Feel-Space-Jukebox-In-The-Sky/release/105057",
+                    "title": "Slacker - Feel Space [1995]"
+                },
+                {
+                    "_duration": "406",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=1Lfedqc4eO8",
+                    "description": "https://www.discogs.com/Slacker-Feel-Space-Jukebox-In-The-Sky/release/105057",
+                    "title": "Slacker - Jukebox In The Sky [1995]"
+                },
+                {
+                    "_duration": "404",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=i66jcQCUHpw",
+                    "description": "https://www.discogs.com/Slacker-Feel-Space-Jukebox-In-The-Sky/release/105057",
+                    "title": "Slacker - Feel Space (Billed) [1995]"
+                }
+            ]
+        }
+    }
+}

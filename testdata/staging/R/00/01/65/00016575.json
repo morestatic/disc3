@@ -1,0 +1,271 @@
+{
+    "release": {
+        "_id": "16575",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "2908",
+                "join": "",
+                "name": "Sequential",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": {
+                "catno": "16791",
+                "entity_type": "31",
+                "entity_type_name": "Glass Mastered At",
+                "id": "277449",
+                "name": "P+O Pallas",
+                "resource_url": "https://api.discogs.com/labels/277449"
+            }
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "7649",
+                    "join": "",
+                    "name": "DJ Criss",
+                    "role": "Written-By",
+                    "tracks": "1 to 3, 7, 8.3, 9"
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "25",
+                    "join": "",
+                    "name": "Tetsu Inoue",
+                    "role": "Written-By",
+                    "tracks": "5"
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "PK 08/73 P+O-16791-A1 06-93"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC6269"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "465",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/73",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "39936"
+        },
+        "notes": "= SEQUENTIAL =\r\nDer absolute Geist ist Urprinzip des Seins\r\n\r\nDas Sein entbirgt sich in Bewußtsein und Materie.\r\nIn der Musik vereinen sich ideen und Klänge zum Abbild des absoluten Geistes.\r\nSequential ist ein Teil davon...\r\n\r\nSEQUENTIAL\r\nFRANKFURT 1993\r\n\r\nSpezieller dank von DJ Criss an:\r\n\r\nF.J. und Monika\r\nMarkus\r\nNadine\r\nChristian Schreckenberger\r\n\r\nSpezieller dank von P.Namlook an:\r\n\r\nElisabeth\r\nFabia\r\nLudwig Rehberg von EMS Rehberg\r\nOscar Sala\r\nSony Deutschland GMBH\r\n\r\nLimitation: 500\r\n\r\nTrack 1 was previously released as \"Sequential (Dune Mix)\" on the [url=/release/193208]original 1992 single[/url] on FAX and on the [url=/release/142790]1992 licensed single[/url] on Rising High. The track was later released on a FAX [url=/master/281595]digital file compilation[/url] with the title \"The Prophet (Remix)\".",
+        "released": "1993-06-14",
+        "styles": {
+            "style": [
+                "Trance",
+                "Ambient"
+            ]
+        },
+        "title": "Sequential",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "6:51",
+                    "position": "1",
+                    "title": "Sequential"
+                },
+                {
+                    "duration": "6:59",
+                    "position": "2",
+                    "title": "20.000 Leagues Under The Sea"
+                },
+                {
+                    "duration": "9:24",
+                    "position": "3",
+                    "title": "A Trip To Paradise"
+                },
+                {
+                    "duration": "5:23",
+                    "position": "4",
+                    "title": "Sonne"
+                },
+                {
+                    "duration": "11:29",
+                    "position": "5",
+                    "title": "Saturn Cruises"
+                },
+                {
+                    "duration": "5:36",
+                    "position": "6",
+                    "title": "Duane Sky"
+                },
+                {
+                    "duration": "8:28",
+                    "position": "7",
+                    "title": "X-Ray Delta One"
+                },
+                {
+                    "duration": "15:57",
+                    "position": "",
+                    "sub_tracks": {
+                        "track": [
+                            {
+                                "duration": "",
+                                "position": "8.1",
+                                "title": "Sequenchill"
+                            },
+                            {
+                                "duration": "",
+                                "position": "8.2",
+                                "title": "Mission Control #2"
+                            },
+                            {
+                                "duration": "",
+                                "position": "8.3",
+                                "title": "Lost In The Sea"
+                            }
+                        ]
+                    },
+                    "title": "Ambient Block"
+                },
+                {
+                    "duration": "6:48",
+                    "position": "9",
+                    "title": "Everything Is Under Control"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "4616",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=UUpKH987Yik",
+                    "description": "Artist: Pete Namlook \u0026 DJ Criss\nAlbum: Sequential\nLabel: Fax +49-69/450464\nYear: 1993\n\nTracklist:\n1. Sequential [0:00]\n2. 20,000 Leagues Under The Sea [6:50]\n3. A Trip To Paradise [13:49]\n4. Sonne [23:13]\n5. Saturn Cruises [28:36]\n6. Duane Sky [40:05]\n7.",
+                    "title": "Pete Namlook \u0026 DJ Criss - Sequential (Full Album) [1993]"
+                },
+                {
+                    "_duration": "413",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=tR-NUqTmm3I",
+                    "description": "Beautiful track by Sequential (Pete Namlook \u0026 DJ Criss) released on their Sequential 2 EP on Fax +49-69/450464 in 1992!\n\nhttps://www.discogs.com/Sequential-Sequential-4/release/197134\nhttps://www.discogs.com/artist/2908-Sequential\nhttps://www.discogs.co",
+                    "title": "Sequential - Sequential (Dune Mix)"
+                },
+                {
+                    "_duration": "416",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=DcYzpm_VgMk",
+                    "description": "Label:\nRising High Records ‎-- RSN 65\nFormat:\nVinyl, 12, 33 ⅓ RPM \nCountry:\nUK\nReleased:\n1993\nGenre:\nElectronic\nStyle:\nTrance, Techno, Ambient",
+                    "title": "Sequential - 20,000 Leagues (Classic 1993) (HD+) BURNER !!! Premiere !!!"
+                },
+                {
+                    "_duration": "579",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=jmEvaQF4WzM",
+                    "description": "1992 Fax Records",
+                    "title": "Sequential - Trip to Paradise"
+                },
+                {
+                    "_duration": "875",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=-vMrd8h-nbg",
+                    "description": "- Dedicated to mind orgasm lovers - \n\nSequential - Sequential 3\nB - Saturn Cruises\nFax +49-69/450464 (PK 08/042) - Feb 1993\n\nhttp://www.discogs.com/release/130628\n\n...",
+                    "title": "Sequential - Saturn Cruises"
+                },
+                {
+                    "_duration": "512",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=3U6DA2p_QAU",
+                    "description": "",
+                    "title": "SEQUENTIAL - X - Ray Delta One (1993)"
+                },
+                {
+                    "_duration": "410",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=jNO6V4gXuXM",
+                    "description": "Pete Namlook \u0026 DJ Criss on Fax Records (1992). This is track A1 from the Sequential 2 12. The label reads wrong though. The track came out later on Rising High with the title that stuck (Everything is Under Control)",
+                    "title": "Sequential - Everything Is Under Control"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "release": {
+        "_id": "129996",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "14128",
+                "join": "",
+                "name": "4Voice",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "Germany",
+        "data_quality": "Complete and Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "141026",
+                    "join": "",
+                    "name": "Maik Maurice",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "604",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "597",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/22",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "1681817"
+        },
+        "notes": "Limitation: 500\n\"Hypnotizing Music For Your Mind\" \nIs Etched On Runout Groove On Side B",
+        "released": "1992-11-16",
+        "styles": {
+            "style": "Trance"
+        },
+        "title": "4Voice",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "6:50",
+                    "position": "A",
+                    "title": "Music Hypnotizes"
+                },
+                {
+                    "duration": "5:22",
+                    "position": "B",
+                    "title": "Music Hypnotizes (Hypnotizing Mix)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "335",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=FSD4tqBaqSk",
+                    "description": "",
+                    "title": "4Voice - Music Hypnotizes (Hypnotizing Mix) (1992)"
+                },
+                {
+                    "_duration": "423",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Ld3EDdeD62I",
+                    "description": "1993\nhttps://www.facebook.com/pages/After-Hours-Rave-Party-90s/493182057404011?fref=ts",
+                    "title": "4 Voice - Music Hypnotizes"
+                }
+            ]
+        }
+    }
+}

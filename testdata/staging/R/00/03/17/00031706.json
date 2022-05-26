@@ -1,0 +1,218 @@
+{
+    "release": {
+        "_id": "31706",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "25453",
+                "join": "",
+                "name": "Psychonavigation",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "294386",
+                    "name": "Klanglabor Frankfurt",
+                    "resource_url": "https://api.discogs.com/labels/294386"
+                },
+                {
+                    "catno": "32205",
+                    "entity_type": "17",
+                    "entity_type_name": "Pressed By",
+                    "id": "277449",
+                    "name": "P+O Pallas",
+                    "resource_url": "https://api.discogs.com/labels/277449"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "2118078",
+                    "join": "",
+                    "name": "PEK (3)",
+                    "role": "Graphics",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "58657",
+                    "join": "",
+                    "name": "Peter Kuhlmann",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "661",
+                    "join": "",
+                    "name": "Bill Laswell",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "PW 33 P+O-32205-A1 02-97"
+                },
+                {
+                    "_type": "Mastering SID Code",
+                    "_value": "IFPI L961"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "598",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "470",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "610",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "596",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "597",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "591",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PW 33",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "16640"
+        },
+        "notes": "Limited to 2000 copies.\n\nPsychonavigation\nFrankfurt 1997\n\nSpecial thanks from Bill Laswell to: Janet / John Brown - Material Inc. / Bill Murphy - Axiom\nSpecial thanks from P.N. to: Elisabeth / Fabia / K. / EMC - Christian Thier\n\nTrack 7 duration on tray card is 1:00.\nTrack 7 lasts for 7:04 and contains a hidden track (track 7.3). Track 7.1 lasts for 0:09 before a period of silence.",
+        "released": "1997-02-17",
+        "styles": {
+            "style": "Ambient"
+        },
+        "title": "Psychonavigation 3",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "15:31",
+                    "position": "1",
+                    "title": "Telepathy I"
+                },
+                {
+                    "duration": "4:02",
+                    "position": "2",
+                    "title": "Trautoniolo"
+                },
+                {
+                    "duration": "16:24",
+                    "position": "3",
+                    "title": "Mind Tranceference Control"
+                },
+                {
+                    "duration": "12:56",
+                    "position": "4",
+                    "title": "Mind Over Energy"
+                },
+                {
+                    "duration": "2:56",
+                    "position": "5",
+                    "title": "Vocal PSI"
+                },
+                {
+                    "duration": "4:52",
+                    "position": "6",
+                    "title": "Telepathy II"
+                },
+                {
+                    "duration": "0:09",
+                    "position": "7.1",
+                    "title": "Lights Out"
+                },
+                {
+                    "duration": "3:02",
+                    "position": "7.2",
+                    "title": "(silence)"
+                },
+                {
+                    "duration": "3:53",
+                    "position": "7.3",
+                    "title": "Untitled"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,164 @@
+{
+    "release": {
+        "_id": "45948",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "3886866",
+                "join": "",
+                "name": "Music To Films",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": {
+                "catno": "",
+                "entity_type": "31",
+                "entity_type_name": "Glass Mastered At",
+                "id": "291931",
+                "name": "CD Plant MFG",
+                "resource_url": "https://api.discogs.com/labels/291931"
+            }
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "8521",
+                    "join": "",
+                    "name": "Dr. Atmo",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "4235",
+                    "join": "",
+                    "name": "Oliver Lieb",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": [
+                "Electronic",
+                "Stage \u0026 Screen"
+            ]
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "CD PLANT MFG PS 08/40 CDM01"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "594",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "465",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "603",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PS 08/40",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "This music was inspired by the film [m=33014] and is intended as an alternative soundtrack. Music starts when film title has disappeared.\n\nMUSIC TO FILMS\nFRANKFURT 1994\n\nSpecial thanks to:\n\nPascal F.E.O.S.\nMirella (my venus)\n\nLimitation: 1,000\nMade in Germany",
+        "released": "1994-04-04",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Trance",
+                "Soundtrack"
+            ]
+        },
+        "title": "Music To Films",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "",
+                    "title": "Music To Films 1"
+                },
+                {
+                    "duration": "16:46",
+                    "position": "1",
+                    "title": "Movement I"
+                },
+                {
+                    "duration": "11:58",
+                    "position": "2",
+                    "title": "Movement II"
+                },
+                {
+                    "duration": "9:47",
+                    "position": "3",
+                    "title": "Movement III"
+                },
+                {
+                    "duration": "23:51",
+                    "position": "4",
+                    "title": "Movement IV"
+                },
+                {
+                    "duration": "14:48",
+                    "position": "5",
+                    "title": "Movement V"
+                }
+            ]
+        },
+        "videos": {
+            "video": {
+                "_duration": "4635",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=sC2ifC1Mljk",
+                "description": "Ripped straight from my original press fax records CD.",
+                "title": "Dr. Atmo \u0026 Oliver Lieb - Music to Films"
+            }
+        }
+    }
+}

@@ -1,0 +1,191 @@
+{
+    "release": {
+        "_id": "66571",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "293206",
+                "join": "",
+                "name": "Move D / Namlook",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "265055",
+                    "name": "reSource Heidelberg",
+                    "resource_url": "https://api.discogs.com/labels/265055"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "36",
+                    "entity_type_name": "Edited At",
+                    "id": "265055",
+                    "name": "reSource Heidelberg",
+                    "resource_url": "https://api.discogs.com/labels/265055"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "D.Moufang",
+                    "id": "152",
+                    "join": "",
+                    "name": "David Moufang",
+                    "role": "Edited By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "152",
+                    "join": "",
+                    "name": "David Moufang",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "58657",
+                    "join": "",
+                    "name": "Peter Kuhlmann",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "152",
+                    "join": "",
+                    "name": "David Moufang",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_type": "Label Code",
+                "_value": "LC 6269"
+            }
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "593",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "593",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/164",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Recorded live at reSource Heidelberg / Edited at reSource, Heidelberg.\r\nLimitation: 2,000",
+        "released": "2002-07-22",
+        "styles": {
+            "style": [
+                "Techno",
+                "Future Jazz",
+                "Ambient"
+            ]
+        },
+        "title": "Move D / Namlook VII - Home Shopping",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "12:34",
+                    "position": "1",
+                    "title": "Bad Hair Day"
+                },
+                {
+                    "duration": "12:49",
+                    "position": "2",
+                    "title": "Nanotube"
+                },
+                {
+                    "duration": "8:08",
+                    "position": "3",
+                    "title": "Flexdollars"
+                },
+                {
+                    "duration": "9:40",
+                    "position": "4",
+                    "title": "Arm Candy"
+                },
+                {
+                    "duration": "14:51",
+                    "position": "5",
+                    "title": "Mouse Potatoes"
+                },
+                {
+                    "duration": "9:32",
+                    "position": "6",
+                    "title": "Detox"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "581",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=I7ODaaAEBiw",
+                    "description": "-uploaded in HD at http://www.TunesToTube.com",
+                    "title": "Pete Namlook \u0026 David Moufang - Arm Candy"
+                },
+                {
+                    "_duration": "572",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=xcpypWrc3Nc",
+                    "description": "Pete Namlook \u0026 David Moufang / Home Shopping / Move D - Namlook VII",
+                    "title": "Pete Namlook \u0026 David Moufang - Detox"
+                }
+            ]
+        }
+    }
+}

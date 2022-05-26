@@ -1,0 +1,304 @@
+{
+    "release": {
+        "_id": "51192",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "3920",
+                "join": "",
+                "name": "Slide Five",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "US",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "40",
+                    "join": "",
+                    "name": "Dave Warrin",
+                    "role": "Co-producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "687179",
+                    "join": "",
+                    "name": "John Warrin",
+                    "role": "Co-producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "687179",
+                    "join": "",
+                    "name": "John Warrin",
+                    "role": "Guitar, Effects [Sound Effects]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "40",
+                    "join": "",
+                    "name": "Dave Warrin",
+                    "role": "Keyboards, Bass [Juno Bass]",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "Album"
+                }
+            }
+        },
+        "genres": {
+            "genre": [
+                "Electronic",
+                "Jazz"
+            ]
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Text",
+                    "_type": "Barcode",
+                    "_value": "7 8066-11022-2 9"
+                },
+                {
+                    "_description": "Scanned",
+                    "_type": "Barcode",
+                    "_value": "780661102229"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "URCD-022"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "599",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "469",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "598",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "URCD022",
+                "_id": "36766",
+                "_name": "Ubiquity"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "357482"
+        },
+        "released": "1997",
+        "styles": {
+            "style": [
+                "Downtempo",
+                "Acid Jazz",
+                "Drum n Bass"
+            ]
+        },
+        "title": "People, Places \u0026 Things",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "5:57",
+                    "position": "1",
+                    "title": "Polestar"
+                },
+                {
+                    "duration": "4:30",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "784558",
+                            "join": "",
+                            "name": "Aiko (2)",
+                            "role": "Featuring",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "2",
+                    "title": "Streamline"
+                },
+                {
+                    "duration": "5:00",
+                    "position": "3",
+                    "title": "Hutch's 20-Minute"
+                },
+                {
+                    "duration": "6:32",
+                    "position": "4",
+                    "title": "Affinity"
+                },
+                {
+                    "duration": "5:48",
+                    "position": "5",
+                    "title": "KC Doppler"
+                },
+                {
+                    "duration": "5:07",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "8186",
+                            "join": "",
+                            "name": "DJ Smash",
+                            "role": "Featuring",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "6",
+                    "title": "Smoke Gets In My Eyes"
+                },
+                {
+                    "duration": "5:21",
+                    "position": "7",
+                    "title": "Inhaler"
+                },
+                {
+                    "duration": "5:23",
+                    "position": "8",
+                    "title": "Space In Time"
+                },
+                {
+                    "duration": "4:33",
+                    "position": "9",
+                    "title": "11 O'Clock…"
+                },
+                {
+                    "duration": "2:24",
+                    "position": "10",
+                    "title": "Travelogue"
+                },
+                {
+                    "duration": "3:49",
+                    "position": "11",
+                    "title": "What Comes Around"
+                },
+                {
+                    "duration": "7:02",
+                    "position": "12",
+                    "title": "Heavy Rotation"
+                },
+                {
+                    "duration": "1:47",
+                    "position": "13",
+                    "title": "Sisyphus"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "272",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=HZE2xpQT33I",
+                    "description": "",
+                    "title": "Slide Five - Streamline (feat. Aiko)"
+                },
+                {
+                    "_duration": "320",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=hAqsEb_V28E",
+                    "description": "",
+                    "title": "Slide Five - Inhaler 07/13"
+                },
+                {
+                    "_duration": "348",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=1JwrecPPERw",
+                    "description": "",
+                    "title": "Slide Five - KC Doppler 05/13"
+                },
+                {
+                    "_duration": "201",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=N7euDYYOLos",
+                    "description": "",
+                    "title": "Slide Five - What comes around"
+                },
+                {
+                    "_duration": "144",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=g6qEFccJU6o",
+                    "description": "",
+                    "title": "Slide Five - Travelogue 10/13"
+                },
+                {
+                    "_duration": "358",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=iTMXoe4kiZ8",
+                    "description": "",
+                    "title": "Slide Five - Polestar"
+                },
+                {
+                    "_duration": "308",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=yhVyFyM_UNE",
+                    "description": "",
+                    "title": "Slide Five - Space in time"
+                },
+                {
+                    "_duration": "393",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=QXl7puLORwc",
+                    "description": "",
+                    "title": "Slide Five - Affinity"
+                },
+                {
+                    "_duration": "300",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=j08_aBaPgJg",
+                    "description": "",
+                    "title": "Slide Five - Hutch's 20-minute 03/13"
+                },
+                {
+                    "_duration": "307",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=RQXkYF0WS08",
+                    "description": "",
+                    "title": "Slide Five - Smoke gets in my eyes"
+                },
+                {
+                    "_duration": "308",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=ccF50KZEJyU",
+                    "description": "",
+                    "title": "Slide Five - Smoke Gets In My Eyes 06/13"
+                }
+            ]
+        }
+    }
+}

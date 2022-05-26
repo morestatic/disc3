@@ -1,0 +1,159 @@
+{
+    "release": {
+        "_id": "65553",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "32373",
+                "join": "",
+                "name": "Glitch",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "Germany",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "656116",
+                    "join": "",
+                    "name": "Bump Stadelman",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "49477",
+                    "join": "",
+                    "name": "Dan Nigrin",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "EP",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "500",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                },
+                {
+                    "_height": "500",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PW 03",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "1575114"
+        },
+        "notes": "Limitation: 500\n\"PRODUCED AT dB, BAD BALTIMORE, MARYLAND, USA, EARTH\"\nIs Etched On Runout Groove On Side A\n\n\"GLITCH IS THE FIRST LICENCED ACT ON FAX... I LOVE THEIR INNOVATIVE SOUND...\"\nIs Etched On Runout Groove On Side B",
+        "released": "1993-06-28",
+        "styles": {
+            "style": [
+                "Hardcore",
+                "Acid",
+                "Techno"
+            ]
+        },
+        "title": "Inertia EP",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "4:58",
+                    "position": "A1",
+                    "title": "Torsion Control"
+                },
+                {
+                    "duration": "3:58",
+                    "position": "A2",
+                    "title": "No303oN"
+                },
+                {
+                    "duration": "5:12",
+                    "position": "B1",
+                    "title": "Throbbing Dream Of Tangerine Gristle"
+                },
+                {
+                    "duration": "5:12",
+                    "position": "B2",
+                    "title": "Mind Expander"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "302",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=y0YvY58gJ7M",
+                    "description": "http://www.discogs.com/Glitch-Inertia/release/49467\n\r\n\r-uploaded in HD at http://www.TunesToTube.com",
+                    "title": "Glitch - Torsion Control (Hard Trance 1993)"
+                },
+                {
+                    "_duration": "296",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=mkkJc1Eu-kA",
+                    "description": "Video created for the Glitch live show.\nfrom the Fax release Inertia CD, PW04",
+                    "title": "TORSION CONTROL - GLITCH - FAX RECORDS - 1993"
+                },
+                {
+                    "_duration": "238",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=R4hbjHKUuMo",
+                    "description": "Video made to accompany live performance.\nfrom Fax cd and 12 release Inertia PW 04",
+                    "title": "No303oN - Glitch - Fax Records - 1993"
+                },
+                {
+                    "_duration": "316",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=9nDTXi-xKJU",
+                    "description": "Techno 1993",
+                    "title": "Glitch  - Mind Expander"
+                },
+                {
+                    "_duration": "318",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=a43AmApcAmU",
+                    "description": "Trance 1993",
+                    "title": "Glitch  - Throbbing Dream Of Tangerine Gristle"
+                }
+            ]
+        }
+    }
+}

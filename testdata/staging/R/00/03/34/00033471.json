@@ -1,0 +1,629 @@
+{
+    "release": {
+        "_id": "33471",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "33",
+                "join": "",
+                "name": "Blue Six",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "272720",
+                    "name": "Naked Music NYC Recordings, LLC",
+                    "resource_url": "https://api.discogs.com/labels/272720"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "272720",
+                    "name": "Naked Music NYC Recordings, LLC",
+                    "resource_url": "https://api.discogs.com/labels/272720"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "9",
+                    "entity_type_name": "Distributed By",
+                    "id": "67667",
+                    "name": "Astralwerks Records",
+                    "resource_url": "https://api.discogs.com/labels/67667"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "31",
+                    "entity_type_name": "Glass Mastered At",
+                    "id": "294033",
+                    "name": "EMI MFG.",
+                    "resource_url": "https://api.discogs.com/labels/294033"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "737952",
+                    "name": "Naked Music NYC",
+                    "resource_url": "https://api.discogs.com/labels/737952"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "29",
+                    "entity_type_name": "Mastered At",
+                    "id": "437410",
+                    "name": "The Lodge, New York",
+                    "resource_url": "https://api.discogs.com/labels/437410"
+                }
+            ]
+        },
+        "country": "US",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "8217037",
+                    "join": "",
+                    "name": "Stuart Patterson (8)",
+                    "role": "Art Direction",
+                    "tracks": ""
+                },
+                {
+                    "anv": "Dave Boonshoft",
+                    "id": "209463",
+                    "join": "",
+                    "name": "David Boonshoft",
+                    "role": "Bass",
+                    "tracks": "1, 2, 6, 10, 12, 13"
+                },
+                {
+                    "anv": "",
+                    "id": "32",
+                    "join": "",
+                    "name": "Jay Denes",
+                    "role": "Concept By [Conceived By], Written-By, Producer, Mixed By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "74994",
+                    "join": "",
+                    "name": "Bruno Ybarra",
+                    "role": "Executive-Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "209463",
+                    "join": "",
+                    "name": "David Boonshoft",
+                    "role": "Executive-Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "352023",
+                    "join": "",
+                    "name": "Mark Anthony Jones",
+                    "role": "Guitar",
+                    "tracks": "1, 2, 6 to 10, 12, 13"
+                },
+                {
+                    "anv": "Albert Sterling Menendez",
+                    "id": "452914",
+                    "join": "",
+                    "name": "Albert \"Sterling\" Menendez",
+                    "role": "Keyboards [Keys]",
+                    "tracks": "6"
+                },
+                {
+                    "anv": "",
+                    "id": "40",
+                    "join": "",
+                    "name": "Dave Warrin",
+                    "role": "Keyboards [Keys]",
+                    "tracks": "7, 10"
+                },
+                {
+                    "anv": "JD",
+                    "id": "32",
+                    "join": "",
+                    "name": "Jay Denes",
+                    "role": "Keyboards [Keys]",
+                    "tracks": "1, 2, 4, 6 to 14"
+                },
+                {
+                    "anv": "",
+                    "id": "213186",
+                    "join": "",
+                    "name": "Emily Lazar",
+                    "role": "Mastered By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "JD",
+                    "id": "32",
+                    "join": "",
+                    "name": "Jay Denes",
+                    "role": "Programmed By",
+                    "tracks": "1, 2, 4, 6 to 14"
+                },
+                {
+                    "anv": "JD",
+                    "id": "32",
+                    "join": "",
+                    "name": "Jay Denes",
+                    "role": "Recorded By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "320005",
+                    "join": "",
+                    "name": "Dave Jensen",
+                    "role": "Saxophone",
+                    "tracks": "1, 9"
+                },
+                {
+                    "anv": "",
+                    "id": "34181",
+                    "join": "",
+                    "name": "Catherine Russell",
+                    "role": "Vocals",
+                    "tracks": "7, 12, 14"
+                },
+                {
+                    "anv": "",
+                    "id": "80161",
+                    "join": "",
+                    "name": "Eve Robinson",
+                    "role": "Vocals",
+                    "tracks": "9, 11"
+                },
+                {
+                    "anv": "Lysa",
+                    "id": "766000",
+                    "join": "",
+                    "name": "Lysa Aya Trenier",
+                    "role": "Vocals",
+                    "tracks": "4, 10"
+                },
+                {
+                    "anv": "",
+                    "id": "99026",
+                    "join": "",
+                    "name": "Monique Bingham",
+                    "role": "Vocals",
+                    "tracks": "2, 13"
+                },
+                {
+                    "anv": "Trenier",
+                    "id": "766000",
+                    "join": "",
+                    "name": "Lysa Aya Trenier",
+                    "role": "Written-By",
+                    "tracks": "4, 10"
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "Album"
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Text",
+                    "_type": "Barcode",
+                    "_value": "7 24381 11152 9"
+                },
+                {
+                    "_type": "Barcode",
+                    "_value": "724381111529"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "724381111529 1-1-1 MASTERED BY EMI MFG."
+                },
+                {
+                    "_type": "Mastering SID Code",
+                    "_value": "IFPI L044"
+                },
+                {
+                    "_type": "Mould SID Code",
+                    "_value": "IFPI 166C"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "591",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "469",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "597"
+                },
+                {
+                    "_height": "467",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "599",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": [
+                {
+                    "_catno": "ASW11115-2",
+                    "_id": "188",
+                    "_name": "Astralwerks"
+                },
+                {
+                    "_catno": "7243 8 11115 2 9",
+                    "_id": "10",
+                    "_name": "Naked Music Recordings"
+                }
+            ]
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "104407"
+        },
+        "notes": "Recorded at Naked Music NYC\r\nMastered at The Lodge\r\n\r\n℗\u0026© 2002 Naked Music NYC Recordings, LLC. Manufactured and exclusively distributed in North America by Astralwerks Records. Made in the USA.",
+        "released": "2002-01-22",
+        "styles": {
+            "style": [
+                "Lounge",
+                "Downtempo",
+                "Deep House"
+            ]
+        },
+        "title": "Beautiful Tomorrow",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "6:47",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "40",
+                                "join": "",
+                                "name": "Dave Warrin",
+                                "role": "Clavinet",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "670",
+                                "join": "",
+                                "name": "Lisa Shaw",
+                                "role": "Vocals",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "1",
+                    "title": "Let's Do It Together"
+                },
+                {
+                    "duration": "4:21",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "198364",
+                            "join": "",
+                            "name": "Fabio Morgera",
+                            "role": "Trumpet",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "2",
+                    "title": "Close To Home"
+                },
+                {
+                    "duration": "5:22",
+                    "position": "3",
+                    "title": "Music And Wine (Teksoul Dub)"
+                },
+                {
+                    "duration": "8:12",
+                    "position": "4",
+                    "title": "Sweeter Love"
+                },
+                {
+                    "duration": "4:48",
+                    "position": "5",
+                    "title": "Pure (Jay's Nitelife Dub)"
+                },
+                {
+                    "duration": "6:05",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "28896",
+                                "join": "",
+                                "name": "Jay Rodriguez",
+                                "role": "Flute",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "104415",
+                                "join": "",
+                                "name": "Diva Blue",
+                                "role": "Vocals",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "6",
+                    "title": "All I Need"
+                },
+                {
+                    "duration": "4:27",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "Russell",
+                            "id": "34181",
+                            "join": "",
+                            "name": "Catherine Russell",
+                            "role": "Written-By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "7",
+                    "title": "Very Good Friends"
+                },
+                {
+                    "duration": "4:53",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "352023",
+                                "join": "",
+                                "name": "Mark Anthony Jones",
+                                "role": "Vocals",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "Jones",
+                                "id": "352023",
+                                "join": "",
+                                "name": "Mark Anthony Jones",
+                                "role": "Written-By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "8",
+                    "title": "Yeah"
+                },
+                {
+                    "duration": "2:57",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "143102",
+                            "join": "",
+                            "name": "Carlos Gomez",
+                            "role": "Congas",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "9",
+                    "title": "Grace (Freedom Dub)"
+                },
+                {
+                    "duration": "5:23",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "352023",
+                            "join": "",
+                            "name": "Mark Anthony Jones",
+                            "role": "Backing Vocals",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "10",
+                    "title": "Love Yourself"
+                },
+                {
+                    "duration": "3:56",
+                    "position": "11",
+                    "title": "Come Inside"
+                },
+                {
+                    "duration": "7:10",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "6549",
+                            "join": "",
+                            "name": "Richard Worth",
+                            "role": "Flute",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "12",
+                    "title": "Music And Wine"
+                },
+                {
+                    "duration": "4:26",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "Bingham",
+                            "id": "99026",
+                            "join": "",
+                            "name": "Monique Bingham",
+                            "role": "Written-By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "13",
+                    "title": "Pure"
+                },
+                {
+                    "duration": "4:40",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "162356",
+                            "join": "",
+                            "name": "Kirk Douglas",
+                            "role": "Guitar",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "14",
+                    "title": "Beautiful Tomorrow"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "409",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=LCSt1OoPmVE",
+                    "description": "Track 1 Beautiful Tomorrow",
+                    "title": "Blue Six-Let's do it together"
+                },
+                {
+                    "_duration": "262",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=lA6zXzsTC9I",
+                    "description": "Provided to YouTube by Universal Music Group\n\nClose To Home · blue six\n\nBeautiful Tomorrow\n\n℗ 2002 Naked Music NYC Recordings LLC\n\nReleased on: 2002-01-01\n\nAssociated  Performer, Vocals: Monique Bingham\nAssociated  Performer, Guitar: Mark Anthony Jones",
+                    "title": "Close To Home"
+                },
+                {
+                    "_duration": "324",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=CAQtMbU8ex4",
+                    "description": "Artist:Blue Six\nName:Music And Wine(Teksoul Dub)\nAlbum:Beautiful Tomorrow\nAlbum Artist:Blue Six\nYear:2002\nGenre:Deep House/Deep Tech-House/Ambient\nLabel:Naked Music Recordings",
+                    "title": "Blue Six - Music And Wine(Teksoul Dub)"
+                },
+                {
+                    "_duration": "494",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=baK15QvMJP4",
+                    "description": "Provided to YouTube by Universal Music Group\n\nSweeter Love · blue six\n\nBeautiful Tomorrow\n\nReleased on: 2002-01-01\n\nProducer, Studio  Personnel, Mixer, Associated  Performer, Programming: Jay Denes\nAssociated  Performer, Vocals: Lysa Trenier\nStudio  Pers",
+                    "title": "Sweeter Love"
+                },
+                {
+                    "_duration": "406",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=E2aC_4dpENw",
+                    "description": "Naked Music track 'Pure' by Blue Six on the album 'Beautiful tomorrow.'",
+                    "title": "Blue Six - Pure"
+                },
+                {
+                    "_duration": "366",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=cFRikplu3uk",
+                    "description": "Provided to YouTube by Universal Music Group\n\nAll I Need · blue six\n\nBeautiful Tomorrow\n\n℗ 2002 Naked Music NYC Recordings LLC\n\nReleased on: 2002-01-01\n\nAssociated  Performer, Keyboards, Producer, Studio  Personnel, Mixer, Programmer: Jay Denes\nAssocia",
+                    "title": "All I Need"
+                },
+                {
+                    "_duration": "269",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=VvGpfYu87N0",
+                    "description": "Provided to YouTube by Universal Music Group\n\nVery Good Friends · blue six\n\nBeautiful Tomorrow\n\n℗ 2002 Naked Music Recordings\n\nReleased on: 2002-01-01\n\nProducer, Executive  Producer: David Boonshoft\nProducer, Unknown, Other: Jay Denes\nStudio  Personnel",
+                    "title": "Very Good Friends"
+                },
+                {
+                    "_duration": "294",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=seD6YffEyCM",
+                    "description": "Provided to YouTube by Universal Music Group\n\nYeah · blue six\n\nBeautiful Tomorrow\n\n℗ 2002 Naked Music NYC Recordings LLC\n\nReleased on: 2002-01-01\n\nProducer, Studio  Personnel, Mixer, Associated  Performer, Programming: Jay Denes\nAssociated  Performer,",
+                    "title": "Yeah"
+                },
+                {
+                    "_duration": "178",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=IBb3a73z2kI",
+                    "description": "Provided to YouTube by Universal Music Group\n\nGrace (Remix) · blue six\n\nBeautiful Tomorrow\n\n℗ 2002 Naked Music NYC Recordings LLC\n\nReleased on: 2002-01-01\n\nProducer, Studio  Personnel, Mixer, Associated  Performer, Programming: Jay Denes\nAssociated  Pe",
+                    "title": "Grace (Remix)"
+                },
+                {
+                    "_duration": "324",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=tXf1pQWapuM",
+                    "description": "Provided to YouTube by Universal Music Group\n\nLove Yourself · blue six\n\nBeautiful Tomorrow\n\n℗ 2002 Naked Music NYC Recordings LLC\n\nReleased on: 2002-01-01\n\nProducer, Studio  Personnel, Mixer, Associated  Performer, Programming: Jay Denes\nAssociated  Pe",
+                    "title": "Love Yourself"
+                },
+                {
+                    "_duration": "238",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=UQPp2JNVvCg",
+                    "description": "Provided to YouTube by Universal Music Group\n\nCome Inside · blue six\n\nBeautiful Tomorrow\n\n℗ 2002 Naked Music NYC Recordings LLC\n\nReleased on: 2002-01-01\n\nProducer, Studio  Personnel, Mixer, Associated  Performer, Programming: Jay Denes\nAssociated  Perf",
+                    "title": "Come Inside"
+                },
+                {
+                    "_duration": "431",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=bfW6kogTxWc",
+                    "description": "Provided to YouTube by Universal Music Group\n\nMusic And Wine · blue six\n\nBeautiful Tomorrow\n\n℗ 2002 Naked Music NYC Recordings, LLC.\n\nReleased on: 2002-01-01\n\nComposer  Lyricist: Denes\n\nAuto-generated by YouTube.",
+                    "title": "Music And Wine"
+                },
+                {
+                    "_duration": "267",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=z75WwW58Dms",
+                    "description": "Provided to YouTube by Universal Music Group\n\nPure · blue six\n\nBeautiful Tomorrow\n\n℗ 1999 Naked Music NYC Recordings LLC\n\nReleased on: 2002-01-01\n\nProducer, Studio  Personnel, Mixer, Associated  Performer, Programming: Jay Denes\nAssociated  Performer,",
+                    "title": "Pure"
+                },
+                {
+                    "_duration": "284",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=euP_ef1geFM",
+                    "description": "Provided to YouTube by Universal Music Group\n\nBeautiful Tomorrow · blue six\n\nBeautiful Tomorrow\n\n℗ 2002 Naked Music NYC Recordings LLC\n\nReleased on: 2002-01-01\n\nProducer, Studio  Personnel, Mixer, Associated  Performer, Programming: Jay Denes\nAssociate",
+                    "title": "Beautiful Tomorrow"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,157 @@
+{
+    "release": {
+        "_id": "88242",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "13462",
+                "join": "",
+                "name": "Spyra",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": {
+                "anv": "Wolfram DER Spyra",
+                "id": "13462",
+                "join": "",
+                "name": "Spyra",
+                "role": "Written-By",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                },
+                {
+                    "_description": "Side-A",
+                    "_type": "Matrix / Runout",
+                    "_value": "\u003c\u003c Recorded at Phön - Studio, Kassel \u003e\u003e"
+                },
+                {
+                    "_description": "Side-B",
+                    "_type": "Matrix / Runout",
+                    "_value": "“ The Space Between Your Head “"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "606",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "607",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "597",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PS 08/87",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "454456"
+        },
+        "notes": "Limitation: 500",
+        "released": "1997-04-01",
+        "styles": {
+            "style": [
+                "Techno",
+                "Ambient"
+            ]
+        },
+        "title": "VCM 100F",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "10:22",
+                    "position": "A1",
+                    "title": "VCM 100F"
+                },
+                {
+                    "duration": "9:44",
+                    "position": "A2",
+                    "title": "Ocean"
+                },
+                {
+                    "duration": "8:56",
+                    "position": "B1",
+                    "title": "7Homes \u0026 8Spyrits Part I"
+                },
+                {
+                    "duration": "9:13",
+                    "position": "B2",
+                    "title": "7Homes \u0026 8Spyrits Part II"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "623",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=fitAOh-rZS0",
+                    "description": "1997\n\nanother for my electronic headz!",
+                    "title": "Spyra - VCM 100F"
+                },
+                {
+                    "_duration": "537",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=l2Te5eE2Jk8",
+                    "description": "Spyra - Phonehead",
+                    "title": "Spyra - 7 Homes \u0026 8 Spyrits Part I"
+                },
+                {
+                    "_duration": "554",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=jhbPtgf7BjM",
+                    "description": "Spyra - Phonehead",
+                    "title": "Spyra - 7 Homes \u0026 8 Spyrits Part II"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "release": {
+        "_id": "84448",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "292994",
+                "join": "",
+                "name": "Amp (5)",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "9847",
+                    "join": "",
+                    "name": "Dandy Jack",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "500",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                },
+                {
+                    "_height": "500",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/130",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Limitation: 500\r\n\"\u003c- ATMOSPHERICAL, SEXY, OUTA SPACE ELECTRONIC-FUSION-MUSIC -\u003e\" \r\nIs Etched On Runout Groove On Side B",
+        "released": "1997-05-05",
+        "styles": {
+            "style": [
+                "Trance",
+                "Electro",
+                "Ambient"
+            ]
+        },
+        "title": "Amp II",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "13:40",
+                    "position": "A",
+                    "title": "Malaria"
+                },
+                {
+                    "duration": "9:06",
+                    "position": "B1",
+                    "title": "Listenings Of Balls"
+                },
+                {
+                    "duration": "6:23",
+                    "position": "B2",
+                    "title": "Jazztec"
+                }
+            ]
+        }
+    }
+}

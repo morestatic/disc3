@@ -1,0 +1,287 @@
+{
+    "release": {
+        "_id": "11512",
+        "_status": "Accepted",
+        "artists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "20",
+                    "join": "Versus",
+                    "name": "Percy X",
+                    "role": "",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "49831",
+                    "join": "",
+                    "name": "Blood Sugar",
+                    "role": "",
+                    "tracks": ""
+                }
+            ]
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "18",
+                    "name": "Soma Quality Recordings",
+                    "resource_url": "https://api.discogs.com/labels/18"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "18",
+                    "name": "Soma Quality Recordings",
+                    "resource_url": "https://api.discogs.com/labels/18"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "17",
+                    "entity_type_name": "Pressed By",
+                    "id": "56025",
+                    "name": "MPO",
+                    "resource_url": "https://api.discogs.com/labels/56025"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "29",
+                    "entity_type_name": "Mastered At",
+                    "id": "158759",
+                    "name": "The Exchange",
+                    "resource_url": "https://api.discogs.com/labels/158759"
+                }
+            ]
+        },
+        "country": "UK",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "GRAEME",
+                    "id": "399393",
+                    "join": "",
+                    "name": "Graeme Durham",
+                    "role": "Mastered By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "20",
+                    "join": "",
+                    "name": "Percy X",
+                    "role": "Producer, Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "Single",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": [
+                "Electronic",
+                "Hip Hop"
+            ]
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Scanned (Sticker)",
+                    "_type": "Barcode",
+                    "_value": "5024856620323"
+                },
+                {
+                    "_description": "Printed (Sticker)",
+                    "_type": "Barcode",
+                    "_value": "5 024856 620323"
+                },
+                {
+                    "_description": "Side A etched",
+                    "_type": "Matrix / Runout",
+                    "_value": "SOMA 32 A1 DMM THE EXCHANGE-GRAEME MPO"
+                },
+                {
+                    "_description": "Side B etched",
+                    "_type": "Matrix / Runout",
+                    "_value": "SOMA 32 AA1 MPO"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "423"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "SOMA 032",
+                "_id": "18",
+                "_name": "Soma Quality Recordings"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "37370"
+        },
+        "notes": "Made in Scotland.\n\nTrack durations and BPM are not provided on the record.\nBPM:\nA1: 98 | A2: 99\nB1: 99 | B2: 99\n\n(P) \u0026 (C) 1995 Soma Quality Recordings",
+        "released": "1995-11-13",
+        "styles": {
+            "style": [
+                "Instrumental",
+                "Experimental",
+                "Trip Hop",
+                "Dub"
+            ]
+        },
+        "title": "- 3",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "5:18",
+                    "position": "A1",
+                    "title": "-3 (Original)"
+                },
+                {
+                    "duration": "5:28",
+                    "position": "A2",
+                    "title": "-3 (Magnetic Mix)"
+                },
+                {
+                    "duration": "9:22",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "49831",
+                                "join": "",
+                                "name": "Blood Sugar",
+                                "role": "Remix",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "2657",
+                                "join": "",
+                                "name": "Andrew Weatherall",
+                                "role": "Remix [Credited To]",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "Dave Harrow",
+                                "id": "38973",
+                                "join": "",
+                                "name": "David Harrow",
+                                "role": "Remix [Credited To]",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "B1",
+                    "title": "-3 (Emissions 1)"
+                },
+                {
+                    "duration": "5:53",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "49831",
+                                "join": "",
+                                "name": "Blood Sugar",
+                                "role": "Remix",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "2657",
+                                "join": "",
+                                "name": "Andrew Weatherall",
+                                "role": "Remix [Credited To]",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "Dave Harrow",
+                                "id": "38973",
+                                "join": "",
+                                "name": "David Harrow",
+                                "role": "Remix [Credited To]",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "B2",
+                    "title": "-3 (Emissions 2)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "321",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=1o-rZuBokDI",
+                    "description": "",
+                    "title": "Percy X Vs Bloodsugar - -3 (Original) ! SPY \u0026 Matrix CIA Agent Techno Music.wmv"
+                },
+                {
+                    "_duration": "347",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=R4zCX95nZj4",
+                    "description": "Soma Quality Recordings ‎– SOMA 32\nReleased: 13 Nov 1995",
+                    "title": "Percy X Versus Blood Sugar ‎– -3 // A2 -3 (Magnetic Mix)"
+                },
+                {
+                    "_duration": "592",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=L4Xi6a9hIsg",
+                    "description": "Soma Quality Recordings ‎– SOMA 32\nReleased: 13 Nov 1995",
+                    "title": "Percy X Versus Blood Sugar ‎– -3 // B1 -3 (Emission 1)"
+                },
+                {
+                    "_duration": "359",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=1In1XoEoTwY",
+                    "description": "",
+                    "title": "Percy X V Bloodsugar Soma Coma Vol 3  3 Emissions 2"
+                }
+            ]
+        }
+    }
+}

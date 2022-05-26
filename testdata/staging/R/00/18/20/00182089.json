@@ -1,0 +1,128 @@
+{
+    "release": {
+        "_id": "182089",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "15292",
+                "join": "",
+                "name": "Harmonize",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "Germany",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "656032",
+                    "join": "",
+                    "name": "Al. A. Perry",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_type": "Label Code",
+                "_value": "LC 6269"
+            }
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "604",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "603",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/57",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "1648467"
+        },
+        "notes": "Limited to 500 copies.\r\n\"COME WITH ME... WAY DOWN!\" \r\nIs Etched On Runout Groove On Side B",
+        "released": "1993-04-05",
+        "styles": {
+            "style": "Deep House"
+        },
+        "title": "Harmonize 4",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "6:29",
+                    "position": "A",
+                    "title": "Beyond Boredom (Day)"
+                },
+                {
+                    "duration": "5:20",
+                    "position": "B",
+                    "title": "Beyond Boredom (Night)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "392",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=jTKEVrISUrk",
+                    "description": "http://www.discogs.com/Harmonize-Harmonize-4/release/182089\n\r\n\r-uploaded in HD at http://www.TunesToTube.com",
+                    "title": "Harmonize - Beyond Boredom (Day) (House 1993)"
+                },
+                {
+                    "_duration": "326",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=9Nzaakevj20",
+                    "description": "http://www.discogs.com/Harmonize-Harmonize-4/release/182089\n\r\n\r-uploaded in HD at http://www.TunesToTube.com",
+                    "title": "Harmonize - Beyond Boredom (Night) (House 1993)"
+                }
+            ]
+        }
+    }
+}

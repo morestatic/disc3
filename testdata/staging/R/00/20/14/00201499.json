@@ -1,0 +1,147 @@
+{
+    "release": {
+        "_id": "201499",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "4771703",
+                "join": "",
+                "name": "Elevator (9)",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "Germany",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "16732",
+                "join": "",
+                "name": "Massimo Vivona",
+                "role": "Written-By",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM",
+                        "45 RPM",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Side A",
+                    "_type": "Matrix / Runout",
+                    "_value": "PS 08/35 A  = PRODUCED AT TRANCELAB STUDIO ="
+                },
+                {
+                    "_description": "Side B",
+                    "_type": "Matrix / Runout",
+                    "_value": "PS 08/35 B SUPPORT THE REAL INDEPENDENT LABELS"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "456",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "464"
+                },
+                {
+                    "_height": "463",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "466"
+                },
+                {
+                    "_height": "480",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "503"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PS 08/35",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Limitation: 1000\r\n\r\nSide A plays at 45 RPM.\r\nSide B plays at 33 ⅓ RPM.",
+        "released": "1994-01-24",
+        "styles": {
+            "style": [
+                "Trance",
+                "Techno",
+                "Acid"
+            ]
+        },
+        "title": "Elevator",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "6:07",
+                    "position": "A",
+                    "title": "Isolazione"
+                },
+                {
+                    "duration": "5:41",
+                    "position": "B1",
+                    "title": "Distruttibile - 303"
+                },
+                {
+                    "duration": "6:40",
+                    "position": "B2",
+                    "title": "La Mania"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "363",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=HI4Vk6aYnYQ",
+                    "description": "A little lesser known track from Massimo Vivona. Elevator - Elevator 12 / Fax +49-69/450464\n\nhttps://massimovivona.bandcamp.com \nhttp://www.headzonerecords.com  \nhttp://www.undergroovedistribution.com",
+                    "title": "Elevator - Isolazione (1994)"
+                },
+                {
+                    "_duration": "380",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=fvdBA1yBaJ4",
+                    "description": "Fax +49-69/450464 ‎– PS 08/35",
+                    "title": "Elevator - Distruttibile - 303"
+                },
+                {
+                    "_duration": "407",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=q9lr4T51jVk",
+                    "description": "Another great tune from this record. Elevator - Elevator 12 / Fax +49-69/450464\n\nhttps://massimovivona.bandcamp.com \nhttp://www.headzonerecords.com  \nhttp://www.undergroovedistribution.com",
+                    "title": "Elevator - La Mania (1994)"
+                }
+            ]
+        }
+    }
+}

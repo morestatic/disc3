@@ -1,0 +1,173 @@
+{
+    "release": {
+        "_id": "201500",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "96176",
+                "join": "",
+                "name": "Gamma (2)",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": {
+                "catno": "",
+                "entity_type": "10",
+                "entity_type_name": "Manufactured By",
+                "id": "291931",
+                "name": "CD Plant MFG",
+                "resource_url": "https://api.discogs.com/labels/291931"
+            }
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "8521",
+                    "join": "",
+                    "name": "Dr. Atmo",
+                    "role": "Written-By",
+                    "tracks": "1 to 3, 5"
+                },
+                {
+                    "anv": "",
+                    "id": "16732",
+                    "join": "",
+                    "name": "Massimo Vivona",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "CD PLANT MFG PS 08/30 CDM01"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "599",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "250",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "250"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PS 08/30",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "PIF\r\n\r\nPersian - Italian Friendship\r\n\r\nGAMMA is a global language\r\n\r\nGamma\r\nFRANKFURT 1993\r\n\r\nSpecial thanks from Dr. Atmo to:\r\n\r\nGod\r\nMadar + Pedaram\r\nMirella my venus\r\n(1000 thanx 4 Your MINI)\r\nHeike\r\n(4 catering)\r\nKarim + DJEB\r\n(4 tea)\r\n\r\nRigraziamento speciale dalla parte di Massimo Vivona:\r\n\r\nHeike\r\n(e per la forza suprema e della volunta che mi da)\r\n\r\nLimitation: 500",
+        "released": "1993-11-01",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Downtempo",
+                "Techno",
+                "Trance"
+            ]
+        },
+        "title": "Gamma",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "10:35",
+                    "position": "1",
+                    "title": "Attuale"
+                },
+                {
+                    "duration": "20:04",
+                    "position": "2",
+                    "title": "Katanga"
+                },
+                {
+                    "duration": "21:26",
+                    "position": "3",
+                    "title": "Spirituale"
+                },
+                {
+                    "duration": "10:28",
+                    "position": "4",
+                    "title": "Speltrum"
+                },
+                {
+                    "duration": "13:15",
+                    "position": "5",
+                    "title": "Intelletuale"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "634",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=53e3LYHIUBY",
+                    "description": "Music: Dr. Atmo and Massimo Vivona 1993. Video: Abstructure 2015\n\nMassimo Vivona on Youtube --- https://www.youtube.com/channel/UC1hWG_1YDZv7ftnCjHmLO0A\n\nMassimo Vivona on Residentadvisor.net: \n• https://www.residentadvisor.net/dj/massimovivona\n• http",
+                    "title": "Gamma - Attuale"
+                },
+                {
+                    "_duration": "632",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Q6BRs0ajIjw",
+                    "description": "Rare old school trance by two legends Massimo Vivona and Dr.Atmo. CD: Gamma - Gamma / Fax +49-69/450464\n\nhttps://massimovivona.bandcamp.com \nhttp://www.headzonerecords.com  \nhttp://www.undergroovedistribution.com",
+                    "title": "Gamma - Spelctrum (1993)"
+                },
+                {
+                    "_duration": "1211",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=0nUxFcyTPPg",
+                    "description": "Gamma (PS 08/30)\r\n\r\nReleased November 1993",
+                    "title": "Gamma - Katanga (1993)"
+                },
+                {
+                    "_duration": "863",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=BH4kWPhwt6k",
+                    "description": "w\u0026p by Dr.Atmo \u0026 M.Vivona\nRecorded for Faxrecords 1993",
+                    "title": "GAMMA - Spirituale"
+                }
+            ]
+        }
+    }
+}

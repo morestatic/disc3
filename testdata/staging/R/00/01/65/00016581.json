@@ -1,0 +1,243 @@
+{
+    "release": {
+        "_id": "16581",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "15288",
+                "join": "",
+                "name": "Limelight",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": {
+                "catno": "",
+                "entity_type": "10",
+                "entity_type_name": "Manufactured By",
+                "id": "291931",
+                "name": "CD Plant MFG",
+                "resource_url": "https://api.discogs.com/labels/291931"
+            }
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "233178",
+                    "join": "",
+                    "name": "DJ Brainwave",
+                    "role": "Written-By",
+                    "tracks": "1 to 10"
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_type": "Matrix / Runout",
+                "_value": "CD PLANT MFG PK08/82 CDM01"
+            }
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "461",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/82",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "146293"
+        },
+        "notes": "tempora mutantur, nos et mutamur in illis.\r\n\r\nLIMELIGHT\r\nFRANKFURT 1993\r\n\r\nSpecial thanks to:\r\n\r\nElisabeth\r\nFabia\r\nTurgay at Turgay Audio\r\n\r\nLimitation: 500",
+        "released": "1993-12-25",
+        "styles": {
+            "style": [
+                "House",
+                "Acid",
+                "Hard Trance",
+                "Ambient"
+            ]
+        },
+        "title": "Limelight",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "6:36",
+                    "position": "1",
+                    "title": "Limelight (Holy Guitar Mix)"
+                },
+                {
+                    "duration": "6:05",
+                    "position": "2",
+                    "title": "Mens, Mentis (Lex Durus Mix)"
+                },
+                {
+                    "duration": "5:45",
+                    "position": "3",
+                    "title": "Repentium Venenum"
+                },
+                {
+                    "duration": "5:54",
+                    "position": "4",
+                    "title": "Sorti Destinatus"
+                },
+                {
+                    "duration": "7:08",
+                    "position": "5",
+                    "title": "Aquamentus (Frater Syntheticus Mix)"
+                },
+                {
+                    "duration": "7:09",
+                    "position": "6",
+                    "title": "Rerum Natura (Pluris Costare Mix)"
+                },
+                {
+                    "duration": "7:39",
+                    "position": "7",
+                    "title": "Amicus Certus In Re Incerta Cernitur"
+                },
+                {
+                    "duration": "5:52",
+                    "position": "8",
+                    "title": "Vastum Maris Aequor"
+                },
+                {
+                    "duration": "6:07",
+                    "position": "9",
+                    "title": "Momentum"
+                },
+                {
+                    "duration": "5:56",
+                    "position": "10",
+                    "title": "Loca Aspera"
+                },
+                {
+                    "duration": "6:42",
+                    "position": "11",
+                    "title": "Homo Ambiens"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "4148",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=G5-ZIxksSDs",
+                    "description": "Artist: Pete Namlook \u0026 DJ Brainwave\nAlbum: Limelight\nLabel: Fax +49-69/450464\nYear: 1993\n\nBuy it on Bandcamp: https://injection.bandcamp.com/album/i-1001-limelight\n\nTracklist:\n1. Limelight (Holy Guitar Mix) [0:00]\n2. Mens Mentis (Lex Durus Mix) [6:36]\n3.",
+                    "title": "Pete Namlook \u0026 DJ Brainwave - Limelight (Full Album) [1993]"
+                },
+                {
+                    "_duration": "499",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=M6T8wWUuVao",
+                    "description": "Limelight - Amicus Certus In Re Incerta Cernitur\nWritten-By -- DJ Brainwave - adsx, Pete Namlook\nOriginally Released on :\nFax +49-69/450464 1992\neec 1993 \nAmbient World 2009\n2013 Remaster by Moses at Hansa",
+                    "title": "Limelight - Amicus Certus In Re Incerta Cernitur (2013 Remaster)"
+                },
+                {
+                    "_duration": "393",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=1qcELJ_sR2M",
+                    "description": "Limelight - Limelight 4\n\nLabel:\nFax +49-69/450464\nCatalog#:\nPK 08/051\nFormat:\nVinyl, 12, Limited Edition\nCountry:\nGermany\nReleased:\n15 Mar 1993\n\nGenre:\nElectronic\n\nStyle:\nHard Trance\n\nTracklist\nA1   Momentum 6:07 \nA2   Momentum (Nox Instat Mix) 7:04 \nB1",
+                    "title": "Limelight - Momentum"
+                },
+                {
+                    "_duration": "345",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=jQK32947YTA",
+                    "description": "http://www.discogs.com/Limelight-Limelight-4/release/109325",
+                    "title": "Limelight - Repentium Venenum (Hardtrance 1993)"
+                },
+                {
+                    "_duration": "431",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=sexmWK3vASA",
+                    "description": "LIMELIGHT - RERUM NATURA (PLURIS COSTARE MIX) - LIMELIGHT 3 [FAX RECORDS]",
+                    "title": "Limelight - Rerum Natura (Pluris Costare Mix)"
+                },
+                {
+                    "_duration": "358",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=SBkTBtpWtaM",
+                    "description": "http://www.discogs.com/Limelight-Limelight-5/release/109326",
+                    "title": "Limelight - Loca Aspera (Acid 1993)"
+                }
+            ]
+        }
+    }
+}

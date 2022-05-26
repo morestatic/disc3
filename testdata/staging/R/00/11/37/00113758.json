@@ -1,0 +1,300 @@
+{
+    "release": {
+        "_id": "113758",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "194",
+                "join": "",
+                "name": "Various",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "4",
+                    "entity_type_name": "Record Company",
+                    "id": "154822",
+                    "name": "UCMG UK",
+                    "resource_url": "https://api.discogs.com/labels/154822"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "9",
+                    "entity_type_name": "Distributed By",
+                    "id": "9836",
+                    "name": "Intergroove UK",
+                    "resource_url": "https://api.discogs.com/labels/9836"
+                }
+            ]
+        },
+        "country": "UK",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "118637",
+                "join": "",
+                "name": "Richard Summerhayes",
+                "role": "Compiled By",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "Compilation"
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Scanned",
+                    "_type": "Barcode",
+                    "_value": "5033154606632"
+                },
+                {
+                    "_description": "Text",
+                    "_type": "Barcode",
+                    "_value": "5 033154 606632"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "496",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                },
+                {
+                    "_height": "495",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                },
+                {
+                    "_height": "495",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                },
+                {
+                    "_height": "495",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                },
+                {
+                    "_height": "388",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                },
+                {
+                    "_height": "389",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "RTCCD001-2",
+                "_id": "2416",
+                "_name": "Rewind The Classics"
+            }
+        },
+        "released": "2000-00-00",
+        "styles": {
+            "style": [
+                "Acid House",
+                "Techno"
+            ]
+        },
+        "title": "Rewind: The Classics",
+        "tracklist": {
+            "track": [
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "637",
+                            "join": "",
+                            "name": "51 Days",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "1",
+                    "title": "Papermoon"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "436",
+                            "join": "",
+                            "name": "Atom",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "2",
+                    "title": "Hana"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1196",
+                            "join": "",
+                            "name": "CJ Bolland",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "14888",
+                            "join": "",
+                            "name": "Cisco Ferreira",
+                            "role": "Co-producer",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "3",
+                    "title": "Camargue"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1174",
+                            "join": "",
+                            "name": "Sterac",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "4",
+                    "title": "Asphyx"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "20",
+                            "join": "",
+                            "name": "Percy X",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "5",
+                    "title": "RD600"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "750",
+                            "join": "",
+                            "name": "Laurent Garnier",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "6",
+                    "title": "Wake Up"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "3388",
+                            "join": "",
+                            "name": "Tata Box Inhibitors",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "7",
+                    "title": "Plasmids (Placid Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "738",
+                            "join": "",
+                            "name": "Acid Junkies",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "8",
+                    "title": "Acid Engine"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "DJ Hell",
+                            "id": "114532",
+                            "join": "",
+                            "name": "Hell",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "9",
+                    "title": "Eat More House Baby"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "7274",
+                            "join": "",
+                            "name": "Bandulu",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "10",
+                    "title": "Presence"
+                }
+            ]
+        }
+    }
+}

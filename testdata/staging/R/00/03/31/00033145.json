@@ -1,0 +1,199 @@
+{
+    "release": {
+        "_id": "33145",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "Gideon And Rob H",
+                "id": "21219",
+                "join": "",
+                "name": "Gideon \u0026 Rob H",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "UK",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": {
+                "anv": "Mandy",
+                "id": "384377",
+                "join": "",
+                "name": "Mandy Parnell",
+                "role": "Mastered By",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_type": "Barcode",
+                "_value": "5025 4254 072 2 2"
+            }
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "589",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "596",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "592",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "587",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "LOAD 72",
+                "_id": "40",
+                "_name": "Loaded Records"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "580539"
+        },
+        "notes": "Published by Copyright Control.\r\nDistributed by Prime.\r\nMastered at The Exchange using DMM (Direct Metal Mastering) technology.\r\nMade in England.",
+        "released": "2000",
+        "styles": {
+            "style": [
+                "House",
+                "Deep House",
+                "Tech House"
+            ]
+        },
+        "title": "Our House",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "Gideon Jackson And Rob Hallums",
+                            "id": "21219",
+                            "join": "",
+                            "name": "Gideon \u0026 Rob H",
+                            "role": "Written-By, Producer",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "A",
+                    "title": "Don't Slip"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "21201",
+                            "join": "",
+                            "name": "Gideon Jackson",
+                            "role": "Written-By, Producer",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "AA1",
+                    "title": "It\"s All Within You"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "21201",
+                            "join": "",
+                            "name": "Gideon Jackson",
+                            "role": "Written-By, Producer",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "AA2",
+                    "title": "Acapella"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "594",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=x3F937GeTwI",
+                    "description": "",
+                    "title": "Gideon \u0026 Rob H."
+                },
+                {
+                    "_duration": "587",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=T5n9gQqFxW8",
+                    "description": "https://www.discogs.com/fr/Gideon-And-Rob-H-Our-House/release/33145\n160 kbps\nI do not own the content on this video, if the owner does not wish to have their items on display, please contact me and i will remove it right away.",
+                    "title": "Gideon, Rob H - Don't Slip [2000]"
+                },
+                {
+                    "_duration": "593",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=CMxYXtZsG-4",
+                    "description": "Provided to YouTube by Loaded Records\n\nIt's All Within You · Gideon · Rob H\n\nDon't Slip\n\n℗ 2000 Loaded Records Limited, a BMG Company\n\nPerformance: Gideon\nPerformance: Rob H\n\nAuto-generated by YouTube.",
+                    "title": "It's All Within You"
+                },
+                {
+                    "_duration": "523",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=FP8sC2fkSQc",
+                    "description": "Provided to YouTube by Loaded Records\n\nOur House (Don't Hold Back) (DJ Q Remix) · Gideon · Rob H\n\nDon't Hold Back\n\n℗ 2000 Loaded Records Limited, a BMG Company\n\nPerformance: Gideon\nPerformance: Rob H\n\nAuto-generated by YouTube.",
+                    "title": "Our House (Don't Hold Back) (DJ Q Remix)"
+                },
+                {
+                    "_duration": "523",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=MIiTGlqapuU",
+                    "description": "Loaded Legends\n\nAvailable now in all stores.\n\nBeatport: btprt.dj/1c6so72\niTunes: bit.ly/1lCncS9",
+                    "title": "Gideon \u0026 Rob H - Our House (Don't Hold Back) - DJ Q Remix"
+                },
+                {
+                    "_duration": "641",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=fCkclrLUh_s",
+                    "description": "Label:\r\nLoaded Records ‎– LOAD 063\r\nFormat:\r\nVinyl, 12\r\nCountry:\r\nUK\r\nReleased:\r\n2000\r\nGenre:\r\nElectronic\r\nStyle:\r\nHouse, Tech House",
+                    "title": "Don't hold back // Gideon \u0026 Rob H {2000}"
+                }
+            ]
+        }
+    }
+}

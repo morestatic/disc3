@@ -1,0 +1,106 @@
+{
+    "release": {
+        "_id": "8839",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "62",
+                "join": "",
+                "name": "John Tejada",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": {
+                "catno": "",
+                "entity_type": "21",
+                "entity_type_name": "Published By",
+                "id": "314115",
+                "name": "Parallax Muzik",
+                "resource_url": "https://api.discogs.com/labels/314115"
+            }
+        },
+        "country": "US",
+        "data_quality": "Needs Vote",
+        "extraartists": "",
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "599",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "601",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "007",
+                "_id": "30",
+                "_name": "Palette Recordings"
+            }
+        },
+        "notes": "1998 Parallax Muzik B.M.I.\r\n818 892 1354",
+        "released": "1998-00-00",
+        "styles": {
+            "style": "Tech House"
+        },
+        "title": "City Of Drumrolls",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "",
+                    "title": "Top Side"
+                },
+                {
+                    "duration": "",
+                    "position": "A1",
+                    "title": "City Of Drumrolls, City Of Headaches"
+                },
+                {
+                    "duration": "",
+                    "position": "",
+                    "title": "Bottom Side"
+                },
+                {
+                    "duration": "",
+                    "position": "B1",
+                    "title": "Three Years, Many Faces"
+                },
+                {
+                    "duration": "",
+                    "position": "B2",
+                    "title": "Black Hair And Onions"
+                }
+            ]
+        }
+    }
+}

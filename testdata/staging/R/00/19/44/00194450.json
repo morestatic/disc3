@@ -1,0 +1,196 @@
+{
+    "release": {
+        "_id": "194450",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "15315",
+                "join": "",
+                "name": "The Putney",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "26",
+                    "entity_type_name": "Produced At",
+                    "id": "294391",
+                    "name": "Sonic Studios Frankfurt",
+                    "resource_url": "https://api.discogs.com/labels/294391"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "37",
+                    "entity_type_name": "Produced For",
+                    "id": "664058",
+                    "name": "Namlook Productions",
+                    "resource_url": "https://api.discogs.com/labels/664058"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "29",
+                    "entity_type_name": "Mastered At",
+                    "id": "265113",
+                    "name": "SST Brüggemann GmbH",
+                    "resource_url": "https://api.discogs.com/labels/265113"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "1584729",
+                    "join": "",
+                    "name": "SST (8)",
+                    "role": "Mastered By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "14837",
+                    "join": "",
+                    "name": "Ludwig Rehberg",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "45 RPM",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                },
+                {
+                    "_description": "A-Side Runout Etching",
+                    "_type": "Matrix / Runout",
+                    "_value": "PK 08175 A SST = PRODUCED AT SONIC STUDIOS FRANKFURT FOR NAMLOOK PRODUCTIONS ="
+                },
+                {
+                    "_description": "B-Side Runout Etching",
+                    "_type": "Matrix / Runout",
+                    "_value": "PK 08175 B EMS Loves MOOG... SST"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "500",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                },
+                {
+                    "_height": "500",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/75",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "1160518"
+        },
+        "notes": "Limitation: 500",
+        "released": "1993-06-21",
+        "styles": {
+            "style": [
+                "Hard Trance",
+                "Ambient"
+            ]
+        },
+        "title": "The Putney 5",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "",
+                    "title": "This Side"
+                },
+                {
+                    "duration": "10:08",
+                    "position": "A",
+                    "title": "Putney Dust"
+                },
+                {
+                    "duration": "",
+                    "position": "",
+                    "title": "Other Side"
+                },
+                {
+                    "duration": "8:00",
+                    "position": "B",
+                    "title": "Amourette"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "610",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=0yoRQFHgTxE",
+                    "description": "The Putney VHS tape - Track #3\n___\nThis video was created by using an EMS Videosizer which is fed with musical information in order to produce and treat color, shape, lightness and contrast of the visual information. Pete Namlook is a purist. He never wan",
+                    "title": "The Putney - Putney Dust"
+                },
+                {
+                    "_duration": "480",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=jlAg6AQhW2w",
+                    "description": "The Putney VHS tape - Track #6\n___\nThis video was created by using an EMS Videosizer which is fed with musical information in order to produce and treat color, shape, lightness and contrast of the visual information. Pete Namlook is a purist. He never wan",
+                    "title": "The Putney - Amourette"
+                },
+                {
+                    "_duration": "166",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=yk7GI5_OBig",
+                    "description": "This video was taken from; The Putney VHS (Fax +49-69/450464 ‎-- PV 001), released in 1995, and was created by using an EMS Videosizer which is fed with musical information in order to produce and treat color, shape, lightness and contrast of the visu",
+                    "title": "Fax +49-69/450464 ‎-- PV 001 - Amourette (pt 1)"
+                }
+            ]
+        }
+    }
+}

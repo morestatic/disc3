@@ -1,0 +1,223 @@
+{
+    "release": {
+        "_id": "49352",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "Namlook",
+                "id": "1910",
+                "join": "",
+                "name": "Pete Namlook",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "294386",
+                    "name": "Klanglabor Frankfurt",
+                    "resource_url": "https://api.discogs.com/labels/294386"
+                },
+                {
+                    "catno": "35196",
+                    "entity_type": "10",
+                    "entity_type_name": "Manufactured By",
+                    "id": "277449",
+                    "name": "P+O Pallas",
+                    "resource_url": "https://api.discogs.com/labels/277449"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "693898",
+                    "name": "Lovefield Festival",
+                    "resource_url": "https://api.discogs.com/labels/693898"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "2118078",
+                    "join": "",
+                    "name": "PEK (3)",
+                    "role": "Graphics",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "58657",
+                    "join": "",
+                    "name": "Peter Kuhlmann",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "PK08/134 P+O-35196-A1  10-97"
+                },
+                {
+                    "_type": "Mastering SID Code",
+                    "_value": "IFPI L961"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "245",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "246"
+                },
+                {
+                    "_height": "246",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/134",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Limited to 1000 copies.\r\n\r\nThe back cover and insert list a total of 12 tracks, with \"Live At Lovefield Festival\" consisting of 11 parts, plus two other tracks. However the CD itself only contains 10 index points for the live set.",
+        "released": "1997-10-13",
+        "styles": {
+            "style": [
+                "Abstract",
+                "Ambient",
+                "Dub",
+                "Downtempo",
+                "Experimental"
+            ]
+        },
+        "title": "Namlook XII",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "5:06",
+                    "position": "1",
+                    "title": "Britains Most Easterly Point"
+                },
+                {
+                    "duration": "48:12",
+                    "position": "",
+                    "sub_tracks": {
+                        "track": [
+                            {
+                                "duration": "3:05",
+                                "position": "2",
+                                "title": "Part I"
+                            },
+                            {
+                                "duration": "2:18",
+                                "position": "3",
+                                "title": "Part II"
+                            },
+                            {
+                                "duration": "2:17",
+                                "position": "4",
+                                "title": "Part III"
+                            },
+                            {
+                                "duration": "3:29",
+                                "position": "5",
+                                "title": "Part IV"
+                            },
+                            {
+                                "duration": "3:37",
+                                "position": "6",
+                                "title": "Part V"
+                            },
+                            {
+                                "duration": "5:59",
+                                "position": "7",
+                                "title": "Part VI"
+                            },
+                            {
+                                "duration": "4:53",
+                                "position": "8",
+                                "title": "Part VII"
+                            },
+                            {
+                                "duration": "9:20",
+                                "position": "9",
+                                "title": "Part VIII"
+                            },
+                            {
+                                "duration": "4:36",
+                                "position": "10",
+                                "title": "Part IX"
+                            },
+                            {
+                                "duration": "8:50",
+                                "position": "11",
+                                "title": "Part X"
+                            }
+                        ]
+                    },
+                    "title": "Live At Lovefield Festival (Part I-XI)"
+                },
+                {
+                    "duration": "12:53",
+                    "position": "12",
+                    "title": "Subharmonic Invocation Of The Dark Spirits"
+                }
+            ]
+        }
+    }
+}

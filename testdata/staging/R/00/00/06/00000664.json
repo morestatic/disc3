@@ -1,0 +1,538 @@
+{
+    "release": {
+        "_id": "664",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "194",
+                "join": "",
+                "name": "Various",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "10",
+                    "entity_type_name": "Manufactured By",
+                    "id": "281588",
+                    "name": "ODC UK",
+                    "resource_url": "https://api.discogs.com/labels/281588"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "29",
+                    "entity_type_name": "Mastered At",
+                    "id": "158759",
+                    "name": "The Exchange",
+                    "resource_url": "https://api.discogs.com/labels/158759"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "270709",
+                    "name": "Soma Recordings Ltd.",
+                    "resource_url": "https://api.discogs.com/labels/270709"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "270709",
+                    "name": "Soma Recordings Ltd.",
+                    "resource_url": "https://api.discogs.com/labels/270709"
+                }
+            ]
+        },
+        "country": "UK",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "126763",
+                    "join": "",
+                    "name": "Melanie Clarke",
+                    "role": "Design",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1337239",
+                    "join": "",
+                    "name": "John Burgess (3)",
+                    "role": "Liner Notes",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "386598",
+                    "join": "",
+                    "name": "Nilesh Patel",
+                    "role": "Mastered By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "Compilation"
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "SOMA 50 CD ODC UK"
+                },
+                {
+                    "_type": "Mastering SID Code",
+                    "_value": "IFPI L042"
+                },
+                {
+                    "_type": "Mould SID Code",
+                    "_value": "ifpi 6921"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "598",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "467",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "599"
+                },
+                {
+                    "_height": "597",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "297",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "466",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "Soma 50cd",
+                "_id": "18",
+                "_name": "Soma Quality Recordings"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "false",
+            "content": "37415"
+        },
+        "notes": "℗\u0026© 1997 Soma Recordings Limited\r\nMastered @ The Exchange 21.1.1997\r\nThe promo of it comes in a CD5\" and paper cover.",
+        "released": "1997-03-17",
+        "styles": {
+            "style": [
+                "Techno",
+                "Tech House"
+            ]
+        },
+        "title": "00 : 50",
+        "tracklist": {
+            "track": [
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1015",
+                            "join": "",
+                            "name": "Slam",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "11:11",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "O.Meikle",
+                                "id": "225760",
+                                "join": "",
+                                "name": "Orde Meikle",
+                                "role": "Written-By, Producer",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "S.McMillan",
+                                "id": "78458",
+                                "join": "",
+                                "name": "Stuart McMillan",
+                                "role": "Written-By, Producer",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "1",
+                    "title": "Painless"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "20",
+                            "join": "",
+                            "name": "Percy X",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:28",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "M.McHaffie",
+                                "id": "356736",
+                                "join": "",
+                                "name": "Melanie McHaffie",
+                                "role": "Engineer",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "T. Scott",
+                                "id": "529343",
+                                "join": "",
+                                "name": "Tony Scott (4)",
+                                "role": "Written-By, Producer",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "2",
+                    "title": "Bit Player"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "245",
+                            "join": "",
+                            "name": "Envoy",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "7:31",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "H.Grant",
+                            "id": "33599",
+                            "join": "",
+                            "name": "Hope Grant",
+                            "role": "Written-By, Producer",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "3",
+                    "title": "Acres Of Space"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1016",
+                            "join": "",
+                            "name": "Audio Spectrum",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "7:54",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "R.Gabriel",
+                                "id": "1023",
+                                "join": "",
+                                "name": "Russ Gabriel",
+                                "role": "Producer",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "1016",
+                                "join": "",
+                                "name": "Audio Spectrum",
+                                "role": "Written-By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "4",
+                    "title": "Sex With A Stranger"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1017",
+                            "join": "",
+                            "name": "Maas",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "7:14",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "E.Pearson",
+                            "id": "19221",
+                            "join": "",
+                            "name": "Ewan Pearson",
+                            "role": "Written-By, Producer",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "5",
+                    "title": "Fallen Arches"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1018",
+                            "join": "",
+                            "name": "Rejuvination",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:46",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1018",
+                            "join": "",
+                            "name": "Rejuvination",
+                            "role": "Written-By, Producer",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "6",
+                    "title": "Utah Jazz"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1019",
+                            "join": "",
+                            "name": "Funk D'Void",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "7:47",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "L.Sandberg",
+                            "id": "193661",
+                            "join": "",
+                            "name": "Lars Sandberg",
+                            "role": "Written-By, Producer",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "7",
+                    "title": "Kincho"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1020",
+                            "join": "",
+                            "name": "Earl Brown",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "8:53",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "S.Brown",
+                            "id": "1702",
+                            "join": "",
+                            "name": "Stephen Brown",
+                            "role": "Written-By, Producer",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "8",
+                    "title": "Feelin Horny"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1021",
+                            "join": "",
+                            "name": "Equus",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:10",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "G.Gibbons",
+                            "id": "463942",
+                            "join": "",
+                            "name": "Glenn Gibbons",
+                            "role": "Written-By, Producer",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "9",
+                    "title": "C-Horse"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1022",
+                            "join": "",
+                            "name": "Skintrade",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "7:16",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "D.Dunbar",
+                                "id": "414601",
+                                "join": "",
+                                "name": "David Dunbar",
+                                "role": "Written-By, Producer",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "K.Gunn",
+                                "id": "414600",
+                                "join": "",
+                                "name": "Kevin Gunn",
+                                "role": "Written-By, Producer",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "10",
+                    "title": "On Epsilon"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "680",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=mlFQF43q-g8",
+                    "description": "Slam - Painless",
+                    "title": "Slam - Painless"
+                },
+                {
+                    "_duration": "393",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=dVquDOOrmos",
+                    "description": "Percy X - Bit Player",
+                    "title": "Percy X - Bit Player"
+                },
+                {
+                    "_duration": "456",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=7Hx_ggAjfiw",
+                    "description": "Envoy - Acres Of Space",
+                    "title": "Envoy - Acres Of Space"
+                },
+                {
+                    "_duration": "477",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=H_xDLqJLtWw",
+                    "description": "Audio Spectrum - Sex With a Stranger",
+                    "title": "Audio Spectrum - Sex With a Stranger"
+                },
+                {
+                    "_duration": "435",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=W0B3JMI0tZc",
+                    "description": "Mass - Fallen Arches",
+                    "title": "Mass - Fallen Arches"
+                },
+                {
+                    "_duration": "351",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Z_ivUSDnxLQ",
+                    "description": "Rejuvenation - Utah Jazz",
+                    "title": "Rejuvenation - Utah Jazz"
+                },
+                {
+                    "_duration": "470",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=48AlrU3pBg0",
+                    "description": "Funk D'Void - Kincho",
+                    "title": "Funk D'Void - Kincho"
+                },
+                {
+                    "_duration": "540",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=vsVPRsIHoo8",
+                    "description": "Earl Brown - Feelin Horny",
+                    "title": "Earl Brown - Feelin Horny"
+                }
+            ]
+        }
+    }
+}

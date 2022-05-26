@@ -1,0 +1,246 @@
+{
+    "release": {
+        "_id": "10252",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "Aaron Carl",
+                "id": "382254",
+                "join": "",
+                "name": "Aaron-Carl",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "35",
+                    "name": "Ovum Recordings",
+                    "resource_url": "https://api.discogs.com/labels/35"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "35",
+                    "name": "Ovum Recordings",
+                    "resource_url": "https://api.discogs.com/labels/35"
+                }
+            ]
+        },
+        "country": "US",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "60",
+                    "join": "",
+                    "name": "Pete Moss",
+                    "role": "Engineer",
+                    "tracks": "A1, A2"
+                },
+                {
+                    "anv": "J. Wink",
+                    "id": "3",
+                    "join": "",
+                    "name": "Josh Wink",
+                    "role": "Executive-Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "K. Britt",
+                    "id": "1749",
+                    "join": "",
+                    "name": "King Britt",
+                    "role": "Executive-Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "M. Brookman",
+                    "id": "581564",
+                    "join": "",
+                    "name": "Matt Brookman",
+                    "role": "Executive-Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "Pete Humphries",
+                    "id": "374405",
+                    "join": "",
+                    "name": "Peter Humphreys",
+                    "role": "Mastered By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "12\""
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "500",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "OVM127",
+                "_id": "35",
+                "_name": "Ovum Recordings"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "false",
+            "content": "125950"
+        },
+        "notes": "Housed in a label sleeve.",
+        "released": "2000-00-00",
+        "styles": {
+            "style": [
+                "Deep House",
+                "Progressive House"
+            ]
+        },
+        "title": "My House (The Remixes)",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "3694",
+                            "join": "",
+                            "name": "Dennis Ferrer",
+                            "role": "Remix, Producer [Additional Production]",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "A1",
+                    "title": "My House (Dennis F  Mix)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "730",
+                            "join": "",
+                            "name": "Hollis P. Monroe",
+                            "role": "Remix, Producer [Additional Production]",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "A2",
+                    "title": "My House (Hollis P Monroe Mix)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "3878",
+                                "join": "",
+                                "name": "Doc Martin",
+                                "role": "Remix, Producer [Additional Production]",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "8027",
+                                "join": "",
+                                "name": "Eddie Amador",
+                                "role": "Remix, Producer [Additional Production]",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "B",
+                    "title": "My House (Doc Martin And Eddie Amador's Wax Dub)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "443",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=RokQNGVQwGs",
+                    "description": "Deep Houseification!\n\nAaron Carl - My House (Dennis Ferrer Mix)",
+                    "title": "Aaron Carl - My House (Dennis Ferrer Mix) DEEP HOUSE"
+                },
+                {
+                    "_duration": "594",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=SoGsiYx_3ss",
+                    "description": "313 Reppin!!! I DONT CARE HOW THUGGED OUT YOU MAYBE,DIS SHIT IS BANGIN,BLOW YA 20'S OUT WIT THIS 1!!!!! MUSIC IS LIFE \u0026 LIFE IS MUSIC,ITS ALL UNDERGROUND,IN MY HOUSE!!!!!",
+                    "title": "Aaron Carl - My House (Testimonial Mix)"
+                },
+                {
+                    "_duration": "387",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=fhDNAF_ga3M",
+                    "description": "",
+                    "title": "Aaron Carl - My House (Hollis P Monroe Remix)"
+                },
+                {
+                    "_duration": "478",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=zB_WbAqn_Mk",
+                    "description": "Aaron Carl - My House (Dub O' Funk)",
+                    "title": "Aaron Carl - My House (Dub O' Funk)"
+                },
+                {
+                    "_duration": "442",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=47A0sPZNPPI",
+                    "description": "",
+                    "title": "Aaron Carl - My House (Dennis Ferrer Mix) HD"
+                },
+                {
+                    "_duration": "101",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=mhmwlGGbWLo",
+                    "description": "Aaron-Carl  ‎–  My House EP\nLabel: 1998 Wallshaker Music ‎– WRS-003\nAll Vocals by Aaron Carl (lyrics and biography below)\ndiscogs.com/de/Aaron-Carl-My-House/release/110824\n\nLYRICS\n\nlet me tell you something about house music...it's not just a gro",
+                    "title": "Aaron Carl - The Word (Let Me Tell You Something About House Music Original Acapella)"
+                },
+                {
+                    "_duration": "464",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=U21S6Q6KyqI",
+                    "description": "Aaron-Carl ‎-- My House (DJ Dozia Remixes)\n\nOvum Recordings -- OVM128\nFormat:\nVinyl, 12\nCountry:\nUS\nReleased:\n2000",
+                    "title": "Aaron Carl - My House ((DJ Dozia Voca Remix)"
+                }
+            ]
+        }
+    }
+}

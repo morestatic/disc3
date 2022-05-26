@@ -1,0 +1,224 @@
+{
+    "release": {
+        "_id": "154708",
+        "_status": "Accepted",
+        "artists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "109043",
+                    "join": "Feat.",
+                    "name": "SOL (3)",
+                    "role": "",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "333407",
+                    "join": "",
+                    "name": "Antonia Langsdorf",
+                    "role": "",
+                    "tracks": ""
+                }
+            ]
+        },
+        "companies": {
+            "company": {
+                "catno": "59472",
+                "entity_type": "31",
+                "entity_type_name": "Glass Mastered At",
+                "id": "277449",
+                "name": "P+O Pallas",
+                "resource_url": "https://api.discogs.com/labels/277449"
+            }
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "andre@sansserif.com.au",
+                    "id": "2022694",
+                    "join": "",
+                    "name": "Andre Ruello",
+                    "role": "Graphics",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "58657",
+                    "join": "",
+                    "name": "Peter Kuhlmann",
+                    "role": "Mastered By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "333407",
+                    "join": "",
+                    "name": "Antonia Langsdorf",
+                    "role": "Voice, Words By",
+                    "tracks": "1, 5, 9"
+                },
+                {
+                    "anv": "",
+                    "id": "524925",
+                    "join": "",
+                    "name": "Christian Schek",
+                    "role": "Written-By, Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "62865",
+                    "join": "",
+                    "name": "Ramin Naghachian",
+                    "role": "Written-By, Producer",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Text",
+                    "_type": "Barcode",
+                    "_value": "8 07297 02682 5"
+                },
+                {
+                    "_description": "Scanned",
+                    "_type": "Barcode",
+                    "_value": "807297026825"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "PS 08/99 P+O-59472-A2 01-03"
+                },
+                {
+                    "_type": "Mastering SID Code",
+                    "_value": "IFPI L962"
+                },
+                {
+                    "_type": "Mould SID Code",
+                    "_value": "IFPI 3J07"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "292",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "519",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PS 08/99",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Limitation: 2000\r\nRecorded at Spectrum Studio, Darmstadt\r\nThanks for inspiration to: Ray Merriman, Alex Ersfeld \u0026 Caro Bergmann",
+        "released": "2003-02-12",
+        "styles": {
+            "style": "Trance"
+        },
+        "title": "Stardust",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "7:36",
+                    "position": "1",
+                    "title": "Stardust (Club Mix)"
+                },
+                {
+                    "duration": "5:17",
+                    "position": "2",
+                    "title": "Time \u0026 Space"
+                },
+                {
+                    "duration": "6:50",
+                    "position": "3",
+                    "title": "Venus"
+                },
+                {
+                    "duration": "6:42",
+                    "position": "4",
+                    "title": "Moon 44"
+                },
+                {
+                    "duration": "4:46",
+                    "position": "5",
+                    "title": "Stardust (Elektro Mix)"
+                },
+                {
+                    "duration": "7:22",
+                    "position": "6",
+                    "title": "Everybody"
+                },
+                {
+                    "duration": "8:00",
+                    "position": "7",
+                    "title": "Cosmic Lines"
+                },
+                {
+                    "duration": "9:03",
+                    "position": "8",
+                    "title": "Planet X"
+                },
+                {
+                    "duration": "4:01",
+                    "position": "9",
+                    "title": "Stardust (Vocal Mix)"
+                }
+            ]
+        },
+        "videos": {
+            "video": {
+                "_duration": "458",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=_pnVFboNSaE",
+                "description": "SOL feat. Antonia Langsdorf - Stardust  2003\r\n\r\nhttp://www.discogs.com/SOL-3-Featuring-Antonia-Langsdorf-Stardust/release/154708",
+                "title": "SOL feat. Antonia Langsdorf - Stardust (Club Mix)"
+            }
+        }
+    }
+}

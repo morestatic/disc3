@@ -1,0 +1,256 @@
+{
+    "release": {
+        "_id": "14924",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "194",
+                "join": "",
+                "name": "Various",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": {
+                "catno": "15438",
+                "entity_type": "10",
+                "entity_type_name": "Manufactured By",
+                "id": "277449",
+                "name": "P+O Pallas",
+                "resource_url": "https://api.discogs.com/labels/277449"
+            }
+        },
+        "country": "Germany",
+        "data_quality": "Needs Vote",
+        "extraartists": "",
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Compilation",
+                        "Limited Edition",
+                        "Mixed"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_type": "Matrix / Runout",
+                "_value": "PK 08/02 P+O-15438-A2 02-93"
+            }
+        },
+        "images": {
+            "image": {
+                "_height": "349",
+                "_type": "primary",
+                "_uri": "",
+                "_uri150": "",
+                "_width": "349"
+            }
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/02",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "280939"
+        },
+        "notes": "What is FAX +49-69/450464 ?\r\n\r\nCreating an environment for truth in music... \r\n...if the day ever comes when we have to compromise in any way, that's the day we close down the label.\r\n\r\nGreatest thanks to all the people who made my dream come true. P.N.\r\n\r\n= Produced at Sonic Studios Frankfurt for Namlook Productions =\r\n\r\nLimitation: 500",
+        "released": "1993-02-15",
+        "styles": {
+            "style": "Ambient"
+        },
+        "title": "Ambient Compilation 2",
+        "tracklist": {
+            "track": [
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "14125",
+                            "join": "",
+                            "name": "Sextant",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:08",
+                    "position": "1",
+                    "title": "Drug Oriented"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "14126",
+                            "join": "",
+                            "name": "Subsequence",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:56",
+                    "position": "2",
+                    "title": "Healthy And Beautiful"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "2910",
+                            "join": "",
+                            "name": "Hearts Of Space",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:12",
+                    "position": "3",
+                    "title": "Drawn"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "14127",
+                            "join": "",
+                            "name": "Synsyl",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:45",
+                    "position": "4",
+                    "title": "Angel"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "14128",
+                            "join": "",
+                            "name": "4Voice",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:24",
+                    "position": "5",
+                    "title": "The Mystery"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "2907",
+                            "join": "",
+                            "name": "Escape",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:46",
+                    "position": "6",
+                    "title": "Trip To Mars"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "2907",
+                            "join": "",
+                            "name": "Escape",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:28",
+                    "position": "7",
+                    "title": "Trip From Mars"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "2908",
+                            "join": "",
+                            "name": "Sequential",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:07",
+                    "position": "8",
+                    "title": "Lost In The Sea"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "14125",
+                            "join": "",
+                            "name": "Sextant",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:53",
+                    "position": "9",
+                    "title": "Missing You"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "2908",
+                            "join": "",
+                            "name": "Sequential",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "13:16",
+                    "position": "10",
+                    "title": "Sequenchill"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "14125",
+                            "join": "",
+                            "name": "Sextant",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:02",
+                    "position": "11",
+                    "title": "Lakeshore Drive"
+                }
+            ]
+        },
+        "videos": {
+            "video": {
+                "_duration": "3997",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=RnCVj1Kdnsg",
+                "description": "Released in February, 1993 on FAX +49-60/450464\n\nCompilation of ambient songs from early FAX 12” vinyl EPs.\n\n \n00:00 Sextant - Drug Oriented \n05:05 Subsequence - Healthy And Beautiful\n09:55 Hearts Of Space - Drawn\n13:48 Synsyl - Angel \n19:21 4Voice - Th",
+                "title": "[PK 08/02] Pete Namlook - FAX Ambient Compilation 2"
+            }
+        }
+    }
+}

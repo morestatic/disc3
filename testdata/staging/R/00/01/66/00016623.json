@@ -1,0 +1,203 @@
+{
+    "release": {
+        "_id": "16623",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "Namlook",
+                "id": "1910",
+                "join": "",
+                "name": "Pete Namlook",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "28325",
+                    "entity_type": "10",
+                    "entity_type_name": "Manufactured By",
+                    "id": "277449",
+                    "name": "P+O Pallas",
+                    "resource_url": "https://api.discogs.com/labels/277449"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "2315989",
+                    "name": "Interference Festival",
+                    "resource_url": "https://api.discogs.com/labels/2315989"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Composed By [Music]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "58657",
+                    "join": "",
+                    "name": "Peter Kuhlmann",
+                    "role": "Producer",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition",
+                        "Mixed"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "PK08/113 P+O-28325-A2 04-96"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "469",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "296",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "252",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "252"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/113",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Performed and composed live at Interference Festival/Love Parade in Berlin on July 8th, 1995 from 4.30 to 5.30 am.\nLimited to 1000 copies.",
+        "released": "1996-04-22",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Downtempo",
+                "Experimental",
+                "Techno"
+            ]
+        },
+        "title": "Namlook XI",
+        "tracklist": {
+            "track": {
+                "duration": "54:49",
+                "position": "",
+                "sub_tracks": {
+                    "track": [
+                        {
+                            "duration": "6:17",
+                            "position": "1",
+                            "title": "Whale I"
+                        },
+                        {
+                            "duration": "4:25",
+                            "position": "2",
+                            "title": "Whale II"
+                        },
+                        {
+                            "duration": "4:47",
+                            "position": "3",
+                            "title": "Whale III"
+                        },
+                        {
+                            "duration": "6:41",
+                            "position": "4",
+                            "title": "Whale IV"
+                        },
+                        {
+                            "duration": "1:42",
+                            "position": "5",
+                            "title": "Whale V"
+                        },
+                        {
+                            "duration": "3:17",
+                            "position": "6",
+                            "title": "Whale VI"
+                        },
+                        {
+                            "duration": "2:23",
+                            "position": "7",
+                            "title": "Whale VII"
+                        },
+                        {
+                            "duration": "13:58",
+                            "position": "8",
+                            "title": "Whale VIII"
+                        },
+                        {
+                            "duration": "1:41",
+                            "position": "9",
+                            "title": "Whale IX"
+                        },
+                        {
+                            "duration": "4:00",
+                            "position": "10",
+                            "title": "Whale X"
+                        },
+                        {
+                            "duration": "5:31",
+                            "position": "11",
+                            "title": "Whale XI"
+                        }
+                    ]
+                },
+                "title": "Passing Airwhales"
+            }
+        }
+    }
+}

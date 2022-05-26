@@ -1,0 +1,193 @@
+{
+    "release": {
+        "_id": "52630",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "42333",
+                "join": "",
+                "name": "Modula Green",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": {
+                "catno": "",
+                "entity_type": "10",
+                "entity_type_name": "Manufactured By",
+                "id": "291931",
+                "name": "CD Plant MFG",
+                "resource_url": "https://api.discogs.com/labels/291931"
+            }
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "Mark P.",
+                    "id": "79820",
+                    "join": "",
+                    "name": "Mark Pfurtscheller",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "785018",
+                    "join": "",
+                    "name": "redruM (9)",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "CD PLANT MFG PS 08/75 CDM01"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "594",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "463",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "599",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "298",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "500",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                },
+                {
+                    "_height": "603",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PS 08/75",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Modula Green\r\nFrankfurt 1995\r\n\r\nLimitation: 1,000",
+        "released": "1995-05-22",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Downtempo",
+                "Dub"
+            ]
+        },
+        "title": "Shellground",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "11:00",
+                    "position": "1",
+                    "title": "Evening Cloud"
+                },
+                {
+                    "duration": "9:15",
+                    "position": "2",
+                    "title": "Clusterbend"
+                },
+                {
+                    "duration": "12:39",
+                    "position": "3",
+                    "title": "The Orchid Trap"
+                },
+                {
+                    "duration": "15:23",
+                    "position": "4",
+                    "title": "Green Lava"
+                },
+                {
+                    "duration": "10:55",
+                    "position": "5",
+                    "title": "Shellground"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "3566",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=dEnMwgxIlC0",
+                    "description": "Artist: Modula Green\nAlbum: Shellground\nLabel: Fax +49-69/450464\nYear: 1995\n\nTracklist:\n1. Evening Cloud [0:00]\n2. Clusterbend [11:03]\n3. The Orchid Trap [20:20] **\n4. Green Lava [33:02] **\n5. Shellground [48:27] **\n\n** THIS TRACK NEVER BEFORE HEARD ON YO",
+                    "title": "Modula Green - Shellground (Full Album) [1995]"
+                },
+                {
+                    "_duration": "663",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=P1KDyYZoIH8",
+                    "description": "Shellground(1995)",
+                    "title": "Modula Green - Evening Cloud"
+                },
+                {
+                    "_duration": "561",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=BIN4EuxGctU",
+                    "description": "Modula Green - Shellground (PS 08/75) \n\nReleased 22 May 1995",
+                    "title": "Modula Green - Clusterbend (1995)"
+                }
+            ]
+        }
+    }
+}

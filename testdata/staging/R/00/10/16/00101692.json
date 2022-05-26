@@ -1,0 +1,226 @@
+{
+    "release": {
+        "_id": "101692",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "Tessier - Ashpool",
+                "id": "35488",
+                "join": "",
+                "name": "Tessier Ashpool",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "30",
+                    "entity_type_name": "Lacquer Cut At",
+                    "id": "158759",
+                    "name": "The Exchange",
+                    "resource_url": "https://api.discogs.com/labels/158759"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "17",
+                    "entity_type_name": "Pressed By",
+                    "id": "266587",
+                    "name": "Orlake Records",
+                    "resource_url": "https://api.discogs.com/labels/266587"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "287535",
+                    "name": "The Beat Farm",
+                    "resource_url": "https://api.discogs.com/labels/287535"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "279045",
+                    "name": "Remaximum Studios",
+                    "resource_url": "https://api.discogs.com/labels/279045"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "362251",
+                    "name": "Original Artists Music",
+                    "resource_url": "https://api.discogs.com/labels/362251"
+                }
+            ]
+        },
+        "country": "UK",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "Nilz",
+                    "id": "386598",
+                    "join": "",
+                    "name": "Nilesh Patel",
+                    "role": "Lacquer Cut By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "Tessier - Ashpool",
+                    "id": "35488",
+                    "join": "",
+                    "name": "Tessier Ashpool",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "625237",
+                    "join": "",
+                    "name": "Fuzzy Bear",
+                    "role": "Written-By, Performer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "625236",
+                    "join": "",
+                    "name": "Mike Dalton",
+                    "role": "Written-By, Performer",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Barcode",
+                    "_value": "5 025425 501869"
+                },
+                {
+                    "_description": "Etchings Side A",
+                    "_type": "Matrix / Runout",
+                    "_value": "LOAD.18.A B̶R̶O̶C̶K̶ ̶0̶0̶1̶ ̶X̶X̶  THE EXCHANGE - NILZ ORLAKE"
+                },
+                {
+                    "_description": "Etchings Side AA",
+                    "_type": "Matrix / Runout",
+                    "_value": "LOAD.18.AA B̶R̶O̶C̶K̶ ̶0̶0̶1̶ ̶X̶X̶  THE EXCHANGE - NILZ. ORLAKE"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "602",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "596",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "LOAD 18",
+                "_id": "40",
+                "_name": "Loaded Records"
+            }
+        },
+        "notes": "Recorded at Beat Farm \u0026 Remaximum Studios.",
+        "released": "1994",
+        "styles": {
+            "style": [
+                "Progressive House",
+                "Progressive Trance"
+            ]
+        },
+        "title": "Gravity / Zero G",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "12:20",
+                    "position": "A",
+                    "title": "Gravity"
+                },
+                {
+                    "duration": "9:40",
+                    "position": "AA",
+                    "title": "Zero G"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "574",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=FrRfmyHV5Aw",
+                    "description": "Tessier Ashpool -  Zero G [Loaded Records] (1994)",
+                    "title": "Tessier Ashpool -  Zero G [Loaded Records] (1994)"
+                },
+                {
+                    "_duration": "571",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=wKJKyTqIIoA",
+                    "description": "info: http://www.discogs.com/release/101692",
+                    "title": "Tessier Ashpool - Zero G (1994)"
+                },
+                {
+                    "_duration": "734",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=0RGKLgrjUUI",
+                    "description": "Loaded Records [LOAD 18]\n\nhttp://www.discogs.com/Tessier-Ashpool-Gravity-Zero-G/release/101692",
+                    "title": "Tessier-Ashpool - Gravity"
+                },
+                {
+                    "_duration": "736",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=bjvikyWhk-Q",
+                    "description": "Ripeado De Vinilo,Con Technics 1200 mk2,Capsula Ortofon Concorde,Pitch A 0,Ecualizacion Plana Con Ganancia De -3Db,En Wav De 24 Bits....\r\nPero YouTube Lo Reproduce A Mp3 De 128kbps,Asi Que Si Lo Descargas No Pierdas Espacio Guardandolo A Mas Kbps....",
+                    "title": "Tessier-Ashpool - Gravity - 1994"
+                },
+                {
+                    "_duration": "575",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=7EMhzRBz0gY",
+                    "description": "Ripeado De Vinilo,Con Technics 1200 mk2,Capsula Ortofon Concorde,Pitch A 0,Ecualizacion Plana Con Ganancia De -3Db,En Wav De 24 Bits....\r\nPero YouTube Lo Reproduce A Mp3 De 128kbps,Asi Que Si Lo Descargas No Pierdas Espacio Guardandolo A Mas Kbps....",
+                    "title": "Tessier-Ashpool - Zero G - 1994"
+                }
+            ]
+        }
+    }
+}

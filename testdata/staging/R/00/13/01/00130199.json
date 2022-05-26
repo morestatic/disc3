@@ -1,0 +1,414 @@
+{
+    "release": {
+        "_id": "130199",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "194",
+                "join": "",
+                "name": "Various",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "Netherlands",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": {
+                "anv": "DJ Michel De Heij",
+                "id": "8885",
+                "join": "",
+                "name": "Michel De Hey",
+                "role": "DJ Mix, Compiled By",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Compilation",
+                        "Mixed"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_type": "Barcode",
+                "_value": "8713637030358"
+            }
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "396",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "400"
+                },
+                {
+                    "_height": "395",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "400"
+                },
+                {
+                    "_height": "312",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "400"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "NAT 7703035",
+                "_id": "2665",
+                "_name": "Natural Records"
+            }
+        },
+        "released": "1997-06-03",
+        "styles": {
+            "style": [
+                "Techno",
+                "Tech House"
+            ]
+        },
+        "title": "Technological Elements 3",
+        "tracklist": {
+            "track": [
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "11903",
+                            "join": "",
+                            "name": "Eagles Prey",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "1",
+                    "title": "Feelin' Warm (Mothers Jummy Mummy Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1477",
+                            "join": "",
+                            "name": "Aubrey",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "2",
+                    "title": "Evacuation"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "8496",
+                            "join": "",
+                            "name": "Killer Loop",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "3",
+                    "title": "The Blue Hour (Slowtrain)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "6230",
+                            "join": "",
+                            "name": "King Dale",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "8885",
+                            "join": "",
+                            "name": "Michel De Hey",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "4",
+                    "title": "Big Bonus (Michel De Hey Future Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "24623",
+                            "join": "",
+                            "name": "Massivemen",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "5",
+                    "title": "C'est What ?"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "801",
+                            "join": "",
+                            "name": "Laidback Luke",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "6",
+                    "title": "Move Me"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "71242",
+                            "join": "",
+                            "name": "Happy Human",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "71243",
+                            "join": "",
+                            "name": "Secret Productions",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "7",
+                    "title": "Blow Your Own (Secret Productions Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "2894",
+                            "join": "",
+                            "name": "DJ Hyperactive",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "8",
+                    "title": "Wide Open"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "2905",
+                            "join": "",
+                            "name": "Acid Jesus",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "9",
+                    "title": "Interstate"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "82918",
+                            "join": "",
+                            "name": "Wringler",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "10",
+                    "title": "Barfly"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "20",
+                            "join": "",
+                            "name": "Percy X",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "11",
+                    "title": "Track 2"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "11356",
+                            "join": "",
+                            "name": "Night On Earth",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "12",
+                    "title": "Cathedra"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "68819",
+                            "join": "",
+                            "name": "Casa Royale",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "3636",
+                            "join": "",
+                            "name": "Continuous Cool",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "13",
+                    "title": "We All Need Your Love (Continious Cool Remix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "8566",
+                            "join": "",
+                            "name": "DJ Naughty",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "14",
+                    "title": "Rock Das Haus"
+                },
+                {
+                    "artists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "1505",
+                                "join": "\u0026",
+                                "name": "Trevor Rockcliffe",
+                                "role": "",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "1100",
+                                "join": "",
+                                "name": "Blake Baxter",
+                                "role": "",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "duration": "",
+                    "position": "15",
+                    "title": "Visions Of You (Oral Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "7638",
+                            "join": "",
+                            "name": "Quazar",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "16",
+                    "title": "Confusing The Sun"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1104",
+                            "join": "",
+                            "name": "Marshall Jefferson",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "17",
+                    "title": "The Horse"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "78523",
+                            "join": "",
+                            "name": "DJ Food (2)",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "18",
+                    "title": "The Unsafe World"
+                }
+            ]
+        },
+        "videos": {
+            "video": {
+                "_duration": "411",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=jouBAtVQoJM",
+                "description": "Blue Hour by Killer Loop on End Recordings.\r\nLayo \u0026 I made this track in 1998. We were in the watershed \u0026 we were on a roll, the magic just happened. This was End Recordings biggest single.\r\nI hope you enjoy. xx Mr.C",
+                "title": "Killer Loop - Blue Hour"
+            }
+        }
+    }
+}

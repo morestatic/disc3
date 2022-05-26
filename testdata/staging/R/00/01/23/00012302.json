@@ -1,0 +1,83 @@
+{
+    "release": {
+        "_id": "12302",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "Namlook",
+                "id": "1910",
+                "join": "",
+                "name": "Pete Namlook",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": "",
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "Mixed",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": {
+                "_height": "601",
+                "_type": "secondary",
+                "_uri": "",
+                "_uri150": "",
+                "_width": "600"
+            }
+        },
+        "labels": {
+            "label": {
+                "_catno": "SEA 02",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Limitation: 1000\r\n\r\n2nd CD of a series of four \"Musical Postcards\" CDs released in 1994, except for the 4th CD, \"Summer\", which is released in 1995.\r\n\r\nReleased in a clear plastic sleeve with no notes or tracklisting. \r\nThe artwork on the CD gives only 1 track, \"Seasons Greetings =Spring= (62:46)\", which is split into four parts on the CD.\r\n\r\nThe tracklist that appears here is taken from the original press release of \"Seasons Greeting =Spring=\".",
+        "released": "1994-06-06",
+        "styles": {
+            "style": "Ambient"
+        },
+        "title": "Seasons Greetings - Spring",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "13:48",
+                    "position": "1",
+                    "title": "Winter Is Leaving"
+                },
+                {
+                    "duration": "17:11",
+                    "position": "2",
+                    "title": "Dawn Of Spring"
+                },
+                {
+                    "duration": "13:41",
+                    "position": "3",
+                    "title": "A Cold Night"
+                },
+                {
+                    "duration": "18:05",
+                    "position": "4",
+                    "title": "From April To May"
+                }
+            ]
+        }
+    }
+}

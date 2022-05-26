@@ -1,0 +1,135 @@
+{
+    "release": {
+        "_id": "129991",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "15295",
+                "join": "",
+                "name": "Olympic",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "656016",
+                    "join": "",
+                    "name": "Stella Leu",
+                    "role": "Lyrics By, Voice",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "503",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                },
+                {
+                    "_height": "505",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/69",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Limitation: 500\r\n\"INSTINCT TELLS YOU WHAT TO DO - HOW YOUR BODY HAS TO MOVE\" \r\nIs Etched On Runout Groove On Side B",
+        "released": "1993-05-31",
+        "styles": {
+            "style": [
+                "Trance",
+                "House",
+                "Ambient"
+            ]
+        },
+        "title": "Olympic 4",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "7:28",
+                    "position": "A",
+                    "title": "Fly While You Dive"
+                },
+                {
+                    "duration": "6:27",
+                    "position": "B1",
+                    "title": "Fly While You Dive (Instrumental Version)"
+                },
+                {
+                    "duration": "7:17",
+                    "position": "B2",
+                    "title": "Subconscious Memories"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "449",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=EbNgB_AkXU4",
+                    "description": "Music: Pete Namlook\nVideo, Roboscan 585 and filming: Abstructure",
+                    "title": "Olympic - Fly While You Dive"
+                },
+                {
+                    "_duration": "386",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=q0SAnEgHLQw",
+                    "description": "http://www.discogs.com/Olympic-Olympic-4/release/129991\n\r\n\r-uploaded in HD at http://www.TunesToTube.com",
+                    "title": "Olympic ‎-  Fly While You Dive (Instrumental Version) (Trance 1993)"
+                },
+                {
+                    "_duration": "436",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=G4UwuGMATH4",
+                    "description": "Ambient for whose who know.",
+                    "title": "Olympic (Pete Namlook) - Subconscious Memories"
+                }
+            ]
+        }
+    }
+}

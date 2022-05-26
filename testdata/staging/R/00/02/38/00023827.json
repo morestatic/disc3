@@ -1,0 +1,293 @@
+{
+    "release": {
+        "_id": "23827",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "717227",
+                "join": "",
+                "name": "Whiplash (6)",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "29",
+                    "entity_type_name": "Mastered At",
+                    "id": "158759",
+                    "name": "The Exchange",
+                    "resource_url": "https://api.discogs.com/labels/158759"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "9",
+                    "entity_type_name": "Distributed By",
+                    "id": "285289",
+                    "name": "Prime Distribution",
+                    "resource_url": "https://api.discogs.com/labels/285289"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "265761",
+                    "name": "Container Publishing",
+                    "resource_url": "https://api.discogs.com/labels/265761"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "40",
+                    "name": "Loaded Records",
+                    "resource_url": "https://api.discogs.com/labels/40"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "40",
+                    "name": "Loaded Records",
+                    "resource_url": "https://api.discogs.com/labels/40"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "30",
+                    "entity_type_name": "Lacquer Cut At",
+                    "id": "158759",
+                    "name": "The Exchange",
+                    "resource_url": "https://api.discogs.com/labels/158759"
+                }
+            ]
+        },
+        "country": "UK",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "Simon",
+                    "id": "92821",
+                    "join": "",
+                    "name": "Simon Davey",
+                    "role": "Lacquer Cut By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "Guy's",
+                    "id": "369860",
+                    "join": "",
+                    "name": "Guy Davie",
+                    "role": "Mastered By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1529",
+                    "join": "",
+                    "name": "Martin Venetjoki",
+                    "role": "Producer, Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Barcode",
+                    "_value": "5025 425 4 086 25"
+                },
+                {
+                    "_description": "Etched runout A",
+                    "_type": "Matrix / Runout",
+                    "_value": "LOAD 86 A1 SIMON THE EXCHANGE"
+                },
+                {
+                    "_description": "Etched runout B",
+                    "_type": "Matrix / Runout",
+                    "_value": "LOAD 86 AA1"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "587"
+                },
+                {
+                    "_height": "595",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "603",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "LOAD 86",
+                "_id": "40",
+                "_name": "Loaded Records"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "false",
+            "content": "141506"
+        },
+        "released": "2001",
+        "styles": {
+            "style": [
+                "Deep House",
+                "Tech House"
+            ]
+        },
+        "title": "Ghetto Tears",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "5:50",
+                    "position": "A1",
+                    "title": "Ghetto Tears"
+                },
+                {
+                    "duration": "7:01",
+                    "position": "A2",
+                    "title": "Cryin'"
+                },
+                {
+                    "duration": "7:21",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "4802",
+                            "join": "",
+                            "name": "Red Moon",
+                            "role": "Remix, Producer [Additional]",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "AA1",
+                    "title": "Ghetto Tears (Red Moon 'No Fucking' Remix)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "375",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=c59Zl05hjpM",
+                    "description": "Tear The F**king Club Up",
+                    "title": "Whiplash - Ghetto Tears [House]"
+                },
+                {
+                    "_duration": "196",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Tuael8ti1-g",
+                    "description": "store.jeffersonave.com/track/tear-the-club-up\n\nDJ Assault:\nfacebook.com/jeffersonavellc\ntwitter.com/djassault\ninstagram.com/djassault1",
+                    "title": "DJ Assault - Tear The Club Up"
+                },
+                {
+                    "_duration": "381",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Ocq60bGJpFQ",
+                    "description": "",
+                    "title": "Whiplash - Ghetto Tears - Erick Morillo Remix"
+                },
+                {
+                    "_duration": "436",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=LBifq6zh7-o",
+                    "description": "Provided to YouTube by Loaded records\n\nGhetto Tears (Red Moon No Fucking Remix) · Whiplash\n\nGhetto Tears\n\n℗ 2001 Loaded Records Limited, a BMG Company\n\nPerformance: Whiplash\n\nAuto-generated by YouTube.",
+                    "title": "Ghetto Tears (Red Moon No Fucking Remix)"
+                },
+                {
+                    "_duration": "421",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=W7KNdTdfVmc",
+                    "description": "Provided to YouTube by Loaded records\n\nCryin' · Whiplash\n\nGhetto Tears\n\n℗ 2001 Loaded Records Limited, a BMG Company\n\nPerformance: Whiplash\n\nAuto-generated by YouTube.",
+                    "title": "Cryin'"
+                },
+                {
+                    "_duration": "377",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=aHnqcF2tHYU",
+                    "description": "Provided to YouTube by Loaded Records\n\nGhetto Tears (Erick Morillo Remix) · Whiplash\n\nFine House Music, Vol. 2\n\n℗ 2002 Loaded Records Limited, a BMG Company\n\nPerformance: Whiplash\n\nAuto-generated by YouTube.",
+                    "title": "Ghetto Tears (Erick Morillo Remix)"
+                },
+                {
+                    "_duration": "118",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=r66TEllCw6w",
+                    "description": "Provided to YouTube by Loaded Records\n\nGhetto Tears (Erick Morillo Accapella No. 2) · Whiplash\n\nGhetto Tears\n\n℗ 2002 Loaded Records Limited, a BMG Company\n\nPerformance: Whiplash\n\nAuto-generated by YouTube.",
+                    "title": "Ghetto Tears (Erick Morillo Accapella No. 2)"
+                },
+                {
+                    "_duration": "444",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Zn_UAIl5Xc4",
+                    "description": "",
+                    "title": "Whiplash - Ghetto Tears (Red Moon ''No Fucking'' Remix)"
+                },
+                {
+                    "_duration": "351",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=nwYFZwi6x-Y",
+                    "description": "Provided to YouTube by Loaded records\n\nGhetto Tears · Whiplash\n\nGhetto Tears\n\n℗ 2001 Loaded Records Limited, a BMG Company\n\nPerformance: Whiplash\n\nAuto-generated by YouTube.",
+                    "title": "Ghetto Tears"
+                },
+                {
+                    "_duration": "378",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=aRzGVrFtm0M",
+                    "description": "Provided to YouTube by Loaded Records\n\nGhetto Tears (Erick Morillo Remix) · Whiplash\n\nGhetto Tears\n\n℗ 2002 Loaded Records Limited, a BMG Company\n\nPerformance: Whiplash\n\nAuto-generated by YouTube.",
+                    "title": "Ghetto Tears (Erick Morillo Remix)"
+                },
+                {
+                    "_duration": "476",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=qHvGQBKbmLw",
+                    "description": "https://www.discogs.com/es/Whiplash-Ghetto-Tears/release/89955",
+                    "title": "Whiplash - Ghetto Tears (Phil Kieran Breaks Remix)"
+                },
+                {
+                    "_duration": "473",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Ba9H7uqvMx8",
+                    "description": "Provided to YouTube by BMG Rights Management (UK) Limited\n\nGhetto Tears (Phil Kieran Breaks Mix) · Whiplash\n\nGhetto Tears\n\n℗ 2002 Loaded Records Limited, a BMG Company\n\nReleased on: 2002-04-15\n\nPerformer: Whiplash\nComposer: Martin Venetjoki\nComposer: C",
+                    "title": "Ghetto Tears (Phil Kieran Breaks Mix)"
+                }
+            ]
+        }
+    }
+}

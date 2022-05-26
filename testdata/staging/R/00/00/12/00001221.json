@@ -1,0 +1,637 @@
+{
+    "release": {
+        "_id": "1221",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "239",
+                "join": "",
+                "name": "Jesper Dahlbäck",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "271046",
+                    "name": "The Globe Studios",
+                    "resource_url": "https://api.discogs.com/labels/271046"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "9",
+                    "entity_type_name": "Distributed By",
+                    "id": "285289",
+                    "name": "Prime Distribution",
+                    "resource_url": "https://api.discogs.com/labels/285289"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "9",
+                    "entity_type_name": "Distributed By",
+                    "id": "11354",
+                    "name": "Koch International",
+                    "resource_url": "https://api.discogs.com/labels/11354"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "9",
+                    "entity_type_name": "Distributed By",
+                    "id": "280823",
+                    "name": "La Baleine Distribution",
+                    "resource_url": "https://api.discogs.com/labels/280823"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "10",
+                    "entity_type_name": "Manufactured By",
+                    "id": "264131",
+                    "name": "Cinram",
+                    "resource_url": "https://api.discogs.com/labels/264131"
+                }
+            ]
+        },
+        "country": "Canada",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "239",
+                    "join": "",
+                    "name": "Jesper Dahlbäck",
+                    "role": "DJ Mix, Compiled By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "400111",
+                    "join": "",
+                    "name": "Benno (2)",
+                    "role": "Design, Art Direction",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "2271690",
+                    "join": "",
+                    "name": "Marek Vogel",
+                    "role": "Photography By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Compilation",
+                        "Mixed"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Barcode",
+                    "_value": "671665001123"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "#00706X08 MAR-CD-011 L386 CINRAM 21"
+                },
+                {
+                    "_type": "Mould SID Code",
+                    "_value": "IFPI 6000"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "536",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "531",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "603",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": [
+                {
+                    "_catno": "MARCD-011",
+                    "_id": "242",
+                    "_name": "Turbo"
+                },
+                {
+                    "_catno": "MARCD00112",
+                    "_id": "242",
+                    "_name": "Turbo"
+                }
+            ]
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "1594284"
+        },
+        "notes": "Made in Canada.\n\nIssued in a 6-panel Digipak.",
+        "released": "2000",
+        "styles": {
+            "style": [
+                "House",
+                "Deep House"
+            ]
+        },
+        "title": "Stockholm Mix Sessions 2",
+        "tracklist": {
+            "track": [
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1029",
+                            "join": "",
+                            "name": "I:Cube",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:06",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "Jeff Chestik",
+                                "id": "359111",
+                                "join": "",
+                                "name": "Jeff Chestek",
+                                "role": "Mixed By, Engineer",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "1749",
+                                "join": "",
+                                "name": "King Britt",
+                                "role": "Remix, Producer [Additional]",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "462693",
+                                "join": "",
+                                "name": "Nicolas Chaix",
+                                "role": "Written-By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "1",
+                    "title": "Adore (King Britt's Scuba Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "Pascal",
+                            "id": "19543",
+                            "join": "",
+                            "name": "Pascal Rioux",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:52",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "Mister Day",
+                                "id": "2929",
+                                "join": "",
+                                "name": "Mr. Day",
+                                "role": "Vocals",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "19543",
+                                "join": "",
+                                "name": "Pascal Rioux",
+                                "role": "Written-By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "2",
+                    "title": "Into A Dream"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1476",
+                            "join": "",
+                            "name": "Metro Area",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "2:55",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1476",
+                            "join": "",
+                            "name": "Metro Area",
+                            "role": "Written-By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "3",
+                    "title": "Atmosphrique"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "666",
+                            "join": "",
+                            "name": "Cpen",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:53",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "666",
+                            "join": "",
+                            "name": "Cpen",
+                            "role": "Written-By, Producer",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "4",
+                    "title": "Pirate's Life"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "233",
+                            "join": "",
+                            "name": "Sunday Brunch",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:06",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "Mark O Sullivan",
+                                "id": "143350",
+                                "join": "",
+                                "name": "Mark O'Sullivan",
+                                "role": "Vocals",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "J.Dahlbäck",
+                                "id": "239",
+                                "join": "",
+                                "name": "Jesper Dahlbäck",
+                                "role": "Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "S.Nimrell",
+                                "id": "884504",
+                                "join": "",
+                                "name": "Sebastian Nimrell",
+                                "role": "Written-By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "5",
+                    "title": "Things You Said"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "203",
+                            "join": "",
+                            "name": "Universal Tongues",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "2:48",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "203",
+                            "join": "",
+                            "name": "Universal Tongues",
+                            "role": "Written-By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "6",
+                    "title": "Form Of Being"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "28",
+                            "join": "",
+                            "name": "Moonchildren",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:14",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "57",
+                            "join": "",
+                            "name": "Chris Gray",
+                            "role": "Written-By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "7",
+                    "title": "Ran Away"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "50",
+                            "join": "",
+                            "name": "ADNY",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:12",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "Dahlbäck",
+                                "id": "239",
+                                "join": "",
+                                "name": "Jesper Dahlbäck",
+                                "role": "Remix",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "26",
+                                "join": "",
+                                "name": "Alexi Delano",
+                                "role": "Written-By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "8",
+                    "title": "Dreaming (Dahlbäck Rmx)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "736",
+                            "join": "",
+                            "name": "Luomo",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:52",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "736",
+                                "join": "",
+                                "name": "Luomo",
+                                "role": "Producer",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "406",
+                                "join": "",
+                                "name": "Vladislav Delay",
+                                "role": "Written-By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "9",
+                    "title": "Market"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "53",
+                            "join": "",
+                            "name": "Casey Hogan",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:08",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "53",
+                            "join": "",
+                            "name": "Casey Hogan",
+                            "role": "Written-By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "10",
+                    "title": "Under My Skin"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "Tribedelics",
+                            "id": "3316",
+                            "join": "",
+                            "name": "Tribadelics",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:47",
+                    "position": "11",
+                    "title": "I Am"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "665",
+                            "join": "",
+                            "name": "The Rurals",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:56",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "Compton",
+                            "id": "327285",
+                            "join": "",
+                            "name": "Andy Compton",
+                            "role": "Written-By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "12",
+                    "title": "My Mind Is Blank"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1748",
+                            "join": "",
+                            "name": "Next Evidence",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:03",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "JP",
+                                "id": "45609",
+                                "join": "",
+                                "name": "Jean-Paul Maunick",
+                                "role": "Guitar",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "Maxime C",
+                                "id": "509690",
+                                "join": "",
+                                "name": "Maxime Cohen",
+                                "role": "Producer, Arranged By, Mixed By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "Michael T",
+                                "id": "425398",
+                                "join": "",
+                                "name": "Michael Tordjman",
+                                "role": "Producer, Arranged By, Mixed By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "938065",
+                                "join": "",
+                                "name": "Denis Guivarc'h",
+                                "role": "Saxophone",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "Nicholas Krachilsik",
+                                "id": "509495",
+                                "join": "",
+                                "name": "Nicolas Krassilchik",
+                                "role": "Timbales",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "13",
+                    "title": "Dune"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "671",
+                            "join": "",
+                            "name": "Brommage Dub",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:44",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "J.L. Huhta",
+                                "id": "149982",
+                                "join": "",
+                                "name": "Jean-Louis Huhta",
+                                "role": "Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "239",
+                                "join": "",
+                                "name": "Jesper Dahlbäck",
+                                "role": "Written-By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "14",
+                    "title": "Trinity"
+                }
+            ]
+        },
+        "videos": {
+            "video": {
+                "_duration": "4240",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=wYDtj26p7Ac",
+                "description": "Jesper reached a wide ranging audience with the 2 djmix compilations he released on Turbo, now out of print to my knowledge. Vol 1 can be found multiple locations online, however a quick search turned up nada for this 2nd edition. JD is 1 of the most dive",
+                "title": "Jesper Dahlback- Stockholm Mix Sessions Volume 2- 2000"
+            }
+        }
+    }
+}

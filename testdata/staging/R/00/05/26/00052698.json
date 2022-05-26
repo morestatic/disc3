@@ -1,0 +1,195 @@
+{
+    "release": {
+        "_id": "52698",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "42338",
+                "join": "",
+                "name": "Supergroup",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": {
+                "catno": "",
+                "entity_type": "23",
+                "entity_type_name": "Recorded At",
+                "id": "579933",
+                "name": "Octopus One San Francisco",
+                "resource_url": "https://api.discogs.com/labels/579933"
+            }
+        },
+        "country": "Germany",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "CUE",
+                    "id": "41714",
+                    "join": "",
+                    "name": "Charles Uzzell-Edwards",
+                    "role": "Graphics",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "3424688",
+                    "join": "",
+                    "name": "Eliott Walters",
+                    "role": "Photography By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "41714",
+                    "join": "",
+                    "name": "Charles Uzzell-Edwards",
+                    "role": "Written-By, Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "30777",
+                    "join": "",
+                    "name": "Mammal",
+                    "role": "Written-By, Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "815153",
+                    "join": "",
+                    "name": "Prof. Phartiphuckborlz",
+                    "role": "Written-By, Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "324067",
+                    "join": "",
+                    "name": "Thomas Bullock",
+                    "role": "Written-By, Producer",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Limited Edition",
+                        "Album"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_type": "Label Code",
+                "_value": "LC 6269"
+            }
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "349",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "349"
+                },
+                {
+                    "_height": "216",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "247"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PS 08/88",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Limitation: 1000\r\nRecorded at Octopus One San Francisco\r\n\r\nFrom the cover: Allons danser avec le concept album par supergroup",
+        "released": "1997-03-31",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Dub",
+                "Experimental"
+            ]
+        },
+        "title": "Supergroup",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "13:27",
+                    "position": "1",
+                    "title": "Nous Sommes Dans Le Mix"
+                },
+                {
+                    "duration": "3:00",
+                    "position": "2",
+                    "title": "Little Girl"
+                },
+                {
+                    "duration": "17:41",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "26973",
+                            "join": "",
+                            "name": "Darkhorse",
+                            "role": "Performer [Additional Tweakage]",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "3",
+                    "title": "Angry Man"
+                },
+                {
+                    "duration": "1:27",
+                    "position": "4",
+                    "title": "A Glass Table And A Spoon"
+                },
+                {
+                    "duration": "2:57",
+                    "position": "5",
+                    "title": "Pookies Japanese Adventure"
+                },
+                {
+                    "duration": "11:01",
+                    "position": "6",
+                    "title": "MAD MAD MAD"
+                },
+                {
+                    "duration": "14:12",
+                    "position": "7",
+                    "title": "Supergroup Sunday"
+                }
+            ]
+        },
+        "videos": {
+            "video": {
+                "_duration": "3826",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=P0JnsN_AXIU",
+                "description": "Released in March, 1997 on FAX +49-69/450464\n\n\n00:00 Nous Sommes Dans Le Mix\n13:26 Little Girl\n16:27 Angry Man\n34:08 A Glass Table And A Spoon\n35:35 Pookies Japanese Adventure\n38:32 MAD MAD MAD\n49:33 Supergroup Sunday",
+                "title": "[PS 08/88] Charles Uzzell-Edwards \u0026 Thomas Bullock - Supergroup"
+            }
+        }
+    }
+}

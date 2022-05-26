@@ -1,0 +1,294 @@
+{
+    "release": {
+        "_id": "168263",
+        "_status": "Accepted",
+        "artists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "17799",
+                    "join": "Featuring",
+                    "name": "Bad Boy Bill",
+                    "role": "",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "2759",
+                    "join": "",
+                    "name": "Kevin Irving",
+                    "role": "",
+                    "tracks": ""
+                }
+            ]
+        },
+        "companies": "",
+        "country": "US",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "2759",
+                    "join": "",
+                    "name": "Kevin Irving",
+                    "role": "Vocals [Featuring]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "J.Flores",
+                    "id": "3021",
+                    "join": "",
+                    "name": "JJ Flores",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "K.Irving",
+                    "id": "2759",
+                    "join": "",
+                    "name": "Kevin Irving",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "W.Renkosik",
+                    "id": "666534",
+                    "join": "",
+                    "name": "William Renkosik",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "12\""
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_description": "Scanned Barcode",
+                "_type": "Barcode",
+                "_value": "713405966511"
+            }
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "596",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "607",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "578",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "589",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "MDR9665-1",
+                "_id": "20",
+                "_name": "Moody Recordings"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "277859"
+        },
+        "notes": "3rd original artist release by Bad Boy Bill.",
+        "released": "2003",
+        "styles": {
+            "style": [
+                "House",
+                "Deep House",
+                "Disco"
+            ]
+        },
+        "title": "Happy",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "Blak Beatniks",
+                            "id": "2086",
+                            "join": "",
+                            "name": "Blak Beat Niks",
+                            "role": "Remix, Producer [Additional]",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "A",
+                    "title": "Happy (Blak Beatniks Rmx)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "56604",
+                                "join": "",
+                                "name": "Freak (2)",
+                                "role": "Guitar",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "17799",
+                                "join": "",
+                                "name": "Bad Boy Bill",
+                                "role": "Producer",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "3021",
+                                "join": "",
+                                "name": "JJ Flores",
+                                "role": "Producer",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "9680",
+                                "join": "",
+                                "name": "Alex Peace",
+                                "role": "Producer [Additional]",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "4267",
+                                "join": "",
+                                "name": "Steve Smooth",
+                                "role": "Producer [Additional]",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "B1",
+                    "title": "Happy (Original Mix)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "574590",
+                                "join": "",
+                                "name": "Adam Krier",
+                                "role": "Guitar [Additional]",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "137105",
+                                "join": "",
+                                "name": "JJ Flores \u0026 Steve Smooth",
+                                "role": "Mixed By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "17799",
+                                "join": "",
+                                "name": "Bad Boy Bill",
+                                "role": "Remix",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "3021",
+                                "join": "",
+                                "name": "JJ Flores",
+                                "role": "Remix",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "4267",
+                                "join": "",
+                                "name": "Steve Smooth",
+                                "role": "Remix",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "B2",
+                    "title": "Happy (Dub Mix)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "413",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=yhxjCBJKcgE",
+                    "description": "Bad Boy Bill feat. Kevin Irving - Happy",
+                    "title": "Bad Boy Bill feat. Kevin Irving - Happy"
+                },
+                {
+                    "_duration": "568",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=qu2zgXobRoU",
+                    "description": "Label: Moody Recordings -- MDR9665-1\nFormat: Vinyl, 12 (on the A side)\nCountry: US\nReleased: 2003\n\nImage from: http://www.flickr.com/photos/82742117@N00/5475262973/\n\nI am aware this song was uploaded already, but I wanted to provide a higher quality vers",
+                    "title": "Bad Boy Bill - Happy (Blak Beatniks Remix) [HD]"
+                },
+                {
+                    "_duration": "568",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=czXo4B_nPKY",
+                    "description": "Provided to YouTube by Symphonic Distribution\n\nHappy (feat. Kevin Irving) · Bad Boy Bill · Kevin Irving · Blak Beatnik\n\nHappy (feat. Kevin Irving)\n\n℗ 2013 Moody Recordings\n\nReleased on: 2013-08-25\n\nFeaturing: Kevin Irving\nRemixer: Blak Beatnik\n\nAuto-",
+                    "title": "Happy (feat. Kevin Irving)"
+                }
+            ]
+        }
+    }
+}

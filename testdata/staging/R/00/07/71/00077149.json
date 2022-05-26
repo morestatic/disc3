@@ -1,0 +1,250 @@
+{
+    "release": {
+        "_id": "77149",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "50",
+                "join": "",
+                "name": "ADNY",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "29",
+                    "entity_type_name": "Mastered At",
+                    "id": "190672",
+                    "name": "Heathmans Mastering",
+                    "resource_url": "https://api.discogs.com/labels/190672"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "290467",
+                    "name": "Minimum Studio",
+                    "resource_url": "https://api.discogs.com/labels/290467"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "290466",
+                    "name": "Stim Music",
+                    "resource_url": "https://api.discogs.com/labels/290466"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "7921",
+                    "name": "Court Square Recordings",
+                    "resource_url": "https://api.discogs.com/labels/7921"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "7921",
+                    "name": "Court Square Recordings",
+                    "resource_url": "https://api.discogs.com/labels/7921"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "10",
+                    "entity_type_name": "Manufactured By",
+                    "id": "290468",
+                    "name": "Syntax Distribution",
+                    "resource_url": "https://api.discogs.com/labels/290468"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "9",
+                    "entity_type_name": "Distributed By",
+                    "id": "290468",
+                    "name": "Syntax Distribution",
+                    "resource_url": "https://api.discogs.com/labels/290468"
+                }
+            ]
+        },
+        "country": "US",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "www.skriblz.com",
+                    "id": "1962765",
+                    "join": "",
+                    "name": "Skriblz",
+                    "role": "Artwork",
+                    "tracks": ""
+                },
+                {
+                    "anv": "Chris A.",
+                    "id": "354214",
+                    "join": "",
+                    "name": "Chris Alexander",
+                    "role": "Mastered By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "14302",
+                    "join": "",
+                    "name": "Rebecca Shoichet",
+                    "role": "Vocals, Lyrics By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "26",
+                    "join": "",
+                    "name": "Alexi Delano",
+                    "role": "Written-By, Producer",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "CSR-003 A .Chris A. HEATHMANS-"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "CSR-003 B .Chris A."
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "595"
+                },
+                {
+                    "_height": "595",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "CSR003",
+                "_id": "7921",
+                "_name": "Court Square Recordings"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "129544"
+        },
+        "notes": "Mastered at Heathmans.\r\nRecorded at Minimum Studio - NY.\r\nPublished By Stim Music, Sweden.\r\nManufactured and distributed by Syntax Distribution. \r\n(P)(C) CourtSquareRecordings 2002\r\nLIC Music (BMI)",
+        "released": "2003",
+        "styles": {
+            "style": [
+                "House",
+                "Deep House",
+                "Tech House"
+            ]
+        },
+        "title": "There I Go Again",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "733",
+                            "join": "",
+                            "name": "Morgan Page",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "A1",
+                    "title": "There I Go Again (Morgan Page Main Mix)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "733",
+                            "join": "",
+                            "name": "Morgan Page",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "A2",
+                    "title": "There I Go Again (Morgan Page Dub Mix)"
+                },
+                {
+                    "duration": "",
+                    "position": "B1",
+                    "title": "There I Go Again (Original Mix)"
+                },
+                {
+                    "duration": "",
+                    "position": "B2",
+                    "title": "Just Hold On"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "373",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Xj2z26RWq9c",
+                    "description": "",
+                    "title": "ADNY - There I Go Again (Morgan Page Main Mix) _ CSR 003 Promo"
+                },
+                {
+                    "_duration": "383",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=_-tV4lGlbos",
+                    "description": "",
+                    "title": "adny   there I go again morgan page mix"
+                },
+                {
+                    "_duration": "358",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=uA7ZwLWkmLU",
+                    "description": "ADNY - There I Go Again [Court Square, 2002]",
+                    "title": "ADNY - There I Go Again [Court Square, 2002]"
+                }
+            ]
+        }
+    }
+}

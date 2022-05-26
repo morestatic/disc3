@@ -1,0 +1,258 @@
+{
+    "release": {
+        "_id": "49348",
+        "_status": "Accepted",
+        "artists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "29599",
+                    "join": "Featuring",
+                    "name": "The Dark Side Of The Moog",
+                    "role": "",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "661",
+                    "join": "",
+                    "name": "Bill Laswell",
+                    "role": "",
+                    "tracks": ""
+                }
+            ]
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "294530",
+                    "name": "Moldau Musikstudio",
+                    "resource_url": "https://api.discogs.com/labels/294530"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "265012",
+                    "name": "Klanglabor Hödeshof",
+                    "resource_url": "https://api.discogs.com/labels/265012"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "277133",
+                    "name": "Greenpoint Studios",
+                    "resource_url": "https://api.discogs.com/labels/277133"
+                },
+                {
+                    "catno": "35052",
+                    "entity_type": "10",
+                    "entity_type_name": "Manufactured By",
+                    "id": "277449",
+                    "name": "P+O Pallas",
+                    "resource_url": "https://api.discogs.com/labels/277449"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "661",
+                    "join": "",
+                    "name": "Bill Laswell",
+                    "role": "Featuring",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "2118078",
+                    "join": "",
+                    "name": "PEK (3)",
+                    "role": "Graphics",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "58657",
+                    "join": "",
+                    "name": "Peter Kuhlmann",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "661",
+                    "join": "",
+                    "name": "Bill Laswell",
+                    "role": "Written-By",
+                    "tracks": "1.4"
+                },
+                {
+                    "anv": "",
+                    "id": "10360",
+                    "join": "",
+                    "name": "Klaus Schulze",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "PK 08/133  P+O-35052-A1  09-97"
+                },
+                {
+                    "_type": "Mastering SID Code",
+                    "_value": "IFPI L961"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "468",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "610",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "300",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "598",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/133",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "13989"
+        },
+        "notes": "Recorded at Klanglabor, Traben-Trarbach, Moldau Musik Studio \u0026 Greenpoint, Brooklyn.\n\nLimitation: 2000\n\nDuration of sub-tracks was taken from cd-player.",
+        "released": "1997-09-29",
+        "styles": {
+            "style": [
+                "Abstract",
+                "Ambient",
+                "Trance"
+            ]
+        },
+        "title": "The Dark Side Of The Moog VI",
+        "tracklist": {
+            "track": {
+                "duration": "64:20",
+                "position": "",
+                "sub_tracks": {
+                    "track": [
+                        {
+                            "duration": "7:55",
+                            "position": "1",
+                            "title": "Part I"
+                        },
+                        {
+                            "duration": "7:09",
+                            "position": "2",
+                            "title": "Part II"
+                        },
+                        {
+                            "duration": "4:42",
+                            "position": "3",
+                            "title": "Part III"
+                        },
+                        {
+                            "duration": "9:41",
+                            "position": "4",
+                            "title": "Part IV"
+                        },
+                        {
+                            "duration": "24:10",
+                            "position": "5",
+                            "title": "Part V"
+                        },
+                        {
+                            "duration": "10:41",
+                            "position": "6",
+                            "title": "Part VI"
+                        }
+                    ]
+                },
+                "title": "The Final DAT"
+            }
+        },
+        "videos": {
+            "video": {
+                "_duration": "3859",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=cBF48MUMWT8",
+                "description": "Artists : Pete Namlook \u0026 Klaus Schulze (feat Bill Laswell)\nAlbum : The Dark Side of the Moog 6\nSongs : The Final DAT (Parts I-VI)\nRelesed in 1997\n\nAll tracks created by\nPete Namlook, Klaus Schulze \n\u0026 Bill Laswell (IV)",
+                "title": "Pete Namlook \u0026 Klaus Schulze - The Dark Side of the Moog 6 [The Final DAT] [full album]"
+            }
+        }
+    }
+}

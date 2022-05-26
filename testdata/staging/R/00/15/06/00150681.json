@@ -1,0 +1,534 @@
+{
+    "release": {
+        "_id": "150681",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "6092",
+                "join": "",
+                "name": "WestBam",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "9",
+                    "entity_type_name": "Distributed By",
+                    "id": "25487",
+                    "name": "Sony Music",
+                    "resource_url": "https://api.discogs.com/labels/25487"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "32822",
+                    "name": "Sony Music Entertainment (Japan) Inc.",
+                    "resource_url": "https://api.discogs.com/labels/32822"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "32822",
+                    "name": "Sony Music Entertainment (Japan) Inc.",
+                    "resource_url": "https://api.discogs.com/labels/32822"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "10",
+                    "entity_type_name": "Manufactured By",
+                    "id": "32822",
+                    "name": "Sony Music Entertainment (Japan) Inc.",
+                    "resource_url": "https://api.discogs.com/labels/32822"
+                }
+            ]
+        },
+        "country": "Japan",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "6092",
+                "join": "",
+                "name": "WestBam",
+                "role": "DJ Mix",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Compilation",
+                        "Mixed"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Barcode",
+                    "_value": "4 988009 853994"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "PUA-807 1"
+                },
+                {
+                    "_type": "Mastering SID Code",
+                    "_value": "IFPI L275"
+                },
+                {
+                    "_type": "Mould SID Code",
+                    "_value": "IFPI 4576"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "688",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "474",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "473",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "639",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "529",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "568",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "604",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "684",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "1175",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "SRCS 8539",
+                "_id": "1524765",
+                "_name": "MXU"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "false",
+            "content": "668610"
+        },
+        "released": "1998-03-21",
+        "styles": {
+            "style": [
+                "Techno",
+                "Electro"
+            ]
+        },
+        "title": "DJF 125 - DJ Freundschaft",
+        "tracklist": {
+            "track": [
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "47010",
+                            "join": "",
+                            "name": "My Mine",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "1",
+                    "title": "Hypnotic Tango"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "882",
+                            "join": "",
+                            "name": "Phuture The Next Generation",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "2",
+                    "title": "Times Fade (Club Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "13197",
+                            "join": "",
+                            "name": "Le Car",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "3",
+                    "title": "Aluminum Rectangles"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "49592",
+                            "join": "",
+                            "name": "Grumptronix",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1466",
+                            "join": "",
+                            "name": "Will Web",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "4",
+                    "title": "Pocket Rocket (Will Web's Teklord On Deathrow Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "24851",
+                            "join": "",
+                            "name": "L.U.P.O.",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "5",
+                    "title": "Smurf Thing"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "20",
+                            "join": "",
+                            "name": "Percy X",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "6",
+                    "title": "Soul Go"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "6092",
+                            "join": "",
+                            "name": "WestBam",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "7",
+                    "title": "Is It Raw Enough?"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "8828",
+                            "join": "",
+                            "name": "DJ Godfather",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "8",
+                    "title": "Pump"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "183657",
+                            "join": "",
+                            "name": "Professor Taub-Karcher",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "9",
+                    "title": "Die Dunkelsequenz"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "6916",
+                            "join": "",
+                            "name": "Freestyles",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "10",
+                    "title": "Play The Game"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1118",
+                            "join": "",
+                            "name": "Neil Landstrumm",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "11",
+                    "title": "Monaco Grandprix"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1579",
+                            "join": "",
+                            "name": "Luke Slater",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "12",
+                    "title": "Stomp"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "66373",
+                            "join": "",
+                            "name": "Lime (2)",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "13",
+                    "title": "On The Grid"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "8565",
+                            "join": "",
+                            "name": "Soundhack",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "14",
+                    "title": "A2"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "16322",
+                            "join": "",
+                            "name": "Snitzer \u0026 McCoy",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "15",
+                    "title": "Oh My Darling, I Love You"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "26233",
+                            "join": "",
+                            "name": "Time Zone",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "40586",
+                            "join": "",
+                            "name": "John Lydon",
+                            "role": "Vocals",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "16",
+                    "title": "World Destruction"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "279",
+                            "join": "",
+                            "name": "JB³",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1579",
+                            "join": "",
+                            "name": "Luke Slater",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "17",
+                    "title": "Forklift (Luke Slater Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "6092",
+                            "join": "",
+                            "name": "WestBam",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "18",
+                    "title": "Sumo Clock"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "8565",
+                            "join": "",
+                            "name": "Soundhack",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "19",
+                    "title": "B2"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "6092",
+                            "join": "",
+                            "name": "WestBam",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "20",
+                    "title": "Endlos"
+                }
+            ]
+        }
+    }
+}

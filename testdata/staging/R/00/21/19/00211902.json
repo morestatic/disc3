@@ -1,0 +1,370 @@
+{
+    "release": {
+        "_id": "211902",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "30",
+                "join": "",
+                "name": "Groove Collective",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "US",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "35068",
+                    "join": "",
+                    "name": "Jeannie Hopper",
+                    "role": "A\u0026R",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "92196",
+                    "join": "",
+                    "name": "Jonathan Maron",
+                    "role": "Bass",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "30",
+                    "join": "",
+                    "name": "Groove Collective",
+                    "role": "Co-producer [Original]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "6549",
+                    "join": "",
+                    "name": "Richard Worth",
+                    "role": "Flute",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "36607",
+                    "join": "",
+                    "name": "Itaal Shur",
+                    "role": "Keyboards, Acoustic Guitar",
+                    "tracks": ""
+                },
+                {
+                    "anv": "Christopher Theberge",
+                    "id": "566386",
+                    "join": "",
+                    "name": "Chris Theberge",
+                    "role": "Percussion",
+                    "tracks": ""
+                },
+                {
+                    "anv": "Nappy-G",
+                    "id": "123224",
+                    "join": "",
+                    "name": "Nappy G",
+                    "role": "Percussion",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "158991",
+                    "join": "",
+                    "name": "Genji Siraisi",
+                    "role": "Producer [Original Produced By], Drums",
+                    "tracks": ""
+                },
+                {
+                    "anv": "David Jensen",
+                    "id": "320005",
+                    "join": "",
+                    "name": "Dave Jensen",
+                    "role": "Saxophone [Sax]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "28896",
+                    "join": "",
+                    "name": "Jay Rodriguez",
+                    "role": "Saxophone [Sax]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "Josh Roseman",
+                    "id": "98556",
+                    "join": "",
+                    "name": "Joshua Roseman",
+                    "role": "Trombone",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "198364",
+                    "join": "",
+                    "name": "Fabio Morgera",
+                    "role": "Trumpet",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "167514",
+                    "join": "",
+                    "name": "Bill Ware",
+                    "role": "Vibraphone [Vibes]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "C. Theberge",
+                    "id": "566386",
+                    "join": "",
+                    "name": "Chris Theberge",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "G. Siraisi",
+                    "id": "158991",
+                    "join": "",
+                    "name": "Genji Siraisi",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "I. Shur",
+                    "id": "36607",
+                    "join": "",
+                    "name": "Itaal Shur",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "J. Rodriguez",
+                    "id": "28896",
+                    "join": "",
+                    "name": "Jay Rodriguez",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "J. Maron",
+                    "id": "92196",
+                    "join": "",
+                    "name": "Jonathan Maron",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "A. Worth",
+                    "id": "6549",
+                    "join": "",
+                    "name": "Richard Worth",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Text",
+                    "_type": "Barcode",
+                    "_value": "6 69815 02241 8"
+                },
+                {
+                    "_description": "Scanned",
+                    "_type": "Barcode",
+                    "_value": "669815022418"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "606",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "363",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "LSL224",
+                "_id": "5432",
+                "_name": "Liquid Sound Lounge"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "169373"
+        },
+        "notes": "Tracks A1 and A2 remixed for 95 North Productions.\r\nTrack B remixed for Bell-Hop Productions.\r\n\r\nLiquid Sound Lounge, Gioioso, Tavisphere and Warp - ASCAP Co-published by Itaal Shur Music-BMI\r\nLicensed from Shanachie Records\r\n©+℗ 2000 Liquid Sound Lounge.",
+        "released": "2000",
+        "styles": {
+            "style": [
+                "Deep House",
+                "House"
+            ]
+        },
+        "title": "Some People",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "7:02",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "6847",
+                                "join": "",
+                                "name": "95 North",
+                                "role": "Remix",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "158993",
+                                "join": "",
+                                "name": "Doug Smith",
+                                "role": "Remix",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "158989",
+                                "join": "",
+                                "name": "Richard Payton",
+                                "role": "Remix",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "A1",
+                    "title": "Some People (95 North Remix)"
+                },
+                {
+                    "duration": "6:30",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "6847",
+                                "join": "",
+                                "name": "95 North",
+                                "role": "Remix",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "158993",
+                                "join": "",
+                                "name": "Doug Smith",
+                                "role": "Remix",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "158989",
+                                "join": "",
+                                "name": "Richard Payton",
+                                "role": "Remix",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "A2",
+                    "title": "Some People (95 North Dub)"
+                },
+                {
+                    "duration": "6:00",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "DJ Jeannie Hopper",
+                                "id": "35068",
+                                "join": "",
+                                "name": "Jeannie Hopper",
+                                "role": "Remix",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "20364",
+                                "join": "",
+                                "name": "Vicki Bell",
+                                "role": "Remix",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "B",
+                    "title": "Some People (House Of Bell-Hop)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "430",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=iAJP16JXLtg",
+                    "description": "",
+                    "title": "Groove Collective - Some People"
+                },
+                {
+                    "_duration": "429",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=SEXTvJ1gZik",
+                    "description": "From:Some People 12\r\nLabel: Liquid Sound Lounge\r\nUnited States\r\nEnjoy :)",
+                    "title": "Groove Collective-Some people (95 North remix) (2000)"
+                },
+                {
+                    "_duration": "399",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=LKOlH0IGkd4",
+                    "description": "-uploaded in HD at http://www.TunesToTube.com",
+                    "title": "Groove Collective ~ Some People (95 North Dub)"
+                }
+            ]
+        }
+    }
+}

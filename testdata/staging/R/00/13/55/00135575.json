@@ -1,0 +1,275 @@
+{
+    "release": {
+        "_id": "135575",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "866",
+                "join": "",
+                "name": "Paul Johnson",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "Belgium",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "1866938",
+                    "join": "",
+                    "name": "Re:peat",
+                    "role": "Design",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "866",
+                    "join": "",
+                    "name": "Paul Johnson",
+                    "role": "Written-By, Producer, Vocals",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "Single"
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Barcode",
+                    "_value": "5414165002482"
+                },
+                {
+                    "_type": "Rights Society",
+                    "_value": "SABAM"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "DOCdata Benelux NEWS541416500248"
+                },
+                {
+                    "_type": "Mastering SID Code",
+                    "_value": "IFPI LJ81"
+                },
+                {
+                    "_type": "Mould SID Code",
+                    "_value": "IFPI 3613"
+                }
+            ]
+        },
+        "images": {
+            "image": {
+                "_height": "400",
+                "_type": "primary",
+                "_uri": "",
+                "_uri150": "",
+                "_width": "400"
+            }
+        },
+        "labels": {
+            "label": [
+                {
+                    "_catno": "541416 500248",
+                    "_id": "1900",
+                    "_name": "541"
+                },
+                {
+                    "_catno": "541416 500248",
+                    "_id": "3995",
+                    "_name": "Legato Records"
+                },
+                {
+                    "_catno": "541416 500248",
+                    "_id": "26064",
+                    "_name": "N.E.W.S."
+                },
+                {
+                    "_catno": "541416 500248",
+                    "_id": "20",
+                    "_name": "Moody Recordings"
+                },
+                {
+                    "_catno": "541416 500248",
+                    "_id": "111594",
+                    "_name": "TIME (2)"
+                }
+            ]
+        },
+        "master_id": {
+            "_is_main_release": "false",
+            "content": "90947"
+        },
+        "notes": "Issued in a cardboard sleeve.\n\"Made in the Netherlands\"\n\"P99 Rise / Time SRL - C 99 NEWS.\"",
+        "released": "1999-08-16",
+        "styles": {
+            "style": "House"
+        },
+        "title": "Get Get Down",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "3:09",
+                    "position": "1",
+                    "title": "Get Get Down (Radio Edit)"
+                },
+                {
+                    "duration": "5:50",
+                    "position": "2",
+                    "title": "Get Get Down (Original Extended Mix)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "340",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=9APAHhIPhJE",
+                    "description": "Paul Johnson ‎-- Get Get Down\nLabel: Fuel Records ‎-- FUEL #026\nFormat: Vinyl, 12\nCountry: Germany\nReleased: 1999\nGenre: Electronic\nStyle: House",
+                    "title": "Paul Johnson - Get Get Down (Original Extended Mix)"
+                },
+                {
+                    "_duration": "369",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=PvX1xjaTvpk",
+                    "description": "✔ Gravado pelo DJ Fabio Marks, nos estúdios do Canal Conexão DJ, em 21.02.2021.\n\n✔ Playlist Completa - Clássicos dos Anos 90 ↓ ↓ ↓\nhttps://www.youtube.com/watch?v=DfHKVkOvMUs\u0026list=PLoVnwcS_A59i9FrpKgBfhrEyM92KiBjOL\n\n✔ Playlist Completa - Un",
+                    "title": "Paul Johnson - Get Get Down (XXX Remix) [HQ] - House, 90's"
+                },
+                {
+                    "_duration": "95",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=r7FGhUbe6ds",
+                    "description": "Provided to YouTube by Symphonic Distribution\n\nGet Get Down (Loopapella) · Paul Johnson\n\nGet Get Down\n\n℗ 1999 Moody Recordings\n\nReleased on: 2013-08-25\n\nComposer: Paul Johnson\n\nAuto-generated by YouTube.",
+                    "title": "Get Get Down (Loopapella)"
+                },
+                {
+                    "_duration": "404",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=tES7-DLL6CU",
+                    "description": "FB: https://www.facebook.com/RokTorkarYT/\nInstagram: https://www.instagram.com/roktorkaryt/",
+                    "title": "Paul Johnson - Get Get Down (Choo Choo'S Subcriminal Mix) (1999)"
+                },
+                {
+                    "_duration": "400",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Fy0PLuptMgk",
+                    "description": "Born and raised in the birthplace of House Music, Paul Leighton Johnson has released a vast amount of music for some of the most consistently underground dance labels before hooking up with Peacefrog Records. 12 releases on the likes of Cajual Records",
+                    "title": "Paul Johnson - Get Get Down (Choo Choo's Subcriminal Mix) (1999)"
+                },
+                {
+                    "_duration": "334",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=G8S40qWw7DE",
+                    "description": "Artist: Paul Johnson\nYear: 1999",
+                    "title": "Paul Johnson - Get Get Down (Ganz Unten Remix)"
+                },
+                {
+                    "_duration": "337",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=dErri9BA2L4",
+                    "description": "",
+                    "title": "Paul Johnson - Get Get Down (Sounds Of Life Dub Mix)"
+                },
+                {
+                    "_duration": "364",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=BSV39o0V26I",
+                    "description": "https://www.discogs.com/de/Paul-Johnson-Get-Get-Down-Remix/release/236408",
+                    "title": "Paul Johnson ‎– Get Get Down (Patrick Lindsey Mix)"
+                },
+                {
+                    "_duration": "362",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=I-6G4i8g908",
+                    "description": "Artist: Paul Johnson\nYear: 1999",
+                    "title": "Paul Johnson - Get Get Down (Patrick Lindsey Remix)"
+                },
+                {
+                    "_duration": "400",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=4JcvU0rXHZw",
+                    "description": "",
+                    "title": "Paul Johnson - Get Get Down (Choo Choo's Subcriminal Mix)"
+                },
+                {
+                    "_duration": "433",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=oMFSexy6ank",
+                    "description": "Artist: Paul Johnson\nYear: 1999",
+                    "title": "Paul Johnson - Get Get Down (Dj Gordon Vs. Goliath Remix)"
+                },
+                {
+                    "_duration": "436",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=GYsboYwMpNA",
+                    "description": "P + C 1999, Fuel Records\nRelease Info:\nhttp://www.discogs.com/Paul-Johnson-Get-Get-Down/release/281413",
+                    "title": "Paul Johnson - Get Get Down (Dj Gordon Vs Goliath Remix)"
+                },
+                {
+                    "_duration": "571",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=SuwWMGWDSRI",
+                    "description": "Provided to YouTube by Symphonic Distribution\n\nGet Get Down (Latin Excursion Mix) · Paul Johnson\n\nGet Get Down\n\n℗ 1999 Moody Recordings\n\nReleased on: 2013-08-25\n\nComposer: Paul Johnson\n\nAuto-generated by YouTube.",
+                    "title": "Get Get Down (Latin Excursion Mix)"
+                },
+                {
+                    "_duration": "571",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=4Lfzh48aiyU",
+                    "description": "",
+                    "title": "Paul Johnson - Get Get Down (Latin Excursion Mix)"
+                },
+                {
+                    "_duration": "414",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=UZPIS-Xbm8c",
+                    "description": "Paul Johnson - Get Get Down (2008 Laidback Luke Remix)",
+                    "title": "Paul Johnson - Get Get Down (2008 Laidback Luke Remix)"
+                },
+                {
+                    "_duration": "418",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=LH5TDk-a2qY",
+                    "description": "I am not the owner of this song. \nRipped straight from my own copy, available here: https://www.discogs.com/release/68653\n\nLabel: Defected – DEFECT7\nFormat: Vinyl, 12, 33 ⅓ RPM, Part 1\nCountry: UK\nReleased: 26 August 1999\nGenre: Electronic\nStyle: Hou",
+                    "title": "Paul Johnson - Get Get Down (Choo Choo's Digital Pimp Mix)"
+                },
+                {
+                    "_duration": "328",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=fHxIAhUByfM",
+                    "description": "Artist: Paul Johnson\nYear: 1999",
+                    "title": "Paul Johnson - Get Get Down (XXX Remix)"
+                },
+                {
+                    "_duration": "395",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=SFBG0ScmvuY",
+                    "description": "The  original  version  of  Paul  Johnson’s  anthem  ‘Get  Get  Down’  was  first  released  in  October  1999  as  a  single  from  the  album,The  Groove  I  Have.  The  cut  topped  theBillboard  Hot  Dance/Club  Playchart,  peaking  for  1  week",
+                    "title": "Paul Johnson 'Get Get Down' Andre Salmon Remix"
+                },
+                {
+                    "_duration": "347",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Ow97y_GCMlI",
+                    "description": "Provided to YouTube by Symphonic Distribution\n\nGet Get Down (Billy Lo Friday Night Ruffneck Vision Remix) · Paul Johnson · Billy Lo\n\nGet Get Down\n\n℗ 1999 Moody Recordings\n\nReleased on: 2013-08-25\n\nComposer: Paul Johnson\n\nAuto-generated by YouTube.",
+                    "title": "Get Get Down (Billy Lo Friday Night Ruffneck Vision Remix)"
+                }
+            ]
+        }
+    }
+}

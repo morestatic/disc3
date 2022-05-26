@@ -1,0 +1,162 @@
+{
+    "release": {
+        "_id": "190861",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "1548",
+                "join": "",
+                "name": "Shawn Ward",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "10",
+                    "entity_type_name": "Manufactured By",
+                    "id": "290468",
+                    "name": "Syntax Distribution",
+                    "resource_url": "https://api.discogs.com/labels/290468"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "9",
+                    "entity_type_name": "Distributed By",
+                    "id": "290468",
+                    "name": "Syntax Distribution",
+                    "resource_url": "https://api.discogs.com/labels/290468"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "725222",
+                    "name": "Starfield Studio",
+                    "resource_url": "https://api.discogs.com/labels/725222"
+                }
+            ]
+        },
+        "country": "US",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "1548",
+                "join": "",
+                "name": "Shawn Ward",
+                "role": "Written-By, Recorded By",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "EP"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Rights Society",
+                    "_value": "Socan"
+                },
+                {
+                    "_description": "Side A",
+                    "_type": "Matrix / Runout",
+                    "_value": "FPR-016 A"
+                },
+                {
+                    "_description": "Side B",
+                    "_type": "Matrix / Runout",
+                    "_value": "FPR-016 B"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "FPR 016",
+                "_id": "50",
+                "_name": "Fair Park"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "656343"
+        },
+        "notes": "Label side A:\nAll tracks written and recorded @ Starfield Studio 2003.\n(C) Socan\nP\u0026C 2003.\nManufactured and distributed by Syntax Distribution.",
+        "released": "2003-08-20",
+        "styles": {
+            "style": "House"
+        },
+        "title": "Hecho En Mexico E.P.",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A1",
+                    "title": "Native Dance"
+                },
+                {
+                    "duration": "",
+                    "position": "B1",
+                    "title": "Oceans Apart"
+                },
+                {
+                    "duration": "",
+                    "position": "B2",
+                    "title": "Rocket Soul"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "344",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=O9WSzhT899g",
+                    "description": "https://www.discogs.com/Shawn-Ward-Hecho-En-Mexico-EP/master/656343",
+                    "title": "Shawn Ward - Native Dance"
+                },
+                {
+                    "_duration": "369",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=VAd909HpiVY",
+                    "description": "2003. Hecho en Mexico Vinyl, 12, EP  -  Fair Park",
+                    "title": "Shawn Ward  -  Oceans Apart"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,226 @@
+{
+    "release": {
+        "_id": "155074",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "15317",
+                "join": "",
+                "name": "Jet Chamber",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "Germany",
+        "data_quality": "Complete and Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "8925",
+                    "join": "",
+                    "name": "Atom™",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "58657",
+                    "join": "",
+                    "name": "Peter Kuhlmann",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "8925",
+                    "join": "",
+                    "name": "Atom™",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "MP3",
+                "descriptions": {
+                    "description": [
+                        "CD-ROM",
+                        "Compilation",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "468",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "MP3 005",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Official compilation of all five Jet Chamber releases on one CD in 320kbps MP3 format. Limited to 1000 copies.\r\n\r\nJet Chamber (track 1) was joined to one file to preserve the flow of the music.",
+        "released": "2003-05-14",
+        "styles": {
+            "style": [
+                "Drum n Bass",
+                "Experimental",
+                "Ambient"
+            ]
+        },
+        "title": "The Jet Chamber Collection",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "69:01",
+                    "position": "1",
+                    "title": "Split Wide - Rotor Cabinet - Chaos Impuls - Feedback Fluctuation - Streamline"
+                },
+                {
+                    "duration": "18:31",
+                    "position": "2",
+                    "title": "Inner Rotation"
+                },
+                {
+                    "duration": "17:20",
+                    "position": "3",
+                    "title": "Calm Box"
+                },
+                {
+                    "duration": "26:59",
+                    "position": "4",
+                    "title": "Outer Rotation"
+                },
+                {
+                    "duration": "10:47",
+                    "position": "5",
+                    "title": "Rub Out"
+                },
+                {
+                    "duration": "21:20",
+                    "position": "6",
+                    "title": "Dub In"
+                },
+                {
+                    "duration": "3:10",
+                    "position": "7",
+                    "title": "Ultra Koran"
+                },
+                {
+                    "duration": "24:21",
+                    "position": "8",
+                    "title": "Quite My Chords"
+                },
+                {
+                    "duration": "2:46",
+                    "position": "9",
+                    "title": "Beel"
+                },
+                {
+                    "duration": "19:48",
+                    "position": "10",
+                    "title": "Zappel Jazz"
+                },
+                {
+                    "duration": "22:05",
+                    "position": "11",
+                    "title": "Clearing Your Head"
+                },
+                {
+                    "duration": "11:57",
+                    "position": "12",
+                    "title": "The Third Option"
+                },
+                {
+                    "duration": "21:25",
+                    "position": "13",
+                    "title": "I Miss Green"
+                },
+                {
+                    "duration": "16:58",
+                    "position": "14",
+                    "title": "Tightness"
+                },
+                {
+                    "duration": "13:39",
+                    "position": "15",
+                    "title": "Voted Steady"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "4140",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=YVXa6cqQ5nE",
+                    "description": "Artist: Pete Namlook \u0026 Atom Heart\nAlbum: Jet Chamber\nLabel: Fax +49-69/450464\nYear: 1995\n\nTracklist:\n1. Split Wide [0:00]\n2. Rotor Cabinet [30:50]\n3. Chaos Impuls [43:15]\n4. Feedback Fluctuation [47:24]\n5. Streamline [57:37]\n\nAll music uploaded to this ch",
+                    "title": "Pete Namlook \u0026 Atom Heart - Jet Chamber (Full Album) [1995]"
+                },
+                {
+                    "_duration": "3772",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=SHFpaNAgsIE",
+                    "description": "Artist: Pete Namlook \u0026 Atom Heart\nAlbum: Jet Chamber II\nLabel: Fax +49-69/450464\nYear: 1996\n\nTracklist:\n1. Inner Rotation [0:00] **\n2. Calm Box [18:31]\n3. Outer Rotation [35:52]\n\n** THIS TRACK NEVER BEFORE HEARD ON YOUTUBE UNTIL NOW!\n\nRequest album(s) her",
+                    "title": "Pete Namlook \u0026 Atom Heart - Jet Chamber II (Full Album) [1996]"
+                },
+                {
+                    "_duration": "3748",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=TA2RSBCF8-g",
+                    "description": "Artist: Pete Namlook \u0026 Atom Heart\nAlbum: Jet Chamber III\nLabel: Fax +49-69/450464\nYear: 1997\n\nTracklist:\n1. Rub Out [0:00]\n2. Dub In [10:48] **\n3. Ultra Koran [32:08] **\n4. Quite My Chords [35:18]\n5. Beel [59:40] **\n\n** THIS TRACK NEVER BEFORE HEARD ON YO",
+                    "title": "Pete Namlook \u0026 Atom Heart - Jet Chamber III (Full Album) [1997]"
+                },
+                {
+                    "_duration": "3232",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=iZkDtxeXdpQ",
+                    "description": "Artist: Pete Namlook \u0026 Atom Heart\nAlbum: Jet Chamber IV\nLabel: Fax +49-69/450464\nYear: 1998\n\nTracklist:\n1. Zappel Jazz [0:00] **\n2. Clearing Your Head [19:48] **\n3. The Third Option [41:53] **\n\n** THIS TRACK NEVER BEFORE HEARD ON YOUTUBE UNTIL NOW!\n\nAll m",
+                    "title": "Pete Namlook \u0026 Atom Heart - Jet Chamber IV (Full Album) [1998]"
+                }
+            ]
+        }
+    }
+}

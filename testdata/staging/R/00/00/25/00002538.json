@@ -1,0 +1,146 @@
+{
+    "release": {
+        "_id": "2538",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "810",
+                "join": "",
+                "name": "Appleheadz",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "UK",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": {
+                "anv": "Grazz",
+                "id": "399393",
+                "join": "",
+                "name": "Graeme Durham",
+                "role": "Mastered By",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "Promo"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "221",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "300"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "LOAD55",
+                "_id": "40",
+                "_name": "Loaded Records"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "false",
+            "content": "144735"
+        },
+        "notes": "A-Side Etching: \"Mind How You Go In That Psaloon\"\r\n\r\nMastered at The Exchange",
+        "released": "1999",
+        "styles": {
+            "style": [
+                "House",
+                "Deep House",
+                "Tech House"
+            ]
+        },
+        "title": "Hold Your Turtles",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A",
+                    "title": "Hold Your Turtles (Original Mix)"
+                },
+                {
+                    "duration": "",
+                    "position": "B1",
+                    "title": "Hold Your Turtles (Biological Remix)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "31",
+                            "join": "",
+                            "name": "Swag",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "B2",
+                    "title": "Hold Your Turtles (Swag Dub)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "219",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=tYUatqcfJLI",
+                    "description": "Official video for Appleheadz - Hold Your Turtles\n\nSubscribe to Skint Records TV at: http://bit.ly/11g3zT3\n\nFind out more about Skint Records here:\nhttp://www.skintentertainment.com\nhttps://www.facebook.com/skintrecords\nhttps://twitter.com/skintrecords\nht",
+                    "title": "Appleheadz - Hold Your Turtles [Official Video]"
+                },
+                {
+                    "_duration": "607",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=qoZcd6rflNk",
+                    "description": "",
+                    "title": "Appleheadz - Hold Your Turtles [Original Mix]"
+                },
+                {
+                    "_duration": "440",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=a66KOoSygUE",
+                    "description": "1999. Hold your Turtles Vinyl, 12  -  Loaded Records",
+                    "title": "Appleheadz  -  Hold your Turtles (Swag Dub)"
+                },
+                {
+                    "_duration": "473",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=gt3gPOufgto",
+                    "description": "Provided to YouTube by Loaded Records\n\nHold Your Turtles (Biological Remix) · Appleheadz · Appleheadz\n\nHold Your Turtles\n\n℗ 1999 Loaded Records Limited, a BMG Company\n\nReleased on: 1999-09-11\n\nPerformer: Appleheadz\nComposer: Asad Rizvi\nComposer: Charl",
+                    "title": "Hold Your Turtles (Biological Remix)"
+                }
+            ]
+        }
+    }
+}

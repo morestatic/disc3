@@ -1,0 +1,286 @@
+{
+    "release": {
+        "_id": "66561",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "293206",
+                "join": "",
+                "name": "Move D / Namlook",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "816062",
+                    "name": "Karlstorbahnhof",
+                    "resource_url": "https://api.discogs.com/labels/816062"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "663922",
+                    "name": "Enjoy Jazz",
+                    "resource_url": "https://api.discogs.com/labels/663922"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "36",
+                    "entity_type_name": "Edited At",
+                    "id": "265055",
+                    "name": "reSource Heidelberg",
+                    "resource_url": "https://api.discogs.com/labels/265055"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "36",
+                    "entity_type_name": "Edited At",
+                    "id": "265012",
+                    "name": "Klanglabor Hödeshof",
+                    "resource_url": "https://api.discogs.com/labels/265012"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "29",
+                    "entity_type_name": "Mastered At",
+                    "id": "265012",
+                    "name": "Klanglabor Hödeshof",
+                    "resource_url": "https://api.discogs.com/labels/265012"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "33",
+                    "entity_type_name": "Designed At",
+                    "id": "60",
+                    "name": "Fax +49-69/450464",
+                    "resource_url": "https://api.discogs.com/labels/60"
+                },
+                {
+                    "catno": "54594",
+                    "entity_type": "31",
+                    "entity_type_name": "Glass Mastered At",
+                    "id": "277449",
+                    "name": "P+O Pallas",
+                    "resource_url": "https://api.discogs.com/labels/277449"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "152",
+                    "join": "",
+                    "name": "David Moufang",
+                    "role": "Edited By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "andre",
+                    "id": "2022694",
+                    "join": "",
+                    "name": "Andre Ruello",
+                    "role": "Graphics",
+                    "tracks": ""
+                },
+                {
+                    "anv": "P.N.",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Mastered By, Edited By [Final Editin]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "152",
+                    "join": "",
+                    "name": "David Moufang",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "58657",
+                    "join": "",
+                    "name": "Peter Kuhlmann",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "152",
+                    "join": "",
+                    "name": "David Moufang",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Text",
+                    "_type": "Barcode",
+                    "_value": "8 07297 01712 0"
+                },
+                {
+                    "_description": "String",
+                    "_type": "Barcode",
+                    "_value": "807297017120"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "P+O-54594-A1 11-01"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "591",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "593",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "500",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                },
+                {
+                    "_height": "500",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                },
+                {
+                    "_height": "500",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/160",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Live recording from the Enjoy Jazz Festival, Karlstorbahnhof in Heidelberg, Oct. 19th., 2001\r\nFinalized at Klanglabor, Traben-Trarbach/Mosel\r\nEdited at reSource, Heidelberg \u0026 Klanglabor, Traben-Trarbach\r\ngraphics: andre@faxlabel.com\r\nLimitation: 2000",
+        "released": "2001-11-19",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Dub",
+                "Future Jazz",
+                "Techno"
+            ]
+        },
+        "title": "Move D / Namlook VI - Live In Heidelberg 2001",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "10:29",
+                    "position": "1",
+                    "title": "Enjoy Jazz"
+                },
+                {
+                    "duration": "6:56",
+                    "position": "2",
+                    "title": "The Grue Bleen Paradox"
+                },
+                {
+                    "duration": "9:25",
+                    "position": "3",
+                    "title": "Pi Machine"
+                },
+                {
+                    "duration": "9:02",
+                    "position": "4",
+                    "title": "Footer"
+                },
+                {
+                    "duration": "7:39",
+                    "position": "5",
+                    "title": "Der Bergkönig"
+                },
+                {
+                    "duration": "6:52",
+                    "position": "6",
+                    "title": "Archer's Nocturnal Doubling"
+                },
+                {
+                    "duration": "3:00",
+                    "position": "7",
+                    "title": "False Decodings"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "541",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=FQFlfaUeqkM",
+                    "description": "From Live In Heidelberg 2001 (Fax +49-69/450464 - PK 08/160).\nhttp://www.cue-records.com/product_info.php?info=p480_pete-namlook---move-d---live-in-heidelberg-2001.html\nhttps://itunes.apple.com/de/album/move-d-namlook-vi-live-in/id42254718\nhttp://www.di",
+                    "title": "Move D / Namlook - Footer"
+                },
+                {
+                    "_duration": "566",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=sDCL0vPoFj0",
+                    "description": "Album Namlook / Move D VI - Live In Heidelberg 2001\nLabel Fax +49-69/450464\nYear 2001\nGenre Electronic\nStyle Ambient, Dub, Future Jazz, Techno\n\n\nBuy the record and support the artist\nAll rights reserved for the producers of the track\nAll the tunes uplo",
+                    "title": "Namlook / Move D – Pi Machine"
+                }
+            ]
+        }
+    }
+}

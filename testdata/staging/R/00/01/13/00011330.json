@@ -1,0 +1,271 @@
+{
+    "release": {
+        "_id": "11330",
+        "_status": "Accepted",
+        "artists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "7018",
+                    "join": "\u0026",
+                    "name": "Jordan Fields",
+                    "role": "",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "9880",
+                    "join": "",
+                    "name": "DJ Rhythm",
+                    "role": "",
+                    "tracks": ""
+                }
+            ]
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "10",
+                    "entity_type_name": "Manufactured By",
+                    "id": "4146",
+                    "name": "Mix Connection Multimedia",
+                    "resource_url": "https://api.discogs.com/labels/4146"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "9",
+                    "entity_type_name": "Distributed By",
+                    "id": "4146",
+                    "name": "Mix Connection Multimedia",
+                    "resource_url": "https://api.discogs.com/labels/4146"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "20",
+                    "name": "Moody Recordings",
+                    "resource_url": "https://api.discogs.com/labels/20"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "363762",
+                    "name": "Mixcon Music",
+                    "resource_url": "https://api.discogs.com/labels/363762"
+                }
+            ]
+        },
+        "country": "US",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "9880",
+                    "join": "",
+                    "name": "DJ Rhythm",
+                    "role": "Producer",
+                    "tracks": "B1, B2, D1, D2"
+                },
+                {
+                    "anv": "",
+                    "id": "7018",
+                    "join": "",
+                    "name": "Jordan Fields",
+                    "role": "Producer",
+                    "tracks": "A1, A2, C1, C2"
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "2",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Barcode",
+                    "_value": "7 13405 96101 1"
+                },
+                {
+                    "_type": "Rights Society",
+                    "_value": "ASCAP"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "538",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "540"
+                },
+                {
+                    "_height": "647",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "346"
+                },
+                {
+                    "_height": "599",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "599"
+                },
+                {
+                    "_height": "599",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "599"
+                },
+                {
+                    "_height": "599",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "599"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "MDR9610-1",
+                "_id": "20",
+                "_name": "Moody Recordings"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "266330"
+        },
+        "released": "1999-00-00",
+        "styles": {
+            "style": "House"
+        },
+        "title": "Future Funk Essentials",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A1",
+                    "title": "Reach"
+                },
+                {
+                    "duration": "",
+                    "position": "A2",
+                    "title": "C'mon And Sing"
+                },
+                {
+                    "duration": "",
+                    "position": "B1",
+                    "title": "Freq De Loop"
+                },
+                {
+                    "duration": "",
+                    "position": "B2",
+                    "title": "Dance A Little Bit"
+                },
+                {
+                    "duration": "",
+                    "position": "C1",
+                    "title": "Let Me Be Your Fantasy"
+                },
+                {
+                    "duration": "",
+                    "position": "C2",
+                    "title": "Feel That Good Love"
+                },
+                {
+                    "duration": "",
+                    "position": "D1",
+                    "title": "Theme From The Loft"
+                },
+                {
+                    "duration": "",
+                    "position": "D2",
+                    "title": "I Need Your Lovin'"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "358",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Ygspb7_IJxQ",
+                    "description": "Jordan Fields \u0026 DJ Rhythm ‎– Future Funk Essentials\nLabel:Moody Recordings ‎– MDR9610-1\nFormat:2 × Vinyl, 12, 33 ⅓ RPM\nCountry:US\nReleased:1999\nGenre:Electronic\nStyle:House",
+                    "title": "Jordan Fields \u0026 DJ Rhythm - Reach"
+                },
+                {
+                    "_duration": "379",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=jjVNFE6npJY",
+                    "description": "Jordan Fields \u0026 DJ Rhythm ‎– Future Funk Essentials\nLabel:Moody Recordings ‎– MDR9610-1\nFormat:2 × Vinyl, 12, 33 ⅓ RPM\nCountry:US\nReleased:1999\nGenre:Electronic\nStyle:House",
+                    "title": "Jordan Fields \u0026 DJ Rhythm - C'mon And Sing"
+                },
+                {
+                    "_duration": "351",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=XQYGW6zHoTU",
+                    "description": "Jordan Fields \u0026 DJ Rhythm ‎– Future Funk Essentials\nLabel:Moody Recordings ‎– MDR9610-1\nFormat:2 × Vinyl, 12, 33 ⅓ RPM\nCountry:US\nReleased:1999\nGenre:Electronic\nStyle:House",
+                    "title": "Jordan Fields \u0026 DJ Rhythm - Freq De Loop"
+                },
+                {
+                    "_duration": "344",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=U4AozZ4nUfA",
+                    "description": "Jordan Fields \u0026 DJ Rhythm ‎– Future Funk Essentials\nLabel:Moody Recordings ‎– MDR9610-1\nFormat:2 × Vinyl, 12, 33 ⅓ RPM\nCountry:US\nReleased:1999\nGenre:Electronic\nStyle:House",
+                    "title": "Jordan Fields \u0026 DJ Rhythm - Dance A Little Bit"
+                },
+                {
+                    "_duration": "295",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=l-PY3rFe7sA",
+                    "description": "Jordan Fields \u0026 DJ Rhythm ‎– Future Funk Essentials\nLabel:Moody Recordings ‎– MDR9610-1\nFormat:2 × Vinyl, 12, 33 ⅓ RPM\nCountry:US\nReleased:1999\nGenre:Electronic\nStyle:House",
+                    "title": "Jordan Fields \u0026 DJ Rhythm - Let Me Be Your Fantasy"
+                },
+                {
+                    "_duration": "274",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=2bkrf_St2Ik",
+                    "description": "Jordan Fields \u0026 DJ Rhythm ‎– Future Funk Essentials\nLabel:Moody Recordings ‎– MDR9610-1\nFormat:2 × Vinyl, 12, 33 ⅓ RPM\nCountry:US\nReleased:1999\nGenre:Electronic\nStyle:House",
+                    "title": "Jordan Fields \u0026 DJ Rhythm - Feel That Good Love"
+                },
+                {
+                    "_duration": "344",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=eASI-tqbeAU",
+                    "description": "Jordan Fields \u0026 DJ Rhythm ‎– Future Funk Essentials\nLabel:Moody Recordings ‎– MDR9610-1\nFormat:2 × Vinyl, 12, 33 ⅓ RPM\nCountry:US\nReleased:1999\nGenre:Electronic\nStyle:House",
+                    "title": "Jordan Fields \u0026 DJ Rhythm - Theme From The Loft"
+                },
+                {
+                    "_duration": "358",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=3SFGeaWoplg",
+                    "description": "Jordan Fields \u0026 DJ Rhythm ‎– Future Funk Essentials\nLabel:Moody Recordings ‎– MDR9610-1\nFormat:2 × Vinyl, 12, 33 ⅓ RPM\nCountry:US\nReleased:1999\nGenre:Electronic\nStyle:House",
+                    "title": "Jordan Fields \u0026 DJ Rhythm - I Need Your Lovin'"
+                }
+            ]
+        }
+    }
+}

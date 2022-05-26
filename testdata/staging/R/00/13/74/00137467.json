@@ -1,0 +1,122 @@
+{
+    "release": {
+        "_id": "137467",
+        "_status": "Accepted",
+        "artists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "70325",
+                    "join": "/",
+                    "name": "Active Service Unit",
+                    "role": "",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "20",
+                    "join": "",
+                    "name": "Percy X",
+                    "role": "",
+                    "tracks": ""
+                }
+            ]
+        },
+        "companies": "",
+        "country": "Ireland",
+        "data_quality": "Correct",
+        "extraartists": "",
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "12\""
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": {
+                "_height": "600",
+                "_type": "primary",
+                "_uri": "",
+                "_uri150": "",
+                "_width": "600"
+            }
+        },
+        "labels": {
+            "label": {
+                "_catno": "DUBLON001",
+                "_id": "10484",
+                "_name": "Dublin London"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "367859"
+        },
+        "notes": "Dublin London Recordings is a division of D1 Recordings and Pure Plastic.",
+        "released": "2002",
+        "styles": {
+            "style": "Techno"
+        },
+        "title": "Zaytoon / Wrong Way Round",
+        "tracklist": {
+            "track": [
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "70325",
+                            "join": "",
+                            "name": "Active Service Unit",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "D",
+                    "title": "Zaytoon"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "20",
+                            "join": "",
+                            "name": "Percy X",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "L",
+                    "title": "Wrong Way Round"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "344",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=_j0mptv60Vo",
+                    "description": "Label: Dublin London\nRelease: DUBLON001\nArtist: Active service unit\nTrack: Zaytoon\n\nFor more info on this release, check: http://www.discogs.com/Active-Service-Unit-Percy-X-Zaytoon-Wrong-Way-Round/release/3100969",
+                    "title": "Active service unit - Zaytoon"
+                },
+                {
+                    "_duration": "344",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=sKJtXB06FdU",
+                    "description": "Active Service Unit / Percy X ‎– Zaytoon / Wrong Way Round\nLabel: Dublin London ‎– DUBLON001\nFormat: Vinyl, 12 \nCountry: Ireland\nReleased: 2002\nGenre: Electronic\nStyle: Techno\n\nhttp://www.discogs.com/Various-Split-EP/release/137467",
+                    "title": "Percy X - Wrong Way Round [Dublin London]"
+                }
+            ]
+        }
+    }
+}

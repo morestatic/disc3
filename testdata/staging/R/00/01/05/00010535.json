@@ -1,0 +1,391 @@
+{
+    "release": {
+        "_id": "10535",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "194",
+                "join": "",
+                "name": "Various",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "62682-2",
+                    "entity_type": "9",
+                    "entity_type_name": "Distributed By",
+                    "id": "2444",
+                    "name": "EFA",
+                    "resource_url": "https://api.discogs.com/labels/2444"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "772",
+                    "name": "Dessous Recordings",
+                    "resource_url": "https://api.discogs.com/labels/772"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "772",
+                    "name": "Dessous Recordings",
+                    "resource_url": "https://api.discogs.com/labels/772"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": "",
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "Compilation"
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Printed",
+                    "_type": "Barcode",
+                    "_value": "7 18756 26822 2"
+                },
+                {
+                    "_description": "Scanned",
+                    "_type": "Barcode",
+                    "_value": "0718756268222"
+                },
+                {
+                    "_type": "Rights Society",
+                    "_value": "GEMA"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 10720"
+                },
+                {
+                    "_type": "Mould SID Code",
+                    "_value": "IFPI 1221"
+                },
+                {
+                    "_type": "Mastering SID Code",
+                    "_value": "IFPI L033"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "DESCD 02 MPO 01 @@@ 4 01"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "591",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "531",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "464",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "517",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "550",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "550"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "dessous cd02",
+                "_id": "772",
+                "_name": "Dessous Recordings"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "129072"
+        },
+        "notes": "Tracks 9, 10 \u0026 11: exclusive unreleased tracks for this compilation.\nMade in France\nPublished by IRSC",
+        "released": "2000-07-10",
+        "styles": {
+            "style": "Deep House"
+        },
+        "title": "Erotic Moments In House",
+        "tracklist": {
+            "track": [
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "675",
+                            "join": "",
+                            "name": "Vincenzo",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "8:40",
+                    "position": "1",
+                    "title": "Where's The Love That I Knew"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "8514",
+                            "join": "",
+                            "name": "The Discowboys",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "7:56",
+                    "position": "2",
+                    "title": "Walking On Rhythm"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1841",
+                            "join": "",
+                            "name": "Gamat 3000",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "8:25",
+                    "position": "3",
+                    "title": "Cosmic Strut"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "675",
+                            "join": "",
+                            "name": "Vincenzo",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:19",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1029",
+                            "join": "",
+                            "name": "I:Cube",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "4",
+                    "title": "Peace Is Not The Word To Play (I-Cube's Vocopop's Muzak Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "10674",
+                            "join": "",
+                            "name": "Nu-Tone Dancer",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "8:19",
+                    "position": "5",
+                    "title": "Nothing More"
+                },
+                {
+                    "artists": {
+                        "artist": [
+                            {
+                                "anv": "A.D.N.Y.",
+                                "id": "50",
+                                "join": "\u0026",
+                                "name": "ADNY",
+                                "role": "",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "675",
+                                "join": "",
+                                "name": "Vincenzo",
+                                "role": "",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "duration": "5:24",
+                    "position": "6",
+                    "title": "New Day"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "675",
+                            "join": "",
+                            "name": "Vincenzo",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:24",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "108",
+                            "join": "",
+                            "name": "Ian Pooley",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "7",
+                    "title": "King's Last Ride (Ian Pooley Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1899",
+                            "join": "",
+                            "name": "Fairground People",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "7:20",
+                    "position": "8",
+                    "title": "Sound Foundation"
+                },
+                {
+                    "artists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "675",
+                                "join": "\u0026",
+                                "name": "Vincenzo",
+                                "role": "",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "Rasoul",
+                                "id": "55",
+                                "join": "",
+                                "name": "DJ Rasoul",
+                                "role": "",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "duration": "6:38",
+                    "position": "9",
+                    "title": "Afterthoughts"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1841",
+                            "join": "",
+                            "name": "Gamat 3000",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "7:28",
+                    "position": "10",
+                    "title": "Slower Movement"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "8514",
+                            "join": "",
+                            "name": "The Discowboys",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:24",
+                    "position": "11",
+                    "title": "Bullriding"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "412",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=KnitrVwMJa4",
+                    "description": "Jul/2000. Erotic Moments In House 2 × Vinyl, 12, Compilation  -  Dessous Recordings\nWritten-By, Producer – DJ Rasoul, Vincenzo K.",
+                    "title": "Vincenzo \u0026 Rasoul  -  Afterthoughts"
+                },
+                {
+                    "_duration": "448",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Wm8pfiSc9i0",
+                    "description": "Erotic Moment in The House",
+                    "title": "Gamat 3000 - Slower Movement"
+                },
+                {
+                    "_duration": "474",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=h1G89TKf03o",
+                    "description": "GREAT house track from Dessous Recordings!",
+                    "title": "The Discowboys - Walking On Rhythm"
+                },
+                {
+                    "_duration": "384",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=6nUzrBPubr4",
+                    "description": "Provided to YouTube by Kontor New Media GmbH\n\nBullriding · The Discowboys\n\nErotic Moments in House\n\n℗ Dessous Recordings\n\nReleased on: 2000-07-10\n\nArtist: The Discowboys\nMusic  Publisher: Ed. Babelfish / adm. Freibank\nMusic  Publisher: Freibank\nCompose",
+                    "title": "Bullriding"
+                }
+            ]
+        }
+    }
+}

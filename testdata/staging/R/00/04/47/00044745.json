@@ -1,0 +1,115 @@
+{
+    "release": {
+        "_id": "44745",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "35488",
+                "join": "",
+                "name": "Tessier Ashpool",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "UK",
+        "data_quality": "Needs Vote",
+        "extraartists": "",
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "12\""
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "603",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "603",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "LOAD 23",
+                "_id": "40",
+                "_name": "Loaded Records"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "288489"
+        },
+        "released": "1995",
+        "styles": {
+            "style": [
+                "House",
+                "Goa Trance"
+            ]
+        },
+        "title": "Cardi",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A",
+                    "title": "Zero G"
+                },
+                {
+                    "duration": "",
+                    "position": "B1",
+                    "title": "Cardi"
+                },
+                {
+                    "duration": "",
+                    "position": "B2",
+                    "title": "Who Are They?"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "413",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Apv90yZX57Y",
+                    "description": "http://itunes.apple.com/gb/album/cardi-ep/id379076034",
+                    "title": "Tessier Ashpool - Cardi"
+                },
+                {
+                    "_duration": "422",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=j_woWkW2Uk8",
+                    "description": "http://itunes.apple.com/gb/album/cardi-ep/id379076034",
+                    "title": "Tessier Ashpool - Who Are They"
+                },
+                {
+                    "_duration": "475",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=ReITEV5Gpfg",
+                    "description": "http://itunes.apple.com/gb/album/gravity-single/id379086382",
+                    "title": "Tessier Ashpool - Zero-g"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,140 @@
+{
+    "release": {
+        "_id": "91856",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "293005",
+                "join": "",
+                "name": "Zenith (6)",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "233176",
+                    "join": "",
+                    "name": "Carlos Vivanco",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "25",
+                    "join": "",
+                    "name": "Tetsu Inoue",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_type": "Label Code",
+                "_value": "LC 6269"
+            }
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "238",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "249"
+                },
+                {
+                    "_height": "248",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "501"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PS 08/48",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "249916"
+        },
+        "notes": "ZENITH\r\nNEW YORK 1994\r\n\r\nLimitation: 1,000 copies.\r\nCD label mistakenly lists all tracks as being written only by Tetsu Inoue. The jewelcase insert artwork credits both artists properly.",
+        "released": "1994-06-06",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Downtempo",
+                "Experimental"
+            ]
+        },
+        "title": "Zenith",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "14:58",
+                    "position": "1",
+                    "title": "Sacred Mirror"
+                },
+                {
+                    "duration": "11:38",
+                    "position": "2",
+                    "title": "Electro Dreams"
+                },
+                {
+                    "duration": "18:46",
+                    "position": "3",
+                    "title": "Plexus Solaris"
+                },
+                {
+                    "duration": "19:15",
+                    "position": "4",
+                    "title": "Aura"
+                }
+            ]
+        },
+        "videos": {
+            "video": {
+                "_duration": "3878",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=wpxAiDU6Xmc",
+                "description": "Composed ,arranged performed and produced by:\n Carlos Vivanco and Tetsu Inoue\n1994 New York City\nFax +49-69/450464\nhttps://carlosvivanco1.bandcamp.com/\nhttps://www.discogs.com/artist/233176-Carlos-Vivanco?filter_anv=0\u0026type=Credits\nhttps://soundcloud.com/c",
+                "title": "Zenith   Zenith Full album   YouTube 360p"
+            }
+        }
+    }
+}

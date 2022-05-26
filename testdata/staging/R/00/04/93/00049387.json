@@ -1,0 +1,188 @@
+{
+    "release": {
+        "_id": "49387",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "Namlook",
+                "id": "1910",
+                "join": "",
+                "name": "Pete Namlook",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": {
+                "catno": "",
+                "entity_type": "23",
+                "entity_type_name": "Recorded At",
+                "id": "265012",
+                "name": "Klanglabor Hödeshof",
+                "resource_url": "https://api.discogs.com/labels/265012"
+            }
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "2118078",
+                    "join": "",
+                    "name": "PEK (3)",
+                    "role": "Graphics",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "58657",
+                    "join": "",
+                    "name": "Peter Kuhlmann",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "500",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                },
+                {
+                    "_height": "385",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                },
+                {
+                    "_height": "500",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                },
+                {
+                    "_height": "500",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/148",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Recorded at Klanglabor, Traben-Trarbach.\nLimitation: 2000.",
+        "released": "1999-11-08",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Drum n Bass",
+                "Techno"
+            ]
+        },
+        "title": "Namlook XV - Free Your Mind",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "8:03",
+                    "position": "1",
+                    "title": "The Real World"
+                },
+                {
+                    "duration": "8:22",
+                    "position": "2",
+                    "title": "The Colony"
+                },
+                {
+                    "duration": "5:39",
+                    "position": "3",
+                    "title": "Free Your Mind"
+                },
+                {
+                    "duration": "8:46",
+                    "position": "4",
+                    "title": "The Forthcoming"
+                },
+                {
+                    "duration": "11:02",
+                    "position": "5",
+                    "title": "Samba Giselle"
+                },
+                {
+                    "duration": "12:53",
+                    "position": "6",
+                    "title": "The Dreamreader"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "505",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=iXWbAicL9sk",
+                    "description": "Album: Namlook XV - Free Your Mind (1999)\nFax +49-69/450464 Records",
+                    "title": "Pete Namlook - The Colony"
+                },
+                {
+                    "_duration": "3289",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=aUNithq76iA",
+                    "description": "https://www.discogs.com/Namlook-Namlook-XV-Free-Your-Mind/release/49387",
+                    "title": "Namlook XV - Free Your Mind"
+                },
+                {
+                    "_duration": "527",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=K26VenFyfa0",
+                    "description": "Released on the Namlook XV - Free Your Mind Album. PK 08/148\nMusic by:  Pete Namlook, 1999\nVideo by: Abstructure",
+                    "title": "Namlook - The Forthcoming"
+                },
+                {
+                    "_duration": "774",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=xlvGP-AxC78",
+                    "description": "Namlook: XV: Free Your Mind  (Fax : 1999)",
+                    "title": "Pete Namlook - The Dreamreader"
+                }
+            ]
+        }
+    }
+}

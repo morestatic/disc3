@@ -1,0 +1,193 @@
+{
+    "release": {
+        "_id": "16574",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "2909",
+                "join": "",
+                "name": "Silence",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": {
+                "catno": "16540",
+                "entity_type": "31",
+                "entity_type_name": "Glass Mastered At",
+                "id": "277449",
+                "name": "P+O Pallas",
+                "resource_url": "https://api.discogs.com/labels/277449"
+            }
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "39643",
+                    "join": "",
+                    "name": "Elisabeth Michels",
+                    "role": "Soprano Vocals",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "8521",
+                    "join": "",
+                    "name": "Dr. Atmo",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "08/68 P+O-16540-A1 05-93"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "465",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/68",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "43079"
+        },
+        "notes": "OUR PLANET IS PRECIOUS...\r\nLET'S ALL WORK TOGETHER TO PRESERVE IT !\r\n\r\nWe believe that when you listen to this medicine music in your own sacred way, with or without ritual or ceremony, you will discover the simple pleasure of it's healing nature.\r\n\r\nSILENCE\r\nFRANKFURT 1993\r\n\r\nGreatest love from Dr. Atmo to:\r\nGod\r\nMadar and Pedaram\r\nMirella my forever love\r\nBrother and sisters\r\n\r\nGreatest love from P.Namlook to:\r\nElisabeth\r\nFabia\r\nMixmaster Morris\r\nOskar Sala\r\nMy real friends\r\nLudwig Rehberg of EMS\r\n\r\nLimitation: 500\r\n\r\nThe original 22:55 minutes long version of \"Heaven\" as on this album is not featured on the Ambient World re-release which contains only an \"AW-cut\" version of 6:54 minutes.",
+        "released": "1993-05-31",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Experimental",
+                "Tribal"
+            ]
+        },
+        "title": "Silence II",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "29:24",
+                    "position": "1",
+                    "title": "Life / Death"
+                },
+                {
+                    "duration": "22:55",
+                    "position": "2",
+                    "title": "Heaven"
+                },
+                {
+                    "duration": "11:23",
+                    "position": "3",
+                    "title": "Faith"
+                },
+                {
+                    "duration": "11:20",
+                    "position": "4",
+                    "title": "Sweet Angels"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "1376",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=OmR6l8dY47U",
+                    "description": "This full 23 minutes piece was released only on the first edition of Silence II album (PK 08/68) and as a 12 EP Silence 4 (PK 08/67).\n\nMusic by: Pete Namlook and Dr. Atmo, 1993\nVideo by: Abstructure, 2017\n\nSo how many of you have the patient to view",
+                    "title": "Silence - Heaven (Full Version)"
+                },
+                {
+                    "_duration": "1769",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=H7hnbLVib6Q",
+                    "description": "Provided to YouTube by DistroKid\n\nLife / Death · Silence\n\nSilence II\n\n℗ Fax +49-69/450464\n\nReleased on: 1993-05-31\n\nAuto-generated by YouTube.",
+                    "title": "Life / Death"
+                }
+            ]
+        }
+    }
+}

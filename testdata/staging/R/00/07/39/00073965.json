@@ -1,0 +1,151 @@
+{
+    "release": {
+        "_id": "73965",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "565878",
+                "join": "",
+                "name": "Electronic Music Center",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "Germany",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "1910",
+                "join": "",
+                "name": "Pete Namlook",
+                "role": "Producer",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "Limited Edition",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "500",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                },
+                {
+                    "_height": "500",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/120",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "739001"
+        },
+        "notes": "Duration not correctly given on disc.\nLimitation: 500 copies\n\nEtched notes from vinyl :\n\nSide A :\n\n“The Electric Music Centre is a new organization founded in order to share knowledge methods and secrets in electronic music”\n\n“Get your instructions and go !”\n\n“Watch the subharmonic sound...”\n\nSide B :\n\n“Our aim is to enhance the global electronic music movement by instructing, training and helping interested musicians on their way to become a professional artist”\n\n“Oskar Sala rules... no well-tempered tuning was allowed on this song... Listen to the indefinite beauty of the natural scale...”\n\n“Vocal innovation overload”\n\n“New courses at EMC start first week in March, June and September”",
+        "released": "1996-10-14",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Experimental"
+            ]
+        },
+        "title": "Zentrum Für Elektronische Musik",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "1:48",
+                    "position": "A1",
+                    "title": "The Great Hall Of Synthi 100 (Excerpt)"
+                },
+                {
+                    "duration": "0:10",
+                    "position": "A2",
+                    "title": "Instruktion"
+                },
+                {
+                    "duration": "8:48",
+                    "position": "A3",
+                    "title": "Digital And Subharmonic Workgroup"
+                },
+                {
+                    "duration": "0:48",
+                    "position": "B1",
+                    "title": "Subharmonic Passage"
+                },
+                {
+                    "duration": "10:12",
+                    "position": "B2",
+                    "title": "How To Ruin A Song With A Special Sound"
+                },
+                {
+                    "duration": "0:38",
+                    "position": "B3",
+                    "title": "Inspection Commitee"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "45",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Bicw_l47Gok",
+                    "description": "*Please message me directly for any copyright issues and the video will be removed immediately*\n\nDiscogs: https://www.discogs.com/Electronic-Music-Center-Zentrum-F%C3%BCr-Elektronische-Musik/release/73965\n\nTrack: Subharmonic Passage\nArtist: Electronic Mus",
+                    "title": "Subharmonic Passage - Electronic Music Center | Fax +49-69/450464 [1996]"
+                },
+                {
+                    "_duration": "616",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=SpL3OtEWZcw",
+                    "description": "*Please message me directly for any copyright issues and the video will be removed immediately*\n\nDiscogs: https://www.discogs.com/Electronic-Music-Center-Zentrum-F%C3%BCr-Elektronische-Musik/release/73965\n\nTrack: How To Ruin A Song With A Special Sound \nA",
+                    "title": "How To Ruin A Song With A Special Sound - Electronic Music Center | Fax +49-69/450464 [1996]"
+                },
+                {
+                    "_duration": "33",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=DCkfJD33QMY",
+                    "description": "*Please message me directly for any copyright issues and the video will be removed immediately*\n\nDiscogs: https://www.discogs.com/Electronic-Music-Center-Zentrum-F%C3%BCr-Elektronische-Musik/release/73965\n\nTrack: Inspection Commitee\nArtist: Electronic Mus",
+                    "title": "Inspection Commitee - Electronic Music Center | Fax +49-69/450464 [1996]"
+                },
+                {
+                    "_duration": "461",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=-ofbBkBmrsQ",
+                    "description": "",
+                    "title": "Electronic Music Center - Digital and Subharmonic Workgroup"
+                }
+            ]
+        }
+    }
+}

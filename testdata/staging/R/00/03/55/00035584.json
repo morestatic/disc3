@@ -1,0 +1,121 @@
+{
+    "release": {
+        "_id": "35584",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "9806",
+                "join": "",
+                "name": "DJ Abstract",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "US",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "411877",
+                    "join": "",
+                    "name": "Michelle Berc",
+                    "role": "Photography By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "57446",
+                    "join": "",
+                    "name": "Alex Posell",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "599",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "599"
+                },
+                {
+                    "_height": "599",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "599"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PAL-17",
+                "_id": "30",
+                "_name": "Palette Recordings"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "719867"
+        },
+        "released": "2001-00-00",
+        "styles": {
+            "style": [
+                "Techno",
+                "Tech House"
+            ]
+        },
+        "title": "You Used To Know",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A",
+                    "title": "Kangaroo Midget"
+                },
+                {
+                    "duration": "",
+                    "position": "B1",
+                    "title": "You Used To Know"
+                },
+                {
+                    "duration": "",
+                    "position": "B2",
+                    "title": "Just A Dream"
+                }
+            ]
+        },
+        "videos": {
+            "video": {
+                "_duration": "337",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=1H_rn1pRwT8",
+                "description": "Subido por Miguel Ortiz para el grupo Nocturnal Transmissions ...  https://www.facebook.com/groups/220225551413882/...",
+                "title": "Dj Abstract - Just a Dream (original mix) (2001)"
+            }
+        }
+    }
+}

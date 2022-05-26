@@ -1,0 +1,101 @@
+{
+    "release": {
+        "_id": "160535",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "94842",
+                "join": "",
+                "name": "Attention Deficit",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "UK",
+        "data_quality": "Needs Vote",
+        "extraartists": "",
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "12\""
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_description": "Scanned",
+                "_type": "Barcode",
+                "_value": "5025425410222"
+            }
+        },
+        "images": {
+            "image": {
+                "_height": "600",
+                "_type": "primary",
+                "_uri": "",
+                "_uri150": "",
+                "_width": "600"
+            }
+        },
+        "labels": {
+            "label": {
+                "_catno": "LOAD 102",
+                "_id": "40",
+                "_name": "Loaded Records"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "225722"
+        },
+        "notes": "Total duration: 19:43",
+        "released": "2003",
+        "styles": {
+            "style": [
+                "Progressive House",
+                "Tech House"
+            ]
+        },
+        "title": "Use Only The Drugs / Use Only The Music",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "9:55",
+                    "position": "A",
+                    "title": "Use Only The Drugs"
+                },
+                {
+                    "duration": "9:48",
+                    "position": "B",
+                    "title": "Use Only The Music"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "589",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=a_yG_OoH__c",
+                    "description": "Attention Deficit ‎– Use Only The Drugs / Use Only The Music\n\nLabel: Loaded Records ‎– LOAD 102 P\nFormat: Vinyl, 12, Promo \nCountry: UK\nReleased: 2003\nGenre: Electronic\nStyle: Progressive House, Tech House",
+                    "title": "Attention Deficit ‎– Use Only The Drugs (Original Mix)"
+                },
+                {
+                    "_duration": "581",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=2rqgtNDJZQw",
+                    "description": "Attention Deficit ‎– Use Only The Drugs / Use Only The Music\n\nLabel: Loaded Records ‎– LOAD 102 P\nFormat: Vinyl, 12, Promo \nCountry: UK\nReleased: 2003\nGenre: Electronic\nStyle: Progressive House, Tech House",
+                    "title": "Attention Deficit ‎– Use Only The Music (Original Mix)"
+                }
+            ]
+        }
+    }
+}

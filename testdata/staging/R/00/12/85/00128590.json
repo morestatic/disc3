@@ -1,0 +1,300 @@
+{
+    "release": {
+        "_id": "128590",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "265",
+                "join": "",
+                "name": "Julius Papp \u0026 Dave Warrin",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "US",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "114538",
+                    "join": "",
+                    "name": "Joseph Ventola",
+                    "role": "Executive Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "280843",
+                    "join": "",
+                    "name": "Rick Essig",
+                    "role": "Mastered By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "40",
+                    "join": "",
+                    "name": "Dave Warrin",
+                    "role": "Written-By, Producer, Arranged By",
+                    "tracks": "A2 to D2"
+                },
+                {
+                    "anv": "",
+                    "id": "5615",
+                    "join": "",
+                    "name": "Julius Papp",
+                    "role": "Written-By, Producer, Arranged By",
+                    "tracks": "A1, B1 to D2"
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "2",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "Album"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Barcode",
+                    "_value": "681407700818"
+                },
+                {
+                    "_description": "Rights Society",
+                    "_type": "Other",
+                    "_value": "ASCAP"
+                }
+            ]
+        },
+        "images": {
+            "image": {
+                "_height": "568",
+                "_type": "primary",
+                "_uri": "",
+                "_uri150": "",
+                "_width": "560"
+            }
+        },
+        "labels": {
+            "label": {
+                "_catno": "IR-AL008",
+                "_id": "39",
+                "_name": "i! Records"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "false",
+            "content": "214223"
+        },
+        "notes": "Mastered at Master Cutting Room.\r\nPublished by Cal Went Music.",
+        "released": "2002",
+        "styles": {
+            "style": [
+                "Downtempo",
+                "Deep House",
+                "House"
+            ]
+        },
+        "title": "Behind The Sun",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "439394",
+                                "join": "",
+                                "name": "Noel Catura",
+                                "role": "Flute, Saxophone [Sax]",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "557876",
+                                "join": "",
+                                "name": "Modesto Briseno",
+                                "role": "Trumpet",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "A1",
+                    "title": "Another Morning"
+                },
+                {
+                    "duration": "",
+                    "position": "A2",
+                    "title": "Somewhere"
+                },
+                {
+                    "duration": "",
+                    "position": "B1",
+                    "title": "Aquatic"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "687177",
+                                "join": "",
+                                "name": "J. Peake",
+                                "role": "Flute",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "687179",
+                                "join": "",
+                                "name": "John Warrin",
+                                "role": "Guitar",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "687178",
+                                "join": "",
+                                "name": "Shannon Miles",
+                                "role": "Vocals",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "B2",
+                    "title": "Notorious (Discofied Ride)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "70175",
+                                "join": "",
+                                "name": "Bill Williams",
+                                "role": "Engineer, Instruments [Additional Instruments]",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "40",
+                                "join": "",
+                                "name": "Dave Warrin",
+                                "role": "Keyboards",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "439394",
+                                "join": "",
+                                "name": "Noel Catura",
+                                "role": "Saxophone [Sax]",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "C1",
+                    "title": "Love Is Still The Message (Old School Mix)"
+                },
+                {
+                    "duration": "",
+                    "position": "C2",
+                    "title": "Behind The Sun"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "40",
+                                "join": "",
+                                "name": "Dave Warrin",
+                                "role": "Keyboards",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "480846",
+                                "join": "",
+                                "name": "Breze",
+                                "role": "Vocals",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "D1",
+                    "title": "Feel You (Excursion Mix)"
+                },
+                {
+                    "duration": "",
+                    "position": "D2",
+                    "title": "Watercolors"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "413",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=e8d9AP0EbCc",
+                    "description": "Artist: Julius Papp \u0026 Dave Warrin\nAlbum: Behind The Sun\nLabel: i! Records\nCatalogue: IR-AL008\nReleased: 2002\n\nPromotional Use Only. All Rights belong to their respective owners.",
+                    "title": "Julius Papp \u0026 Dave Warrin - Another Morning"
+                },
+                {
+                    "_duration": "305",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=NsrRNJD5eMY",
+                    "description": "Artist: Julius Papp \u0026 Dave Warrin\nAlbum: Behind The Sun\nLabel: i! Records\nCatalogue: IR-AL008\nReleased: 2002\n\nPromotional Use Only. All Rights belong to their respective owners.",
+                    "title": "Julius Papp \u0026 Dave Warrin - Somewhere"
+                },
+                {
+                    "_duration": "293",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=V2cdeDl4KyQ",
+                    "description": "Artist: Julius Papp \u0026 Dave Warrin\nAlbum: Behind The Sun\nLabel: i! Records\nCatalogue: IR-AL008\nReleased: 2002\n\nPromotional Use Only. All Rights belong to their respective owners.",
+                    "title": "Julius Papp \u0026 Dave Warrin - Aquatic"
+                },
+                {
+                    "_duration": "362",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=tUnEm1ynu5c",
+                    "description": "Artist: Julius Papp \u0026 Dave Warrin\nAlbum: Love Is The Message EP\nLabel: i! Records\nCatalogue: IR-216\nReleased: 2001-11\n\nPromotional Use Only. All Rights belong to their respective owners.",
+                    "title": "Julius Papp \u0026 Dave Warrin - Love Is Still The Message (Old School mix)"
+                },
+                {
+                    "_duration": "313",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=tkOsYQ0hD0I",
+                    "description": "Artist: Julius Papp \u0026 Dave Warrin\nAlbum: Feel You EP\nLabel: i! Records\nCatalogue: IR-154\nReleased: 1998\n\nPromotional Use Only. All Rights belong to their respective owners.",
+                    "title": "Julius Papp \u0026 Dave Warrin - Feel You (Excursion Mix)"
+                },
+                {
+                    "_duration": "381",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=YbA0Tqu4JEM",
+                    "description": "Artist: Julius Papp \u0026 Dave Warrin\nAlbum: Feel You EP\nLabel: i! Records\nCatalogue: IR-154\nReleased: 1998\n\nPromotional Use Only. All Rights belong to their respective owners.",
+                    "title": "Julius Papp \u0026 Dave Warrin - Watercolors"
+                }
+            ]
+        }
+    }
+}

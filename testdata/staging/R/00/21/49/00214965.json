@@ -1,0 +1,166 @@
+{
+    "release": {
+        "_id": "214965",
+        "_status": "Accepted",
+        "artists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "9880",
+                    "join": "Presents",
+                    "name": "DJ Rhythm",
+                    "role": "",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "677757",
+                    "join": "",
+                    "name": "The Soul Visionaries",
+                    "role": "",
+                    "tracks": ""
+                }
+            ]
+        },
+        "companies": "",
+        "country": "US",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "16833",
+                "join": "",
+                "name": "Billy Lo",
+                "role": "Written-By, Arranged By, Producer",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "12\""
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "594",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "601",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "602",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "118",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "MDR9642-1",
+                "_id": "20",
+                "_name": "Moody Recordings"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "1047957"
+        },
+        "notes": "Written, arranged and produced for Infinite Soul Productions.",
+        "released": "2002",
+        "styles": {
+            "style": "House"
+        },
+        "title": "I'm In Love",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "16833",
+                            "join": "",
+                            "name": "Billy Lo",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "A",
+                    "title": "I'm In Love (Billy Lo Remix)"
+                },
+                {
+                    "duration": "",
+                    "position": "B1",
+                    "title": "I'm In Love (Rhythm's Infinite Groove Mix)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "51770",
+                            "join": "",
+                            "name": "Johmell Auharee",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "B2",
+                    "title": "I'm In Love (Johmell Auharee's Black Rein Mix)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "342",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=WX8e-FirnpY",
+                    "description": "Provided to YouTube by Symphonic Distribution\n\nI'm In Love · Soul Visionaries · Billy Lo\n\nI'm In Love (DJ Rhythm Presents Soul Visionaries)\n\n℗ 2013 Moody Recordings\n\nReleased on: 2013-08-25\n\nRemixer: Billy Lo\n\nAuto-generated by YouTube.",
+                    "title": "I'm In Love (Billy Lo Remix)"
+                },
+                {
+                    "_duration": "364",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=wO9ngE4pAg4",
+                    "description": "Provided to YouTube by Symphonic Distribution\n\nI'm In Love · Soul Visionaries · DJ Rhythm\n\nI'm In Love (DJ Rhythm Presents Soul Visionaries)\n\n℗ 2013 Moody Recordings\n\nReleased on: 2013-08-25\n\nRemixer: DJ Rhythm\n\nAuto-generated by YouTube.",
+                    "title": "I'm In Love (Rhythm's Infinite Groove Mix)"
+                }
+            ]
+        }
+    }
+}

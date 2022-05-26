@@ -1,0 +1,219 @@
+{
+    "release": {
+        "_id": "31699",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "14805",
+                "join": "",
+                "name": "The Fires Of Ork",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "50327",
+                    "entity_type": "17",
+                    "entity_type_name": "Pressed By",
+                    "id": "277449",
+                    "name": "P+O Pallas",
+                    "resource_url": "https://api.discogs.com/labels/277449"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "265012",
+                    "name": "Klanglabor Hödeshof",
+                    "resource_url": "https://api.discogs.com/labels/265012"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "andre@faxlabel.com",
+                    "id": "2022694",
+                    "join": "",
+                    "name": "Andre Ruello",
+                    "role": "Graphics",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "25441",
+                    "join": "",
+                    "name": "Geir Jenssen",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "58657",
+                    "join": "",
+                    "name": "Peter Kuhlmann",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "25441",
+                    "join": "",
+                    "name": "Geir Jenssen",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Variant 1, 2",
+                    "_type": "Mastering SID Code",
+                    "_value": "IFPI L962"
+                },
+                {
+                    "_description": "Variant 1",
+                    "_type": "Mould SID Code",
+                    "_value": "IFPI 3J07"
+                },
+                {
+                    "_description": "Variant 2",
+                    "_type": "Mould SID Code",
+                    "_value": "none"
+                },
+                {
+                    "_description": "Variant 1, 2",
+                    "_type": "Matrix / Runout",
+                    "_value": "PW 44 P+O-50327-A2 11-00"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "453",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "453"
+                },
+                {
+                    "_height": "461",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "459"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PW 44",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "21697"
+        },
+        "notes": "Recorded at Klanglabor, Traben-Trarbach - Mosel 2000.\r\nLimited to 3000 copies.\r\nMade in Germany.",
+        "released": "2000-11-13",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Experimental"
+            ]
+        },
+        "title": "The Fires Of Ork 2",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "9:51",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "39678",
+                            "join": "",
+                            "name": "Jenny Gibbert",
+                            "role": "Vocals",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "1",
+                    "title": "In Heaven"
+                },
+                {
+                    "duration": "10:05",
+                    "position": "2",
+                    "title": "When The Night Was Black"
+                },
+                {
+                    "duration": "9:42",
+                    "position": "3",
+                    "title": "Sky Lounge"
+                },
+                {
+                    "duration": "11:21",
+                    "position": "4",
+                    "title": "A Way To Focus The Mind"
+                },
+                {
+                    "duration": "12:21",
+                    "position": "5",
+                    "title": "Nouvelles Machines"
+                }
+            ]
+        },
+        "videos": {
+            "video": {
+                "_duration": "3210",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=TvO17doO_U4",
+                "description": "Artist: Pete Namlook \u0026 Geir Jenssen\nAlbum: The Fires of Ork 2\nLabel: Fax\nYear: 2000\n\n1. In Heaven [00:00]\n2. When the Night Was Black [09:53]\n3. Sky Lounge [20:01]\n4. A Way to Focus the Mind [29:45]\n5. Nouvelles machines [41:08]\n\n\nAll music uploaded to th",
+                "title": "Pete Namlook \u0026 Geir Jenssen - The Fires of Ork 2 (Full Album) [2000]"
+            }
+        }
+    }
+}

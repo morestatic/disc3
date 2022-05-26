@@ -1,0 +1,133 @@
+{
+    "release": {
+        "_id": "194448",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "41720",
+                "join": "",
+                "name": "Gorn",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "Germany",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "B. Cox",
+                    "id": "145578",
+                    "join": "",
+                    "name": "Bela Cox",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "16732",
+                    "join": "",
+                    "name": "Massimo Vivona",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM",
+                        "45 RPM",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "586",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "487",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "483"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PS 08/19",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Limitation: 500\n\nNotations in runout grooves:\nA: Produced at Option Studio / Phantasy\nB: Respect To All Ravers In The Univers...\n\nSide A plays 45rpm\nSide B plays 33 1/3 rpm",
+        "released": "1993-04-19",
+        "styles": {
+            "style": "Trance"
+        },
+        "title": "Gorn",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "6:56",
+                    "position": "A",
+                    "title": "Giovenes"
+                },
+                {
+                    "duration": "9:24",
+                    "position": "B1",
+                    "title": "Delargo 1"
+                },
+                {
+                    "duration": "6:16",
+                    "position": "B2",
+                    "title": "Delargo 2"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "421",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=QrHBqhlkSRE",
+                    "description": "Trance 1993",
+                    "title": "Gorn - Giovenes.wmv"
+                },
+                {
+                    "_duration": "568",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=byduZrWrp8M",
+                    "description": "",
+                    "title": "Gorn - Delargo 1"
+                },
+                {
+                    "_duration": "376",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=1n7KKo3xDOk",
+                    "description": "Released on the Gorn 12 EP (PS 08/19) Music by Massimo Vivona and Bela Cox. Video and 3D images by: Abstructure \nThe Gorn album on Bandcamp  --- https://gornfaxrecords.bandcamp.com/album/gorn-album\nMassimo Vivona on Youtube --- https://www.youtube.com/ch",
+                    "title": "Gorn - Delargo #2"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,148 @@
+{
+    "release": {
+        "_id": "96635",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "194",
+                "join": "",
+                "name": "Various",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "UK",
+        "data_quality": "Needs Vote",
+        "extraartists": "",
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "EP",
+                        "Sampler"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "587",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "266",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "266"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "FHM 2 SAM",
+                "_id": "40",
+                "_name": "Loaded Records"
+            }
+        },
+        "released": "2002",
+        "styles": {
+            "style": [
+                "House",
+                "Future Jazz"
+            ]
+        },
+        "title": "Fine House Music Vol. 2 (Album Sampler)",
+        "tracklist": {
+            "track": [
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "75000",
+                            "join": "",
+                            "name": "Emulsion",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "532",
+                            "join": "",
+                            "name": "Ashley Beedle",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "A",
+                    "title": "Kinda Blue (Ashley Beedle Remix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "95",
+                            "join": "",
+                            "name": "Laid",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "B1",
+                    "title": "That's Why (I'm Burning)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "14923",
+                            "join": "",
+                            "name": "Annie",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "B2",
+                    "title": "I Will Get On"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "487",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=bKY_CBJlIFo",
+                    "description": "House. Nice vocal track",
+                    "title": "Kinda Blue - Ashley Beedle Mix - Loaded Album Sampler"
+                },
+                {
+                    "_duration": "350",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=5xOTvbcohHI",
+                    "description": "",
+                    "title": "Annie - I Will Get On (Audio)"
+                }
+            ]
+        }
+    }
+}

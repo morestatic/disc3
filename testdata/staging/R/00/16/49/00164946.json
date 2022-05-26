@@ -1,0 +1,576 @@
+{
+    "release": {
+        "_id": "164946",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "194",
+                "join": "",
+                "name": "Various",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "1501550",
+                    "name": "Systolic Music",
+                    "resource_url": "https://api.discogs.com/labels/1501550"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "324139",
+                    "name": "Deluxe Tempo Music",
+                    "resource_url": "https://api.discogs.com/labels/324139"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "272719",
+                    "name": "Fur \u0026 Femur Music",
+                    "resource_url": "https://api.discogs.com/labels/272719"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "364860",
+                    "name": "Diastolic Music",
+                    "resource_url": "https://api.discogs.com/labels/364860"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "1501550",
+                    "name": "Systolic Music",
+                    "resource_url": "https://api.discogs.com/labels/1501550"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "324139",
+                    "name": "Deluxe Tempo Music",
+                    "resource_url": "https://api.discogs.com/labels/324139"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "272719",
+                    "name": "Fur \u0026 Femur Music",
+                    "resource_url": "https://api.discogs.com/labels/272719"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "364860",
+                    "name": "Diastolic Music",
+                    "resource_url": "https://api.discogs.com/labels/364860"
+                }
+            ]
+        },
+        "country": "US",
+        "data_quality": "Needs Vote",
+        "extraartists": "",
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "Compilation"
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Text",
+                    "_type": "Barcode",
+                    "_value": "8 04223-0005-2 2"
+                },
+                {
+                    "_description": "Scanned",
+                    "_type": "Barcode",
+                    "_value": "804223000522"
+                },
+                {
+                    "_type": "Rights Society",
+                    "_value": "BMI"
+                },
+                {
+                    "_type": "Rights Society",
+                    "_value": "ASCAP"
+                },
+                {
+                    "_description": "Mirrored",
+                    "_type": "Matrix / Runout",
+                    "_value": "DADR 1XJN2\u003c0857\u003e00052"
+                },
+                {
+                    "_description": "Mirrored",
+                    "_type": "Mastering SID Code",
+                    "_value": "IFPI L482"
+                },
+                {
+                    "_type": "Mould SID Code",
+                    "_value": "IFPI8110"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "409",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "540"
+                },
+                {
+                    "_height": "574",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "576"
+                },
+                {
+                    "_height": "548",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "556"
+                },
+                {
+                    "_height": "297",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": [
+                {
+                    "_catno": "NMCD005",
+                    "_id": "10",
+                    "_name": "Naked Music Recordings"
+                },
+                {
+                    "_catno": "NM 005",
+                    "_id": "10",
+                    "_name": "Naked Music Recordings"
+                }
+            ]
+        },
+        "master_id": {
+            "_is_main_release": "false",
+            "content": "337327"
+        },
+        "released": "2001",
+        "styles": {
+            "style": "Deep House"
+        },
+        "title": "Bare Essentials Volume One",
+        "tracklist": {
+            "track": [
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "669",
+                            "join": "",
+                            "name": "Petalpusher",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "32",
+                            "join": "",
+                            "name": "Jay Denes",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "1",
+                    "title": "Breakin' It Down (Jay's Blue Vocal)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "33",
+                            "join": "",
+                            "name": "Blue Six",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "35",
+                            "join": "",
+                            "name": "Attaboy",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "2",
+                    "title": "Music \u0026 Wine (Th'Attaboy Vocal)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "36",
+                            "join": "",
+                            "name": "Lovetronic",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "3",
+                    "title": "You Are Love (Original Version)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "30",
+                            "join": "",
+                            "name": "Groove Collective",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "31",
+                            "join": "",
+                            "name": "Swag",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "4",
+                    "title": "Everything Is Changing (Swag Remix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "669",
+                            "join": "",
+                            "name": "Petalpusher",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "5",
+                    "title": "Surrender (Original)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "667",
+                            "join": "",
+                            "name": "Nightsource",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "6",
+                    "title": "Don't Ya Wanna?"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "668",
+                            "join": "",
+                            "name": "Summerland",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "7",
+                    "title": "Soulmate (Original)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "669",
+                            "join": "",
+                            "name": "Petalpusher",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "8",
+                    "title": "Breakin' It Down (Mig's Bump Deluxe Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "33",
+                            "join": "",
+                            "name": "Blue Six",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "32",
+                            "join": "",
+                            "name": "Jay Denes",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "9",
+                    "title": "Music \u0026 Wine (Jay's Conga Lounge Vocal)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "36",
+                            "join": "",
+                            "name": "Lovetronic",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "Si Brad",
+                            "id": "356735",
+                            "join": "",
+                            "name": "Simon Bradshaw",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "10",
+                    "title": "You Are Love (Si Brad's Payback Dub)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "669",
+                            "join": "",
+                            "name": "Petalpusher",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "35",
+                            "join": "",
+                            "name": "Attaboy",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "11",
+                    "title": "Surrender (Attaboy Remix Edit)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "668",
+                            "join": "",
+                            "name": "Summerland",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "5318",
+                            "join": "",
+                            "name": "Restless Soul",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "12",
+                    "title": "Soulmate (Restless Soul Moontime Dub)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "33",
+                            "join": "",
+                            "name": "Blue Six",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "13",
+                    "title": "Pure (Original)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "424",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=dCDlY8Mqs1c",
+                    "description": "© Naked Music Recordings 1999, Various Artists ''Bare Essentials Volume 1'' \nStyle: Deep House\n\nhttp://www.naked-music.com/",
+                    "title": "Lovetronic - You Are Love (Original Version)"
+                },
+                {
+                    "_duration": "385",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=HCXBijS-DaQ",
+                    "description": "Provided to YouTube by Universal Music Group\n\nBreakin' It Down (Jay's Blue Vocal) · Petalpusher\n\nBare Essentials\n\n℗ 1999 Naked Music NYC Recordings LLC\n\nReleased on: 2002-01-01\n\nProducer: Miguel Migs\nAssociated  Performer, Vocals: Ledisi\nStudio  Person",
+                    "title": "Breakin' It Down (Jay's Blue Vocal)"
+                },
+                {
+                    "_duration": "432",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=5f9_skxc8n8",
+                    "description": "Provided to YouTube by Universal Music Group\n\nMusic \u0026 Wine (Th'Attaboy Vocal) · blue six\n\nBare Essentials\n\n℗ 1999 Naked Music NYC Recordings LLC\n\nReleased on: 2002-01-01\n\nProducer: Jay Denes\nAssociated  Performer, Vocals: Catherine Russell\nStudio  Pers",
+                    "title": "Music \u0026 Wine (Th'Attaboy Vocal)"
+                },
+                {
+                    "_duration": "424",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=_V5Ybtx99lw",
+                    "description": "Provided to YouTube by Universal Music Group\n\nYou Are Love (Original Version) · Lovetronic\n\nBare Essentials\n\n℗ 1999 Naked Music NYC Recordings LLC\n\nReleased on: 2002-01-01\n\nProducer: Dave Warrin\nProducer: Jay Denes\nAssociated  Performer, Vocals: Lisa S",
+                    "title": "You Are Love (Original Version)"
+                },
+                {
+                    "_duration": "431",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=3w_7IyedH1I",
+                    "description": "Provided to YouTube by Universal Music Group\n\nEverything Is Changing (Swag Remix) · Groove Collective\n\nBare Essentials\n\n℗ 1999 Naked Music NYC Recordings LLC\n\nReleased on: 2002-01-01\n\nProducer, Co- Producer: Groove Collective\nProducer: G. Siraisi\nProdu",
+                    "title": "Everything Is Changing (Swag Remix)"
+                },
+                {
+                    "_duration": "421",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=k5zqX-fNJWU",
+                    "description": "Bare Essentials Volume 1 (2001) is a compilation of house \u0026 dance tracks featured on the Naked Music NYC label. Included are original, remix, and dub versions, some previously unreleased by Petalpusher, Groove Collective, Lovetronic, Blue Six, Night Sourc",
+                    "title": "Lovetronic - You Are Love (Original Version)"
+                },
+                {
+                    "_duration": "390",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=kb9QEbyLE3s",
+                    "description": "Provided to YouTube by Universal Music Group\n\nSurrender (Original) · Petalpusher\n\nBare Essentials\n\n℗ 1999 Naked Music NYC Recordings LLC\n\nReleased on: 2002-01-01\n\nProducer: Miguel Migs\nAssociated  Performer, Vocals: L. Normand\nStudio  Personnel, Engine",
+                    "title": "Surrender (Original)"
+                },
+                {
+                    "_duration": "267",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=UGhe7uBkG9s",
+                    "description": "Provided to YouTube by Universal Music Group\n\nPure · blue six\n\nBare Essentials\n\n℗ 1999 Naked Music NYC Recordings LLC\n\nReleased on: 2002-01-01\n\nProducer, Studio  Personnel, Mixer, Associated  Performer, Programming: Jay Denes\nAssociated  Performer, Voc",
+                    "title": "Pure"
+                },
+                {
+                    "_duration": "342",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=W9IqAACbPNI",
+                    "description": "Provided to YouTube by Universal Music Group\n\nDon't Ya Wanna · Nightsource\n\nBare Essentials\n\n℗ 1999 Naked Music NYC Recordings LLC\n\nReleased on: 2002-01-01\n\nProducer, Studio  Personnel, Engineer: DJ Rasoul\nProducer: Miguel Steward\nComposer: Miguel Stew",
+                    "title": "Don't Ya Wanna"
+                },
+                {
+                    "_duration": "211",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=DZxfYKcl_OQ",
+                    "description": "",
+                    "title": "Deep House Music  Summerland   Soulmate mp3"
+                },
+                {
+                    "_duration": "408",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Dmq2MCQM1wM",
+                    "description": "Mar/10/1999. Breakin' It Down Vinyl, 12  -  Naked Music Recordings",
+                    "title": "Petalpusher  -  Breakin' It Down (Mig's Bump Deluxe Vocal)"
+                },
+                {
+                    "_duration": "331",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=V8mX6zXclHk",
+                    "description": "Provided to YouTube by Universal Music Group\n\nMusic \u0026 Wine (Jay's Conga Lounge Vocal) · blue six\n\nBare Essentials\n\n℗ 1999 Naked Music NYC Recordings LLC\n\nReleased on: 2002-01-01\n\nProducer, Associated  Performer, Music  Production, Studio  Personnel, Re",
+                    "title": "Music \u0026 Wine (Jay's Conga Lounge Vocal)"
+                },
+                {
+                    "_duration": "445",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=_0ivMlEwOu8",
+                    "description": "Provided to YouTube by Universal Music Group\n\nYou Are Love (Brad's Payback Vocal) · Lovetronic\n\nBare Essentials\n\n℗ 1999 Naked Music NYC Recordings LLC\n\nReleased on: 2002-01-01\n\nProducer: Dave Warrin\nProducer: Jay Denes\nAssociated  Performer, Vocals: Li",
+                    "title": "You Are Love (Brad's Payback Vocal)"
+                },
+                {
+                    "_duration": "350",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=cYH6OWEumWs",
+                    "description": "Provided to YouTube by Universal Music Group\n\nSurrender (Attaboy Remix Edit) · Petalpusher\n\nBare Essentials\n\n℗ 1999 Naked Music NYC Recordings LLC\n\nReleased on: 2002-01-01\n\nProducer: Miguel Migs\nAssociated  Performer, Vocals: L. Normand\nAssociated  Per",
+                    "title": "Surrender (Attaboy Remix Edit)"
+                },
+                {
+                    "_duration": "350",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=TED-Rh6bp0c",
+                    "description": "Provided to YouTube by Universal Music Group\n\nSoulmate (Restless Soul Moontime Dub) · Summerland\n\nBare Essentials\n\n℗ 1999 Naked Music NYC Recordings LLC\n\nReleased on: 2002-01-01\n\nProducer: Mark Anthony Jones\nProducer: Jay Denes\nAssociated  Performer, M",
+                    "title": "Soulmate (Restless Soul Moontime Dub)"
+                }
+            ]
+        }
+    }
+}

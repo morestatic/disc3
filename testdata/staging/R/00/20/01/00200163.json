@@ -1,0 +1,156 @@
+{
+    "release": {
+        "_id": "200163",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "149124",
+                "join": "",
+                "name": "Cycloid (2)",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "Germany",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "Corrado",
+                    "id": "45455",
+                    "join": "",
+                    "name": "Corrado Izzo",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                },
+                {
+                    "_description": "A-Side",
+                    "_type": "Matrix / Runout",
+                    "_value": "= Produced At Klanglabor For Namlook Productions ="
+                },
+                {
+                    "_description": "B-Side",
+                    "_type": "Matrix / Runout",
+                    "_value": "- Ein Tag Wie Veder Andere... -"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "500",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                },
+                {
+                    "_height": "500",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/124",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "523281"
+        },
+        "notes": "Limitation: 500",
+        "released": "1996-12-16",
+        "styles": {
+            "style": [
+                "Techno",
+                "Electro",
+                "Ambient"
+            ]
+        },
+        "title": "Cycloid",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "11:24",
+                    "position": "A",
+                    "title": "Advanced"
+                },
+                {
+                    "duration": "6:20",
+                    "position": "B1",
+                    "title": "Inside"
+                },
+                {
+                    "duration": "7:31",
+                    "position": "B2",
+                    "title": "Forward"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "685",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=5dMz385gKGU",
+                    "description": "Fax +49-69/450464 ‎– PK 08/124\nCycloid (Peter Kuhlmann, Corrado Izzo) - Cycloid (1996)",
+                    "title": "Cycloid - Advanced [Fax +49-69/450464]"
+                },
+                {
+                    "_duration": "380",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=8x1DNmZWY-g",
+                    "description": "Fax +49-69/450464 ‎– PK 08/124\nCycloid (Peter Kuhlmann, Corrado Izzo) - Cycloid (1996)",
+                    "title": "Cycloid - Inside [Fax +49-69/450464]"
+                },
+                {
+                    "_duration": "452",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=GpeVqtQFjbA",
+                    "description": "Fax +49-69/450464 – PK 08/124 \nCycloid (Peter Kuhlmann, Corrado Izzo) - Cycloid (1996)",
+                    "title": "Cycloid - Forward [Fax +49-69/450464]"
+                }
+            ]
+        }
+    }
+}

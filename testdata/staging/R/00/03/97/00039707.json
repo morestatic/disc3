@@ -1,0 +1,271 @@
+{
+    "release": {
+        "_id": "39707",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "5511",
+                "join": "",
+                "name": "Slacker",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "9",
+                    "entity_type_name": "Distributed By",
+                    "id": "233341",
+                    "name": "Warner Music United Kingdom",
+                    "resource_url": "https://api.discogs.com/labels/233341"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "5",
+                    "entity_type_name": "Licensed To",
+                    "id": "160",
+                    "name": "XL Recordings",
+                    "resource_url": "https://api.discogs.com/labels/160"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "45746",
+                    "name": "EMI Music",
+                    "resource_url": "https://api.discogs.com/labels/45746"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "17",
+                    "entity_type_name": "Pressed By",
+                    "id": "141989",
+                    "name": "Damont",
+                    "resource_url": "https://api.discogs.com/labels/141989"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "30",
+                    "entity_type_name": "Lacquer Cut At",
+                    "id": "158759",
+                    "name": "The Exchange",
+                    "resource_url": "https://api.discogs.com/labels/158759"
+                }
+            ]
+        },
+        "country": "UK",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "1839100",
+                    "join": "",
+                    "name": "Alex Jenkins",
+                    "role": "Design",
+                    "tracks": ""
+                },
+                {
+                    "anv": "Guys",
+                    "id": "369860",
+                    "join": "",
+                    "name": "Guy Davie",
+                    "role": "Lacquer Cut By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "Alan Schein/The Stock Market",
+                    "id": "3649505",
+                    "join": "",
+                    "name": "Alan Schein",
+                    "role": "Photography By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "26042",
+                    "join": "",
+                    "name": "Joanna Law",
+                    "role": "Vocals",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "231610",
+                    "join": "",
+                    "name": "Shem McCauley",
+                    "role": "Written-By, Producer, Mixed By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "46743",
+                    "join": "",
+                    "name": "Simon Rogers",
+                    "role": "Written-By, Producer, Mixed By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM",
+                        "Single"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Text",
+                    "_type": "Barcode",
+                    "_value": "6 34904 10876 2"
+                },
+                {
+                    "_description": "Scanned",
+                    "_type": "Barcode",
+                    "_value": "634904108762"
+                },
+                {
+                    "_description": "Side A, runout hand etched",
+                    "_type": "Matrix / Runout",
+                    "_value": "XLT 87 A² GUYS -THE EXCHANGE- DAMONT"
+                },
+                {
+                    "_description": "Side B, runout hand etched",
+                    "_type": "Matrix / Runout",
+                    "_value": "XLT 87 AA' DAMONT"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "597",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "598",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "607",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "603",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": [
+                {
+                    "_catno": "XLT 87",
+                    "_id": "160",
+                    "_name": "XL Recordings"
+                },
+                {
+                    "_catno": "XLT 87",
+                    "_id": "40",
+                    "_name": "Loaded Records"
+                }
+            ]
+        },
+        "master_id": {
+            "_is_main_release": "false",
+            "content": "77195"
+        },
+        "released": "1997-08-18",
+        "styles": {
+            "style": [
+                "Trance",
+                "House"
+            ]
+        },
+        "title": "Your Face",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "7:23",
+                    "position": "A1",
+                    "title": "Your Face (In The Mirror)"
+                },
+                {
+                    "duration": "6:31",
+                    "position": "A2",
+                    "title": "Your Face (In The Crowd)"
+                },
+                {
+                    "duration": "11:51",
+                    "position": "B",
+                    "title": "Your Face (Schizoid)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "184",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=51N8c-3L0Q8",
+                    "description": "Slacker - Your face Clip, on Electric Circus.",
+                    "title": "Slacker - Your Face"
+                },
+                {
+                    "_duration": "444",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=7Xmlx-FU2Vo",
+                    "description": "Slacker - Your Face (In The Mirror)",
+                    "title": "Slacker - Your Face (In The Mirror) (HQ)"
+                },
+                {
+                    "_duration": "394",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=GjfQ2e_kXpw",
+                    "description": "https://www.junodownload.com/products/slacker-your-face/1245771-02/\nhttps://www.discogs.com/Slacker-Your-Face-The-Way-We-Are/master/77195",
+                    "title": "Slacker - Your Face (In The Crowd) [1997]"
+                },
+                {
+                    "_duration": "716",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=nmsFv-uvUP8",
+                    "description": "Buy here: https://www.junodownload.com/products/slacker-your-face/1245771-02/?track_number=3\n\nIF YOU ARE THE COPYRIGHT OWNER AND WANT ME TO REMOVE THE VIDEO, PLEASE CONTACT ME AND I WILL DELETE IT WITHIN 24HRS\n\nhttps://www.facebook.com/trance.classics.off",
+                    "title": "Slacker - Your Face (Schizoid) (1997)"
+                },
+                {
+                    "_duration": "431",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=WqTR0zEJkiM",
+                    "description": "https://www.discogs.com/Slacker-Your-Face-The-Way-We-Are/release/46166",
+                    "title": "Slacker - The Way We Are [1997]"
+                }
+            ]
+        }
+    }
+}

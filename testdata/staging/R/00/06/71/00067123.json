@@ -1,0 +1,222 @@
+{
+    "release": {
+        "_id": "67123",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "293000",
+                "join": "",
+                "name": "I.F.",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "10",
+                    "entity_type_name": "Manufactured By",
+                    "id": "291931",
+                    "name": "CD Plant MFG",
+                    "resource_url": "https://api.discogs.com/labels/291931"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "265055",
+                    "name": "reSource Heidelberg",
+                    "resource_url": "https://api.discogs.com/labels/265055"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "41714",
+                    "join": "",
+                    "name": "Charles Uzzell-Edwards",
+                    "role": "Cover [Cover Photos], Photography By [Cover Photos]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "944",
+                    "join": "",
+                    "name": "Deep Space Network",
+                    "role": "Performer [I.F. Is]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "8521",
+                    "join": "",
+                    "name": "Dr. Atmo",
+                    "role": "Performer [I.F. Is]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "944",
+                    "join": "",
+                    "name": "Deep Space Network",
+                    "role": "Written-By [All Tracks]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "8521",
+                    "join": "",
+                    "name": "Dr. Atmo",
+                    "role": "Written-By [All Tracks]",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "CD PLANT MFG PS 08/56 CDM01"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "607",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "479",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "621",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "606",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "594",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PS 08/56",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "I.F. \r\nIntergalactic Federation\r\n\r\nI.F. is Deep Space Network (David Moufang + Jonas Grossmann) and Dr. Atmo\r\n\r\nI.F.\r\nHeidelberg - Frankfurt 1994\r\n\r\nRecorded at Resource Studio Heidelberg\r\n\r\nMade in Germany\r\n\r\nLimitation: 1,000",
+        "released": "1994-10-24",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Downtempo",
+                "Dub"
+            ]
+        },
+        "title": "I.F. 2",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "16:07",
+                    "position": "1",
+                    "title": "Dub 1"
+                },
+                {
+                    "duration": "17:40",
+                    "position": "2",
+                    "title": "Underwater"
+                },
+                {
+                    "duration": "15:54",
+                    "position": "3",
+                    "title": "Dub 2"
+                },
+                {
+                    "duration": "16:47",
+                    "position": "4",
+                    "title": "Intergalactic Funk"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "969",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=EX-qwBBxZfw",
+                    "description": "Intergalactic Federation 2\n(Deep Space Network \u0026 Dr Atmo)\nFax Records 1994",
+                    "title": "I.F.2 - Dub 1"
+                },
+                {
+                    "_duration": "1058",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=lePDOgSbpTU",
+                    "description": "I.F. = Intergalactic Federation \nReleased on the I.F. 2 album, 1993.\nMusic: Deep Space Network (David Moufang + Jonas Grossmann) and Dr. Atmo (Amir Abadi) \nVideo: Abstructure",
+                    "title": "I.F.  - Underwater"
+                },
+                {
+                    "_duration": "955",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=m0mIjCK_VTo",
+                    "description": "Intergalactic Federation 2\n(Deep Space Network \u0026 Dr Atmo)\nFax Records 1994",
+                    "title": "I.F.2 - Dub 2"
+                },
+                {
+                    "_duration": "1008",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=0b4h5rwhf-g",
+                    "description": "Intergalactic Federation 2\n(Deep Space Network \u0026 Dr Atmo)\nFax Records 1994",
+                    "title": "I.F.2 - Intergalactic Funk"
+                }
+            ]
+        }
+    }
+}

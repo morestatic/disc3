@@ -1,0 +1,336 @@
+{
+    "release": {
+        "_id": "52733",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "32186",
+                "join": "",
+                "name": "Oskar Sala",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "6",
+                    "entity_type_name": "Licensed From",
+                    "id": "274348",
+                    "name": "Erdenklang Musikverlag Ulrich Rützel",
+                    "resource_url": "https://api.discogs.com/labels/274348"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "274348",
+                    "name": "Erdenklang Musikverlag Ulrich Rützel",
+                    "resource_url": "https://api.discogs.com/labels/274348"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "274348",
+                    "name": "Erdenklang Musikverlag Ulrich Rützel",
+                    "resource_url": "https://api.discogs.com/labels/274348"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "274348",
+                    "name": "Erdenklang Musikverlag Ulrich Rützel",
+                    "resource_url": "https://api.discogs.com/labels/274348"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "17",
+                    "entity_type_name": "Pressed By",
+                    "id": "291931",
+                    "name": "CD Plant MFG",
+                    "resource_url": "https://api.discogs.com/labels/291931"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "32186",
+                    "join": "",
+                    "name": "Oskar Sala",
+                    "role": "Composed By, Performer [Played By], Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1862265",
+                    "join": "",
+                    "name": "Nikolaus Heydick",
+                    "role": "Liner Notes",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "32186",
+                    "join": "",
+                    "name": "Oskar Sala",
+                    "role": "Liner Notes",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1646055",
+                    "join": "",
+                    "name": "Frederick A. Bishop",
+                    "role": "Liner Notes [Translation]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "3441250",
+                    "join": "",
+                    "name": "Jan Reetze",
+                    "role": "Liner Notes [Translation]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "58657",
+                    "join": "",
+                    "name": "Peter Kuhlmann",
+                    "role": "Mastered By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Remastered By [Digital Remastering]",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Reissue",
+                        "Remastered",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": [
+                "Electronic",
+                "Classical"
+            ]
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                },
+                {
+                    "_type": "Rights Society",
+                    "_value": "GEMA"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "CD PLANT MFG PS 08/76 CDM01"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "595",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "465",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "598"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PS 08/76",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "false",
+            "content": "84505"
+        },
+        "notes": "Limited to 1000 copies.\r\n\r\nTrack 7: From \"Fantasie-Suite In Drei Sätzen Für Mixturtrautonium Solo\" played live at his studio direct to DAT (DDD).\r\n\r\nMastering: 1990.\r\nDigitally re-mastered 1995.\r\n\r\nAll titles published by Erdenklang Musikverlag Ulrich Rützel.\r\nLicensed from Erdenklang Musikverlag Ulrich Rützel.\r\n℗ + © 1990 by Erdenklang Musikverlag Ulrich Rützel.",
+        "released": "1995-05-29",
+        "styles": {
+            "style": [
+                "Modern",
+                "Experimental"
+            ]
+        },
+        "title": "My Fascinating Instrument",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "20:49",
+                    "position": "",
+                    "sub_tracks": {
+                        "track": [
+                            {
+                                "duration": "8:57",
+                                "position": "1a",
+                                "title": "Demonstration"
+                            },
+                            {
+                                "duration": "6:15",
+                                "position": "1b",
+                                "title": "Skala Nuova"
+                            },
+                            {
+                                "duration": "5:37",
+                                "position": "1c",
+                                "title": "Farbmelodie"
+                            }
+                        ]
+                    },
+                    "title": "Fantasie-Suite In Drei Sätzen Für Mixturtrautonium Solo"
+                },
+                {
+                    "duration": "12:21",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "Friedrich Schönfelder",
+                                "id": "274716",
+                                "join": "",
+                                "name": "Friedrich Schoenfelder",
+                                "role": "Read By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "Jean Paul",
+                                "id": "1741134",
+                                "join": "",
+                                "name": "Johann Paul Friedrich Richter",
+                                "role": "Words By [Text]",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "2",
+                    "title": "Rede Des Toten Christus Vom Weltgebäude Herab, Daß Kein Gott Sei"
+                },
+                {
+                    "duration": "4:44",
+                    "position": "3",
+                    "title": "Largo - Hommage À Hermann Scherchen"
+                },
+                {
+                    "duration": "1:09",
+                    "position": "4",
+                    "title": "Fanfare"
+                },
+                {
+                    "duration": "6:38",
+                    "position": "5",
+                    "title": "Impression Electronique - Hommage À Bourges"
+                },
+                {
+                    "duration": "16:04",
+                    "position": "",
+                    "sub_tracks": {
+                        "track": [
+                            {
+                                "duration": "3:13",
+                                "position": "6a",
+                                "title": "Concertando Rubato"
+                            },
+                            {
+                                "duration": "3:39",
+                                "position": "6b",
+                                "title": "Expressivo"
+                            },
+                            {
+                                "duration": "3:14",
+                                "position": "6c",
+                                "title": "Giocoso"
+                            },
+                            {
+                                "duration": "2:34",
+                                "position": "6d",
+                                "title": "Strepitoso"
+                            },
+                            {
+                                "duration": "3:23",
+                                "position": "6e",
+                                "title": "Furioso"
+                            }
+                        ]
+                    },
+                    "title": "Elektronische Tanzsuite Für Mixturtrautonium Solo Und Mixturorchester (Tonband) In Fünf Sätzen"
+                },
+                {
+                    "duration": "7:00",
+                    "position": "7",
+                    "title": "Demonstration (Live-Version)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "1250",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=O0CpIEqDtjE",
+                    "description": "From: Oskar Sala - My Fascinating Instrument FAX PS 08/76",
+                    "title": "Oskar Sala - Fantasie Suite in drei Sätzen fuer Mixturtrautonium Solo"
+                },
+                {
+                    "_duration": "403",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=DBwWpOrqwxY",
+                    "description": "On the album My Fascinating Instrument",
+                    "title": "Oskar Sala - Elektronische Tanzsuite I"
+                },
+                {
+                    "_duration": "549",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=PywmPugpHkw",
+                    "description": "On the album My Fascinating Instrument",
+                    "title": "Oskar Sala - Elektronische Tanzsuite II"
+                }
+            ]
+        }
+    }
+}

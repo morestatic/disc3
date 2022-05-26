@@ -1,0 +1,127 @@
+{
+    "release": {
+        "_id": "84103",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "26579",
+                "join": "",
+                "name": "Demarkus Lewis",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "US",
+        "data_quality": "Correct",
+        "extraartists": "",
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "12\""
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "500",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                },
+                {
+                    "_height": "500",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "FPR0011",
+                "_id": "50",
+                "_name": "Fair Park"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "1193453"
+        },
+        "notes": "Written \u0026 produced by Demarkus\r\nLewis for Troubled Lover Music.\r\n\r\nRemixed by James 'General' \r\nPatton \u0026 Sean Holland.\r\n\r\nB2 vocal stylings by Leilou Garrigue.\r\n\r\nTrack durations not mentioned on labels.",
+        "released": "2003-01-30",
+        "styles": {
+            "style": "Deep House"
+        },
+        "title": "Why U Wanna?",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "7:28",
+                    "position": "A",
+                    "title": "Why U Wanna? (Original Mix)"
+                },
+                {
+                    "duration": "5:58",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "66061",
+                            "join": "",
+                            "name": "James \"General\" Patton \u0026 Sean Holland",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "B1",
+                    "title": "Why U Wanna? (Coco Dub)"
+                },
+                {
+                    "duration": "3:57",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "66061",
+                                "join": "",
+                                "name": "James \"General\" Patton \u0026 Sean Holland",
+                                "role": "Remix",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "421128",
+                                "join": "",
+                                "name": "Leilou Garrigue",
+                                "role": "Vocals",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "B2",
+                    "title": "Why U Wanna? (Leilou's Balloon Mix)"
+                }
+            ]
+        },
+        "videos": {
+            "video": {
+                "_duration": "459",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=IPsoFA-kmlM",
+                "description": "",
+                "title": "Demarkus Lewis - Do U Wanna (Original Mix)"
+            }
+        }
+    }
+}

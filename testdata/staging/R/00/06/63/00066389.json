@@ -1,0 +1,141 @@
+{
+    "release": {
+        "_id": "66389",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "1452647",
+                "join": "",
+                "name": "Spies (2)",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "US",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "4524437",
+                    "join": "",
+                    "name": "Scott Osler",
+                    "role": "Executive Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1452647",
+                    "join": "",
+                    "name": "Spies (2)",
+                    "role": "Producer, Other [Mangled By]",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "FPR004",
+                "_id": "50",
+                "_name": "Fair Park"
+            }
+        },
+        "notes": "Distributed by Innergalactic Groove Source\r\n© 1997 FPR\r\nSide A samples [url=http://www.discogs.com/release/834782]Razzamatazz[/url] by Quincy Jones",
+        "released": "1997",
+        "styles": {
+            "style": "Deep House"
+        },
+        "title": "Makin' It Betta",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A",
+                    "title": "Makin' It Betta"
+                },
+                {
+                    "duration": "",
+                    "position": "B1",
+                    "title": "Never That Clever"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "JT",
+                            "id": "185",
+                            "join": "",
+                            "name": "J.T. Donaldson",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "B2",
+                    "title": "Spies (JT's Clever Dub)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "410",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=YyF4GkBKflA",
+                    "description": "Taken from this EP :\nhttp://www.discogs.com/Spies-Makin-It-Betta/release/66389",
+                    "title": "Spies - Makin' It Betta (FAIR PARK)"
+                },
+                {
+                    "_duration": "465",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=BsJLrWPPeyc",
+                    "description": "J.T. Donaldson \u0026 Timothy Shumaker\n\nMakin' It Betta\nLabel: Fair Park ‎\nFormat: Vinyl, 12\nCountry: US\nReleased: 1997 \n\nhttp://www.discogs.com/Spies-Makin-It-Betta/release/66389\n\n* This is a low sound quality upload.",
+                    "title": "Spies - Never That Clever [Fair Park]"
+                },
+                {
+                    "_duration": "302",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=XEVWNtN4UNw",
+                    "description": "https://www.discogs.com/Spies-Makin-It-Betta/release/66389\n\nDear producer/owner, the  purpose of this channel is to promote artists. No copyright infringement intended! If you want the music removed , please contact kerouacandsmileyt@gmail.com -  We will",
+                    "title": "Spies ‎– Spies (JT's Clever Dub)"
+                }
+            ]
+        }
+    }
+}

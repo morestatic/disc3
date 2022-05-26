@@ -1,0 +1,205 @@
+{
+    "release": {
+        "_id": "8328",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "62",
+                "join": "",
+                "name": "John Tejada",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "314115",
+                    "name": "Parallax Muzik",
+                    "resource_url": "https://api.discogs.com/labels/314115"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "29",
+                    "entity_type_name": "Mastered At",
+                    "id": "158759",
+                    "name": "The Exchange",
+                    "resource_url": "https://api.discogs.com/labels/158759"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "17",
+                    "entity_type_name": "Pressed By",
+                    "id": "56025",
+                    "name": "MPO",
+                    "resource_url": "https://api.discogs.com/labels/56025"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "9",
+                    "entity_type_name": "Distributed By",
+                    "id": "199013",
+                    "name": "Integrale Muzique Limited",
+                    "resource_url": "https://api.discogs.com/labels/199013"
+                }
+            ]
+        },
+        "country": "US",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "Grazz",
+                    "id": "399393",
+                    "join": "",
+                    "name": "Graeme Durham",
+                    "role": "Mastered By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "54102",
+                    "join": "",
+                    "name": "Anissa Manceau",
+                    "role": "Photography",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "12\""
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "338",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "340"
+                },
+                {
+                    "_height": "336",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "340"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PAL-16",
+                "_id": "30",
+                "_name": "Palette Recordings"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "86327"
+        },
+        "notes": "All songs Parallax Muzik B.M.I.",
+        "released": "2001-00-00",
+        "styles": {
+            "style": "Tech House"
+        },
+        "title": "Western Starland",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "160",
+                            "join": "",
+                            "name": "Arian Leviste",
+                            "role": "Featuring",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "A",
+                    "title": "Western Starland"
+                },
+                {
+                    "duration": "",
+                    "position": "B1",
+                    "title": "Memento"
+                },
+                {
+                    "duration": "",
+                    "position": "B2",
+                    "title": "Morning Becomes The Sun"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "327",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=l12IUyA7WeY",
+                    "description": "",
+                    "title": "John Tejada - Western starland"
+                },
+                {
+                    "_duration": "301",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=wuvEVZxmhhE",
+                    "description": "https://www.discogs.com/de/John-Tejada-Western-Starland/master/86327",
+                    "title": "John Tejada ‎– Western Starland"
+                },
+                {
+                    "_duration": "372",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=DtJh4RciOaI",
+                    "description": "",
+                    "title": "John Tejada \u0026 Arian Leviste ‎– Western Starland Remixes - Sampler"
+                },
+                {
+                    "_duration": "326",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=0XLWmYzWYrA",
+                    "description": "Provided to YouTube by WAS Word and Sound Medien GmbH\n\nWestern Starland (John Tejada VIP 2011) · John Tejada, Arian Leviste\n\nWestern Starland Remixes 2011\n\n℗ 2011 whatpeopleplay.com / Wordandsound Medien GmbH\n\nReleased on: 2011-05-30\n\nComposer: Arian L",
+                    "title": "Western Starland (John Tejada VIP 2011)"
+                },
+                {
+                    "_duration": "435",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=mazsm-Y9cTw",
+                    "description": "Label: Plus - Japan - 2003\nAlbum: John Tejada - PLUS John Tejada Los Angeles\nArtists: Soundhack / John Tejada - Germany / USA\n\nMixed and recorded live @ Palette, Los Angeles.\n\nLabel: http://www.discogs.com/label/Plus\nAlbum: http://www.discogs.com/John-Tej",
+                    "title": "Soundhack - Funkyrule / John Tejada - Timebomb (VIP Mix) - Mixed"
+                },
+                {
+                    "_duration": "163",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=_r9yZnqq7QE",
+                    "description": "Provided to YouTube by The Orchard Enterprises\n\nMemento · John Tejada\n\nBackstock\n\n℗ 2014 Urabon Records\n\nReleased on: 2002-07-23\n\nAuto-generated by YouTube.",
+                    "title": "Memento"
+                },
+                {
+                    "_duration": "402",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=GwggmwHCQeg",
+                    "description": "Provided to YouTube by WAS Word and Sound Medien GmbH\n\nWestern Starland (John Tejada Remix 2011) · John Tejada, Arian Leviste\n\nWestern Starland Remixes 2011\n\n℗ 2011 whatpeopleplay.com / Wordandsound Medien GmbH\n\nReleased on: 2011-05-30\n\nComposer: Arian",
+                    "title": "Western Starland (John Tejada Remix 2011)"
+                }
+            ]
+        }
+    }
+}

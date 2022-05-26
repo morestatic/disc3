@@ -1,0 +1,219 @@
+{
+    "release": {
+        "_id": "49473",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "26043",
+                "join": "",
+                "name": "Alien Community",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": {
+                "catno": "",
+                "entity_type": "10",
+                "entity_type_name": "Manufactured By",
+                "id": "291931",
+                "name": "CD Plant MFG",
+                "resource_url": "https://api.discogs.com/labels/291931"
+            }
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "2749220",
+                    "join": "",
+                    "name": "SFX Lab, Inc.",
+                    "role": "Graphics",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "33693",
+                    "join": "",
+                    "name": "Jonah Sharp",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "CD PLANT MFG PW 14 CDM01"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "500",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                },
+                {
+                    "_height": "238",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                },
+                {
+                    "_height": "500",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                },
+                {
+                    "_height": "380",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                },
+                {
+                    "_height": "500",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PW 14",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "The cover and insert only list on track with a duration of 1.00.39 however there are index tracks every 5 minutes on the CD.\r\n\r\nLimited to 1000 copies.\r\n\r\nReissued as part of [r=107218].",
+        "released": "1994-05-19",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Electro"
+            ]
+        },
+        "title": "Alien Community 2",
+        "tracklist": {
+            "track": {
+                "duration": "60:39",
+                "position": "",
+                "sub_tracks": {
+                    "track": [
+                        {
+                            "duration": "4:59",
+                            "position": "1",
+                            "title": "Part 1"
+                        },
+                        {
+                            "duration": "5:00",
+                            "position": "2",
+                            "title": "Part 2"
+                        },
+                        {
+                            "duration": "5:00",
+                            "position": "3",
+                            "title": "Part 3"
+                        },
+                        {
+                            "duration": "4:59",
+                            "position": "4",
+                            "title": "Part 4"
+                        },
+                        {
+                            "duration": "5:00",
+                            "position": "5",
+                            "title": "Part 5"
+                        },
+                        {
+                            "duration": "4:59",
+                            "position": "6",
+                            "title": "Part 6"
+                        },
+                        {
+                            "duration": "5:00",
+                            "position": "7",
+                            "title": "Part 7"
+                        },
+                        {
+                            "duration": "5:00",
+                            "position": "8",
+                            "title": "Part 8"
+                        },
+                        {
+                            "duration": "4:59",
+                            "position": "9",
+                            "title": "Part 9"
+                        },
+                        {
+                            "duration": "4:59",
+                            "position": "10",
+                            "title": "Part 10"
+                        },
+                        {
+                            "duration": "4:59",
+                            "position": "11",
+                            "title": "Part 11"
+                        },
+                        {
+                            "duration": "5:38",
+                            "position": "12",
+                            "title": "Part 12"
+                        }
+                    ]
+                },
+                "title": "A Long And Perilous Voyage"
+            }
+        },
+        "videos": {
+            "video": {
+                "_duration": "3640",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=li4lny-5eTU",
+                "description": "Track 1 - A Long And Perilous Voyage\nArtists : Pete Namlook \u0026 Jonah Sharp\nAlbum : Alien Community 2\n1994 FAX +49-69/450464",
+                "title": "Pete Namlook \u0026 Jonah Sharp - A Long And Perilous Voyage (Alien Community 2)"
+            }
+        }
+    }
+}

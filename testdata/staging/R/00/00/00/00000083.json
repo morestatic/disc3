@@ -1,0 +1,252 @@
+{
+    "release": {
+        "_id": "83",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "62",
+                "join": "",
+                "name": "John Tejada",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "2256",
+                    "entity_type": "17",
+                    "entity_type_name": "Pressed By",
+                    "id": "66254",
+                    "name": "Record Technology Incorporated",
+                    "resource_url": "https://api.discogs.com/labels/66254"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "30",
+                    "entity_type_name": "Lacquer Cut At",
+                    "id": "294209",
+                    "name": "Better Quality Sound",
+                    "resource_url": "https://api.discogs.com/labels/294209"
+                }
+            ]
+        },
+        "country": "US",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "T.A. Reich",
+                    "id": "2240700",
+                    "join": "",
+                    "name": "Todd Aarik Reich",
+                    "role": "Illustration",
+                    "tracks": ""
+                },
+                {
+                    "anv": "DC",
+                    "id": "408405",
+                    "join": "",
+                    "name": "David Cheppa",
+                    "role": "Lacquer Cut By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Etched, A side runout",
+                    "_type": "Matrix / Runout",
+                    "_value": "2256.1 (2) PAL 00 6 A Dc Bqs"
+                },
+                {
+                    "_description": "Etched, B side runout",
+                    "_type": "Matrix / Runout",
+                    "_value": "2256.2 (2) PAL 006 B"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "006",
+                "_id": "30",
+                "_name": "Palette Recordings"
+            }
+        },
+        "notes": "The Scene S Just Not What It Used To Be\n\nPalette Recordings 1998\n818-892-1354\nT.A. Reich 1998\n\nAccording to the runouts, side A is info ‘Bottom Side’, side B is ‘Top Side’.\nThe white die-cut innersleeve included doesn’t have any corners.",
+        "released": "1998",
+        "styles": {
+            "style": [
+                "Techno",
+                "Tech House"
+            ]
+        },
+        "title": "If I Were To Be You",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "",
+                    "title": "Bottom Side"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "62",
+                            "join": "",
+                            "name": "John Tejada",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "A1",
+                    "title": "If I Were To Be You"
+                },
+                {
+                    "artists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "62",
+                                "join": "With",
+                                "name": "John Tejada",
+                                "role": "",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "160",
+                                "join": "",
+                                "name": "Arian Leviste",
+                                "role": "",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "duration": "",
+                    "position": "A2",
+                    "title": "Memories In The Shadow"
+                },
+                {
+                    "duration": "",
+                    "position": "",
+                    "title": "Top Side"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "62",
+                            "join": "",
+                            "name": "John Tejada",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "B1",
+                    "title": "Too Bad The Scene Is Dead"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "62",
+                            "join": "",
+                            "name": "John Tejada",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "B2",
+                    "title": "Flashing Lights \u0026 Lazer Beams"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "390",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=vzK0XXjWDQ4",
+                    "description": "John Tejada ‎– Too Bad The Scene Is Dead\r\nLabel:  Palette Recordings [PAL 006]\r\nFormat:  Vinyl, 12, 33 ⅓ RPM \r\nCountry:  US\r\nReleased:  1998\r\nGenre:  Techno\r\n\r\nhttps://www.discogs.com/John-Tejada-Too-Bad-The-Scene-Is-Dead/release/83\n\r\n\r- video uplo",
+                    "title": "John Tejada - Flashing Lights \u0026 Lazer Beams"
+                },
+                {
+                    "_duration": "309",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Yy4jejkk3yE",
+                    "description": "https://www.discogs.com/John-Tejada-Palette-Recordings-20-The-Early-Years/release/9938572",
+                    "title": "John Tejada - Too Bad The Scene Is Dead"
+                }
+            ]
+        }
+    }
+}

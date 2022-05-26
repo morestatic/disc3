@@ -1,0 +1,181 @@
+{
+    "release": {
+        "_id": "49515",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "Namlook",
+                "id": "1910",
+                "join": "",
+                "name": "Pete Namlook",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": {
+                "catno": "",
+                "entity_type": "23",
+                "entity_type_name": "Recorded At",
+                "id": "265012",
+                "name": "Klanglabor Hödeshof",
+                "resource_url": "https://api.discogs.com/labels/265012"
+            }
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "2022694",
+                    "join": "",
+                    "name": "Andre Ruello",
+                    "role": "Graphics",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "58657",
+                    "join": "",
+                    "name": "Peter Kuhlmann",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "349",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "349"
+                },
+                {
+                    "_height": "249",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "247"
+                },
+                {
+                    "_height": "247",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "502"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/156",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Recorded at Klanglabor, Traben-Trarbach.\r\nLimited to 2000 copies.",
+        "released": "2001-02-12",
+        "styles": {
+            "style": [
+                "Dark Ambient",
+                "Experimental"
+            ]
+        },
+        "title": "Namlook XVI - New Organic Life",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "5:45",
+                    "position": "1",
+                    "title": "Genetic Drift"
+                },
+                {
+                    "duration": "9:55",
+                    "position": "2",
+                    "title": "Molecular Progression #1"
+                },
+                {
+                    "duration": "20:13",
+                    "position": "3",
+                    "title": "Klanglabor"
+                },
+                {
+                    "duration": "1:32",
+                    "position": "4",
+                    "title": "Molecular Progression #2"
+                },
+                {
+                    "duration": "5:00",
+                    "position": "5",
+                    "title": "Olan"
+                },
+                {
+                    "duration": "3:00",
+                    "position": "6",
+                    "title": "Entity 2840"
+                },
+                {
+                    "duration": "1:42",
+                    "position": "7",
+                    "title": "Reakton"
+                },
+                {
+                    "duration": "5:36",
+                    "position": "8",
+                    "title": "New Organic Life"
+                },
+                {
+                    "duration": "8:16",
+                    "position": "9",
+                    "title": "Giant Insects"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "596",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=_wi5egmscro",
+                    "description": "album : New Organic Life",
+                    "title": "Pete Namlook - Molecular Progression #1"
+                },
+                {
+                    "_duration": "93",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=kLgV9z5vbhI",
+                    "description": "album : New Organic Life",
+                    "title": "Pete Namlok - Molecular Progression #2"
+                }
+            ]
+        }
+    }
+}

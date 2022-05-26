@@ -1,0 +1,310 @@
+{
+    "release": {
+        "_id": "107786",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "61414",
+                "join": "",
+                "name": "Second Thought",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "10",
+                    "entity_type_name": "Manufactured By",
+                    "id": "558198",
+                    "name": "Nervous, Inc.",
+                    "resource_url": "https://api.discogs.com/labels/558198"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "9",
+                    "entity_type_name": "Distributed By",
+                    "id": "558198",
+                    "name": "Nervous, Inc.",
+                    "resource_url": "https://api.discogs.com/labels/558198"
+                }
+            ]
+        },
+        "country": "US",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "70175",
+                    "join": "",
+                    "name": "Bill Williams",
+                    "role": "Engineer",
+                    "tracks": "B1, B2"
+                },
+                {
+                    "anv": "",
+                    "id": "40",
+                    "join": "",
+                    "name": "Dave Warrin",
+                    "role": "Engineer",
+                    "tracks": "A1, A2"
+                },
+                {
+                    "anv": "",
+                    "id": "3684",
+                    "join": "",
+                    "name": "Frankie Feliciano",
+                    "role": "Executive-Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "240892",
+                    "join": "",
+                    "name": "Mike Weiss",
+                    "role": "Executive-Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "B. Williams",
+                    "id": "70175",
+                    "join": "",
+                    "name": "Bill Williams",
+                    "role": "Written-By",
+                    "tracks": "B1, B2"
+                },
+                {
+                    "anv": "D. Warrin",
+                    "id": "40",
+                    "join": "",
+                    "name": "Dave Warrin",
+                    "role": "Written-By",
+                    "tracks": "A1, A2"
+                },
+                {
+                    "anv": "J. Warrin",
+                    "id": "687179",
+                    "join": "",
+                    "name": "John Warrin",
+                    "role": "Written-By",
+                    "tracks": "A1, A2"
+                },
+                {
+                    "anv": "N. Catura",
+                    "id": "439394",
+                    "join": "",
+                    "name": "Noel Catura",
+                    "role": "Written-By",
+                    "tracks": "B1, B2"
+                },
+                {
+                    "anv": "J. Papp",
+                    "id": "5615",
+                    "join": "",
+                    "name": "Julius Papp",
+                    "role": "Written-By, Producer",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "12\""
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_type": "Barcode",
+                "_value": "0 9101-20267-1 3"
+            }
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "300",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "NE-RI 20267",
+                "_id": "8569",
+                "_name": "Ricanstruction Records"
+            }
+        },
+        "notes": "Label states, \"Thanks to Frankie Feliciano for making it happen. Of course to Bill and Noel for keeping the flow. What's up to Yellow Productions in Paris and props to Richard at The World in Vancouver. Peace out.\"",
+        "released": "1997",
+        "styles": {
+            "style": [
+                "Deep House",
+                "House"
+            ]
+        },
+        "title": "Deep Penetration / Elemental",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "5:55",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "687179",
+                                "join": "",
+                                "name": "John Warrin",
+                                "role": "Guitar",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "40",
+                                "join": "",
+                                "name": "Dave Warrin",
+                                "role": "Keyboards",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "A1",
+                    "title": "Deep Penetration (Deep Ride Mix)"
+                },
+                {
+                    "duration": "5:25",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "687179",
+                                "join": "",
+                                "name": "John Warrin",
+                                "role": "Guitar",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "40",
+                                "join": "",
+                                "name": "Dave Warrin",
+                                "role": "Keyboards",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "A2",
+                    "title": "Deep Penetration (Deep Dub Mix)"
+                },
+                {
+                    "duration": "5:56",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "70175",
+                                "join": "",
+                                "name": "Bill Williams",
+                                "role": "Keyboards",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "439394",
+                                "join": "",
+                                "name": "Noel Catura",
+                                "role": "Saxophone",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "B1",
+                    "title": "Elemental (Sunrise Mix)"
+                },
+                {
+                    "duration": "5:31",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "70175",
+                                "join": "",
+                                "name": "Bill Williams",
+                                "role": "Keyboards",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "439394",
+                                "join": "",
+                                "name": "Noel Catura",
+                                "role": "Saxophone",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "B2",
+                    "title": "Elemental (Sunset Mix)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "361",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=_TJHkWewbCE",
+                    "description": "Track from Ricanstruction Records",
+                    "title": "Second Thought - Deep Penetration"
+                },
+                {
+                    "_duration": "326",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Udwe7BvnrgA",
+                    "description": "http://www.discogs.com/release/107786",
+                    "title": "Second Thought - Deep Penetration (Deep Dub Mix)"
+                },
+                {
+                    "_duration": "357",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=EwE8lJh_yPw",
+                    "description": "Provided to YouTube by Nervous Records\n\nElemental (Sunrise Mix) · Second Thought\n\nDeep Penetration / Elemental\n\n℗ 2012 Nervous Inc\n\nAuto-generated by YouTube.",
+                    "title": "Elemental (Sunrise Mix)"
+                },
+                {
+                    "_duration": "324",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=HcvTuDIHMgk",
+                    "description": "Provided to YouTube by Nervous Records\n\nElemental (Sunset Mix) · Second Thought\n\nDeep Penetration / Elemental\n\n℗ 2012 Nervous Inc\n\nAuto-generated by YouTube.",
+                    "title": "Elemental (Sunset Mix)"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,109 @@
+{
+    "release": {
+        "_id": "20732",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "344",
+                "join": "",
+                "name": "Cristian Vogel",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "UK",
+        "data_quality": "Correct",
+        "extraartists": "",
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "300",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "299"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "LOAD 53",
+                "_id": "40",
+                "_name": "Loaded Records"
+            }
+        },
+        "released": "1999",
+        "styles": {
+            "style": [
+                "Leftfield",
+                "Techno"
+            ]
+        },
+        "title": "Shoe Renounce Soul / Sarcastically Tempered Powers",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A",
+                    "title": "Shoe Renounce Soul"
+                },
+                {
+                    "duration": "",
+                    "position": "AA",
+                    "title": "Sarcastically Tempered Powers"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "301",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Q2G3204pfkY",
+                    "description": "great track from Tresor.110 Busca Invisibles",
+                    "title": "cristian vogel - sarcastically tempered powers"
+                },
+                {
+                    "_duration": "520",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=XxrP4GAhRpM",
+                    "description": "Appeared on Busca Invisibles (Tresor 110, 1999).",
+                    "title": "Cristian Vogel - Shoe Renounce Soul"
+                }
+            ]
+        }
+    }
+}

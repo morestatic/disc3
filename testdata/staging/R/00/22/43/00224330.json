@@ -1,0 +1,208 @@
+{
+    "release": {
+        "_id": "224330",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "The Wildchild Experience",
+                "id": "6246",
+                "join": "",
+                "name": "Wildchild",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "UK",
+        "data_quality": "Needs Vote",
+        "extraartists": "",
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "2",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "LP",
+                        "Compilation",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "577",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "597"
+                },
+                {
+                    "_height": "484",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "500",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "507",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "455",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "LOADW 1LP",
+                "_id": "40",
+                "_name": "Loaded Records"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "false",
+            "content": "125491"
+        },
+        "notes": "C-side has wrong tracklist printed, it lists again the A-side, corrected above.",
+        "released": "1995",
+        "styles": {
+            "style": [
+                "House",
+                "Garage House"
+            ]
+        },
+        "title": "The Best Of Wildtrax",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A1",
+                    "title": "Bring It Down"
+                },
+                {
+                    "duration": "",
+                    "position": "A2",
+                    "title": "Meet The Pressure"
+                },
+                {
+                    "duration": "",
+                    "position": "B1",
+                    "title": "Do What You Like"
+                },
+                {
+                    "duration": "",
+                    "position": "B2",
+                    "title": "Keep It Going"
+                },
+                {
+                    "duration": "",
+                    "position": "C1",
+                    "title": "Let Me Tell You"
+                },
+                {
+                    "duration": "",
+                    "position": "C2",
+                    "title": "Deep Into The Night"
+                },
+                {
+                    "duration": "",
+                    "position": "D1",
+                    "title": "Jump To My Beat"
+                },
+                {
+                    "duration": "",
+                    "position": "D2",
+                    "title": "Know Eye"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "381",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=zNAxUadZfQA",
+                    "description": "",
+                    "title": "Wildchild Experience - Wildtrax Vol3 - Jump To My Beat (US Remix)"
+                },
+                {
+                    "_duration": "360",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=2Lzjf1i7UzY",
+                    "description": "",
+                    "title": "The Wildchild Experience - Bring It Down"
+                },
+                {
+                    "_duration": "515",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=B2sImHMurgo",
+                    "description": "",
+                    "title": "THE WILDCHILD EXPERIENCE - WildTrax VOL 4 - Meet The Pressure"
+                },
+                {
+                    "_duration": "374",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=GW83ZCZXE0Y",
+                    "description": "",
+                    "title": "The Wildchild Experience - Keep it Going"
+                },
+                {
+                    "_duration": "409",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=FhEEcPGSID8",
+                    "description": "",
+                    "title": "The Wildchild Experience - Do What You Like (Ten Minute Mix)"
+                },
+                {
+                    "_duration": "599",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=WsoKLXBpfWU",
+                    "description": "",
+                    "title": "The Wildchild Experience - Know Eye (Long As You Like Mix)"
+                },
+                {
+                    "_duration": "328",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=5UZ7YBW4RoI",
+                    "description": "",
+                    "title": "The Wildchild Experience - Deep In The Night"
+                },
+                {
+                    "_duration": "357",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=oABcfGMS7A4",
+                    "description": "",
+                    "title": "Wildchild - Jump 2 My Beat"
+                }
+            ]
+        }
+    }
+}

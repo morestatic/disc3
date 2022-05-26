@@ -1,0 +1,146 @@
+{
+    "release": {
+        "_id": "183640",
+        "_status": "Accepted",
+        "artists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "62",
+                    "join": "/",
+                    "name": "John Tejada",
+                    "role": "",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "61",
+                    "join": "",
+                    "name": "John Tejada \u0026 Arian Leviste",
+                    "role": "",
+                    "tracks": ""
+                }
+            ]
+        },
+        "companies": {
+            "company": {
+                "catno": "",
+                "entity_type": "29",
+                "entity_type_name": "Mastered At",
+                "id": "158759",
+                "name": "The Exchange",
+                "resource_url": "https://api.discogs.com/labels/158759"
+            }
+        },
+        "country": "US",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": {
+                "anv": "Grazz",
+                "id": "399393",
+                "join": "",
+                "name": "Graeme Durham",
+                "role": "Mastered By",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Side A",
+                    "_type": "Matrix / Runout",
+                    "_value": "PAL025 A' GRAZZ - THE EXCHANGE"
+                },
+                {
+                    "_description": "Side B",
+                    "_type": "Matrix / Runout",
+                    "_value": "PAL025 B'"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "300",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "300"
+                },
+                {
+                    "_height": "450",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PAL025",
+                "_id": "30",
+                "_name": "Palette Recordings"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "326983"
+        },
+        "released": "2003",
+        "styles": {
+            "style": "Tech House"
+        },
+        "title": "Roq It / Multi Mode",
+        "tracklist": {
+            "track": [
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "62",
+                            "join": "",
+                            "name": "John Tejada",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "A",
+                    "title": "Roq It"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "61",
+                            "join": "",
+                            "name": "John Tejada \u0026 Arian Leviste",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "B",
+                    "title": "Multi Mode"
+                }
+            ]
+        }
+    }
+}

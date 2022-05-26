@@ -1,0 +1,200 @@
+{
+    "release": {
+        "_id": "156122",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "119849",
+                "join": "",
+                "name": "Suggestive",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": {
+                "catno": "",
+                "entity_type": "24",
+                "entity_type_name": "Engineered At",
+                "id": "267036",
+                "name": "Monroe Studios",
+                "resource_url": "https://api.discogs.com/labels/267036"
+            }
+        },
+        "country": "UK",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "1028190",
+                    "join": "",
+                    "name": "Paul Hawker",
+                    "role": "Mixed By",
+                    "tracks": "AA1, AA2"
+                },
+                {
+                    "anv": "",
+                    "id": "1028191",
+                    "join": "",
+                    "name": "Rob Sinclair",
+                    "role": "Mixed By",
+                    "tracks": "AA1, AA2"
+                },
+                {
+                    "anv": "",
+                    "id": "1028190",
+                    "join": "",
+                    "name": "Paul Hawker",
+                    "role": "Written-By, Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1028191",
+                    "join": "",
+                    "name": "Rob Sinclair",
+                    "role": "Written-By, Producer",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_type": "Barcode",
+                "_value": "5 025425 201561"
+            }
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "601",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "597",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "LOAD 15",
+                "_id": "40",
+                "_name": "Loaded Records"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "321019"
+        },
+        "notes": "Track AA2 Engineered at Monroe Studios",
+        "released": "1994",
+        "styles": {
+            "style": "House"
+        },
+        "title": "Banjo",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "119850",
+                                "join": "",
+                                "name": "Damiano",
+                                "role": "Remix",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "75201",
+                                "join": "",
+                                "name": "Leeman",
+                                "role": "Remix",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "A1",
+                    "title": "Banjo (Big Apple Mix)"
+                },
+                {
+                    "duration": "",
+                    "position": "A2",
+                    "title": "Banjo (Original Mix)"
+                },
+                {
+                    "duration": "",
+                    "position": "AA1",
+                    "title": "The Stroke"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1821119",
+                            "join": "",
+                            "name": "Greg Williams (8)",
+                            "role": "Engineer",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "AA2",
+                    "title": "127"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "483",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=qKvA6nAP1p0",
+                    "description": "",
+                    "title": "Suggestive - Banjo (midfeild's general big apple)"
+                },
+                {
+                    "_duration": "395",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=_t7zyRe9dq4",
+                    "description": "",
+                    "title": "Suggestive - Banjo"
+                },
+                {
+                    "_duration": "419",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=7PEfhNqsXDw",
+                    "description": "",
+                    "title": "Suggestive - 127"
+                }
+            ]
+        }
+    }
+}

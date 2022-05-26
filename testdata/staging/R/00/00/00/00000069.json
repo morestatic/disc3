@@ -1,0 +1,167 @@
+{
+    "release": {
+        "_id": "69",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "60",
+                "join": "",
+                "name": "Pete Moss",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "26",
+                    "entity_type_name": "Produced At",
+                    "id": "1566086",
+                    "name": "The Recline Center",
+                    "resource_url": "https://api.discogs.com/labels/1566086"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "24",
+                    "entity_type_name": "Engineered At",
+                    "id": "1566086",
+                    "name": "The Recline Center",
+                    "resource_url": "https://api.discogs.com/labels/1566086"
+                }
+            ]
+        },
+        "country": "US",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "60",
+                "join": "",
+                "name": "Pete Moss",
+                "role": "Producer, Written-By, Engineer",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "EP"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "ET12-007",
+                "_id": "2",
+                "_name": "Earthtones Recordings"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "1189068"
+        },
+        "notes": "All tracks written, produced and engineered at the Recline Center in Philly.",
+        "released": "2000-05-00",
+        "styles": {
+            "style": [
+                "House",
+                "Deep House"
+            ]
+        },
+        "title": "All Terrain EP",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A1",
+                    "title": "You're On The Way"
+                },
+                {
+                    "duration": "",
+                    "position": "A2",
+                    "title": "Sweet Inspiration"
+                },
+                {
+                    "duration": "",
+                    "position": "B1",
+                    "title": "Sun Damage"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "183",
+                            "join": "",
+                            "name": "Natural Rhythm",
+                            "role": "Remix, Producer [Additional]",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "B2",
+                    "title": "Sun Damage (3rd Degree Dub)"
+                },
+                {
+                    "duration": "",
+                    "position": "B3",
+                    "title": "Transmission"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "359",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=ufmcRYPvyeg",
+                    "description": "Label: Earthtones Recordings ‎– ET12-007\nFormat: Vinyl, 12, EP \nCountry: US\nReleased: May 2000\nGenre: Electronic\nStyle: House, Deep House",
+                    "title": "Pete Moss - You're On The Way"
+                },
+                {
+                    "_duration": "380",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=tdkakDbZjJc",
+                    "description": "Label: Earthtones Recordings ‎– ET12-007\nFormat: Vinyl, 12, EP \nCountry: US\nReleased: May 2000\nGenre: Electronic\nStyle: House, Deep House",
+                    "title": "Pete Moss - Sun Damage"
+                },
+                {
+                    "_duration": "408",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=h22rkZUambQ",
+                    "description": "Label: Earthtones Recordings ‎– ET12-007\nFormat: Vinyl, 12, EP \nCountry: US\nReleased: May 2000\nGenre: Electronic\nStyle: House, Deep House",
+                    "title": "Pete Moss - Sweet Inspiration"
+                }
+            ]
+        }
+    }
+}

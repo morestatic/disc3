@@ -1,0 +1,178 @@
+{
+    "release": {
+        "_id": "19366",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "14949",
+                "join": "",
+                "name": "A-J-Scent",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "40",
+                    "name": "Loaded Records",
+                    "resource_url": "https://api.discogs.com/labels/40"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "40",
+                    "name": "Loaded Records",
+                    "resource_url": "https://api.discogs.com/labels/40"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "29",
+                    "entity_type_name": "Mastered At",
+                    "id": "158759",
+                    "name": "The Exchange",
+                    "resource_url": "https://api.discogs.com/labels/158759"
+                }
+            ]
+        },
+        "country": "UK",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "Grazz",
+                    "id": "399393",
+                    "join": "",
+                    "name": "Graeme Durham",
+                    "role": "Mastered By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "103454",
+                    "join": "",
+                    "name": "Justin Brett",
+                    "role": "Producer, Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "EP"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_description": "Scanned",
+                "_type": "Barcode",
+                "_value": "5025425408328"
+            }
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "500",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                },
+                {
+                    "_height": "500",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                },
+                {
+                    "_height": "500",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "LOAD 83",
+                "_id": "40",
+                "_name": "Loaded Records"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "763121"
+        },
+        "notes": "(P)loaded records-2001 (C)loaded records-2001\n\nWritten \u0026 Produced at Fragrant Bristol 2001.\n\nFine house music since 1990",
+        "released": "2001",
+        "styles": {
+            "style": "Tech House"
+        },
+        "title": "Menu EP",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A",
+                    "title": "Eat Your Words"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "501880",
+                            "join": "",
+                            "name": "Sean \"Smack\" Pierrie",
+                            "role": "Vocals",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "AA1",
+                    "title": "Eat Your Smile"
+                },
+                {
+                    "duration": "",
+                    "position": "AA2",
+                    "title": "Eat Your Heart"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "463",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Xd5LF9k5jTE",
+                    "description": "A Massive tune!! The real one starts at 1:00\r\n\r\nTo the spammers and etc. i'd like to say STFU and GTFO! :D\r\n\r\nEnjoy this.",
+                    "title": "A J Scent - Eat Your Words"
+                },
+                {
+                    "_duration": "271",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=BAfwszRwLEI",
+                    "description": "https://www.discogs.com/A-J-Scent-Menu-EP/master/763121",
+                    "title": "A-J Scent - Eat Your Heart"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,270 @@
+{
+    "release": {
+        "_id": "249984",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "25453",
+                "join": "",
+                "name": "Psychonavigation",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "www.sansserif.com.au",
+                    "id": "2136082",
+                    "join": "",
+                    "name": "sansserifgrafik",
+                    "role": "Artwork [Graphics]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "58657",
+                    "join": "",
+                    "name": "Peter Kuhlmann",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "661",
+                    "join": "",
+                    "name": "Bill Laswell",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "MP3",
+                "descriptions": {
+                    "description": [
+                        "CD-ROM",
+                        "Compilation",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "593",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "589",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "468",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "500",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                },
+                {
+                    "_height": "500",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                },
+                {
+                    "_height": "500",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                },
+                {
+                    "_height": "500",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                },
+                {
+                    "_height": "500",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                },
+                {
+                    "_height": "500",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "MP3 003",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Compilation of all five Psychonavigation releases in MP3 Format (320kbps). Limitation to 1000 copies.",
+        "released": "2003-03-26",
+        "styles": {
+            "style": [
+                "Experimental",
+                "Ambient"
+            ]
+        },
+        "title": "The Psychonavigation Collection",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "38:45",
+                    "position": "1",
+                    "title": "Psychic And UFO Revelations In The Last Days"
+                },
+                {
+                    "duration": "10:17",
+                    "position": "2",
+                    "title": "Angel Tech"
+                },
+                {
+                    "duration": "21:21",
+                    "position": "3",
+                    "title": "Black Dawn"
+                },
+                {
+                    "duration": "15:56",
+                    "position": "4",
+                    "title": "Under Heaven"
+                },
+                {
+                    "duration": "13:13",
+                    "position": "5",
+                    "title": "Blue Shift"
+                },
+                {
+                    "duration": "9:29",
+                    "position": "6",
+                    "title": "The Fate Of Energy"
+                },
+                {
+                    "duration": "14:14",
+                    "position": "7",
+                    "title": "The Hell Of The Same"
+                },
+                {
+                    "duration": "1:49",
+                    "position": "8",
+                    "title": "Infinum"
+                },
+                {
+                    "duration": "15:31",
+                    "position": "9",
+                    "title": "Telepathy I"
+                },
+                {
+                    "duration": "4:02",
+                    "position": "10",
+                    "title": "Trautoniolo"
+                },
+                {
+                    "duration": "16:24",
+                    "position": "11",
+                    "title": "Mind Tranceference Control"
+                },
+                {
+                    "duration": "12:56",
+                    "position": "12",
+                    "title": "Mind Over Energy"
+                },
+                {
+                    "duration": "2:56",
+                    "position": "13",
+                    "title": "Vocal PSI"
+                },
+                {
+                    "duration": "4:52",
+                    "position": "14",
+                    "title": "Telepathy II"
+                },
+                {
+                    "duration": "7:04",
+                    "position": "15",
+                    "title": "Lights Out"
+                },
+                {
+                    "duration": "12:29",
+                    "position": "16",
+                    "title": "Arena"
+                },
+                {
+                    "duration": "7:40",
+                    "position": "17",
+                    "title": "Samira"
+                },
+                {
+                    "duration": "17:26",
+                    "position": "18",
+                    "title": "ENTIB 2060"
+                },
+                {
+                    "duration": "17:34",
+                    "position": "19",
+                    "title": "Good And Bad"
+                },
+                {
+                    "duration": "7:23",
+                    "position": "20",
+                    "title": "The Catalyst"
+                },
+                {
+                    "duration": "32:43",
+                    "position": "21",
+                    "title": "Cryosleep"
+                },
+                {
+                    "duration": "11:43",
+                    "position": "22",
+                    "title": "Life Eternal"
+                }
+            ]
+        }
+    }
+}

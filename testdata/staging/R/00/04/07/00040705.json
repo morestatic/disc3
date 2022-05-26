@@ -1,0 +1,282 @@
+{
+    "release": {
+        "_id": "40705",
+        "_status": "Accepted",
+        "artists": {
+            "artist": [
+                {
+                    "anv": "A.D.N.Y.",
+                    "id": "50",
+                    "join": "Presents",
+                    "name": "ADNY",
+                    "role": "",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1386",
+                    "join": "",
+                    "name": "Leiva",
+                    "role": "",
+                    "tracks": ""
+                }
+            ]
+        },
+        "companies": "",
+        "country": "Germany",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": {
+                "anv": "A.D.N.Y.",
+                "id": "50",
+                "join": "",
+                "name": "ADNY",
+                "role": "Presenter",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "2",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "Album",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Text",
+                    "_type": "Barcode",
+                    "_value": "4 017866 920362"
+                },
+                {
+                    "_description": "Scanned",
+                    "_type": "Barcode",
+                    "_value": "4017866920362"
+                },
+                {
+                    "_type": "Rights Society",
+                    "_value": "GEMA"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 4675"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "604",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "606",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "610",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PLACLP019-3",
+                "_id": "244",
+                "_name": "Plastic City"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "false",
+            "content": "120871"
+        },
+        "released": "1999-09-27",
+        "styles": {
+            "style": [
+                "Deep House",
+                "Tech House"
+            ]
+        },
+        "title": "The Way Eye See",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "5:57",
+                    "position": "A1",
+                    "title": "The Future Is Now"
+                },
+                {
+                    "duration": "6:07",
+                    "position": "A2",
+                    "title": "Something For The Souls"
+                },
+                {
+                    "duration": "5:02",
+                    "position": "B1",
+                    "title": "Deficient"
+                },
+                {
+                    "duration": "5:21",
+                    "position": "B2",
+                    "title": "Sane"
+                },
+                {
+                    "duration": "5:41",
+                    "position": "C1",
+                    "title": "Musical Soul"
+                },
+                {
+                    "duration": "5:02",
+                    "position": "C2",
+                    "title": "Queseva"
+                },
+                {
+                    "duration": "5:23",
+                    "position": "D1",
+                    "title": "Afrobeat"
+                },
+                {
+                    "duration": "6:23",
+                    "position": "D2",
+                    "title": "Indugements"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "361",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Bj4PPlW_p2A",
+                    "description": "Provided to YouTube by Daredo\n\nThe Future Is Now · ADNY presents Leiva\n\nThe Way Eye See\n\n℗ 1999 Plastic City / daredo music\n\nReleased on: 1999-09-20\n\nComposer: Alexi Delano\nMusic  Publisher: Copyright Control\n\nAuto-generated by YouTube.",
+                    "title": "The Future Is Now"
+                },
+                {
+                    "_duration": "371",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=PVJPZjXuo44",
+                    "description": "Provided to YouTube by Daredo\n\nSomething For The Souls · ADNY presents Leiva\n\nThe Way Eye See\n\n℗ 1999 Plastic City / daredo music\n\nReleased on: 1999-09-20\n\nComposer: Alexi Delano\nMusic  Publisher: Copyright Control\n\nAuto-generated by YouTube.",
+                    "title": "Something For The Souls"
+                },
+                {
+                    "_duration": "310",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Z3vwMLXC1rA",
+                    "description": "Provided to YouTube by Daredo\n\nQuotes · ADNY presents Leiva\n\nThe Way Eye See\n\n℗ 1999 Plastic City / daredo music\n\nReleased on: 1999-09-20\n\nComposer: Alexi Delano\nMusic  Publisher: Copyright Control\n\nAuto-generated by YouTube.",
+                    "title": "Quotes"
+                },
+                {
+                    "_duration": "306",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=XorBPPwN71Y",
+                    "description": "Provided to YouTube by Daredo\n\nDeficient · ADNY presents Leiva\n\nThe Way Eye See\n\n℗ 1999 Plastic City / daredo music\n\nReleased on: 1999-09-20\n\nComposer: Alexi Delano\nMusic  Publisher: Copyright Control\n\nAuto-generated by YouTube.",
+                    "title": "Deficient"
+                },
+                {
+                    "_duration": "324",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=E2EZU9QWGGU",
+                    "description": "Provided to YouTube by Daredo\n\nSane · ADNY presents Leiva\n\nThe Way Eye See\n\n℗ 1999 Plastic City / daredo music\n\nReleased on: 1999-09-20\n\nComposer: Alexi Delano\nMusic  Publisher: Copyright Control\n\nAuto-generated by YouTube.",
+                    "title": "Sane"
+                },
+                {
+                    "_duration": "327",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=SCj2ZFt2-Gs",
+                    "description": "Provided to YouTube by Daredo\n\nAfrobeat · ADNY presents Leiva\n\nThe Way Eye See\n\n℗ 1999 Plastic City / daredo music\n\nReleased on: 1999-09-20\n\nComposer: Alexi Delano\nMusic  Publisher: Copyright Control\n\nAuto-generated by YouTube.",
+                    "title": "Afrobeat"
+                },
+                {
+                    "_duration": "345",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=wWOwe19rgeE",
+                    "description": "Provided to YouTube by Daredo\n\nMusical Soul · ADNY presents Leiva\n\nThe Way Eye See\n\n℗ 1999 Plastic City / daredo music\n\nReleased on: 1999-09-20\n\nComposer: Alexi Delano\nMusic  Publisher: Copyright Control\n\nAuto-generated by YouTube.",
+                    "title": "Musical Soul"
+                },
+                {
+                    "_duration": "431",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=0n7Hfi6g0A0",
+                    "description": "Provided to YouTube by Daredo\n\nNear You · ADNY presents Leiva\n\nThe Way Eye See\n\n℗ 1999 Plastic City / daredo music\n\nReleased on: 1999-09-20\n\nComposer: Alexi Delano\nMusic  Publisher: Copyright Control\n\nAuto-generated by YouTube.",
+                    "title": "Near You"
+                },
+                {
+                    "_duration": "304",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=1kT5q1ovlrI",
+                    "description": "Provided to YouTube by Daredo\n\nStrive · ADNY presents Leiva\n\nThe Way Eye See\n\n℗ 1999 Plastic City / daredo music\n\nReleased on: 1999-09-20\n\nComposer: Alexi Delano\nMusic  Publisher: Copyright Control\n\nAuto-generated by YouTube.",
+                    "title": "Strive"
+                },
+                {
+                    "_duration": "388",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=fIz6ZL-FFnA",
+                    "description": "Provided to YouTube by Daredo\n\nIndulgements · ADNY presents Leiva\n\nThe Way Eye See\n\n℗ 1999 Plastic City / daredo music\n\nReleased on: 1999-09-20\n\nComposer: Alexi Delano\nMusic  Publisher: Copyright Control\n\nAuto-generated by YouTube.",
+                    "title": "Indulgements"
+                },
+                {
+                    "_duration": "353",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=avufGyAYUYA",
+                    "description": "Provided to YouTube by Daredo\n\nQuere Mas · ADNY presents Leiva\n\nThe Way Eye See\n\n℗ 1999 Plastic City / daredo music\n\nReleased on: 1999-09-20\n\nComposer: Alexi Delano\nMusic  Publisher: Copyright Control\n\nAuto-generated by YouTube.",
+                    "title": "Quere Mas"
+                },
+                {
+                    "_duration": "306",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=pHFHrS9mtAs",
+                    "description": "Provided to YouTube by Daredo\n\nQueseva · ADNY presents Leiva\n\nThe Way Eye See\n\n℗ 1999 Plastic City / daredo music\n\nReleased on: 1999-09-20\n\nComposer: Alexi Delano\nMusic  Publisher: Copyright Control\n\nAuto-generated by YouTube.",
+                    "title": "Queseva"
+                },
+                {
+                    "_duration": "322",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=7Px_Ys8nQXA",
+                    "description": "Provided to YouTube by Daredo\n\nOne Step Ahead · ADNY presents Leiva\n\nThe Way Eye See\n\n℗ 1999 Plastic City / daredo music\n\nReleased on: 1999-09-20\n\nComposer: Alexi Delano\nMusic  Publisher: Copyright Control\n\nAuto-generated by YouTube.",
+                    "title": "One Step Ahead"
+                }
+            ]
+        }
+    }
+}

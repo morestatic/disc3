@@ -1,0 +1,166 @@
+{
+    "release": {
+        "_id": "181992",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "292992",
+                "join": "",
+                "name": "A New Consciousness",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": {
+                "catno": "",
+                "entity_type": "10",
+                "entity_type_name": "Manufactured By",
+                "id": "291931",
+                "name": "CD Plant MFG",
+                "resource_url": "https://api.discogs.com/labels/291931"
+            }
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "41714",
+                    "join": "",
+                    "name": "Charles Uzzell-Edwards",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition",
+                        "Mixed"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "CD PLANT MFG PW 10 CDM01"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                }
+            ]
+        },
+        "images": {
+            "image": {
+                "_height": "603",
+                "_type": "primary",
+                "_uri": "",
+                "_uri150": "",
+                "_width": "600"
+            }
+        },
+        "labels": {
+            "label": {
+                "_catno": "PW 10",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Create Worlds Within Worlds\r\n\r\nA NEW CONSCIOUSNESS\r\nFRANKFURT 1994\r\n\r\nSpecial thanks to:\r\n\r\nElisabeth\r\nFABiA\r\nKathrin\r\nLudwig Rehberg of EMS\r\nAlexandra Wallace (for foot picture)\r\n\r\nAnarchic\r\nGayle\r\nErri\r\nAlski\r\nMum \u0026 Dad\r\n\r\nLimitation: 500",
+        "released": "1994-02-10",
+        "styles": {
+            "style": [
+                "Abstract",
+                "Ambient",
+                "Electro"
+            ]
+        },
+        "title": "A New Consciousness",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "19:01",
+                    "position": "1",
+                    "title": "Environment (twosevenzero)"
+                },
+                {
+                    "duration": "9:19",
+                    "position": "2",
+                    "title": "Tabletop (foursixone)"
+                },
+                {
+                    "duration": "18:24",
+                    "position": "3",
+                    "title": "Golden Gate (fivefourone)"
+                },
+                {
+                    "duration": "13:50",
+                    "position": "4",
+                    "title": "Tea With Ivor Cutler"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "3630",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=SouNXte8QcE",
+                    "description": "Released in February, 1994 on FAX +49-69/450464\n\n\n00:00 Environment (twosevenzero)\n19:00 Tabletop (foursixone)\n28:19 Golden Gate (fivefourone)\n46:43 Tea With Ivor Cutler",
+                    "title": "[PW 10] Pete Namlook \u0026 Charles Uzzell-Edwards - A New Consciousness"
+                },
+                {
+                    "_duration": "1143",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=n-8WVLLMQKU",
+                    "description": "Taken from A New Consciousness  (Fax +49-69/450464 - PW 10).\nhttp://www.discogs.com/artist/A+New+Consciousness",
+                    "title": "A New Consciousness - Environment (twosevenzero)"
+                },
+                {
+                    "_duration": "555",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=wTJgesVTnCU",
+                    "description": "http://www.discogs.com/A-New-Consciousness-A-New-Consciousness/release/181992\n\r\n\r-uploaded in HD at http://www.TunesToTube.com",
+                    "title": "A New Consciousness - Tabletop (foursixone) (Ambient 1994)"
+                },
+                {
+                    "_duration": "1100",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Fzve26zVT5E",
+                    "description": "http://www.discogs.com/A-New-Consciousness-A-New-Consciousness/release/181992\n\r\n\r-uploaded in HD at http://www.TunesToTube.com",
+                    "title": "A New Consciousness - Golden Gate (fivefourone) (Ambient 1994)"
+                },
+                {
+                    "_duration": "820",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=aFH3Bdpq8dU",
+                    "description": "http://www.discogs.com/A-New-Consciousness-A-New-Consciousness/release/181992\n\r\n\r-uploaded in HD at http://www.TunesToTube.com",
+                    "title": "A New Consciousness - Tea With Ivor Cutler (Ambient 1994)"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,127 @@
+{
+    "release": {
+        "_id": "19126",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "11581",
+                "join": "",
+                "name": "Mion",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "Belgium",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "20",
+                "join": "",
+                "name": "Percy X",
+                "role": "Written By",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "12\""
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Barcode",
+                    "_value": "5 414165 000570"
+                },
+                {
+                    "_description": "SIDE A",
+                    "_type": "Matrix / Runout",
+                    "_value": "MM 040 A1"
+                },
+                {
+                    "_description": "SIDE B",
+                    "_type": "Matrix / Runout",
+                    "_value": "MM 040 B1"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "591",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "MM 040",
+                "_id": "38414",
+                "_name": "Music Man Records"
+            }
+        },
+        "released": "1998",
+        "styles": {
+            "style": "Techno"
+        },
+        "title": "M-Line",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "6:23",
+                    "position": "A",
+                    "title": "M-Line"
+                },
+                {
+                    "duration": "5:38",
+                    "position": "B",
+                    "title": "Channel 1"
+                }
+            ]
+        },
+        "videos": {
+            "video": {
+                "_duration": "180",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=u4_oKl6hv9Y",
+                "description": "",
+                "title": "Mion - m-line"
+            }
+        }
+    }
+}

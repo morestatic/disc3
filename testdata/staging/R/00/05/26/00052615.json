@@ -1,0 +1,123 @@
+{
+    "release": {
+        "_id": "52615",
+        "_status": "Accepted",
+        "artists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "3662",
+                    "join": "/",
+                    "name": "Schatrax",
+                    "role": "",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "20",
+                    "join": "",
+                    "name": "Percy X",
+                    "role": "",
+                    "tracks": ""
+                }
+            ]
+        },
+        "companies": "",
+        "country": "UK",
+        "data_quality": "Needs Vote",
+        "extraartists": "",
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM",
+                        "Limited Edition",
+                        "Promo"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": {
+                "_height": "600",
+                "_type": "primary",
+                "_uri": "",
+                "_uri150": "",
+                "_width": "600"
+            }
+        },
+        "labels": {
+            "label": {
+                "_catno": "SOMA 2002",
+                "_id": "18",
+                "_name": "Soma Quality Recordings"
+            }
+        },
+        "notes": "Only 50 copies were sold exclusively through www.somarecords.com.",
+        "released": "2002",
+        "styles": {
+            "style": "Techno"
+        },
+        "title": "SOMA 2002 - Mispent Years / On A Day (Remix)",
+        "tracklist": {
+            "track": [
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "3662",
+                            "join": "",
+                            "name": "Schatrax",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:51",
+                    "position": "A",
+                    "title": "Mispent Years"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "20",
+                            "join": "",
+                            "name": "Percy X",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "8:29",
+                    "position": "B",
+                    "title": "On A Day (Remix)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "275",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=V4lGE_CqizQ",
+                    "description": "Soma 2003\r\nhttp://www.somarecords.com/",
+                    "title": "Schatrax: Mispent Years"
+                },
+                {
+                    "_duration": "514",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=nmH-6aOufes",
+                    "description": "https://www.discogs.com/Schatrax-Percy-X-SOMA-2002-Mispent-Years-On-A-Day-Remix/release/52615",
+                    "title": "Percy X – On A Day (Remix)"
+                }
+            ]
+        }
+    }
+}

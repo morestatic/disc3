@@ -1,0 +1,378 @@
+{
+    "release": {
+        "_id": "43117",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "16479",
+                "join": "",
+                "name": "Robbie Hardkiss",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "9",
+                    "entity_type_name": "Distributed By",
+                    "id": "29074",
+                    "name": "Moonshine Music",
+                    "resource_url": "https://api.discogs.com/labels/29074"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "31",
+                    "entity_type_name": "Glass Mastered At",
+                    "id": "100643",
+                    "name": "Rainbo Records",
+                    "resource_url": "https://api.discogs.com/labels/100643"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "17",
+                    "entity_type_name": "Pressed By",
+                    "id": "100643",
+                    "name": "Rainbo Records",
+                    "resource_url": "https://api.discogs.com/labels/100643"
+                }
+            ]
+        },
+        "country": "US",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "16479",
+                "join": "",
+                "name": "Robbie Hardkiss",
+                "role": "DJ Mix",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Compilation",
+                        "Mixed"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_type": "Barcode",
+                "_value": "788441900225"
+            }
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "510",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "300",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "511",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "593"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "HKS 19002-2",
+                "_id": "3434",
+                "_name": "Hardkiss"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "37421"
+        },
+        "notes": "Artist on track 7 is misspelled as 'Tol Funk'.",
+        "released": "1996",
+        "styles": {
+            "style": [
+                "House",
+                "Breaks",
+                "Techno"
+            ]
+        },
+        "title": "Mixed Messages",
+        "tracklist": {
+            "track": [
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1255",
+                            "join": "",
+                            "name": "Sundiata O.M.",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "3:39",
+                    "position": "1",
+                    "title": "Come Together"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1015",
+                            "join": "",
+                            "name": "Slam",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "7:26",
+                    "position": "2",
+                    "title": "Groove Lock"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "30369",
+                            "join": "",
+                            "name": "Elements Of Life",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "1:08",
+                    "position": "3",
+                    "title": "Pseudo Jazz Reprise"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "11203",
+                            "join": "",
+                            "name": "A Certain Ratio",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:22",
+                    "position": "4",
+                    "title": "Be What You Wanna Be"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1331",
+                            "join": "",
+                            "name": "Jondi \u0026 Spesh",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:04",
+                    "position": "5",
+                    "title": "Jondi \u0026 Speshs Fatty Phat Jam"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "2284",
+                            "join": "",
+                            "name": "Drum Club",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:43",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "11833",
+                            "join": "",
+                            "name": "Hardkiss",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "6",
+                    "title": "Drums Are Dangerous (Drugs Are Dangerous Remix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "206",
+                            "join": "",
+                            "name": "Too Funk",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:22",
+                    "position": "7",
+                    "title": "Electric Mistress"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "2549",
+                            "join": "",
+                            "name": "The Future Sound Of London",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:15",
+                    "position": "8",
+                    "title": "Stolen Documents"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "Walker",
+                            "id": "13533",
+                            "join": "",
+                            "name": "Dr. Walker",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:02",
+                    "position": "9",
+                    "title": "Business Card"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "2474",
+                            "join": "",
+                            "name": "Cajmere",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "3:48",
+                    "position": "10",
+                    "title": "Feelin' Kinda High"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "3485",
+                            "join": "",
+                            "name": "The Innocent",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:08",
+                    "position": "11",
+                    "title": "No Music"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "20",
+                            "join": "",
+                            "name": "Percy X",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "3:23",
+                    "position": "12",
+                    "title": "X Trak"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "30371",
+                            "join": "",
+                            "name": "She",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "1:45",
+                    "position": "13",
+                    "title": "Indian Vocal Interlude"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "Love Lee",
+                            "id": "9755",
+                            "join": "",
+                            "name": "Tim \"Love\" Lee",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:44",
+                    "position": "14",
+                    "title": "One Word"
+                }
+            ]
+        },
+        "videos": {
+            "video": {
+                "_duration": "3717",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=I6gbaw7hKL8",
+                "description": "Super classic mix from Robbie Hardkiss. Released in 1996, this mix features some excellent house \u0026 breaks from, Sundiata O.M., Slam, Cajmere, Elements Of Life, Drum Club, The Future Sound Of London, Percy X, The Innocent, She, and Love Lee. Very reminisce",
+                "title": "Robbie Hardkiss ‎– Mixed Messages"
+            }
+        }
+    }
+}

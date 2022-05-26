@@ -1,0 +1,124 @@
+{
+    "release": {
+        "_id": "128960",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "86751",
+                "join": "",
+                "name": "Biosatellites",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "Germany",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "7649",
+                    "join": "",
+                    "name": "DJ Criss",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "Tobias Peterson",
+                    "id": "582903",
+                    "join": "",
+                    "name": "Tobias Balle-Petersen",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "Limited Edition",
+                        "45 RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "490",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "457"
+                },
+                {
+                    "_height": "490",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "475"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PS 08/42",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Limitation: 1000\r\n\"CHECK IT OUT KIF KIND\"\r\nIs Etched On Runout Groove On Side B",
+        "released": "1994-03-07",
+        "styles": {
+            "style": [
+                "Hardcore",
+                "Acid",
+                "Hard Trance"
+            ]
+        },
+        "title": "Biosatellites 2",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "6:45",
+                    "position": "A",
+                    "title": "Prince Of Denmark"
+                },
+                {
+                    "duration": "6:03",
+                    "position": "B",
+                    "title": "Pinball Dreams"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "403",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=DCxkJX_nQbE",
+                    "description": "Biosatellites - Prince Of Denmark\nBiosatellites ‎-- Biosatellites 2\nLabel:\nFax +49-69/450464 ‎-- PS 08/42\nFormat:\nVinyl, 12, Limited Edition, 45 RPM\nCountry:\nGermany\nReleased:\nMar 1994\nGenre:\nElectronic\nStyle:\nHardcore, Acid, Hard Trance",
+                    "title": "Biosatellites - Prince Of Denmark"
+                },
+                {
+                    "_duration": "360",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=nSoFB-usoKY",
+                    "description": "https://www.discogs.com/Biosatellites-Biosatellites-2/release/128960",
+                    "title": "Biosatellites - Pinball Dreams (1994)"
+                }
+            ]
+        }
+    }
+}

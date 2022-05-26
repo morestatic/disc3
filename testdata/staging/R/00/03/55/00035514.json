@@ -1,0 +1,138 @@
+{
+    "release": {
+        "_id": "35514",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "60",
+                "join": "",
+                "name": "Pete Moss",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "US",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "J. Wink",
+                    "id": "3",
+                    "join": "",
+                    "name": "Josh Wink",
+                    "role": "Executive-Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "M. Brookman",
+                    "id": "581564",
+                    "join": "",
+                    "name": "Matt Brookman",
+                    "role": "Executive-Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "Pete Humphries",
+                    "id": "374405",
+                    "join": "",
+                    "name": "Peter Humphreys",
+                    "role": "Mastered By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "60",
+                    "join": "",
+                    "name": "Pete Moss",
+                    "role": "Producer, Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "45 RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "OVM135",
+                "_id": "35",
+                "_name": "Ovum Recordings"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "234303"
+        },
+        "released": "2001-00-00",
+        "styles": {
+            "style": "House"
+        },
+        "title": "In Your Head",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A",
+                    "title": "In Your Head"
+                },
+                {
+                    "duration": "",
+                    "position": "B",
+                    "title": "What We Had"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "408",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=R43Meo7naNg",
+                    "description": "2001. In Your Head / What We Had Vinyl, 12  -  Ovum Recordings\nExecutive-Producer – J. Wink, M. Brookman\nMastered By – Pete Humphries\nProducer, Written-By – Pete Moss",
+                    "title": "Pete Moss  -  What We Had"
+                },
+                {
+                    "_duration": "372",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=X11hVv0kJOM",
+                    "description": "",
+                    "title": "Pete Moss - In Your Head"
+                }
+            ]
+        }
+    }
+}

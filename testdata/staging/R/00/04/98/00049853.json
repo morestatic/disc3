@@ -1,0 +1,168 @@
+{
+    "release": {
+        "_id": "49853",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "40044",
+                "join": "",
+                "name": "T-Era",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "17",
+                    "entity_type_name": "Pressed By",
+                    "id": "266587",
+                    "name": "Orlake Records",
+                    "resource_url": "https://api.discogs.com/labels/266587"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "30",
+                    "entity_type_name": "Lacquer Cut At",
+                    "id": "158759",
+                    "name": "The Exchange",
+                    "resource_url": "https://api.discogs.com/labels/158759"
+                }
+            ]
+        },
+        "country": "UK",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": {
+                "anv": "G.DAVIE",
+                "id": "369860",
+                "join": "",
+                "name": "Guy Davie",
+                "role": "Lacquer Cut By",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "Promo",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "A Side",
+                    "_type": "Matrix / Runout",
+                    "_value": "LOAD+45+A G.DAVIE-THE EXCHANGE ORLAKE"
+                },
+                {
+                    "_description": "B Side",
+                    "_type": "Matrix / Runout",
+                    "_value": "LOAD+45+AA ORLAKE"
+                }
+            ]
+        },
+        "images": {
+            "image": {
+                "_height": "600",
+                "_type": "primary",
+                "_uri": "",
+                "_uri150": "",
+                "_width": "589"
+            }
+        },
+        "labels": {
+            "label": {
+                "_catno": "LOAD45DJ",
+                "_id": "40",
+                "_name": "Loaded Records"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "false",
+            "content": "360459"
+        },
+        "released": "1997",
+        "styles": {
+            "style": "Progressive House"
+        },
+        "title": "El Tren",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "11:44",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "5511",
+                            "join": "",
+                            "name": "Slacker",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "A",
+                    "title": "El Tren (Slacker's Transporto Mix)"
+                },
+                {
+                    "duration": "7:50",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "5511",
+                            "join": "",
+                            "name": "Slacker",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "AA1",
+                    "title": "El Tren (Slacker's Runaway Mix)"
+                },
+                {
+                    "duration": "5:11",
+                    "position": "AA2",
+                    "title": "El Tren (Original Mix)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "704",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=6UeoXdfwjAE",
+                    "description": "",
+                    "title": "T-era - El Tren (Slacker's Transporto Mix)"
+                },
+                {
+                    "_duration": "471",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=3ubw6ua19bk",
+                    "description": "",
+                    "title": "T-Era - El Tren (Slacker's Runaway Mix)"
+                },
+                {
+                    "_duration": "0",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=A3qmly84iUo",
+                    "description": "",
+                    "title": "T-Era - El Tren (Original Mix)"
+                }
+            ]
+        }
+    }
+}

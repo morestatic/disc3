@@ -1,0 +1,206 @@
+{
+    "release": {
+        "_id": "49359",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "Namlook",
+                "id": "1910",
+                "join": "",
+                "name": "Pete Namlook",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "580492",
+                    "name": "Jazz Kartell, Sauschdall",
+                    "resource_url": "https://api.discogs.com/labels/580492"
+                },
+                {
+                    "catno": "36960",
+                    "entity_type": "10",
+                    "entity_type_name": "Manufactured By",
+                    "id": "277449",
+                    "name": "P+O Pallas",
+                    "resource_url": "https://api.discogs.com/labels/277449"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "2118078",
+                    "join": "",
+                    "name": "PEK (3)",
+                    "role": "Artwork",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "58657",
+                    "join": "",
+                    "name": "Peter Kuhlmann",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "PK 08/136  P+O-36960-A1 02-98"
+                },
+                {
+                    "_type": "Mastering SID Code",
+                    "_value": "IFPI L961"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "590",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "465",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "297",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/136",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Recorded and composed live at Jazz Kartell - Sauschdall Ulm on October 10th, 1997.\r\nLimited to 2000 copies.",
+        "released": "1998-03-02",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Drum n Bass",
+                "Experimental",
+                "Techno"
+            ]
+        },
+        "title": "Namlook XIII - License To Chill",
+        "tracklist": {
+            "track": {
+                "duration": "54:17",
+                "position": "",
+                "sub_tracks": {
+                    "track": [
+                        {
+                            "duration": "6:39",
+                            "position": "1",
+                            "title": "Deadly Mission (Part I)"
+                        },
+                        {
+                            "duration": "6:32",
+                            "position": "2",
+                            "title": "Deadly Mission (Part II)"
+                        },
+                        {
+                            "duration": "4:53",
+                            "position": "3",
+                            "title": "Deadly Mission (Part III)"
+                        },
+                        {
+                            "duration": "4:49",
+                            "position": "4",
+                            "title": "Deadly Mission (Part IV)"
+                        },
+                        {
+                            "duration": "8:29",
+                            "position": "5",
+                            "title": "Deadly Mission (Part V)"
+                        },
+                        {
+                            "duration": "2:25",
+                            "position": "6",
+                            "title": "Deadly Mission (Part VI)"
+                        },
+                        {
+                            "duration": "5:09",
+                            "position": "7",
+                            "title": "Deadly Mission (Part VII)"
+                        },
+                        {
+                            "duration": "7:07",
+                            "position": "8",
+                            "title": "Deadly Mission (Part VIII)"
+                        },
+                        {
+                            "duration": "8:06",
+                            "position": "9",
+                            "title": "Deadly Mission (Part IX)"
+                        }
+                    ]
+                },
+                "title": "Deadly Mission (Part I-IX)"
+            }
+        },
+        "videos": {
+            "video": {
+                "_duration": "3246",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=FAs_jxeE-FA",
+                "description": "00:00 01. Deadly Mission, Part 1 (6:39)\n06:39 02. Deadly Mission, Part 2 (6:32)\n13:11 03. Deadly Mission, Part 3 (4:53)\n18:04 04. Deadly Mission, Part 4 (4:49)\n22:53 05. Deadly Mission, Part 5 (8:29)\n31:22 06. Deadly Mission, Part 6 (2:25)\n33:47 07. Deadl",
+                "title": "Pete Namlook - Namlook XIII - License To Chill"
+            }
+        }
+    }
+}

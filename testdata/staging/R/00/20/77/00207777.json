@@ -1,0 +1,98 @@
+{
+    "release": {
+        "_id": "207777",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "1376",
+                "join": "",
+                "name": "Mr. G",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "UK",
+        "data_quality": "Correct",
+        "extraartists": "",
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "EP"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": {
+                "_height": "297",
+                "_type": "primary",
+                "_uri": "",
+                "_uri150": "",
+                "_width": "300"
+            }
+        },
+        "labels": {
+            "label": {
+                "_catno": "LOAD 103",
+                "_id": "40",
+                "_name": "Loaded Records"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "664701"
+        },
+        "notes": "Recorded @ 4:10 Studios.",
+        "released": "2003-00-00",
+        "styles": {
+            "style": [
+                "House",
+                "Tech House"
+            ]
+        },
+        "title": "Humour Time EP",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A",
+                    "title": "You Think So"
+                },
+                {
+                    "duration": "",
+                    "position": "B",
+                    "title": "Yep I'm Ready"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "411",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=x2a0jsGoub4",
+                    "description": "",
+                    "title": "Mr. G - Yep I'm Ready"
+                },
+                {
+                    "_duration": "447",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=8cWUNaz5YeU",
+                    "description": "",
+                    "title": "Mr. G - You Think So"
+                }
+            ]
+        }
+    }
+}

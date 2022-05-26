@@ -1,0 +1,211 @@
+{
+    "release": {
+        "_id": "16576",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "15315",
+                "join": "",
+                "name": "The Putney",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": {
+                "catno": "17049",
+                "entity_type": "10",
+                "entity_type_name": "Manufactured By",
+                "id": "277449",
+                "name": "P+O Pallas",
+                "resource_url": "https://api.discogs.com/labels/277449"
+            }
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "14837",
+                    "join": "",
+                    "name": "Ludwig Rehberg",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Limited Edition",
+                        "Album"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_type": "Matrix / Runout",
+                "_value": "PK 08/76 P+O-17049-A2 06-93"
+            }
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "459",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/76",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "290964"
+        },
+        "notes": "PLAY WITH TECHNIQUE\r\nTECHNIQUE TO PLAY\r\n\r\nNo vision of technique without technique !\r\nWhatever technique does, you do first...\r\n\r\nTHE PUTNEY\r\nFRANKFURT 1993\r\n\r\nInstruments used on this album:\r\n\r\nEMS Synthi AKS,\r\nEMS VCS 3\r\nEMS Vocoder 5000\r\nEMS Vocoder 3000\r\nEMS Analyse-Filterbank B1 -II\r\nAeolsharp\r\nOberheim 4Voice\r\nSequential VS\r\n\r\nSpecial thanks from L.Rehberg to:\r\n\r\nEMS team\r\nYvonne + Philipp\r\nMrs. Luise R.\r\nMrs. H. Vogel\r\nRobin Wood\r\nTim Orr\r\nMr. Wiegard\r\nRichard Monkhouse\r\nNigel Vivian\r\nP.Z. and the U.K.\r\n\r\nSpecial thanks from P.Namlook to:\r\n\r\nElisabeth\r\nFabia\r\nMixmaster Morris\r\nOskar sala\r\nMy real friends\r\nTurgay of Turgay Audio\r\nEMS\r\n\r\nLimitation: 500",
+        "released": "1993-06-28",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Techno"
+            ]
+        },
+        "title": "The Putney",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "12:38",
+                    "position": "1",
+                    "title": "Angel Circle"
+                },
+                {
+                    "duration": "10:08",
+                    "position": "2",
+                    "title": "Putney Dust"
+                },
+                {
+                    "duration": "23:24",
+                    "position": "3",
+                    "title": "Aeols Harp"
+                },
+                {
+                    "duration": "12:30",
+                    "position": "4",
+                    "title": "Pegasus \u0026 Andromeda"
+                },
+                {
+                    "duration": "8:00",
+                    "position": "5",
+                    "title": "Amourette"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "764",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=fTCVjbEbtcU",
+                    "description": "Description",
+                    "title": "Pete Namlook \u0026 Ludwig Rehberg - The Putney - Angel Circle"
+                },
+                {
+                    "_duration": "610",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=0yoRQFHgTxE",
+                    "description": "The Putney VHS tape - Track #3\n___\nThis video was created by using an EMS Videosizer which is fed with musical information in order to produce and treat color, shape, lightness and contrast of the visual information. Pete Namlook is a purist. He never wan",
+                    "title": "The Putney - Putney Dust"
+                },
+                {
+                    "_duration": "809",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=WcTqy48q1_E",
+                    "description": "The Putney VHS tape - Track #4\n___\nThis video was created by using an EMS Videosizer which is fed with musical information in order to produce and treat color, shape, lightness and contrast of the visual information. Pete Namlook is a purist. He never wan",
+                    "title": "The Putney - Aeols Harp (Part I)"
+                },
+                {
+                    "_duration": "590",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=DdnW4rYc7-0",
+                    "description": "The Putney VHS tape - Track #5\n___\nThis video was created by using an EMS Videosizer which is fed with musical information in order to produce and treat color, shape, lightness and contrast of the visual information. Pete Namlook is a purist. He never wan",
+                    "title": "The Putney - Aeols Harp (Part II)"
+                },
+                {
+                    "_duration": "754",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=sr1ugnQ3Zm8",
+                    "description": "http://www.discogs.com/Putney-The-Putney/release/16576\n\r\n\r-uploaded in HD at http://www.TunesToTube.com",
+                    "title": "The Putney - Pegasus \u0026 Andromeda (Ambient 1993)"
+                },
+                {
+                    "_duration": "480",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=jlAg6AQhW2w",
+                    "description": "The Putney VHS tape - Track #6\n___\nThis video was created by using an EMS Videosizer which is fed with musical information in order to produce and treat color, shape, lightness and contrast of the visual information. Pete Namlook is a purist. He never wan",
+                    "title": "The Putney - Amourette"
+                }
+            ]
+        }
+    }
+}

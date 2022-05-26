@@ -1,0 +1,229 @@
+{
+    "release": {
+        "_id": "16572",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "2909",
+                "join": "",
+                "name": "Silence",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": {
+                "catno": "14877",
+                "entity_type": "31",
+                "entity_type_name": "Glass Mastered At",
+                "id": "277449",
+                "name": "P+O Pallas",
+                "resource_url": "https://api.discogs.com/labels/277449"
+            }
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "634",
+                    "join": "",
+                    "name": "Brian Eno",
+                    "role": "Liner Notes",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "617133",
+                    "join": "",
+                    "name": "Leopold Stokowski",
+                    "role": "Liner Notes",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "8521",
+                    "join": "",
+                    "name": "Dr. Atmo",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Barcode",
+                    "_value": "PK 08 / 25 P+O-14877-A2 11-92"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "472",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "602",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/25",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "43078"
+        },
+        "notes": "It is only a few years before we shall have entirly new methods of tone production by electrical means.\r\n\r\nBegin of a new era in music ?\r\n\r\nA forest, seen from the air, is complex and interesing.\r\nA single tree is equally complex !\r\nOne leaf, even one molecule, is endlessly fascinating.\r\nThat's how music should be !!\r\n\r\nLEOPOLD STOKOWSKI\r\n1929\r\n\r\nBRIAN ENO\r\n1983\r\n\r\nSome of todays music, however, is less obvious.\r\nOur slowly evolving textures, or the hypnotic rhythms demand that the listner thinks a little !\r\n\r\nThis album is dedicated to all the sad people because it is the voice of hope !\r\nSave, what could be disappeared one day !\r\nSave now and years from now !\r\nIf we don't do something now, we will leave our children on a destroyed planet !\r\nEscape from earth is not possible !\r\n\r\nSILENCE\r\nFRANKFURT 1992/93\r\n\r\nGreatest love from Dr. Atmo to:\r\n\r\nGod\r\nMadar and Pedaram\r\nMirella my forever love\r\nBrother and sisters\r\n\r\nGreatest love from P.Namlook to:\r\n\r\nElisabeth Turco\r\nFabia\r\nThe FAX +49-69/450464 family\r\nOskar Sala\r\nMy real friends\r\n\r\nSpecial hi's to all the people around the world that receive our message some day !\r\n\r\nLimitation: 500",
+        "released": "1992-12-07",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Experimental",
+                "Tribal"
+            ]
+        },
+        "title": "Silence",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "21:51",
+                    "position": "1",
+                    "title": "Omid / Hope"
+                },
+                {
+                    "duration": "22:14",
+                    "position": "2",
+                    "title": "Garden Of Dreams"
+                },
+                {
+                    "duration": "9:49",
+                    "position": "3",
+                    "title": "Santur"
+                },
+                {
+                    "duration": "20:08",
+                    "position": "4",
+                    "title": "Trip"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "1310",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=S3LjsWlOzoM",
+                    "description": "Full Track. Unmixed.\nImages edited from the video 3Lux-3 and Silence CD's by Abstructure.",
+                    "title": "Silence (Namlook \u0026 Dr. Atmo) - Omid / Hope (Full Track Video)"
+                },
+                {
+                    "_duration": "1351",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=HmrDbbHrE7k",
+                    "description": "Album Silence\nLabel Fax +49-69/450464\nYear 1992\nGenre Electronic\nStyle Ambient, Experimental, Tribal\n\n\nBuy the record and support the artist\nAll rights reserved for the producers of the track\nAll the tunes uploaded are for promotional use only\n\n\nhttps:/",
+                    "title": "Silence ‎– Garden Of Dreams"
+                },
+                {
+                    "_duration": "1286",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=WbuCpPhMEpo",
+                    "description": "Full Track. Unmixed. Includes the intro by Dr. Atmo. \nImages edited from the video 3Lux-3 and Silence CD's by Abstructure.",
+                    "title": "Silence (Namlook \u0026 Dr. Atmo)  - Trip (Full Track Video)"
+                },
+                {
+                    "_duration": "591",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=J0PO7g6yx_k",
+                    "description": "",
+                    "title": "Pete Namlook \u0026 Dr. Atmo - Santur"
+                },
+                {
+                    "_duration": "1310",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=30VWs-WNmMs",
+                    "description": "Pete Namlook \u0026 Dr Atmo - Omid /Hope [Rising High Records] (1993) \n\nAlbum: Silence ‎– Silence\nSello: Rising High Records ‎– RSN LP 7\nFormato: 2 × Vinyl, LP, Album\nPaís: UK\nPublicado: 1993\nGénero: Electronic\nEstilo: Ambient\n\n             Written-",
+                    "title": "Pete Namlook \u0026 Dr Atmo - Omid /Hope [Rising High Records] (1993)"
+                }
+            ]
+        }
+    }
+}

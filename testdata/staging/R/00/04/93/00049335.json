@@ -1,0 +1,207 @@
+{
+    "release": {
+        "_id": "49335",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "15317",
+                "join": "",
+                "name": "Jet Chamber",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "294386",
+                    "name": "Klanglabor Frankfurt",
+                    "resource_url": "https://api.discogs.com/labels/294386"
+                },
+                {
+                    "catno": "31810",
+                    "entity_type": "10",
+                    "entity_type_name": "Manufactured By",
+                    "id": "277449",
+                    "name": "P+O Pallas",
+                    "resource_url": "https://api.discogs.com/labels/277449"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "2118078",
+                    "join": "",
+                    "name": "PEK (3)",
+                    "role": "Graphics",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "24",
+                    "join": "",
+                    "name": "Atom Heart",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "58657",
+                    "join": "",
+                    "name": "Peter Kuhlmann",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "24",
+                    "join": "",
+                    "name": "Atom Heart",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "PK 08/125 P+O-31810-A2 12-96"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "465",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "593",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "298",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/125",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Limitation: 1000",
+        "released": "1997-01-06",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Breakbeat",
+                "Drum n Bass",
+                "Experimental"
+            ]
+        },
+        "title": "Jet Chamber III",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "10:47",
+                    "position": "1",
+                    "title": "Rub Out"
+                },
+                {
+                    "duration": "21:19",
+                    "position": "2",
+                    "title": "Dub In"
+                },
+                {
+                    "duration": "3:10",
+                    "position": "3",
+                    "title": "Ultra Koran"
+                },
+                {
+                    "duration": "24:19",
+                    "position": "4",
+                    "title": "Quite My Chords"
+                },
+                {
+                    "duration": "2:44",
+                    "position": "5",
+                    "title": "Beel"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "647",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=2FV1zkoAZu0",
+                    "description": "Released on Jet Chamber III album, 1997.\n\nMusic by: Pete Namlook and Atom Heart\nVideo by: Abstructure",
+                    "title": "Jet Chamber - Rub Out"
+                },
+                {
+                    "_duration": "3748",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=TA2RSBCF8-g",
+                    "description": "Artist: Pete Namlook \u0026 Atom Heart\nAlbum: Jet Chamber III\nLabel: Fax +49-69/450464\nYear: 1997\n\nTracklist:\n1. Rub Out [0:00]\n2. Dub In [10:48] **\n3. Ultra Koran [32:08] **\n4. Quite My Chords [35:18]\n5. Beel [59:40] **\n\n** THIS TRACK NEVER BEFORE HEARD ON YO",
+                    "title": "Pete Namlook \u0026 Atom Heart - Jet Chamber III (Full Album) [1997]"
+                }
+            ]
+        }
+    }
+}

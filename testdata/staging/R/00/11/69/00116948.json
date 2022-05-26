@@ -1,0 +1,287 @@
+{
+    "release": {
+        "_id": "116948",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "372",
+                "join": "",
+                "name": "Spacetime Continuum",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "10",
+                    "entity_type_name": "Manufactured By",
+                    "id": "291931",
+                    "name": "CD Plant MFG",
+                    "resource_url": "https://api.discogs.com/labels/291931"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "308505",
+                    "name": "Space Monkey Music",
+                    "resource_url": "https://api.discogs.com/labels/308505"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "308505",
+                    "name": "Space Monkey Music",
+                    "resource_url": "https://api.discogs.com/labels/308505"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "29",
+                    "entity_type_name": "Mastered At",
+                    "id": "493683",
+                    "name": "The Compound, San Francisco",
+                    "resource_url": "https://api.discogs.com/labels/493683"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "Andy Frith",
+                    "id": "2796559",
+                    "join": "",
+                    "name": "Andrew Frith",
+                    "role": "Artwork",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "33693",
+                    "join": "",
+                    "name": "Jonah Sharp",
+                    "role": "Mastered By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "73477",
+                    "join": "",
+                    "name": "Naut Humon",
+                    "role": "Mastered By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "33693",
+                    "join": "",
+                    "name": "Jonah Sharp",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "CD PLANT MFG PS 08/61 CDM01"
+                },
+                {
+                    "_type": "Rights Society",
+                    "_value": "BMI"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "589",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "472",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "601",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "565",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "569"
+                },
+                {
+                    "_height": "590",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "596",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PS 08/61",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "false",
+            "content": "72766"
+        },
+        "notes": "SPACETIME CONTINUUM\nSAN FRANCISCO 1994\n\nSpecial thanks to: Billie \u0026 Jasper\nMastered at the Compound San Francisco June 1994\nAll tracks P\u0026C Space Monkey Music/BMI\n\nMade in Germany\n\nLimitation: 1,000\n\nThe printed duration for track 7 (13:43) does not match the actual duration.\n\nIssued in standard jewel case with 4-page insert.",
+        "released": "1994-09-26",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Techno"
+            ]
+        },
+        "title": "Sea Biscuit",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "10:25",
+                    "position": "1",
+                    "title": "Pressure"
+                },
+                {
+                    "duration": "11:56",
+                    "position": "2",
+                    "title": "Subway"
+                },
+                {
+                    "duration": "6:37",
+                    "position": "3",
+                    "title": "Ping Pong"
+                },
+                {
+                    "duration": "11:32",
+                    "position": "4",
+                    "title": "Voice Of The Earth"
+                },
+                {
+                    "duration": "9:09",
+                    "position": "5",
+                    "title": "Floatilla"
+                },
+                {
+                    "duration": "11:13",
+                    "position": "6",
+                    "title": "Q 11"
+                },
+                {
+                    "duration": "13:08",
+                    "position": "7",
+                    "title": "A Low Frequency Inversion Field"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "625",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=lqHRBoBnUPA",
+                    "description": "Provided to YouTube by Universal Music Group\n\nPressure · Spacetime Continuum\n\nSea Biscuit\n\n℗ 1994 Astralwerks\n\nReleased on: 1994-01-01\n\nProducer, Studio  Personnel, Mastering  Engineer: Jonah Sharp\nStudio  Personnel, Mastering  Engineer: Naut Humon\nCom",
+                    "title": "Pressure"
+                },
+                {
+                    "_duration": "716",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Y9OV4xrPDOE",
+                    "description": "Provided to YouTube by Universal Music Group\n\nSubway · Spacetime Continuum\n\nSea Biscuit\n\n℗ 1994 Astralwerks\n\nReleased on: 1994-01-01\n\nProducer, Studio  Personnel, Mastering  Engineer: Jonah Sharp\nStudio  Personnel, Mastering  Engineer: Naut Humon\nCompo",
+                    "title": "Subway"
+                },
+                {
+                    "_duration": "691",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=rXs9tQGSCSM",
+                    "description": "Provided to YouTube by Universal Music Group\n\nPing Pong · Spacetime Continuum\n\nSea Biscuit\n\n℗ 1994 Astralwerks\n\nReleased on: 1994-01-01\n\nProducer, Studio  Personnel, Mastering  Engineer: Jonah Sharp\nStudio  Personnel, Mastering  Engineer: Naut Humon\nCo",
+                    "title": "Ping Pong"
+                },
+                {
+                    "_duration": "551",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=jfuL7zRthBg",
+                    "description": "Provided to YouTube by Universal Music Group\n\nVoice Of The Earth · Spacetime Continuum\n\nSea Biscuit\n\n℗ 1994 Astralwerks\n\nReleased on: 1994-01-01\n\nStudio  Personnel, Mastering  Engineer, Producer: Jonah Sharp\nStudio  Personnel, Mastering  Engineer: Naut",
+                    "title": "Voice Of The Earth"
+                },
+                {
+                    "_duration": "395",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=xrS1-dVS3No",
+                    "description": "Provided to YouTube by Universal Music Group\n\nFloatilla · Spacetime Continuum\n\nSea Biscuit\n\n℗ 1994 Astralwerks\n\nReleased on: 1994-01-01\n\nProducer, Studio  Personnel, Mastering  Engineer: Jonah Sharp\nStudio  Personnel, Mastering  Engineer: Naut Humon\nCo",
+                    "title": "Floatilla"
+                },
+                {
+                    "_duration": "669",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=sggSsk1Y61k",
+                    "description": "Provided to YouTube by Universal Music Group\n\nQ 11 · Spacetime Continuum\n\nSea Biscuit\n\n℗ 1994 Astralwerks\n\nReleased on: 1994-01-01\n\nProducer, Studio  Personnel, Mastering  Engineer: Jonah Sharp\nStudio  Personnel, Mastering  Engineer: Naut Humon\nCompose",
+                    "title": "Q 11"
+                },
+                {
+                    "_duration": "789",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=lspj8Woyxv0",
+                    "description": "Provided to YouTube by Universal Music Group\n\nA Low Frequency Inversion Field · Spacetime Continuum\n\nSea Biscuit\n\n℗ 1994 Astralwerks\n\nReleased on: 1994-01-01\n\nProducer, Studio  Personnel, Mastering  Engineer: Jonah Sharp\nStudio  Personnel, Mastering  E",
+                    "title": "A Low Frequency Inversion Field"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,258 @@
+{
+    "release": {
+        "_id": "142068",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "97",
+                "join": "",
+                "name": "Super_Collider",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "UK",
+        "data_quality": "Needs Vote",
+        "extraartists": "",
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "Album"
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_type": "Barcode",
+                "_value": "502542520012"
+            }
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "522",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "535",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "173",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "561",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "532",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "LOADED 1CD",
+                "_id": "40",
+                "_name": "Loaded Records"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "false",
+            "content": "43892"
+        },
+        "notes": "Tracks 11 and 12 are in MP3 format.",
+        "released": "1999-05-24",
+        "styles": {
+            "style": [
+                "Breaks",
+                "Techno",
+                "Experimental"
+            ]
+        },
+        "title": "Head On",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "3:39",
+                    "position": "1",
+                    "title": "Cut The Phone"
+                },
+                {
+                    "duration": "5:53",
+                    "position": "2",
+                    "title": "Darn (Cold Way O' Lovin)"
+                },
+                {
+                    "duration": "5:20",
+                    "position": "3",
+                    "title": "Hide In From The Day"
+                },
+                {
+                    "duration": "5:25",
+                    "position": "4",
+                    "title": "It Won't Be Long"
+                },
+                {
+                    "duration": "5:34",
+                    "position": "5",
+                    "title": "Pay It Away"
+                },
+                {
+                    "duration": "5:52",
+                    "position": "6",
+                    "title": "Under My Nose"
+                },
+                {
+                    "duration": "4:04",
+                    "position": "7",
+                    "title": "Close To A Change"
+                },
+                {
+                    "duration": "6:03",
+                    "position": "8",
+                    "title": "Take Me Home"
+                },
+                {
+                    "duration": "4:03",
+                    "position": "9",
+                    "title": "Alchemical Confession"
+                },
+                {
+                    "duration": "7:07",
+                    "position": "10",
+                    "title": "You Loosen Me Human"
+                },
+                {
+                    "duration": "4:32",
+                    "position": "11",
+                    "title": "Darn (Dawn of Lidell Mix)"
+                },
+                {
+                    "duration": "6:35",
+                    "position": "12",
+                    "title": "Take Me Home (Walpole Dub)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "220",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Dbkjpg4nZD0",
+                    "description": "Provided to YouTube by Loaded Records\n\nCut the Phone · Super Collider\n\nHead On\n\n℗ 1999 Loaded Records Limited, a BMG Company\n\nPerformance: Cristian Vogel\nPerformance: Jamie Lidderdale\n\nAuto-generated by YouTube.",
+                    "title": "Cut the Phone"
+                },
+                {
+                    "_duration": "393",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=ib3_4xFcbAg",
+                    "description": ".",
+                    "title": "Super Collider.Darn Cold Way Of Lovin.Harveys Sudden Impact Dub.."
+                },
+                {
+                    "_duration": "365",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=lNbM1_5y4hc",
+                    "description": "(C) Loaded",
+                    "title": "Super Collider - Take Me Home (Head On)"
+                },
+                {
+                    "_duration": "357",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=dh2kauFcGpw",
+                    "description": "Head on 1999",
+                    "title": "Super Collider - Darn (Cold Way O'Lovin)"
+                },
+                {
+                    "_duration": "356",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=jtHi1g-oFG8",
+                    "description": "Provided to YouTube by Loaded records\n\nDarn (Cold Way O' Lovin) (Harvey's Sudden Impact Mix) · Super Collider\n\nArchives\n\n℗ 1998 Loaded Records Limited, a BMG Company\n\nPerformance: Cristian Vogel\nPerformance: Jamie Lidderdale\n\nAuto-generated by YouTube.",
+                    "title": "Darn (Cold Way O' Lovin) (Harvey's Sudden Impact Mix)"
+                },
+                {
+                    "_duration": "368",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=F9PJjFz9nuE",
+                    "description": "(C) Loaded\r\n\r\nhttp://www.youtube.com/user/7e51en",
+                    "title": "Super Collider - It Won't Be Long |Midfield General Remix| (Head On)"
+                },
+                {
+                    "_duration": "257",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=X-aKKYYkb4w",
+                    "description": "",
+                    "title": "Super Collider - It Won't Be Long (High res/ Official video)"
+                },
+                {
+                    "_duration": "410",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Mh9xkyEfSGc",
+                    "description": "It Won't Be Long/Take Me Home 12\r\nLoaded Records\r\n1999.",
+                    "title": "Super_Collider - Take Me Home (Buckfunk 3000 Mix)"
+                },
+                {
+                    "_duration": "331",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=gQohNc167Ks",
+                    "description": "Head On\nLoaded Records\n1999.",
+                    "title": "Super_Collider - Hide In From The Day"
+                },
+                {
+                    "_duration": "335",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=qZBcWVRWLvg",
+                    "description": "Provided to YouTube by Loaded Records\n\nPay It Away · Super Collider\n\nHead On\n\n℗ 1999 Loaded Records Limited, a BMG Company\n\nPerformance: Cristian Vogel\nPerformance: Jamie Lidderdale\n\nAuto-generated by YouTube.",
+                    "title": "Pay It Away"
+                },
+                {
+                    "_duration": "359",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=lx0uQCMWsTo",
+                    "description": "if someone thinks i  made a mistake by uploading this melody here, please let me know.",
+                    "title": "Super Collider - Under My Nose"
+                },
+                {
+                    "_duration": "247",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=bcvnoNNqDOo",
+                    "description": "",
+                    "title": "super_collider - close to a change"
+                },
+                {
+                    "_duration": "243",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=L9F5n4yYEVw",
+                    "description": "",
+                    "title": "Super Collider - Alchemical Confession"
+                }
+            ]
+        }
+    }
+}

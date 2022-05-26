@@ -1,0 +1,170 @@
+{
+    "release": {
+        "_id": "178687",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "27883",
+                "join": "",
+                "name": "Edenhouse",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "29",
+                    "entity_type_name": "Mastered At",
+                    "id": "265113",
+                    "name": "SST Brüggemann GmbH",
+                    "resource_url": "https://api.discogs.com/labels/265113"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "30",
+                    "entity_type_name": "Lacquer Cut At",
+                    "id": "265113",
+                    "name": "SST Brüggemann GmbH",
+                    "resource_url": "https://api.discogs.com/labels/265113"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "37",
+                    "entity_type_name": "Produced For",
+                    "id": "1121882",
+                    "name": "F.E.O.S. Productions",
+                    "resource_url": "https://api.discogs.com/labels/1121882"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "4865",
+                "join": "",
+                "name": "Pascal F.E.O.S.",
+                "role": "Written-By",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM",
+                        "45 RPM",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Side A",
+                    "_type": "Matrix / Runout",
+                    "_value": "= PRODUCED AT ? FOR F.E.O.S. PRODUCTIONS ="
+                },
+                {
+                    "_description": "Side B",
+                    "_type": "Matrix / Runout",
+                    "_value": "ICH LIEBE EUCH ALLE !!!"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "587",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "613",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PS 08/16",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "40110"
+        },
+        "notes": "Limitation: 500\n\nSide A plays 45rpm\nSide B plays 33 1/3 rpm",
+        "released": "1993-03-29",
+        "styles": {
+            "style": [
+                "Techno",
+                "Hard Trance"
+            ]
+        },
+        "title": "Never Mind",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "5:30",
+                    "position": "A",
+                    "title": "Never Mind"
+                },
+                {
+                    "duration": "6:01",
+                    "position": "B1",
+                    "title": "Modul #1"
+                },
+                {
+                    "duration": "7:42",
+                    "position": "B2",
+                    "title": "Modul #2"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "462",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=OivLDqbKMQg",
+                    "description": "Techno Acid 1993\n\n Acid Techno Hard Trance Hardcore  1993 1992 1991 1990 1994  Mayday Dance Rave Roland tb 303 808 909 606 Joey Beltram kenny Larkin woody mcbride Leo Anibaldi Biochip Dr Fernado Adam X Frankie Bones Damon Wild Lagowski Emmanuel Top Speedy",
+                    "title": "Edenhouse - Never Mind ( 1993 )"
+                },
+                {
+                    "_duration": "346",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=JTBgavXoR0Y",
+                    "description": "",
+                    "title": "EDENHOUSE - MODUL#1 - Fax+49/69450464"
+                },
+                {
+                    "_duration": "325",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=VuNGBFALQlQ",
+                    "description": "Label: Rising High Records\nReleased: 1993\nGenre: Electronic\nStyle: Techno, Hard Trance",
+                    "title": "Edenhouse - Modul #2"
+                }
+            ]
+        }
+    }
+}

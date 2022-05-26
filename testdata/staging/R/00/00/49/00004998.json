@@ -1,0 +1,213 @@
+{
+    "release": {
+        "_id": "4998",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "20",
+                "join": "",
+                "name": "Percy X",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "270709",
+                    "name": "Soma Recordings Ltd.",
+                    "resource_url": "https://api.discogs.com/labels/270709"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "270709",
+                    "name": "Soma Recordings Ltd.",
+                    "resource_url": "https://api.discogs.com/labels/270709"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "295038",
+                    "name": "Soma Music",
+                    "resource_url": "https://api.discogs.com/labels/295038"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "17",
+                    "entity_type_name": "Pressed By",
+                    "id": "56025",
+                    "name": "MPO",
+                    "resource_url": "https://api.discogs.com/labels/56025"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "30",
+                    "entity_type_name": "Lacquer Cut At",
+                    "id": "158759",
+                    "name": "The Exchange",
+                    "resource_url": "https://api.discogs.com/labels/158759"
+                }
+            ]
+        },
+        "country": "UK",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "340794",
+                    "join": "",
+                    "name": "David Donaldson",
+                    "role": "Engineer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "Nilz",
+                    "id": "386598",
+                    "join": "",
+                    "name": "Nilesh Patel",
+                    "role": "Lacquer Cut By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "20",
+                    "join": "",
+                    "name": "Percy X",
+                    "role": "Written-By, Producer",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "554",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "550"
+                },
+                {
+                    "_height": "581",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "580"
+                },
+                {
+                    "_height": "577",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "580"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "587"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "soma 99",
+                "_id": "18",
+                "_name": "Soma Quality Recordings"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "271818"
+        },
+        "notes": "℗\u0026© 2000 Soma Recordings Limited.\r\nManufactured in France.",
+        "released": "2000-09-25",
+        "styles": {
+            "style": [
+                "Techno",
+                "Electro"
+            ]
+        },
+        "title": "Break It Down",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "27",
+                            "join": "",
+                            "name": "Cari Lekebusch",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "A",
+                    "title": "Break It Down (Lekebusch Remix)"
+                },
+                {
+                    "duration": "",
+                    "position": "B1",
+                    "title": "Break It Down (Percy X Remix)"
+                },
+                {
+                    "duration": "",
+                    "position": "B2",
+                    "title": "Break It Down (Original Master)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "340",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=aoZMLYI-hUA",
+                    "description": "http://www.discogs.com/Percy-X-Break-It-Down/master/271818",
+                    "title": "Percy X   Break It Down Cari Lekebusch remix"
+                },
+                {
+                    "_duration": "425",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=w2LMHEX82yc",
+                    "description": "Regis @ As You Like It, Public Works San Francisco (26.07.2013) \nhttps://www.youtube.com/watch?v=KoanpTYaf4c\n\n((Some Magic Tools))\nhttps://bit.ly/Magic-Tube\nhttps://bit.ly/best-bluehost\nhttps://bit.ly/tube-scene\n-~-~~-~~~-~~-~-\n\nPercy X ‎– Break It",
+                    "title": "Percy X - Break It Down (Percy X Remix)"
+                },
+                {
+                    "_duration": "350",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Eajfh0DcJ88",
+                    "description": "Regis @ As You Like It, Public Works San Francisco (26.07.2013) \nhttps://www.youtube.com/watch?v=KoanpTYaf4c\n\n((Some Magic Tools))\nhttps://bit.ly/Magic-Tube\nhttps://bit.ly/best-bluehost\nhttps://bit.ly/tube-scene\n-~-~~-~~~-~~-~-\n\nPercy X ‎– Break It",
+                    "title": "Percy X - Break it Down (Original Master)"
+                }
+            ]
+        }
+    }
+}

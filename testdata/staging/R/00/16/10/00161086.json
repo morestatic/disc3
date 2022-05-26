@@ -1,0 +1,115 @@
+{
+    "release": {
+        "_id": "161086",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "9592",
+                "join": "",
+                "name": "Pizzaman",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "UK",
+        "data_quality": "Correct",
+        "extraartists": "",
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "7\""
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": {
+                "_height": "440",
+                "_type": "primary",
+                "_uri": "",
+                "_uri150": "",
+                "_width": "435"
+            }
+        },
+        "labels": {
+            "label": {
+                "_catno": "LOAD 016 7",
+                "_id": "40",
+                "_name": "Loaded Records"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "false",
+            "content": "100602"
+        },
+        "released": "1994",
+        "styles": {
+            "style": "House"
+        },
+        "title": "Trippin' On Sunshine",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A",
+                    "title": "Trippin' On Sunshine (Pizzaman Radio Edit)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "28522",
+                            "join": "",
+                            "name": "Play Boys",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "B",
+                    "title": "Trippin' On Sunshine (Play Boys Mixing Thing)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "228",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=xMi4TJpgxLU",
+                    "description": "Pizzaman - Trippin' on Sunshine\r\n-------------------------------------\r\nOriginal video from VIVA Housefrau\r\n(first play : 02.09.1994)\r\n----------------------------------------\r\n\r\nArtist :\r\n---------\r\nPizzaman\r\n\r\nTitel :\r\n--------\r\nTrippin' on Sunshine",
+                    "title": "Pizzaman - Trippin' on Sunshine (Orig. video 1992/93)"
+                },
+                {
+                    "_duration": "403",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=fvgKZ5wHWd0",
+                    "description": "Pizzaman - Trippin on sunshine /// Old Skool",
+                    "title": "Pizzaman - Trippin on sunshine"
+                },
+                {
+                    "_duration": "719",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=YSRcE789mmM",
+                    "description": "Pizzaman-- Trippin On Sunshine \r\nLabel: Loaded Records\r\nCatalog#:  12 LOAD 16 \r\nFormat: Vinyl, 12 \r\nCountry: UK\r\nReleased:  1994 \r\nGenre: Electronic\r\nStyle: Progressive House",
+                    "title": "Pizzaman - Trippin on Sunshine (Play Boys Fully Loaded Dub) \u0026 (Play Boys Mixing Thing)"
+                },
+                {
+                    "_duration": "871",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=6WUOHQuTpz4",
+                    "description": "Pizzaman-- Trippin On Sunshine \r\nLabel: Loaded Records\r\nCatalog#:  12 LOAD 16 \r\nFormat: Vinyl, 12 \r\nCountry: UK\r\nReleased:  1994 \r\nGenre: Electronic\r\nStyle: Progressive House",
+                    "title": "Pizzaman - Trippin on Sunshine (Pizzaman Mix) \u0026 (California Sunshine Mix)"
+                }
+            ]
+        }
+    }
+}

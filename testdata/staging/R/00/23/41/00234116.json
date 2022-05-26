@@ -1,0 +1,276 @@
+{
+    "release": {
+        "_id": "234116",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "194",
+                "join": "",
+                "name": "Various",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "Austria",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "420105",
+                    "join": "",
+                    "name": "Chris Esycho",
+                    "role": "Compiled By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "83402",
+                    "join": "",
+                    "name": "DJ Adelic",
+                    "role": "Compiled By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "\"Wicked\" Plastic",
+                    "id": "83049",
+                    "join": "",
+                    "name": "Wicked Plastic",
+                    "role": "Edited By, Mastered By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "Compilation"
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_type": "Barcode",
+                "_value": "9033592089017"
+            }
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "597",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "466",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "XXX059",
+                "_id": "3420",
+                "_name": "XXX Records"
+            }
+        },
+        "notes": "Track 4 artist and title inverted on cover.",
+        "released": "1998",
+        "styles": {
+            "style": "Techno"
+        },
+        "title": "Gazometertraxxx: XXX 11",
+        "tracklist": {
+            "track": [
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "109961",
+                            "join": "",
+                            "name": "Nitevision",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:44",
+                    "position": "1",
+                    "title": "Spacerace"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "L.A. Synthesis",
+                            "id": "6806",
+                            "join": "",
+                            "name": "LA Synthesis",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:44",
+                    "position": "2",
+                    "title": "Agraphobia"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "88",
+                            "join": "",
+                            "name": "Dave Angel",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:01",
+                    "position": "3",
+                    "title": "1/4 Pounder"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "36829",
+                            "join": "",
+                            "name": "Swith Craft",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:40",
+                    "position": "4",
+                    "title": "Ventad"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "6240",
+                            "join": "",
+                            "name": "Speed Jack",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "8:32",
+                    "position": "5",
+                    "title": "Ctc"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1612",
+                            "join": "",
+                            "name": "Humate",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:23",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1110",
+                            "join": "",
+                            "name": "The Advent",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "6",
+                    "title": "The Sound (Advent Rmx)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1356",
+                            "join": "",
+                            "name": "Joel Mull",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:58",
+                    "position": "7",
+                    "title": "Fossil"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "71253",
+                            "join": "",
+                            "name": "Parkinson",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:04",
+                    "position": "8",
+                    "title": "Taster Ventilator"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "20",
+                            "join": "",
+                            "name": "Percy X",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:36",
+                    "position": "9",
+                    "title": "Track 2"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1019",
+                            "join": "",
+                            "name": "Funk D'Void",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "7:23",
+                    "position": "10",
+                    "title": "Soulman"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "2793",
+                            "join": "",
+                            "name": "Equitek",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:44",
+                    "position": "11",
+                    "title": "Stylus Flight"
+                }
+            ]
+        }
+    }
+}

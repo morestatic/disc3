@@ -1,0 +1,100 @@
+{
+    "release": {
+        "_id": "207582",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "141491",
+                "join": "",
+                "name": "Black Rock",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "UK",
+        "data_quality": "Needs Vote",
+        "extraartists": "",
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_description": "Text",
+                "_type": "Barcode",
+                "_value": "5 025425 114663"
+            }
+        },
+        "images": {
+            "image": {
+                "_height": "503",
+                "_type": "primary",
+                "_uri": "",
+                "_uri150": "",
+                "_width": "500"
+            }
+        },
+        "labels": {
+            "label": {
+                "_catno": "LOAD46",
+                "_id": "40",
+                "_name": "Loaded Records"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "925363"
+        },
+        "released": "1997",
+        "styles": {
+            "style": "House"
+        },
+        "title": "Cosmic Window",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A",
+                    "title": "Cosmic Window"
+                },
+                {
+                    "duration": "",
+                    "position": "AA",
+                    "title": "Cosmic Dub"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "535",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=pOIVhn9A3ps",
+                    "description": "Provided to YouTube by BMG Rights Management (UK) Limited\n\nCosmic Window · Black Rock\n\nCosmic Window\n\n℗ 1997 Loaded Records Limited, a BMG Company\n\nReleased on: 1997-05-27\n\nPerformer: Black Rock\nComposer: Lee Potter\nComposer: Andy McKirdy\n\nAuto-generat",
+                    "title": "Cosmic Window"
+                },
+                {
+                    "_duration": "513",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Jgq5vPLHnTo",
+                    "description": "Provided to YouTube by BMG Rights Management (UK) Limited\n\nCosmic Dub · Black Rock\n\nCosmic Window\n\n℗ 1997 Loaded Records Limited, a BMG Company\n\nReleased on: 1997-05-27\n\nPerformer: Black Rock\nComposer: Lee Potter\nComposer: Andy McKirdy\n\nAuto-generated",
+                    "title": "Cosmic Dub"
+                }
+            ]
+        }
+    }
+}

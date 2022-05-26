@@ -1,0 +1,103 @@
+{
+    "release": {
+        "_id": "79369",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "Mr G",
+                "id": "1376",
+                "join": "",
+                "name": "Mr. G",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "UK",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": {
+                "anv": "Mr G",
+                "id": "1376",
+                "join": "",
+                "name": "Mr. G",
+                "role": "Written-By, Producer",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "EP"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": {
+                "_height": "451",
+                "_type": "primary",
+                "_uri": "",
+                "_uri150": "",
+                "_width": "442"
+            }
+        },
+        "labels": {
+            "label": {
+                "_catno": "LOAD 097",
+                "_id": "40",
+                "_name": "Loaded Records"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "318994"
+        },
+        "notes": "Recorded @ 4:10 Studios",
+        "released": "2002-12-00",
+        "styles": {
+            "style": [
+                "House",
+                "Techno"
+            ]
+        },
+        "title": "Rum Down South EP",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A",
+                    "title": "Well Do Ya?"
+                },
+                {
+                    "duration": "",
+                    "position": "B1",
+                    "title": "G House"
+                },
+                {
+                    "duration": "",
+                    "position": "B2",
+                    "title": "G Beatz"
+                }
+            ]
+        },
+        "videos": {
+            "video": {
+                "_duration": "413",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=Gz_E1OfsSSQ",
+                "description": "",
+                "title": "Mr G - Well Do Ya"
+            }
+        }
+    }
+}

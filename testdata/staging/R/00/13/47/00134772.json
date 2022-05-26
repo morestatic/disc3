@@ -1,0 +1,245 @@
+{
+    "release": {
+        "_id": "134772",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "293199",
+                "join": "",
+                "name": "Cymatic Scan",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "277133",
+                    "name": "Greenpoint Studios",
+                    "resource_url": "https://api.discogs.com/labels/277133"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "17",
+                    "entity_type_name": "Pressed By",
+                    "id": "291931",
+                    "name": "CD Plant MFG",
+                    "resource_url": "https://api.discogs.com/labels/291931"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "128097",
+                    "join": "",
+                    "name": "Layng Martine",
+                    "role": "Engineer [Assistant], Programmed By [Assistant]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "13227",
+                    "join": "",
+                    "name": "Robert Musso",
+                    "role": "Engineer, Programmed By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1665092",
+                    "join": "",
+                    "name": "Bill Murphy (3)",
+                    "role": "Management [Axiom/Ambient]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "370164",
+                    "join": "",
+                    "name": "Peter Wetherbee",
+                    "role": "Management [Axiom/Ambient]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1415325",
+                    "join": "",
+                    "name": "Tracy McKnight",
+                    "role": "Management [Material Inc.]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "461953",
+                    "join": "",
+                    "name": "Robert Soares",
+                    "role": "Management [Subharmonic]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "2243217",
+                    "join": "",
+                    "name": "Ernst Haas",
+                    "role": "Photography By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "661",
+                    "join": "",
+                    "name": "Bill Laswell",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "25",
+                    "join": "",
+                    "name": "Tetsu Inoue",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "CD PLANT MFG PS 08/50 CDM01"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "590",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "471",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "589",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "597"
+                },
+                {
+                    "_height": "297",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PS 08/50",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "146313"
+        },
+        "notes": "The track titles and durations mentioned here do not appear on the release. Only one track is mentioned with duration:\n1 Monochrome Existence 1.01.24\n\nLimited to 1000 copies.\n\nCymatic Scan\nNew York 1994\n\nCreated at Greenpoint Brooklyn\n\nSpecial thanks to: Ingrid, Anton Fier, Alex Haas\n\nMade in Germany.",
+        "released": "1994-07-01",
+        "styles": {
+            "style": [
+                "Abstract",
+                "Experimental",
+                "Ambient"
+            ]
+        },
+        "title": "Cymatic Scan",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "10:00",
+                    "position": "1",
+                    "title": "Monochrome Existence (Part 1)"
+                },
+                {
+                    "duration": "10:00",
+                    "position": "2",
+                    "title": "Monochrome Existence (Part 2)"
+                },
+                {
+                    "duration": "10:00",
+                    "position": "3",
+                    "title": "Monochrome Existence (Part 3)"
+                },
+                {
+                    "duration": "10:00",
+                    "position": "4",
+                    "title": "Monochrome Existence (Part 4)"
+                },
+                {
+                    "duration": "10:00",
+                    "position": "5",
+                    "title": "Monochrome Existence (Part 5)"
+                },
+                {
+                    "duration": "11:11",
+                    "position": "6",
+                    "title": "Monochrome Existence (Part 6)"
+                }
+            ]
+        },
+        "videos": {
+            "video": {
+                "_duration": "3673",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=n4P3jggol6s",
+                "description": "",
+                "title": "Bill Laswell   Tetsu Inoue – Cymatic Scan Full LP"
+            }
+        }
+    }
+}

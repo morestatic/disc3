@@ -1,0 +1,187 @@
+{
+    "release": {
+        "_id": "52635",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "42336",
+                "join": "",
+                "name": "Fanger \u0026 Siebert",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": {
+                "catno": "",
+                "entity_type": "10",
+                "entity_type_name": "Manufactured By",
+                "id": "291931",
+                "name": "CD Plant MFG",
+                "resource_url": "https://api.discogs.com/labels/291931"
+            }
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "3431476",
+                    "join": "",
+                    "name": "Ruth Tesmar",
+                    "role": "Painting",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "352110",
+                    "join": "",
+                    "name": "Jan Siebert",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "395177",
+                    "join": "",
+                    "name": "Thomas Fanger",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "CD PLANT MFG PS 08/77 CDM01"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "ifpi 8401"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "595",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "598",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "598",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PS 08/77",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Limitation: 1000",
+        "released": "1995-06-26",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Downtempo",
+                "Dub"
+            ]
+        },
+        "title": "Fanger \u0026 Siebert",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "11:06",
+                    "position": "1",
+                    "title": "And Suddenly"
+                },
+                {
+                    "duration": "8:40",
+                    "position": "2",
+                    "title": "Hinuit"
+                },
+                {
+                    "duration": "6:43",
+                    "position": "3",
+                    "title": "Conspiracy"
+                },
+                {
+                    "duration": "17:05",
+                    "position": "4",
+                    "title": "Future Dub"
+                },
+                {
+                    "duration": "6:47",
+                    "position": "5",
+                    "title": "The Cage"
+                },
+                {
+                    "duration": "13:26",
+                    "position": "6",
+                    "title": "Esála"
+                },
+                {
+                    "duration": "10:11",
+                    "position": "7",
+                    "title": "Twinkling Oasis"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "4438",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=en6IM6qeXIg",
+                    "description": "Artist: Fanger \u0026 Siebert\nAlbum: Fanger \u0026 Siebert\nLabel: Fax +49-69/450464\nYear: 1995\n\nTracklist:\n1. And Suddenly [0:00] **\n2. Hinuit [11:05] **\n3. Conspiracy [19:45] **\n4. Future Dub [26:31] **\n5. The Cage [43:32] **\n6. Esála [50:19]\n7. Twinkling Oasis [",
+                    "title": "Fanger \u0026 Siebert - Fanger \u0026 Siebert (Full Album) [1995]"
+                },
+                {
+                    "_duration": "809",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=o0hBfZYUguY",
+                    "description": "just another wacky track from the FAX +49-69/450464 label. \n\nproduced, written, arranged by Thomas Fanger and Jan Siebert.\nPS 08/77, 1995",
+                    "title": "Fanger \u0026 Siebert - Esála"
+                }
+            ]
+        }
+    }
+}

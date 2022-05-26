@@ -1,0 +1,190 @@
+{
+    "release": {
+        "_id": "25244",
+        "_status": "Accepted",
+        "artists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "29599",
+                    "join": "/",
+                    "name": "The Dark Side Of The Moog",
+                    "role": "",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "292739",
+                    "join": "",
+                    "name": "From Within",
+                    "role": "",
+                    "tracks": ""
+                }
+            ]
+        },
+        "companies": "",
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "10360",
+                    "join": "",
+                    "name": "Klaus Schulze",
+                    "role": "Written-By",
+                    "tracks": "A1, A2"
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "835",
+                    "join": "",
+                    "name": "Richie Hawtin",
+                    "role": "Written-By",
+                    "tracks": "B1, B2"
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "500",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                },
+                {
+                    "_height": "500",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PKPWPS 4",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Limitation : 1000",
+        "released": "1995-12-05",
+        "styles": {
+            "style": [
+                "Downtempo",
+                "Ambient"
+            ]
+        },
+        "title": "Vinyl Compilation",
+        "tracklist": {
+            "track": [
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "29599",
+                            "join": "",
+                            "name": "The Dark Side Of The Moog",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "7:32",
+                    "position": "A1",
+                    "title": "The Dark Side Of The Moog 2: A Saucerful Of Ambience (Excerpt)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "29599",
+                            "join": "",
+                            "name": "The Dark Side Of The Moog",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "7:27",
+                    "position": "A2",
+                    "title": "The Dark Side Of The Moog:  Wish You Were There (Excerpt)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "292739",
+                            "join": "",
+                            "name": "From Within",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "8:24",
+                    "position": "B1",
+                    "title": "From Within 2: Future Surfacing (What Lies Ahead) (Excerpt)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "292739",
+                            "join": "",
+                            "name": "From Within",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:58",
+                    "position": "B2",
+                    "title": "From Within 2: Do Bassdrums Have Feelings"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "447",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=bKaQuzlyxEY",
+                    "description": "http://www.discogs.com/Dark-Side-Of-The-Moog-The--From-Within-Vinyl-Compilation/release/25244\n\r\n\r-uploaded in HD at http://www.TunesToTube.com",
+                    "title": "The Dark Side Of The Moog - The Dark Side Of The Moog 2 .. A Saucerful Of Ambience (Excerpt) (Trance"
+                },
+                {
+                    "_duration": "438",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=g1XRtIiFJMw",
+                    "description": "http://www.discogs.com/Dark-Side-Of-The-Moog-The--From-Within-Vinyl-Compilation/release/25244\n\r\n\r-uploaded in HD at http://www.TunesToTube.com",
+                    "title": "The Dark Side Of The Moog - The Dark Side Of The Moog Wish You Were There (Excerpt) (Trance 1995)"
+                }
+            ]
+        }
+    }
+}

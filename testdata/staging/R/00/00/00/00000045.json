@@ -1,0 +1,220 @@
+{
+    "release": {
+        "_id": "45",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "95",
+                "join": "",
+                "name": "Laid",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "40",
+                    "name": "Loaded Records",
+                    "resource_url": "https://api.discogs.com/labels/40"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "40",
+                    "name": "Loaded Records",
+                    "resource_url": "https://api.discogs.com/labels/40"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "9",
+                    "entity_type_name": "Distributed By",
+                    "id": "149122",
+                    "name": "3mv",
+                    "resource_url": "https://api.discogs.com/labels/149122"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "9",
+                    "entity_type_name": "Distributed By",
+                    "id": "264522",
+                    "name": "Pinnacle (3)",
+                    "resource_url": "https://api.discogs.com/labels/264522"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "265761",
+                    "name": "Container Publishing",
+                    "resource_url": "https://api.discogs.com/labels/265761"
+                }
+            ]
+        },
+        "country": "UK",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "63716",
+                    "join": "",
+                    "name": "Johan Emmoth",
+                    "role": "Written-By, Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "28679",
+                    "join": "",
+                    "name": "John Andersson",
+                    "role": "Written-By, Producer",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM",
+                        "EP"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_type": "Barcode",
+                "_value": "5025425406522"
+            }
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "590",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "586"
+                },
+                {
+                    "_height": "590",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "588"
+                },
+                {
+                    "_height": "300",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "333"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "LOAD 65",
+                "_id": "40",
+                "_name": "Loaded Records"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "255093"
+        },
+        "notes": "Published by Container Music.",
+        "released": "2000",
+        "styles": {
+            "style": "House"
+        },
+        "title": "Push Along EP",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A1",
+                    "title": "Play The Drums"
+                },
+                {
+                    "duration": "",
+                    "position": "A2",
+                    "title": "Sweet Thing"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "63714",
+                            "join": "",
+                            "name": "Rikard Lindell",
+                            "role": "Written-By, Producer",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "AA1",
+                    "title": "Coffee Table"
+                },
+                {
+                    "duration": "",
+                    "position": "AA2",
+                    "title": "Venus"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "484",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=cn1HKwFh9uE",
+                    "description": "",
+                    "title": "Laid ‎-- Push Along EP - Sampler"
+                },
+                {
+                    "_duration": "397",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=A4CiYR759V4",
+                    "description": "Provided to YouTube by Warner Music Group\n\nVenus · Laid\n\nPush Along\n\n℗ 2000 Loaded Records Limited, a BMG Company\n\nPerformance: Laid\n\nAuto-generated by YouTube.",
+                    "title": "Venus"
+                },
+                {
+                    "_duration": "343",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Za9ZUpUvVtI",
+                    "description": "Provided to YouTube by Warner Music Group\n\nCoffee Table · Laid\n\nPush Along\n\n℗ 2000 Loaded Records Limited, a BMG Company\n\nPerformance: Laid\n\nAuto-generated by YouTube.",
+                    "title": "Coffee Table"
+                },
+                {
+                    "_duration": "436",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=d-WIznEPvKc",
+                    "description": "Provided to YouTube by Warner Music Group\n\nPlay the Drums · Laid\n\nPush Along\n\n℗ 2000 Loaded Records Limited, a BMG Company\n\nPerformance: Laid\n\nAuto-generated by YouTube.",
+                    "title": "Play the Drums"
+                },
+                {
+                    "_duration": "305",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=1fz70UiW1PY",
+                    "description": "Provided to YouTube by Warner Music Group\n\nSweet Thing · Laid\n\nPush Along\n\n℗ 2000 Loaded Records Limited, a BMG Company\n\nPerformance: Laid\n\nAuto-generated by YouTube.",
+                    "title": "Sweet Thing"
+                }
+            ]
+        }
+    }
+}

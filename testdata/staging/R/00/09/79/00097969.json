@@ -1,0 +1,680 @@
+{
+    "release": {
+        "_id": "97969",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "194",
+                "join": "",
+                "name": "Various",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "362585",
+                    "name": "Imagine Media",
+                    "resource_url": "https://api.discogs.com/labels/362585"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "10",
+                    "entity_type_name": "Manufactured By",
+                    "id": "68697",
+                    "name": "Disctronics",
+                    "resource_url": "https://api.discogs.com/labels/68697"
+                }
+            ]
+        },
+        "country": "US",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "260047",
+                    "join": "",
+                    "name": "John Cuniberti",
+                    "role": "Mastered By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "4543499",
+                    "join": "",
+                    "name": "Christopher Orr (2)",
+                    "role": "Production Manager [Uncredited], Compiled By [Uncredited], Other [Licensed, Uncredited]",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Compilation",
+                        "Sampler",
+                        "Enhanced"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": [
+                "Electronic",
+                "Hip Hop",
+                "Rock"
+            ]
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "REVOCT 001 ✶25✶20000808 DISCTRONICS MADE IN THE U.S.A."
+                },
+                {
+                    "_type": "Mastering SID Code",
+                    "_value": "IFPI L793"
+                },
+                {
+                    "_type": "Mould SID Code",
+                    "_value": "IFPI 2D4E"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "580"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "580"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "597"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "R3",
+                "_id": "11179",
+                "_name": "Revolution Magazine"
+            }
+        },
+        "notes": "Enhanced content includes \"The Digital Music Toolbox\".\r\n\r\nThis release contains several executable files and also contains snippets of songs not listed on the tracklisting; the first 10 of which are located in a folder labeled as \"Review\" and the last three are located in a folder labeled as \"Sponsor.\"\r\n\r\nThis release is housed in a thin, cardboard slipcase.",
+        "released": "2000-10-00",
+        "styles": {
+            "style": [
+                "Trance",
+                "Dub",
+                "Euro House",
+                "Brit Pop",
+                "Downtempo",
+                "Shoegaze"
+            ]
+        },
+        "title": "Illicit Material: Music For Breakin' (The Rules)",
+        "tracklist": {
+            "track": [
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "232",
+                            "join": "",
+                            "name": "Swayzak",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:17",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "B. Zephaniah",
+                                "id": "17092",
+                                "join": "",
+                                "name": "Benjamin Zephaniah",
+                                "role": "Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "D. Brown",
+                                "id": "551321",
+                                "join": "",
+                                "name": "David Brown (12)",
+                                "role": "Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "J. Taylor",
+                                "id": "13395",
+                                "join": "",
+                                "name": "James S. Taylor",
+                                "role": "Written-By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "1",
+                    "title": "Illegal"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "10586",
+                            "join": "",
+                            "name": "Slum Village",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "2:59",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "J. Yancey",
+                                "id": "246270",
+                                "join": "",
+                                "name": "James Yancey",
+                                "role": "Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "R.L. Altman III",
+                                "id": "1242550",
+                                "join": "",
+                                "name": "RL Altman III",
+                                "role": "Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "T. Glover",
+                                "id": "843959",
+                                "join": "",
+                                "name": "Titus Glover",
+                                "role": "Written-By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "2",
+                    "title": "Climax"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "71802",
+                            "join": "",
+                            "name": "Binger The Voyager",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:06",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "2085909",
+                                "join": "",
+                                "name": "A. Griggs",
+                                "role": "Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "2085910",
+                                "join": "",
+                                "name": "F. Joelson",
+                                "role": "Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "2085911",
+                                "join": "",
+                                "name": "H. Carlsson (2)",
+                                "role": "Written-By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "3",
+                    "title": "St. Roland / St. Roland Outro"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "27044",
+                            "join": "",
+                            "name": "Cloud One",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:20",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "28602",
+                                "join": "",
+                                "name": "Patrick Adams",
+                                "role": "Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "28603",
+                                "join": "",
+                                "name": "Peter Brown",
+                                "role": "Written-By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "4",
+                    "title": "Patty Duke"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "71803",
+                            "join": "",
+                            "name": "Money B",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:12",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "71803",
+                            "join": "",
+                            "name": "Money B",
+                            "role": "Written-By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "5",
+                    "title": "Wrapped Up (Agua De Cocoa Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1049",
+                            "join": "",
+                            "name": "Paul van Dyk",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:38",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1049",
+                            "join": "",
+                            "name": "Paul van Dyk",
+                            "role": "Written-By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "6",
+                    "title": "Vega"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "696",
+                            "join": "",
+                            "name": "Glenn Underground",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:02",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "2008",
+                            "join": "",
+                            "name": "Glenn Crocker",
+                            "role": "Written-By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "7",
+                    "title": "Society Rules"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "30",
+                            "join": "",
+                            "name": "Groove Collective",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:51",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "C. Theberge",
+                                "id": "566386",
+                                "join": "",
+                                "name": "Chris Theberge",
+                                "role": "Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "G. Siraisi",
+                                "id": "158991",
+                                "join": "",
+                                "name": "Genji Siraisi",
+                                "role": "Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "I. Shur",
+                                "id": "36607",
+                                "join": "",
+                                "name": "Itaal Shur",
+                                "role": "Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "J. Rodriguez",
+                                "id": "28896",
+                                "join": "",
+                                "name": "Jay Rodriguez",
+                                "role": "Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "J. Maron",
+                                "id": "92196",
+                                "join": "",
+                                "name": "Jonathan Maron",
+                                "role": "Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "A. Worth",
+                                "id": "6549",
+                                "join": "",
+                                "name": "Richard Worth",
+                                "role": "Written-By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "8",
+                    "title": "Some People (Bell Hop Break Six Shemix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "24208",
+                            "join": "",
+                            "name": "Quasimoto",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "3:42",
+                    "position": "Video",
+                    "title": "Come On Feet"
+                },
+                {
+                    "duration": "",
+                    "position": "",
+                    "title": "Review - Revolution Oct 2000 Top 10"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "8278",
+                            "join": "",
+                            "name": "Gilles Peterson",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "0:32",
+                    "position": "MP3-1",
+                    "title": "I Am The Black Gold Of The Sun"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "2085890",
+                            "join": "",
+                            "name": "Hi-Fidelity Dub Sessions",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "0:30",
+                    "position": "MP3-2",
+                    "title": "Chocolate Elvis"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "951",
+                            "join": "",
+                            "name": "David Holmes",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "0:31",
+                    "position": "MP3-3",
+                    "title": "Compared To What"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1280",
+                            "join": "",
+                            "name": "Underworld",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "0:31",
+                    "position": "MP3-4",
+                    "title": "Cups"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "776",
+                            "join": "",
+                            "name": "DJ Cam",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "0:33",
+                    "position": "MP3-5",
+                    "title": "Ghetto Love"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "Up, Bustle And Out",
+                            "id": "1433",
+                            "join": "",
+                            "name": "Up, Bustle \u0026 Out",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "0:29",
+                    "position": "MP3-6",
+                    "title": "Havana's Streets"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "768",
+                            "join": "",
+                            "name": "Minus 8",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "0:31",
+                    "position": "MP3-7",
+                    "title": "Mondo Bopp"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "142",
+                            "join": "",
+                            "name": "Masters At Work",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "0:29",
+                    "position": "MP3-8",
+                    "title": "The Nervous Track"
+                },
+                {
+                    "artists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "2085889",
+                                "join": "/",
+                                "name": "Bossa Mundo",
+                                "role": "",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "Tom And Joyce",
+                                "id": "1803",
+                                "join": "",
+                                "name": "Tom \u0026 Joyce",
+                                "role": "",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "duration": "0:30",
+                    "position": "MP3-9",
+                    "title": "Val Minha Tristeza"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "3385",
+                            "join": "",
+                            "name": "Groove Armada",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "0:33",
+                    "position": "MP3-10",
+                    "title": "Your Song"
+                },
+                {
+                    "duration": "",
+                    "position": "",
+                    "title": "Sponsor"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "66965",
+                            "join": "",
+                            "name": "Mount Vernon Arts Lab",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "3:29",
+                    "position": "MP3-11",
+                    "title": "Bad Vibrations"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "154674",
+                            "join": "",
+                            "name": "Scientific Support Dept.",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:17",
+                    "position": "MP3-12",
+                    "title": "G.B."
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "343271",
+                            "join": "",
+                            "name": "Adventures In Stereo",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "2:33",
+                    "position": "MP3-13",
+                    "title": "Waves On"
+                }
+            ]
+        }
+    }
+}

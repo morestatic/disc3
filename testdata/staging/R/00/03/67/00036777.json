@@ -1,0 +1,277 @@
+{
+    "release": {
+        "_id": "36777",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "97",
+                "join": "",
+                "name": "Super_Collider",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "40",
+                    "name": "Loaded Records",
+                    "resource_url": "https://api.discogs.com/labels/40"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "40",
+                    "name": "Loaded Records",
+                    "resource_url": "https://api.discogs.com/labels/40"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "31",
+                    "entity_type_name": "Glass Mastered At",
+                    "id": "329811",
+                    "name": "Disctronics S",
+                    "resource_url": "https://api.discogs.com/labels/329811"
+                }
+            ]
+        },
+        "country": "UK",
+        "data_quality": "Needs Vote",
+        "extraartists": "",
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "Cardboard Sleeve",
+                "descriptions": {
+                    "description": [
+                        "Single",
+                        "Enhanced"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Text",
+                    "_type": "Barcode",
+                    "_value": "5025 4254 050 20"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "DISCTRONICS S LOAD 50 CD 04"
+                },
+                {
+                    "_type": "Mastering SID Code",
+                    "_value": "IFPI L502"
+                },
+                {
+                    "_type": "Mould SID Code",
+                    "_value": "IFPI 8714"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": [
+                {
+                    "_catno": "Load 50CD",
+                    "_id": "40",
+                    "_name": "Loaded Records"
+                },
+                {
+                    "_catno": "Load50CD",
+                    "_id": "40",
+                    "_name": "Loaded Records"
+                }
+            ]
+        },
+        "master_id": {
+            "_is_main_release": "false",
+            "content": "43887"
+        },
+        "notes": "Issued in a double cardboard LP-style slipcase with artwork as a sticker.\r\n\r\n℗ \u0026 © Loaded Records 1998\r\nMade in England",
+        "released": "1998",
+        "styles": {
+            "style": [
+                "House",
+                "Abstract"
+            ]
+        },
+        "title": "Darn (Cold Way O' Lovin')",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "3:35",
+                    "position": "1",
+                    "title": "Darn (Cold Way O' Lovin') (Edit)"
+                },
+                {
+                    "duration": "7:40",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "44101",
+                            "join": "",
+                            "name": "DJ Harvey",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "2",
+                    "title": "Darn (Cold Way O' Lovin') (Harvey's Collision Course Mix)"
+                },
+                {
+                    "duration": "5:55",
+                    "position": "3",
+                    "title": "Darn (Cold Way O' Lovin') (Original)"
+                },
+                {
+                    "duration": "4:32",
+                    "position": "4",
+                    "title": "Darn (Cold Way O' Lovin') (Dawn Of Liddell)"
+                },
+                {
+                    "duration": "3:43",
+                    "position": "Video",
+                    "title": "Darn (Cold Way O' Lovin')"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "357",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=dh2kauFcGpw",
+                    "description": "Head on 1999",
+                    "title": "Super Collider - Darn (Cold Way O'Lovin)"
+                },
+                {
+                    "_duration": "590",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=NOSkgtoREs8",
+                    "description": "Not much left to say about this gem. Classic classic classic!\nSuper Collider - Darn (Cold Way O' Lovin') Derrick Carter Mix 1998 Loaded Records.",
+                    "title": "Super Collider - Darn (Cold Way O' Lovin') Derrick Carter Mix [1998]"
+                },
+                {
+                    "_duration": "230",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=eCDiTXumEXE",
+                    "description": "",
+                    "title": "Super Collider - Darn (Cold Way O'Lovin) - Official video"
+                },
+                {
+                    "_duration": "461",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=vpee4NzCMzg",
+                    "description": "",
+                    "title": "Super Collider   Darn  Cold Way O' Lovin'"
+                },
+                {
+                    "_duration": "459",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=IltNooDRwuc",
+                    "description": "Provided to YouTube by Believe SAS\n\nDarn (Cold Way O' Lovin) (Harvey's Collision Course) · Super Collider\n\nDarn\n\n℗ 1998 Loaded Records Limited, a BMG Company\n\nReleased on: 1998-04-11\n\nAuthor: Christian Vogel\nAuthor: Jamie Lidell\nComposer: Christian Vog",
+                    "title": "Darn (Cold Way O' Lovin) (Harvey's Collision Course)"
+                },
+                {
+                    "_duration": "464",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=jeDa8xzQ9wg",
+                    "description": "Loaded Legends\n\nAvailable now in all stores.\n\nBeatport: btprt.dj/1c6so72\niTunes: bit.ly/1lCncS9",
+                    "title": "Super Collider - Darn (Cold Way O' Lovin) - Harvey's Southern Impact"
+                },
+                {
+                    "_duration": "393",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=ib3_4xFcbAg",
+                    "description": ".",
+                    "title": "Super Collider.Darn Cold Way Of Lovin.Harveys Sudden Impact Dub.."
+                },
+                {
+                    "_duration": "274",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=-1_YaZpa2Tg",
+                    "description": "Provided to YouTube by Believe SAS\n\nDarn (Cold Way O' Lovin) (Jamie Lidell Remix) · Super Collider\n\nArchives\n\n℗ 2011 Loaded Records Limited, a BMG Company\n\nReleased on: 2011-06-06\n\nAuthor: Christian Vogel\nAuthor: Jamie Lidell\nComposer: Christian Vogel",
+                    "title": "Darn (Cold Way O' Lovin) (Jamie Lidell Remix)"
+                },
+                {
+                    "_duration": "356",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=0eCoZbqhBfw",
+                    "description": "Provided to YouTube by Loaded Records\n\nDarn (Cold Way O' Lovin) · Super Collider\n\nDarn (Cold Way O'Lovin)\n\n℗ 1998 Loaded Records Limited, a BMG Company\n\nPerformance: Cristian Vogel\nPerformance: Jamie Lidderdale\n\nAuto-generated by YouTube.",
+                    "title": "Darn (Cold Way O' Lovin)"
+                },
+                {
+                    "_duration": "459",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=moYz_N3a-EM",
+                    "description": "Provided to YouTube by Loaded Records\n\nDarn (Cold Way O' Lovin) (Harvey's Collision Course) · Super Collider\n\nDarn (Cold Way O'Lovin)\n\n℗ 1998 Loaded Records Limited, a BMG Company\n\nPerformance: Cristian Vogel\nPerformance: Jamie Lidderdale\n\nAuto-generat",
+                    "title": "Darn (Cold Way O' Lovin) (Harvey's Collision Course)"
+                },
+                {
+                    "_duration": "272",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=qWDJPPTMdy8",
+                    "description": "Provided to YouTube by Loaded Records\n\nDarn (Cold Way Of Lovin') (Dawn Of Lidell) · Super Collider\n\nDarn (Cold Way O'Lovin)\n\n℗ 1998 Loaded Records Limited, a BMG Company\n\nPerformance: Cristian Vogel\nPerformance: Jamie Lidderdale\n\nAuto-generated by YouT",
+                    "title": "Darn (Cold Way Of Lovin') (Dawn Of Lidell)"
+                },
+                {
+                    "_duration": "356",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=jtHi1g-oFG8",
+                    "description": "Provided to YouTube by Loaded records\n\nDarn (Cold Way O' Lovin) (Harvey's Sudden Impact Mix) · Super Collider\n\nArchives\n\n℗ 1998 Loaded Records Limited, a BMG Company\n\nPerformance: Cristian Vogel\nPerformance: Jamie Lidderdale\n\nAuto-generated by YouTube.",
+                    "title": "Darn (Cold Way O' Lovin) (Harvey's Sudden Impact Mix)"
+                }
+            ]
+        }
+    }
+}

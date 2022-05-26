@@ -1,0 +1,216 @@
+{
+    "release": {
+        "_id": "52588",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "192391",
+                "join": "",
+                "name": "Octopus",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": {
+                "catno": "",
+                "entity_type": "23",
+                "entity_type_name": "Recorded At",
+                "id": "579933",
+                "name": "Octopus One San Francisco",
+                "resource_url": "https://api.discogs.com/labels/579933"
+            }
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "58657",
+                    "join": "",
+                    "name": "Peter Kuhlmann",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "41714",
+                    "join": "",
+                    "name": "Charles Uzzell-Edwards",
+                    "role": "Recorded By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "41714",
+                    "join": "",
+                    "name": "Charles Uzzell-Edwards",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": [
+                "Electronic",
+                "Non-Music"
+            ]
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "CD PLANT AB  PS 08/79  CDM01"
+                },
+                {
+                    "_type": "Mould SID Code",
+                    "_value": "ifpi 8405"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "474",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "297",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "595"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PS 08/79",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Limitation: 1000\r\nRecorded at Octopus One San Francisco\r\n\r\nOctopus is dedicated to the memory of William Bent,\r\nprevious owner of my Alpha Syntauri music computer.\r\n\r\nRecorded on the Octopus Music System.\r\n\r\nRespect to Atom Heart for permission to use one of\r\nhis rythms for this project (Macos Rules).",
+        "released": "1995-11-06",
+        "styles": {
+            "style": [
+                "Techno",
+                "Experimental",
+                "Ambient",
+                "Field Recording"
+            ]
+        },
+        "title": "Octopus",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "5:18",
+                    "position": "1",
+                    "title": "Chill In (Lowrider)"
+                },
+                {
+                    "duration": "8:51",
+                    "position": "2",
+                    "title": "Mosh"
+                },
+                {
+                    "duration": "3:28",
+                    "position": "3",
+                    "title": "Mile Long Grand Canyon Bra Chain"
+                },
+                {
+                    "duration": "4:06",
+                    "position": "4",
+                    "title": "Whathefugulookigat"
+                },
+                {
+                    "duration": "9:42",
+                    "position": "5",
+                    "title": "Island (Gardening Club Anthem)"
+                },
+                {
+                    "duration": "8:17",
+                    "position": "6",
+                    "title": "Strobelight"
+                },
+                {
+                    "duration": "7:53",
+                    "position": "7",
+                    "title": "Popcorn (Pacific Daylight Time)"
+                },
+                {
+                    "duration": "4:40",
+                    "position": "8",
+                    "title": "Giving Up Skenge (Macrodub)"
+                },
+                {
+                    "duration": "9:01",
+                    "position": "9",
+                    "title": "Love (For Martha)"
+                },
+                {
+                    "duration": "2:25",
+                    "position": "10",
+                    "title": "Why Can't We All Get Along In Harmony"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "3827",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=TdIQ60AFogk",
+                    "description": "Artist: Charles Uzzell-Edwards\nAlbum: Octopus\nLabel: Fax +49-69/450464\nYear: 1995\n\nTracklist:\n1. Chill In (Lowrider) [0:00] **\n2. Mosh [5:18] **\n3. Mile Long Grand Canyon Bra Chain [14:09] **\n4. Whathefugulookigat [17:37] **\n5. Island (Gardening Club Anth",
+                    "title": "Charles Uzzell-Edwards - Octopus (Full Album) [1995]"
+                },
+                {
+                    "_duration": "499",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=ZbWqm61jNok",
+                    "description": "http://j.mp/miscmusic",
+                    "title": "Octopus - Strobelight"
+                },
+                {
+                    "_duration": "281",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=RsddFpuW8ec",
+                    "description": "http://j.mp/miscmusic",
+                    "title": "Octopus - Giving Up Skenge"
+                }
+            ]
+        }
+    }
+}

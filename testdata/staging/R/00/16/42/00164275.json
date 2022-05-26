@@ -1,0 +1,174 @@
+{
+    "release": {
+        "_id": "164275",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "118592",
+                "join": "",
+                "name": "DUB.E.US",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "US",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "118592",
+                "join": "",
+                "name": "DUB.E.US",
+                "role": "Producer",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "FPR 014",
+                "_id": "50",
+                "_name": "Fair Park"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "708032"
+        },
+        "notes": "Uses vocal samples of Amel Larrieux - Get Up",
+        "released": "2003-06-26",
+        "styles": {
+            "style": [
+                "House",
+                "Deep House",
+                "Garage House"
+            ]
+        },
+        "title": "Blood Red",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "Dee",
+                                "id": "26579",
+                                "join": "",
+                                "name": "Demarkus Lewis",
+                                "role": "Remix",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "26579",
+                                "join": "",
+                                "name": "Demarkus Lewis",
+                                "role": "Remix [Credited To]",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "A1",
+                    "title": "Blood Red (Dee'z Blunted Mix)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "Dee",
+                                "id": "26579",
+                                "join": "",
+                                "name": "Demarkus Lewis",
+                                "role": "Remix",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "26579",
+                                "join": "",
+                                "name": "Demarkus Lewis",
+                                "role": "Remix [Credited To]",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "A2",
+                    "title": "Blood Red (Dee'z Beats)"
+                },
+                {
+                    "duration": "",
+                    "position": "B1",
+                    "title": "Blood Red (Initial Pass)"
+                },
+                {
+                    "duration": "",
+                    "position": "B2",
+                    "title": "Blood Red (Lyin' Beats)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "399",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=T2FpkMwU-hg",
+                    "description": "",
+                    "title": "Dub E Us Blood Red Dee Z Blunted Mix"
+                },
+                {
+                    "_duration": "430",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=oVAJsdMG9gs",
+                    "description": "I'm not the owner , Just for Promo. Will Remove on Request (low bitrate : 192kbps)\n\nhttps://www.discogs.com/DUBEUS-Blood-Red/release/164275",
+                    "title": "Dub.E.US - Blood Red (Initial Pass)"
+                },
+                {
+                    "_duration": "337",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=QKaOKE3yHVA",
+                    "description": "I'm not the owner , Just for Promo. Will Remove on Request (low bitrate : 192kbps)\n\nhttps://www.discogs.com/DUBEUS-Blood-Red/release/164275",
+                    "title": "Dub.E.US - Blood Red (Lyin' Beats)"
+                }
+            ]
+        }
+    }
+}

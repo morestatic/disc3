@@ -1,0 +1,237 @@
+{
+    "release": {
+        "_id": "49511",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "292991",
+                "join": "",
+                "name": "Sultan (2)",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "2118078",
+                    "join": "",
+                    "name": "PEK (3)",
+                    "role": "Graphics",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "58657",
+                    "join": "",
+                    "name": "Peter Kuhlmann",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "243724",
+                    "join": "",
+                    "name": "Burhan Öçal",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "299",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "469",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PW 39",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "139332"
+        },
+        "notes": "Limited to 2000 copies.",
+        "released": "1998-10-26",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Electro"
+            ]
+        },
+        "title": "Sultan - Osman",
+        "tracklist": {
+            "track": {
+                "duration": "47:38",
+                "position": "",
+                "sub_tracks": {
+                    "track": [
+                        {
+                            "duration": "4:58",
+                            "position": "1",
+                            "title": "Part I"
+                        },
+                        {
+                            "duration": "8:34",
+                            "position": "2",
+                            "title": "Part II"
+                        },
+                        {
+                            "duration": "5:46",
+                            "position": "3",
+                            "title": "Part III"
+                        },
+                        {
+                            "duration": "11:41",
+                            "position": "4",
+                            "title": "Part IV"
+                        },
+                        {
+                            "duration": "9:40",
+                            "position": "5",
+                            "title": "Part V"
+                        },
+                        {
+                            "duration": "1:03",
+                            "position": "6",
+                            "title": "Part VI"
+                        },
+                        {
+                            "duration": "5:54",
+                            "position": "7",
+                            "title": "Part VII"
+                        }
+                    ]
+                },
+                "title": "Bir Çalgiyim Gögsüne Yaslanmis"
+            }
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "2859",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=v5aEee0Crzk",
+                    "description": "Peter Namlook \u0026 Burhan Öçal, Fax +49-69/450464\nSupport release https://www.beatport.com/release/sultan-osman/50916",
+                    "title": "Sultan — Osman. Bir Çalgiyim Gögsüne Yaslanmis (Full album/1998)  • Ambient/Tribal/Ethnics"
+                },
+                {
+                    "_duration": "301",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=-dbeuuvLlG0",
+                    "description": "Artistas: Burhan Öçal \u0026 Pete Namlook\nÁlbum: Sultan Osman",
+                    "title": "01 - Bir Çalgiyim Göğsüne Yaslanmiş Part I"
+                },
+                {
+                    "_duration": "515",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=OHVrBgkFtpg",
+                    "description": "Artistas: Burhan Öçal \u0026 Pete Namlook\nÁlbum: Sultan Osman",
+                    "title": "02 - Bir Çalgiyim Göğsüne Yaslanmiş Part II"
+                },
+                {
+                    "_duration": "348",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=kBqqqvYRjVk",
+                    "description": "Artistas: Burhan Öçal \u0026 Pete Namlook\nÁlbum: Sultan Osman",
+                    "title": "03 - Bir Çalgiyim Göğsüne Yaslanmiş Part III"
+                },
+                {
+                    "_duration": "702",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=BDD98xjc8yQ",
+                    "description": "Artistas: Burhan Öçal \u0026 Pete Namlook\nÁlbum: Sultan Osman",
+                    "title": "04 - Bir Çalgiyim Göğsüne Yaslanmiş Part IV"
+                },
+                {
+                    "_duration": "581",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=eai-BLNAXwM",
+                    "description": "Artistas: Burhan Öçal \u0026 Pete Namlook\nÁlbum: Sultan Osman",
+                    "title": "05 - Bir Çalgiyim Göğsüne Yaslanmiş Part V"
+                },
+                {
+                    "_duration": "64",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=ADRYpI92Rtc",
+                    "description": "Artistas: Burhan Öçal \u0026 Pete Namlook\nÁlbum: Sultan Osman",
+                    "title": "06 - Bir Çalgiyim Göğsüne Yaslanmiş Part VI"
+                },
+                {
+                    "_duration": "354",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=m45be-lYFMo",
+                    "description": "Artistas: Burhan Öçal \u0026 Pete Namlook\nÁlbum: Sultan Osman",
+                    "title": "07 - Bir Çalgiyim Göğsüne Yaslanmiş Part VII"
+                },
+                {
+                    "_duration": "583",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=UUQbNttDt1w",
+                    "description": "",
+                    "title": "Burhan Öçal \u0026 Pete Namlook - Sultan Osman part V"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,100 @@
+{
+    "release": {
+        "_id": "164163",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "55922",
+                "join": "",
+                "name": "Dancing HQ",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "UK",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "13619",
+                "join": "",
+                "name": "Ravi McArthur",
+                "role": "Written-By, Producer, Arranged By",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": {
+                "_height": "464",
+                "_type": "secondary",
+                "_uri": "",
+                "_uri150": "",
+                "_width": "479"
+            }
+        },
+        "labels": {
+            "label": {
+                "_catno": "LOAD 058",
+                "_id": "40",
+                "_name": "Loaded Records"
+            }
+        },
+        "released": "1999",
+        "styles": {
+            "style": "House"
+        },
+        "title": "EP",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "9538",
+                            "join": "",
+                            "name": "Tom Gillieron",
+                            "role": "Written-By, Producer, Arranged By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "A",
+                    "title": "Right Where We Ought To Be"
+                },
+                {
+                    "duration": "",
+                    "position": "AA",
+                    "title": "In The Air"
+                }
+            ]
+        },
+        "videos": {
+            "video": {
+                "_duration": "449",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=kA0YWWdmgpE",
+                "description": "https://www.discogs.com/Dancing-HQ-EP/release/164163\n\nDear producer/owner, the  purpose of this channel is to promote artists. No copyright infringement intended! If you want the music removed , please contact kerouacandsmileyt@gmail.com -  We will remove",
+                "title": "Dancing HQ ‎– In The Air"
+            }
+        }
+    }
+}

@@ -1,0 +1,194 @@
+{
+    "release": {
+        "_id": "23713",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "166",
+                "join": "",
+                "name": "Fred Everything",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "9",
+                    "entity_type_name": "Distributed By",
+                    "id": "377734",
+                    "name": "Innergalactic Groove Source",
+                    "resource_url": "https://api.discogs.com/labels/377734"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "1713782",
+                    "name": "Fair Park Records",
+                    "resource_url": "https://api.discogs.com/labels/1713782"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "30",
+                    "entity_type_name": "Lacquer Cut At",
+                    "id": "610887",
+                    "name": "A+R Record Manufacturing Corporation",
+                    "resource_url": "https://api.discogs.com/labels/610887"
+                },
+                {
+                    "catno": "9801x40",
+                    "entity_type": "17",
+                    "entity_type_name": "Pressed By",
+                    "id": "610887",
+                    "name": "A+R Record Manufacturing Corporation",
+                    "resource_url": "https://api.discogs.com/labels/610887"
+                }
+            ]
+        },
+        "country": "US",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "F. Blais",
+                    "id": "46343",
+                    "join": "",
+                    "name": "Frédéric Blais",
+                    "role": "Keyboards [All Keys]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "SPGII",
+                    "id": "583679",
+                    "join": "",
+                    "name": "Stan Getz II",
+                    "role": "Lacquer Cut By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "Frederic Blais",
+                    "id": "46343",
+                    "join": "",
+                    "name": "Frédéric Blais",
+                    "role": "Presenter",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "166",
+                    "join": "",
+                    "name": "Fred Everything",
+                    "role": "Producer",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "EP"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Side A runout etch",
+                    "_type": "Matrix / Runout",
+                    "_value": "9801x40 A A+R SPGII Fred Everything"
+                },
+                {
+                    "_description": "Side B runout etch",
+                    "_type": "Matrix / Runout",
+                    "_value": "9801x40 B A+R SPGII Fred Everything"
+                }
+            ]
+        },
+        "images": {
+            "image": {
+                "_height": "400",
+                "_type": "primary",
+                "_uri": "",
+                "_uri150": "",
+                "_width": "402"
+            }
+        },
+        "labels": {
+            "label": {
+                "_catno": "FPR008",
+                "_id": "50",
+                "_name": "Fair Park"
+            }
+        },
+        "notes": "© 1998 Fair Park Records. Distributed by IGS",
+        "released": "1998",
+        "styles": {
+            "style": "Deep House"
+        },
+        "title": "First Impressions E.P.",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "",
+                    "title": "Here"
+                },
+                {
+                    "duration": "",
+                    "position": "A1",
+                    "title": "Tango Delight"
+                },
+                {
+                    "duration": "",
+                    "position": "A2",
+                    "title": "Black Girl"
+                },
+                {
+                    "duration": "",
+                    "position": "",
+                    "title": "There"
+                },
+                {
+                    "duration": "",
+                    "position": "B1",
+                    "title": "World Of Music"
+                },
+                {
+                    "duration": "",
+                    "position": "B2",
+                    "title": "Smokin' Happines"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "439",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=RImCEOWONO8",
+                    "description": "Frederic Blais\nFirst Impressions ep\nProduced by Fred Everything",
+                    "title": "Frederic Blais Fred Everything) -  Black Girl"
+                },
+                {
+                    "_duration": "386",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=oSpVPudP-KY",
+                    "description": "Rare Release of Fred Everything\nFrederic Blais\nFirst Impressions ep\nProduced by Fred Everything",
+                    "title": "Frederic Blais Fred Everything) -  Smokin' Happines"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,203 @@
+{
+    "release": {
+        "_id": "225718",
+        "_status": "Accepted",
+        "artists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "126695",
+                    "join": "\u0026",
+                    "name": "Orly Angelo",
+                    "role": "",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1328047",
+                    "join": "",
+                    "name": "The Ross Street Hustlers",
+                    "role": "",
+                    "tracks": ""
+                }
+            ]
+        },
+        "companies": "",
+        "country": "US",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "262689",
+                    "join": "",
+                    "name": "Suza Kanon",
+                    "role": "Lyrics By, Vocals",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "126695",
+                    "join": "",
+                    "name": "Orly Angelo",
+                    "role": "Written-By, Producer",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": {
+                "_height": "600",
+                "_type": "secondary",
+                "_uri": "",
+                "_uri150": "",
+                "_width": "600"
+            }
+        },
+        "labels": {
+            "label": {
+                "_catno": "FPR 017",
+                "_id": "50",
+                "_name": "Fair Park"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "1361596"
+        },
+        "released": "2003-10-23",
+        "styles": {
+            "style": [
+                "Deep House",
+                "Downtempo"
+            ]
+        },
+        "title": "Getting In It",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A1",
+                    "title": "Getting In It (O-n-M's Vocal Mix)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "671657",
+                                "join": "",
+                                "name": "Arnold Velasco",
+                                "role": "Remix",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "1328048",
+                                "join": "",
+                                "name": "Travis Vaden",
+                                "role": "Remix",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "A2",
+                    "title": "Getting In It (Heads Mix)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "82210",
+                                "join": "",
+                                "name": "Moisture Control",
+                                "role": "Remix",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "173901",
+                                "join": "",
+                                "name": "Mike Constantino",
+                                "role": "Remix [Credited To]",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "80629",
+                                "join": "",
+                                "name": "Waric Cameron",
+                                "role": "Remix [Credited To]",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "B1",
+                    "title": "Getting In It (Moisture Control's Sweet \u0026 Low Dub Part 1)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "82210",
+                                "join": "",
+                                "name": "Moisture Control",
+                                "role": "Remix",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "173901",
+                                "join": "",
+                                "name": "Mike Constantino",
+                                "role": "Remix [Credited To]",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "80629",
+                                "join": "",
+                                "name": "Waric Cameron",
+                                "role": "Remix [Credited To]",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "B2",
+                    "title": "Getting In It (Moisture Control's Sweet \u0026 Low Dub Part 2)"
+                }
+            ]
+        },
+        "videos": {
+            "video": {
+                "_duration": "439",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=6Btvw7Xu11E",
+                "description": "Orly Angelo \u0026 The Ross Street Hustlers - Getting In It (O-n-M's Vocal Mix) (Fair Park), 2003.\nhttp://www.discogs.com/Orly-Angelo-Getting-In-It/release/225718",
+                "title": "Orly Angelo \u0026 The Ross Street Hustlers - Getting In It (O-n-M's Vocal Mix)"
+            }
+        }
+    }
+}

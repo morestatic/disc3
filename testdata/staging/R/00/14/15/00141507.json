@@ -1,0 +1,651 @@
+{
+    "release": {
+        "_id": "141507",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "194",
+                "join": "",
+                "name": "Various",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "368600",
+                    "name": "Éditions Freeway",
+                    "resource_url": "https://api.discogs.com/labels/368600"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "859576",
+                    "name": "Trax (9)",
+                    "resource_url": "https://api.discogs.com/labels/859576"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "368600",
+                    "name": "Éditions Freeway",
+                    "resource_url": "https://api.discogs.com/labels/368600"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "859576",
+                    "name": "Trax (9)",
+                    "resource_url": "https://api.discogs.com/labels/859576"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "636",
+                    "name": "Mute Records Ltd.",
+                    "resource_url": "https://api.discogs.com/labels/636"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "2652",
+                    "name": "Labels",
+                    "resource_url": "https://api.discogs.com/labels/2652"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "275",
+                    "name": "Virus Recordings",
+                    "resource_url": "https://api.discogs.com/labels/275"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "23528",
+                    "name": "Warp Records",
+                    "resource_url": "https://api.discogs.com/labels/23528"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "270709",
+                    "name": "Soma Recordings Ltd.",
+                    "resource_url": "https://api.discogs.com/labels/270709"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "160",
+                    "name": "XL Recordings",
+                    "resource_url": "https://api.discogs.com/labels/160"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "6774",
+                    "name": "Delabel",
+                    "resource_url": "https://api.discogs.com/labels/6774"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "738",
+                    "name": "Grand Central Records",
+                    "resource_url": "https://api.discogs.com/labels/738"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "29896",
+                    "name": "Pias",
+                    "resource_url": "https://api.discogs.com/labels/29896"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "1601626",
+                    "name": "Ultimate Dilemma Recordings",
+                    "resource_url": "https://api.discogs.com/labels/1601626"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "103888",
+                    "name": "Média 7",
+                    "resource_url": "https://api.discogs.com/labels/103888"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "1879",
+                    "name": "Freskanova",
+                    "resource_url": "https://api.discogs.com/labels/1879"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "200190",
+                    "name": "Plastikprodukt",
+                    "resource_url": "https://api.discogs.com/labels/200190"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "114113",
+                    "name": "Mute Song",
+                    "resource_url": "https://api.discogs.com/labels/114113"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "414258",
+                    "name": "Mute Song Ltd.",
+                    "resource_url": "https://api.discogs.com/labels/414258"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "48207",
+                    "name": "Copyright Control",
+                    "resource_url": "https://api.discogs.com/labels/48207"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "32380",
+                    "name": "MCA Music",
+                    "resource_url": "https://api.discogs.com/labels/32380"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "189548",
+                    "name": "Sony Music Publishing",
+                    "resource_url": "https://api.discogs.com/labels/189548"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "357826",
+                    "name": "Fresh Songs",
+                    "resource_url": "https://api.discogs.com/labels/357826"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "113559",
+                    "name": "Chrysalis Music",
+                    "resource_url": "https://api.discogs.com/labels/113559"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "271892",
+                    "name": "MCA Music Publishing",
+                    "resource_url": "https://api.discogs.com/labels/271892"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "17",
+                    "entity_type_name": "Pressed By",
+                    "id": "347613",
+                    "name": "Optical Disc De France",
+                    "resource_url": "https://api.discogs.com/labels/347613"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "31",
+                    "entity_type_name": "Glass Mastered At",
+                    "id": "266784",
+                    "name": "DOCdata France",
+                    "resource_url": "https://api.discogs.com/labels/266784"
+                }
+            ]
+        },
+        "country": "France",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "444139",
+                    "join": "",
+                    "name": "Alexandre Jaillon",
+                    "role": "Compiled By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1970733",
+                    "join": "",
+                    "name": "Bertrand \"Bétail\" Lacanal",
+                    "role": "Design",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Promo",
+                        "Sampler"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Rights Society",
+                    "_value": "SACEM SACD SDRM SGDL"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "TXCD014 DOCdata France"
+                },
+                {
+                    "_type": "Mastering SID Code",
+                    "_value": "LJ81"
+                },
+                {
+                    "_type": "Mould SID Code",
+                    "_value": "ifpi 3602"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "592"
+                },
+                {
+                    "_height": "599",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "595"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "TRAX014",
+                "_id": "859576",
+                "_name": "Trax (9)"
+            }
+        },
+        "notes": "Promotional CD given away with issue no. 14 of Trax (December 1998). Not for sale.\nCompilation ℗ \u0026 © 1998 Trax / Éditions Freeway.\nComes in a cardboard sleeve.",
+        "released": "1998-12-00",
+        "styles": {
+            "style": [
+                "House",
+                "Techno"
+            ]
+        },
+        "title": "Sampler 014",
+        "tracklist": {
+            "track": [
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1030",
+                            "join": "",
+                            "name": "Plastikman",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "2:59",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "835",
+                            "join": "",
+                            "name": "Richie Hawtin",
+                            "role": "Written-By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "1",
+                    "title": "Skizofrenik (Video Edit)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1182",
+                            "join": "",
+                            "name": "Ed Rush \u0026 Optical",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "7:07",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1182",
+                            "join": "",
+                            "name": "Ed Rush \u0026 Optical",
+                            "role": "Written-By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "2",
+                    "title": "Point Blank"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "958",
+                            "join": "",
+                            "name": "Two Lone Swordsmen",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:53",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "Weatherall",
+                                "id": "2657",
+                                "join": "",
+                                "name": "Andrew Weatherall",
+                                "role": "Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "Tenniswood",
+                                "id": "23899",
+                                "join": "",
+                                "name": "Keith Tenniswood",
+                                "role": "Written-By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "3",
+                    "title": "Gay Spunk"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "20",
+                            "join": "",
+                            "name": "Percy X",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:26",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "20",
+                            "join": "",
+                            "name": "Percy X",
+                            "role": "Written-By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "4",
+                    "title": "Track 2"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1403",
+                            "join": "",
+                            "name": "Jonny L",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:22",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "Silvah Bullet",
+                                "id": "7169",
+                                "join": "",
+                                "name": "Silver Bullet",
+                                "role": "Featuring",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "1403",
+                                "join": "",
+                                "name": "Jonny L",
+                                "role": "Written-By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "5",
+                    "title": "20 Degrees"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "3082",
+                            "join": "",
+                            "name": "Rae \u0026 Christian",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:15",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "F. Calenta",
+                                "id": "773317",
+                                "join": "",
+                                "name": "Caliente Fredrick",
+                                "role": "Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "E. Rudnick",
+                                "id": "773318",
+                                "join": "",
+                                "name": "Erik Rudnicki",
+                                "role": "Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "M. Rae",
+                                "id": "16820",
+                                "join": "",
+                                "name": "Mark Rae",
+                                "role": "Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "M. Dowling",
+                                "id": "218395",
+                                "join": "",
+                                "name": "Michael Dowling",
+                                "role": "Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "R. Dowling",
+                                "id": "1268427",
+                                "join": "",
+                                "name": "Richard Dowling (2)",
+                                "role": "Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "S. McCoy",
+                                "id": "1268425",
+                                "join": "",
+                                "name": "Shelton McCoy",
+                                "role": "Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "S. Christian",
+                                "id": "48042",
+                                "join": "",
+                                "name": "Steve Christian",
+                                "role": "Written-By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "6",
+                    "title": "Divine Sounds"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1446",
+                            "join": "",
+                            "name": "Common Ground",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:42",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "8081",
+                            "join": "",
+                            "name": "Nick Faber",
+                            "role": "Written-By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "7",
+                    "title": "Get Yourself Together"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "The Freestylers",
+                            "id": "3163",
+                            "join": "",
+                            "name": "Freestylers",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:36",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "Harvey",
+                                "id": "59565",
+                                "join": "",
+                                "name": "Aston Harvey",
+                                "role": "Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "Griffin",
+                                "id": "67688",
+                                "join": "",
+                                "name": "Eric Griffin",
+                                "role": "Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "Cantor",
+                                "id": "14803",
+                                "join": "",
+                                "name": "Matt Cantor",
+                                "role": "Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "Morales",
+                                "id": "93032",
+                                "join": "",
+                                "name": "Norberto Morales",
+                                "role": "Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "Nealy",
+                                "id": "79976",
+                                "join": "",
+                                "name": "Sherman Nealy",
+                                "role": "Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "Butler",
+                                "id": "810943",
+                                "join": "",
+                                "name": "Tony Butler (2)",
+                                "role": "Written-By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "8",
+                    "title": "B-Boy Stance"
+                }
+            ]
+        }
+    }
+}

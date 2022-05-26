@@ -1,0 +1,197 @@
+{
+    "release": {
+        "_id": "52866",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "11300",
+                "join": "",
+                "name": "Drum Machine Circle",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "724580",
+                    "name": "Octopus 3",
+                    "resource_url": "https://api.discogs.com/labels/724580"
+                },
+                {
+                    "catno": "37371",
+                    "entity_type": "10",
+                    "entity_type_name": "Manufactured By",
+                    "id": "277449",
+                    "name": "P+O Pallas",
+                    "resource_url": "https://api.discogs.com/labels/277449"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "CUE",
+                    "id": "41714",
+                    "join": "",
+                    "name": "Charles Uzzell-Edwards",
+                    "role": "Graphics",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "41714",
+                    "join": "",
+                    "name": "Charles Uzzell-Edwards",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "41714",
+                    "join": "",
+                    "name": "Charles Uzzell-Edwards",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "42339",
+                    "join": "",
+                    "name": "Jason Rivera",
+                    "role": "Written-By",
+                    "tracks": "2, 3"
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "PS 08/90 P+O-37371-A1 03-98"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "484",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "587"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "581"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "579"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "579"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PS 08/90",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Recorded at Octopus, Chill Valley CA.\nLimitation: 1,000\n\nThe backside of the jewelcase contains the cover.\n\nSome copies the CD print is directly on the CD. \nIn other CDs, the print is on a Black background, like any other FAX sub-label releases.",
+        "released": "1998-03-30",
+        "styles": {
+            "style": [
+                "IDM",
+                "Ambient"
+            ]
+        },
+        "title": "DADA",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "6:59",
+                    "position": "1",
+                    "title": "The Sea Of Information"
+                },
+                {
+                    "duration": "38:05",
+                    "position": "2",
+                    "title": "Roswell"
+                },
+                {
+                    "duration": "10:35",
+                    "position": "3",
+                    "title": "Realisation"
+                },
+                {
+                    "duration": "13:07",
+                    "position": "4",
+                    "title": "Coming Down"
+                }
+            ]
+        },
+        "videos": {
+            "video": {
+                "_duration": "4128",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=R5yXPW0o_yw",
+                "description": "Artist: Drum Machine Circle\nAlbum: Dada\nLabel: Fax\nYear: 1998\n\n1. The Sea Of Information [00:00]\n2. Roswell [06:59]\n3. Realisation [45:05]\n4. Coming Down [55:40]\n\n\nAll music uploaded to this channel is available for educational and informative purposes on",
+                "title": "Drum Machine Circle - Dada (Full Album) [1998]"
+            }
+        }
+    }
+}

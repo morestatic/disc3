@@ -1,0 +1,98 @@
+{
+    "release": {
+        "_id": "73793",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "Morpheus",
+                "id": "28283",
+                "join": "",
+                "name": "Morpheous",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "UK",
+        "data_quality": "Correct",
+        "extraartists": "",
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "12\""
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": {
+                "_height": "170",
+                "_type": "primary",
+                "_uri": "",
+                "_uri150": "",
+                "_width": "170"
+            }
+        },
+        "labels": {
+            "label": {
+                "_catno": "LOAD 085",
+                "_id": "40",
+                "_name": "Loaded Records"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "1461336"
+        },
+        "released": "2002",
+        "styles": {
+            "style": "House"
+        },
+        "title": "Assassin",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A1",
+                    "title": "Assassin (Original Mix)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "79397",
+                            "join": "",
+                            "name": "Void (3)",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "AA1",
+                    "title": "Assassin (Stompa Phunk Mix)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "49745",
+                            "join": "",
+                            "name": "Tribalation",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "AA2",
+                    "title": "Assassin (Tribalation Mix)"
+                }
+            ]
+        }
+    }
+}

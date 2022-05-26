@@ -1,0 +1,248 @@
+{
+    "release": {
+        "_id": "9072",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "29599",
+                "join": "",
+                "name": "The Dark Side Of The Moog",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "none",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "294391",
+                    "name": "Sonic Studios Frankfurt",
+                    "resource_url": "https://api.discogs.com/labels/294391"
+                },
+                {
+                    "catno": "none",
+                    "entity_type": "17",
+                    "entity_type_name": "Pressed By",
+                    "id": "291931",
+                    "name": "CD Plant MFG",
+                    "resource_url": "https://api.discogs.com/labels/291931"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "10360",
+                    "join": "",
+                    "name": "Klaus Schulze",
+                    "role": "Performer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Performer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "10360",
+                    "join": "",
+                    "name": "Klaus Schulze",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "CD PLANT MFG PK 08/99 CDM01"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "606",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "468",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "613",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "601",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "247",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "503"
+                },
+                {
+                    "_height": "594",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/99",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "13897"
+        },
+        "notes": "Recorded at Sonic Studio October 1993.\nLimitation: 1000 copies.\n\nThis is surely a Limited Edition but that's not specified in the release.\n\nSub-tracks are not mentioned in the release. Their duration was taken from cd-player.",
+        "released": "1995-05-02",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Trance"
+            ]
+        },
+        "title": "The Dark Side Of The Moog 2",
+        "tracklist": {
+            "track": {
+                "duration": "61:04",
+                "position": "",
+                "sub_tracks": {
+                    "track": [
+                        {
+                            "duration": "5:00",
+                            "position": "1",
+                            "title": "Part 1"
+                        },
+                        {
+                            "duration": "5:00",
+                            "position": "2",
+                            "title": "Part 2"
+                        },
+                        {
+                            "duration": "5:00",
+                            "position": "3",
+                            "title": "Part 3"
+                        },
+                        {
+                            "duration": "5:00",
+                            "position": "4",
+                            "title": "Part 4"
+                        },
+                        {
+                            "duration": "5:01",
+                            "position": "5",
+                            "title": "Part 5"
+                        },
+                        {
+                            "duration": "4:59",
+                            "position": "6",
+                            "title": "Part 6"
+                        },
+                        {
+                            "duration": "5:00",
+                            "position": "7",
+                            "title": "Part 7"
+                        },
+                        {
+                            "duration": "5:00",
+                            "position": "8",
+                            "title": "Part 8"
+                        },
+                        {
+                            "duration": "5:00",
+                            "position": "9",
+                            "title": "Part 9"
+                        },
+                        {
+                            "duration": "5:01",
+                            "position": "10",
+                            "title": "Part 10"
+                        },
+                        {
+                            "duration": "4:59",
+                            "position": "11",
+                            "title": "Part 11"
+                        },
+                        {
+                            "duration": "6:02",
+                            "position": "12",
+                            "title": "Part 12"
+                        }
+                    ]
+                },
+                "title": "A Saucerful Of Ambience"
+            }
+        },
+        "videos": {
+            "video": {
+                "_duration": "3662",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=t5wVfuBfVHM",
+                "description": "The Dark Side Of The Moog 2.",
+                "title": "Klaus Schulze \u0026 Pete Namlook - A Saucerful Of Ambience"
+            }
+        }
+    }
+}

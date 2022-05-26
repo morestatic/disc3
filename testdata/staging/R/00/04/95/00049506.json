@@ -1,0 +1,170 @@
+{
+    "release": {
+        "_id": "49506",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "264576",
+                "join": "",
+                "name": "Wechselspannung",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": {
+                "catno": "",
+                "entity_type": "10",
+                "entity_type_name": "Manufactured By",
+                "id": "291931",
+                "name": "CD Plant MFG",
+                "resource_url": "https://api.discogs.com/labels/291931"
+            }
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "33693",
+                    "join": "",
+                    "name": "Jonah Sharp",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "CD PLANT MFG PW 17 CDM01"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC6269"
+                }
+            ]
+        },
+        "images": {
+            "image": {
+                "_height": "602",
+                "_type": "primary",
+                "_uri": "",
+                "_uri150": "",
+                "_width": "600"
+            }
+        },
+        "labels": {
+            "label": {
+                "_catno": "PW 17",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "75227"
+        },
+        "notes": "Limitation: 1000\r\n\r\nThis CD has 1 track, but is indexed into 9 parts of mostly 5 minutes for listening convenience.\r\n\r\nFrankfurt 1994",
+        "released": "1994-09-30",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Electro"
+            ]
+        },
+        "title": "Wechselspannung",
+        "tracklist": {
+            "track": {
+                "duration": "47:04",
+                "position": "",
+                "sub_tracks": {
+                    "track": [
+                        {
+                            "duration": "5:00",
+                            "position": "1",
+                            "title": "Part 1"
+                        },
+                        {
+                            "duration": "5:00",
+                            "position": "2",
+                            "title": "Part 2"
+                        },
+                        {
+                            "duration": "5:00",
+                            "position": "3",
+                            "title": "Part 3"
+                        },
+                        {
+                            "duration": "5:00",
+                            "position": "4",
+                            "title": "Part 4"
+                        },
+                        {
+                            "duration": "5:00",
+                            "position": "5",
+                            "title": "Part 5"
+                        },
+                        {
+                            "duration": "5:00",
+                            "position": "6",
+                            "title": "Part 6"
+                        },
+                        {
+                            "duration": "5:00",
+                            "position": "7",
+                            "title": "Part 7"
+                        },
+                        {
+                            "duration": "5:00",
+                            "position": "8",
+                            "title": "Part 8"
+                        },
+                        {
+                            "duration": "7:04",
+                            "position": "9",
+                            "title": "Part 9"
+                        }
+                    ]
+                },
+                "title": "220 V"
+            }
+        },
+        "videos": {
+            "video": {
+                "_duration": "2825",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=Ab0AnWS56hM",
+                "description": "Track 1 - 220 V\nArtists : Pete Namlook \u0026 Jonah Sharp\nAlbum : Wechselspannung\n1994 FAX +49-69/450464",
+                "title": "Pete Namlook \u0026 Jonah Sharp - 220 V (Wechselspannung)"
+            }
+        }
+    }
+}

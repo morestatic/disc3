@@ -1,0 +1,182 @@
+{
+    "release": {
+        "_id": "16622",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "292993",
+                "join": "",
+                "name": "Elektro",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "16",
+                    "entity_type_name": "Made By",
+                    "id": "267946",
+                    "name": "CD Plant AB",
+                    "resource_url": "https://api.discogs.com/labels/267946"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "294386",
+                    "name": "Klanglabor Frankfurt",
+                    "resource_url": "https://api.discogs.com/labels/294386"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "58657",
+                    "join": "",
+                    "name": "Peter Kuhlmann",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "15130",
+                    "join": "",
+                    "name": "Robert Görl",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "CD PLANT AB PK 08/109 CDM01"
+                },
+                {
+                    "_type": "Mould SID Code",
+                    "_value": "ifpi 3414"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "598",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "465",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "601",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "297",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "598",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/109",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Limitation: 2000\n\nTotal time: 47.06\n\nSpecial thanks to: Elisabeth / Fabia / Kathrin\nAndreas Gilch\nKlaus (for tracking the ARP)\nA\u0026M (for loop support)\nHerbert Horneck (best equipment technician)\n\nMade in Germany",
+        "released": "1996-03-11",
+        "styles": {
+            "style": [
+                "Hard Trance",
+                "Ambient"
+            ]
+        },
+        "title": "Elektro",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "6:44",
+                    "position": "1",
+                    "title": "Perfect Body Part I"
+                },
+                {
+                    "duration": "15:30",
+                    "position": "2",
+                    "title": "Perfect Body Part II"
+                },
+                {
+                    "duration": "8:05",
+                    "position": "3",
+                    "title": "Perfect Body Part III"
+                },
+                {
+                    "duration": "11:43",
+                    "position": "4",
+                    "title": "Perfect Body Part IV"
+                },
+                {
+                    "duration": "5:02",
+                    "position": "5",
+                    "title": "Perfect Body Part V"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,453 @@
+{
+    "release": {
+        "_id": "52066",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "194",
+                "join": "",
+                "name": "Various",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "41714",
+                    "join": "",
+                    "name": "Charles Uzzell-Edwards",
+                    "role": "Compiled By",
+                    "tracks": "2-01 to 2-08"
+                },
+                {
+                    "anv": "Corrado",
+                    "id": "45455",
+                    "join": "",
+                    "name": "Corrado Izzo",
+                    "role": "Compiled By [Excerpts]",
+                    "tracks": "1-01 to 1-13"
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "2",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Mixed",
+                        "Limited Edition",
+                        "Compilation"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "589",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "592",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "473",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "597",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "593"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PKPWPS 5",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "982105"
+        },
+        "notes": "Limitation : 2000",
+        "released": "1996-07-29",
+        "styles": {
+            "style": [
+                "Hard Trance",
+                "Ambient"
+            ]
+        },
+        "title": "Genetic Drift",
+        "tracklist": {
+            "track": [
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "192391",
+                            "join": "",
+                            "name": "Octopus",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "3:22",
+                    "position": "1-01",
+                    "title": "Mile Long Bra Chain"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "704572",
+                            "join": "",
+                            "name": "The Sunken Road",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "1:07",
+                    "position": "1-02",
+                    "title": "Road 5"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "Transonic 3",
+                            "id": "38287",
+                            "join": "",
+                            "name": "Transonic",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "7:21",
+                    "position": "1-03",
+                    "title": "Flow Cycle"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "3936",
+                            "join": "",
+                            "name": "Koolfang",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "7:16",
+                    "position": "1-04",
+                    "title": "Fusonics"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "38287",
+                            "join": "",
+                            "name": "Transonic",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "7:10",
+                    "position": "1-05",
+                    "title": "Time Span Zero"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "From Within 2",
+                            "id": "292739",
+                            "join": "",
+                            "name": "From Within",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "7:16",
+                    "position": "1-06",
+                    "title": "Hidden 2"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "Xangadix 2",
+                            "id": "293202",
+                            "join": "",
+                            "name": "Xangadix",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "7:40",
+                    "position": "1-07",
+                    "title": "Electric Eyes"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "292739",
+                            "join": "",
+                            "name": "From Within",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "0:18",
+                    "position": "1-08",
+                    "title": "Lost"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "292739",
+                            "join": "",
+                            "name": "From Within",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:41",
+                    "position": "1-09",
+                    "title": "Snake Charmer"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "29599",
+                            "join": "",
+                            "name": "The Dark Side Of The Moog",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "8:11",
+                    "position": "1-10",
+                    "title": "Wish You Were There"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "Wechselspannung 2",
+                            "id": "264576",
+                            "join": "",
+                            "name": "Wechselspannung",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:45",
+                    "position": "1-11",
+                    "title": "Hausanschluß"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "29599",
+                            "join": "",
+                            "name": "The Dark Side Of The Moog",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:25",
+                    "position": "1-12",
+                    "title": "Phantom Heart Brother #4"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "32186",
+                            "join": "",
+                            "name": "Oskar Sala",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "1:09",
+                    "position": "1-13",
+                    "title": "Fanfare"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "292991",
+                            "join": "",
+                            "name": "Sultan (2)",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:00",
+                    "position": "2-01",
+                    "title": "Yenilik #2"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "Jet Chamber 2",
+                            "id": "15317",
+                            "join": "",
+                            "name": "Jet Chamber",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "9:30",
+                    "position": "2-02",
+                    "title": "Outer Rotation"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "2912",
+                            "join": "",
+                            "name": "Dreamfish",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "14:53",
+                    "position": "2-03",
+                    "title": "Under Water"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "29599",
+                            "join": "",
+                            "name": "The Dark Side Of The Moog",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "7:47",
+                    "position": "2-04",
+                    "title": "Three Pipers At The Gates Of Dawn #6"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "21794",
+                            "join": "",
+                            "name": "Redeye",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:51",
+                    "position": "2-05",
+                    "title": "Arizona Tracks #9"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "69011",
+                            "join": "",
+                            "name": "Shades Of Orion",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "9:07",
+                    "position": "2-06",
+                    "title": "Inouecent And Sirius"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "Outland 2",
+                            "id": "264879",
+                            "join": "",
+                            "name": "Outland (2)",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:42",
+                    "position": "2-07",
+                    "title": "African Virus #5"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "14128",
+                            "join": "",
+                            "name": "4Voice",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "11:03",
+                    "position": "2-08",
+                    "title": "Light"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "8445",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=zR24YWouAAw",
+                    "description": "Released in July, 1996 on FAX +49-69/450464\n2 CD compilation from the first 4 years of FAX records\nCD1 (track 1-13) compiled by Corrado\nCD2 (tracks 14-22) compiled by Charles Uzzel-Edwards\n\n\n00:00:00 Octopus - Mile Long Bra Chain\n00:03:20 The Sunken Road",
+                    "title": "[PKPWPS 4] Pete Namlook + Various artists - Genetic Drift"
+                },
+                {
+                    "_duration": "805",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=MflgvWrQ43U",
+                    "description": "Openning track of the first From Within album\nMusic by Pete Namlook and Richie Hawtin\nVideo by Abstructure",
+                    "title": "From Within - Snake Charmer"
+                }
+            ]
+        }
+    }
+}

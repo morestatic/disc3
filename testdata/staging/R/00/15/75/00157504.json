@@ -1,0 +1,273 @@
+{
+    "release": {
+        "_id": "157504",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "194",
+                "join": "",
+                "name": "Various",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "10",
+                    "entity_type_name": "Manufactured By",
+                    "id": "291931",
+                    "name": "CD Plant MFG",
+                    "resource_url": "https://api.discogs.com/labels/291931"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "9",
+                    "entity_type_name": "Distributed By",
+                    "id": "26064",
+                    "name": "N.E.W.S.",
+                    "resource_url": "https://api.discogs.com/labels/26064"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "29",
+                    "entity_type_name": "Mastered At",
+                    "id": "677664",
+                    "name": "Digital-Schnittstudio Paulsen, Frankfurt",
+                    "resource_url": "https://api.discogs.com/labels/677664"
+                }
+            ]
+        },
+        "data_quality": "Correct",
+        "extraartists": "",
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Compilation",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "CD PLANT MFG PKPWPS 1 CDM01"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                }
+            ]
+        },
+        "images": {
+            "image": {
+                "_height": "600",
+                "_type": "primary",
+                "_uri": "",
+                "_uri150": "",
+                "_width": "600"
+            }
+        },
+        "labels": {
+            "label": {
+                "_catno": "PKPWPS 1",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Special thanks to: \r\n\r\n(Some people with only their picture shown) \r\n\r\n...and of course Turgay of Turgay Audio, Ludwig Rehberg of EMS, Optic Kiss, Mixmaster Morris \r\n ...and all the DJs, musicians and advisors I was working with in the last year. \r\n\r\nCD Mastering: Digital Schnittstudio Paulsen GmbH \r\nWenzelweg 21 \r\n60439 Frankfurt am Main \r\nPhone +49-69/576304 \r\n\r\nDistribution: 12\" Maxis and CDs: N.E.W.S. \r\nKasteellaan 421 \r\n9000 Gent \r\nBelgium \r\nPhone +32-92/250203 \r\nFax +32-92/331049 \r\n\r\nN.E.W.S supported me and distributed my music worldwide in a very sophisticated way. \r\n\r\nWithout the help of Hessel, Lieven and Arthur I would have a hard time. \r\n\r\nLimitation: 500",
+        "released": "1993-11-22",
+        "styles": {
+            "style": "Ambient"
+        },
+        "title": "1 Year - Ambient",
+        "tracklist": {
+            "track": [
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "5279",
+                            "join": "",
+                            "name": "Air (2)",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "8:25",
+                    "position": "1",
+                    "title": "Je Suis Seule Et Triste Ici"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "47682",
+                            "join": "",
+                            "name": "Sad World",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:01",
+                    "position": "2",
+                    "title": "Apadana"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "2912",
+                            "join": "",
+                            "name": "Dreamfish",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "9:14",
+                    "position": "3",
+                    "title": "Fishology"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "14805",
+                            "join": "",
+                            "name": "The Fires Of Ork",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:11",
+                    "position": "4",
+                    "title": "The Fires Of Ork II"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "14125",
+                            "join": "",
+                            "name": "Sextant",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "15:08",
+                    "position": "5",
+                    "title": "Live At XS 1"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "105892",
+                            "join": "",
+                            "name": "Romantic Warrior",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "3:39",
+                    "position": "6",
+                    "title": "Space Shuttle"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "2909",
+                            "join": "",
+                            "name": "Silence",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "21:55",
+                    "position": "7",
+                    "title": "Omid / Hope"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "Namlook",
+                            "id": "1910",
+                            "join": "",
+                            "name": "Pete Namlook",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "3:00",
+                    "position": "8",
+                    "title": "Silence"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "4359",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=srLSboW6QnY",
+                    "description": "Released in November, 1993 on FAX +49-60/450464\n\n\n00:00 – Air - Je Suis Seule Et Triste Ici\n08.24 – Sad World – Apadana\n13:25 – Dreamfish – Fishology\n22:40 – The Fires Of Ork - The Fires Of Ork II\n28:58 – Sextant - Live At XS 1\n44:01 – Rom",
+                    "title": "[PKPWPS 1] Pete Namlook - 1 Year - Ambient"
+                },
+                {
+                    "_duration": "324",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=5trVt5hpJSQ",
+                    "description": "Music : Sad World ( Dr. Atmo alias Amir Abadi \u0026 Ramin Naghachian ) - Apadana\nLabel : Fax +49-69/450464  \nVideo : Persepolis Recreated, produced by Sunrise Film Co.\nVideocut : Jim Bean http://www.facebook.com/JimBeanClassics",
+                    "title": "Sad World - Apadana"
+                },
+                {
+                    "_duration": "1310",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=S3LjsWlOzoM",
+                    "description": "",
+                    "title": "Silence (Namlook \u0026 Dr. Atmo) - Omid / Hope (Full Track Video)"
+                },
+                {
+                    "_duration": "562",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=tLNEmbJc6kA",
+                    "description": "Album: Dreamfish",
+                    "title": "Pete Namlook \u0026 Mixmaster Morris - Fishology"
+                },
+                {
+                    "_duration": "391",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=gN6HrMiesJs",
+                    "description": "The Fires Of Ork - The Fires Of Ork II 1994",
+                    "title": "The Fires Of Ork - The Fires Of Ork II"
+                },
+                {
+                    "_duration": "489",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=mcQYom5LKZk",
+                    "description": "Album: The Definitive Ambient Collection 1",
+                    "title": "Pete Namlook-Air - Je Suis Triste Et Seule Ici"
+                },
+                {
+                    "_duration": "890",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=K03GYGiukTo",
+                    "description": "http://www.discogs.com/Sextant-Sextant-4/release/200405\n\r\n\r-uploaded in HD at http://www.TunesToTube.com",
+                    "title": "Sextant - Live At XS I (Ambient 1993)"
+                }
+            ]
+        }
+    }
+}

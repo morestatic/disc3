@@ -1,0 +1,162 @@
+{
+    "release": {
+        "_id": "152186",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "9592",
+                "join": "",
+                "name": "Pizzaman",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": {
+                "catno": "",
+                "entity_type": "17",
+                "entity_type_name": "Pressed By",
+                "id": "754",
+                "name": "EMI Records",
+                "resource_url": "https://api.discogs.com/labels/754"
+            }
+        },
+        "country": "UK",
+        "data_quality": "Needs Vote",
+        "extraartists": "",
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "Green Label",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM",
+                        "Promo",
+                        "Stereo"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Side A runout stamped",
+                    "_type": "Matrix / Runout",
+                    "_value": "12 LOAD 29 A-01-01-"
+                },
+                {
+                    "_description": "Side B runout stamped",
+                    "_type": "Matrix / Runout",
+                    "_value": "12 LOAD 29 B-01-01- 1"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "589",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "593",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "12 LOAD 29DJ",
+                "_id": "40",
+                "_name": "Loaded Records"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "false",
+            "content": "100607"
+        },
+        "notes": "This promo was released with green and [url=http://www.discogs.com/Pizzaman-Happiness/release/1610182]blue[/url] labels.  This entry is for the release with a green label.\n\nDJ promo not for resale",
+        "released": "1995",
+        "styles": {
+            "style": "House"
+        },
+        "title": "Happiness",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "6:55",
+                    "position": "A1",
+                    "title": "Happiness (Club Mix)"
+                },
+                {
+                    "duration": "7:52",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "28522",
+                            "join": "",
+                            "name": "Play Boys",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "A2",
+                    "title": "Happiness (Play Boys Fully Loaded Dub)"
+                },
+                {
+                    "duration": "5:22",
+                    "position": "B1",
+                    "title": "Happiness (Original 12\" Mix)"
+                },
+                {
+                    "duration": "5:21",
+                    "position": "B2",
+                    "title": "Happiness (Euro Mix)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "473",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=5vdAeZuyL-o",
+                    "description": "Pizzaman ‎-- Happiness\nLabel:\nLoaded Records ‎-- 12LOAD29\nFormat:\nVinyl, 12, 33 ⅓ RPM\nCountry:\nUK\nReleased:\n1995\nGenre:\nElectronic\nStyle:\nHouse, Disco\nTracklist\nA1   Happiness (Club Mix) 6:55  \nA2   Happiness (Play Boys Fully Loaded Dub) 7:52  \nB1",
+                    "title": "Pizzaman - Happiness (Play Boys Fully Loaded Dub)"
+                },
+                {
+                    "_duration": "418",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Yg2FpflIc_I",
+                    "description": "",
+                    "title": "PIZZAMAN - HAPPINESS (Club Mix)"
+                },
+                {
+                    "_duration": "216",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=cM3R-TqSSws",
+                    "description": "Loaded records",
+                    "title": "Happiness by Pizzaman (high res\\official video)"
+                },
+                {
+                    "_duration": "321",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=OGnBKIwtk64",
+                    "description": "Original 12 inch from 1995",
+                    "title": "Pizzaman Happiness"
+                }
+            ]
+        }
+    }
+}

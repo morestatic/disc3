@@ -1,0 +1,426 @@
+{
+    "release": {
+        "_id": "51087",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "194",
+                "join": "",
+                "name": "Various",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "270709",
+                    "name": "Soma Recordings Ltd.",
+                    "resource_url": "https://api.discogs.com/labels/270709"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "270709",
+                    "name": "Soma Recordings Ltd.",
+                    "resource_url": "https://api.discogs.com/labels/270709"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "17",
+                    "entity_type_name": "Pressed By",
+                    "id": "281588",
+                    "name": "ODC UK",
+                    "resource_url": "https://api.discogs.com/labels/281588"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "295038",
+                    "name": "Soma Music",
+                    "resource_url": "https://api.discogs.com/labels/295038"
+                }
+            ]
+        },
+        "country": "UK",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "126763",
+                "join": "",
+                "name": "Melanie Clarke",
+                "role": "Design",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "Compilation"
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Text",
+                    "_type": "Barcode",
+                    "_value": "5 024856 600035"
+                },
+                {
+                    "_description": "Scanned",
+                    "_type": "Barcode",
+                    "_value": "5024856600035"
+                },
+                {
+                    "_type": "Mould SID Code",
+                    "_value": "ifpi 6901"
+                },
+                {
+                    "_type": "Mastering SID Code",
+                    "_value": "IFPI L041"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "SOMA CD3 ODC UK"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "590",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "466",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "591",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "296",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "468",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "SOMA CD003",
+                "_id": "18",
+                "_name": "Soma Quality Recordings"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "false",
+            "content": "37339"
+        },
+        "notes": "The tracklisting states that track 10 = \"Group Of Seven Nations (G7 Remix)\" by \"Ege Bam Yasi\",\r\nin fact track 10 is \"Acidnation - The Birth Of Acid Nation\" from the same artist.\r\nTotal time: 76:14",
+        "released": "1995-10-30",
+        "styles": {
+            "style": [
+                "House",
+                "Techno"
+            ]
+        },
+        "title": "Soma Quality Recordings - Volume 2",
+        "tracklist": {
+            "track": [
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "245",
+                            "join": "",
+                            "name": "Envoy",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:17",
+                    "position": "1",
+                    "title": "Leave This World Behind"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "20",
+                            "join": "",
+                            "name": "Percy X",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:11",
+                    "position": "2",
+                    "title": "X-Trak 1"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1018",
+                            "join": "",
+                            "name": "Rejuvination",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:38",
+                    "position": "3",
+                    "title": "Don't Forget Who You Are"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1015",
+                            "join": "",
+                            "name": "Slam",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "8:00",
+                    "position": "4",
+                    "title": "Stepback 1"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1019",
+                            "join": "",
+                            "name": "Funk D'Void",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "7:03",
+                    "position": "5",
+                    "title": "Jack Me Off"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1289",
+                            "join": "",
+                            "name": "Daft Punk",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:35",
+                    "position": "6",
+                    "title": "Da Funk"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1022",
+                            "join": "",
+                            "name": "Skintrade",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "8:33",
+                    "position": "7",
+                    "title": "Andomraxess"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "5997",
+                            "join": "",
+                            "name": "Sharkimaxx",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "8:10",
+                    "position": "8",
+                    "title": "Clashback"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "12377",
+                            "join": "",
+                            "name": "Mode 4",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:19",
+                    "position": "9",
+                    "title": "Trancestep"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "12036",
+                            "join": "",
+                            "name": "Ege Bam Yasi",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:48",
+                    "position": "10",
+                    "title": "Acidnation - The Birth Of Acid Nation"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1017",
+                            "join": "",
+                            "name": "Maas",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "7:33",
+                    "position": "11",
+                    "title": "San Narciso"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "740",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=k7EbXVFUmrU",
+                    "description": "Trance...",
+                    "title": "Ege Bam Yasi +Group of Seven Nations+ G7 Remix"
+                },
+                {
+                    "_duration": "316",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=L7be284excA",
+                    "description": "Track from Soma Quality Recordings",
+                    "title": "Envoy - Leave This World Behind"
+                },
+                {
+                    "_duration": "357",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=5n7gXu1d0Jg",
+                    "description": "http://www.discogs.com/Percy-X-X-Trak-1/release/12391",
+                    "title": "Percy X - X-Trak 1"
+                },
+                {
+                    "_duration": "410",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=eQKW3CkC2uI",
+                    "description": "Rejuvination - Don't Forget Who You Are (1995)\nhttp://www.beatport.com/track/dont-forget-who-you-are-original-mix/280382",
+                    "title": "Rejuvination - Don't Forget Who You Are"
+                },
+                {
+                    "_duration": "392",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=XGqydwBHlqA",
+                    "description": "Extracted from Snapshots Ep (1995)\nhttp://www.beatport.com/release/snapshots-ep/35832",
+                    "title": "Slam - Stepback"
+                },
+                {
+                    "_duration": "436",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=SO5DjPZSYpY",
+                    "description": "21 Aug 1995,Soma Quality Recordings 029",
+                    "title": "Funk D'Void - Jack Me Off"
+                },
+                {
+                    "_duration": "335",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=mmi60Bd4jSs",
+                    "description": "Official video for Daft Punk's Da Funk from the album Homework.\n\nExplore the incredible Daft Punk catalogue on iTunes here: http://smarturl.it/DaftPunkiTunes\n\nLike Daft Punk on Facebook: http://www.facebook.com/daftpunk \nOfficial Website: http://www.daf",
+                    "title": "Daft Punk - Da Funk"
+                },
+                {
+                    "_duration": "356",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Xtasc-IGeSk",
+                    "description": "Skintrade - Andomraxess (1995) nice track from Soma Records, back to the old days",
+                    "title": "SKINTRADE - ANDOMRAXESS"
+                },
+                {
+                    "_duration": "441",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=mjcHt7TUFGQ",
+                    "description": "Clashback (Housecat Soundclash Mix)",
+                    "title": "Sharkimaxx - Clash Back"
+                },
+                {
+                    "_duration": "382",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=EpfN9V-4Pa4",
+                    "description": "http://www.discogs.com/Mode-4-Eurobliss/release/12689\r\nsoma 023, 1995",
+                    "title": "Mode 4 - Trancestep"
+                },
+                {
+                    "_duration": "940",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=DVdkUgD5cHA",
+                    "description": "http://www.discogs.com/Ege-Bam-Yasi-Acid-Nation-The-Birth-Of-An-Acid-Nation/release/12390\n\r\n\r-uploaded in HD at http://www.TunesToTube.com",
+                    "title": "Ege Bam Yasi - Group Of Seven Nations (G7 Mix) (Acid Techno 1994)"
+                },
+                {
+                    "_duration": "456",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=1RDRjOLr-yE",
+                    "description": "EP 01 / San Narciso / 1995\nMaas",
+                    "title": "EP 01 / San Narciso / 1995"
+                }
+            ]
+        }
+    }
+}

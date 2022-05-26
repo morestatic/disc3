@@ -1,0 +1,136 @@
+{
+    "release": {
+        "_id": "154817",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "15287",
+                "join": "",
+                "name": "Deltraxx",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "Germany",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "7649",
+                    "join": "",
+                    "name": "DJ Criss",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM",
+                        "45 RPM",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": {
+                "_height": "453",
+                "_type": "secondary",
+                "_uri": "",
+                "_uri150": "",
+                "_width": "455"
+            }
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/70",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Limited Edition 500 copies.\n\"SUPPORT YOUR LOCAL AMBIENT DEALER...\"\nIs Etched On Runout Groove On Side B\n\n\nSide A plays 45rpm\nSide B plays 33 1/3 rpm",
+        "released": "1993-06-07",
+        "styles": {
+            "style": [
+                "Trance",
+                "Techno",
+                "Acid",
+                "Ambient"
+            ]
+        },
+        "title": "Deltraxx 5",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "5:48",
+                    "position": "A",
+                    "title": "Explorers Of The Mind (Legal Version)"
+                },
+                {
+                    "duration": "5:52",
+                    "position": "B1",
+                    "title": "Explorers Of The Mind (Black Hole Mix)"
+                },
+                {
+                    "duration": "6:47",
+                    "position": "B2",
+                    "title": "Quadra (Lost City)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "413",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Gng4A0XUL98",
+                    "description": "http://www.discogs.com/Deltraxx-Deltraxx/release/16577",
+                    "title": "Deltraxx - Quadra (Lost City)"
+                },
+                {
+                    "_duration": "351",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=ipySCcEiMqE",
+                    "description": "http://www.discogs.com/Deltraxx-Deltraxx-5/release/154817\n\nWicked trance techno from the Fax  49-69/450464 label.\n\n---------------------------------------------------------------------------------------------------\nI only post monster tunes, so if you lik",
+                    "title": "Deltraxx - Explorers Of The Mind (Legal Version)"
+                },
+                {
+                    "_duration": "705",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=KNin1n9KqCs",
+                    "description": "Deltraxx ‎-- Explorers Of The Mind \nFax +49-69/450464 \nacid techno \n1993",
+                    "title": "Deltraxx ‎-- Explorers Of The Mind  ( Legal Mix ) 1993"
+                },
+                {
+                    "_duration": "350",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=ebXue5jlDjc",
+                    "description": "http://www.discogs.com/Deltraxx-Deltraxx-5/release/154817\n\r\n\r-uploaded in HD at http://www.TunesToTube.com",
+                    "title": "Deltraxx - Explorers Of The Mind (Black Hole Mix) (Acid Techno 1993)"
+                }
+            ]
+        }
+    }
+}

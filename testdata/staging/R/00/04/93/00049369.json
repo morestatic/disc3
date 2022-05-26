@@ -1,0 +1,210 @@
+{
+    "release": {
+        "_id": "49369",
+        "_status": "Accepted",
+        "artists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "/",
+                    "name": "Pete Namlook",
+                    "role": "",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "213510",
+                    "join": "",
+                    "name": "Peter Prochir",
+                    "role": "",
+                    "tracks": ""
+                }
+            ]
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "37222",
+                    "entity_type": "17",
+                    "entity_type_name": "Pressed By",
+                    "id": "277449",
+                    "name": "P+O Pallas",
+                    "resource_url": "https://api.discogs.com/labels/277449"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "265012",
+                    "name": "Klanglabor Hödeshof",
+                    "resource_url": "https://api.discogs.com/labels/265012"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "2118078",
+                    "join": "",
+                    "name": "PEK (3)",
+                    "role": "Graphics",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "58657",
+                    "join": "",
+                    "name": "Peter Kuhlmann",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "213510",
+                    "join": "",
+                    "name": "Peter Prochir",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Limited Edition",
+                        "Album"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "PK 08/138 P+O-37222-A1 03-98"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "593",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "593",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "299",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "500",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/138",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Recorded at Klanglabor, Traben-Trarbach.\r\nLimitation: 1000\r\nInside booklet erroneously credits only Pete Namlook in the writing credits.",
+        "released": "1998-03-16",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Drum n Bass",
+                "Dub",
+                "Experimental"
+            ]
+        },
+        "title": "Miles Apart",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "8:34",
+                    "position": "1",
+                    "title": "Miles Apart"
+                },
+                {
+                    "duration": "9:28",
+                    "position": "2",
+                    "title": "Drop Zone"
+                },
+                {
+                    "duration": "10:30",
+                    "position": "3",
+                    "title": "Protein"
+                },
+                {
+                    "duration": "11:46",
+                    "position": "4",
+                    "title": "SloDrm"
+                },
+                {
+                    "duration": "5:45",
+                    "position": "5",
+                    "title": "10 006"
+                },
+                {
+                    "duration": "4:57",
+                    "position": "6",
+                    "title": "Soft CRD"
+                },
+                {
+                    "duration": "3:48",
+                    "position": "7",
+                    "title": "Apart"
+                }
+            ]
+        },
+        "videos": {
+            "video": {
+                "_duration": "3293",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=2MYwvKpKzLg",
+                "description": "Artist: Pete Namlook \u0026 Peter Prochir\nAlbum: Miles Apart\nLabel: Fax\nYear: 1998\n\n1. Miles Apart [00:00]\n2. Drop Zone [08:34]\n3. Protein [18:03]\n4. SloDrm [28:33]\n5. 10 006 [40:20]\n6. Soft CRD [46:05]\n7. Apart [51:03]\n\n\nAll music uploaded to this channel is",
+                "title": "Pete Namlook \u0026 Peter Prochir - Miles Apart (Full Album) [1998]"
+            }
+        }
+    }
+}

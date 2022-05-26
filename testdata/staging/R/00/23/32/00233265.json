@@ -1,0 +1,112 @@
+{
+    "release": {
+        "_id": "233265",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "127274",
+                "join": "",
+                "name": "The Freaky Afronaut",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "US",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "968019",
+                "join": "",
+                "name": "Brandon Harris (2)",
+                "role": "Producer",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "EP"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "FPR 018",
+                "_id": "50",
+                "_name": "Fair Park"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "322938"
+        },
+        "released": "2003-06-26",
+        "styles": {
+            "style": [
+                "House",
+                "Deep House",
+                "Tech House"
+            ]
+        },
+        "title": "Bibs And Baby Booties EP",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A1",
+                    "title": "Playin' On My Bone-A-Phone"
+                },
+                {
+                    "duration": "",
+                    "position": "B1",
+                    "title": "Bouncin' Back"
+                },
+                {
+                    "duration": "",
+                    "position": "B2",
+                    "title": "Good Extra"
+                }
+            ]
+        },
+        "videos": {
+            "video": {
+                "_duration": "323",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=7262v5VTy8c",
+                "description": "The Freaky Afronaut ‎-- Bibs And Baby Booties EP - Sampler",
+                "title": "The Freaky Afronaut ‎-- Bibs And Baby Booties EP - Sampler"
+            }
+        }
+    }
+}

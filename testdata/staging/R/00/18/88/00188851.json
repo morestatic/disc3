@@ -1,0 +1,158 @@
+{
+    "release": {
+        "_id": "188851",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "20306",
+                "join": "",
+                "name": "Houdini",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "30350",
+                    "join": "",
+                    "name": "Christian Linder",
+                    "role": "Written-By",
+                    "tracks": "A2"
+                },
+                {
+                    "anv": "",
+                    "id": "35695",
+                    "join": "",
+                    "name": "Simon Ellis",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "599",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PS 08/37",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Limitation: 1000\r\nRun out:\r\n\"Where is your will to be weird?\"\r\n\r\n\"Braincloud\" uses a Vocalsample from Björk - Crying",
+        "released": "1994-02-14",
+        "styles": {
+            "style": "Trance"
+        },
+        "title": "Houdini",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "8:51",
+                    "position": "A1",
+                    "title": "Braincloud"
+                },
+                {
+                    "duration": "6:35",
+                    "position": "A2",
+                    "title": "Neural Deception"
+                },
+                {
+                    "duration": "12:17",
+                    "position": "B1",
+                    "title": "Iris"
+                },
+                {
+                    "duration": "5:51",
+                    "position": "B2",
+                    "title": "Red Dwarf"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "397",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=fKlYXDt1x0w",
+                    "description": "Houdini - Neural Deception (1994)\n\nTracks Thë Omën\n\nAlbum: Houdini\nSello: Fax +49-69/450464 – PS 08/37\nFormato: Vinilo, 12, 33 ⅓ RPM, Limited Edition\nPaís: Germany\nPublicado: 14 feb 1994\nGénero: Electronic\nEstilo: Trance\n\n           Written-By",
+                    "title": "Houdini - Neural Deception (1994)"
+                },
+                {
+                    "_duration": "739",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=fwqKDNzH_Ls",
+                    "description": "http://www.discogs.com/Houdini-Houdini/release/188851",
+                    "title": "Houdini - Iris (1994)"
+                },
+                {
+                    "_duration": "530",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=bjOkWWeFdlI",
+                    "description": "1994\nhttps://www.facebook.com/pages/After-Hours-Rave-Party-90s/493182057404011?fref=ts",
+                    "title": "Houdini - Braincloud"
+                },
+                {
+                    "_duration": "531",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=0eSHGUxfc_g",
+                    "description": "a simple fan-made video ... enjoy the music!",
+                    "title": "Houdini - 1994 - Braincloud"
+                },
+                {
+                    "_duration": "432",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=eHVJE_aq4m4",
+                    "description": "http://www.discogs.com/Various-Trancemaster-5-The-Hardtrance-Experience/release/59699",
+                    "title": "Zero Gravity - Neural Deception (1993)"
+                },
+                {
+                    "_duration": "356",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Pg_OCtdMaq8",
+                    "description": "Label:\nFax +49-69/450464 ‎– PS 08/38\nFormat:\nCD, Limited Edition, Album\nCountry:\nGermany\nReleased:\n07 Mar 1994\nGenre:\nElectronic\nStyle:\nTrance\n\nhttps://www.discogs.com/Houdini-Houdini/release/161185\n\nVisuals\namandio c - future engines - mess\n.",
+                    "title": "Houdini - Red Dwarf  🇬🇧"
+                }
+            ]
+        }
+    }
+}

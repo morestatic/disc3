@@ -1,0 +1,339 @@
+{
+    "release": {
+        "_id": "52639",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "3796",
+                "join": "",
+                "name": "Daniel Pemberton",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "Germany",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "1844845",
+                    "join": "",
+                    "name": "Openmind",
+                    "role": "Artwork [Cover Image Damage And Inner Sleeve Clutter]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "839357",
+                    "join": "",
+                    "name": "Ben Speed",
+                    "role": "Guitar, Written-By [Guitar]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "DP",
+                    "id": "3796",
+                    "join": "",
+                    "name": "Daniel Pemberton",
+                    "role": "Photography By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "8987755",
+                    "join": "",
+                    "name": "Owen Greenwood (2)",
+                    "role": "Photography By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "Speed",
+                    "id": "839357",
+                    "join": "",
+                    "name": "Ben Speed",
+                    "role": "Written-By",
+                    "tracks": "8, 12, 13"
+                },
+                {
+                    "anv": "",
+                    "id": "3796",
+                    "join": "",
+                    "name": "Daniel Pemberton",
+                    "role": "Written-By",
+                    "tracks": "1 to 7, 9 to 11"
+                },
+                {
+                    "anv": "Pemberton",
+                    "id": "3796",
+                    "join": "",
+                    "name": "Daniel Pemberton",
+                    "role": "Written-By",
+                    "tracks": "8, 12, 13"
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition",
+                        "Mixed"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_type": "Label Code",
+                "_value": "LC 6269"
+            }
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "593",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "349",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "349"
+                },
+                {
+                    "_height": "250",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "253"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PS 08/62",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "183506"
+        },
+        "notes": "(C) OM 94 (this looks to refer to the artwork)\r\n\r\nThis release was limited to 1,000 copies, there is also a [url=http://www.discogs.com/release/1365502]hand-numbered edition[/url] of 100 copies only with additional calque paper insert. Catalog number, CD, and booklet are the same as the present standard version.\r\n\r\nWriting credit given to Ben Speed is for tracks 8, 12, and 13 on page 4 of the booklet while it is for tracks 8, 11, and 12 on page 3.",
+        "released": "1994-11-21",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Downtempo",
+                "Experimental"
+            ]
+        },
+        "title": "Bedroom",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "5:04",
+                    "position": "1",
+                    "title": "Phoenix"
+                },
+                {
+                    "duration": "3:34",
+                    "position": "2",
+                    "title": "Basement"
+                },
+                {
+                    "duration": "4:20",
+                    "position": "3",
+                    "title": "Submerge"
+                },
+                {
+                    "duration": "9:42",
+                    "position": "4",
+                    "title": "Phosphine"
+                },
+                {
+                    "duration": "6:34",
+                    "position": "5",
+                    "title": "Antarctica"
+                },
+                {
+                    "duration": "4:13",
+                    "position": "6",
+                    "title": "Orange Sludge"
+                },
+                {
+                    "duration": "4:33",
+                    "position": "7",
+                    "title": "Igloo"
+                },
+                {
+                    "duration": "9:52",
+                    "position": "8",
+                    "title": "Lost Caves"
+                },
+                {
+                    "duration": "6:34",
+                    "position": "9",
+                    "title": "Leaving"
+                },
+                {
+                    "duration": "2:32",
+                    "position": "10",
+                    "title": "Voices"
+                },
+                {
+                    "duration": "5:02",
+                    "position": "11",
+                    "title": "Moderob"
+                },
+                {
+                    "duration": "4:26",
+                    "position": "12",
+                    "title": "3:51 Hello?"
+                },
+                {
+                    "duration": "2:30",
+                    "position": "13.1",
+                    "title": "Novelty Track"
+                },
+                {
+                    "duration": "0:50",
+                    "position": "13.2",
+                    "title": "(silence)"
+                },
+                {
+                    "duration": "2:08",
+                    "position": "13.3",
+                    "title": "Untitled"
+                },
+                {
+                    "duration": "0:30",
+                    "position": "13.4",
+                    "title": "(silence)"
+                },
+                {
+                    "duration": "1:38",
+                    "position": "13.5",
+                    "title": "Untitled"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "400",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=okTCbfwok6U",
+                    "description": "Music by:  Daniel Pemberton 1995\nVideo by: Abstructure",
+                    "title": "Bedroom - Antarctica"
+                },
+                {
+                    "_duration": "305",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=ARZMdpdsaQg",
+                    "description": "",
+                    "title": "Daniel Pemberton - Bedroom - 01 Phoenix"
+                },
+                {
+                    "_duration": "215",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=6fu-GtdIeyY",
+                    "description": "",
+                    "title": "Daniel Pemberton - Bedroom - 02 Basement"
+                },
+                {
+                    "_duration": "261",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=ZW408spUkiI",
+                    "description": "",
+                    "title": "Daniel Pemberton - Bedroom - 03 Submerge"
+                },
+                {
+                    "_duration": "583",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=ylVp1d5VkiU",
+                    "description": "",
+                    "title": "Daniel Pemberton - Bedroom - 04 Phosphine"
+                },
+                {
+                    "_duration": "395",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=KUx4G_SNxoY",
+                    "description": "",
+                    "title": "Daniel Pemberton - Bedroom - 05 Antarctica"
+                },
+                {
+                    "_duration": "255",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=R515QXEFhR8",
+                    "description": "",
+                    "title": "Daniel Pemberton - Bedroom - 06 Orange Sludge"
+                },
+                {
+                    "_duration": "274",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=As231dyBq0M",
+                    "description": "",
+                    "title": "Daniel Pemberton - Bedroom - 07 Igloo"
+                },
+                {
+                    "_duration": "593",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=epM-gHdjaVI",
+                    "description": "",
+                    "title": "Daniel Pemberton - Bedroom - 08 Lost Caves"
+                },
+                {
+                    "_duration": "396",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=4mJU6UbVHb4",
+                    "description": "",
+                    "title": "Daniel Pemberton - Bedroom - 09 Leaving"
+                },
+                {
+                    "_duration": "153",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Udtr8n5d6SA",
+                    "description": "",
+                    "title": "Daniel Pemberton - Bedroom - 10 Voices"
+                },
+                {
+                    "_duration": "303",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=kpVdZrHH7aM",
+                    "description": "",
+                    "title": "Daniel Pemberton - Bedroom - 11 Moderob"
+                },
+                {
+                    "_duration": "266",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=lwO1b7fL3Wc",
+                    "description": "",
+                    "title": "Daniel Pemberton - Bedroom - 12 351 - Hello"
+                },
+                {
+                    "_duration": "456",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=cl9McKawv0I",
+                    "description": "",
+                    "title": "Daniel Pemberton - Bedroom - 13 Novelty Track"
+                }
+            ]
+        }
+    }
+}

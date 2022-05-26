@@ -1,0 +1,169 @@
+{
+    "release": {
+        "_id": "21279",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "20",
+                "join": "",
+                "name": "Percy X",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "UK",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "20",
+                "join": "",
+                "name": "Percy X",
+                "role": "Producer, Written-By",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "EP",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "599",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "606",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "601",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "417"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "soma 48",
+                "_id": "18",
+                "_name": "Soma Quality Recordings"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "37371"
+        },
+        "notes": "Pressed at MPO Averton.\r\n\r\nBarcode: 5 024856 620484 \u003e\r\n\r\nEtchings:\r\nA: MPO SOMA 48 A1\r\nAA: MPO SOMA 48 B1",
+        "released": "1996-00-00",
+        "styles": {
+            "style": [
+                "Techno",
+                "Downtempo"
+            ]
+        },
+        "title": "Day 3 EP",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A1",
+                    "title": "Day 3"
+                },
+                {
+                    "duration": "",
+                    "position": "A2",
+                    "title": "As Is"
+                },
+                {
+                    "duration": "",
+                    "position": "AA1",
+                    "title": "Face On"
+                },
+                {
+                    "duration": "",
+                    "position": "AA2",
+                    "title": "Soul Glo"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "498",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=WXVBnbGn0X4",
+                    "description": "[soma 48] Percy X - Day 3 [Techno 1996]\n\n\nRelease: Day 3 EP\nSello: Soma Quality Recordings ‎– soma 48\nFormato: Vinyl, 12, EP, 33 ⅓ RPM\nPaís: UK\nFecha: 1996 \nGenre: Electronic\nStyle: Techno, Downtempo\n\n\n\n----------------------------\nTracklist [soma",
+                    "title": "Percy X - Day 3 [soma 48] (1996)"
+                },
+                {
+                    "_duration": "348",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=xRZP5Pk77q4",
+                    "description": "http://www.discogs.com/search?q=percy+x+day+3\u0026btn=\u0026type=all\n(1995)",
+                    "title": "PERCY X - Day 3      (Day 3 EP  [Soma Quality Recordings])"
+                },
+                {
+                    "_duration": "469",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=P4_0p-4kZ1Y",
+                    "description": "Day 3 EP\nSoma Quality Recordings\n1995",
+                    "title": "Percy X - As Is"
+                },
+                {
+                    "_duration": "467",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=YjwsoyNpwho",
+                    "description": "Soma Records (1995)\r\n\r\nDay 3 EP",
+                    "title": "Percy x - Face One"
+                },
+                {
+                    "_duration": "447",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=4W5Y-XefZ3A",
+                    "description": "Provided to YouTube by Pias UK Limited\n\nSoul Glo · Percy X\n\nDay 3 EP\n\n℗ 1996 Soma\n\nReleased on: 1996-12-15\n\nMixer: Tony Scott\nProducer: Tony Scott\nComposer: Tony Scott\nLyricist: Tony Scott\nMusic Publisher: SPG Publishing UK Ltd\n\nAuto-generated by YouTu",
+                    "title": "Soul Glo"
+                }
+            ]
+        }
+    }
+}

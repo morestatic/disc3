@@ -1,0 +1,224 @@
+{
+    "release": {
+        "_id": "1361",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "24",
+                "join": "",
+                "name": "Atom Heart",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "265233",
+                    "name": "Sel i/s/c",
+                    "resource_url": "https://api.discogs.com/labels/265233"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "10",
+                    "entity_type_name": "Manufactured By",
+                    "id": "291931",
+                    "name": "CD Plant MFG",
+                    "resource_url": "https://api.discogs.com/labels/291931"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "24",
+                "join": "",
+                "name": "Atom Heart",
+                "role": "Written-By [All Tracks], Performer [Music Atom Heart]",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "CD PLANT MFG PS 08/41 CDM01"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "349",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "349"
+                },
+                {
+                    "_height": "465",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "297",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "597",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "596",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "599",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PS 08/41",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "1160774"
+        },
+        "notes": "[On inner sleeve:]\nmusic atom heart\nlive at sel i/s/c\nsequencing asq 10\ncapacity fujitsu 520 mb\nrecording made realtime\n44.1 khz\nscan optic kiss\nmodification\ncorel draw 3.0\n486 66mhz\nsource\npocket calculator\nmain circuit board\natom heart is \na member of \nmacos \n(musicians \nagainst \ncopyrighting \nof samples)\n\n[On back sleeve:] Made in Germany\n\nLimitation: 1000\n\nThe release lists only one song title, \"Live at sel i/s/c\" with duration \"1.01.44\". The song spans the entirely of the disc and has been segmented into twelve programmed tracks of +/- 4:59 minutes a piece over 12 tracks.",
+        "released": "1994-02-18",
+        "styles": {
+            "style": [
+                "Minimal",
+                "Ambient"
+            ]
+        },
+        "title": "Live At Sel i/s/c",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "5:01",
+                    "position": "1",
+                    "title": "Untitled"
+                },
+                {
+                    "duration": "4:59",
+                    "position": "2",
+                    "title": "Untitled"
+                },
+                {
+                    "duration": "5:00",
+                    "position": "3",
+                    "title": "Untitled"
+                },
+                {
+                    "duration": "4:59",
+                    "position": "4",
+                    "title": "Untitled"
+                },
+                {
+                    "duration": "5:00",
+                    "position": "5",
+                    "title": "Untitled"
+                },
+                {
+                    "duration": "4:59",
+                    "position": "6",
+                    "title": "Untitled"
+                },
+                {
+                    "duration": "4:59",
+                    "position": "7",
+                    "title": "Untitled"
+                },
+                {
+                    "duration": "5:00",
+                    "position": "8",
+                    "title": "Untitled"
+                },
+                {
+                    "duration": "5:00",
+                    "position": "9",
+                    "title": "Untitled"
+                },
+                {
+                    "duration": "5:00",
+                    "position": "10",
+                    "title": "Untitled"
+                },
+                {
+                    "duration": "4:59",
+                    "position": "11",
+                    "title": "Untitled"
+                },
+                {
+                    "duration": "6:40",
+                    "position": "12",
+                    "title": "Untitled"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "3703",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=3mmlYVFQSaQ",
+                    "description": "http://www.discogs.com/Atom-Heart-Live-At-Sel-isc/release/1361\n\n Atom Heart ‎-- Live At Sel i/s/c\n\nLabel: Fax +49-69/450464 ‎-- PS 08/41\nFormat: CD, Album, Limited Edition\nCountry: Germany\nReleased: 18 Feb 1994\nGenre: Electronic\nStyle: Minimal, Ambien",
+                    "title": "Atom Heart ‎-- Live At Sel i/s/c"
+                },
+                {
+                    "_duration": "301",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=6Zfr_8aDRVU",
+                    "description": "http://www.discogs.com/Atom-Heart-Live-At-Sel-isc/release/1361",
+                    "title": "Atom Heart - (section 7)"
+                }
+            ]
+        }
+    }
+}

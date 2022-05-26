@@ -1,0 +1,247 @@
+{
+    "release": {
+        "_id": "52664",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "21794",
+                "join": "",
+                "name": "Redeye",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "939323",
+                    "name": "Xasblurp Studios",
+                    "resource_url": "https://api.discogs.com/labels/939323"
+                },
+                {
+                    "catno": "28957",
+                    "entity_type": "10",
+                    "entity_type_name": "Manufactured By",
+                    "id": "277449",
+                    "name": "P+O Pallas",
+                    "resource_url": "https://api.discogs.com/labels/277449"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Complete and Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "58657",
+                    "join": "",
+                    "name": "Peter Kuhlmann",
+                    "role": "Graphics, Mastered By [Mastering]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "21794",
+                    "join": "",
+                    "name": "Redeye",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "21794",
+                    "join": "",
+                    "name": "Redeye",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "PS08/83 P+O -28957-A2 05-96"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "538",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "550"
+                },
+                {
+                    "_height": "391",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                },
+                {
+                    "_height": "497",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                },
+                {
+                    "_height": "496",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PS 08/83",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Limitation: 1000\r\nTotal Duration: 47:36\r\n\r\nBooklet slogan (mirrored): \"Convertable PSI Against Zombie E-facts\"",
+        "released": "1996-06-03",
+        "styles": {
+            "style": [
+                "IDM",
+                "Ambient",
+                "Techno"
+            ]
+        },
+        "title": "Arizona Tracks",
+        "tracklist": {
+            "track": {
+                "duration": "47:36",
+                "position": "",
+                "sub_tracks": {
+                    "track": [
+                        {
+                            "duration": "3:13",
+                            "position": "1",
+                            "title": "Untitled"
+                        },
+                        {
+                            "duration": "2:05",
+                            "position": "2",
+                            "title": "Untitled"
+                        },
+                        {
+                            "duration": "3:48",
+                            "position": "3",
+                            "title": "Untitled"
+                        },
+                        {
+                            "duration": "2:10",
+                            "position": "4",
+                            "title": "Untitled"
+                        },
+                        {
+                            "duration": "2:32",
+                            "position": "5",
+                            "title": "Untitled"
+                        },
+                        {
+                            "duration": "4:04",
+                            "position": "6",
+                            "title": "Untitled"
+                        },
+                        {
+                            "duration": "4:37",
+                            "position": "7",
+                            "title": "Untitled"
+                        },
+                        {
+                            "duration": "2:17",
+                            "position": "8",
+                            "title": "Untitled"
+                        },
+                        {
+                            "duration": "7:03",
+                            "position": "9",
+                            "title": "Untitled"
+                        },
+                        {
+                            "duration": "3:30",
+                            "position": "10",
+                            "title": "Untitled"
+                        },
+                        {
+                            "duration": "1:19",
+                            "position": "11",
+                            "title": "Untitled"
+                        },
+                        {
+                            "duration": "1:34",
+                            "position": "12",
+                            "title": "Untitled"
+                        },
+                        {
+                            "duration": "5:22",
+                            "position": "13",
+                            "title": "Untitled"
+                        },
+                        {
+                            "duration": "1:53",
+                            "position": "14",
+                            "title": "Untitled"
+                        },
+                        {
+                            "duration": "1:59",
+                            "position": "15",
+                            "title": "Untitled"
+                        }
+                    ]
+                },
+                "title": "Arizona Tracks"
+            }
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "2879",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=JhU6q5RhXC4",
+                    "description": "Released via Fax +49-69/450464\n1996\nGermany",
+                    "title": "Redeye - Arizona Tracks (Full Album)"
+                },
+                {
+                    "_duration": "115",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=5nWyY6gDTGo",
+                    "description": "https://www.discogs.com/Redeye-Arizona-Tracks/release/52664",
+                    "title": "Redeye ‎– Untitled"
+                }
+            ]
+        }
+    }
+}

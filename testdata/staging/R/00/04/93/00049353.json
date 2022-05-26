@@ -1,0 +1,258 @@
+{
+    "release": {
+        "_id": "49353",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "292994",
+                "join": "",
+                "name": "Amp (5)",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "32768",
+                    "entity_type": "10",
+                    "entity_type_name": "Manufactured By",
+                    "id": "277449",
+                    "name": "P+O Pallas",
+                    "resource_url": "https://api.discogs.com/labels/277449"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "294386",
+                    "name": "Klanglabor Frankfurt",
+                    "resource_url": "https://api.discogs.com/labels/294386"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "2118078",
+                    "join": "",
+                    "name": "PEK (3)",
+                    "role": "Graphics",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "9847",
+                    "join": "",
+                    "name": "Dandy Jack",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "58657",
+                    "join": "",
+                    "name": "Peter Kuhlmann",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "9847",
+                    "join": "",
+                    "name": "Dandy Jack",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "PK 08/129 P+O-32768-A1 04-97"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "595",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "468",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "599",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "293",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "595",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/129",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Limitation: 2000\n\nRecorded at Klanglabor, Frankfurt.\n\nSpecial thanks to:\nElisabeth / Fabia / K. Emc\nGonzalo Martinez / Pink Elln / Zoran / Ricardo Villalobos / Jorge Gonzales / J.D. Brown",
+        "released": "1997-04-14",
+        "styles": {
+            "style": [
+                "Techno",
+                "Experimental",
+                "Ambient"
+            ]
+        },
+        "title": "Amp II (Red Stripes On A White Wall)",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "4:13",
+                    "position": "1",
+                    "title": "Galaxy \u0026 Stars"
+                },
+                {
+                    "duration": "5:08",
+                    "position": "2",
+                    "title": "City Mail"
+                },
+                {
+                    "duration": "6:44",
+                    "position": "3",
+                    "title": "Magnetic Kooljack"
+                },
+                {
+                    "duration": "9:08",
+                    "position": "4",
+                    "title": "Listening Of Balls"
+                },
+                {
+                    "duration": "6:08",
+                    "position": "5",
+                    "title": "Red Stripes On A White Wall"
+                },
+                {
+                    "duration": "9:36",
+                    "position": "6",
+                    "title": "Mr. Tom-Tom"
+                },
+                {
+                    "duration": "14:41",
+                    "position": "7",
+                    "title": "Malaria"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "248",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=UUooPHDEBGA",
+                    "description": "",
+                    "title": "Pete Namlook \u0026 Dandy Jack    Galaxy \u0026 Stars"
+                },
+                {
+                    "_duration": "306",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Cfvly0JvJ7E",
+                    "description": "",
+                    "title": "Pete Namlook \u0026 Dandy Jack   City Mail"
+                },
+                {
+                    "_duration": "401",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=BN8kSjl6v_A",
+                    "description": "",
+                    "title": "Pete Namlook \u0026 Dandy Jack   Magnetic Kooljack"
+                },
+                {
+                    "_duration": "544",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=evh3whAtVuc",
+                    "description": "",
+                    "title": "Pete Namlook \u0026 Dandy Jack   Listening of Balls"
+                },
+                {
+                    "_duration": "356",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Ossn-xGXgG4",
+                    "description": "",
+                    "title": "Pete Namlook \u0026 Dandy Jack    Red Stripes on a White Wall"
+                },
+                {
+                    "_duration": "571",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=s3B69m8p_Rg",
+                    "description": "",
+                    "title": "Pete Namlook \u0026 Dandy Jack   Mr  Tom Tom"
+                },
+                {
+                    "_duration": "869",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=u2vRD4ofyVQ",
+                    "description": "",
+                    "title": "Pete Namlook \u0026 Dandy Jack   Malaria"
+                }
+            ]
+        }
+    }
+}

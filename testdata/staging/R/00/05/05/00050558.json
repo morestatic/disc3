@@ -1,0 +1,454 @@
+{
+    "release": {
+        "_id": "50558",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "194",
+                "join": "",
+                "name": "Various",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "US",
+        "data_quality": "Correct",
+        "extraartists": "",
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "Compilation"
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_type": "Barcode",
+                "_value": "6 00353 98172 0"
+            }
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "478",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "OM-017",
+                "_id": "702",
+                "_name": "OM Records"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "false",
+            "content": "50618"
+        },
+        "notes": "Track 1 listed as Thievery Corporation \"Right Angles\" Remix.\r\nTrack 6 artist listed as Mark Farina.\r\nTrack 12 artist listed as Wamdue Kids.",
+        "released": "1998",
+        "styles": {
+            "style": [
+                "House",
+                "Downtempo"
+            ]
+        },
+        "title": "Om Lounge",
+        "tracklist": {
+            "track": [
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "22795",
+                            "join": "",
+                            "name": "Eighty Mile Beach",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:32",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1035",
+                            "join": "",
+                            "name": "Thievery Corporation",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "1",
+                    "title": "There Are No Right Angles Found In Nature (Remix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "3929",
+                            "join": "",
+                            "name": "Freakniks",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:38",
+                    "position": "2",
+                    "title": "Slow Roll 77"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "10405",
+                            "join": "",
+                            "name": "Pilgrims Of The Mind",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "7:46",
+                    "position": "3",
+                    "title": "Nothing Can Pull Us Apart"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "8971",
+                            "join": "",
+                            "name": "Fluid Motion",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:01",
+                    "position": "4",
+                    "title": "Lost And Found"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "109",
+                            "join": "",
+                            "name": "Jazzanova",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:53",
+                    "position": "5",
+                    "title": "Bohemian Sunset"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "5119",
+                            "join": "",
+                            "name": "Naked Funk",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:10",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "5954",
+                                "join": "",
+                                "name": "Valerie Etienne",
+                                "role": "Featuring",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "4710",
+                                "join": "",
+                                "name": "Mark Farina",
+                                "role": "Remix",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "6",
+                    "title": "Midnight Calling"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "22795",
+                            "join": "",
+                            "name": "Eighty Mile Beach",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "8:04",
+                    "position": "7",
+                    "title": "What We Did Last Summer"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "J Boogie's Dubtronic Science",
+                            "id": "113058",
+                            "join": "",
+                            "name": "J. Boogie's Dubtronic Science",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:37",
+                    "position": "8",
+                    "title": "Oceanic Lullaby"
+                },
+                {
+                    "artists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "3337",
+                                "join": "vs.",
+                                "name": "Andy Caldwell",
+                                "role": "",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "Woolove",
+                                "id": "1661177",
+                                "join": "",
+                                "name": "Wool (5)",
+                                "role": "",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "duration": "5:47",
+                    "position": "9",
+                    "title": "Adventures In La La Land"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "Migs \u0026 Jelly",
+                            "id": "8855",
+                            "join": "",
+                            "name": "Migs And Jelly",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:55",
+                    "position": "10",
+                    "title": "Up By 420"
+                },
+                {
+                    "artists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "5615",
+                                "join": "\u0026",
+                                "name": "Julius Papp",
+                                "role": "",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "40",
+                                "join": "",
+                                "name": "Dave Warrin",
+                                "role": "",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "duration": "6:29",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "687179",
+                                "join": "",
+                                "name": "John Warrin",
+                                "role": "Guitar",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "40",
+                                "join": "",
+                                "name": "Dave Warrin",
+                                "role": "Keyboards",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "670",
+                                "join": "",
+                                "name": "Lisa Shaw",
+                                "role": "Vocals",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "11",
+                    "title": "Echoes Of My Mind"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "4709",
+                            "join": "",
+                            "name": "Naked Music NYC",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:15",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "698",
+                                "join": "",
+                                "name": "Chris Brann",
+                                "role": "Remix",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "9079",
+                                "join": "",
+                                "name": "Ada Dyer",
+                                "role": "Vocals",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "12",
+                    "title": "It's Love (Wamdue Kids Drum \u0026 Space Dub)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "277",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=D2D2mXtQEmE",
+                    "description": "",
+                    "title": "Eighty Mile Beach - No Right Angles (Thievery Corp. Rmx)"
+                },
+                {
+                    "_duration": "414",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=pqxHaS44hgY",
+                    "description": "",
+                    "title": "Jazzanova-Bohemian Sunset"
+                },
+                {
+                    "_duration": "317",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Hd8G_qf-dys",
+                    "description": "From The Album Mushroom Jazz Vol. 1 By Mark Farina",
+                    "title": "[Funk] Naked Funk Ft. Valerie Etienne - Midnight Calling"
+                },
+                {
+                    "_duration": "347",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=F2LUB4Lcios",
+                    "description": "Provided to YouTube by Ingrooves\n\nAdventures In La La Land · Andy Caldwell\n\nOm: Lounge - From The Vaults Vol. 1\n\nReleased on: 2006-04-18\n\nComposer: -\n\nAuto-generated by YouTube.",
+                    "title": "Adventures In La La Land"
+                },
+                {
+                    "_duration": "278",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=srGIN64fqL0",
+                    "description": "From the album J Boogie's Dubtronic Science. Enjoy.",
+                    "title": "J Boogie - Oceanic Lullaby [high quality]"
+                },
+                {
+                    "_duration": "394",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=2UbMFLqogms",
+                    "description": "Track from OM",
+                    "title": "Julius Papp \u0026 Dave Warrin - Echoes Of My Mind"
+                },
+                {
+                    "_duration": "350",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=iziYZjplpVc",
+                    "description": "this is actually my favorite om lounge, and this is one of my favorite songs from this album... give me a shoutout and i'll upload more!\n\r\n\r-uploaded in HD at http://www.TunesToTube.com",
+                    "title": "migs and jelly- up by 420 (om lounge 1)"
+                },
+                {
+                    "_duration": "468",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=wJKDpWhLZLY",
+                    "description": "From the album What's your Shrine? Released on Map Music. Written and produced by Stephane Novak.",
+                    "title": "Pilgrims of the Mind - Nothing Can Pull Us Apart"
+                },
+                {
+                    "_duration": "4121",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=K9254eycHk4",
+                    "description": "Various ‎– Om Lounge\nEtichetta: OM Records ‎– OM-017\nSerie: OM Lounge – 1\nFormato: CD, Compilation \nPaese: US\nUscita: 1998\nGenere: Electronic\nStile: House, Downtempo\n\n  2. Slow Roll 77 - Freakniks\n  3. Nothing Can Pull Us Apart - Pilgrims Of The",
+                    "title": "Various - Om Lounge"
+                },
+                {
+                    "_duration": "4121",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=lXPXorddrNw",
+                    "description": "Stumbled upon this gem of a compilation album featuring Thievery Corporation and more and had to share. This one is a proper banger!\n\nListen. Share. Enjoy!\n\nBuy/Download the album here\nDiscogs: https://www.discogs.com/Various-Om-Lounge/release/50558\n\nTrac",
+                    "title": "VA - Om Lounge (Volume 1)"
+                },
+                {
+                    "_duration": "1888",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=3hBOWZbzacc",
+                    "description": "Thievery Corporation - Om Lounge , part 1.",
+                    "title": "Thievery Corporation - Om Lounge [1]"
+                },
+                {
+                    "_duration": "2235",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=zN5ct86LFpc",
+                    "description": "Thievery Corporation - Om Lounge , part 2.",
+                    "title": "Thievery Corporation - Om Lounge [2]"
+                }
+            ]
+        }
+    }
+}

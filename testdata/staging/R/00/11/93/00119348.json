@@ -1,0 +1,189 @@
+{
+    "release": {
+        "_id": "119348",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "265",
+                "join": "",
+                "name": "Julius Papp \u0026 Dave Warrin",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "39",
+                    "name": "i! Records",
+                    "resource_url": "https://api.discogs.com/labels/39"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "39",
+                    "name": "i! Records",
+                    "resource_url": "https://api.discogs.com/labels/39"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "337145",
+                    "name": "Cal Vent Music",
+                    "resource_url": "https://api.discogs.com/labels/337145"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "356122",
+                    "name": "Oskris Toons",
+                    "resource_url": "https://api.discogs.com/labels/356122"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "37",
+                    "entity_type_name": "Produced For",
+                    "id": "2224570",
+                    "name": "House Sweet It Iz Productions",
+                    "resource_url": "https://api.discogs.com/labels/2224570"
+                }
+            ]
+        },
+        "country": "US",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "40",
+                    "join": "",
+                    "name": "Dave Warrin",
+                    "role": "Keyboards",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "265",
+                    "join": "",
+                    "name": "Julius Papp \u0026 Dave Warrin",
+                    "role": "Producer, Written-By, Arranged By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_type": "Rights Society",
+                "_value": "ASCAP"
+            }
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "1215",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "IR-174",
+                "_id": "39",
+                "_name": "i! Records"
+            }
+        },
+        "notes": "Contains a sample from Evolution by [url=http://www.discogs.com/artist/Giorgio+Moroder]Giorgio Moroder[/url], taken from [url=http://www.discogs.com/release/19003]Music From \"Battlestar Galactica\" And Other Original Compositions[/url].",
+        "released": "1999",
+        "styles": {
+            "style": "Deep House"
+        },
+        "title": "Behind The Sun",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A1",
+                    "title": "Behind The Sun (OE Mix)"
+                },
+                {
+                    "duration": "",
+                    "position": "A2",
+                    "title": "Behind The Drums"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "The Sunshine Brothers",
+                            "id": "50529",
+                            "join": "",
+                            "name": "Sunshine Bros.",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "B",
+                    "title": "Behind The Sun (The Sunshine Rmx)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "384",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=s_S2KvPbdrY",
+                    "description": "Year : 1999\nLabel : https://www.discogs.com/label/39-i!-Records\nDiscogs : https://www.discogs.com/Julius-Papp-Dave-Warrin-Behind-The-Sun/release/119348\nEtichetta:\ni! Records ‎– IR-174\nFormato:\nVinyl, 12\nPaese:\nUS\nUscita:\n1999\nGenere:\nElectronic\nStile",
+                    "title": "Julius Papp \u0026 Dave Warrin ‎– Behind The Sun (The Sunshine Rmx)"
+                },
+                {
+                    "_duration": "499",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=M5GMy0-0tHs",
+                    "description": "https://www.discogs.com/Julius-Papp-Dave-Warrin-Behind-The-Sun/release/119348",
+                    "title": "Julius Papp \u0026 Dave Warrin - Behind The Sun (OE Mix) A1"
+                }
+            ]
+        }
+    }
+}

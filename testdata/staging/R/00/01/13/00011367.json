@@ -1,0 +1,219 @@
+{
+    "release": {
+        "_id": "11367",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "20",
+                "join": "",
+                "name": "Percy X",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "295038",
+                    "name": "Soma Music",
+                    "resource_url": "https://api.discogs.com/labels/295038"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "270709",
+                    "name": "Soma Recordings Ltd.",
+                    "resource_url": "https://api.discogs.com/labels/270709"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "270709",
+                    "name": "Soma Recordings Ltd.",
+                    "resource_url": "https://api.discogs.com/labels/270709"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "17",
+                    "entity_type_name": "Pressed By",
+                    "id": "56025",
+                    "name": "MPO",
+                    "resource_url": "https://api.discogs.com/labels/56025"
+                }
+            ]
+        },
+        "country": "UK",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "Jd",
+                    "id": "147827",
+                    "join": "",
+                    "name": "John Dent",
+                    "role": "Lacquer Cut By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "20",
+                    "join": "",
+                    "name": "Percy X",
+                    "role": "Written-By, Producer",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Text",
+                    "_type": "Barcode",
+                    "_value": "5 024856 620637 \u003e"
+                },
+                {
+                    "_description": "Etched runout side A",
+                    "_type": "Matrix / Runout",
+                    "_value": "Jd SOMA 63 — A 1 MPO SOMA 63 A1"
+                },
+                {
+                    "_description": "Etched runout side B",
+                    "_type": "Matrix / Runout",
+                    "_value": "— B1 — MPO SOMA 63 B1"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "599",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "750",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "590"
+                },
+                {
+                    "_height": "599",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "soma 63",
+                "_id": "18",
+                "_name": "Soma Quality Recordings"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "749224"
+        },
+        "notes": "℗\u0026© 1998 Soma Recordings\n\nThe release was originally issued in a stickered die-cut sleeve with a myriad of Soma logos printed in background, the left spine printed, and a white die-cut innersleeve with curved corners.\nOn the runouts, ‘A 1’, ‘A1’, ‘— B1 —‘ and ‘B1’ are etched ‘A ı’, ‘A¹’, ‘— BI —‘ and ‘B¹’.\nThe durations do not appear on the release.",
+        "released": "1998-03-02",
+        "styles": {
+            "style": [
+                "Techno",
+                "Electro"
+            ]
+        },
+        "title": "New Ground",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "6:34",
+                    "position": "a",
+                    "title": "Track 2"
+                },
+                {
+                    "duration": "6:37",
+                    "position": "b1",
+                    "title": "New Ground"
+                },
+                {
+                    "duration": "6:20",
+                    "position": "b2",
+                    "title": "Inshot"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "398",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=IopFWgPSAeY",
+                    "description": "http://www.discogs.com/Percy-X-New-Ground/release/11367",
+                    "title": "Percy X - Track 2 [New Ground EP]"
+                },
+                {
+                    "_duration": "382",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=InoW6P6LO9c",
+                    "description": "http://www.discogs.com/Percy-X-New-Ground/release/11367\r\n(1998)",
+                    "title": "PERCY X - New Ground   (New Ground EP  [Soma Quality Recordings}"
+                },
+                {
+                    "_duration": "382",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=V_bbNfUqwec",
+                    "description": "http://www.discogs.com/Percy-X-New-Ground/release/11367",
+                    "title": "Percy X -- New Ground-B2-Inshot"
+                }
+            ]
+        }
+    }
+}

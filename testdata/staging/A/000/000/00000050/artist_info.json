@@ -1,0 +1,64 @@
+{
+    "artist": {
+        "aliases": {
+            "name": [
+                {
+                    "_id": "26",
+                    "content": "Alexi Delano"
+                },
+                {
+                    "_id": "937",
+                    "content": "G.O.L."
+                },
+                {
+                    "_id": "1386",
+                    "content": "Leiva"
+                },
+                {
+                    "_id": "28855",
+                    "content": "Bob Brewthbaker"
+                },
+                {
+                    "_id": "97928",
+                    "content": "Mr. Couscous"
+                },
+                {
+                    "_id": "460946",
+                    "content": "A.D.1010"
+                }
+            ]
+        },
+        "data_quality": "Needs Vote",
+        "id": "50",
+        "images": {
+            "image": [
+                {
+                    "_height": "401",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "572",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                }
+            ]
+        },
+        "name": "ADNY",
+        "namevariations": {
+            "name": [
+                "A.D.N.Y",
+                "A.D.N.Y."
+            ]
+        },
+        "profile": "",
+        "realname": "Alexi Delano",
+        "urls": {
+            "url": "http://www.myspace.com/adltd"
+        }
+    }
+}

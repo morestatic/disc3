@@ -1,0 +1,173 @@
+{
+    "release": {
+        "_id": "52488",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "293201",
+                "join": "",
+                "name": "The Whole Traffic",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": {
+                "catno": "",
+                "entity_type": "16",
+                "entity_type_name": "Made By",
+                "id": "291931",
+                "name": "CD Plant MFG",
+                "resource_url": "https://api.discogs.com/labels/291931"
+            }
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "8521",
+                    "join": "",
+                    "name": "Dr. Atmo",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "41716",
+                    "join": "",
+                    "name": "Pino \u0026 Wildjamin",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "CD PLANT MFG PS 08/55 CDM01"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "466",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "602",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "598",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PS 08/55",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Limited to 1000 copies.\n\nThe Whole Trafic, Frankfurt 1994\n\nMade in Germany",
+        "released": "1995-02-06",
+        "styles": {
+            "style": [
+                "Techno",
+                "Ambient"
+            ]
+        },
+        "title": "The Whole Traffic 2",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "18:08",
+                    "position": "1",
+                    "title": "80 KMH"
+                },
+                {
+                    "duration": "20:11",
+                    "position": "2",
+                    "title": "88 KMH"
+                },
+                {
+                    "duration": "16:06",
+                    "position": "3",
+                    "title": "90 KMH"
+                },
+                {
+                    "duration": "12:20",
+                    "position": "4",
+                    "title": "130 KMH"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "4006",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=isAsrXvcugc",
+                    "description": "Released in February, 1995 on FAX +49-69/450464\n\n\n00:00 80 KMH \n18:09 88 KMH\n38:18 90 KMH\n54:24 130 KMH",
+                    "title": "[PS 08/55] Dr. Atmo, Pino \u0026 Wildjamin - The Whole Traffic 2"
+                },
+                {
+                    "_duration": "1089",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=cEBNqkT7Ylc",
+                    "description": "Dr. Atmo, Pino \u0026 Wildjamin: The Whole Traffic ‎– The Whole Traffic 2\n\n\nLabel: Fax +49-69/450464 ‎– PS 08/55\nFormat: CD, Album, Limited Edition \nCountry: Germany\nReleased: 06 Feb 1995\nGenre: Electronic\nStyle: Techno, Ambient\n\nTracklist\n\n1 80 KMH 18",
+                    "title": "Dr. Atmo, Pino \u0026 Wildjamin  - 80 KMH (The Whole Traffic 2)"
+                },
+                {
+                    "_duration": "747",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=BrTFipXh3NE",
+                    "description": "Car Music for the Ambient-Vehicles of our days...",
+                    "title": "Dr. Atmo, Pino \u0026 Wildjamin - 130 KMH (The Whole Traffic 2)"
+                }
+            ]
+        }
+    }
+}

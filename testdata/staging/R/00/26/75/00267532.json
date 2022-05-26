@@ -1,0 +1,217 @@
+{
+    "release": {
+        "_id": "267532",
+        "_status": "Accepted",
+        "artists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "63006",
+                    "join": "\u0026",
+                    "name": "Grey",
+                    "role": "",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "194047",
+                    "join": "",
+                    "name": "Chakaharta",
+                    "role": "",
+                    "tracks": ""
+                }
+            ]
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "10",
+                    "entity_type_name": "Manufactured By",
+                    "id": "290468",
+                    "name": "Syntax Distribution",
+                    "resource_url": "https://api.discogs.com/labels/290468"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "9",
+                    "entity_type_name": "Distributed By",
+                    "id": "290468",
+                    "name": "Syntax Distribution",
+                    "resource_url": "https://api.discogs.com/labels/290468"
+                }
+            ]
+        },
+        "country": "US",
+        "data_quality": "Needs Vote",
+        "extraartists": "",
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM",
+                        "EP"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "565",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "565"
+                },
+                {
+                    "_height": "565",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "565"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "FPR 022",
+                "_id": "50",
+                "_name": "Fair Park"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "841791"
+        },
+        "released": "2004",
+        "styles": {
+            "style": "Deep House"
+        },
+        "title": "A Warm Focus EP",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "",
+                    "title": "This"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "63006",
+                            "join": "",
+                            "name": "Grey",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "262689",
+                            "join": "",
+                            "name": "Suza Kanon",
+                            "role": "Vocals",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "A1",
+                    "title": "Aqua A Go Go"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "63006",
+                            "join": "",
+                            "name": "Grey",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "A2",
+                    "title": "Doma"
+                },
+                {
+                    "duration": "",
+                    "position": "",
+                    "title": "That"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "194047",
+                            "join": "",
+                            "name": "Chakaharta",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "B1",
+                    "title": "Hit The Nuco"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "194047",
+                            "join": "",
+                            "name": "Chakaharta",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "B2",
+                    "title": "L9 House (Muse Mix)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "326",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=kWP2XPHBNPs",
+                    "description": "Grey / Chakaharta ‎– A Warm Focus EP\r\n\r\nLabel: Fair Park ‎– FPR 022\r\nFormat: Vinyl, 12, EP \r\nCountry: US\r\nReleased: 2004\r\nGenre: Electronic\r\nStyle: Deep House\r\n\r\nhttp://www.discogs.com/Grey--Chakaharta-A-Warm-Focus-EP/release/267532\r\n\r\nIf you are",
+                    "title": "Chakaharta - L9 House - Muse Mix (FPR022)"
+                },
+                {
+                    "_duration": "493",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=0Unnhjz2hZo",
+                    "description": "Buy the record : https://www.discogs.com/Grey-Chakaharta-A-Warm-Focus-EP/release/7064266\n\n Grey \u0026 Chakaharta ‎– A Warm Focus EP (Fair Park)\n Grey = Sean Anderson \u0026 Eric Reeves",
+                    "title": "Grey - Aqua A Go Go"
+                },
+                {
+                    "_duration": "358",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Tk5fEYKcfas",
+                    "description": "Off   A Warm Focus EP  By Grey \u0026 Chakaharta - Fair Park Records - FPR0022  \nProduced by Sean Anderson ,Eric Reeves \u0026 J D Northrup",
+                    "title": "Chakaharta -  Hit The Nuco"
+                },
+                {
+                    "_duration": "356",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=VvF1VpEAsqs",
+                    "description": "https://www.discogs.com/Grey-Chakaharta-A-Warm-Focus-EP/release/267532\n\r\n\r- video upload powered by https://www.TunesToTube.com",
+                    "title": "Grey - Doma [FPR 022]"
+                }
+            ]
+        }
+    }
+}

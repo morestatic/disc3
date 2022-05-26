@@ -1,0 +1,176 @@
+{
+    "release": {
+        "_id": "150554",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "292739",
+                "join": "",
+                "name": "From Within",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": {
+                "catno": "",
+                "entity_type": "23",
+                "entity_type_name": "Recorded At",
+                "id": "294391",
+                "name": "Sonic Studios Frankfurt",
+                "resource_url": "https://api.discogs.com/labels/294391"
+            }
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "58657",
+                    "join": "",
+                    "name": "Peter Kuhlmann",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "835",
+                    "join": "",
+                    "name": "Richie Hawtin",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "599",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "298",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "467",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PW 22",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "21919"
+        },
+        "notes": "Recorded at Sonic Studios Frankfurt.\r\nLimitation: 2000",
+        "released": "1995-09-25",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Electro"
+            ]
+        },
+        "title": "From Within 2",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "13:50",
+                    "position": "1",
+                    "title": "Do Bassdrums Have Feelings"
+                },
+                {
+                    "duration": "20:44",
+                    "position": "2",
+                    "title": "Brain To Midi"
+                },
+                {
+                    "duration": "39:23",
+                    "position": "3",
+                    "title": "Future Surfacing (What Lies Ahead)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "1180",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=zXW6Ee0TVbU",
+                    "description": "From Within (2) -   Brain To Midi [FAX Records] (1995)",
+                    "title": "From Within (2) -   Brain To Midi [FAX Records] (1995)"
+                },
+                {
+                    "_duration": "2369",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=PnsWHvd0RMo",
+                    "description": "https://twitter.com/Scubadevils\nThis is quite an epic piece from Namlook \u0026 Hawtin - when I first got this album a few years back I recorded it to listen on an early morning flight, I'll never forget being half awake on the plane and hearing this for the f",
+                    "title": "Pete Namlook \u0026 Richie Hawtin - Future Surfacing (What Lies Ahead)"
+                },
+                {
+                    "_duration": "829",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=k9g-xx1tj2A",
+                    "description": "[Richie Hawtin \u0026 Pete Namlook] Do Bassdrums Have Feelings",
+                    "title": "Richie Hawtin \u0026 Pete Namlook Do Bassdrums Have Feelings"
+                },
+                {
+                    "_duration": "13100",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=JVJJ8CL371E",
+                    "description": "Pete Namlook, Richie Hawtin - From Within 1,2,3 [full albums]\n\nFrom Within  (00:00)\n   1-Snake Charmer\n   2-Sad Alliance\n   3-A Million Miles To Earth\n   4-Homeward Bound\n   5-Lost\n\nFrom Within 2 (1:10:52)\n   1-Do Bassdrums Have Feelings\n   2-Brain To Mid",
+                    "title": "Pete Namlook \u0026 Richie Hawtin - From Within 1,2,3 [full albums]"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,205 @@
+{
+    "release": {
+        "_id": "94137",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "The Wildchild Experience",
+                "id": "6246",
+                "join": "",
+                "name": "Wildchild",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "362251",
+                    "name": "Original Artists Music",
+                    "resource_url": "https://api.discogs.com/labels/362251"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "29",
+                    "entity_type_name": "Mastered At",
+                    "id": "158759",
+                    "name": "The Exchange",
+                    "resource_url": "https://api.discogs.com/labels/158759"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "17",
+                    "entity_type_name": "Pressed By",
+                    "id": "56025",
+                    "name": "MPO",
+                    "resource_url": "https://api.discogs.com/labels/56025"
+                }
+            ]
+        },
+        "country": "UK",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "NILZ",
+                    "id": "386598",
+                    "join": "",
+                    "name": "Nilesh Patel",
+                    "role": "Mastered By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "The Wildchild Experience",
+                    "id": "6246",
+                    "join": "",
+                    "name": "Wildchild",
+                    "role": "Presenter",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "6246",
+                    "join": "",
+                    "name": "Wildchild",
+                    "role": "Written-By, Producer, Mixed By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Text",
+                    "_type": "Barcode",
+                    "_value": "5 025425 250569"
+                },
+                {
+                    "_description": "String",
+                    "_type": "Barcode",
+                    "_value": "5025425250569"
+                },
+                {
+                    "_description": "Side A",
+                    "_type": "Matrix / Runout",
+                    "_value": "MPO LOAD5A1 THE EXCHANGE - NILZ"
+                },
+                {
+                    "_description": "Side B",
+                    "_type": "Matrix / Runout",
+                    "_value": "MPO LOAD5B1 THE EXCHANGE - NILZ"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "LOAD5",
+                "_id": "40",
+                "_name": "Loaded Records"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "169444"
+        },
+        "notes": "Track durations not given on sleeve or labels.",
+        "released": "1993",
+        "styles": {
+            "style": "House"
+        },
+        "title": "Wildtrax Vol. 2",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "5:55",
+                    "position": "A1",
+                    "title": "Jump To My Beat"
+                },
+                {
+                    "duration": "5:20",
+                    "position": "A2",
+                    "title": "Yes! This Is My House"
+                },
+                {
+                    "duration": "7:16",
+                    "position": "AA1",
+                    "title": "First Things First"
+                },
+                {
+                    "duration": "6:25",
+                    "position": "AA2",
+                    "title": "Do What You Like (Remix)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "357",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=oABcfGMS7A4",
+                    "description": "Roger 'Wildchild' Mckenzie. That Public Enemy break…",
+                    "title": "Wildchild - Jump 2 My Beat"
+                },
+                {
+                    "_duration": "322",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=LFzTzKyCcsg",
+                    "description": "LOAD 005   The Wildchild Experience - Wildtrax Vol. 2 - A2)  Yes! This Is My House\r\n\r\nLoaded, UK",
+                    "title": "The Wildchild Experience - Yes! This Is My House"
+                },
+                {
+                    "_duration": "442",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=09VfCjZpvXs",
+                    "description": "Loaded, UK",
+                    "title": "The Wildchild Experience - Wildtrax Vol. 2 - First Things First"
+                },
+                {
+                    "_duration": "389",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=3U2_mf8c6N0",
+                    "description": "Label:Loaded Records ‎– LOAD5\nFormat:Vinyl, 12, 33 ⅓ RPM\nCountry:UK\nReleased:1993\nGenre:Electronic\nStyle:House",
+                    "title": "The Wildchild Experience - Do What You Like [Remix]"
+                }
+            ]
+        }
+    }
+}

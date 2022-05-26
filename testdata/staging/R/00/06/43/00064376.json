@@ -1,0 +1,252 @@
+{
+    "release": {
+        "_id": "64376",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "20",
+                "join": "",
+                "name": "Percy X",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "27",
+                    "entity_type_name": "Mixed At",
+                    "id": "315293",
+                    "name": "UXB Studios",
+                    "resource_url": "https://api.discogs.com/labels/315293"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "295038",
+                    "name": "Soma Music",
+                    "resource_url": "https://api.discogs.com/labels/295038"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "270709",
+                    "name": "Soma Recordings Ltd.",
+                    "resource_url": "https://api.discogs.com/labels/270709"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "270709",
+                    "name": "Soma Recordings Ltd.",
+                    "resource_url": "https://api.discogs.com/labels/270709"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "17",
+                    "entity_type_name": "Pressed By",
+                    "id": "56025",
+                    "name": "MPO",
+                    "resource_url": "https://api.discogs.com/labels/56025"
+                }
+            ]
+        },
+        "country": "UK",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "459",
+                    "join": "",
+                    "name": "Mark Broom",
+                    "role": "Mixed By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "459",
+                    "join": "",
+                    "name": "Mark Broom",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "The Xman",
+                    "id": "529344",
+                    "join": "",
+                    "name": "The X-Man (3)",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "The Xman",
+                    "id": "529344",
+                    "join": "",
+                    "name": "The X-Man (3)",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Barcode",
+                    "_value": "7 96122 21266 6"
+                },
+                {
+                    "_description": "Side A",
+                    "_type": "Matrix / Runout",
+                    "_value": "MPO SOMA 126 A¹"
+                },
+                {
+                    "_description": "Side B",
+                    "_type": "Matrix / Runout",
+                    "_value": "MPO SOMA 126 AA¹"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "599"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "591"
+                },
+                {
+                    "_height": "596",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": [
+                {
+                    "_catno": "SOMA 126",
+                    "_id": "18",
+                    "_name": "Soma Quality Recordings"
+                },
+                {
+                    "_catno": "soma 126",
+                    "_id": "18",
+                    "_name": "Soma Quality Recordings"
+                }
+            ]
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "218164"
+        },
+        "notes": "Mixed at UXB, London.\nOriginal taken from '[m=37386]', Soma CD28.\n℗\u0026© 2002 Soma Recordings Ltd\n\n\"SOMA 126\" appears on sleeve and \"soma 126\" on label.",
+        "released": "2002-12-09",
+        "styles": {
+            "style": "Techno"
+        },
+        "title": "On A Day (Remix)",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "459",
+                                "join": "",
+                                "name": "Mark Broom",
+                                "role": "Remix, Producer [Additional]",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "20",
+                                "join": "",
+                                "name": "Percy X",
+                                "role": "Remix, Producer [Additional]",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "A",
+                    "title": "On A Day (Remix)"
+                },
+                {
+                    "duration": "",
+                    "position": "B1",
+                    "title": "Dark N Sharp"
+                },
+                {
+                    "duration": "",
+                    "position": "B2",
+                    "title": "On A Day (Remake)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "476",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=MEYgROox-M8",
+                    "description": "[soma 126] Percy X - On A Day (Mark Broom Remix) [Techno 2002]\n\n\nRelease: On A Day (Remix)\nSello: Soma Quality Recordings ‎– SOMA 126, Soma Quality Recordings ‎– soma 126\nFormato: Vinyl, 12, 33 ⅓ RPM\nPaís: UK\nFecha: 09 Dec 2002 \nGenre: Electro",
+                    "title": "Percy X - On A Day (Mark Broom Remix) [soma 126] (2002)"
+                },
+                {
+                    "_duration": "516",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=vq0NOhbwaeM",
+                    "description": "http://www.discogs.com/Percy-X-On-A-Day-Remix/release/64376\n\nPercy X - On A Day ( Remix )",
+                    "title": "Percy X - On A Day ( Remix )"
+                },
+                {
+                    "_duration": "341",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=GncbKyQb1Vc",
+                    "description": "http://www.discogs.com/Percy-X-On-A-Day-Remix/release/64376\n\nPercy X - On A Day ( Remake )",
+                    "title": "Percy X - On A Day ( Remake )"
+                },
+                {
+                    "_duration": "271",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=zA4bggVXwC8",
+                    "description": "http://www.discogs.com/Percy-X-On-A-Day-Remix/release/64376\n\nPercy X - Dark N Sharp",
+                    "title": "Percy X - Dark N Sharp"
+                }
+            ]
+        }
+    }
+}

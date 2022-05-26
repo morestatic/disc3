@@ -1,0 +1,150 @@
+{
+    "release": {
+        "_id": "129992",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "14128",
+                "join": "",
+                "name": "4Voice",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "1910",
+                "join": "",
+                "name": "Pete Namlook",
+                "role": "Written-By",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "598"
+                },
+                {
+                    "_height": "500",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/44",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "169473"
+        },
+        "notes": "Limitation: 500\r\n\"SPECIAL THANKS TO DJ CRISS FOR CROWD-CHILL-BRAIN-STORM-MOVE-SESSION\" \r\nIs Etched On Runout Groove On Side B",
+        "released": "1993-02-15",
+        "styles": {
+            "style": [
+                "Trance",
+                "Hardcore"
+            ]
+        },
+        "title": "4Voice 3",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "6:27",
+                    "position": "A",
+                    "title": "Eternal Spirit (Northern Mix)"
+                },
+                {
+                    "duration": "6:34",
+                    "position": "B1",
+                    "title": "Eternal Spirit (Southern Mix)"
+                },
+                {
+                    "duration": "5:52",
+                    "position": "B2",
+                    "title": "Move"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "387",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=LsFGOZxLVA8",
+                    "description": "4 Voice - Eternal Spirit (Northern Mix)  (1993)\n\nAlbum: Eternal Spirit\nSello: Rising High Records ‎– RSN 67\nFormato: Vinyl, 12\nPaís: UK\nPublicado: 1993\nGénero: Electronic\nEstilo: Trance\n\n         Written-By – Pete Namlook\n\nBuy it and support the",
+                    "title": "4 Voice - Eternal Spirit (Northern Mix)  (1993)"
+                },
+                {
+                    "_duration": "387",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Iop70HYD1lA",
+                    "description": "",
+                    "title": "4 VOICE Eternal Spirit (northern mix)(RISING HIGH RECORDS)"
+                },
+                {
+                    "_duration": "499",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=l_vxPIbTH0Y",
+                    "description": "4Voice - 4Voice 3\n4Voice - Move \nFax +49-69/450464\nTechno Trance Hardcore \n1993",
+                    "title": "4Voice - Move ( 1993 )"
+                },
+                {
+                    "_duration": "386",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=81Ns3ZUnGFo",
+                    "description": "Sello: Music Man Records ‎– MMI 9385\nFormato: Vinyl, 12\nPaís: Belgium\nPublicado: 1993\nGénero: Electronic\nEstilo: Trance, Techno\n\n4 Voice III – Eternal Spirit\nWritten-By – Pete Namlook\n\n\n.",
+                    "title": "4 Voice III – Eternal Spirit (Northern Mix) 1993"
+                },
+                {
+                    "_duration": "392",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=MCRg5aJiPlY",
+                    "description": "Artist: 4Voice\nMembers: Maik Maurice Diehl \u0026 Peter Kuhlmann\nAlbum: Eternal Spirit\nTrack: Eternal Spirit (Southern Mix)\nYear: 1993\nStyle: Goa Trance",
+                    "title": "4Voice - Eternal Spirit (Southern Mix)"
+                },
+                {
+                    "_duration": "379",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=BFwToNne5Ms",
+                    "description": "",
+                    "title": "4 Voice - Move  (1993)"
+                }
+            ]
+        }
+    }
+}

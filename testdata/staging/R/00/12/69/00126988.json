@@ -1,0 +1,639 @@
+{
+    "release": {
+        "_id": "126988",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "194",
+                "join": "",
+                "name": "Various",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": {
+                "catno": "efa 29738-2",
+                "entity_type": "9",
+                "entity_type_name": "Distributed By",
+                "id": "2444",
+                "name": "EFA",
+                "resource_url": "https://api.discogs.com/labels/2444"
+            }
+        },
+        "country": "Germany",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "1544",
+                    "join": "",
+                    "name": "Steve Bug",
+                    "role": "Compiled By",
+                    "tracks": "1-01 to 1-10"
+                },
+                {
+                    "anv": "",
+                    "id": "60",
+                    "join": "",
+                    "name": "Pete Moss",
+                    "role": "DJ Mix",
+                    "tracks": "2-01 to 2-13"
+                }
+            ]
+        },
+        "formats": {
+            "format": [
+                {
+                    "_name": "CD",
+                    "_qty": "1",
+                    "_text": "",
+                    "descriptions": {
+                        "description": "Compilation"
+                    }
+                },
+                {
+                    "_name": "CD",
+                    "_qty": "1",
+                    "_text": "",
+                    "descriptions": {
+                        "description": [
+                            "Compilation",
+                            "Mixed"
+                        ]
+                    }
+                }
+            ]
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Barcode",
+                    "_value": "7 18752 97382 3"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 10720"
+                },
+                {
+                    "_type": "Rights Society",
+                    "_value": "GEMA"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "550",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "550"
+                },
+                {
+                    "_height": "463",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "550",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "550"
+                },
+                {
+                    "_height": "550",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "550"
+                },
+                {
+                    "_height": "597",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "653",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "466",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "descd07",
+                "_id": "772",
+                "_name": "Dessous Recordings"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "129069"
+        },
+        "notes": "CD 1 is unmixed, full length releases compiled by Steve Bug.\r\nExclusive tracks on CD 1 are tracks 1, 4 \u0026 5.\r\nExclusive tracks on CD 2 are tracks 6 \u0026 8.",
+        "released": "2003-03-14",
+        "styles": {
+            "style": [
+                "Deep House",
+                "Tech House",
+                "Erotic"
+            ]
+        },
+        "title": "Erotic Moments In House Vol. 2",
+        "tracklist": {
+            "track": [
+                {
+                    "artists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "8047",
+                                "join": "\u0026",
+                                "name": "Matthias Tanzmann",
+                                "role": "",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "86934",
+                                "join": "",
+                                "name": "Alexander Voigt",
+                                "role": "",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "duration": "6:44",
+                    "position": "1-01",
+                    "title": "Lady Colt"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "20805",
+                            "join": "",
+                            "name": "John Dahlbäck",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "7:03",
+                    "position": "1-02",
+                    "title": "Bedroom Acts"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "20887",
+                            "join": "",
+                            "name": "Tojami Sessions",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "7:39",
+                    "position": "1-03",
+                    "title": "Lake St.Clair"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "20805",
+                            "join": "",
+                            "name": "John Dahlbäck",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "7:20",
+                    "position": "1-04",
+                    "title": "Sleep Over"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "15053",
+                            "join": "",
+                            "name": "Untitled Orchestra",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:41",
+                    "position": "1-05",
+                    "title": "Return To Now"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1841",
+                            "join": "",
+                            "name": "Gamat 3000",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:50",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "214",
+                            "join": "",
+                            "name": "Joshua",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "1-06",
+                    "title": "Into This Lonely Crowd (Joshua's Short Dub Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "52499",
+                            "join": "",
+                            "name": "Glowing Glisses",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "7:54",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "148",
+                            "join": "",
+                            "name": "Larry Heard",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "1-07",
+                    "title": "On The Bridge (Larry Heard's After Dark Dub Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "Jussi-Pekka",
+                            "id": "61315",
+                            "join": "",
+                            "name": "Jussi-Pekka Parikka",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:49",
+                    "position": "1-08",
+                    "title": "Overnight"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "675",
+                            "join": "",
+                            "name": "Vincenzo",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "7:37",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "4858",
+                            "join": "",
+                            "name": "Charles Webster",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "1-09",
+                    "title": "We Wait, Right Here (Charles Webster Dub Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "60",
+                            "join": "",
+                            "name": "Pete Moss",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:37",
+                    "position": "1-10",
+                    "title": "Sometimes..."
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "675",
+                            "join": "",
+                            "name": "Vincenzo",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "7:09",
+                    "position": "2-01",
+                    "title": "Can You Feel What I Feel (Dub Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1841",
+                            "join": "",
+                            "name": "Gamat 3000",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:19",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "31",
+                            "join": "",
+                            "name": "Swag",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "2-02",
+                    "title": "Whispering (Swag's Softly Spoke Dub)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "33832",
+                            "join": "",
+                            "name": "Diadem",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:20",
+                    "position": "2-03",
+                    "title": "Saturday Sessions 2"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1841",
+                            "join": "",
+                            "name": "Gamat 3000",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:49",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "675",
+                            "join": "",
+                            "name": "Vincenzo",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "2-04",
+                    "title": "Sunglasses \u0026 Soda (Vincenzo's Verano Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1544",
+                            "join": "",
+                            "name": "Steve Bug",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "3:48",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "3061",
+                            "join": "",
+                            "name": "Freaks",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "2-05",
+                    "title": "Soulin' Deep (Freaks Dub Remix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "60",
+                            "join": "",
+                            "name": "Pete Moss",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:36",
+                    "position": "2-06",
+                    "title": "Naturally Mine"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "20887",
+                            "join": "",
+                            "name": "Tojami Sessions",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:04",
+                    "position": "2-07",
+                    "title": "Night Moves"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "56256",
+                            "join": "",
+                            "name": "Jiago",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:50",
+                    "position": "2-08",
+                    "title": "Satisfy"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "8048",
+                            "join": "",
+                            "name": "Frankman",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:16",
+                    "position": "2-09",
+                    "title": "Make It Ruff, Make It Smooth"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "Jussi-Pekka",
+                            "id": "61315",
+                            "join": "",
+                            "name": "Jussi-Pekka Parikka",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:36",
+                    "position": "2-10",
+                    "title": "Breeze"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1841",
+                            "join": "",
+                            "name": "Gamat 3000",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:50",
+                    "position": "2-11",
+                    "title": "Into This Lonely Crowd"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "675",
+                            "join": "",
+                            "name": "Vincenzo",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:35",
+                    "position": "2-12",
+                    "title": "The Charmer"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "675",
+                            "join": "",
+                            "name": "Vincenzo",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "3:50",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1029",
+                            "join": "",
+                            "name": "I:Cube",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "2-13",
+                    "title": "Peace Is Not The Word To Play (I:Cube's Vocopop Muzak Mix)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "403",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=jMG99I5Y6ng",
+                    "description": "",
+                    "title": "Matthias Tanzmann \u0026 Alexander Voigt - Lady Colt"
+                },
+                {
+                    "_duration": "4395",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=tUEoN_D8auU",
+                    "description": "Provided to YouTube by Kontor New Media GmbH\n\nErotic Moments In House Vol. 2 CD2 (mixed by Pete Moss) · Various Artists\n\nErotic Moments in House 2\n\n℗ Dessous Recordings\n\nReleased on: 2003-03-10\n\nArtist: Various Artists\nComposer: Diverse\nMusic  Publishe",
+                    "title": "Erotic Moments In House Vol. 2 CD2 (mixed by Pete Moss)"
+                },
+                {
+                    "_duration": "440",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=aLdo1lmSPDc",
+                    "description": "John Dahlbäck - Sleep Over [Dessous, 2003]",
+                    "title": "John Dahlbäck - Sleep Over [Dessous, 2003]"
+                },
+                {
+                    "_duration": "442",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=9MlnPBGZsAg",
+                    "description": "Deep track extract from the Dessous compilation Erotic Moments In The House Volume 2 / Dessous label / 2003 /",
+                    "title": "Controversy - Gabriel B."
+                },
+                {
+                    "_duration": "341",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=nj9W5h2Zyes",
+                    "description": "Untitled Orchestra - Return To Now [Dessous, 2003]",
+                    "title": "Untitled Orchestra - Return To Now [Dessous, 2003]"
+                },
+                {
+                    "_duration": "421",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=TjsxxWvOs_c",
+                    "description": "Mar/10/2003. Erotic Moments In House Vol. 2 2 × Vinyl, 12, Compilation  -  Dessous Recordings\nWritten-By, Producer – Bonsor, John Buckby",
+                    "title": "Jiago  -  Satisfy"
+                }
+            ]
+        }
+    }
+}

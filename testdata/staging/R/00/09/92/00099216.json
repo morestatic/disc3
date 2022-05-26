@@ -1,0 +1,237 @@
+{
+    "release": {
+        "_id": "99216",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "A.D.N.Y.",
+                "id": "50",
+                "join": "",
+                "name": "ADNY",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "26",
+                    "entity_type_name": "Produced At",
+                    "id": "279056",
+                    "name": "Minimum Studios NYC",
+                    "resource_url": "https://api.discogs.com/labels/279056"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "29",
+                    "entity_type_name": "Mastered At",
+                    "id": "199325",
+                    "name": "Frankford/Wayne Mastering Labs",
+                    "resource_url": "https://api.discogs.com/labels/199325"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "1690",
+                    "name": "SOCO Audio",
+                    "resource_url": "https://api.discogs.com/labels/1690"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "218737",
+                    "name": "STIM",
+                    "resource_url": "https://api.discogs.com/labels/218737"
+                }
+            ]
+        },
+        "country": "US",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "2754784",
+                    "join": "",
+                    "name": "Laurie Turner",
+                    "role": "Design, Photography By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "GSV",
+                    "id": "316801",
+                    "join": "",
+                    "name": "Greg Vaughn",
+                    "role": "Mastered By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "26",
+                    "join": "",
+                    "name": "Alexi Delano",
+                    "role": "Written-By, Producer",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "EP",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Side A Runout",
+                    "_type": "Matrix / Runout",
+                    "_value": "SOCO - 003 - A F/W GSV"
+                },
+                {
+                    "_description": "Side B Runout",
+                    "_type": "Matrix / Runout",
+                    "_value": "SOCO - 003 - B F/W GSV"
+                },
+                {
+                    "_type": "Rights Society",
+                    "_value": "ASCAP"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "597",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "595",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "592",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "599",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "SOCO 003",
+                "_id": "1690",
+                "_name": "SOCO Audio"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "1497946"
+        },
+        "notes": "Written and produced at minimumstudios, NYC.",
+        "released": "2002",
+        "styles": {
+            "style": [
+                "House",
+                "Tech House"
+            ]
+        },
+        "title": "Everything Connected E.P.",
+        "tracklist": {
+            "track": [
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "A.D.N.Y.",
+                            "id": "50",
+                            "join": "",
+                            "name": "ADNY",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "A1",
+                    "title": "Solitary Dialogue"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "A.D.N.Y.",
+                            "id": "50",
+                            "join": "",
+                            "name": "ADNY",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "A2",
+                    "title": "Still In Motion"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "5383",
+                            "join": "",
+                            "name": "Eddie Richards",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "A.D.N.Y.",
+                            "id": "50",
+                            "join": "",
+                            "name": "ADNY",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "B1",
+                    "title": "Someday (A.D.N.Y. Need You Mix)"
+                }
+            ]
+        },
+        "videos": {
+            "video": {
+                "_duration": "368",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=d0RNqfJfa0Y",
+                "description": "*",
+                "title": "Eddie Richards ~ Someday (A.N.D.Y. Need You Mix)123/bpm"
+            }
+        }
+    }
+}

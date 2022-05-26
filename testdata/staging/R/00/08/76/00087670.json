@@ -1,0 +1,169 @@
+{
+    "release": {
+        "_id": "87670",
+        "_status": "Accepted",
+        "artists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "4389",
+                    "join": "Featuring",
+                    "name": "CZR",
+                    "role": "",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "10876",
+                    "join": "",
+                    "name": "Alexander East",
+                    "role": "",
+                    "tracks": ""
+                }
+            ]
+        },
+        "companies": "",
+        "country": "US",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "4389",
+                    "join": "",
+                    "name": "CZR",
+                    "role": "Producer, Mixed By, Arranged By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "10876",
+                    "join": "",
+                    "name": "Alexander East",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "548965",
+                    "join": "",
+                    "name": "Cesar Hernandez",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "12\""
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "113",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "MDR9652-1",
+                "_id": "20",
+                "_name": "Moody Recordings"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "703133"
+        },
+        "released": "2002-00-00",
+        "styles": {
+            "style": [
+                "House",
+                "Deep House"
+            ]
+        },
+        "title": "Take Me Higher",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A",
+                    "title": "Take Me Higher (Vocal Mix)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "10876",
+                            "join": "",
+                            "name": "Alexander East",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "B1",
+                    "title": "Take Me Higher (Alexander East Dub Mix)"
+                },
+                {
+                    "duration": "",
+                    "position": "B2",
+                    "title": "Take Me Higher  (Instrumental Dub)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "412",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=xx9qS3mnWh0",
+                    "description": "Chicago House Music Festival Presents: http://restrictedradio.com/",
+                    "title": "CZR Feat. Alexander East-Take Me Higher"
+                },
+                {
+                    "_duration": "381",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=ATkps-9bInc",
+                    "description": "Uplifting House music",
+                    "title": "CZR Featuring Alexander East  Take Me Higher Instrumental Dub"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,202 @@
+{
+    "release": {
+        "_id": "161185",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "20306",
+                "join": "",
+                "name": "Houdini",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": {
+                "catno": "",
+                "entity_type": "17",
+                "entity_type_name": "Pressed By",
+                "id": "291931",
+                "name": "CD Plant MFG",
+                "resource_url": "https://api.discogs.com/labels/291931"
+            }
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "30350",
+                    "join": "",
+                    "name": "Christian Linder",
+                    "role": "Written-By",
+                    "tracks": "5, 9, 10"
+                },
+                {
+                    "anv": "",
+                    "id": "35695",
+                    "join": "",
+                    "name": "Simon Ellis",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Limited Edition",
+                        "Album"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "CD PLANT MFG PS 08/38 CDM01"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "599"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PS 08/38",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "This World Is a Will to Power and Nothing Besides\r\n\r\nHOUDINI\r\nDüsseldorf 1994\r\n\r\nVery special thanks to:\r\n\r\nIris (for all her support and patience)\r\n\r\nLimitation: 500",
+        "released": "1994-03-07",
+        "styles": {
+            "style": [
+                "Trance",
+                "Acid",
+                "House"
+            ]
+        },
+        "title": "Houdini",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "8:55",
+                    "position": "1",
+                    "title": "Braincloud"
+                },
+                {
+                    "duration": "12:19",
+                    "position": "2",
+                    "title": "Iris"
+                },
+                {
+                    "duration": "5:45",
+                    "position": "3",
+                    "title": "What In The World Is Going On ?"
+                },
+                {
+                    "duration": "5:43",
+                    "position": "4",
+                    "title": "Aurora"
+                },
+                {
+                    "duration": "6:38",
+                    "position": "5",
+                    "title": "Neural Deception"
+                },
+                {
+                    "duration": "5:54",
+                    "position": "6",
+                    "title": "Red Dwarf"
+                },
+                {
+                    "duration": "6:50",
+                    "position": "7",
+                    "title": "Too Late"
+                },
+                {
+                    "duration": "5:23",
+                    "position": "8",
+                    "title": "Don't Know Really"
+                },
+                {
+                    "duration": "5:37",
+                    "position": "9",
+                    "title": "Beyond Recognition"
+                },
+                {
+                    "duration": "5:07",
+                    "position": "10",
+                    "title": "Strange ?"
+                },
+                {
+                    "duration": "4:46",
+                    "position": "11",
+                    "title": "My House"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "739",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=dPspTIumyBY",
+                    "description": "Houdini -  Iris [Houdini EP] (1994)\n\nAlbum: Houdini\nSello: Fax +49-69/450464 ‎– PS 08/38\nFormato: CD, Limited Edition, Album\nPaís: Germany\nPublicado: 07 Mar 1994\nGénero: Electronic\nEstilo: Trance, Acid, House\n\nWritten-By –  Simon Ellis\n\nBuy it and",
+                    "title": "Houdini -  Iris [FAX Records] (1994)"
+                },
+                {
+                    "_duration": "534",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=aHdkIddbctE",
+                    "description": "Houdini - Braincloud  [Houdini EP] (1994)\n\nAlbum: Houdini\nSello: Fax +49-69/450464 ‎– PS 08/38\nFormato: CD, Limited Edition, Album\nPaís: Germany\nPublicado: 07 Mar 1994\nGénero: Electronic\nEstilo: Trance, Acid, House\n\nWritten-By –  Simon Ellis\n\nBuy",
+                    "title": "Houdini - Braincloud [FAX Records] (1994)"
+                },
+                {
+                    "_duration": "356",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Pg_OCtdMaq8",
+                    "description": "Label:\nFax +49-69/450464 ‎– PS 08/38\nFormat:\nCD, Limited Edition, Album\nCountry:\nGermany\nReleased:\n07 Mar 1994\nGenre:\nElectronic\nStyle:\nTrance\n\nhttps://www.discogs.com/Houdini-Houdini/release/161185\n\nVisuals\namandio c - future engines - mess\n.",
+                    "title": "Houdini - Red Dwarf  🇬🇧"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,220 @@
+{
+    "release": {
+        "_id": "16628",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "Move D - Namlook",
+                "id": "293206",
+                "join": "",
+                "name": "Move D / Namlook",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "265055",
+                    "name": "reSource Heidelberg",
+                    "resource_url": "https://api.discogs.com/labels/265055"
+                },
+                {
+                    "catno": "30724",
+                    "entity_type": "10",
+                    "entity_type_name": "Manufactured By",
+                    "id": "277449",
+                    "name": "P+O Pallas",
+                    "resource_url": "https://api.discogs.com/labels/277449"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "2118078",
+                    "join": "",
+                    "name": "PEK (3)",
+                    "role": "Graphics",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "152",
+                    "join": "",
+                    "name": "David Moufang",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "58657",
+                    "join": "",
+                    "name": "Peter Kuhlmann",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "152",
+                    "join": "",
+                    "name": "David Moufang",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "PK 08/121  P+O-30724-A2  10-96"
+                },
+                {
+                    "_type": "Mould SID Code",
+                    "_value": "IFPI 2S07"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "587",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "465",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "295",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "500",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                },
+                {
+                    "_height": "500",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/121",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "298660"
+        },
+        "notes": "Recorded live at reSource, Heidelberg on September, 18th 1996.\r\nLimited to 1000 copies\r\n\r\nRelease in the US: 10/14/1996",
+        "released": "1996-11-28",
+        "styles": {
+            "style": [
+                "House",
+                "Ambient"
+            ]
+        },
+        "title": "Exploring The Psychedelic Landscape",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "11:21",
+                    "position": "1",
+                    "title": "Giant Mushroom"
+                },
+                {
+                    "duration": "16:59",
+                    "position": "2",
+                    "title": "Drop Kick"
+                },
+                {
+                    "duration": "16:38",
+                    "position": "3",
+                    "title": "Floor"
+                },
+                {
+                    "duration": "6:23",
+                    "position": "4",
+                    "title": "Saucerful"
+                },
+                {
+                    "duration": "13:39",
+                    "position": "5",
+                    "title": "Coda"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "3907",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=tX8a_q8sZY8",
+                    "description": "first of the Move D • Namlook series\nreleased 1996\ntracklist:\nGiant Mushroom     11:21\nDrop Kick     16:59\nFloor     16:38\nSaucerful     6:23\nCoda  13:39",
+                    "title": "Move D • Namlook - Exploring the Psychedelic Landscape (full album)"
+                },
+                {
+                    "_duration": "1022",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=asLj4wfeVwI",
+                    "description": "Taken from Exploring The Psychedelic Landscape (Fax +49-69/450464 - PK 08/121).\nhttp://www.beatport.com/release/exploring-the-psychedelic-landscape/45525\nhttps://itunes.apple.com/us/album/exploring-psychedelic-landscape/id41998300\nhttp://www.discogs.com",
+                    "title": "Move D / Namlook - Drop Kick"
+                }
+            ]
+        }
+    }
+}

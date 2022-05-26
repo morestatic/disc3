@@ -1,0 +1,189 @@
+{
+    "release": {
+        "_id": "49479",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "2912",
+                "join": "",
+                "name": "Dreamfish",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": {
+                "catno": "",
+                "entity_type": "10",
+                "entity_type_name": "Manufactured By",
+                "id": "291931",
+                "name": "CD Plant MFG",
+                "resource_url": "https://api.discogs.com/labels/291931"
+            }
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "41714",
+                    "join": "",
+                    "name": "Charles Uzzell-Edwards",
+                    "role": "Graphics",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "3985",
+                    "join": "",
+                    "name": "Mixmaster Morris",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "CD PLANT MFG PW 16 CDM01"
+                },
+                {
+                    "_type": "Mould SID Code",
+                    "_value": "ifpi 8406"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "595",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "466",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "601",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "593",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "593",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "598",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "296",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PW 16",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "32127"
+        },
+        "notes": "Dreamfish\r\nFrankfurt 1994\r\n\r\n\"This is the dawning of the age of aquariums\"\r\n\r\nSpecial thanks to: Elizabeth / Fabia / Kathrin / Ludwig Rehberg of EMS / Russel \u0026 Sarah / Robin Rimbaud / Telepathic Fish\r\n\r\nLimited to 2000 copies.",
+        "released": "1995-10-23",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Downtempo"
+            ]
+        },
+        "title": "Dreamfish 2",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "24:33",
+                    "position": "1",
+                    "title": "Aquarium"
+                },
+                {
+                    "duration": "12:03",
+                    "position": "2",
+                    "title": "Caviar"
+                },
+                {
+                    "duration": "24:23",
+                    "position": "3",
+                    "title": "Submerge"
+                }
+            ]
+        },
+        "videos": {
+            "video": {
+                "_duration": "3664",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=5yoi2VAZP8Q",
+                "description": "Pete Namlook \u0026 Mixmaster Norris - Dreamfish 2\n\n1. Aquarium (00:00)\n2. Caviar  (24:33)\n3. Submerge (36:37)\n\nWritten by – Mixmaster Morris, Pete Namlook",
+                "title": "Pete Namlook \u0026 Mixmaster Morris - Dreamfish 2 [full album]"
+            }
+        }
+    }
+}

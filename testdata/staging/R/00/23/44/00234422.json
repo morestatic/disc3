@@ -1,0 +1,249 @@
+{
+    "release": {
+        "_id": "234422",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "38287",
+                "join": "",
+                "name": "Transonic",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "277133",
+                    "name": "Greenpoint Studios",
+                    "resource_url": "https://api.discogs.com/labels/277133"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "27",
+                    "entity_type_name": "Mixed At",
+                    "id": "277133",
+                    "name": "Greenpoint Studios",
+                    "resource_url": "https://api.discogs.com/labels/277133"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "31",
+                    "entity_type_name": "Glass Mastered At",
+                    "id": "267946",
+                    "name": "CD Plant AB",
+                    "resource_url": "https://api.discogs.com/labels/267946"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "661",
+                    "join": "",
+                    "name": "Bill Laswell",
+                    "role": "Bass",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "82929",
+                    "join": "",
+                    "name": "Umar Bin Hassan",
+                    "role": "Words By",
+                    "tracks": "3"
+                },
+                {
+                    "anv": "",
+                    "id": "13227",
+                    "join": "",
+                    "name": "Robert Musso",
+                    "role": "Written-By, Producer [Produced By], Guitar [Guitars], Sampler [Samplers], Effects [Processing]",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Limited Edition",
+                        "Album"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "CD PLANT AB PS 08/81 CDM01"
+                },
+                {
+                    "_type": "Mould SID Code",
+                    "_value": "ifpi 8408"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "479",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "610",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "611",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "608",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "614",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PS 08/81",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Recorded at Greenpoint Studio New York (on tray card).\n\nLimitation: 1000",
+        "released": "1995-10-09",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Downtempo",
+                "Dub"
+            ]
+        },
+        "title": "Transonic 3 - \"Future Primitive\"",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "7:48",
+                    "position": "1",
+                    "title": "Future Whispers"
+                },
+                {
+                    "duration": "8:53",
+                    "position": "2",
+                    "title": "Wandering Star"
+                },
+                {
+                    "duration": "7:16",
+                    "position": "3",
+                    "title": "Gone Beyond"
+                },
+                {
+                    "duration": "9:04",
+                    "position": "4",
+                    "title": "Flow Cycle"
+                },
+                {
+                    "duration": "7:16",
+                    "position": "5",
+                    "title": "Astral Isolation"
+                },
+                {
+                    "duration": "9:23",
+                    "position": "6",
+                    "title": "Fields Of Air"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "468",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=pwaIcqCcY0s",
+                    "description": "Provided to YouTube by The Orchard Enterprises\n\nFuture Whispers · Transonic · Robert Musso · Bill Laswell\n\nFuture Primitive\n\n℗ 2010 MussoMusic.com\n\nReleased on: 2007-09-01\n\nContributor: Robert Musso\nContributor: Robert Musso\nProducer: Robert Musso\nMu",
+                    "title": "Future Whispers"
+                },
+                {
+                    "_duration": "534",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=aYPpHZvAn24",
+                    "description": "Provided to YouTube by The Orchard Enterprises\n\nWandering Star · Robert Musso · Transonic · Bill Laswell\n\nFuture Primitive\n\n℗ 2010 MussoMusic.com\n\nReleased on: 2007-09-01\n\nContributor: Robert Musso\nContributor: Robert Musso\nProducer: Robert Musso\nMus",
+                    "title": "Wandering Star"
+                },
+                {
+                    "_duration": "437",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=PN_RgAOL6T0",
+                    "description": "Provided to YouTube by The Orchard Enterprises\n\nGone Beyond · Robert Musso · Bill Laswell · Transonic\n\nFuture Primitive\n\n℗ 2010 MussoMusic.com\n\nReleased on: 2007-09-01\n\nContributor: Robert Musso\nContributor: Robert Musso\nProducer: Robert Musso\nMusic",
+                    "title": "Gone Beyond"
+                },
+                {
+                    "_duration": "442",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=liugf6M1jbU",
+                    "description": "http://www.discogs.com/Transonic-Transonic-3-Future-Primitive/release/234422\n\r\n\r-uploaded in HD at http://www.TunesToTube.com",
+                    "title": "Transonic - Flow Cycle (Ambient 1995)"
+                },
+                {
+                    "_duration": "436",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=8r9wNZ0nqyA",
+                    "description": "Provided to YouTube by The Orchard Enterprises\n\nAstral Isolation · Bill Laswell · Transonic · Robert Musso\n\nFuture Primitive\n\n℗ 2010 MussoMusic.com\n\nReleased on: 2007-09-01\n\nContributor: Robert Musso\nContributor: Robert Musso\nProducer: Robert Musso\nM",
+                    "title": "Astral Isolation"
+                },
+                {
+                    "_duration": "563",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=TySJsT4PDCE",
+                    "description": "Provided to YouTube by The Orchard Enterprises\n\nFields Of Air · Bill Laswell · Robert Musso · Transonic\n\nFuture Primitive\n\n℗ 2010 MussoMusic.com\n\nReleased on: 2007-09-01\n\nContributor: Robert Musso\nContributor: Robert Musso\nProducer: Robert Musso\nMusi",
+                    "title": "Fields Of Air"
+                }
+            ]
+        }
+    }
+}

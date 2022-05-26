@@ -1,0 +1,260 @@
+{
+    "release": {
+        "_id": "49617",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "PercyX",
+                "id": "20",
+                "join": "",
+                "name": "Percy X",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "UK",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "2915499",
+                    "join": "",
+                    "name": "Acab23",
+                    "role": "Artwork By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "340794",
+                    "join": "",
+                    "name": "David Donaldson",
+                    "role": "Engineer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "20",
+                    "join": "",
+                    "name": "Percy X",
+                    "role": "Producer, Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "2",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "LP",
+                        "Album"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_description": "Text",
+                "_type": "Barcode",
+                "_value": "7 96122 10211 0"
+            }
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "220",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "220"
+                },
+                {
+                    "_height": "589",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "585"
+                },
+                {
+                    "_height": "590",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "585"
+                },
+                {
+                    "_height": "592",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "585"
+                },
+                {
+                    "_height": "587",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "585"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "soma LP21",
+                "_id": "18",
+                "_name": "Soma Quality Recordings"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "37378"
+        },
+        "released": "2000",
+        "styles": {
+            "style": [
+                "Techno",
+                "Electro"
+            ]
+        },
+        "title": "Gain",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A1",
+                    "title": "Interlink"
+                },
+                {
+                    "duration": "",
+                    "position": "A2",
+                    "title": "Break It Down"
+                },
+                {
+                    "duration": "",
+                    "position": "B1",
+                    "title": "Maintain"
+                },
+                {
+                    "duration": "",
+                    "position": "B2",
+                    "title": "Quok"
+                },
+                {
+                    "duration": "",
+                    "position": "C1",
+                    "title": "By Night"
+                },
+                {
+                    "duration": "",
+                    "position": "C2",
+                    "title": "Gain"
+                },
+                {
+                    "duration": "",
+                    "position": "D1",
+                    "title": "U Know What It Is"
+                },
+                {
+                    "duration": "",
+                    "position": "D2",
+                    "title": "Track 2"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "227",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=fCZO2O4zrVk",
+                    "description": "Provided to YouTube by Pias UK Limited\n\nInterlink · Percy X\n\nGain\n\n℗ 2000 Soma\n\nReleased on: 2000-10-02\n\nMixer: Tony Scott\nProducer: Tony Scott\nComposer: Tony Scott\nLyricist: Tony Scott\n\nAuto-generated by YouTube.",
+                    "title": "Interlink"
+                },
+                {
+                    "_duration": "342",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=lv33s9PLfds",
+                    "description": "Provided to YouTube by Pias UK Limited\n\nBreak It Down · Percy X\n\nBreak It Down\n\n℗ 2000 Soma\n\nReleased on: 2000-09-11\n\nMixer: Tony Scott\nProducer: Tony Scott\nComposer: Tony Scott\nLyricist: Tony Scott\nMusic Publisher: SPG Publishing UK Ltd\n\nAuto-generate",
+                    "title": "Break It Down"
+                },
+                {
+                    "_duration": "559",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=umXcPDGZABc",
+                    "description": "Released 2000 on Soma Recordings as\nPercy X - Gain (2 EP Album) [SOMA LP21]",
+                    "title": "Percy X - Maintain"
+                },
+                {
+                    "_duration": "334",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=3W_0B0GmIMA",
+                    "description": "Provided to YouTube by Pias UK Limited\n\nQuok · Percy X\n\nGain\n\n℗ 2000 Soma\n\nReleased on: 2000-10-02\n\nMixer: Tony Scott\nProducer: Tony Scott\nComposer: Tony Scott\nLyricist: Tony Scott\n\nAuto-generated by YouTube.",
+                    "title": "Quok"
+                },
+                {
+                    "_duration": "419",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=y2aU7mh6C6w",
+                    "description": "Support the artist, buy the record!",
+                    "title": "Percy X - Gain"
+                },
+                {
+                    "_duration": "477",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=X5jv6tTQNNc",
+                    "description": "Gain EP\nSello: Soma Quality Recordings ‎– soma LP21 https://www.discogs.com/es/label/18-Soma-Quality-Recordings\nFormato: 2 × Vinyl, LP, Album\nPaís: UK\nFecha: 2000 \nGenre: Electronic\nStyle: Techno\nTrack Info (Discogs): https://www.discogs.com/es/Perc",
+                    "title": "Percy X - U know what it is"
+                },
+                {
+                    "_duration": "328",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=5EwROQqIdOQ",
+                    "description": "Label: Soma Quality Recordings - UK - 2000\nAlbum: Percy X - Gain \nArtist: Percy X - Scotland\n\nTracklist:\n\n01 Interlink\n02 Break It Down\n03 Maintain\n04 Gain\n05 Whatever When Ever\n06 Quok\n07 You Know What It Is\n08 By Night\n09 Seven Zeros\n10 Track 2",
+                    "title": "Percy X - Track 2"
+                },
+                {
+                    "_duration": "155",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=kaL1eAxvaOo",
+                    "description": "Percy X - Gain EP - Sampler",
+                    "title": "Percy X - Gain EP - Sampler"
+                },
+                {
+                    "_duration": "407",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=trz4nR-4_bM",
+                    "description": "http://www.discogs.com/Percy-X-Gain-EP/release/17437",
+                    "title": "Percy X - Gain - 2001 [Techno]"
+                },
+                {
+                    "_duration": "408",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=2AUwix7Ds3U",
+                    "description": "http://www.discogs.com/Percy-X-Gain-EP/master/37379\nPercy X ‎- Gain EP\nLabel: Soma Quality Recordings\nGenre: Electronic\nStyle: Techno\nYear: 2001\n\nLike it? Buy it from here: http://www.beatport.com/track/find-yourself-original-mix/297023",
+                    "title": "Percy X - Find Yourself"
+                },
+                {
+                    "_duration": "409",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=eAklIbqcSq0",
+                    "description": "Support the artist, buy the record!",
+                    "title": "Percy X - By Night"
+                },
+                {
+                    "_duration": "388",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=NPOagaTkW5U",
+                    "description": "Whatever when ever (Gain) - Percy X\n\n..a beautiful track for mental trips",
+                    "title": "Whatever when ever - Percy X"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "release": {
+        "_id": "200174",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "47682",
+                "join": "",
+                "name": "Sad World",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "Germany",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "8521",
+                    "join": "",
+                    "name": "Dr. Atmo",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "Ramin",
+                    "id": "62865",
+                    "join": "",
+                    "name": "Ramin Naghachian",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "45 RPM",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PS 08/21",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "1783863"
+        },
+        "notes": "Limitation: 500",
+        "released": "1993-05-03",
+        "styles": {
+            "style": "Ambient"
+        },
+        "title": "Sad World",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "5:10",
+                    "position": "A",
+                    "title": "Apadana"
+                },
+                {
+                    "duration": "10:10",
+                    "position": "B",
+                    "title": "Terasury"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "610",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=9-j0R-43iZs",
+                    "description": "Released on the Sad World Album, 1993\nMusic by Dr Atmo (Amir Abadi) and Ramin Naghachian \nVideo: Abstructure",
+                    "title": "Sad World - Terasury"
+                },
+                {
+                    "_duration": "324",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=5trVt5hpJSQ",
+                    "description": "Music : Sad World ( Dr. Atmo alias Amir Abadi \u0026 Ramin Naghachian ) - Apadana\nLabel : Fax +49-69/450464  \nVideo : Persepolis Recreated, produced by Sunrise Film Co.\nVideocut : Jim Bean http://www.facebook.com/JimBeanClassics",
+                    "title": "Sad World - Apadana"
+                }
+            ]
+        }
+    }
+}

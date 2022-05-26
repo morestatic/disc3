@@ -1,0 +1,169 @@
+{
+    "release": {
+        "_id": "471",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "50",
+                "join": "",
+                "name": "ADNY",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "Canada",
+        "data_quality": "Correct",
+        "extraartists": "",
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "Maxi-Single"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "598",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "TURBO-001",
+                "_id": "242",
+                "_name": "Turbo"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "4389"
+        },
+        "released": "2000-00-00",
+        "styles": {
+            "style": [
+                "House",
+                "Deep House"
+            ]
+        },
+        "title": "Dreaming (Dahlbäck And Hulkkonen Remixes)",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "5:55",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "239",
+                            "join": "",
+                            "name": "Jesper Dahlbäck",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "A",
+                    "title": "Dreaming (Dahlbäck Remix)"
+                },
+                {
+                    "duration": "7:01",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "739",
+                            "join": "",
+                            "name": "Jori Hulkkonen",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "B1",
+                    "title": "Dreaming (Hulkkonen Remix)"
+                },
+                {
+                    "duration": "5:11",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "739",
+                            "join": "",
+                            "name": "Jori Hulkkonen",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "B2",
+                    "title": "Dreaming (Hulkkonen Dub)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "371",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=haSgWDTkPFE",
+                    "description": "https://www.discogs.com/ADNY-Dreaming-Dahlbäck-And-Hulkkonen-Remixes/release/471\n\nADNY - Dreaming ( Jesper Dahlbäck Remix )",
+                    "title": "ADNY - Dreaming ( Jesper Dahlbäck Remix )"
+                },
+                {
+                    "_duration": "360",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=6x17kmj27vU",
+                    "description": "ADNY - Dreaming (Jesper Dahlback Remix) [Turbo, 2000]",
+                    "title": "ADNY - Dreaming (Jesper Dahlback Remix) [Turbo, 2000]"
+                },
+                {
+                    "_duration": "431",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=vOzDs605MbY",
+                    "description": "https://www.discogs.com/ADNY-Dreaming-Dahlbäck-And-Hulkkonen-Remixes/release/471\r\n\r\nADNY - Dreaming ( Jori Hulkonnen Remix )\n\r\n\r-Video Upload powered by https://www.TunesToTube.com",
+                    "title": "ADNY - Dreaming ( Jori Hulkonnen Remix )"
+                },
+                {
+                    "_duration": "326",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=mjOoCeMWe-U",
+                    "description": "https://www.discogs.com/ADNY-Dreaming-Dahlbäck-And-Hulkkonen-Remixes/release/471\n\nADNY - Dreaming ( Jori Hulkonnen Dub )",
+                    "title": "ADNY - Dreaming ( Jori Hulkonnen Dub )"
+                },
+                {
+                    "_duration": "228",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=XtWRhPt_m5M",
+                    "description": "No copyright intended, embedding has been disabled, and no problems should result.\r\n\r\nDisclaimer: I do not produce/own any material relating to the music/photo in this post. If the owner does not wish to have their items on display, please contact me and",
+                    "title": "#58 A.D.N.Y. - Dreaming (Hulkkonen dub)"
+                }
+            ]
+        }
+    }
+}

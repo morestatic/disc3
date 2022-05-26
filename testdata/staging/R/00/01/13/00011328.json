@@ -1,0 +1,146 @@
+{
+    "release": {
+        "_id": "11328",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "11174",
+                "join": "",
+                "name": "The Funk Parlor",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "US",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "103037",
+                    "join": "",
+                    "name": "Disco (3)",
+                    "role": "Keyboards",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "4389",
+                    "join": "",
+                    "name": "CZR",
+                    "role": "Producer, Mixed By, Arranged By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "12\""
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "1000",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "483"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "MDR9603-1",
+                "_id": "20",
+                "_name": "Moody Recordings"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "1058900"
+        },
+        "notes": "(C) 1999 Moody Recordings\r\nPublished by Mixcon Music (ASCAP).\r\nManufactured \u0026 distributed by Mix Connection Multimedia.\r\n\r\n\"Something for the Dancefloor\" contains a sample of \"Burn\" performed by Michelle Weeks, courtesy of Dance Baby Records. Co-written by Dean Landew.",
+        "released": "1999-00-00",
+        "styles": {
+            "style": [
+                "House",
+                "Deep House",
+                "Disco"
+            ]
+        },
+        "title": "Something For The Dancefloor",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "103037",
+                            "join": "",
+                            "name": "Disco (3)",
+                            "role": "Co-producer",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "A",
+                    "title": "Something For The Dancefloor (Original Flava)"
+                },
+                {
+                    "duration": "",
+                    "position": "B",
+                    "title": "Something For The Dancefloor (Undergroundiscofunk Rmx)"
+                }
+            ]
+        },
+        "videos": {
+            "video": {
+                "_duration": "557",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=ja-QWt7QHAc",
+                "description": "",
+                "title": "The Funk Parlor - Something For The Dancefloor (Undergroundiscofunk Rmx) (1999)"
+            }
+        }
+    }
+}

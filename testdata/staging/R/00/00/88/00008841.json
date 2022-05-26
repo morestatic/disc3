@@ -1,0 +1,195 @@
+{
+    "release": {
+        "_id": "8841",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "62",
+                "join": "",
+                "name": "John Tejada",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "314115",
+                    "name": "Parallax Muzik",
+                    "resource_url": "https://api.discogs.com/labels/314115"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "9",
+                    "entity_type_name": "Distributed By",
+                    "id": "199013",
+                    "name": "Integrale Muzique Limited",
+                    "resource_url": "https://api.discogs.com/labels/199013"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "17",
+                    "entity_type_name": "Pressed By",
+                    "id": "56025",
+                    "name": "MPO",
+                    "resource_url": "https://api.discogs.com/labels/56025"
+                }
+            ]
+        },
+        "country": "US",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "384377",
+                    "join": "",
+                    "name": "Mandy Parnell",
+                    "role": "Mastered By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "2591950",
+                    "join": "",
+                    "name": "Chris Woodcock (2)",
+                    "role": "Photography By [Uncredited]",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Rights Society",
+                    "_value": "BMI"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "MPO PAL 009 A1"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "MPO PAL 009 B1"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "599",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "599"
+                },
+                {
+                    "_height": "599",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "599"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "009",
+                "_id": "30",
+                "_name": "Palette Recordings"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "309715"
+        },
+        "released": "1999",
+        "styles": {
+            "style": [
+                "Techno",
+                "Tech House",
+                "Electro"
+            ]
+        },
+        "title": "Watching And Waiting",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A1",
+                    "title": "Stealth Mission"
+                },
+                {
+                    "duration": "",
+                    "position": "A2",
+                    "title": "Watching And Waiting"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "160",
+                            "join": "",
+                            "name": "Arian Leviste",
+                            "role": "Co-producer",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "B1",
+                    "title": "Re-fill"
+                },
+                {
+                    "duration": "",
+                    "position": "B2",
+                    "title": "Daydreaming Disaster"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "295",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Nj4JtVAnhIo",
+                    "description": "John Tejada ‎– Watching And Waiting\nPalette Recordings 009\ntechno 1999",
+                    "title": "john tejada  -stealth mission"
+                },
+                {
+                    "_duration": "355",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=G6m6e7jsP-k",
+                    "description": "Watching And Waiting / Palette Recordings  / United States\n\nhttps://www.discogs.com/fr/John-Tejada-Watching-And-Waiting/master/309715\n\nEverything is uploaded to promote music and artists themselves, please contact me for any copyright claim.",
+                    "title": "John Tejada - Watching And Waiting [1999]"
+                },
+                {
+                    "_duration": "237",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=ubjp-9d6B1s",
+                    "description": "Label: Palette Recordings\n\nReleased: 1999\nGenre: Electronic\nStyle: Techno, Tech House",
+                    "title": "John Tejada - Re-Fill (Arian Leviste)"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,204 @@
+{
+    "release": {
+        "_id": "65066",
+        "_status": "Accepted",
+        "artists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "20",
+                    "join": "Presents",
+                    "name": "Percy X",
+                    "role": "",
+                    "tracks": ""
+                },
+                {
+                    "anv": "Short Fiction",
+                    "id": "72791",
+                    "join": "",
+                    "name": "Shortfiction",
+                    "role": "",
+                    "tracks": ""
+                }
+            ]
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "295038",
+                    "name": "Soma Music",
+                    "resource_url": "https://api.discogs.com/labels/295038"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "10",
+                    "entity_type_name": "Manufactured By",
+                    "id": "245",
+                    "name": "R \u0026 S Records",
+                    "resource_url": "https://api.discogs.com/labels/245"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "8",
+                    "entity_type_name": "Marketed By",
+                    "id": "245",
+                    "name": "R \u0026 S Records",
+                    "resource_url": "https://api.discogs.com/labels/245"
+                }
+            ]
+        },
+        "country": "Belgium",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "20",
+                    "join": "",
+                    "name": "Percy X",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "C. Cowie",
+                    "id": "2341",
+                    "join": "",
+                    "name": "Chris Cowie",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "T. Scott",
+                    "id": "529343",
+                    "join": "",
+                    "name": "Tony Scott (4)",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Rights Society",
+                    "_value": "Sabam Biem"
+                },
+                {
+                    "_type": "Barcode",
+                    "_value": "5411659 701517"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "(Runout Side A): GEN 015 A I"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "(Runout Side B): GEN 015 B I"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "599",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "598"
+                },
+                {
+                    "_height": "578",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "594",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "GEN 015",
+                "_id": "7535",
+                "_name": "Generations"
+            }
+        },
+        "released": "1997",
+        "styles": {
+            "style": [
+                "Techno",
+                "Tech House"
+            ]
+        },
+        "title": "Freeview Preview",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A1",
+                    "title": "Freeview Preview"
+                },
+                {
+                    "duration": "",
+                    "position": "B1",
+                    "title": "Feisar"
+                },
+                {
+                    "duration": "",
+                    "position": "B2",
+                    "title": "Late Night Special"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "501",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Ql_O4iW9KZc",
+                    "description": "Written By, Producer: Anthony Scott MacKinnon\nhttps://www.somarecords.com/artists/percyx",
+                    "title": "Percy X Presents 'Shortfiction' - Freview Preview [1997]"
+                },
+                {
+                    "_duration": "421",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=2ZQCH-_AxIo",
+                    "description": "http://www.discogs.com/Percy-X-Presents-Short-Fiction-Freeview-Preview/release/65066",
+                    "title": "Percy X - Feisar"
+                },
+                {
+                    "_duration": "416",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=6Uc0v4CRT_I",
+                    "description": "http://www.discogs.com/Percy-X-Presents-Short-Fiction-Freeview-Preview/release/65066",
+                    "title": "Percy X - Late Night Special"
+                }
+            ]
+        }
+    }
+}

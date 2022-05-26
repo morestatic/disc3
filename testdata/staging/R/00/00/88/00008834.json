@@ -1,0 +1,120 @@
+{
+    "release": {
+        "_id": "8834",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "62",
+                "join": "",
+                "name": "John Tejada",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "US",
+        "data_quality": "Needs Vote",
+        "extraartists": "",
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": {
+                "_height": "523",
+                "_type": "secondary",
+                "_uri": "",
+                "_uri150": "",
+                "_width": "550"
+            }
+        },
+        "labels": {
+            "label": {
+                "_catno": "001",
+                "_id": "30",
+                "_name": "Palette Recordings"
+            }
+        },
+        "released": "1996-00-00",
+        "styles": {
+            "style": "Tech House"
+        },
+        "title": "Waxing",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "",
+                    "title": "Top Side"
+                },
+                {
+                    "duration": "",
+                    "position": "A1",
+                    "title": "Waxing"
+                },
+                {
+                    "duration": "",
+                    "position": "A2",
+                    "title": "Synth Ethic"
+                },
+                {
+                    "duration": "",
+                    "position": "",
+                    "title": "Bottom Side"
+                },
+                {
+                    "duration": "",
+                    "position": "B1",
+                    "title": "Terrain"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "160",
+                            "join": "",
+                            "name": "Arian Leviste",
+                            "role": "Co-producer",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "B2",
+                    "title": "Liquid"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "353",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=mR_71cLUl_E",
+                    "description": "http://www.discogs.com/John-Tejada-Waxing/release/8834",
+                    "title": "John Tejada - Liquid.wmv"
+                },
+                {
+                    "_duration": "295",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=qfVptnR0_zM",
+                    "description": "https://www.discogs.com/John-Tejada-Waxing/release/8834\n\nPromotional Use Only. All Rights belong to their respective owners.",
+                    "title": "John Tejada - Synth Ethic"
+                }
+            ]
+        }
+    }
+}

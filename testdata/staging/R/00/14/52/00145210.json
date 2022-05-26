@@ -1,0 +1,132 @@
+{
+    "release": {
+        "_id": "145210",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "2952",
+                "join": "",
+                "name": "Rick Garcia",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "US",
+        "data_quality": "Needs Vote",
+        "extraartists": "",
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "12\""
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_description": "Scanned Barcode",
+                "_type": "Barcode",
+                "_value": "713405966214"
+            }
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "573",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "573"
+                },
+                {
+                    "_height": "575",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "573"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "MDR9662-1",
+                "_id": "20",
+                "_name": "Moody Recordings"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "164165"
+        },
+        "released": "2002",
+        "styles": {
+            "style": [
+                "House",
+                "Tribal",
+                "Latin"
+            ]
+        },
+        "title": "La Luz",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A",
+                    "title": "La Luz (Rick Garcia Original Mix)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "106291",
+                            "join": "",
+                            "name": "Blue Muse",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "B1",
+                    "title": "La Luz (Blue Muse Remix)"
+                },
+                {
+                    "duration": "",
+                    "position": "B2",
+                    "title": "La Luz (Tribal Whore Beat Remix)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "462",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=DJjXp2dfR7k",
+                    "description": "Song details:\nFrom: La Luz\nTrack: 1\nReleased: 2002\nGenre: Latin House\n\nMy thoughts:\nWell this is one hell of a pick. I've never really heard of this kind of Latin/Tribal-inspired House before but I dig it, this is really nice.\n\nI recorded this with an AT-",
+                    "title": "Rick Garcia - La Luz"
+                },
+                {
+                    "_duration": "447",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=QK-NZP6ceLo",
+                    "description": "Song details:\nFrom: La Luz\nTrack: 3\nRemix By: Rick Garcia\nReleased: 2002\nGenre: Tribal House\n\nMy thoughts:\nNice little remix. I do like the title of this remix not gonna lie lol.\n\nI recorded this with an AT-LP60XUSB.",
+                    "title": "Rick Garcia - La Luz (Tribal Whore Beat Remix)"
+                },
+                {
+                    "_duration": "437",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=MUsCjKOMJe4",
+                    "description": "Song details:\nFrom: La Luz\nTrack: 2\nReleased: 2002\nGenre: House\n\nMy thoughts:\nNice little remix. This mix has more of a focus on straight-up House compared to the original but still I like it.\n\nI recorded this with an AT-LP60XUSB.",
+                    "title": "Rick Garcia - La Luz (Blue Muse Remix)"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,223 @@
+{
+    "release": {
+        "_id": "44757",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "7192",
+                "join": "",
+                "name": "Remake",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "30",
+                    "entity_type_name": "Lacquer Cut At",
+                    "id": "158759",
+                    "name": "The Exchange",
+                    "resource_url": "https://api.discogs.com/labels/158759"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "17",
+                    "entity_type_name": "Pressed By",
+                    "id": "266587",
+                    "name": "Orlake Records",
+                    "resource_url": "https://api.discogs.com/labels/266587"
+                }
+            ]
+        },
+        "country": "UK",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "Simon",
+                    "id": "92821",
+                    "join": "",
+                    "name": "Simon Davey",
+                    "role": "Lacquer Cut By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "6428",
+                    "join": "",
+                    "name": "Chris \u0026 James",
+                    "role": "Remix",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM",
+                        "Single Sided",
+                        "Promo"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_description": "Side A runout, etched [Scratched out, SKINT 45 A]",
+                "_type": "Matrix / Runout",
+                "_value": "LOAD+40+A SIMON - THE EXCHANGE O"
+            }
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "596",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "592",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "606",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "603",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "LOAD 40 DJ",
+                "_id": "40",
+                "_name": "Loaded Records"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "false",
+            "content": "55455"
+        },
+        "notes": "Samples the soundtrack from the motion picture Blade Runner starring Harrison Ford.",
+        "released": "1996",
+        "styles": {
+            "style": [
+                "Progressive House",
+                "Progressive Trance"
+            ]
+        },
+        "title": "Bladerunner (The Director's Cut)",
+        "tracklist": {
+            "track": {
+                "duration": "11:08",
+                "position": "A",
+                "title": "Bladerunner (The Director's Cut) (Chris \u0026 James Remix)"
+            }
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "671",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=C31jJl7nsjs",
+                    "description": "https://www.discogs.com/Remake-Bladerunner-The-Directors-Cut/release/44757",
+                    "title": "Remake - Bladerunner (The Director's Cut) (Chris \u0026 James Remix)"
+                },
+                {
+                    "_duration": "333",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=TccPqUh_Bmc",
+                    "description": "Remake – Blade Runner  (1992)\n\nAlbum: Remake ‎– Blade Runner\nSello: Top Secret Records ‎– TSX 152\nFormato: Vinyl, 12, 45 RPM\nPaís: Italy\nPublicado: 1992\nGénero: Electronic\nEstilo: Techno\n\n        Written-By – Vangelis\n        Producer – A",
+                    "title": "Remake – Blade Runner  (1992)"
+                },
+                {
+                    "_duration": "360",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=KtpOnZvyiDI",
+                    "description": "Provided to YouTube by Believe SAS\n\nBlade Runner (Full Version) · Remake\n\nDig it International - 90'S Smash Hits Vol. 1\n\n℗ Itwhy Srl\n\nReleased on: 2010-04-25\n\nAuthor: Vangelis\nComposer: Vangelis\n\nAuto-generated by YouTube.",
+                    "title": "Blade Runner (Full Version)"
+                },
+                {
+                    "_duration": "284",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=D3FZycWW2ho",
+                    "description": "Remake - Blade Runner (Remix)\nLabel: TOP Secret Recordings\nCatalog#: TSX 165\nFormat: Vinyl, 12, 33 ⅓ RPM\nCountry: Italy\nReleased: 1992\nGenre: Electronic\nStyle: Progressive House, Trance, Euro House",
+                    "title": "REMAKE - Blade Runner Remix - (Blade Over Version) ♫RARITA' 1992♫"
+                },
+                {
+                    "_duration": "305",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=pYvt4uB_TVY",
+                    "description": "Blade Runner\nLabel:\nTop Secret Records ‎– TSX 152\nFormat:\nVinyl, 12, 45 RPM\nCountry:\nItaly\nReleased:\n1992\nGenre:\nElectronic\nStyle:\nTechno\n\nhttps://www.discogs.com/Remake-Blade-Runner/release/244588\n\nVisuals\nGeiss - Octopus Ever Changing\n.",
+                    "title": "Remake - Blade - In  🇮🇹"
+                },
+                {
+                    "_duration": "537",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=OkhHLczEhC4",
+                    "description": "This is my remix of the cover Blade Runner by Remake.\n\nThe original Vangelis, soundtrack for the movie Blade Runner is my all time favorite cinema soundtrack and the cover by Remake is one of my favorite records from the early 90’s.\n \nI wanted to add so",
+                    "title": "Remake - Blade Runner (Maceo Plex Remix) [Renaissance Records]"
+                },
+                {
+                    "_duration": "341",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=uB1iQTMukrc",
+                    "description": "OLDSKOOL TECHNO",
+                    "title": "REMAKE - BLADE RUNNER (POWER REMIX)"
+                },
+                {
+                    "_duration": "271",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=9ojam_yxYMA",
+                    "description": "https://www.discogs.com/Remake-Blade-Runner/release/244588\n\n1992 - TSX 152 - Top Secret  Records - Italy\n\n(Alex Neri - Marco Baroni)",
+                    "title": "Remake - Blade - Out"
+                },
+                {
+                    "_duration": "366",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=XTgMJFuf7ls",
+                    "description": "Remake~Blade Runner [Vangelis]\r\n\r\nClassic Progressive House/Techno Music 1992.\r\n\r\nFor entertainment/non-profit purposes only.",
+                    "title": "Remake~Blade Runner [Vangelis]"
+                },
+                {
+                    "_duration": "335",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=mI4cGBQokTQ",
+                    "description": "Removal on request https://www.discogs.com/it/Remake-Blade-Runner-Remix/release/133306",
+                    "title": "Remake - Blade Runner (Tubolar Blade)"
+                },
+                {
+                    "_duration": "798",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=5tGP4zx2BYY",
+                    "description": "Remake ‎– Blade Runner (Remix)\nSello:\nTop Secret Records ‎– TSX 165\nFormato:\nVinyl, 12, 33 ⅓ RPM \nPaís:\nItaly\nFecha:\n1992\nGénero:\nElectronic\nEstilo:\nProgressive House, Trance, Euro House\nPistas Ocultar Créditos\nA1 Blade Runner (Power Remix)",
+                    "title": "Remake ‎– Blade Runner (Remix Vangelis)(B3) 1992"
+                }
+            ]
+        }
+    }
+}

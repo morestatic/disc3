@@ -1,0 +1,180 @@
+{
+    "release": {
+        "_id": "25658",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "4705",
+                "join": "",
+                "name": "Primary Colors",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "9",
+                    "entity_type_name": "Distributed By",
+                    "id": "377734",
+                    "name": "Innergalactic Groove Source",
+                    "resource_url": "https://api.discogs.com/labels/377734"
+                },
+                {
+                    "catno": "9706X17",
+                    "entity_type": "17",
+                    "entity_type_name": "Pressed By",
+                    "id": "610887",
+                    "name": "A+R Record Manufacturing Corporation",
+                    "resource_url": "https://api.discogs.com/labels/610887"
+                }
+            ]
+        },
+        "country": "US",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "SPGII",
+                    "id": "583679",
+                    "join": "",
+                    "name": "Stan Getz II",
+                    "role": "Lacquer Cut By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "7517",
+                    "join": "",
+                    "name": "Chris Nazuka",
+                    "role": "Producer, Mixed By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "Tim Shumaker",
+                    "id": "540153",
+                    "join": "",
+                    "name": "Timothy Shumaker",
+                    "role": "Producer, Mixed By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Runout A: Hand etched",
+                    "_type": "Matrix / Runout",
+                    "_value": "Fair Park #005/9706X17 A A+R SPGII"
+                },
+                {
+                    "_description": "Runout B: Hand etched",
+                    "_type": "Matrix / Runout",
+                    "_value": "Fair Park 005/9706X17-B A+R SPGII"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "597",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "597",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "FPR 005",
+                "_id": "50",
+                "_name": "Fair Park"
+            }
+        },
+        "released": "1997",
+        "styles": {
+            "style": [
+                "House",
+                "Deep House"
+            ]
+        },
+        "title": "Web Of Deceit",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A",
+                    "title": "Web Of Deceit"
+                },
+                {
+                    "duration": "",
+                    "position": "B1",
+                    "title": "Slow Train To Wherever"
+                },
+                {
+                    "duration": "",
+                    "position": "B2",
+                    "title": "Non-Sensical Existence"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "491",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=mKgCNBcKLA0",
+                    "description": "Vinyl:\nhttps://www.discogs.com/de/Primary-Colors-Web-Of-Deceit/release/25658",
+                    "title": "Primary Colors ‎– Web Of Deceit"
+                },
+                {
+                    "_duration": "360",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=v46WhVDAJF4",
+                    "description": "http://www.discogs.com/Primary-Colors-Web-Of-Deceit/release/25658\n\nhttp://www.soundcloud.com/rhodesman\n\n1997 usa",
+                    "title": "Primary Colors (Web Of Deceit) 1997"
+                },
+                {
+                    "_duration": "335",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=MYx0BUQrKlc",
+                    "description": "Primary Colors ‎– Web Of Deceit\nLabel: Fair Park ‎– FPR 005\nFormat: Vinyl, 12''\nCountry: US\nReleased: 1997\n\nTracklist\nA  Web Of Deceit  \nB1  Slow Train To Wherever  \nB2  Non-Sensical Existence  \n\nhttp://www.discogs.com/Primary-Colors-Web-Of-Deceit",
+                    "title": "Primary Colors - Non-Sensical Existence"
+                },
+                {
+                    "_duration": "410",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=66TFPBe8pOA",
+                    "description": "LOW BITRATE (96kbps). Follow Fair Park Records: http://www.discogs.com/label/50-Fair-Park\r\nBuy Record: http://www.discogs.com/Primary-Colors-Web-Of-Deceit/release/25658\r\nMore Music: https://www.facebook.com/DoFunkk\r\n\r\nI do not own the rights of anything u",
+                    "title": "Primary Colors - Slow Train To Wherever"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,170 @@
+{
+    "release": {
+        "_id": "43984",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "9216",
+                "join": "",
+                "name": "Bah Samba",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "UK",
+        "data_quality": "Needs Vote",
+        "extraartists": "",
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "12\""
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_type": "Barcode",
+                "_value": "5 025425 114168"
+            }
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "603",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "LOAD 41",
+                "_id": "40",
+                "_name": "Loaded Records"
+            }
+        },
+        "released": "1996",
+        "styles": {
+            "style": "House"
+        },
+        "title": "Carnival",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A1",
+                    "title": "Carnival (Original Mix)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "5318",
+                            "join": "",
+                            "name": "Restless Soul",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "A2",
+                    "title": "Carnival (Restless Soul Peak Time Mix)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "5318",
+                            "join": "",
+                            "name": "Restless Soul",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "AA1",
+                    "title": "Carnival (Restless Soul Dub Time Mix)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "5318",
+                            "join": "",
+                            "name": "Restless Soul",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "B2",
+                    "title": "Carnival (1200 Ways To Drum)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "5318",
+                            "join": "",
+                            "name": "Restless Soul",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "AA3",
+                    "title": "Carnival (Carnival Accapella)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "459",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=npw-uUPof0A",
+                    "description": "Label: Loaded Records ‎-- LOAD 41 \nFormat: Vinyl, 12 \nCountry: UK \nReleased:1996  \nA1    Carnival (Original Mix)        \nA2    Carnival (Restless Soul Peak Time Mix)    \nB1    Carnival (Restless Soul Dub Time Mix)   \nB2    Carnival (1200 Ways To Drum)",
+                    "title": "Bah Samba - Carnival (Original Mix)"
+                },
+                {
+                    "_duration": "423",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=hSJIfiviq4c",
+                    "description": "Track remixed by Phil Asher and Luke McCarty",
+                    "title": "Bah Samba - Carnival (Restless Soul Peak Time Mix)"
+                }
+            ]
+        }
+    }
+}

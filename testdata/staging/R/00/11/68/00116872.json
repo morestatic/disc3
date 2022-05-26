@@ -1,0 +1,189 @@
+{
+    "release": {
+        "_id": "116872",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "Namlook",
+                "id": "1910",
+                "join": "",
+                "name": "Pete Namlook",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "294386",
+                    "name": "Klanglabor Frankfurt",
+                    "resource_url": "https://api.discogs.com/labels/294386"
+                },
+                {
+                    "catno": "30175",
+                    "entity_type": "31",
+                    "entity_type_name": "Glass Mastered At",
+                    "id": "277449",
+                    "name": "P+O Pallas",
+                    "resource_url": "https://api.discogs.com/labels/277449"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "2118078",
+                    "join": "",
+                    "name": "PEK (3)",
+                    "role": "Graphics",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "41714",
+                    "join": "",
+                    "name": "Charles Uzzell-Edwards",
+                    "role": "Illustration [Booklet-Inside Seasons-Signs By]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "58657",
+                    "join": "",
+                    "name": "Peter Kuhlmann",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Compilation",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "SEA 00 P+O-30175-B2  10-96"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "250",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "250"
+                },
+                {
+                    "_height": "250",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "255"
+                },
+                {
+                    "_height": "250",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "250"
+                },
+                {
+                    "_height": "250",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "250"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "SEA 00",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "\"Electronic Impresionism Environmental Music\"\nExcerpts from the [l951847] series.\n\nLimitation: 2000\nReleased on September 2nd, 1996 in the United States and on October 7th, 1996 for the rest of the world.\n\nTitle on the spine and back: The 4 Seasons\nTitle on front: The Four Seasons",
+        "released": "1996-09-02",
+        "styles": {
+            "style": "Ambient"
+        },
+        "title": "The 4 Seasons",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "18:30",
+                    "position": "1",
+                    "title": "Spring"
+                },
+                {
+                    "duration": "18:30",
+                    "position": "2",
+                    "title": "Summer"
+                },
+                {
+                    "duration": "18:30",
+                    "position": "3",
+                    "title": "Autumn"
+                },
+                {
+                    "duration": "18:30",
+                    "position": "4",
+                    "title": "Winter"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "799",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=tgRhoR7TS0I",
+                    "description": "Taken from Seasons Greetings - Summer (Fax +49-69/450464)\nhttp://www.discogs.com/artist/Pete+Namlook",
+                    "title": "Namlook - Summer Part I"
+                },
+                {
+                    "_duration": "922",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=ZEZW_A1zgYA",
+                    "description": "A special edit of the 65 minutes piece (most of it is environmental sound effects), released as the 4th part of the Seasons Greetings series (SEA 04).\n\nMusic: Pete Namlook, Oct 1994\nVideo and Audio Edit: Abstructure, Oct 2017\nWinds: IRMA",
+                    "title": "Namlook - Seasons Greetings = Autumn =  (Edit)"
+                }
+            ]
+        }
+    }
+}

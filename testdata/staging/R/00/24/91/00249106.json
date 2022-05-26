@@ -1,0 +1,347 @@
+{
+    "release": {
+        "_id": "249106",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "194",
+                "join": "",
+                "name": "Various",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "France",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "506017",
+                "join": "",
+                "name": "Olivier Delachanal",
+                "role": "Compiled By [Concept \u0026 Tracklisting]",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "Digipak",
+                "descriptions": {
+                    "description": "Compilation"
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_type": "Barcode",
+                "_value": "3 596971 497729"
+            }
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "530",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "519",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": [
+                {
+                    "_catno": "3049772",
+                    "_id": "27276",
+                    "_name": "Wagram Music"
+                },
+                {
+                    "_catno": "WAG 323",
+                    "_id": "27276",
+                    "_name": "Wagram Music"
+                }
+            ]
+        },
+        "released": "1999",
+        "styles": {
+            "style": [
+                "Techno",
+                "Acid"
+            ]
+        },
+        "title": "Underground Music Collection Vol. 2 - Techno",
+        "tracklist": {
+            "track": [
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "750",
+                            "join": "",
+                            "name": "Laurent Garnier",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:26",
+                    "position": "1",
+                    "title": "Dark Comet"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "Winx",
+                            "id": "3",
+                            "join": "",
+                            "name": "Josh Wink",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:14",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1608",
+                            "join": "",
+                            "name": "Nigel Richards",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "2",
+                    "title": "You Are The One (Nigel Richards Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "4311",
+                            "join": "",
+                            "name": "Jack De Marseille",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:20",
+                    "position": "3",
+                    "title": "Kalymba"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "71441",
+                            "join": "",
+                            "name": "Hustler Pornstar",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:40",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "4352",
+                            "join": "",
+                            "name": "Dima",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "4",
+                    "title": "You Know (Dark Tech Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "10837",
+                            "join": "",
+                            "name": "Scotti Deep",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:20",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "79308",
+                            "join": "",
+                            "name": "Pulse 2 Rhythm",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "5",
+                    "title": "Brooklyn Beats (Pulse 2 Rhythm Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "22905",
+                            "join": "",
+                            "name": "Pouncy And Moore",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:05",
+                    "position": "6",
+                    "title": "The Hear"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1268",
+                            "join": "",
+                            "name": "Carl Cox",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:59",
+                    "position": "7",
+                    "title": "Acid Charge"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "891",
+                            "join": "",
+                            "name": "Joey Beltram",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:36",
+                    "position": "8",
+                    "title": "Fuzz"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "2742",
+                            "join": "",
+                            "name": "Frankie Bones",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:57",
+                    "position": "9",
+                    "title": "Highball"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1344",
+                            "join": "",
+                            "name": "Steve Stoll",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:16",
+                    "position": "10",
+                    "title": "Radio Free"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "857",
+                            "join": "",
+                            "name": "Robert Armani",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:45",
+                    "position": "11",
+                    "title": "Hell"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1240",
+                            "join": "",
+                            "name": "Emmanuel Top",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:07",
+                    "position": "12",
+                    "title": "Acid Phase"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "20",
+                            "join": "",
+                            "name": "Percy X",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:03",
+                    "position": "13",
+                    "title": "Track 2"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "3089",
+                            "join": "",
+                            "name": "Freon",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:30",
+                    "position": "14",
+                    "title": "Radikal Jump"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "849",
+                            "join": "",
+                            "name": "Choice",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "7:14",
+                    "position": "15",
+                    "title": "Acid Eiffel (Edit From Live At Wake Up Paris)"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,229 @@
+{
+    "release": {
+        "_id": "79361",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "20094",
+                "join": "",
+                "name": "Belushi",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "9",
+                    "entity_type_name": "Distributed By",
+                    "id": "149122",
+                    "name": "3MV",
+                    "resource_url": "https://api.discogs.com/labels/149122"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "9",
+                    "entity_type_name": "Distributed By",
+                    "id": "264522",
+                    "name": "Pinnacle (3)",
+                    "resource_url": "https://api.discogs.com/labels/264522"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "40",
+                    "name": "Loaded Records",
+                    "resource_url": "https://api.discogs.com/labels/40"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "40",
+                    "name": "Loaded Records",
+                    "resource_url": "https://api.discogs.com/labels/40"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "385249",
+                    "name": "Skint Music",
+                    "resource_url": "https://api.discogs.com/labels/385249"
+                }
+            ]
+        },
+        "country": "UK",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "405061",
+                    "join": "",
+                    "name": "Dave Stone",
+                    "role": "Producer, Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "6667",
+                    "join": "",
+                    "name": "Ed Solo",
+                    "role": "Producer, Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "12\""
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_type": "Barcode",
+                "_value": "5025425406720"
+            }
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "225",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "606",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "606",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "LOAD 067",
+                "_id": "40",
+                "_name": "Loaded Records"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "830567"
+        },
+        "released": "2000",
+        "styles": {
+            "style": [
+                "Breakbeat",
+                "Tech House"
+            ]
+        },
+        "title": "Evolution",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A1",
+                    "title": "72nd Stranza"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "Håkan",
+                                "id": "96",
+                                "join": "",
+                                "name": "Håkan Lidbo",
+                                "role": "Remix",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "96",
+                                "join": "",
+                                "name": "Håkan Lidbo",
+                                "role": "Remix [Credited To], Producer [Additional]",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "A2",
+                    "title": "72nd Stranza (Håkan Remix)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "21219",
+                                "join": "",
+                                "name": "Gideon \u0026 Rob H",
+                                "role": "Remix",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "Gideon \u0026 Rob Hallums",
+                                "id": "21219",
+                                "join": "",
+                                "name": "Gideon \u0026 Rob H",
+                                "role": "Remix [Credited To], Producer [Additional]",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "AA",
+                    "title": "72nd Stranza (Gideon \u0026 Rob H Remix)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "313",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=nwthyhc-EqY",
+                    "description": "Recorded from Vinyl using:\nTechnics 1210 mkII\nOrigin Live Silver Tonearm\nOrotfon 2m Black Cartridge\nOnkyo A9070 Stereo Amp\nApogee Ensemble Firewire\nLogic Pro X\nCouple of minor edits to remove vinyl noise\n\nGenre: Breaks\nLabel: Loaded Records \n\nAll uploads",
+                    "title": "Belushi: Evolution (72nd Stranza)"
+                },
+                {
+                    "_duration": "531",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=yiLvFi1T_Zk",
+                    "description": "https://www.discogs.com/Belushi-Evolution/release/79361 \n\n˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜˜\nhttps://www.instagram.com/form_data/",
+                    "title": "Belushi ‎– Evolution -  72nd Stranza (Gideon \u0026 Rob H Remix)"
+                },
+                {
+                    "_duration": "313",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=dsHhujhy-Xc",
+                    "description": "Recorded from Vinyl using:\nNumark TTX\nOrtofon Nightclub MkII\nPioneer DJM500\nApogee Ensemble Firewire\nLogic Pro 9\nWaves Plugins\n\nAny errors please let me know and I will amend.\n\nNo copyright infringement intended. If you want it taken down please let me kn",
+                    "title": "Belushi: Evolution - 72nd Stranza"
+                }
+            ]
+        }
+    }
+}

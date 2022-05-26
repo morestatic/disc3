@@ -1,0 +1,199 @@
+{
+    "release": {
+        "_id": "94",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "185",
+                "join": "",
+                "name": "J.T. Donaldson",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "50",
+                    "name": "Fair Park",
+                    "resource_url": "https://api.discogs.com/labels/50"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "9",
+                    "entity_type_name": "Distributed By",
+                    "id": "377734",
+                    "name": "Innergalactic Groove Source",
+                    "resource_url": "https://api.discogs.com/labels/377734"
+                },
+                {
+                    "catno": "9708X08",
+                    "entity_type": "30",
+                    "entity_type_name": "Lacquer Cut At",
+                    "id": "610887",
+                    "name": "A+R Record Manufacturing Corporation",
+                    "resource_url": "https://api.discogs.com/labels/610887"
+                },
+                {
+                    "catno": "9708X08",
+                    "entity_type": "17",
+                    "entity_type_name": "Pressed By",
+                    "id": "610887",
+                    "name": "A+R Record Manufacturing Corporation",
+                    "resource_url": "https://api.discogs.com/labels/610887"
+                }
+            ]
+        },
+        "country": "US",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "SPGII",
+                    "id": "583679",
+                    "join": "",
+                    "name": "Stan Getz II",
+                    "role": "Lacquer Cut By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "185",
+                    "join": "",
+                    "name": "J.T. Donaldson",
+                    "role": "Written-By, Producer",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM",
+                        "EP"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Runout A: Hand etched",
+                    "_type": "Matrix / Runout",
+                    "_value": "Fair Park 006 ~ 9708X08•A A+R SPGII"
+                },
+                {
+                    "_description": "Runout B: Hand etched",
+                    "_type": "Matrix / Runout",
+                    "_value": "Fair Park 006 ~ 9708X08•B A+R SPGII"
+                },
+                {
+                    "_description": "Etched in runouts",
+                    "_type": "Pressing Plant ID",
+                    "_value": "A+R"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "FPR 006",
+                "_id": "50",
+                "_name": "Fair Park"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "755546"
+        },
+        "notes": "© 1997 FPR",
+        "released": "1997",
+        "styles": {
+            "style": "Deep House"
+        },
+        "title": "Money Flowers E.P.",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "132854",
+                            "join": "",
+                            "name": "Chris Penny",
+                            "role": "Keyboards [Additional Keys]",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "A",
+                    "title": "The Breeze"
+                },
+                {
+                    "duration": "",
+                    "position": "B1",
+                    "title": "Sax That Ass"
+                },
+                {
+                    "duration": "",
+                    "position": "B2",
+                    "title": "Mota-Vation"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "479",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=D_cFaL5oWmI",
+                    "description": "1997. Money Flowers Vinyl, 12, EP  -  Fair Park \nAdditional keys by Chris Penny",
+                    "title": "JT Donaldson  -  The Breeze"
+                },
+                {
+                    "_duration": "475",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=fv9hdxdNSiM",
+                    "description": "http://www.discogs.com/JT-Donaldson-Money-Flowers-EP/release/94\n\r\n\r-uploaded in HD at http://www.TunesToTube.com",
+                    "title": "JT-Donaldson - Sax That Ass"
+                },
+                {
+                    "_duration": "425",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=rIkB3Cw1gsY",
+                    "description": "(Fair Park) US 1997",
+                    "title": "JT Donaldson: Mota-Vation"
+                }
+            ]
+        }
+    }
+}

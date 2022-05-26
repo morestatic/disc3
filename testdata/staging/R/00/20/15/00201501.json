@@ -1,0 +1,168 @@
+{
+    "release": {
+        "_id": "201501",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "293004",
+                "join": "",
+                "name": "Asphyxia",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "30",
+                    "entity_type_name": "Lacquer Cut At",
+                    "id": "265113",
+                    "name": "SST Brüggemann GmbH",
+                    "resource_url": "https://api.discogs.com/labels/265113"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "26",
+                    "entity_type_name": "Produced At",
+                    "id": "1437127",
+                    "name": "Asphyxia Studio",
+                    "resource_url": "https://api.discogs.com/labels/1437127"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "1584729",
+                    "join": "",
+                    "name": "SST (8)",
+                    "role": "Lacquer Cut By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "441371",
+                    "join": "",
+                    "name": "Michael Köhler",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                },
+                {
+                    "_description": "This Side (A)",
+                    "_type": "Matrix / Runout",
+                    "_value": "PS 08/34 A SST - PRODUCED AT ASHYXIA STUDIO ="
+                },
+                {
+                    "_description": "Other Side (B)",
+                    "_type": "Matrix / Runout",
+                    "_value": "PS 08/34 B SST  \"BELIEVE IN YOURSELF"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "596",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "490",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "482"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PS 08/34",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Limited: to 500 copies.\n\nSide A Runouts : \"PRODUCED AT ASHYXIA STUDIO\"",
+        "released": "1993-12-20",
+        "styles": {
+            "style": [
+                "Trance",
+                "Techno"
+            ]
+        },
+        "title": "Asphyxia",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "",
+                    "title": "This Side"
+                },
+                {
+                    "duration": "4:46",
+                    "position": "A",
+                    "title": "Peerish"
+                },
+                {
+                    "duration": "",
+                    "position": "",
+                    "title": "Other Side"
+                },
+                {
+                    "duration": "6:39",
+                    "position": "B",
+                    "title": "Febrile"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "286",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=zt0shse_VtI",
+                    "description": "",
+                    "title": "Asphyxia - Peerish"
+                },
+                {
+                    "_duration": "400",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=b-8VBFnw5j8",
+                    "description": "",
+                    "title": "Asphyxia - Febrile"
+                }
+            ]
+        }
+    }
+}

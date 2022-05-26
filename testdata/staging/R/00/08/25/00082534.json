@@ -1,0 +1,546 @@
+{
+    "release": {
+        "_id": "82534",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "20",
+                "join": "",
+                "name": "Percy X",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "27",
+                    "entity_type_name": "Mixed At",
+                    "id": "315293",
+                    "name": "UXB Studios",
+                    "resource_url": "https://api.discogs.com/labels/315293"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "270709",
+                    "name": "Soma Recordings Ltd.",
+                    "resource_url": "https://api.discogs.com/labels/270709"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "270709",
+                    "name": "Soma Recordings Ltd.",
+                    "resource_url": "https://api.discogs.com/labels/270709"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "295038",
+                    "name": "Soma Music",
+                    "resource_url": "https://api.discogs.com/labels/295038"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "17",
+                    "entity_type_name": "Pressed By",
+                    "id": "56025",
+                    "name": "MPO",
+                    "resource_url": "https://api.discogs.com/labels/56025"
+                }
+            ]
+        },
+        "country": "UK",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "529344",
+                "join": "",
+                "name": "The X-Man (3)",
+                "role": "Written-By [All Tracks]",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "Album"
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Barcode",
+                    "_value": "7 96122 00282 3"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "['MPO' logo] SOMACD28 @@@ 20020523 1434 @@@ 4"
+                },
+                {
+                    "_description": "Mould Ring",
+                    "_type": "Matrix / Runout",
+                    "_value": "01"
+                },
+                {
+                    "_type": "Mastering SID Code",
+                    "_value": "IFPI L033"
+                },
+                {
+                    "_type": "Mould SID Code",
+                    "_value": "IFPI 1237"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "587",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "599"
+                },
+                {
+                    "_height": "469",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "296",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "467",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "SOMA CD 28",
+                "_id": "18",
+                "_name": "Soma Quality Recordings"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "false",
+            "content": "37386"
+        },
+        "notes": "[Tracks 4 to 7, 9, 10] Mixed [at] UXB London\r\n\r\n℗ + ©2002 Soma Recordings Limited\r\nPublished by Soma Music",
+        "released": "2002-06-24",
+        "styles": {
+            "style": [
+                "Techno",
+                "Electro"
+            ]
+        },
+        "title": "Where's The Music",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "6:52",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "144934",
+                                "join": "",
+                                "name": "Marco Bernardi",
+                                "role": "Producer",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "The Xman",
+                                "id": "529344",
+                                "join": "",
+                                "name": "The X-Man (3)",
+                                "role": "Producer",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "1",
+                    "title": "Find Yourself"
+                },
+                {
+                    "duration": "5:40",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "144934",
+                                "join": "",
+                                "name": "Marco Bernardi",
+                                "role": "Producer",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "The Xman",
+                                "id": "529344",
+                                "join": "",
+                                "name": "The X-Man (3)",
+                                "role": "Producer",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "2",
+                    "title": "Now You're Mine"
+                },
+                {
+                    "duration": "6:59",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "144934",
+                                "join": "",
+                                "name": "Marco Bernardi",
+                                "role": "Producer",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "The Xman",
+                                "id": "529344",
+                                "join": "",
+                                "name": "The X-Man (3)",
+                                "role": "Producer",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "3",
+                    "title": "Club X"
+                },
+                {
+                    "duration": "5:06",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "459",
+                                "join": "",
+                                "name": "Mark Broom",
+                                "role": "Mixed By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "459",
+                                "join": "",
+                                "name": "Mark Broom",
+                                "role": "Producer",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "The Xman",
+                                "id": "529344",
+                                "join": "",
+                                "name": "The X-Man (3)",
+                                "role": "Producer",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "4",
+                    "title": "Time To Jack"
+                },
+                {
+                    "duration": "5:06",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "49518",
+                                "join": "",
+                                "name": "Dave Hill",
+                                "role": "Keyboards",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "459",
+                                "join": "",
+                                "name": "Mark Broom",
+                                "role": "Mixed By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "459",
+                                "join": "",
+                                "name": "Mark Broom",
+                                "role": "Producer",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "The Xman",
+                                "id": "529344",
+                                "join": "",
+                                "name": "The X-Man (3)",
+                                "role": "Producer",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "5",
+                    "title": "Casiotone"
+                },
+                {
+                    "duration": "5:44",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "459",
+                                "join": "",
+                                "name": "Mark Broom",
+                                "role": "Mixed By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "459",
+                                "join": "",
+                                "name": "Mark Broom",
+                                "role": "Producer",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "The Xman",
+                                "id": "529344",
+                                "join": "",
+                                "name": "The X-Man (3)",
+                                "role": "Producer",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "6",
+                    "title": "Afterplan"
+                },
+                {
+                    "duration": "5:23",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "459",
+                                "join": "",
+                                "name": "Mark Broom",
+                                "role": "Mixed By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "459",
+                                "join": "",
+                                "name": "Mark Broom",
+                                "role": "Producer",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "The Xman",
+                                "id": "529344",
+                                "join": "",
+                                "name": "The X-Man (3)",
+                                "role": "Producer",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "7",
+                    "title": "On A Day"
+                },
+                {
+                    "duration": "7:19",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "144934",
+                                "join": "",
+                                "name": "Marco Bernardi",
+                                "role": "Producer",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "The Xman",
+                                "id": "529344",
+                                "join": "",
+                                "name": "The X-Man (3)",
+                                "role": "Producer",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "8",
+                    "title": "Vox Digital"
+                },
+                {
+                    "duration": "6:29",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "459",
+                                "join": "",
+                                "name": "Mark Broom",
+                                "role": "Mixed By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "459",
+                                "join": "",
+                                "name": "Mark Broom",
+                                "role": "Producer",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "The Xman",
+                                "id": "529344",
+                                "join": "",
+                                "name": "The X-Man (3)",
+                                "role": "Producer",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "9",
+                    "title": "Where's The Music"
+                },
+                {
+                    "duration": "5:52",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "459",
+                                "join": "",
+                                "name": "Mark Broom",
+                                "role": "Mixed By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "459",
+                                "join": "",
+                                "name": "Mark Broom",
+                                "role": "Producer",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "The Xman",
+                                "id": "529344",
+                                "join": "",
+                                "name": "The X-Man (3)",
+                                "role": "Producer",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "10",
+                    "title": "Inbox"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "417",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=tf3b2JIvZVI",
+                    "description": "Percy X - Club X  B2\n\nLabel: Soma Quality Recordings - SOMA 122\nFormat: Vinyl, 12\nCountry: UK\nReleased: 2002\nStyle: Techno, Electro\nDiscogs link: https://www.discogs.com/Percy-X-Time-...\n\nWith the help of a mysterious record thief, Dunks has secured this",
+                    "title": "Percy X - Club X"
+                },
+                {
+                    "_duration": "343",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=uc4378cxBx0",
+                    "description": "Regis @ As You Like It, Public Works San Francisco (26.07.2013) \nhttps://www.youtube.com/watch?v=KoanpTYaf4c\n\n((Some Magic Tools))\nhttps://bit.ly/Magic-Tube\nhttps://bit.ly/best-bluehost\nhttps://bit.ly/tube-scene\n-~-~~-~~~-~~-~-\n\nPercy X ‎– Where's T",
+                    "title": "Percy X - Now You're Mine"
+                },
+                {
+                    "_duration": "312",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=grGd2NhT7F8",
+                    "description": "[Techno Podcast] Windows Series LSA SECRETS (Xploits Series 5)\nhttps://www.youtube.com/watch?v=_0Ob777gGg8 --~--\nPercy X - Where's The Music\nSello: Soma Quality Recordings ‎- SOMA LP 28\nFormato: 2 × Vinyl, LP, Album\nPaís: UK\nFecha: Jul 2002\nGénero: E",
+                    "title": "Percy X - Casiotone"
+                },
+                {
+                    "_duration": "348",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=M5HXE4Hubc8",
+                    "description": "Regis @ As You Like It, Public Works San Francisco (26.07.2013) \nhttps://www.youtube.com/watch?v=KoanpTYaf4c\n\n((Some Magic Tools))\nhttps://bit.ly/Magic-Tube\nhttps://bit.ly/best-bluehost\nhttps://bit.ly/tube-scene\n-~-~~-~~~-~~-~-\n\nPercy X ‎– Where's T",
+                    "title": "Percy X ‎ - Afterplan"
+                },
+                {
+                    "_duration": "395",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=4Z339d4ho94",
+                    "description": "[Techno Podcast] Windows Series LSA SECRETS (Xploits Series 5)\nhttps://www.youtube.com/watch?v=_0Ob777gGg8 --~--\nPercy X - Where's The Music\nSello: Soma Quality Recordings ‎- SOMA LP 28\nFormato: 2 × Vinyl, LP, Album\nPaís: UK\nFecha: Jul 2002\nGénero: E",
+                    "title": "Percy X  - Where's the Music"
+                },
+                {
+                    "_duration": "410",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=luLAcFux0Ic",
+                    "description": "http://www.discogs.com/release/2784",
+                    "title": "Percy X - Where's The Music?"
+                },
+                {
+                    "_duration": "443",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=IrwErDgJkDw",
+                    "description": "Regis @ As You Like It, Public Works San Francisco (26.07.2013) \nhttps://www.youtube.com/watch?v=KoanpTYaf4c\n\n((Some Magic Tools))\nhttps://bit.ly/Magic-Tube\nhttps://bit.ly/best-bluehost\nhttps://bit.ly/tube-scene\n-~-~~-~~~-~~-~-\n\nPercy X ‎– Where's T",
+                    "title": "Percy X - Vox Digital"
+                },
+                {
+                    "_duration": "353",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=eXyf0ut6Wsg",
+                    "description": "Provided to YouTube by PIAS\n\nInbox · Percy X\n\nWhere's the Music\n\n℗ Soma Records\n\nReleased on: 2002-06-24\n\nComposer: Tony Scott\n\nAuto-generated by YouTube.",
+                    "title": "Inbox"
+                },
+                {
+                    "_duration": "271",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=zA4bggVXwC8",
+                    "description": "http://www.discogs.com/Percy-X-On-A-Day-Remix/release/64376\n\nPercy X - Dark N Sharp",
+                    "title": "Percy X - Dark N Sharp"
+                }
+            ]
+        }
+    }
+}

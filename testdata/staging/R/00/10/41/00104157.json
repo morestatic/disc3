@@ -1,0 +1,188 @@
+{
+    "release": {
+        "_id": "104157",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "293201",
+                "join": "",
+                "name": "The Whole Traffic",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": {
+                "catno": "",
+                "entity_type": "10",
+                "entity_type_name": "Manufactured By",
+                "id": "291931",
+                "name": "CD Plant MFG",
+                "resource_url": "https://api.discogs.com/labels/291931"
+            }
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "647249",
+                    "join": "",
+                    "name": "Omar Khayyam",
+                    "role": "Liner Notes",
+                    "tracks": ""
+                },
+                {
+                    "anv": "Wild Jamin",
+                    "id": "4248",
+                    "join": "",
+                    "name": "Benjamin Wild",
+                    "role": "Musician [Basalt Boys Are]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "33024",
+                    "join": "",
+                    "name": "Pino Shamlou",
+                    "role": "Musician [Basalt Boys Are]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "762333",
+                    "join": "",
+                    "name": "Dje Diook",
+                    "role": "Percussion [Live]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "Fitzgerald",
+                    "id": "2799611",
+                    "join": "",
+                    "name": "Edward Fitzgerald",
+                    "role": "Translated By [Liner Notes]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "656101",
+                    "join": "",
+                    "name": "Basalt Boys",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "8521",
+                    "join": "",
+                    "name": "Dr. Atmo",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "CD PLANT MFG PS 08/39 CDM01"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                }
+            ]
+        },
+        "images": {
+            "image": {
+                "_height": "594",
+                "_type": "primary",
+                "_uri": "",
+                "_uri150": "",
+                "_width": "600"
+            }
+        },
+        "labels": {
+            "label": {
+                "_catno": "PS 08/39",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Some sigh for the glories of this world, and some\r\nSigh for the Prophets´ paradise to come\r\nAh take the cash and let the credit go\r\nNor heed the rumble of a distant drum.\r\n\r\nOmar Khayyam through Fitzgerald\r\n\r\nTHE WHOLE TRAFFIC\r\nFRANKFURT 1994\r\n\r\nBasalt Boys are:\r\nPino Shamlou \u0026 Wild Jamin\r\n\r\nLive percussion:\r\nDje Diook\r\n\r\nSpecial thanks to:\r\n\r\nSpeedbikes\r\nMirella (for electricity breakdown)\r\nDje Deiook\r\nMaingas Frankfurt\r\n\r\nLimitation: 1000",
+        "released": "1994-03-14",
+        "styles": {
+            "style": [
+                "Techno",
+                "Ambient"
+            ]
+        },
+        "title": "The Whole Traffic",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "20:43",
+                    "position": "1",
+                    "title": "138 KMH"
+                },
+                {
+                    "duration": "21:01",
+                    "position": "2",
+                    "title": "110 KMH"
+                },
+                {
+                    "duration": "11:34",
+                    "position": "3",
+                    "title": "107 KMH"
+                },
+                {
+                    "duration": "9:12",
+                    "position": "4",
+                    "title": "72 KMH"
+                },
+                {
+                    "duration": "8:07",
+                    "position": "5",
+                    "title": "38 KMH"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "4233",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=XuNM_7NbV44",
+                    "description": "0:00:00 01. 138 KMH (20:41)\n0:20:41 02. 110 KMH (21:01)\n0:41:42 03. 107 KMH (11:34)\n0:53:16 04. 72 KMH (9:13)\n1:02:29 05. 38 KMH (8:04)\n\nArtists : Dr. Atmo, Pino \u0026 Wildjamin\nAlbum : The Whole Traffic\n1994 FAX +49-69/450464",
+                    "title": "Dr. Atmo, Pino \u0026 Wildjamin - The Whole Traffic"
+                },
+                {
+                    "_duration": "1243",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=JijUs-9Yr8w",
+                    "description": "Fax +49-69/450464 ‎-- PS 08/39\nhttp://www.discogs.com/Whole-Traffic-The-Whole-Traffic/release/104157",
+                    "title": "The Whole Traffic - 138 KMH - Dr. Atmo / Benjamin Wild / Pino Shamlou"
+                }
+            ]
+        }
+    }
+}

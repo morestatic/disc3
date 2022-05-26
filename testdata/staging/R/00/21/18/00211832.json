@@ -1,0 +1,102 @@
+{
+    "release": {
+        "_id": "211832",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "62",
+                "join": "",
+                "name": "John Tejada",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "US",
+        "data_quality": "Correct",
+        "extraartists": "",
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "12\""
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "599",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "599"
+                },
+                {
+                    "_height": "599",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "599"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PAL027",
+                "_id": "30",
+                "_name": "Palette Recordings"
+            }
+        },
+        "released": "2003-11-00",
+        "styles": {
+            "style": [
+                "Minimal",
+                "Tech House"
+            ]
+        },
+        "title": "Breakout",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A",
+                    "title": "Breakout"
+                },
+                {
+                    "duration": "",
+                    "position": "B1",
+                    "title": "Rendered Players"
+                },
+                {
+                    "duration": "",
+                    "position": "B2",
+                    "title": "Motorized Movements"
+                }
+            ]
+        },
+        "videos": {
+            "video": {
+                "_duration": "316",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=_Fp65lwAlyU",
+                "description": "https://www.discogs.com/John-Tejada-Breakout/release/211832\n160 kbps\nI do not own the content on this video, if the owner does not wish to have their items on display, please contact me and i will remove it right away.",
+                "title": "John Tejada - Motorized Movements [2003]"
+            }
+        }
+    }
+}

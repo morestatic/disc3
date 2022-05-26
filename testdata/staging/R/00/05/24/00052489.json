@@ -1,0 +1,166 @@
+{
+    "release": {
+        "_id": "52489",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "4771679",
+                "join": "",
+                "name": "Recurring Dreams Of The Urban Myth",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "721358",
+                    "name": "Rough Cut Studio",
+                    "resource_url": "https://api.discogs.com/labels/721358"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "10",
+                    "entity_type_name": "Manufactured By",
+                    "id": "291931",
+                    "name": "CD Plant MFG",
+                    "resource_url": "https://api.discogs.com/labels/291931"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "13232",
+                "join": "",
+                "name": "Chris Meloche",
+                "role": "Written-By",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "CD PLANT MFG PS 08/54 CDM01"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "590",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PS 08/54",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "This version of \"Recurring Dreams of the Urban Myth\" is condensed - but not compromised - for issue in the CD format. The complete six hour version was premiered on CHRW-FM (London, Canada) in May 1994.\r\nThis is an ambient, environmental electroacoustic work that, once set into motion, takes on a life of its own.\r\n\r\nRecorded at Rough Cut Studio, London, Canada\r\nLimitation: 1000\r\n\r\nThe artwork mentions only one track, Loop 6, which is split into 7 parts on the CD.",
+        "released": "1994-10-31",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Drone",
+                "Minimal"
+            ]
+        },
+        "title": "Recurring Dreams Of The Urban Myth",
+        "tracklist": {
+            "track": {
+                "duration": "73:22",
+                "position": "",
+                "sub_tracks": {
+                    "track": [
+                        {
+                            "duration": "10:00",
+                            "position": "1",
+                            "title": "Untitled"
+                        },
+                        {
+                            "duration": "10:00",
+                            "position": "2",
+                            "title": "Untitled"
+                        },
+                        {
+                            "duration": "10:00",
+                            "position": "3",
+                            "title": "Untitled"
+                        },
+                        {
+                            "duration": "10:00",
+                            "position": "4",
+                            "title": "Untitled"
+                        },
+                        {
+                            "duration": "10:00",
+                            "position": "5",
+                            "title": "Untitled"
+                        },
+                        {
+                            "duration": "10:00",
+                            "position": "6",
+                            "title": "Untitled"
+                        },
+                        {
+                            "duration": "13:20",
+                            "position": "7",
+                            "title": "Untitled"
+                        }
+                    ]
+                },
+                "title": "Loop 6"
+            }
+        },
+        "videos": {
+            "video": {
+                "_duration": "4401",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=xKjOnQD3j7Y",
+                "description": "Provided to YouTube by The Orchard Enterprises\n\nRecurring Dreams of the Urban Myth · Chris Meloche\n\nRecurring Dreams of the Urban Myth\n\n℗ 2016 Silent Records\n\nReleased on: 2016-12-09\n\nMusic Publisher: SOCAN\n\nAuto-generated by YouTube.",
+                "title": "Recurring Dreams of the Urban Myth"
+            }
+        }
+    }
+}

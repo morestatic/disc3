@@ -1,0 +1,1480 @@
+{
+    "release": {
+        "_id": "255510",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "15606",
+                "join": "",
+                "name": "Superchumbo",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "31",
+                    "entity_type_name": "Glass Mastered At",
+                    "id": "68697",
+                    "name": "Disctronics",
+                    "resource_url": "https://api.discogs.com/labels/68697"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "9",
+                    "entity_type_name": "Distributed By",
+                    "id": "149122",
+                    "name": "3MV",
+                    "resource_url": "https://api.discogs.com/labels/149122"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "5005",
+                    "name": "Twisted America Records",
+                    "resource_url": "https://api.discogs.com/labels/5005"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "5005",
+                    "name": "Twisted America Records",
+                    "resource_url": "https://api.discogs.com/labels/5005"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "63404",
+                    "name": "EMI Records Ltd.",
+                    "resource_url": "https://api.discogs.com/labels/63404"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "43718",
+                    "name": "XL Recordings Ltd.",
+                    "resource_url": "https://api.discogs.com/labels/43718"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "3123",
+                    "name": "Anodyne",
+                    "resource_url": "https://api.discogs.com/labels/3123"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "405",
+                    "name": "Skint Records",
+                    "resource_url": "https://api.discogs.com/labels/405"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "63704",
+                    "name": "MCA Records, Inc.",
+                    "resource_url": "https://api.discogs.com/labels/63704"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "126302",
+                    "name": "Whatever Productions",
+                    "resource_url": "https://api.discogs.com/labels/126302"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "268296",
+                    "name": "Hooj Choons Ltd.",
+                    "resource_url": "https://api.discogs.com/labels/268296"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "120356",
+                    "name": "Lower East Side Records B.V.",
+                    "resource_url": "https://api.discogs.com/labels/120356"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "101951",
+                    "name": "TIME S.r.l.",
+                    "resource_url": "https://api.discogs.com/labels/101951"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "14640",
+                    "name": "Vudu Recordings",
+                    "resource_url": "https://api.discogs.com/labels/14640"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "5",
+                    "entity_type_name": "Licensed To",
+                    "id": "63404",
+                    "name": "EMI Records Ltd.",
+                    "resource_url": "https://api.discogs.com/labels/63404"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "5",
+                    "entity_type_name": "Licensed To",
+                    "id": "931046",
+                    "name": "Sony Music Entertainment UK",
+                    "resource_url": "https://api.discogs.com/labels/931046"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "5",
+                    "entity_type_name": "Licensed To",
+                    "id": "40",
+                    "name": "Loaded Records",
+                    "resource_url": "https://api.discogs.com/labels/40"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "6",
+                    "entity_type_name": "Licensed From",
+                    "id": "271486",
+                    "name": "EMI Special Markets",
+                    "resource_url": "https://api.discogs.com/labels/271486"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "6",
+                    "entity_type_name": "Licensed From",
+                    "id": "405",
+                    "name": "Skint Records",
+                    "resource_url": "https://api.discogs.com/labels/405"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "6",
+                    "entity_type_name": "Licensed From",
+                    "id": "531948",
+                    "name": "Universal Special Markets",
+                    "resource_url": "https://api.discogs.com/labels/531948"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "6",
+                    "entity_type_name": "Licensed From",
+                    "id": "3967",
+                    "name": "16 Inch Records",
+                    "resource_url": "https://api.discogs.com/labels/3967"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "6",
+                    "entity_type_name": "Licensed From",
+                    "id": "306025",
+                    "name": "Stargate Music",
+                    "resource_url": "https://api.discogs.com/labels/306025"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "6",
+                    "entity_type_name": "Licensed From",
+                    "id": "3001",
+                    "name": "Neo Records Ltd.",
+                    "resource_url": "https://api.discogs.com/labels/3001"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "6",
+                    "entity_type_name": "Licensed From",
+                    "id": "318337",
+                    "name": "Ministry Of Sound (UK) Pty Ltd",
+                    "resource_url": "https://api.discogs.com/labels/318337"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "6",
+                    "entity_type_name": "Licensed From",
+                    "id": "224218",
+                    "name": "EMI Commercial Markets",
+                    "resource_url": "https://api.discogs.com/labels/224218"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "6",
+                    "entity_type_name": "Licensed From",
+                    "id": "273219",
+                    "name": "Energy Production s.r.l.",
+                    "resource_url": "https://api.discogs.com/labels/273219"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "6",
+                    "entity_type_name": "Licensed From",
+                    "id": "268296",
+                    "name": "Hooj Choons Ltd.",
+                    "resource_url": "https://api.discogs.com/labels/268296"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "6",
+                    "entity_type_name": "Licensed From",
+                    "id": "150021",
+                    "name": "React Music Ltd",
+                    "resource_url": "https://api.discogs.com/labels/150021"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "6",
+                    "entity_type_name": "Licensed From",
+                    "id": "5061",
+                    "name": "Generate Music",
+                    "resource_url": "https://api.discogs.com/labels/5061"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "6",
+                    "entity_type_name": "Licensed From",
+                    "id": "464599",
+                    "name": "Deepswing Productions",
+                    "resource_url": "https://api.discogs.com/labels/464599"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "265460",
+                    "name": "EMI Music Publishing Ltd.",
+                    "resource_url": "https://api.discogs.com/labels/265460"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "23694",
+                    "name": "Universal Music",
+                    "resource_url": "https://api.discogs.com/labels/23694"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "349531",
+                    "name": "Cage Music",
+                    "resource_url": "https://api.discogs.com/labels/349531"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "189548",
+                    "name": "Sony Music Publishing",
+                    "resource_url": "https://api.discogs.com/labels/189548"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "48207",
+                    "name": "Copyright Control",
+                    "resource_url": "https://api.discogs.com/labels/48207"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "265433",
+                    "name": "Cage Music Ltd.",
+                    "resource_url": "https://api.discogs.com/labels/265433"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "19882",
+                    "name": "Sony",
+                    "resource_url": "https://api.discogs.com/labels/19882"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "3198",
+                    "name": "Chrysalis",
+                    "resource_url": "https://api.discogs.com/labels/3198"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "79791",
+                    "name": "BMG Music Publishing",
+                    "resource_url": "https://api.discogs.com/labels/79791"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "264594",
+                    "name": "Strictly Confidential (2)",
+                    "resource_url": "https://api.discogs.com/labels/264594"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "318352",
+                    "name": "Energy Srl",
+                    "resource_url": "https://api.discogs.com/labels/318352"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "274251",
+                    "name": "Finger In The Dyke Music",
+                    "resource_url": "https://api.discogs.com/labels/274251"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "258541",
+                    "name": "Global Groove Music",
+                    "resource_url": "https://api.discogs.com/labels/258541"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "35767",
+                    "name": "Sym Music",
+                    "resource_url": "https://api.discogs.com/labels/35767"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "26",
+                    "entity_type_name": "Produced At",
+                    "id": "396229",
+                    "name": "Chumboland",
+                    "resource_url": "https://api.discogs.com/labels/396229"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "313721",
+                    "name": "Hoedown City II",
+                    "resource_url": "https://api.discogs.com/labels/313721"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "27",
+                    "entity_type_name": "Mixed At",
+                    "id": "313721",
+                    "name": "Hoedown City II",
+                    "resource_url": "https://api.discogs.com/labels/313721"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "27",
+                    "entity_type_name": "Mixed At",
+                    "id": "266623",
+                    "name": "Nomis Studios",
+                    "resource_url": "https://api.discogs.com/labels/266623"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "24",
+                    "entity_type_name": "Engineered At",
+                    "id": "313721",
+                    "name": "Hoedown City II",
+                    "resource_url": "https://api.discogs.com/labels/313721"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "24",
+                    "entity_type_name": "Engineered At",
+                    "id": "318338",
+                    "name": "My Yard Studios",
+                    "resource_url": "https://api.discogs.com/labels/318338"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "24",
+                    "entity_type_name": "Engineered At",
+                    "id": "617812",
+                    "name": "Creator Studios Sheffield",
+                    "resource_url": "https://api.discogs.com/labels/617812"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "37",
+                    "entity_type_name": "Produced For",
+                    "id": "72498",
+                    "name": "Chumbomundo",
+                    "resource_url": "https://api.discogs.com/labels/72498"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "37",
+                    "entity_type_name": "Produced For",
+                    "id": "608966",
+                    "name": "Stay Tuned Productions",
+                    "resource_url": "https://api.discogs.com/labels/608966"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "37",
+                    "entity_type_name": "Produced For",
+                    "id": "464599",
+                    "name": "Deepswing Productions",
+                    "resource_url": "https://api.discogs.com/labels/464599"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "37",
+                    "entity_type_name": "Produced For",
+                    "id": "5005",
+                    "name": "Twisted America Records",
+                    "resource_url": "https://api.discogs.com/labels/5005"
+                }
+            ]
+        },
+        "country": "UK",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "2237071",
+                    "join": "",
+                    "name": "Compression Studios",
+                    "role": "Design, Illustration",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "901698",
+                    "join": "",
+                    "name": "Steven Newman",
+                    "role": "Design, Illustration",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "69319",
+                    "join": "",
+                    "name": "Pete Gleadall",
+                    "role": "Engineer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "102062",
+                    "join": "",
+                    "name": "Rob Di Stefano",
+                    "role": "Executive-Producer, A\u0026R [Twisted A\u0026R], Liner Notes",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1667617",
+                    "join": "",
+                    "name": "Mitch Clark",
+                    "role": "Management [Tom Stephan Is Managed By]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1920208",
+                    "join": "",
+                    "name": "Roxanna Ashton",
+                    "role": "Management [Tom Stephan Is Managed By]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "2123697",
+                    "join": "",
+                    "name": "Sanctuary Artist Management",
+                    "role": "Management [Tom Stephan Is Managed By]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "2388331",
+                    "join": "",
+                    "name": "Brandon Bishop",
+                    "role": "Photography By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "8462",
+                    "join": "",
+                    "name": "Tom Stephan",
+                    "role": "Producer, DJ Mix [Beatmixed By]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "9632131",
+                    "join": "",
+                    "name": "Andy Mac (17)",
+                    "role": "Promotion [Prepared For Release In The UK By]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "4410760",
+                    "join": "",
+                    "name": "Dave Philpot",
+                    "role": "Promotion [Prepared For Release In The UK By]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "434465",
+                    "join": "",
+                    "name": "Tim Jeffery",
+                    "role": "Promotion [Prepared For Release In The UK By]",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "Mixed"
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Barcode",
+                    "_value": "5 025425 200656"
+                },
+                {
+                    "_type": "Barcode",
+                    "_value": "5025425200656"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "DISCTRONICS LOADED 6 CD 01"
+                },
+                {
+                    "_type": "Mould SID Code",
+                    "_value": "IFPI 8725"
+                },
+                {
+                    "_type": "Mastering SID Code",
+                    "_value": "IFPI L502"
+                }
+            ]
+        },
+        "images": {
+            "image": {
+                "_height": "300",
+                "_type": "secondary",
+                "_uri": "",
+                "_uri150": "",
+                "_width": "300"
+            }
+        },
+        "labels": {
+            "label": [
+                {
+                    "_catno": "LOADED6CD",
+                    "_id": "40",
+                    "_name": "Loaded Records"
+                },
+                {
+                    "_catno": "LOADED6CD",
+                    "_id": "5005",
+                    "_name": "Twisted America Records"
+                }
+            ]
+        },
+        "notes": "Track 1 published by EMI Music Publishing Ltd. / Universal Music. Written and produced for 19 Productions. Remix and additional production for Chumbomundo. Engineered at Hoedown City II, London. The copyright in this sound recording is owned by EMI Records Ltd., reproduced here under license from EMI Special Markets. ℗ 2001 EMI Records Ltd.\n\nTrack 2 published by Cage Music / Sony Music Publishing (PRS) / Copyright Control. Engineered at Hoedown City II, London. The copyright in this sound recording is owned by TWISTED Records, NYC. ℗ 2002 TWISTED.\n\nTrack 3 published by Cage Music / Sony Music Publishing (PRS). Produced, mixed and arranged for ChumboMundo. Recorded at Hoedown City II, London. The copyright in this sound recording is owned by TWISTED Records, NYC. ℗ 2002 TWISTED.\n\nTrack 4 remix and additional production for Chumbomundo. Engineered at Hoedown City II, London. ℗ 2001 XL Recordings Ltd.\n\nTrack 5 published by Cage Music Ltd / Sony (PRS) / Copyright Control. Engineered at Hoedown City II, London. Additional remix and production for ChumboMundo. ℗ 2002 Anodyne.\n\nTrack 6 published by Chrysalis / BMG Music Publishing. Additional production and remix for Chumbomundo. Appears courtesy of Skint Records. ℗ 2000 Skint Records.\n\nTrack 7 published by Strictly Confidential (SABAM). Produced for Stay Tuned Productions. Additional remix and production for Chumbomundo. Engineered at Hoedown City II, London. Under license from Universal Special Markets. ℗ 1998 MCA Records, Inc. by arrangement with TWISTED.\n\nTrack 8 [published by] Copyright Control. Remix and additional production for Chumbomundo. Engineered at Hoedown City II, London. Licensed from 16 Inch Records / Stargate Music / Neo Records Ltd.\n\nTrack 9 published by Copyright Control. Remix and additional production for Chumbomundo. Engineered at Hoedown City II, London. The copyright in this sound recording is owned by Whatever Productions, under exclusive license from Ministry Of Sound (UK) Pty. Ltd. to EMI Records, Ltd. Licensed courtesy of EMI Commercial Markets. ℗ 2000 Whatever Productions, under exclusive license from Ministry Of Sound (UK) Pty. Ltd. to EMI Records, Ltd.\n\nTrack 10 published by Copyright Control / Energy Srl. Engineered at My Yard Studios, London. Contains a sample of “[m=148616]” by [a44011] courtesy of Energy Productions Srl. Remix and additional production for Chumbomundo. Engineered at Hoedown City II, London. Licensed from Hooj Choons Ltd. ℗ 2001 Hooj Choons Ltd.\n\nTrack 11 published by Cage Music / Sony Music Publishing (PRS). Produced, mixed and arranged for ChumboMundo. Recorded at Hoedown City II, London. Pre-production at Chumboland, London. The copyright in this sound recording is owned by TWISTED Records, NYC. ℗ 2001 TWISTED.\n\nTrack 12 published by Finger In The Dyke Music. Under license from React Music Ltd. ℗ 1991 Lower East Side Records BV.\n\nTrack 13 published by Global Groove Music (BMI) / Sym Music. Produced for Deepswing Productions. ℗ 2001 Time Srl, under license from Generate Music / Deepswing Productions under exclusive license to Sony Music Entertainment (UK).\n\nTrack 14 published by Cage Music / Copyright Control. Engineered at Creator Studios. ℗ 2002 Vudu Recordings.\n\nProduced and beatmixed for Chumbomundo. Executive produced for Twisted. Mixed at Hoedown City II, London and Nomis, London.\n\nOn inlay:\nThis compilation ℗\u0026© TWISTED under exclusive license to Loaded Records. Made in the UK. Distribution: 3MV.\n\nOn disc:\nThis compilation ℗\u0026© TWISTED under exclusive license to Loaded Records. Made in the UK.\n\nThe release is housed in a standard jewel case with front and rear inserts. Hype sticker affixed to front of case states: “Includes [url=https://www.discogs.com/artist/13608-Kylie-Minogue]Kylie[/url] [a1600] and [a2937]”.\n\nThere are a few mistakes and variances listed on the release. These include, but are not limited to the following:\n● Track 4 remix title appears as ’SuperGetOff’ on the inlay and as ’Superchumbo’s Supergetoff’ in the booklet\n● Track 5 remix title appears as ’Titty Twister Dub’ on the inlay and as ’Superchumbo’s Titty Twisted Dub’ in the booklet.\n● Track 6 artist name appears as ‘X-Press II’ on the inlay and as ‘X-Press 2’ in the booklet.\n● Track 7 featuring credit appears in the booklet only.\n● Track 11 featured artist is listed as ‘Victoria Wilson-James’ on the inlay and incorrectly as ‘Sylvia Mason James’ in the booklet.",
+        "released": "2002",
+        "styles": {
+            "style": [
+                "Tribal",
+                "Progressive House",
+                "Acid House"
+            ]
+        },
+        "title": "Leadhead! The Sound Of Superchumbo",
+        "tracklist": {
+            "track": [
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "13608",
+                            "join": "",
+                            "name": "Kylie Minogue",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:52",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "69319",
+                                "join": "",
+                                "name": "Pete Gleadall",
+                                "role": "Engineer",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "32394",
+                                "join": "",
+                                "name": "Cathy Dennis",
+                                "role": "Producer, Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "8462",
+                                "join": "",
+                                "name": "Tom Stephan",
+                                "role": "Remix, Producer [Additional Production By]",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "1",
+                    "title": "Can't Get You Out Of My Head (Todo Mamado Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "52187",
+                            "join": "",
+                            "name": "Plastic Surge",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:08",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "69319",
+                                "join": "",
+                                "name": "Pete Gleadall",
+                                "role": "Engineer",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "59509",
+                                "join": "",
+                                "name": "Miguel Pellitero",
+                                "role": "Producer, Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "8462",
+                                "join": "",
+                                "name": "Tom Stephan",
+                                "role": "Producer, Written-By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "2",
+                    "title": "Sonido"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "15606",
+                            "join": "",
+                            "name": "Superchumbo",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:52",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "69319",
+                                "join": "",
+                                "name": "Pete Gleadall",
+                                "role": "Engineer",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "Sylvia Mason James",
+                                "id": "48766",
+                                "join": "",
+                                "name": "Sylvia Mason-James",
+                                "role": "Featuring, Vocals",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "8462",
+                                "join": "",
+                                "name": "Tom Stephan",
+                                "role": "Producer, Mixed By, Arranged By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "T. Stephan",
+                                "id": "8462",
+                                "join": "",
+                                "name": "Tom Stephan",
+                                "role": "Written-By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "3",
+                    "title": "Irresistible (Mouthwatering Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1600",
+                            "join": "",
+                            "name": "Basement Jaxx",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:37",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "69319",
+                                "join": "",
+                                "name": "Pete Gleadall",
+                                "role": "Engineer",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "8462",
+                                "join": "",
+                                "name": "Tom Stephan",
+                                "role": "Producer [Additional Production By]",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "1600",
+                                "join": "",
+                                "name": "Basement Jaxx",
+                                "role": "Producer, Mixed By, Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "15606",
+                                "join": "",
+                                "name": "Superchumbo",
+                                "role": "Remix",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "8462",
+                                "join": "",
+                                "name": "Tom Stephan",
+                                "role": "Remix",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "4",
+                    "title": "Get Me Off (Superchumbo’s SuperGetOff)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "32753",
+                            "join": "",
+                            "name": "Nipple",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:52",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "69319",
+                                "join": "",
+                                "name": "Pete Gleadall",
+                                "role": "Engineer",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "69319",
+                                "join": "",
+                                "name": "Pete Gleadall",
+                                "role": "Producer, Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "8462",
+                                "join": "",
+                                "name": "Tom Stephan",
+                                "role": "Producer, Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "15606",
+                                "join": "",
+                                "name": "Superchumbo",
+                                "role": "Remix",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "8462",
+                                "join": "",
+                                "name": "Tom Stephan",
+                                "role": "Remix [Additional Remix By], Producer [Additional Production By]",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "5",
+                    "title": "Dance (Superchumbo’s Titty Twisted Dub)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "2937",
+                            "join": "",
+                            "name": "X-Press 2",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:14",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "A. Beedle",
+                                "id": "532",
+                                "join": "",
+                                "name": "Ashley Beedle",
+                                "role": "Producer, Arranged By, Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "D. House",
+                                "id": "670400",
+                                "join": "",
+                                "name": "Darren House",
+                                "role": "Producer, Arranged By, Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "D. Rock",
+                                "id": "124009",
+                                "join": "",
+                                "name": "Darren Rock",
+                                "role": "Producer, Arranged By, Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "8462",
+                                "join": "",
+                                "name": "Tom Stephan",
+                                "role": "Remix, Producer [Additional Production By]",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "6",
+                    "title": "Muzikizum (Superepus Dubud)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1644",
+                            "join": "",
+                            "name": "Danny Tenaglia",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:19",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "32522",
+                                "join": "",
+                                "name": "Jo-Jo Americo",
+                                "role": "Featuring, Vocals",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "Thomas P. Goss",
+                                "id": "425760",
+                                "join": "",
+                                "name": "Tommy Goss",
+                                "role": "Percussion [Live Percussion By]",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "1644",
+                                "join": "",
+                                "name": "Danny Tenaglia",
+                                "role": "Producer, Programmed By [Keyboard Programming], Drum Programming",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "5478",
+                                "join": "",
+                                "name": "Rob Rives",
+                                "role": "Recorded By, Engineer",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "8462",
+                                "join": "",
+                                "name": "Tom Stephan",
+                                "role": "Remix [Additional Remix By], Producer [Additional Production By]",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "Daniel Bressanutti",
+                                "id": "43841",
+                                "join": "",
+                                "name": "Daniel B.",
+                                "role": "Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "92674",
+                                "join": "",
+                                "name": "Jean-Luc De Meyer",
+                                "role": "Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "43842",
+                                "join": "",
+                                "name": "Patrick Codenys",
+                                "role": "Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "232851",
+                                "join": "",
+                                "name": "Richard 23",
+                                "role": "Written-By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "7",
+                    "title": "Headhunter (Leadhead Dub)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "6433",
+                            "join": "",
+                            "name": "Darude",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "3:34",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "8462",
+                                "join": "",
+                                "name": "Tom Stephan",
+                                "role": "Producer [Additional Production By]",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "35833",
+                                "join": "",
+                                "name": "JS16",
+                                "role": "Producer, Mixed By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "15606",
+                                "join": "",
+                                "name": "Superchumbo",
+                                "role": "Remix",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "8462",
+                                "join": "",
+                                "name": "Tom Stephan",
+                                "role": "Remix",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "Vile Virtanen",
+                                "id": "480625",
+                                "join": "",
+                                "name": "Ville Virtanen",
+                                "role": "Written-By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "8",
+                    "title": "Sandstorm (Superchumbo's Sandy Sandstorm)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "Love Tattoo",
+                            "id": "10402",
+                            "join": "",
+                            "name": "[Love] Tattoo",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "3:12",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "69319",
+                                "join": "",
+                                "name": "Pete Gleadall",
+                                "role": "Engineer",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "8462",
+                                "join": "",
+                                "name": "Tom Stephan",
+                                "role": "Remix, Producer [Additional Production By]",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "225099",
+                                "join": "",
+                                "name": "Justin Shave",
+                                "role": "Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "227064",
+                                "join": "",
+                                "name": "Stephen Allkins",
+                                "role": "Written-By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "9",
+                    "title": "Drop Some Drums (Volta Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "8461",
+                            "join": "",
+                            "name": "David James",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:11",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "38337",
+                                "join": "",
+                                "name": "Mark Yardley",
+                                "role": "Engineer",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "69319",
+                                "join": "",
+                                "name": "Pete Gleadall",
+                                "role": "Engineer",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "8461",
+                                "join": "",
+                                "name": "David James",
+                                "role": "Producer",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "38337",
+                                "join": "",
+                                "name": "Mark Yardley",
+                                "role": "Producer",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "8462",
+                                "join": "",
+                                "name": "Tom Stephan",
+                                "role": "Producer [Additional Production By]",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "15606",
+                                "join": "",
+                                "name": "Superchumbo",
+                                "role": "Remix",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "8462",
+                                "join": "",
+                                "name": "Tom Stephan",
+                                "role": "Remix",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "8461",
+                                "join": "",
+                                "name": "David James",
+                                "role": "Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "D. Sabaian",
+                                "id": "369873",
+                                "join": "",
+                                "name": "Davide Sabadin",
+                                "role": "Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "38337",
+                                "join": "",
+                                "name": "Mark Yardley",
+                                "role": "Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "M. Zannaro",
+                                "id": "497110",
+                                "join": "",
+                                "name": "Massimo Zennaro",
+                                "role": "Written-By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "10",
+                    "title": "(Always) A Permanent State (Superchumbo Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "15606",
+                            "join": "",
+                            "name": "Superchumbo",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:09",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "69319",
+                                "join": "",
+                                "name": "Pete Gleadall",
+                                "role": "Engineer",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "31934",
+                                "join": "",
+                                "name": "Victoria Wilson-James",
+                                "role": "Featuring, Vocals",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "8462",
+                                "join": "",
+                                "name": "Tom Stephan",
+                                "role": "Producer, Mixed By, Arranged By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "T. Stephan",
+                                "id": "8462",
+                                "join": "",
+                                "name": "Tom Stephan",
+                                "role": "Written-By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "11",
+                    "title": "The Revolution (Volta Vocal Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "6212",
+                            "join": "",
+                            "name": "Fierce Ruling Diva",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "3:26",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "128575",
+                                "join": "",
+                                "name": "Jeff Porter",
+                                "role": "Producer, Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "147286",
+                                "join": "",
+                                "name": "Jeroen Flamman",
+                                "role": "Producer, Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "8462",
+                                "join": "",
+                                "name": "Tom Stephan",
+                                "role": "Remix, Producer [Additional Production By]",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "19573",
+                                "join": "",
+                                "name": "Abraxas",
+                                "role": "Vocals",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "12",
+                    "title": "You Gotta Believe (Atomic Slyde) (Roach Remix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "78236",
+                            "join": "",
+                            "name": "Deep Swing",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:17",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "428120",
+                                "join": "",
+                                "name": "Eric Wikman",
+                                "role": "Producer",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "63599",
+                                "join": "",
+                                "name": "James Donaldson",
+                                "role": "Producer",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "15606",
+                                "join": "",
+                                "name": "Superchumbo",
+                                "role": "Remix [Uncredited]",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "85115",
+                                "join": "",
+                                "name": "Robert Wilson",
+                                "role": "Vocals [Vocal Snippets By]",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "E. Wikman",
+                                "id": "428120",
+                                "join": "",
+                                "name": "Eric Wikman",
+                                "role": "Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "J. Donaldson",
+                                "id": "63599",
+                                "join": "",
+                                "name": "James Donaldson",
+                                "role": "Written-By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "13",
+                    "title": "In The Music (High Octane Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "142554",
+                            "join": "",
+                            "name": "Rambo",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:43",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "24027",
+                                "join": "",
+                                "name": "D. Ramirez",
+                                "role": "Engineer",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "24027",
+                                "join": "",
+                                "name": "D. Ramirez",
+                                "role": "Producer, Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "8462",
+                                "join": "",
+                                "name": "Tom Stephan",
+                                "role": "Producer, Written-By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "14",
+                    "title": "Turn It Up"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "573",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=hhJi-bwcQT0",
+                    "description": "KPRO14\nPortugal\n2000\nCompilatios of 2 × Vinyl, 12",
+                    "title": "Danny Tenaglia Feat. Jo Jo Americo - Headhunter (Superchumbo Remix)"
+                },
+                {
+                    "_duration": "563",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=dw9NbCt_PiQ",
+                    "description": "Sound of the Floor.  Superchumbo Leadhead Dub.  Menace.\nPlastic Fantastic Records.\n2002.",
+                    "title": "Sound of the Floor (Superchumbo Leadhead Dub) - Menace"
+                }
+            ]
+        }
+    }
+}

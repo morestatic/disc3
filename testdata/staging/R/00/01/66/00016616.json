@@ -1,0 +1,183 @@
+{
+    "release": {
+        "_id": "16616",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "292989",
+                "join": "",
+                "name": "Kooler (2)",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": {
+                "catno": "",
+                "entity_type": "10",
+                "entity_type_name": "Manufactured By",
+                "id": "267946",
+                "name": "CD Plant AB",
+                "resource_url": "https://api.discogs.com/labels/267946"
+            }
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "Robert Sattler",
+                    "id": "451660",
+                    "join": "",
+                    "name": "Bobby Sattler",
+                    "role": "Saxophone",
+                    "tracks": ""
+                },
+                {
+                    "anv": "Robert Sattler",
+                    "id": "451660",
+                    "join": "",
+                    "name": "Bobby Sattler",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": [
+                "Electronic",
+                "Jazz"
+            ]
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "CD Plant AB PK 08/103 CDM01"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "597",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "589",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "598",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "468",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "605",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "250",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "254"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/103",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Kooler\r\nFrankfurt 1995\r\n\r\nLimitation: 1,000\r\nMade in Germany",
+        "released": "1995-06-10",
+        "styles": {
+            "style": [
+                "Minimal",
+                "Ambient",
+                "Contemporary Jazz"
+            ]
+        },
+        "title": "Kooler",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "47:54",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "Cacciatore",
+                            "id": "65491",
+                            "join": "",
+                            "name": "Rebucatt Cacciatore",
+                            "role": "Trumpet",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "1",
+                    "title": "Urban Isolationism"
+                },
+                {
+                    "duration": "10:10",
+                    "position": "2",
+                    "title": "Metro"
+                }
+            ]
+        },
+        "videos": {
+            "video": {
+                "_duration": "3487",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=oFtTHb6F3Pk",
+                "description": "A hidden gem from the Fax +49-69/450464 collection. Released 1995.",
+                "title": "Pete Namlook \u0026 Robert Sattler - Kooler (Full Album)"
+            }
+        }
+    }
+}

@@ -1,0 +1,185 @@
+{
+    "release": {
+        "_id": "6025",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "272",
+                "join": "",
+                "name": "Onionz \u0026 Tony",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "US",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "8226",
+                    "join": "",
+                    "name": "Greg Sankovich",
+                    "role": "Keyboards",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "272",
+                    "join": "",
+                    "name": "Onionz \u0026 Tony",
+                    "role": "Producer",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "EP"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_type": "Barcode",
+                "_value": "713405962216"
+            }
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "401",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "402"
+                },
+                {
+                    "_height": "404",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "402"
+                },
+                {
+                    "_height": "450",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "192"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "MDR9622-1",
+                "_id": "20",
+                "_name": "Moody Recordings"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "1631521"
+        },
+        "released": "2000-01-01",
+        "styles": {
+            "style": "House"
+        },
+        "title": "Slightly Touched EP",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A1",
+                    "title": "Everywhere You Are (Original Mix)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "11245",
+                            "join": "",
+                            "name": "B. McCarthy",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "A2",
+                    "title": "Everywhere You Are (B. McCarthy Mix)"
+                },
+                {
+                    "duration": "",
+                    "position": "B1",
+                    "title": "Everywhere You Are (Slightly Touched Mix)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "11245",
+                            "join": "",
+                            "name": "B. McCarthy",
+                            "role": "Engineer",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "B2",
+                    "title": "Everywhere You Are (Slightly Dubbed Mix)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "398",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=lbvus0sRLn8",
+                    "description": "Provided to YouTube by Symphonic Distribution\n\nEverywhere You Are · Onionz · Tony\n\nSlightly Touched EP\n\n℗ 2013 Moody Recordings\n\nReleased on: 2013-08-25\n\nArtist: Tony\n\nAuto-generated by YouTube.",
+                    "title": "Everywhere You Are (Original Mix)"
+                },
+                {
+                    "_duration": "450",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=xiBQKQDnZMc",
+                    "description": "Provided to YouTube by Symphonic Distribution\n\nEverywhere You Are · Onionz · Tony · B McCarthy\n\nSlightly Touched EP\n\n℗ 2013 Moody Recordings\n\nReleased on: 2013-08-25\n\nArtist: Tony\nRemixer: B McCarthy\n\nAuto-generated by YouTube.",
+                    "title": "Everywhere You Are (B McCarthy Mix)"
+                },
+                {
+                    "_duration": "459",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=ZGxkVt8uCHs",
+                    "description": "Provided to YouTube by Symphonic Distribution\n\nEverywhere You Are · Onionz · Tony\n\nSlightly Touched EP\n\n℗ 2013 Moody Recordings\n\nReleased on: 2013-08-25\n\nArtist: Tony\n\nAuto-generated by YouTube.",
+                    "title": "Everywhere You Are (Slightly Touched Mix)"
+                },
+                {
+                    "_duration": "491",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=UqH-2mtM8BU",
+                    "description": "Provided to YouTube by Symphonic Distribution\n\nEverywhere You Are · Onionz · Tony\n\nSlightly Touched EP\n\n℗ 2013 Moody Recordings\n\nReleased on: 2013-08-25\n\nArtist: Tony\n\nAuto-generated by YouTube.",
+                    "title": "Everywhere You Are (Slightly Dubbed Mix)"
+                }
+            ]
+        }
+    }
+}

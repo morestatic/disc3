@@ -1,0 +1,691 @@
+{
+    "release": {
+        "_id": "7491",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "16",
+                "join": "",
+                "name": "Christian Smith",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "10",
+                    "entity_type_name": "Manufactured By",
+                    "id": "29074",
+                    "name": "Moonshine Music",
+                    "resource_url": "https://api.discogs.com/labels/29074"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "9",
+                    "entity_type_name": "Distributed By",
+                    "id": "29074",
+                    "name": "Moonshine Music",
+                    "resource_url": "https://api.discogs.com/labels/29074"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "457018",
+                    "name": "Moonshine Creative Media LLC",
+                    "resource_url": "https://api.discogs.com/labels/457018"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "457018",
+                    "name": "Moonshine Creative Media LLC",
+                    "resource_url": "https://api.discogs.com/labels/457018"
+                },
+                {
+                    "catno": "175893",
+                    "entity_type": "17",
+                    "entity_type_name": "Pressed By",
+                    "id": "100643",
+                    "name": "Rainbo Records",
+                    "resource_url": "https://api.discogs.com/labels/100643"
+                }
+            ]
+        },
+        "country": "US",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "16",
+                "join": "",
+                "name": "Christian Smith",
+                "role": "DJ Mix, Compiled By",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Compilation",
+                        "Mixed"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Barcode",
+                    "_value": "7 85688 01532 3"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "RBO2358-MM80153RE C4 175893-01 RAINBO CA"
+                },
+                {
+                    "_type": "Mastering SID Code",
+                    "_value": "IFPI L894"
+                },
+                {
+                    "_type": "Mould SID Code",
+                    "_value": "IFPI A603"
+                }
+            ]
+        },
+        "images": {
+            "image": {
+                "_height": "296",
+                "_type": "primary",
+                "_uri": "",
+                "_uri150": "",
+                "_width": "300"
+            }
+        },
+        "labels": {
+            "label": {
+                "_catno": "MM 80153-2",
+                "_id": "29074",
+                "_name": "Moonshine Music"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "false",
+            "content": "37993"
+        },
+        "released": "2001",
+        "styles": {
+            "style": [
+                "Tribal",
+                "Techno",
+                "Tech House",
+                "Electro"
+            ]
+        },
+        "title": "Tronic Treatment",
+        "tracklist": {
+            "track": [
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "16",
+                            "join": "",
+                            "name": "Christian Smith",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "0:11",
+                    "position": "1",
+                    "title": "Juicy Pad"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "3362",
+                            "join": "",
+                            "name": "Angel Alanis",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:03",
+                    "position": "2",
+                    "title": "Do You Like The Way You Feel When You Shake?"
+                },
+                {
+                    "artists": {
+                        "artist": [
+                            {
+                                "anv": "A.D.N.Y.",
+                                "id": "50",
+                                "join": "\u0026",
+                                "name": "ADNY",
+                                "role": "",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "84692",
+                                "join": "",
+                                "name": "Moonchild",
+                                "role": "",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "duration": "2:14",
+                    "position": "3",
+                    "title": "Falling"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "G-Flame",
+                            "id": "1377",
+                            "join": "",
+                            "name": "G Flame",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "2:39",
+                    "position": "4",
+                    "title": "Take Me Back"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1383",
+                            "join": "",
+                            "name": "Gaetano Parisio",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "3:25",
+                    "position": "5",
+                    "title": "The Preface"
+                },
+                {
+                    "artists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "1647",
+                                "join": "\u0026",
+                                "name": "Junior Sanchez",
+                                "role": "",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "16",
+                                "join": "",
+                                "name": "Christian Smith",
+                                "role": "",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "duration": "2:58",
+                    "position": "6",
+                    "title": "United Groove"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "5133",
+                            "join": "",
+                            "name": "Santos Rodriguez",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "2:04",
+                    "position": "7",
+                    "title": "Road To Rio"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "Samuel L Sessions",
+                            "id": "212070",
+                            "join": "",
+                            "name": "Samuel L Session",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "1:50",
+                    "position": "8",
+                    "title": "You Make Me Shiver"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "6034",
+                            "join": "",
+                            "name": "Michel De Hey vs. Grooveyard",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "3:51",
+                    "position": "9",
+                    "title": "Compound"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1737",
+                            "join": "",
+                            "name": "The Hacker",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:14",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1614",
+                            "join": "",
+                            "name": "Oxia",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "10",
+                    "title": "Fadin' Away (Oxia Remix)"
+                },
+                {
+                    "artists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "1505",
+                                "join": "Featuring",
+                                "name": "Trevor Rockcliffe",
+                                "role": "",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "1100",
+                                "join": "",
+                                "name": "Blake Baxter",
+                                "role": "",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "duration": "3:19",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "1100",
+                                "join": "",
+                                "name": "Blake Baxter",
+                                "role": "Featuring",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "3906",
+                                "join": "",
+                                "name": "Christian Smith \u0026 John Selway",
+                                "role": "Remix",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "11",
+                    "title": "Visions Of You (Smith \u0026 Selway Remix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "16",
+                            "join": "",
+                            "name": "Christian Smith",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "1:53",
+                    "position": "12",
+                    "title": "Mojito"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1536",
+                            "join": "",
+                            "name": "Zeta Reticula",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "3:18",
+                    "position": "13",
+                    "title": "EP2"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "K-Alexy Shelby",
+                            "id": "2184",
+                            "join": "",
+                            "name": "K-Alexi",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "1:24",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1174",
+                            "join": "",
+                            "name": "Sterac",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "14",
+                    "title": "Club M.C.M. (Sterac Remix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "3947",
+                            "join": "",
+                            "name": "Ben Sims",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "2:20",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1360",
+                            "join": "",
+                            "name": "Adam Beyer",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "15",
+                    "title": "Remanipulator (Adam Beyer Remix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "3906",
+                            "join": "",
+                            "name": "Christian Smith \u0026 John Selway",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "3:02",
+                    "position": "16",
+                    "title": "Endzone"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "3776",
+                            "join": "",
+                            "name": "DJ Shufflemaster",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "1:10",
+                    "position": "17",
+                    "title": "A1"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1524",
+                            "join": "",
+                            "name": "UK Gold",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "2:05",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "2156",
+                            "join": "",
+                            "name": "Ben Long",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "18",
+                    "title": "Agent Wood (Ben Long Remix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "8736",
+                            "join": "",
+                            "name": "DJ Rob Little",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "3:03",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "HMC",
+                            "id": "2620",
+                            "join": "",
+                            "name": "DJ HMC",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "19",
+                    "title": "Pulsate (DJ HMC Remix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "2992",
+                            "join": "",
+                            "name": "Chester Beatty",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "2:56",
+                    "position": "20",
+                    "title": "Levanon"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "3947",
+                            "join": "",
+                            "name": "Ben Sims",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "3:43",
+                    "position": "21",
+                    "title": "The Dubs"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "4197",
+                            "join": "",
+                            "name": "Oliver Ho",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "2:47",
+                    "position": "22",
+                    "title": "From Ancient To Present"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1360",
+                            "join": "",
+                            "name": "Adam Beyer",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "1:09",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "491",
+                            "join": "",
+                            "name": "Thomas Krome",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "23",
+                    "title": "Remainings III (Thomas Krome Remix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "C \u0026 G Soundsystem",
+                            "id": "21182",
+                            "join": "",
+                            "name": "C \u0026 G Southsystem",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:05",
+                    "position": "24",
+                    "title": "A1"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "3906",
+                            "join": "",
+                            "name": "Christian Smith \u0026 John Selway",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "1:43",
+                    "position": "25",
+                    "title": "Move!"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1605",
+                            "join": "",
+                            "name": "Deetron",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "2:31",
+                    "position": "26",
+                    "title": "A1"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "3906",
+                            "join": "",
+                            "name": "Christian Smith \u0026 John Selway",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "3:40",
+                    "position": "27",
+                    "title": "Excel"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "Metier",
+                            "id": "588109",
+                            "join": "",
+                            "name": "Métier",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "1:07",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1175",
+                            "join": "",
+                            "name": "James Ruskin",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "28",
+                    "title": "Body Electric (James Ruskin Remix)"
+                }
+            ]
+        },
+        "videos": {
+            "video": {
+                "_duration": "4501",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=Ayyw8Rb1ljw",
+                "description": "Tracklist:\n\n–Christian Smith  Juicy Pad  0:11  \n–A2 (Angel Alanis)  Do You Like The Way You Feel When You Shake?  5:03  \n–A.D.N.Y. \u0026 Moonchild  Falling  2:14  \n–G-Flame  Take Me Back  2:39  \n–Gaetano Parisio  The Preface  3:25  \n–Junior Sanche",
+                "title": "Christian Smith - Tronic Treatment (2001)"
+            }
+        }
+    }
+}

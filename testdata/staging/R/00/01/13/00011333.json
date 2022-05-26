@@ -1,0 +1,141 @@
+{
+    "release": {
+        "_id": "11333",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "D.J. Rhythm",
+                "id": "9880",
+                "join": "",
+                "name": "DJ Rhythm",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "US",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": {
+                "anv": "D.J. Rhythm",
+                "id": "9880",
+                "join": "",
+                "name": "DJ Rhythm",
+                "role": "Producer, Written-By",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_type": "Barcode",
+                "_value": "7 13405 96021 2"
+            }
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "450",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "450"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "MDR9602-1",
+                "_id": "20",
+                "_name": "Moody Recordings"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "139252"
+        },
+        "released": "1999",
+        "styles": {
+            "style": "House"
+        },
+        "title": "Disco Ingredients",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A1",
+                    "title": "Dance Odyssey"
+                },
+                {
+                    "duration": "",
+                    "position": "A2",
+                    "title": "A.M. Groove"
+                },
+                {
+                    "duration": "",
+                    "position": "B1",
+                    "title": "The Journey"
+                },
+                {
+                    "duration": "",
+                    "position": "B2",
+                    "title": "Boogie Nights"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "421",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=0s1UKKkL2qI",
+                    "description": "DJ Rhythm - A.M. Groove",
+                    "title": "DJ Rhythm - A.M. Groove"
+                },
+                {
+                    "_duration": "421",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=dGgJNiKwx-Y",
+                    "description": "DJ Rhythm - Dance Odyssey",
+                    "title": "DJ Rhythm - Dance Odyssey"
+                },
+                {
+                    "_duration": "344",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=GM8QvwCuQtI",
+                    "description": "DJ Rhythm -The Journey",
+                    "title": "DJ Rhythm -The Journey"
+                },
+                {
+                    "_duration": "372",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=hz0AWTZk_co",
+                    "description": "DJ Rhythm - Boogie Nights",
+                    "title": "DJ Rhythm - Boogie Nights"
+                }
+            ]
+        }
+    }
+}

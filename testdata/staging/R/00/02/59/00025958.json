@@ -1,0 +1,201 @@
+{
+    "release": {
+        "_id": "25958",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "1579",
+                "join": "",
+                "name": "Luke Slater",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "17",
+                    "entity_type_name": "Pressed By",
+                    "id": "56025",
+                    "name": "MPO",
+                    "resource_url": "https://api.discogs.com/labels/56025"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "362251",
+                    "name": "Original Artists Music",
+                    "resource_url": "https://api.discogs.com/labels/362251"
+                }
+            ]
+        },
+        "country": "UK",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "1579",
+                "join": "",
+                "name": "Luke Slater",
+                "role": "Written-By, Producer",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "EP",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "A-side run-out",
+                    "_type": "Matrix / Runout",
+                    "_value": "LOAD 4A¹ MPO"
+                },
+                {
+                    "_description": "AA-side run-out",
+                    "_type": "Matrix / Runout",
+                    "_value": "LOAD 4 AA1 MPO"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "294",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "300"
+                },
+                {
+                    "_height": "293",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "300"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "LOAD4",
+                "_id": "40",
+                "_name": "Loaded Records"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "824946"
+        },
+        "released": "1992",
+        "styles": {
+            "style": [
+                "House",
+                "Techno"
+            ]
+        },
+        "title": "Maiden Voyage EP",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A1",
+                    "title": "I Like It"
+                },
+                {
+                    "duration": "",
+                    "position": "A2",
+                    "title": "I Want You Too!"
+                },
+                {
+                    "duration": "",
+                    "position": "AA1",
+                    "title": "D-Circuit"
+                },
+                {
+                    "duration": "",
+                    "position": "AA2",
+                    "title": "Stomp"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "45136",
+                            "join": "",
+                            "name": "Alan Sage",
+                            "role": "Written-By, Producer",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "AA3",
+                    "title": "Degrees Of Thinking"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "398",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=4XhX76OUkog",
+                    "description": "Provided to YouTube by Loaded Records\n\nI Like It · Luke Slater\n\nMaiden Voyage - EP\n\n℗ 1992 Loaded Records Limited, a BMG Company\n\nPerformance: Luke Slater\n\nAuto-generated by YouTube.",
+                    "title": "I Like It"
+                },
+                {
+                    "_duration": "391",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Ad0P7XVUM08",
+                    "description": "Itunes link - http://itunes.apple.com/gb/album/maiden-voyage-ep/id379268156",
+                    "title": "Luke Slater - I want you too"
+                },
+                {
+                    "_duration": "268",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=7WPC9IV0oJ4",
+                    "description": "Itunes link - http://itunes.apple.com/gb/album/maiden-voyage-ep/id379268156",
+                    "title": "Luke Slater - D-Circuit"
+                },
+                {
+                    "_duration": "394",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=BzvUHU93Rzw",
+                    "description": "Itunes link - http://itunes.apple.com/gb/album/maiden-voyage-ep/id379268156",
+                    "title": "Luke Slater - Degrees of thinking"
+                },
+                {
+                    "_duration": "355",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=qafxbom8CR8",
+                    "description": "Luke Slater ‎– Maiden Voyage -  EP 1992\r\nTechno\r\nhttps://www.discogs.com/fr/Luke-Slater-Maiden-Voyage-EP/master/824946",
+                    "title": "Luke Slater - Stomp"
+                },
+                {
+                    "_duration": "398",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Jd_0858Wvak",
+                    "description": "Provided to YouTube by BMG Rights Management (UK) Limited\n\nI Like It · Luke Slater\n\nMaiden Voyage - EP\n\n℗ 1992 Loaded Records Limited, a BMG Company\n\nReleased on: 1992-08-11\n\nPerformer: Luke Slater\nComposer: Luke Slater\n\nAuto-generated by YouTube.",
+                    "title": "I Like It"
+                }
+            ]
+        }
+    }
+}

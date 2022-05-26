@@ -1,0 +1,143 @@
+{
+    "release": {
+        "_id": "100853",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "71800",
+                "join": "",
+                "name": "Little City Recordings",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "UK",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "56073",
+                    "join": "",
+                    "name": "Noel Watson",
+                    "role": "Written-By, Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "414084",
+                    "join": "",
+                    "name": "Simon Mattocks",
+                    "role": "Written-By, Producer",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "EP"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "396",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "400"
+                },
+                {
+                    "_height": "407",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "400"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "LOAD 21",
+                "_id": "40",
+                "_name": "Loaded Records"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "674716"
+        },
+        "styles": {
+            "style": "House"
+        },
+        "title": "The Music Sessions E.P.",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "28522",
+                            "join": "",
+                            "name": "Play Boys",
+                            "role": "Remix, Producer [Additional]",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "A1",
+                    "title": "Wanna Dance"
+                },
+                {
+                    "duration": "",
+                    "position": "AA1",
+                    "title": "Over \u0026 Over"
+                },
+                {
+                    "duration": "",
+                    "position": "AA2",
+                    "title": "Feel It"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "442",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=VKGN678Msto",
+                    "description": "",
+                    "title": "Little City Recordings - Wanna Dance"
+                },
+                {
+                    "_duration": "409",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=QOxkC1esX-4",
+                    "description": "",
+                    "title": "Little City Recordings - Feel It"
+                },
+                {
+                    "_duration": "405",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=HsFNQ9o85kE",
+                    "description": "",
+                    "title": "Little City Recordings - Over and over"
+                }
+            ]
+        }
+    }
+}

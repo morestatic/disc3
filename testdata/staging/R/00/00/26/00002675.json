@@ -1,0 +1,212 @@
+{
+    "release": {
+        "_id": "2675",
+        "_status": "Accepted",
+        "artists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "50",
+                    "join": "Presents",
+                    "name": "ADNY",
+                    "role": "",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1386",
+                    "join": "",
+                    "name": "Leiva",
+                    "role": "",
+                    "tracks": ""
+                }
+            ]
+        },
+        "companies": "",
+        "country": "Germany",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "U.C.Graphic",
+                    "id": "1832542",
+                    "join": "",
+                    "name": "UC Graphic",
+                    "role": "Artwork [Visual Concept \u0026 Artwork]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "2527122",
+                    "join": "",
+                    "name": "Claus Geiss",
+                    "role": "Photography By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "50",
+                    "join": "",
+                    "name": "ADNY",
+                    "role": "Presenter",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "26",
+                    "join": "",
+                    "name": "Alexi Delano",
+                    "role": "Written-By, Producer",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "12\""
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Label Code",
+                    "_value": "LC4675"
+                },
+                {
+                    "_type": "Rights Society",
+                    "_value": "GEMA"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "150",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "150"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PLAX021-6",
+                "_id": "244",
+                "_name": "Plastic City"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "120872"
+        },
+        "released": "2000-05-08",
+        "styles": {
+            "style": "Deep House"
+        },
+        "title": "Musical Soul (Remixes)",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1319551",
+                            "join": "",
+                            "name": "George Ronteris",
+                            "role": "Vocals",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "A1",
+                    "title": "Musical Soul"
+                },
+                {
+                    "duration": "",
+                    "position": "A2",
+                    "title": "Quotes"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "56",
+                                "join": "",
+                                "name": "E.B.E. (2)",
+                                "role": "Remix",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "1319551",
+                                "join": "",
+                                "name": "George Ronteris",
+                                "role": "Vocals",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "B",
+                    "title": "Musical Soul (E.B.E. Remix)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "345",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=aYV7jIWTntw",
+                    "description": "",
+                    "title": "A.D.N.Y. pres. LEIVA  MUSICAL SOUL.wmv"
+                },
+                {
+                    "_duration": "408",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=kT3FfPTSX-E",
+                    "description": "",
+                    "title": "Adny  Leiva   Musical Soul Ebe rmx   PLAX021 6"
+                }
+            ]
+        }
+    }
+}

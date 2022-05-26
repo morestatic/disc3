@@ -1,0 +1,131 @@
+{
+    "release": {
+        "_id": "8835",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "62",
+                "join": "",
+                "name": "John Tejada",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": {
+                "catno": "",
+                "entity_type": "21",
+                "entity_type_name": "Published By",
+                "id": "314115",
+                "name": "Parallax Muzik",
+                "resource_url": "https://api.discogs.com/labels/314115"
+            }
+        },
+        "country": "US",
+        "data_quality": "Correct",
+        "extraartists": "",
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_type": "Rights Society",
+                "_value": "BMI"
+            }
+        },
+        "images": {
+            "image": {
+                "_height": "291",
+                "_type": "secondary",
+                "_uri": "",
+                "_uri150": "",
+                "_width": "300"
+            }
+        },
+        "labels": {
+            "label": {
+                "_catno": "003",
+                "_id": "30",
+                "_name": "Palette Recordings"
+            }
+        },
+        "released": "1997-00-00",
+        "styles": {
+            "style": "Tech House"
+        },
+        "title": "12 Volts Of Soft Spread",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "",
+                    "title": "Top Side"
+                },
+                {
+                    "duration": "",
+                    "position": "A1",
+                    "title": "Soft Spread"
+                },
+                {
+                    "duration": "",
+                    "position": "A2",
+                    "title": "Begin"
+                },
+                {
+                    "duration": "",
+                    "position": "",
+                    "title": "Bottom Side"
+                },
+                {
+                    "duration": "",
+                    "position": "B1",
+                    "title": "Spider Belly"
+                },
+                {
+                    "duration": "",
+                    "position": "B2",
+                    "title": "Mannequin Lung Remix"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "328",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Z-2qbDC-L98",
+                    "description": "Label: Palette Recordings ‎– 003\nFormat: Vinyl, 12, 33 ⅓ RPM \nCountry: US\nReleased: 1997\nGenre: Electronic\nStyle: Tech House",
+                    "title": "John Tejada - Soft Bread"
+                },
+                {
+                    "_duration": "324",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=vcjNlPZ3LqY",
+                    "description": "Label: Palette Recordings ‎– 003\nFormat: Vinyl, 12, 33 ⅓ RPM \nCountry: US\nReleased: 1997\nGenre: Electronic\nStyle: Tech House",
+                    "title": "John Tejada - Begin"
+                },
+                {
+                    "_duration": "261",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=WNiyplbsHsg",
+                    "description": "",
+                    "title": "john tejada - spider belly"
+                }
+            ]
+        }
+    }
+}

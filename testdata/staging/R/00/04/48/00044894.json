@@ -1,0 +1,276 @@
+{
+    "release": {
+        "_id": "44894",
+        "_status": "Accepted",
+        "artists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "60",
+                    "join": "Feat.",
+                    "name": "Pete Moss",
+                    "role": "",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "21474",
+                    "join": "",
+                    "name": "Terra Deva",
+                    "role": "",
+                    "tracks": ""
+                }
+            ]
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "1566139",
+                    "name": "Recline Music",
+                    "resource_url": "https://api.discogs.com/labels/1566139"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "1566165",
+                    "name": "Suga Music",
+                    "resource_url": "https://api.discogs.com/labels/1566165"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "4203",
+                    "name": "Definity Records",
+                    "resource_url": "https://api.discogs.com/labels/4203"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "4203",
+                    "name": "Definity Records",
+                    "resource_url": "https://api.discogs.com/labels/4203"
+                }
+            ]
+        },
+        "country": "US",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "217701",
+                    "join": "",
+                    "name": "Hector Romero",
+                    "role": "Executive-Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "102713",
+                    "join": "",
+                    "name": "Judy Weinstein",
+                    "role": "Executive-Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "369955",
+                    "join": "",
+                    "name": "Don Grossinger",
+                    "role": "Mastered By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "60",
+                    "join": "",
+                    "name": "Pete Moss",
+                    "role": "Producer, Engineer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "21474",
+                    "join": "",
+                    "name": "Terra Deva",
+                    "role": "Vocals, Lyrics By, Arranged By [Vocals]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "P. Moss",
+                    "id": "60",
+                    "join": "",
+                    "name": "Pete Moss",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "T. Deva",
+                    "id": "21474",
+                    "join": "",
+                    "name": "Terra Deva",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_type": "Barcode",
+                "_value": "634541001617"
+            }
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "159",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "DF016",
+                "_id": "4203",
+                "_name": "Definity Records"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "false",
+            "content": "551046"
+        },
+        "notes": "Recline Music ASCAP / B Suga Music BMI N. America\nB1 Remix for Def Mix Productions at Saw Recording Studios.\n(P)\u0026(C) Definity Records 2002 \nRun-out etching both sides: EUROPADISK DMM NY USA 57932 DON GROSSINGER",
+        "released": "2002-06-15",
+        "styles": {
+            "style": [
+                "Progressive House",
+                "Deep House"
+            ]
+        },
+        "title": "After 2",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "7:19",
+                    "position": "A1",
+                    "title": "After 2 (Pete Moss' Vocal Mix)"
+                },
+                {
+                    "duration": "5:27",
+                    "position": "A2",
+                    "title": "After 2 (Pete Moss' Dub Mix)"
+                },
+                {
+                    "duration": "8:37",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "838217",
+                                "join": "",
+                                "name": "Candy Moon",
+                                "role": "Producer [Additional Production Assistance]",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "5892",
+                                "join": "",
+                                "name": "Satoshi Tomiie",
+                                "role": "Remix",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "B1",
+                    "title": "After 2 (Satoshi Tomiie's Main Path Mix)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "582",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=nsABqTeP0Hs",
+                    "description": "Outstanding vocal progressive house 2002.",
+                    "title": "Pete Moss feat. Terra Deva - After 2 (Satoshi Tomiie Mix)"
+                },
+                {
+                    "_duration": "443",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=qJawmg12ofc",
+                    "description": "Pete Moss Feat. Terra Deva ‎– After 2\n\nLabel: Definity Records ‎– DF016\nFormat: Vinyl, 12 \nCountry: US\nReleased: 15 Jun 2002\nGenre: Electronic\nStyle: Progressive House, House",
+                    "title": "Pete Moss Feat. Terra Deva ‎– After 2 (Pete Moss' Vocal Mix)"
+                },
+                {
+                    "_duration": "582",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=II-sTKo5UZk",
+                    "description": "Pete Moss Feat. Terra Deva ‎– After 2\n\nLabel: Definity Records ‎– DF016\nFormat: Vinyl, 12 \nCountry: US\nReleased: 15 Jun 2002\nGenre: Electronic\nStyle: Progressive House",
+                    "title": "Pete Moss Feat. Terra Deva ‎– After 2 (Satoshi Tomiie Remix)"
+                },
+                {
+                    "_duration": "433",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=zKUVXGu3-Ok",
+                    "description": "Sweet Late Night House From Definity Records 2002\r\n\r\nHQ Vinyl",
+                    "title": "Pete Moss Ft Terra Diva - After 2"
+                },
+                {
+                    "_duration": "332",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=RiqETnPEHqU",
+                    "description": "Label: Definity Records ‎– DF016\nFormat: Vinyl, 12 \nCountry: US\nReleased: 15 Jun 2002\nGenre: Electronic\nStyle: Progressive House, Deep House",
+                    "title": "Pete Moss - After 2 (Pete Moss' Dub Mix) (Vocals By Terra Deva)"
+                },
+                {
+                    "_duration": "444",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=ma56bRcMBvU",
+                    "description": "Label: Definity Records ‎– DF016\nFormat: Vinyl, 12 \nCountry: US\nReleased: 15 Jun 2002\nGenre: Electronic\nStyle: Progressive House, Deep House",
+                    "title": "Pete Moss - After 2 (Pete Moss' Vocal Mix) (Vocals By Terra Deva)"
+                }
+            ]
+        }
+    }
+}

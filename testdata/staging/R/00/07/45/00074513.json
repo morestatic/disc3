@@ -1,0 +1,212 @@
+{
+    "release": {
+        "_id": "74513",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "40",
+                "join": "",
+                "name": "Dave Warrin",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "8473",
+                    "name": "Esho Recordings",
+                    "resource_url": "https://api.discogs.com/labels/8473"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "8473",
+                    "name": "Esho Recordings",
+                    "resource_url": "https://api.discogs.com/labels/8473"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "664313",
+                    "name": "Ismusicism Music",
+                    "resource_url": "https://api.discogs.com/labels/664313"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "29",
+                    "entity_type_name": "Mastered At",
+                    "id": "199325",
+                    "name": "Frankford/Wayne Mastering Labs",
+                    "resource_url": "https://api.discogs.com/labels/199325"
+                }
+            ]
+        },
+        "country": "US",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "356907",
+                "join": "",
+                "name": "Duncan Stanbury",
+                "role": "Mastered By",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "12\""
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "ESH-003 A FWDS"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "ESH-003 B FWDS"
+                },
+                {
+                    "_type": "Rights Society",
+                    "_value": "ASCAP"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "300",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "300"
+                },
+                {
+                    "_height": "598",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "599",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "esh003",
+                "_id": "8473",
+                "_name": "Esho Recordings"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "104196"
+        },
+        "notes": "Carol C appears courtesy of [l403457].",
+        "released": "2001-02-07",
+        "styles": {
+            "style": [
+                "House",
+                "Deep House"
+            ]
+        },
+        "title": "Shine On",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "",
+                    "title": "Text Side"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "49922",
+                            "join": "",
+                            "name": "Carol C",
+                            "role": "Vocals",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "A1",
+                    "title": "Shine On"
+                },
+                {
+                    "duration": "",
+                    "position": "",
+                    "title": "Logo Side"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "49922",
+                            "join": "",
+                            "name": "Carol C",
+                            "role": "Vocals",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "B1",
+                    "title": "Shine On (Open Air Mix)"
+                },
+                {
+                    "duration": "",
+                    "position": "B2",
+                    "title": "Shine On (Shine Dub)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "483",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=JcdfjxQnOgs",
+                    "description": "Esho Recordings, ESH003, 2001\nhttp://www.discogs.com/Dave-Warrin-Shine-On/release/74513",
+                    "title": "Dave Warrin feat. Carol C - Shine On"
+                },
+                {
+                    "_duration": "514",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=5Yf58uJo2CA",
+                    "description": "From the maxi-single Shine On/ Dave Warrin aka Mindflight (remast. 2007, the original vinylversion 2001).\nGenre: Electronic\nStyle: Deep House, Techno House\nMusic of [Merlin] finetunes Tahon Esho Recordings puolesta\n\nText Side\nA1 Shine On\nVocals – Carol",
+                    "title": "Dave Warrin feat. Carol C - Shine On (Open Air Mix)"
+                },
+                {
+                    "_duration": "303",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Cwna825Jv5Q",
+                    "description": "Provided to YouTube by The Orchard Enterprises\n\nShine On (Shine Dub) · Dave Warrin aka Mindflight\n\nShine On\n\n℗ 2007 Esho Recordings\n\nReleased on: 2007-10-19\n\nAuto-generated by YouTube.",
+                    "title": "Shine On (Shine Dub)"
+                }
+            ]
+        }
+    }
+}

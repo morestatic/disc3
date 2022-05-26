@@ -1,0 +1,220 @@
+{
+    "release": {
+        "_id": "30635",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "96",
+                "join": "",
+                "name": "Håkan Lidbo",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "UK",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "96",
+                "join": "",
+                "name": "Håkan Lidbo",
+                "role": "Producer",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "12\""
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "593",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "LOAD 74",
+                "_id": "40",
+                "_name": "Loaded Records"
+            }
+        },
+        "released": "2000-00-00",
+        "styles": {
+            "style": "House"
+        },
+        "title": "Home Cookin",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "96",
+                            "join": "",
+                            "name": "Håkan Lidbo",
+                            "role": "Written-By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "A1",
+                    "title": "Brazil 2001"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "96",
+                            "join": "",
+                            "name": "Håkan Lidbo",
+                            "role": "Written-By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "A2",
+                    "title": "Blackmail"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "H. Lidbo",
+                                "id": "96",
+                                "join": "",
+                                "name": "Håkan Lidbo",
+                                "role": "Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "829575",
+                                "join": "",
+                                "name": "P. Sparf",
+                                "role": "Written-By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "AA1",
+                    "title": "Dois Homens E Um Quiedo"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "683612",
+                                "join": "",
+                                "name": "Fredrik Broberg",
+                                "role": "Guitar",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "829576",
+                                "join": "",
+                                "name": "Louise Wettersten",
+                                "role": "Saxophone",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "F. Broberg",
+                                "id": "683612",
+                                "join": "",
+                                "name": "Fredrik Broberg",
+                                "role": "Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "H. Lidbo",
+                                "id": "96",
+                                "join": "",
+                                "name": "Håkan Lidbo",
+                                "role": "Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "L. Wettersten",
+                                "id": "829576",
+                                "join": "",
+                                "name": "Louise Wettersten",
+                                "role": "Written-By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "AA2",
+                    "title": "Good Manners"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "389",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=5GXussX4dqo",
+                    "description": "*~*~*",
+                    "title": "Hakan Lidbo ~ Good Manners 123/bpm"
+                },
+                {
+                    "_duration": "386",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=NmY0kqmMUNg",
+                    "description": "Provided to YouTube by Loaded Records\n\nGood Manners · Håkan Lidbo\n\nHome Cookin\n\n℗ 2001 Loaded Records Limited, a BMG Company\n\nPerformance: Håkan Lidbo\n\nAuto-generated by YouTube.",
+                    "title": "Good Manners"
+                },
+                {
+                    "_duration": "460",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=0xdrixLcaUc",
+                    "description": "Provided to YouTube by Loaded Records\n\nBlackmail · Håkan Lidbo\n\nHome Cookin\n\n℗ 2001 Loaded Records Limited, a BMG Company\n\nPerformance: Håkan Lidbo\n\nAuto-generated by YouTube.",
+                    "title": "Blackmail"
+                },
+                {
+                    "_duration": "344",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=BSEdDSex4_I",
+                    "description": "Provided to YouTube by Loaded Records\n\nBrazil 2001 · Håkan Lidbo\n\nHome Cookin\n\n℗ 2001 Loaded Records Limited, a BMG Company\n\nPerformance: Håkan Lidbo\n\nAuto-generated by YouTube.",
+                    "title": "Brazil 2001"
+                },
+                {
+                    "_duration": "404",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=ZCSpOwoSn5M",
+                    "description": "Provided to YouTube by Loaded Records\n\nDois Homens E Um Quiedo · Håkan Lidbo\n\nHome Cookin\n\n℗ 2001 Loaded Records Limited, a BMG Company\n\nPerformance: Håkan Lidbo\n\nAuto-generated by YouTube.",
+                    "title": "Dois Homens E Um Quiedo"
+                }
+            ]
+        }
+    }
+}

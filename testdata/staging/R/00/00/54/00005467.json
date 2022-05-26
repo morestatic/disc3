@@ -1,0 +1,213 @@
+{
+    "release": {
+        "_id": "5467",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "50",
+                "join": "",
+                "name": "ADNY",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": {
+                "catno": "",
+                "entity_type": "26",
+                "entity_type_name": "Produced At",
+                "id": "279056",
+                "name": "Minimum Studios NYC",
+                "resource_url": "https://api.discogs.com/labels/279056"
+            }
+        },
+        "country": "Canada",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "BT Chae",
+                    "id": "560523",
+                    "join": "",
+                    "name": "Chae",
+                    "role": "Vocals",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "26",
+                    "join": "",
+                    "name": "Alexi Delano",
+                    "role": "Written-By, Producer",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "Maxi-Single",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_type": "Barcode",
+                "_value": "6 71665 12051 0"
+            }
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "255",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "258"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "601",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "TURBO-005",
+                "_id": "242",
+                "_name": "Turbo"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "181262"
+        },
+        "notes": "Stickered generic black sleeve.\r\nSticker has added Remix/Mix to titles whereas the B label has omitted this.\r\n\r\nWritten and produced @ Minimum Studios NYC\r\n\r\nMade in England",
+        "released": "2001-05-00",
+        "styles": {
+            "style": [
+                "House",
+                "Electro",
+                "Tribal House"
+            ]
+        },
+        "title": "Never Leave You",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1544",
+                            "join": "",
+                            "name": "Steve Bug",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "A1",
+                    "title": "Never Leave You (Steve Bug Remix)"
+                },
+                {
+                    "duration": "",
+                    "position": "A2",
+                    "title": "Never Leave You (Original Mix)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "Mull",
+                                "id": "1356",
+                                "join": "",
+                                "name": "Joel Mull",
+                                "role": "Remix",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "Rachmad",
+                                "id": "1617",
+                                "join": "",
+                                "name": "Steve Rachmad",
+                                "role": "Remix",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "B1",
+                    "title": "Never Leave You (Mull \u0026 Rachmad Remix)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1526",
+                            "join": "",
+                            "name": "Mateo Murphy",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "B2",
+                    "title": "Never Leave You (Mateo Murphy Remix)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "346",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=tq8RzC9A_XM",
+                    "description": "Provided to YouTube by K7 Records GmbH\n\nNever Leave You (Steve Bug rmx) · ADNY\n\nNever Leave You Remixes\n\n℗ 2001 Turbo Recordings Inc. 2044\n\nReleased on: 2001-05-01\n\nComposer: Alexi Delano\nLyricist: Chae\nMusic  Publisher: Class Action PublishingSTIM Mus",
+                    "title": "Never Leave You (Steve Bug rmx)"
+                },
+                {
+                    "_duration": "362",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=7n58pfc5Rso",
+                    "description": "May/01/2001. Never Leave You (Incl. Steve Bug, Mull \u0026 Rachmad and Mateo Murphy Remixes) Vinyl, 12, Maxi-Single  -  Turbo Recordings Canada\nADNY real name: Alexi Delano\nTurbo Recordings was founded by Tiga in Montreal back in 1998.\nhttp://www.discogs.com/",
+                    "title": "ADNY  -  Never Leave You (Original)"
+                },
+                {
+                    "_duration": "375",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=RcRjqeu5ESg",
+                    "description": "http://www.discogs.com/ADNY-Never-Leave-You-/release/5467\n\nADNY - Never Leave You ( Joel Mull \u0026 Steve Rachmad Remix )\n\nFacebook - http://www.facebook.com/Techno-Classic-520383014796590/?ref=tn_tnmn\n\nTwitter - http://twitter.com/TechnoC1assic\n\nGoogle+ - ht",
+                    "title": "ADNY - Never Leave You ( Joel Mull \u0026 Steve Rachmad Remix )"
+                },
+                {
+                    "_duration": "383",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=CAhvaIKy1Dk",
+                    "description": "Provided to YouTube by K7 Records GmbH\n\nNever Leave You (Mateo Murphy rmx) · ADNY\n\nNever Leave You Remixes\n\n℗ 2001 Turbo Recordings Inc. 2045\n\nReleased on: 2001-05-01\n\nComposer: Alexi Delano\nLyricist: Chae\nMusic  Publisher: Class Action PublishingSTIM",
+                    "title": "Never Leave You (Mateo Murphy rmx)"
+                }
+            ]
+        }
+    }
+}

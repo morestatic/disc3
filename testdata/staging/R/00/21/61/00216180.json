@@ -1,0 +1,182 @@
+{
+    "release": {
+        "_id": "216180",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "Namlook",
+                "id": "1910",
+                "join": "",
+                "name": "Pete Namlook",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": {
+                "catno": "13608",
+                "entity_type": "10",
+                "entity_type_name": "Manufactured By",
+                "id": "277449",
+                "name": "P+O Pallas",
+                "resource_url": "https://api.discogs.com/labels/277449"
+            }
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "www.sansserif.com.au",
+                    "id": "2136082",
+                    "join": "",
+                    "name": "sansserifgrafik",
+                    "role": "Graphics",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "2118078",
+                    "join": "",
+                    "name": "PEK (3)",
+                    "role": "Photography By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "58657",
+                    "join": "",
+                    "name": "Peter Kuhlmann",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "MP3",
+                "descriptions": {
+                    "description": [
+                        "CD-ROM",
+                        "Compilation",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Barcode",
+                    "_value": "8 07297 03162 1"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "MP 3 006 P+O/ROM/13608-A"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "425",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "420"
+                },
+                {
+                    "_height": "355",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "420"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "MP3 006",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Recorded at XS Frankfurt, Melkweg Amsterdam, Klanglabor Traben-Trarbach, Kings Street Garage San Francisco, Wembley London\n\nLimitation: 500\nRunning Time: 5hours 14minutes\nCompilation of number one through five of the [url=https://www.discogs.com/label/876780-Namlook]Namlook[/url] series of albums. All tracks encoded between 256 and 320 kbps.",
+        "released": "2003-09-15",
+        "styles": {
+            "style": [
+                "Trance",
+                "Experimental",
+                "Ambient"
+            ]
+        },
+        "title": "The Namlook Collection I",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "",
+                    "title": "Namlook"
+                },
+                {
+                    "duration": "69:10",
+                    "position": "1",
+                    "title": "Astrogator"
+                },
+                {
+                    "duration": "",
+                    "position": "",
+                    "title": "Namlook II"
+                },
+                {
+                    "duration": "73:56",
+                    "position": "2",
+                    "title": "The Dutch Side Of The Milky Way"
+                },
+                {
+                    "duration": "",
+                    "position": "",
+                    "title": "Namlook III"
+                },
+                {
+                    "duration": "63:01",
+                    "position": "3",
+                    "title": "Aliens In My Suitcase (Intruder 1-9)"
+                },
+                {
+                    "duration": "",
+                    "position": "",
+                    "title": "Namlook IV"
+                },
+                {
+                    "duration": "46:35",
+                    "position": "4",
+                    "title": "Power Supply"
+                },
+                {
+                    "duration": "",
+                    "position": "",
+                    "title": "Namlook V"
+                },
+                {
+                    "duration": "62:04",
+                    "position": "5",
+                    "title": "Reality"
+                }
+            ]
+        }
+    }
+}

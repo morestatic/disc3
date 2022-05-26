@@ -1,0 +1,194 @@
+{
+    "release": {
+        "_id": "52689",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "192391",
+                "join": "",
+                "name": "Octopus",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "579933",
+                    "name": "Octopus One San Francisco",
+                    "resource_url": "https://api.discogs.com/labels/579933"
+                },
+                {
+                    "catno": "29885",
+                    "entity_type": "10",
+                    "entity_type_name": "Manufactured By",
+                    "id": "277449",
+                    "name": "P+O Pallas",
+                    "resource_url": "https://api.discogs.com/labels/277449"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "2118078",
+                    "join": "",
+                    "name": "PEK (3)",
+                    "role": "Graphics",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "41714",
+                    "join": "",
+                    "name": "Charles Uzzell-Edwards",
+                    "role": "Producer, Written-By, Artwork [Cover Pictures]",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Limited Edition",
+                        "Album"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "PS 08/84 P+O-29885-A2 07-96"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "599"
+                },
+                {
+                    "_height": "471",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "599"
+                },
+                {
+                    "_height": "302",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "599"
+                },
+                {
+                    "_height": "604",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "599"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PS 08/84",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Recorded at Octopus One San Francisco.\r\nLimitation: 1000",
+        "released": "1996-08-05",
+        "styles": {
+            "style": [
+                "Techno",
+                "Experimental",
+                "Ambient"
+            ]
+        },
+        "title": "Octopus 2",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "7:10",
+                    "position": "1",
+                    "title": "Thankfully, Coming From Upper Cwmtwrch It Doesn't Apply"
+                },
+                {
+                    "duration": "1:26",
+                    "position": "2",
+                    "title": "A Time Of Running (Celtic)"
+                },
+                {
+                    "duration": "1:53",
+                    "position": "3",
+                    "title": "Emotional Rescue"
+                },
+                {
+                    "duration": "12:33",
+                    "position": "4",
+                    "title": "Steal My Fathers Painting Would You? Take That!"
+                },
+                {
+                    "duration": "8:31",
+                    "position": "5",
+                    "title": "Virgo (September 3rd 1968)"
+                },
+                {
+                    "duration": "4:28",
+                    "position": "6",
+                    "title": "'Sedagive'? Give Him A 'Sedagive'?!!"
+                },
+                {
+                    "duration": "1:59",
+                    "position": "7",
+                    "title": "Technology (We Represent)"
+                },
+                {
+                    "duration": "1:27",
+                    "position": "8",
+                    "title": "Arizona Fountain"
+                },
+                {
+                    "duration": "8:36",
+                    "position": "9",
+                    "title": "Freshie Pow Pow"
+                },
+                {
+                    "duration": "8:38",
+                    "position": "10",
+                    "title": "Sunset Song (Millennium Party In Brazil)"
+                },
+                {
+                    "duration": "17:04",
+                    "position": "11",
+                    "title": "Point Reyes Anthem"
+                }
+            ]
+        }
+    }
+}

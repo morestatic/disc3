@@ -1,0 +1,253 @@
+{
+    "release": {
+        "_id": "12583",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "866",
+                "join": "",
+                "name": "Paul Johnson",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "93897",
+                    "name": "Mix Connection Multimedia, Inc.",
+                    "resource_url": "https://api.discogs.com/labels/93897"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "10",
+                    "entity_type_name": "Manufactured By",
+                    "id": "264250",
+                    "name": "WEA Manufacturing",
+                    "resource_url": "https://api.discogs.com/labels/264250"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "19",
+                    "entity_type_name": "Printed By",
+                    "id": "264250",
+                    "name": "WEA Manufacturing",
+                    "resource_url": "https://api.discogs.com/labels/264250"
+                },
+                {
+                    "catno": "X7613",
+                    "entity_type": "17",
+                    "entity_type_name": "Pressed By",
+                    "id": "291934",
+                    "name": "WEA Mfg. Olyphant",
+                    "resource_url": "https://api.discogs.com/labels/291934"
+                }
+            ]
+        },
+        "country": "US",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "866",
+                "join": "",
+                "name": "Paul Johnson",
+                "role": "Written-By, Producer",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "Album"
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Text",
+                    "_type": "Barcode",
+                    "_value": "7 13405 96122 6"
+                },
+                {
+                    "_type": "Barcode",
+                    "_value": "713405961226"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "[wea mfg. OLYPHANT logo] X7613 JZ MDR 9612-2 01 M1S1"
+                },
+                {
+                    "_type": "Mastering SID Code",
+                    "_value": "ifpi L902"
+                },
+                {
+                    "_type": "Mould SID Code",
+                    "_value": "IFPI 2U4D"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "125",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "125"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "MDR9612-2",
+                "_id": "20",
+                "_name": "Moody Recordings"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "false",
+            "content": "68985"
+        },
+        "released": "1999",
+        "styles": {
+            "style": [
+                "House",
+                "Deep House"
+            ]
+        },
+        "title": "The Groove I Have",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "4:50",
+                    "position": "1",
+                    "title": "I'm Gonna Dance Tonight"
+                },
+                {
+                    "duration": "5:56",
+                    "position": "2",
+                    "title": "It's A Love Thang"
+                },
+                {
+                    "duration": "5:47",
+                    "position": "3",
+                    "title": "The Groove I Have"
+                },
+                {
+                    "duration": "7:07",
+                    "position": "4",
+                    "title": "The Way He Plays"
+                },
+                {
+                    "duration": "4:03",
+                    "position": "5",
+                    "title": "House Illusion"
+                },
+                {
+                    "duration": "5:01",
+                    "position": "6",
+                    "title": "The Groove Goes On"
+                },
+                {
+                    "duration": "4:04",
+                    "position": "7",
+                    "title": "The Party Horn"
+                },
+                {
+                    "duration": "4:13",
+                    "position": "8",
+                    "title": "Caliente Musica"
+                },
+                {
+                    "duration": "3:30",
+                    "position": "9",
+                    "title": "The Good Times"
+                },
+                {
+                    "duration": "6:03",
+                    "position": "10",
+                    "title": "Get Get Down"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "340",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=9APAHhIPhJE",
+                    "description": "Paul Johnson ‎-- Get Get Down\nLabel: Fuel Records ‎-- FUEL #026\nFormat: Vinyl, 12\nCountry: Germany\nReleased: 1999\nGenre: Electronic\nStyle: House",
+                    "title": "Paul Johnson - Get Get Down (Original Extended Mix)"
+                },
+                {
+                    "_duration": "348",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=wXkKAhxGTyY",
+                    "description": "Paul Johnson - The Groove I Have\nLabel:Moody Recordings\nCatalog#: MDR9612-2\nFormat: CD\nCountry:US\nReleased:1999\nGenre: Electronic\nStyle: Deep House, House",
+                    "title": "Paul Johnson - The Groove I Have"
+                },
+                {
+                    "_duration": "291",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=9mWeflTG7V0",
+                    "description": "",
+                    "title": "Paul Johnson - I'm Gonna Dance Tonight"
+                },
+                {
+                    "_duration": "356",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=oKgfVXJqEpM",
+                    "description": "Really fine oldschool tune ! Year 1999. Enjoy",
+                    "title": "Paul Johnson - It's a Love Thang"
+                },
+                {
+                    "_duration": "247",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=qe0kvQKo0zM",
+                    "description": "1999\nPaul Johnson - House Illusion\n\nhttp://www.discogs.com/release/14280",
+                    "title": "Paul Johnson - House Illusion"
+                },
+                {
+                    "_duration": "302",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=74WclOQg38I",
+                    "description": "Paul Johnson - Album - The Groove I Have (1999) Label Moody Recordings",
+                    "title": "Paul Johnson The Groove Goes On"
+                },
+                {
+                    "_duration": "211",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=62A0T45OwBQ",
+                    "description": "Paul Johnson- The Good Times (1999)",
+                    "title": "Paul Johnson- The Good Times"
+                },
+                {
+                    "_duration": "333",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=NZxfOzRQQs4",
+                    "description": "Provided to YouTube by Symphonic Distribution\n\nThe Party Horn · Paul Johnson\n\nThe Groove I Have LP\n\n℗ 2013 Moody Recordings\n\nReleased on: 2013-08-25\n\nAuto-generated by YouTube.",
+                    "title": "The Party Horn (Original Mix)"
+                }
+            ]
+        }
+    }
+}

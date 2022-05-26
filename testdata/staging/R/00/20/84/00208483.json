@@ -1,0 +1,480 @@
+{
+    "release": {
+        "_id": "208483",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "2909",
+                "join": "",
+                "name": "Silence",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": {
+                "catno": "",
+                "entity_type": "23",
+                "entity_type_name": "Recorded At",
+                "id": "265012",
+                "name": "Klanglabor Hödeshof",
+                "resource_url": "https://api.discogs.com/labels/265012"
+            }
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "www.snansserif.com.au",
+                    "id": "2136082",
+                    "join": "",
+                    "name": "sansserifgrafik",
+                    "role": "Graphics",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "2118078",
+                    "join": "",
+                    "name": "PEK (3)",
+                    "role": "Photography By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "58657",
+                    "join": "",
+                    "name": "Peter Kuhlmann",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "8521",
+                    "join": "",
+                    "name": "Dr. Atmo",
+                    "role": "Written-By",
+                    "tracks": "1 to 9, 26"
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "MP3, VBR",
+                "descriptions": {
+                    "description": [
+                        "CD-ROM",
+                        "Compilation",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Barcode",
+                    "_value": "8 07297 02702 0"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "590",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "598"
+                },
+                {
+                    "_height": "588",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "593",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "593",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "590",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "598",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "590",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "598"
+                },
+                {
+                    "_height": "590",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "588",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "475",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "585"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "MP3 001",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Limitation: 500 copies.\r\n\r\nAll five Silence CDs compiled in full length on one MP3 CD.  All tracks on this release are encoded between 256-320Kbps; the difference in sound compared to a normal CD is not perceptable by the human ear.\r\n\r\nSilence II, when re-issued on Ambient World, replaced the full version of \"Heaven\" with an edited version, and added a previously unreleased track entitled \"What Is Time\".  Track 26 is the full version from the original Fax pressing of Silence II.",
+        "released": "2003-02-12",
+        "styles": {
+            "style": "Ambient"
+        },
+        "title": "10 Years Of Silence",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "1:14:28",
+                    "position": "",
+                    "title": "Silence"
+                },
+                {
+                    "duration": "21:57",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "8521",
+                            "join": "",
+                            "name": "Dr. Atmo",
+                            "role": "Featuring",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "1",
+                    "title": "Omid / Hope"
+                },
+                {
+                    "duration": "22:29",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "8521",
+                            "join": "",
+                            "name": "Dr. Atmo",
+                            "role": "Featuring",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "2",
+                    "title": "Garden Of Dreams"
+                },
+                {
+                    "duration": "9:52",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "8521",
+                            "join": "",
+                            "name": "Dr. Atmo",
+                            "role": "Featuring",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "3",
+                    "title": "Santur"
+                },
+                {
+                    "duration": "20:08",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "8521",
+                            "join": "",
+                            "name": "Dr. Atmo",
+                            "role": "Featuring",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "4",
+                    "title": "Trip"
+                },
+                {
+                    "duration": "1:13:37",
+                    "position": "",
+                    "title": "Silence II (Ambient World Version)"
+                },
+                {
+                    "duration": "29:27",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "8521",
+                            "join": "",
+                            "name": "Dr. Atmo",
+                            "role": "Featuring",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "5",
+                    "title": "Life / Death"
+                },
+                {
+                    "duration": "6:57",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "8521",
+                            "join": "",
+                            "name": "Dr. Atmo",
+                            "role": "Featuring",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "6",
+                    "title": "Heaven (AW-Cut)"
+                },
+                {
+                    "duration": "11:26",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "8521",
+                            "join": "",
+                            "name": "Dr. Atmo",
+                            "role": "Featuring",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "7",
+                    "title": "Faith"
+                },
+                {
+                    "duration": "11:19",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "8521",
+                            "join": "",
+                            "name": "Dr. Atmo",
+                            "role": "Featuring",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "8",
+                    "title": "Sweet Angels"
+                },
+                {
+                    "duration": "14:26",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "8521",
+                            "join": "",
+                            "name": "Dr. Atmo",
+                            "role": "Featuring",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "9",
+                    "title": "What Is Time"
+                },
+                {
+                    "duration": "1:00:37",
+                    "position": "",
+                    "title": "Silence III"
+                },
+                {
+                    "duration": "8:34",
+                    "position": "10",
+                    "title": "Into The Desert"
+                },
+                {
+                    "duration": "8:27",
+                    "position": "11",
+                    "title": "Mirage"
+                },
+                {
+                    "duration": "14:38",
+                    "position": "12",
+                    "title": "A Ship On A Sea Of Sand"
+                },
+                {
+                    "duration": "3:21",
+                    "position": "13",
+                    "title": "Lost City"
+                },
+                {
+                    "duration": "5:08",
+                    "position": "14",
+                    "title": "Stars"
+                },
+                {
+                    "duration": "10:58",
+                    "position": "15",
+                    "title": "The Bottom Of The Ocean"
+                },
+                {
+                    "duration": "9:29",
+                    "position": "16",
+                    "title": "Dream Time"
+                },
+                {
+                    "duration": "50:27",
+                    "position": "",
+                    "title": "Silence IV"
+                },
+                {
+                    "duration": "20:02",
+                    "position": "17",
+                    "title": "Circle Of Life"
+                },
+                {
+                    "duration": "8:00",
+                    "position": "18",
+                    "title": "Deep Inside"
+                },
+                {
+                    "duration": "12:51",
+                    "position": "19",
+                    "title": "Bedouin Love"
+                },
+                {
+                    "duration": "9:33",
+                    "position": "20",
+                    "title": "The Night Before I Left"
+                },
+                {
+                    "duration": "54:24",
+                    "position": "",
+                    "title": "Silence V"
+                },
+                {
+                    "duration": "13:03",
+                    "position": "21",
+                    "title": "Asbendos"
+                },
+                {
+                    "duration": "8:44",
+                    "position": "22",
+                    "title": "While Angels Sleep"
+                },
+                {
+                    "duration": "9:06",
+                    "position": "23",
+                    "title": "Master Of The Sky"
+                },
+                {
+                    "duration": "12:52",
+                    "position": "24",
+                    "title": "Ancient Beauty"
+                },
+                {
+                    "duration": "10:38",
+                    "position": "25",
+                    "title": "Picnic"
+                },
+                {
+                    "duration": "",
+                    "position": "",
+                    "title": "-"
+                },
+                {
+                    "duration": "22:57",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "8521",
+                            "join": "",
+                            "name": "Dr. Atmo",
+                            "role": "Featuring",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "26",
+                    "title": "Heaven (Orig. Version)"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,189 @@
+{
+    "release": {
+        "_id": "8793",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "9463",
+                "join": "",
+                "name": "Impulsion",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "29",
+                    "entity_type_name": "Mastered At",
+                    "id": "120735",
+                    "name": "Masterpiece",
+                    "resource_url": "https://api.discogs.com/labels/120735"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "17",
+                    "entity_type_name": "Pressed By",
+                    "id": "266587",
+                    "name": "Orlake Records",
+                    "resource_url": "https://api.discogs.com/labels/266587"
+                }
+            ]
+        },
+        "country": "UK",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": {
+                "anv": "Neil",
+                "id": "342597",
+                "join": "",
+                "name": "Neil Devine",
+                "role": "Mastered By",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "Promo",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Etchings Side A",
+                    "_type": "Matrix / Runout",
+                    "_value": "LOAD 44 A1 DON'T HOUSE DAT ROCK MUSIQ NEIL MASTERPIECE"
+                },
+                {
+                    "_description": "Etchings Side AA",
+                    "_type": "Matrix / Runout",
+                    "_value": "LOAD 44 AA O LE CORPS, LE COEUR ET L'ESPRIT"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "LOAD44",
+                "_id": "40",
+                "_name": "Loaded Records"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "false",
+            "content": "95985"
+        },
+        "released": "1997",
+        "styles": {
+            "style": [
+                "House",
+                "Big Beat",
+                "Acid"
+            ]
+        },
+        "title": "Rock That House Musiq",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "11:55",
+                    "position": "A",
+                    "title": "Rock That House Musiq"
+                },
+                {
+                    "duration": "8:07",
+                    "position": "AA1",
+                    "title": "Cesse, C'est Si Bon"
+                },
+                {
+                    "duration": "5:49",
+                    "position": "AA2",
+                    "title": "Rock That House Musiq (Dub)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "761",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=i8lTr-W556I",
+                    "description": "Classic tune from Impulsion, still loved by DJ's today. Featured in the movie 'It's all gone Pete Tong'. I remember when this first came out, the old windows waveform was mesmerizing to watch. \n\nArtist: Impulsion\nTrack: Rock That House Musiq\nReleased: 199",
+                    "title": "Impulsion - Rock That House Musiq"
+                },
+                {
+                    "_duration": "348",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Bgg5CSj0Y1I",
+                    "description": "Provided to YouTube by Believe SAS\n\nRock That House Musiq (Dub) · Impulsion\n\nRock That House Musiq\n\n℗ 1996 Loaded Records Limited, a BMG Company\n\nReleased on: 1996-12-14\n\nComposer: Christophe Monier\nComposer: Pascal R\nMusic Publisher: CHRYSALIS-MUSIC-L",
+                    "title": "Rock That House Musiq (Dub)"
+                },
+                {
+                    "_duration": "592",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=x8fMkM-eiII",
+                    "description": "Impulsion - Rock that house musiq ( from the movie  its all gone pete tong  )\r\nI couldn't fit the full song on as it was about 13 minutes long , u here the best from it though..... :)\r\nEnjoy ! \r\n\r\n\r\n**copyright, i do not own this music**",
+                    "title": "Impulsion - Rock that house musiq"
+                },
+                {
+                    "_duration": "717",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=aCtaWv54OW0",
+                    "description": "Provided to YouTube by Believe SAS\n\nRock That House Musiq · Impulsion\n\nRock That House Musiq\n\n℗ 1996 Loaded Records Limited, a BMG Company\n\nReleased on: 1996-12-14\n\nComposer: Christophe Monier\nComposer: Pascal R\nMusic Publisher: CHRYSALIS-MUSIC-LTD BMG",
+                    "title": "Rock That House Musiq"
+                },
+                {
+                    "_duration": "486",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=dPlzwjC4kds",
+                    "description": "Provided to YouTube by Believe SAS\n\nC'esse c'est si bon · Impulsion\n\nRock That House Musiq\n\n℗ 1996 Loaded Records Limited, a BMG Company\n\nReleased on: 1996-12-14\n\nComposer: Christophe Monier\nComposer: Pascal R\nMusic Publisher: CHRYSALIS-MUSIC-LTD BMG M",
+                    "title": "C'esse c'est si bon"
+                },
+                {
+                    "_duration": "348",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=qXSmAFJaIoc",
+                    "description": "Provided to YouTube by Loaded Records\n\nRock That House Musiq (Dub) · Impulsion\n\nRock That House Musiq\n\n℗ 1996 Loaded Records Limited, a BMG Company\n\nPerformance: Impulsion\n\nAuto-generated by YouTube.",
+                    "title": "Rock That House Musiq (Dub)"
+                }
+            ]
+        }
+    }
+}

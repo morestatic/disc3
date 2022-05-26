@@ -1,0 +1,168 @@
+{
+    "release": {
+        "_id": "81659",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "22",
+                "join": "",
+                "name": "Datacide",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "26",
+                    "entity_type_name": "Produced At",
+                    "id": "265233",
+                    "name": "Sel i/s/c",
+                    "resource_url": "https://api.discogs.com/labels/265233"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "30",
+                    "entity_type_name": "Lacquer Cut At",
+                    "id": "265113",
+                    "name": "SST Brüggemann GmbH",
+                    "resource_url": "https://api.discogs.com/labels/265113"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "1584729",
+                    "join": "",
+                    "name": "SST (8)",
+                    "role": "Lacquer Cut By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "24",
+                    "join": "",
+                    "name": "Atom Heart",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "25",
+                    "join": "",
+                    "name": "Tetsu Inoue",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Etched Side A",
+                    "_type": "Matrix / Runout",
+                    "_value": "PS 08 / 32 A PRODUCED AT SEL I / S / C. SST"
+                },
+                {
+                    "_description": "Etched Side B",
+                    "_type": "Matrix / Runout",
+                    "_value": "PS 08 / 32 B SCANNING LANDSCAPE SST"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PS 08/32",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "false",
+            "content": "1901649"
+        },
+        "notes": "Produced at SEL I/S/C\r\nLimitation: 500",
+        "released": "1993-12-13",
+        "styles": {
+            "style": [
+                "Techno",
+                "Acid",
+                "Ambient"
+            ]
+        },
+        "title": "Datacide",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "11:00",
+                    "position": "A",
+                    "title": "Head Dance (Atamade Odorou)"
+                },
+                {
+                    "duration": "12:08",
+                    "position": "B",
+                    "title": "Meditation Bank"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "567",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=WZbP-89ZVAo",
+                    "description": "Datacide - Head Dance. From II, Fax +49-69/450464 -- PS 08/31 (1994). Written by Atom Heart (Uwe Schmidt) and Tetsu Inoue",
+                    "title": "Datacide - Head Dance (FAX +49-69/450464 1994)"
+                },
+                {
+                    "_duration": "725",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=jC-lAN3d1to",
+                    "description": "http://www.discogs.com/Datacide-Datacide-II/release/176178\n\r\n\r-uploaded in HD at http://www.TunesToTube.com",
+                    "title": "Datacide - Meditation Bank (Ambient 1994)"
+                }
+            ]
+        }
+    }
+}

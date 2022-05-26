@@ -1,0 +1,210 @@
+{
+    "release": {
+        "_id": "51535",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "5279",
+                "join": "",
+                "name": "Air (2)",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "41396",
+                    "entity_type": "10",
+                    "entity_type_name": "Manufactured By",
+                    "id": "277449",
+                    "name": "P+O Pallas",
+                    "resource_url": "https://api.discogs.com/labels/277449"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "265012",
+                    "name": "Klanglabor Hödeshof",
+                    "resource_url": "https://api.discogs.com/labels/265012"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "2118078",
+                    "join": "",
+                    "name": "PEK (3)",
+                    "role": "Graphics",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "58657",
+                    "join": "",
+                    "name": "Peter Kuhlmann",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "PK 08/144 P+O-41396-A2 02-99"
+                },
+                {
+                    "_type": "Mastering SID Code",
+                    "_value": "IFPI L962"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "500",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                },
+                {
+                    "_height": "457",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "466"
+                },
+                {
+                    "_height": "462",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "590"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/144",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "183502"
+        },
+        "notes": "Edition of 2000 copies.\r\n\r\nAir\r\nTraben-Trarbach 1999",
+        "released": "1999-02-08",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Experimental",
+                "Future Jazz",
+                "Trance"
+            ]
+        },
+        "title": "Air IV - Elle A Du Shell",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "6:47",
+                    "position": "1",
+                    "title": "La Nuit De Tous Nos Rêves Approche"
+                },
+                {
+                    "duration": "8:12",
+                    "position": "2",
+                    "title": "Clearing Your Head"
+                },
+                {
+                    "duration": "9:23",
+                    "position": "3",
+                    "title": "On Her Way In"
+                },
+                {
+                    "duration": "5:44",
+                    "position": "4",
+                    "title": "Elle A Du Shell"
+                },
+                {
+                    "duration": "2:19",
+                    "position": "5",
+                    "title": "Synthetique Be-Bop"
+                },
+                {
+                    "duration": "10:39",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "Robert Sattler",
+                            "id": "451660",
+                            "join": "",
+                            "name": "Bobby Sattler",
+                            "role": "Saxophone",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "6",
+                    "title": "Sex-Au-Phone"
+                },
+                {
+                    "duration": "10:58",
+                    "position": "7",
+                    "title": "On Her Way Out"
+                }
+            ]
+        },
+        "videos": {
+            "video": {
+                "_duration": "3246",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=xfuuBYXz2iw",
+                "description": "Air 4 - Elle A Du Shell\n\n1. La Nuit De Tous Nos Rêves Approche (00:00)\n2. Clearing Your Head (06:48)\n3. On Her Way In (15:01)\n4. Elle A Du Shell (24:24)\n5. Synthetique Be-Bop (30:09)\n6. Sex-Au-Phone (32:28)\n7. On Her Way Out (43:08)\n\nWritten by – Pete",
+                "title": "Pete Namlook - Air 4 - Elle A Du Shell [full album]"
+            }
+        }
+    }
+}

@@ -1,0 +1,180 @@
+{
+    "release": {
+        "_id": "5722",
+        "_status": "Accepted",
+        "artists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "1019",
+                    "join": "\u0026",
+                    "name": "Funk D'Void",
+                    "role": "",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "20",
+                    "join": "presents",
+                    "name": "Percy X",
+                    "role": "",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "6491",
+                    "join": "",
+                    "name": "X-Funk",
+                    "role": "",
+                    "tracks": ""
+                }
+            ]
+        },
+        "companies": "",
+        "country": "UK",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "193661",
+                    "join": "",
+                    "name": "Lars Sandberg",
+                    "role": "Producer, Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "20",
+                    "join": "",
+                    "name": "Percy X",
+                    "role": "Producer, Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "EP"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "598"
+                },
+                {
+                    "_height": "599",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "198",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "SOMA 108",
+                "_id": "18",
+                "_name": "Soma Quality Recordings"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "180103"
+        },
+        "released": "2001-05-28",
+        "styles": {
+            "style": [
+                "Techno",
+                "Electro",
+                "Acid"
+            ]
+        },
+        "title": "Voyager EP",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A",
+                    "title": "Voyager"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "144934",
+                            "join": "",
+                            "name": "Marco Bernardi",
+                            "role": "Engineer",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "AA1",
+                    "title": "Let's Go Back"
+                },
+                {
+                    "duration": "",
+                    "position": "AA2",
+                    "title": "Breaking Out"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "393",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=EU4bYpAa44Q",
+                    "description": "Provided to YouTube by Pias UK Limited\n\nLet's Go Back · X Funk\n\nVoyager\n\n℗ 2001 Soma\n\nReleased on: 2001-05-21\n\nMixer: Sandberg\nMixer: Scott\nProducer: Sandberg\nProducer: Scott\nComposer: Sandberg\nComposer: Scott\nLyricist: Sandberg\nLyricist: Scott\nMusic P",
+                    "title": "Let's Go Back"
+                },
+                {
+                    "_duration": "326",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=WYUzFMYMDEI",
+                    "description": "https://www.discogs.com/fr/Funk-DVoid-Percy-X-presents-X-Funk-Voyager-EP/release/5722",
+                    "title": "X Funk - Breaking Out"
+                },
+                {
+                    "_duration": "385",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=-4XDua4heIk",
+                    "description": "Funk D'Void \u0026 Percy X presents X-Funk ‎– Voyager EP\nLabel: Soma Quality Recordings ‎– SOMA 108\nFormat: Vinyl, 12, EP \nCountry: UK\nReleased: 28 May 2001\nGenre: Electronic\nStyle: Techno, Electro, Acid",
+                    "title": "X-Funk - Voyager"
+                }
+            ]
+        }
+    }
+}

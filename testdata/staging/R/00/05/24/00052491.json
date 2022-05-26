@@ -1,0 +1,230 @@
+{
+    "release": {
+        "_id": "52491",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "4112216",
+                "join": "",
+                "name": "Softcore (6)",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "265233",
+                    "name": "Sel I/S/C",
+                    "resource_url": "https://api.discogs.com/labels/265233"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "24",
+                    "entity_type_name": "Engineered At",
+                    "id": "265233",
+                    "name": "Sel I/S/C",
+                    "resource_url": "https://api.discogs.com/labels/265233"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "10",
+                    "entity_type_name": "Manufactured By",
+                    "id": "291931",
+                    "name": "CD Plant MFG",
+                    "resource_url": "https://api.discogs.com/labels/291931"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "539207",
+                    "join": "",
+                    "name": "Linger Decoree",
+                    "role": "Design [Inner Sleeve Design]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "24",
+                    "join": "",
+                    "name": "Atom Heart",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "24",
+                    "join": "",
+                    "name": "Atom Heart",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "CD PLANT MFG PS 08//53 CM01"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "465",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "596",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "590",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "596",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "596",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PS 08/53",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "1287046"
+        },
+        "notes": "Made in Germany\r\n\r\nLimitation: 1000\r\n\r\ncomputed, recorded, engineered and edited digitally at Sel I/S/C 1994\r\nthis is a macos recording: no copyright of samples!",
+        "released": "1994-11-07",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Downtempo",
+                "Experimental",
+                "Techno"
+            ]
+        },
+        "title": "Softcore",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "10:54",
+                    "position": "1",
+                    "title": "Naked Eye Spy"
+                },
+                {
+                    "duration": "7:02",
+                    "position": "2",
+                    "title": "Rather Bent Than Shaked"
+                },
+                {
+                    "duration": "10:03",
+                    "position": "3",
+                    "title": "Home Sweet Home"
+                },
+                {
+                    "duration": "6:35",
+                    "position": "4",
+                    "title": "Funkified Female"
+                },
+                {
+                    "duration": "5:44",
+                    "position": "5",
+                    "title": "Difference Engine"
+                },
+                {
+                    "duration": "4:36",
+                    "position": "6",
+                    "title": "Plenty Of Food"
+                },
+                {
+                    "duration": "2:06",
+                    "position": "7",
+                    "title": "White Hole 1"
+                },
+                {
+                    "duration": "14:07",
+                    "position": "8",
+                    "title": "White Hole 2"
+                }
+            ]
+        },
+        "videos": {
+            "video": {
+                "_duration": "3650",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=X7njr2KpQPs",
+                "description": "Fax +49-69/450464 – PS 08/53\nCD, Album, Limited Edition\nGermany\n1994\nElectronic\nAmbient, Downtempo, Experimental, Techno\n\n1  Naked Eye Spy \n2  Rather Bent Than Shaked \n3  Home Sweet Home \n4  Funkified Female \n5  Difference Engine \n6  Plenty Of Food \n7",
+                "title": "Softcore – Softcore (Atom™)"
+            }
+        }
+    }
+}

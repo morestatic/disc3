@@ -1,0 +1,166 @@
+{
+    "release": {
+        "_id": "183963",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "15287",
+                "join": "",
+                "name": "Deltraxx",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": {
+                "catno": "",
+                "entity_type": "29",
+                "entity_type_name": "Mastered At",
+                "id": "265113",
+                "name": "SST Brüggemann GmbH",
+                "resource_url": "https://api.discogs.com/labels/265113"
+            }
+        },
+        "country": "Germany",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "1584729",
+                    "join": "",
+                    "name": "SST (8)",
+                    "role": "Mastered By [Vinyl Cut]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "132608",
+                    "join": "",
+                    "name": "Craig Peck",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "45 RPM",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Runout Side A",
+                    "_type": "Matrix / Runout",
+                    "_value": "FAX + 49-69/45 04 64 PK 08/17 A SST"
+                },
+                {
+                    "_description": "Runout Side B",
+                    "_type": "Matrix / Runout",
+                    "_value": "FAX + 49-69/45 04 64 PK 08/17 B SST -\"THANKS TO \"DR. AGGRO\"-"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "485",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "481"
+                },
+                {
+                    "_height": "498",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "493"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/17",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Limitation: 500\n\nA side: 33 ⅓ RPM\nB side: 45 RPM",
+        "released": "1992-10-26",
+        "styles": {
+            "style": "Hard Trance"
+        },
+        "title": "Deltraxx",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "7:28",
+                    "position": "A1",
+                    "title": "The Source (Emphasis Mix)"
+                },
+                {
+                    "duration": "7:43",
+                    "position": "A2",
+                    "title": "Altered States (Unfused \u0026 Tuned)"
+                },
+                {
+                    "duration": "8:00",
+                    "position": "B",
+                    "title": "Altered States (Dr. Aggro Mix)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "447",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=UWz2odJ9bxg",
+                    "description": "This different version of Altered States was released on the the Deltraxx  12 EP on Fax Records and on Classic Trax Compilation on BNE Records\n\nMusic by:  Pete Namlook \u0026 Craig Peck, 1992\nVideo by: Abstructure",
+                    "title": "Deltraxx  - The Source (Emphasis Mix)"
+                },
+                {
+                    "_duration": "473",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=st_qj_cYt_E",
+                    "description": "",
+                    "title": "DELTRAXX - ALTERED STATES (UNFUSED \u0026 TUNED)"
+                },
+                {
+                    "_duration": "481",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=MWwpDJY3t84",
+                    "description": "Artist: Pete Namlook \u0026 DJ Criss\r\nAlbum: Deltraxx EP\r\nLabel: Fax\r\nYear: 1992\r\n\r\nAll music uploaded to this channel is available for educational and informative purposes only.",
+                    "title": "Pete Namlook \u0026 DJ Criss (Deltraxx) - Altered States (Dr. Aggro Mix)"
+                }
+            ]
+        }
+    }
+}

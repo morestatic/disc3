@@ -1,0 +1,163 @@
+{
+    "release": {
+        "_id": "194449",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "15292",
+                "join": "",
+                "name": "Harmonize",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": {
+                "catno": "",
+                "entity_type": "26",
+                "entity_type_name": "Produced At",
+                "id": "294391",
+                "name": "Sonic Studios Frankfurt",
+                "resource_url": "https://api.discogs.com/labels/294391"
+            }
+        },
+        "country": "Germany",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "656032",
+                    "join": "",
+                    "name": "Al. A. Perry",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM",
+                        "45 RPM",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Etched A-Side",
+                    "_type": "Matrix / Runout",
+                    "_value": "= PRODUCED AT SONIC STUDIOS FRANKFURT FOR NAMLOOK PRODUCTIONS ="
+                },
+                {
+                    "_description": "Etched B-Side",
+                    "_type": "Matrix / Runout",
+                    "_value": "= COLLECTOR ? YOU WANT TO DIRECTLY HAVE OUR PRODUCTS ? GIVE US A FAX !! ="
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "358",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "354"
+                },
+                {
+                    "_height": "490",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "487"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/40",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "146288"
+        },
+        "notes": "Limitation: 500\nSide A: 45rpm / Side B: 33.3rpm",
+        "released": "1993-02-01",
+        "styles": {
+            "style": "Deep House"
+        },
+        "title": "Harmonize 3",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "6:34",
+                    "position": "A",
+                    "title": "Nite Float"
+                },
+                {
+                    "duration": "6:52",
+                    "position": "B1",
+                    "title": "After Hour Harmony"
+                },
+                {
+                    "duration": "6:24",
+                    "position": "B2",
+                    "title": "Mediterranean Moods"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "401",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=o2hAJQt5y4I",
+                    "description": "1993 Music Man, Belgium",
+                    "title": "Harmonize 3 - Nite Float"
+                },
+                {
+                    "_duration": "415",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=FQzI3JVzMBQ",
+                    "description": "http://www.discogs.com/Harmonize-Harmonize-3/release/194449\n\r\n\r-uploaded in HD at http://www.TunesToTube.com",
+                    "title": "Harmonize - After Hour Harmony (House 1993)"
+                },
+                {
+                    "_duration": "385",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=v04scMMiRSo",
+                    "description": "http://www.discogs.com/Harmonize-Harmonize-3/release/194449\n\r\n\r-uploaded in HD at http://www.TunesToTube.com",
+                    "title": "Harmonize - Mediterranean Moods (Trance 1993)"
+                }
+            ]
+        }
+    }
+}

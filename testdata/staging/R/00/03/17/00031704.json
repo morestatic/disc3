@@ -1,0 +1,157 @@
+{
+    "release": {
+        "_id": "31704",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "25452",
+                "join": "",
+                "name": "Ozoona",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": {
+                "catno": "",
+                "entity_type": "23",
+                "entity_type_name": "Recorded At",
+                "id": "294386",
+                "name": "Klanglabor Frankfurt",
+                "resource_url": "https://api.discogs.com/labels/294386"
+            }
+        },
+        "country": "Germany",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By, Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "Rob Gordon",
+                    "id": "27036",
+                    "join": "",
+                    "name": "Robert Gordon",
+                    "role": "Written-By, Producer",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                },
+                {
+                    "_description": "Etched On Side B",
+                    "_type": "Matrix / Runout",
+                    "_value": "= Heavy duty digital rehash ="
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "500",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                },
+                {
+                    "_height": "500",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PW 31",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "523290"
+        },
+        "notes": "Limited to 500 copies.",
+        "released": "1996-07-15",
+        "styles": {
+            "style": [
+                "Techno",
+                "Ambient",
+                "Drum n Bass",
+                "Breaks"
+            ]
+        },
+        "title": "Ozoona",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "10:05",
+                    "position": "A",
+                    "title": "Blackbird Suite (12\" Version)"
+                },
+                {
+                    "duration": "11:22",
+                    "position": "B",
+                    "title": "The Hunt"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "632",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=U-rxGHlS6as",
+                    "description": "Label: Fax +49-69/450464 ‎– PW 31\nRecorded At – Klanglabor Frankfurt\nWritten-By, Producer – Pete Namlook, Rob Gordon*\nFormat: Vinyl, 12, 33 ⅓ RPM, Limited Edition\nCountry: Germany Released: 15 Jul 1996\nLimited to 500 copies.\n\nLabel Code: LC 626",
+                    "title": "Pete Namlook, Rob Gordon - Blackbird Suite (12 Version) Ozoona, 1996, Vinyl video 4K, 24bit/96kHz"
+                },
+                {
+                    "_duration": "1065",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=gPdnP-Vqyuk",
+                    "description": "Track 3 - Blackbird Suite\nArtists : Pete Namlook \u0026 Rob Gordon\nAlbum : Ozoona\n1996 FAX +49-69/450464",
+                    "title": "Pete Namlook \u0026 Rob Gordon - Blackbird Suite (Ozoona)"
+                },
+                {
+                    "_duration": "687",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=VqtAh-y_MJ4",
+                    "description": "Track 4 - The Hunt\nArtists : Pete Namlook \u0026 Rob Gordon\nAlbum : Ozoona\n1996 FAX +49-69/450464",
+                    "title": "Pete Namlook \u0026 Rob Gordon - The Hunt (Ozoona)"
+                }
+            ]
+        }
+    }
+}

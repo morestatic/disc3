@@ -1,0 +1,224 @@
+{
+    "release": {
+        "_id": "87994",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "16178",
+                "join": "",
+                "name": "Ramp",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "29",
+                    "entity_type_name": "Mastered At",
+                    "id": "158759",
+                    "name": "The Exchange",
+                    "resource_url": "https://api.discogs.com/labels/158759"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "17",
+                    "entity_type_name": "Pressed By",
+                    "id": "266587",
+                    "name": "Orlake Records",
+                    "resource_url": "https://api.discogs.com/labels/266587"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "27",
+                    "entity_type_name": "Mixed At",
+                    "id": "302987",
+                    "name": "Loaded Studios",
+                    "resource_url": "https://api.discogs.com/labels/302987"
+                }
+            ]
+        },
+        "country": "UK",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "Nilz",
+                    "id": "386598",
+                    "join": "",
+                    "name": "Nilesh Patel",
+                    "role": "Mastered By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "16178",
+                    "join": "",
+                    "name": "Ramp",
+                    "role": "Written-By, Producer",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Barcode",
+                    "_value": "5 025425 112669"
+                },
+                {
+                    "_description": "Etchings Side A",
+                    "_type": "Matrix / Runout",
+                    "_value": "LOAD+26+A  THE EXCHANGE - NILZ. ORLAKE"
+                },
+                {
+                    "_description": "Etchings Side AA",
+                    "_type": "Matrix / Runout",
+                    "_value": "LOAD+26+AA  THE EXCHANGE - NILZ. ORLAKE"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "601",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "LOAD 26",
+                "_id": "40",
+                "_name": "Loaded Records"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "603907"
+        },
+        "notes": "Mastered at The Exchange, Camden.\r\nPressed at Orlake Records, Dagenham.\r\nAA1: Mixed at Loaded Studios.",
+        "released": "1995-09-06",
+        "styles": {
+            "style": "Techno"
+        },
+        "title": "Stomp",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "68451",
+                            "join": "",
+                            "name": "Bushcutter",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "A1",
+                    "title": "Stomp (Bushcutter Mix)"
+                },
+                {
+                    "duration": "",
+                    "position": "A2",
+                    "title": "Stomp (Original Mix)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "59261",
+                                "join": "",
+                                "name": "Simon Thornton",
+                                "role": "Mixed By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "116018",
+                                "join": "",
+                                "name": "JC Reid",
+                                "role": "Remix, Producer [Additioal]",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "434465",
+                                "join": "",
+                                "name": "Tim Jeffery",
+                                "role": "Remix, Producer [Additioal]",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "AA1",
+                    "title": "Stomp (Play Boys Fully Loaded Dub)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "438",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=DmTLciUM3XQ",
+                    "description": "Provided to YouTube by Loaded Records\n\nStomp · Ramp\n\nStomp\n\n℗ 1995 Loaded Records Limited, a BMG Company\n\nReleased on: 1995-09-10\n\nPerformer: Ramp\nComposer: Simon Rogers\nComposer: Ian McCauley\n\nAuto-generated by YouTube.",
+                    "title": "Stomp"
+                },
+                {
+                    "_duration": "396",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=rfNZgC5SqAM",
+                    "description": "Provided to YouTube by Loaded Records\n\nStomp (Bushcutter Mix) · Ramp\n\nStomp\n\n℗ 1995 Loaded Records Limited, a BMG Company\n\nReleased on: 1995-09-10\n\nPerformer: Ramp\nComposer: Simon Rogers\nComposer: Ian McCauley\n\nAuto-generated by YouTube.",
+                    "title": "Stomp (Bushcutter Mix)"
+                },
+                {
+                    "_duration": "565",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=DDQR5NcOv6Q",
+                    "description": "Provided to YouTube by Loaded Records\n\nStomp (Playboys Fully Loaded Dub) · Ramp\n\nStomp\n\n℗ 1995 Loaded Records Limited, a BMG Company\n\nReleased on: 1995-09-10\n\nPerformer: Ramp\nComposer: Simon Rogers\nComposer: Ian McCauley\n\nAuto-generated by YouTube.",
+                    "title": "Stomp (Playboys Fully Loaded Dub)"
+                }
+            ]
+        }
+    }
+}

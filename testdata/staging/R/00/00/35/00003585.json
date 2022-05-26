@@ -1,0 +1,611 @@
+{
+    "release": {
+        "_id": "3585",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "50",
+                "join": "",
+                "name": "ADNY",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "10",
+                    "entity_type_name": "Manufactured By",
+                    "id": "264131",
+                    "name": "Cinram",
+                    "resource_url": "https://api.discogs.com/labels/264131"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "26",
+                    "entity_type_name": "Produced At",
+                    "id": "290467",
+                    "name": "Minimum Studio",
+                    "resource_url": "https://api.discogs.com/labels/290467"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "27",
+                    "entity_type_name": "Mixed At",
+                    "id": "290467",
+                    "name": "Minimum Studio",
+                    "resource_url": "https://api.discogs.com/labels/290467"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "29",
+                    "entity_type_name": "Mastered At",
+                    "id": "301768",
+                    "name": "Control Studios",
+                    "resource_url": "https://api.discogs.com/labels/301768"
+                }
+            ]
+        },
+        "country": "Canada",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "400111",
+                    "join": "",
+                    "name": "Benno (2)",
+                    "role": "Design, Art Direction [Ad]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1543",
+                    "join": "",
+                    "name": "Tiga",
+                    "role": "Executive-Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "157624",
+                    "join": "",
+                    "name": "Louis Dufort",
+                    "role": "Mastered By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "2271690",
+                    "join": "",
+                    "name": "Marek Vogel",
+                    "role": "Photography By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "26",
+                    "join": "",
+                    "name": "Alexi Delano",
+                    "role": "Producer, Mixed By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "Compilation"
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Text",
+                    "_type": "Barcode",
+                    "_value": "6 71665 00082 9"
+                },
+                {
+                    "_description": "Scanned",
+                    "_type": "Barcode",
+                    "_value": "671665000829"
+                },
+                {
+                    "_description": "Text",
+                    "_type": "Barcode",
+                    "_value": "6 17465 60052 4"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "#000307XK MAR-CD-008"
+                },
+                {
+                    "_type": "Mastering SID Code",
+                    "_value": "IFPI L386"
+                },
+                {
+                    "_type": "Mould SID Code",
+                    "_value": "IFPI 6000"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "599"
+                },
+                {
+                    "_height": "470",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "605",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "471",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "510",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": [
+                {
+                    "_catno": "MAR-CD-008",
+                    "_id": "242",
+                    "_name": "Turbo"
+                },
+                {
+                    "_catno": "MARCD00082",
+                    "_id": "242",
+                    "_name": "Turbo"
+                },
+                {
+                    "_catno": "6 17465 60052 4",
+                    "_id": "632",
+                    "_name": "Ultra Records"
+                }
+            ]
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "324651"
+        },
+        "notes": "Produced and mixed @ Minimum Studios NYC.\n\nCover has sticker covering bottom half of jewel box, as depicted in images. \n\nTrack 12, \"In Love\", incorrectly listed as \"I Love\" on rear cover tracklist.",
+        "released": "2000-06-26",
+        "styles": {
+            "style": [
+                "House",
+                "Deep House"
+            ]
+        },
+        "title": "Selections '97-2000",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "6:29",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "26",
+                                "join": "",
+                                "name": "Alexi Delano",
+                                "role": "Remix, Producer [Additional]",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "1526488",
+                                "join": "",
+                                "name": "Sarah Rabdau",
+                                "role": "Vocals",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "193",
+                                "join": "",
+                                "name": "DKMA",
+                                "role": "Written-By, Producer",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "203",
+                                "join": "",
+                                "name": "Universal Tongues",
+                                "role": "Written-By, Producer",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "1",
+                    "title": "Shiver Me (ADNY Remix)"
+                },
+                {
+                    "duration": "4:37",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "26",
+                            "join": "",
+                            "name": "Alexi Delano",
+                            "role": "Written-By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "2",
+                    "title": "I'm Still Here"
+                },
+                {
+                    "duration": "5:43",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "227631",
+                                "join": "",
+                                "name": "Anjay Carney",
+                                "role": "Saxophone",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "825852",
+                                "join": "",
+                                "name": "John Smith (13)",
+                                "role": "Vocals",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "26",
+                                "join": "",
+                                "name": "Alexi Delano",
+                                "role": "Written-By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "3",
+                    "title": "What If I Love"
+                },
+                {
+                    "duration": "6:01",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "560523",
+                                "join": "",
+                                "name": "Chae",
+                                "role": "Vocals",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "26",
+                                "join": "",
+                                "name": "Alexi Delano",
+                                "role": "Written-By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "4",
+                    "title": "Never Leave You"
+                },
+                {
+                    "duration": "7:03",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "944832",
+                                "join": "",
+                                "name": "Jeremy L. Hamman",
+                                "role": "Bass",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "207151",
+                                "join": "",
+                                "name": "Doreen Younglove",
+                                "role": "Vocals",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "26",
+                                "join": "",
+                                "name": "Alexi Delano",
+                                "role": "Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "207151",
+                                "join": "",
+                                "name": "Doreen Younglove",
+                                "role": "Written-By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "5",
+                    "title": "Life"
+                },
+                {
+                    "duration": "3:57",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "26",
+                            "join": "",
+                            "name": "Alexi Delano",
+                            "role": "Written-By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "6",
+                    "title": "Desierto De Atacama"
+                },
+                {
+                    "duration": "6:15",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "616622",
+                                "join": "",
+                                "name": "Lamont Prince",
+                                "role": "Vocals",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "26",
+                                "join": "",
+                                "name": "Alexi Delano",
+                                "role": "Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "616622",
+                                "join": "",
+                                "name": "Lamont Prince",
+                                "role": "Written-By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "7",
+                    "title": "Dreaming"
+                },
+                {
+                    "duration": "4:54",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "26",
+                            "join": "",
+                            "name": "Alexi Delano",
+                            "role": "Written-By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "8",
+                    "title": "Precious Lady"
+                },
+                {
+                    "duration": "5:40",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "26",
+                                "join": "",
+                                "name": "Alexi Delano",
+                                "role": "Remix, Producer [Additional]",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "27",
+                                "join": "",
+                                "name": "Cari Lekebusch",
+                                "role": "Written-By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "9",
+                    "title": "Broken DX (ADNY Remix)"
+                },
+                {
+                    "duration": "5:16",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "560523",
+                                "join": "",
+                                "name": "Chae",
+                                "role": "Vocals",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "26",
+                                "join": "",
+                                "name": "Alexi Delano",
+                                "role": "Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "560523",
+                                "join": "",
+                                "name": "Chae",
+                                "role": "Written-By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "10",
+                    "title": "ICU"
+                },
+                {
+                    "duration": "2:42",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "227631",
+                                "join": "",
+                                "name": "Anjay Carney",
+                                "role": "Saxophone",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "26",
+                                "join": "",
+                                "name": "Alexi Delano",
+                                "role": "Written-By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "11",
+                    "title": "Street Player"
+                },
+                {
+                    "duration": "6:35",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "14302",
+                                "join": "",
+                                "name": "Rebecca Shoichet",
+                                "role": "Vocals",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "26",
+                                "join": "",
+                                "name": "Alexi Delano",
+                                "role": "Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "14302",
+                                "join": "",
+                                "name": "Rebecca Shoichet",
+                                "role": "Written-By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "12",
+                    "title": "In Love"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "392",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=0kmSotldmnw",
+                    "description": "One of the great legacies he leaves behind is all the wonderful music he has left his mark on. If it was a great record, he mastered it.\n\nIn memory of Nilesh Patel aka Nilz (January 1965 - December 2011) †\n-------------------------------------------",
+                    "title": "ADNY - Shiver Me (ADNY Remix)"
+                },
+                {
+                    "_duration": "385",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=BmAAh_Dikas",
+                    "description": "ADNY - Shiver Me (ADNY Remix) -  Selections '97-2000\nReleased on Turbo in 2000.\n\nhttp://www.discogs.com/ADNY-Selections-97-2000/master/324651",
+                    "title": "ADNY - Shiver Me (ADNY Remix) -  Selections '97-2000"
+                },
+                {
+                    "_duration": "362",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=7n58pfc5Rso",
+                    "description": "May/01/2001. Never Leave You (Incl. Steve Bug, Mull \u0026 Rachmad and Mateo Murphy Remixes) Vinyl, 12, Maxi-Single  -  Turbo Recordings Canada\nADNY real name: Alexi Delano\nTurbo Recordings was founded by Tiga in Montreal back in 1998.\nhttp://www.discogs.com/",
+                    "title": "ADNY  -  Never Leave You (Original)"
+                },
+                {
+                    "_duration": "361",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=G-Sap5UFKUM",
+                    "description": "ADNY - Never Leave You [Turbo, 2001]",
+                    "title": "ADNY - Never Leave You [Turbo, 2001]"
+                },
+                {
+                    "_duration": "409",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=mKeVaU7bIqQ",
+                    "description": "~_~\nhttps://www.discogs.com/ADNY-Selections-97-2000/release/470",
+                    "title": "ADNY ~ Broken DX  [ ADNY Remix ] 124/Bpm"
+                },
+                {
+                    "_duration": "359",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=RpH3sjsm-zg",
+                    "description": "http://www.discogs.com/ADNY-SincereSky-Be/release/14",
+                    "title": "ADNY - What if i Love"
+                },
+                {
+                    "_duration": "216",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=B9GwDjnPeM0",
+                    "description": "(2005)\nCaroLove❤",
+                    "title": "A.D.N.Y. - Precious Lady (Vida Mia)"
+                },
+                {
+                    "_duration": "459",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=WyV61tLrr30",
+                    "description": "*~*\nhttps://www.discogs.com/ADNY-Selections-97-2000/release/470",
+                    "title": "ADNY ~ Shiver Me [ ADNY Remix ] Bpm `~`"
+                }
+            ]
+        }
+    }
+}

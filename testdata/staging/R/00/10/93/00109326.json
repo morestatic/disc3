@@ -1,0 +1,139 @@
+{
+    "release": {
+        "_id": "109326",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "15288",
+                "join": "",
+                "name": "Limelight",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "233178",
+                    "join": "",
+                    "name": "DJ Brainwave",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "489",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "485"
+                },
+                {
+                    "_height": "498",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "496"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK  08/74",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "1105873"
+        },
+        "notes": "Limitation: 500\r\n\"HI OMNES LINGUA, INSTITUTIS, LEGIBUS INTER SE DIFFERUNT\" \r\nIs Etched On Runout Groove On Side B",
+        "released": "1993-06-21",
+        "styles": {
+            "style": [
+                "Trance",
+                "Acid",
+                "Ambient"
+            ]
+        },
+        "title": "Limelight 5",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "7:39",
+                    "position": "A",
+                    "title": "Amicus Certus In Re Incerta Cernitur"
+                },
+                {
+                    "duration": "5:56",
+                    "position": "B1",
+                    "title": "Loca Aspera"
+                },
+                {
+                    "duration": "5:52",
+                    "position": "B2",
+                    "title": "Vastum Maris Aequor"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "459",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=IPpdWoeoCFg",
+                    "description": "",
+                    "title": "Limelight - Amicus Certus In Re Incerta Cernitur"
+                },
+                {
+                    "_duration": "358",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=SBkTBtpWtaM",
+                    "description": "http://www.discogs.com/Limelight-Limelight-5/release/109326",
+                    "title": "Limelight - Loca Aspera (Acid 1993)"
+                },
+                {
+                    "_duration": "345",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=XKsnPj4eIyY",
+                    "description": "http://www.discogs.com/Limelight-Limelight-5/release/109326\n\r\n\r-uploaded in HD at http://www.TunesToTube.com",
+                    "title": "Limelight - Vastum Maris Aequor (Ambient 1993)"
+                }
+            ]
+        }
+    }
+}

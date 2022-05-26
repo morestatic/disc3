@@ -1,0 +1,306 @@
+{
+    "release": {
+        "_id": "216183",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "32563",
+                "join": "",
+                "name": "New Composers",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "34501",
+                    "name": "Barmaley Studio",
+                    "resource_url": "https://api.discogs.com/labels/34501"
+                },
+                {
+                    "catno": "62590",
+                    "entity_type": "10",
+                    "entity_type_name": "Manufactured By",
+                    "id": "277449",
+                    "name": "P+O Pallas",
+                    "resource_url": "https://api.discogs.com/labels/277449"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Complete and Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "andre@sansserif.com.au",
+                    "id": "2022694",
+                    "join": "",
+                    "name": "Andre Ruello",
+                    "role": "Graphics",
+                    "tracks": ""
+                },
+                {
+                    "anv": "I. Vorotnikov",
+                    "id": "405349",
+                    "join": "",
+                    "name": "Igor Vorotnikov",
+                    "role": "Piano, Synth",
+                    "tracks": "5, 7, 8"
+                },
+                {
+                    "anv": "",
+                    "id": "32563",
+                    "join": "",
+                    "name": "New Composers",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "S. Gasanov",
+                    "id": "1161008",
+                    "join": "",
+                    "name": "Сергей Гасанов",
+                    "role": "Sitar, Flute, Duduk",
+                    "tracks": ""
+                },
+                {
+                    "anv": "V. Alakhov",
+                    "id": "264443",
+                    "join": "",
+                    "name": "Valery Alakhov",
+                    "role": "Synthesizer, Sequencer [Seq]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "Igr. Ver",
+                    "id": "264444",
+                    "join": "",
+                    "name": "Igor Ver",
+                    "role": "Voice [Voicesamples], Effects [FX]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "Igr. Ver",
+                    "id": "264444",
+                    "join": "",
+                    "name": "Igor Ver",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "V. Alakhov",
+                    "id": "264443",
+                    "join": "",
+                    "name": "Valery Alakhov",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "S. Gasanov",
+                    "id": "1161008",
+                    "join": "",
+                    "name": "Сергей Гасанов",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Barcode",
+                    "_value": "8 07297 03742 5"
+                },
+                {
+                    "_description": "Variant 1",
+                    "_type": "Matrix / Runout",
+                    "_value": "PS 08/103 P+O-62590-A 11-03"
+                },
+                {
+                    "_description": "Variant 1",
+                    "_type": "Mastering SID Code",
+                    "_value": "none"
+                },
+                {
+                    "_description": "Variant 1",
+                    "_type": "Mould SID Code",
+                    "_value": "IFPI 3J01"
+                },
+                {
+                    "_description": "Variant 2",
+                    "_type": "Matrix / Runout",
+                    "_value": "PS 08/103 P+O-62590-A 11-03"
+                },
+                {
+                    "_description": "Variant 2",
+                    "_type": "Mastering SID Code",
+                    "_value": "IFPI L963"
+                },
+                {
+                    "_description": "Variant 2",
+                    "_type": "Mould SID Code",
+                    "_value": "none"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "545",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "550"
+                },
+                {
+                    "_height": "467",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "500",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                },
+                {
+                    "_height": "269",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "550"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PS 08/103",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "355630"
+        },
+        "notes": "Limitation: 2000. Recorded at Barmaley Studio, St. Petersburg Russia.",
+        "released": "2003-11-13",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Downtempo",
+                "Dub",
+                "Experimental",
+                "Future Jazz"
+            ]
+        },
+        "title": "Advanced Indigo",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "7:59",
+                    "position": "1",
+                    "title": "Phantom Ships And Strange Voices"
+                },
+                {
+                    "duration": "5:17",
+                    "position": "2",
+                    "title": "Invisible Assailants"
+                },
+                {
+                    "duration": "7:14",
+                    "position": "3",
+                    "title": "Encounters With Aliens"
+                },
+                {
+                    "duration": "7:05",
+                    "position": "4",
+                    "title": "Spontaneous Human Combustion"
+                },
+                {
+                    "duration": "7:28",
+                    "position": "5",
+                    "title": "Levitation Flight"
+                },
+                {
+                    "duration": "5:55",
+                    "position": "6",
+                    "title": "Lightning Pictures"
+                },
+                {
+                    "duration": "3:38",
+                    "position": "7",
+                    "title": "Miraculous Provisions"
+                },
+                {
+                    "duration": "3:54",
+                    "position": "8",
+                    "title": "Electric People"
+                },
+                {
+                    "duration": "5:48",
+                    "position": "9",
+                    "title": "Practical Witchcraft"
+                },
+                {
+                    "duration": "7:35",
+                    "position": "10",
+                    "title": "Spectral Mutilators"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "436",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=1ykpd62gjb0",
+                    "description": "Album: New Composers -- Advanced Indigo\nLabel: Fax +49-69/450464 -- PS 08/103\nFormat: CD, Album, Limited Edition \nCountry: Germany; Released: 13 Nov 2003\nGenre: Electronic; Style: Experimental, Ambient\n\nCredits\nArtwork By [Graphics] -- andre@sansserif.com",
+                    "title": "New Composers - Encounters with Aliens"
+                },
+                {
+                    "_duration": "481",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=ReQKNOXB13I",
+                    "description": "Fax +49-69/450464 ‎– PS 08/103, 2003\r\n\r\nhttps://www.discogs.com/New-Composers-Advanced-Indigo/release/216183",
+                    "title": "New Composers -  Phantom Ships And Strange Voices (2003) (Ambient, Dub)"
+                },
+                {
+                    "_duration": "3719",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=KbhmKTb5cV8",
+                    "description": "00:00 01. Phantom Ships And Strange Voices (7:59)\n07:59 02. Invisible Assailants (5:17)\n13:16 03. Encounters With Aliens (7:15)\n20:31 04. Spontaneous Human Combustion (7:06)\n27:38 05. Levitation Flight (7:28)\n35:06 06. Lightning Pictures (5:56)\n41:02 07.",
+                    "title": "New Composers - Advanced Indigo"
+                }
+            ]
+        }
+    }
+}

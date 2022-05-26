@@ -1,0 +1,132 @@
+{
+    "release": {
+        "_id": "109322",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "2910",
+                "join": "",
+                "name": "Hearts Of Space",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": {
+                "catno": "",
+                "entity_type": "26",
+                "entity_type_name": "Produced At",
+                "id": "294391",
+                "name": "Sonic Studios Frankfurt",
+                "resource_url": "https://api.discogs.com/labels/294391"
+            }
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": "",
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Etched A-Side",
+                    "_type": "Matrix / Runout",
+                    "_value": "Produced at Sonic Studios Frankfurt for Namlook productions"
+                },
+                {
+                    "_description": "Etched B-Side",
+                    "_type": "Matrix / Runout",
+                    "_value": "Pin-Up of the year -\u003e Pascal F.E.O.S. \u003c-"
+                }
+            ]
+        },
+        "images": {
+            "image": {
+                "_height": "360",
+                "_type": "secondary",
+                "_uri": "",
+                "_uri150": "",
+                "_width": "364"
+            }
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK  08/37",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "779075"
+        },
+        "notes": "Limited to 500 copies.",
+        "released": "1993-01-25",
+        "styles": {
+            "style": [
+                "Trance",
+                "Ambient"
+            ]
+        },
+        "title": "Hearts Of Space 3",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "6:57",
+                    "position": "A",
+                    "title": "All About Sensuality"
+                },
+                {
+                    "duration": "5:18",
+                    "position": "B1",
+                    "title": "Covered Action II"
+                },
+                {
+                    "duration": "4:33",
+                    "position": "B2",
+                    "title": "Sensuality"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "320",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=ghkRyvI51Jg",
+                    "description": "Released on the Hearts Of Space 3 12 EP (PK 08/37)\nMusic: Pete Namlook and Pascal F.E.O.S. 1993.\nVideo: Abstructure",
+                    "title": "Hearts Of Space - Covered Action II"
+                },
+                {
+                    "_duration": "421",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=xJCYSAt7w7M",
+                    "description": "Hearts Of Space -- Hearts Of Space 3\nLabel:\nFax +49-69/450464\nCatalog#:\nPK 08/37\nFormat:\nVinyl, 12, Limited Edition\nCountry:\nGermany\nReleased:\n25 Jan 1993\nGenre:\nElectronic\nStyle:\nTrance, Ambient",
+                    "title": "Pete Namlook \u0026 Pascal F.E.O.S. - All about sensuality  (1993)"
+                },
+                {
+                    "_duration": "277",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=JPlApsSvUec",
+                    "description": "http://www.discogs.com/artist/Hearts+Of+Space\nPascal Dardoufas \u0026 Pete Namlook\n\nReal Name:\nPascal Dardoufas\nProfile:\nDJ since 1984, working first in the German clubs Omen (Frankfurt), Warehouse (Cologne) and Tempel (Munich). Performed his first Live Act as",
+                    "title": "Hearts of Space - Sensuality"
+                }
+            ]
+        }
+    }
+}

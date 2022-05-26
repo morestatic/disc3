@@ -1,0 +1,130 @@
+{
+    "release": {
+        "_id": "200177",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "14128",
+                "join": "",
+                "name": "4Voice",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "Germany",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "1910",
+                "join": "",
+                "name": "Pete Namlook",
+                "role": "Written-By",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "500",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                },
+                {
+                    "_height": "500",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/77",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "74971"
+        },
+        "notes": "Limitation: 500\r\n\"SPECIAL THANKS TO CHRISTIAN J FOR SYN4 INFORMATION (FALSE B-SIDE)\" \r\nIs Etched On Runout Groove On Side B",
+        "released": "1993-07-16",
+        "styles": {
+            "style": [
+                "Trance",
+                "Hardcore",
+                "Techno"
+            ]
+        },
+        "title": "4Voice 5",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "8:16",
+                    "position": "A1",
+                    "title": "Join Us On Our Way To The Final Frontier"
+                },
+                {
+                    "duration": "6:59",
+                    "position": "B1",
+                    "title": "Move #2"
+                },
+                {
+                    "duration": "7:22",
+                    "position": "B2",
+                    "title": "The Final Frontier"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "499",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=ToTbhkY_CzQ",
+                    "description": "http://loop9samples.blogspot.com\r\n\r\n4 Voice - Join Us On Our Way To The Final Frontier - Music Man Records\r\n1993 Belgium",
+                    "title": "4 Voice - Join Us On Our Way To The Final Frontier"
+                },
+                {
+                    "_duration": "416",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=o_6KTLCCXkQ",
+                    "description": "Label:Fax +49-69/450464\nCatalog#:PK 08/079\nFormat:CD, Limited Edition\nCountry:Germany\nReleased:12 Jul 1993\nGenre:Electronic\nStyle:Trance, House, Ambient\nCredits:Written-By - Pete Namlook\nNotes:Limited to 500 copies.\nAll tracks written by Pete Namlook exce",
+                    "title": "Pete Namlook Present 4Voice - Move #2  (1993)"
+                },
+                {
+                    "_duration": "425",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=W6RQzRCiHlM",
+                    "description": "http://www.discogs.com/4Voice-4Voice-5/release/200177\n\r\n\r-uploaded in HD at http://www.TunesToTube.com",
+                    "title": "4Voice - The Final Frontier (Ambient 1993)"
+                }
+            ]
+        }
+    }
+}

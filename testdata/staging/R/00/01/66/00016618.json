@@ -1,0 +1,241 @@
+{
+    "release": {
+        "_id": "16618",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "29599",
+                "join": "",
+                "name": "The Dark Side Of The Moog",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "294391",
+                    "name": "Sonic Studios Frankfurt",
+                    "resource_url": "https://api.discogs.com/labels/294391"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "17",
+                    "entity_type_name": "Pressed By",
+                    "id": "267946",
+                    "name": "CD Plant AB",
+                    "resource_url": "https://api.discogs.com/labels/267946"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "58657",
+                    "join": "",
+                    "name": "Peter Kuhlmann",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "10360",
+                    "join": "",
+                    "name": "Klaus Schulze",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "CD PLANT AB PK 08/101 CDM01"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "597",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "472",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "609",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "299",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "593",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/101",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "13903"
+        },
+        "notes": "Recorded at Sonic Studios Frankfurt.\n\nLimitation: 2000\n\nDuration of sub-track were taken from cd-player.",
+        "released": "1995-08-28",
+        "styles": {
+            "style": [
+                "Trance",
+                "Abstract",
+                "Ambient"
+            ]
+        },
+        "title": "The Dark Side Of The Moog III",
+        "tracklist": {
+            "track": {
+                "duration": "59:00",
+                "position": "",
+                "sub_tracks": {
+                    "track": [
+                        {
+                            "duration": "18:26",
+                            "position": "1",
+                            "title": "Part I"
+                        },
+                        {
+                            "duration": "12:15",
+                            "position": "2",
+                            "title": "Part II"
+                        },
+                        {
+                            "duration": "10:05",
+                            "position": "3",
+                            "title": "Part III"
+                        },
+                        {
+                            "duration": "6:12",
+                            "position": "4",
+                            "title": "Part IV"
+                        },
+                        {
+                            "duration": "9:12",
+                            "position": "5",
+                            "title": "Part V"
+                        },
+                        {
+                            "duration": "2:45",
+                            "position": "6",
+                            "title": "Part VI"
+                        }
+                    ]
+                },
+                "title": "Phantom Heart Brother"
+            }
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "606",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=qCehLLpiaMc",
+                    "description": "From the album The Dark Side Of The Moog 3",
+                    "title": "Pete Namlook \u0026 Klaus Schulze - Phantom Heart Brother III"
+                },
+                {
+                    "_duration": "388",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=8adQA_HqPPs",
+                    "description": "Released on The Dark Side Of The Moog III 1995.\nMusic by Pete Namlook and Klause Schulze. \nVideo by Abstructure.",
+                    "title": "The Dark Side Of The Moog - Phantom Heart Brother (Part IV)"
+                },
+                {
+                    "_duration": "3541",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=4A4GX3FWRig",
+                    "description": "The Dark Side Of The Moog 3.",
+                    "title": "Klaus Schulze \u0026 Pete Namlook - Phantom Heart Brother"
+                },
+                {
+                    "_duration": "737",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=b95FcjE590E",
+                    "description": "from the double LP album\nThe Dark Side Of The Moog Vol. 3: Phantom Heart Brother\nreleased on 13 Jul 2018\nby Music On Vinyl (MOVLP2103)\n---  musiconvinyl.com",
+                    "title": "Klaus Schulze \u0026 Pete Namlook ‎– Phantom Heart Brother Part II"
+                },
+                {
+                    "_duration": "349",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=VmiTbZDpN4w",
+                    "description": "1995 Vinyl Fax +49-69/450464 PK08105",
+                    "title": "The Dark Side Of The Moog - Phantom Heart Brother (Part IV)"
+                },
+                {
+                    "_duration": "3541",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=laS3CDZIe5U",
+                    "description": "Artists : Pete Namlook \u0026 Klaus Schulze\nAlbum : The Dark Side of the Moog 3\nSongs : Phantom Heart Brother (6 Parts)\nYear : 1995\n\nAll tracks created by Pete Namlook \u0026 Klaus Schulze",
+                    "title": "Pete Namlook \u0026 Klaus Schulze - The Dark Side of the Moog 3 [Phantom Heart Brother] [full album]"
+                }
+            ]
+        }
+    }
+}

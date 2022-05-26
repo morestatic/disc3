@@ -1,0 +1,288 @@
+{
+    "release": {
+        "_id": "96523",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "194",
+                "join": "",
+                "name": "Various",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "UK",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "655418",
+                    "join": "",
+                    "name": "Fish (11)",
+                    "role": "Compiled By, DJ Mix",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "804397",
+                    "join": "",
+                    "name": "The Good Morning People",
+                    "role": "Compiled By, DJ Mix",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "2264195",
+                    "join": "",
+                    "name": "Mutti",
+                    "role": "Photography",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Compilation",
+                        "Mixed"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_type": "Label Code",
+                "_value": "LC 02323"
+            }
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "148",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "144"
+                },
+                {
+                    "_height": "452",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "599"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "CH - 021 CD",
+                "_id": "3654",
+                "_name": "Choice Productions"
+            }
+        },
+        "notes": "Mixed by Fish at Headroom Studio London for The Good Morning People\r\nPackaged in jewel case with outer cardboard packaging.",
+        "released": "2001",
+        "styles": {
+            "style": [
+                "Deep House",
+                "Tech House",
+                "Minimal"
+            ]
+        },
+        "title": "Chill House 5",
+        "tracklist": {
+            "track": [
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "675",
+                            "join": "",
+                            "name": "Vincenzo",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:28",
+                    "position": "1",
+                    "title": "Confusion"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "57291",
+                            "join": "",
+                            "name": "Chevallier",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:02",
+                    "position": "2",
+                    "title": "Crack City (Vincenzo''s Jet Set Radio Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "8060",
+                            "join": "",
+                            "name": "Room 604",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:22",
+                    "position": "3",
+                    "title": "Sleaze Factor"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "Shamlou",
+                            "id": "33024",
+                            "join": "",
+                            "name": "Pino Shamlou",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:31",
+                    "position": "4",
+                    "title": "Big City Lights (Club Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "40",
+                            "join": "",
+                            "name": "Dave Warrin",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "8:15",
+                    "position": "5",
+                    "title": "Shine On (Open Air Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "4633",
+                            "join": "",
+                            "name": "Hanna",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:53",
+                    "position": "6",
+                    "title": "Sunday (Morning Breeze \u0026 Coffee Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "739",
+                            "join": "",
+                            "name": "Jori Hulkkonen",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:13",
+                    "position": "7",
+                    "title": "Wanna Do You (Original Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "736",
+                            "join": "",
+                            "name": "Luomo",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:46",
+                    "position": "8",
+                    "title": "Synkro"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "3045",
+                            "join": "",
+                            "name": "Sascha Funke",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:36",
+                    "position": "9",
+                    "title": "Drei Auf Drei"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "4247",
+                            "join": "",
+                            "name": "Salz",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "7:14",
+                    "position": "10",
+                    "title": "Dreamer"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "Phoney Groupie",
+                            "id": "30128",
+                            "join": "",
+                            "name": "Phoney",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:51",
+                    "position": "11",
+                    "title": "Groupie"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "151348",
+                            "join": "",
+                            "name": "Soul Glow",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:44",
+                    "position": "12",
+                    "title": "Insanity (Dub Mix)"
+                }
+            ]
+        }
+    }
+}

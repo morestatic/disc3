@@ -1,0 +1,145 @@
+{
+    "release": {
+        "_id": "39660",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "16365",
+                "join": "",
+                "name": "Loki",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "UK",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "Mandy",
+                    "id": "384377",
+                    "join": "",
+                    "name": "Mandy Parnell",
+                    "role": "Mastered By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "59261",
+                    "join": "",
+                    "name": "Simon Thornton",
+                    "role": "Mixed By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "16365",
+                    "join": "",
+                    "name": "Loki",
+                    "role": "Producer, Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Text",
+                    "_type": "Barcode",
+                    "_value": "5 025425 114861"
+                },
+                {
+                    "_description": "Side A Runoff Etching",
+                    "_type": "Matrix / Runout",
+                    "_value": "LOAD+48+A Mandy The Exchange Dmm"
+                },
+                {
+                    "_description": "Side B Runoff Etching",
+                    "_type": "Matrix / Runout",
+                    "_value": "LOAD+48+AA Mandy The Exchange Dmm"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "350",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "350"
+                },
+                {
+                    "_height": "350",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "350"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "LOAD48",
+                "_id": "40",
+                "_name": "Loaded Records"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "343041"
+        },
+        "notes": "℗\u0026© Loaded Records 1997\r\nMastered at The Exchange.",
+        "released": "1997",
+        "styles": {
+            "style": "Trance"
+        },
+        "title": "Vertigo",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A1",
+                    "title": "Vertigo (What Are You Scared Of)"
+                },
+                {
+                    "duration": "",
+                    "position": "A2",
+                    "title": "Vertigo (The Fear)"
+                },
+                {
+                    "duration": "",
+                    "position": "AA1",
+                    "title": "Vertigo (The Falls Parts I \u0026 II)"
+                }
+            ]
+        },
+        "videos": {
+            "video": {
+                "_duration": "371",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=5Wsii3wPk5M",
+                "description": "",
+                "title": "Loki-Vertigo (The Fall Parts 1 \u0026 2)"
+            }
+        }
+    }
+}

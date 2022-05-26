@@ -1,0 +1,715 @@
+{
+    "release": {
+        "_id": "10453",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "1015",
+                "join": "",
+                "name": "Slam",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "UK",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "225760",
+                    "join": "",
+                    "name": "Orde Meikle",
+                    "role": "DJ Mix",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "78458",
+                    "join": "",
+                    "name": "Stuart McMillan",
+                    "role": "DJ Mix",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Compilation",
+                        "Mixed"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Variant 1 \u0026 2",
+                    "_type": "Matrix / Runout",
+                    "_value": "MUZIK SLAM MIX 02 | DISCTRONICS"
+                },
+                {
+                    "_description": "Variant 1 \u0026 2",
+                    "_type": "Mastering SID Code",
+                    "_value": "ifpi L501"
+                },
+                {
+                    "_description": "Variant 1",
+                    "_type": "Mould SID Code",
+                    "_value": "ifpi 8727"
+                },
+                {
+                    "_description": "Variant 2",
+                    "_type": "Mould SID Code",
+                    "_value": "ifpi 8729"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "588",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "472",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "595"
+                },
+                {
+                    "_height": "590",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "593",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "590",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "393",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "300"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "MUZIKMAG70 / MAR01",
+                "_id": "1001",
+                "_name": "Muzik Magazine"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "37396"
+        },
+        "notes": "All tracks have been released on Soma Recordings. Total duration is 62:48.",
+        "released": "2001-02-00",
+        "styles": {
+            "style": [
+                "House",
+                "Tribal",
+                "Techno",
+                "Tech House"
+            ]
+        },
+        "title": "Slam Mix Soma",
+        "tracklist": {
+            "track": [
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "10637",
+                            "join": "",
+                            "name": "Frame",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:26",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "55495",
+                            "join": "",
+                            "name": "John Consemulder",
+                            "role": "Producer, Written-By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "1",
+                    "title": "D-Vices"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1940",
+                            "join": "",
+                            "name": "Silicone Soul",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:32",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "C Morrison",
+                                "id": "468511",
+                                "join": "",
+                                "name": "Craig Morrison",
+                                "role": "Producer, Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "G Reedie",
+                                "id": "468510",
+                                "join": "",
+                                "name": "Graeme Reedie",
+                                "role": "Producer, Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "244",
+                                "join": "",
+                                "name": "H-Foundation",
+                                "role": "Remix, Producer [Additional]",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "2",
+                    "title": "Chic-O-Laa (H-Foundation Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1019",
+                            "join": "",
+                            "name": "Funk D'Void",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:30",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "193661",
+                            "join": "",
+                            "name": "Lars Sandberg",
+                            "role": "Producer, Written-By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "3",
+                    "title": "Barnabeats"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "2611",
+                            "join": "",
+                            "name": "Master H",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "7:19",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "2611",
+                                "join": "",
+                                "name": "Master H",
+                                "role": "Producer, Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "181670",
+                                "join": "",
+                                "name": "Andy Gillespie",
+                                "role": "Producer, Written-By, Engineer",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "4",
+                    "title": "Magic K"
+                },
+                {
+                    "artists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "2676",
+                                "join": "\u0026",
+                                "name": "Hipp-E",
+                                "role": "",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "Tony",
+                                "id": "8152",
+                                "join": "Present",
+                                "name": "Tony Hewitt",
+                                "role": "",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "77787",
+                                "join": "",
+                                "name": "Soul Interactive",
+                                "role": "",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "duration": "6:03",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "8226",
+                                "join": "",
+                                "name": "Greg Sankovich",
+                                "role": "Keyboards",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "2676",
+                                "join": "",
+                                "name": "Hipp-E",
+                                "role": "Presenter",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "Tony",
+                                "id": "8152",
+                                "join": "",
+                                "name": "Tony Hewitt",
+                                "role": "Presenter",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "2676",
+                                "join": "",
+                                "name": "Hipp-E",
+                                "role": "Producer, Written-By, Engineer",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "8152",
+                                "join": "",
+                                "name": "Tony Hewitt",
+                                "role": "Producer, Written-By, Engineer",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "5",
+                    "title": "Da Warrior"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "Counterplan",
+                            "id": "5659",
+                            "join": "",
+                            "name": "Counter Plan",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "1:40",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "O Meikle",
+                                "id": "225760",
+                                "join": "",
+                                "name": "Orde Meikle",
+                                "role": "Producer, Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "S McMillan",
+                                "id": "78458",
+                                "join": "",
+                                "name": "Stuart McMillan",
+                                "role": "Producer, Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "DJQ",
+                                "id": "447",
+                                "join": "",
+                                "name": "DJ Q",
+                                "role": "Remix, Producer [Additional]",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "6",
+                    "title": "90 Degrees (DJ Q Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1938",
+                            "join": "",
+                            "name": "Universal Principles",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "1:51",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "4719",
+                                "join": "",
+                                "name": "Roger Sanchez",
+                                "role": "Producer [Remix]",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "1938",
+                                "join": "",
+                                "name": "Universal Principles",
+                                "role": "Producer, Written-By, Arranged By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "7",
+                    "title": "Flyin' High (S-Man's R-Senal Acappella)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "10638",
+                            "join": "",
+                            "name": "Retroflex",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "3:31",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "C Nazuka",
+                                "id": "7517",
+                                "join": "",
+                                "name": "Chris Nazuka",
+                                "role": "Producer, Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "N Calingaert",
+                                "id": "55685",
+                                "join": "",
+                                "name": "Nick Calingaert",
+                                "role": "Producer, Written-By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "8",
+                    "title": "Moment Resistance"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "20",
+                            "join": "",
+                            "name": "Percy X",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:47",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "Dave Donaldson",
+                                "id": "340794",
+                                "join": "",
+                                "name": "David Donaldson",
+                                "role": "Engineer",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "20",
+                                "join": "",
+                                "name": "Percy X",
+                                "role": "Producer, Written-By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "9",
+                    "title": "Maintain"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1286",
+                            "join": "",
+                            "name": "Gene Farris",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "7:20",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1286",
+                            "join": "",
+                            "name": "Gene Farris",
+                            "role": "Producer, Written-By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "10",
+                    "title": "Let Yourself Go"
+                },
+                {
+                    "artists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "1015",
+                                "join": "Present",
+                                "name": "Slam",
+                                "role": "",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "17286",
+                                "join": "",
+                                "name": "Freelance Science",
+                                "role": "",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "duration": "6:03",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "1015",
+                                "join": "",
+                                "name": "Slam",
+                                "role": "Presenter",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "O Meikle",
+                                "id": "225760",
+                                "join": "",
+                                "name": "Orde Meikle",
+                                "role": "Producer, Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "S McMillan",
+                                "id": "78458",
+                                "join": "",
+                                "name": "Stuart McMillan",
+                                "role": "Producer, Written-By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "11",
+                    "title": "I Karumba"
+                },
+                {
+                    "artists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "1015",
+                                "join": "Versus",
+                                "name": "Slam",
+                                "role": "",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "3194",
+                                "join": "",
+                                "name": "Unkle",
+                                "role": "",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "duration": "6:43",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "1015",
+                                "join": "",
+                                "name": "Slam",
+                                "role": "Mixed By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "3194",
+                                "join": "",
+                                "name": "Unkle",
+                                "role": "Mixed By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "Damien Taylor",
+                                "id": "142312",
+                                "join": "",
+                                "name": "Damian Taylor",
+                                "role": "Producer [Pro Tools, Additional], Mixed By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "21209",
+                                "join": "",
+                                "name": "James Lavelle",
+                                "role": "Producer, Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "225760",
+                                "join": "",
+                                "name": "Orde Meikle",
+                                "role": "Producer, Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "204992",
+                                "join": "",
+                                "name": "Richard File",
+                                "role": "Producer, Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "78458",
+                                "join": "",
+                                "name": "Stuart McMillan",
+                                "role": "Producer, Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "O Meikle",
+                                "id": "225760",
+                                "join": "",
+                                "name": "Orde Meikle",
+                                "role": "Remix [Credited To]",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "S McMillan",
+                                "id": "78458",
+                                "join": "",
+                                "name": "Stuart McMillan",
+                                "role": "Remix [Credited To]",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "12",
+                    "title": "Narco Tourist (Slam Mix)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "3769",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=ndHtyBfVUo8",
+                    "description": "This mix CD has been uploaded to share the love of diverse forms of techno, along with some forgotten history dear to many followers of the genre. We support the brands/artists/labels and are promoting classic mixes from yesteryear we enjoy and think the",
+                    "title": "DT:Recommends | Slam Mix Soma - Rockdelux / Muzik Magazine (2001) Mix CD"
+                },
+                {
+                    "_duration": "3770",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=zldoRZUnbPU",
+                    "description": "Slam - Soma Mix [Muzik]\n\nhttps://www.discogs.com/master/37396\n\n01 Frame - D-Vices\n02 Silicone Soul - Chic-O-Laa (H-Foundation Mix)\n03 Funk D'Void - Barnabeats\n04 Master H - Magic K\n05 Hipp-E \u0026 Tony present Soul Interactive - Da Warrior\n06 Counterplan - 90",
+                    "title": "Slam - Muzik Soma Mix"
+                },
+                {
+                    "_duration": "3769",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=pViRzhRIHJI",
+                    "description": "1 Frame: D-Vices \n2 Silicone Soul: Chic-O-Laa (H-Foundation Mix) \n3 Funk D'Void: Barnabeats \n4 Master H: Magic K \n5 Hipp-E \u0026 Tony Present Soul Interactive: Da Warrior\n6 Counterplan: 90 Degrees (DJ Q Mix) \n7 Universal Principles: Flyin' High (S-Man's R-Sen",
+                    "title": "Slam: Slam Mix Soma (Full Album)"
+                }
+            ]
+        }
+    }
+}

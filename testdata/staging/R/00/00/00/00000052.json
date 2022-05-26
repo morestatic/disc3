@@ -1,0 +1,337 @@
+{
+    "release": {
+        "_id": "52",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "96",
+                "join": "",
+                "name": "Håkan Lidbo",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "9",
+                    "entity_type_name": "Distributed By",
+                    "id": "149122",
+                    "name": "3MV",
+                    "resource_url": "https://api.discogs.com/labels/149122"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "9",
+                    "entity_type_name": "Distributed By",
+                    "id": "264522",
+                    "name": "Pinnacle (3)",
+                    "resource_url": "https://api.discogs.com/labels/264522"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "37",
+                    "entity_type_name": "Produced For",
+                    "id": "1500231",
+                    "name": "20:20 Vision Recordings",
+                    "resource_url": "https://api.discogs.com/labels/1500231"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "40",
+                    "name": "Loaded Records",
+                    "resource_url": "https://api.discogs.com/labels/40"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "40",
+                    "name": "Loaded Records",
+                    "resource_url": "https://api.discogs.com/labels/40"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "265761",
+                    "name": "Container Publishing",
+                    "resource_url": "https://api.discogs.com/labels/265761"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "28",
+                    "entity_type_name": "Remixed At",
+                    "id": "664769",
+                    "name": "The Farm, Leeds",
+                    "resource_url": "https://api.discogs.com/labels/664769"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "26",
+                    "entity_type_name": "Produced At",
+                    "id": "664769",
+                    "name": "The Farm, Leeds",
+                    "resource_url": "https://api.discogs.com/labels/664769"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "30",
+                    "entity_type_name": "Lacquer Cut At",
+                    "id": "158759",
+                    "name": "The Exchange",
+                    "resource_url": "https://api.discogs.com/labels/158759"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "17",
+                    "entity_type_name": "Pressed By",
+                    "id": "754",
+                    "name": "EMI Records",
+                    "resource_url": "https://api.discogs.com/labels/754"
+                }
+            ]
+        },
+        "country": "UK",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "Mandy",
+                    "id": "384377",
+                    "join": "",
+                    "name": "Mandy Parnell",
+                    "role": "Lacquer Cut By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "Hakan Lidbo",
+                    "id": "96",
+                    "join": "",
+                    "name": "Håkan Lidbo",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "2020 Vision",
+                    "id": "117",
+                    "join": "",
+                    "name": "20:20 Vision",
+                    "role": "Remix",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "13320",
+                    "join": "",
+                    "name": "Carl A. Finlow",
+                    "role": "Remix, Producer [Additional Production]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "10282",
+                    "join": "",
+                    "name": "Ralph Lawson",
+                    "role": "Remix, Producer [Additional Production]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "135974",
+                    "join": "",
+                    "name": "Paula Lobos",
+                    "role": "Vocals",
+                    "tracks": ""
+                },
+                {
+                    "anv": "Hakan Lidbo",
+                    "id": "96",
+                    "join": "",
+                    "name": "Håkan Lidbo",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "135974",
+                    "join": "",
+                    "name": "Paula Lobos",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Barcode",
+                    "_value": "5025 4524 0662 1"
+                },
+                {
+                    "_description": "Side A runout",
+                    "_type": "Matrix / Runout",
+                    "_value": "LOAD 66 A-01-1-1 MANDY THE EXCHANGE"
+                },
+                {
+                    "_description": "Side AA runout",
+                    "_type": "Matrix / Runout",
+                    "_value": "LOAD 66 AA-01-1-1"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": [
+                {
+                    "_catno": "LOAD 66",
+                    "_id": "40",
+                    "_name": "Loaded Records"
+                },
+                {
+                    "_catno": "LOAD 66",
+                    "_id": "15",
+                    "_name": "20:20 Vision"
+                },
+                {
+                    "_catno": "LOAD66",
+                    "_id": "40",
+                    "_name": "Loaded Records"
+                }
+            ]
+        },
+        "master_id": {
+            "_is_main_release": "false",
+            "content": "72093"
+        },
+        "notes": "Catalogue # on back cover \u0026 centre label: LOAD 66\nCatalogue # on spine: LOAD66\n\nRemix and additional production [...] for 2020 Vision Recordings at The Farm, Leeds 2000AD.\nDistributed by 3mv / Pinnacle\nMade in The UK.\n℗ Loaded Records 2000\n© Loaded Records 2000\n\nAA1 and AA2 are both titled \"2020 Vision Dub 1\" on release",
+        "released": "2000-07-24",
+        "styles": {
+            "style": "House"
+        },
+        "title": "Walk Away (2020 Vision Remixes)",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A1",
+                    "title": "Walk Away (2020 Vision Vocal Mix)"
+                },
+                {
+                    "duration": "",
+                    "position": "AA1",
+                    "title": "Walk Away (2020 Vision Dub 1)"
+                },
+                {
+                    "duration": "",
+                    "position": "AA2",
+                    "title": "Walk Away (2020 Vision Dub 2)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "525",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=yNVW3gJPq0o",
+                    "description": "Hakan Lidbo - Walk Away (20:20 Vision Vocal Mix) [Loaded, 2000]",
+                    "title": "Hakan Lidbo - Walk Away (20:20 Vision Vocal Mix) [Loaded, 2000]"
+                },
+                {
+                    "_duration": "386",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=2MxPDEq1Sfc",
+                    "description": "Beatport: http://www.beatport.com/release/walk-away-2020-vision-mixes/184344\n\niTunes: http://itunes.apple.com/gb/album/walk-away-20-20-vision-mixes/id379432902",
+                    "title": "Hakan Lidbo - Walk Away (Todd Edwards Remix)"
+                },
+                {
+                    "_duration": "435",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=lPmU6akYP6Q",
+                    "description": "Provided to YouTube by Warner Music Group\n\nWalk Away (20:20 Vision Unreleased Dub One) · Håkan Lidbo\n\nEstereo Dubbed\n\n℗ 2003 Loaded Records Limited, a BMG Company\n\nPerformance: Håkan Lidbo\n\nAuto-generated by YouTube.",
+                    "title": "Walk Away (20:20 Vision Unreleased Dub One)"
+                },
+                {
+                    "_duration": "357",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=JGKccXEXsIY",
+                    "description": "Provided to YouTube by Warner Music Group\n\nWalk Away (Hakan's Straight Up House Mix) · Håkan Lidbo\n\nWalk Away\n\n℗ 2000 Loaded Records Limited, a BMG Company\n\nPerformance: Håkan Lidbo\n\nAuto-generated by YouTube.",
+                    "title": "Walk Away (Hakan's Straight Up House Mix)"
+                },
+                {
+                    "_duration": "313",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=B9iqtl0YcmQ",
+                    "description": "Provided to YouTube by Warner Music Group\n\nWalk Away (20:20 Vision Unreleased Dub Two) · Håkan Lidbo\n\nEstereo Dubbed\n\n℗ 2003 Loaded Records Limited, a BMG Company\n\nPerformance: Håkan Lidbo\n\nAuto-generated by YouTube.",
+                    "title": "Walk Away (20:20 Vision Unreleased Dub Two)"
+                },
+                {
+                    "_duration": "415",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=WAAZGiJXA1Q",
+                    "description": "Provided to YouTube by Warner Music Group\n\nWalk Away (Todd's Tell Someone Dub Remix) · Håkan Lidbo\n\nWalk Away\n\n℗ 2000 Loaded Records Limited, a BMG Company\n\nProducer: Håkan Lidbo\nRemixer: Todd Edwards\n\nAuto-generated by YouTube.",
+                    "title": "Walk Away (Todd's Tell Someone Dub Remix)"
+                },
+                {
+                    "_duration": "219",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=5EQmq6Fi_nc",
+                    "description": "Provided to YouTube by Warner Music Group\n\nWalk Away (Monophone Remix) · Håkan Lidbo\n\nWalk Away\n\n℗ 2000 Loaded Records Limited, a BMG Company\n\nPerformance: Håkan Lidbo\n\nAuto-generated by YouTube.",
+                    "title": "Walk Away (Monophone Remix)"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,663 @@
+{
+    "release": {
+        "_id": "234555",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "274079",
+                "join": "",
+                "name": "DJ Omar (2)",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "15820",
+                    "name": "Arcade Music Company (Norway) AS",
+                    "resource_url": "https://api.discogs.com/labels/15820"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "15820",
+                    "name": "Arcade Music Company (Norway) AS",
+                    "resource_url": "https://api.discogs.com/labels/15820"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "8",
+                    "entity_type_name": "Marketed By",
+                    "id": "15820",
+                    "name": "Arcade Music Company (Norway) AS",
+                    "resource_url": "https://api.discogs.com/labels/15820"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "9",
+                    "entity_type_name": "Distributed By",
+                    "id": "15820",
+                    "name": "Arcade Music Company (Norway) AS",
+                    "resource_url": "https://api.discogs.com/labels/15820"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "29",
+                    "entity_type_name": "Mastered At",
+                    "id": "273081",
+                    "name": "Masterhuset",
+                    "resource_url": "https://api.discogs.com/labels/273081"
+                },
+                {
+                    "catno": "38483",
+                    "entity_type": "31",
+                    "entity_type_name": "Glass Mastered At",
+                    "id": "194359",
+                    "name": "Tocano",
+                    "resource_url": "https://api.discogs.com/labels/194359"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "17",
+                    "entity_type_name": "Pressed By",
+                    "id": "194359",
+                    "name": "Tocano",
+                    "resource_url": "https://api.discogs.com/labels/194359"
+                }
+            ]
+        },
+        "country": "Norway",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "274079",
+                "join": "",
+                "name": "DJ Omar (2)",
+                "role": "DJ Mix",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Mixed",
+                        "Compilation"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Barcode",
+                    "_value": "7039691400007"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "TOCANO DK 38483 0014"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "594",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "489",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "554",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "BITCD 14",
+                "_id": "6223",
+                "_name": "BIT Music Scandinavia"
+            }
+        },
+        "notes": "(P) \u0026 (C) 2000 Arcade Music Company Norway AS.\nCreative design: Positiva DA.\nPremastered at Studio 14.\n\nMixed live with two SL 1210, Pioneer DJM 500 and Ortofon Pick Up's.",
+        "released": "2000",
+        "styles": {
+            "style": [
+                "House",
+                "Techno",
+                "Tech House"
+            ]
+        },
+        "title": "Sommer Parade 2000",
+        "tracklist": {
+            "track": [
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "The Twisted Pair!",
+                            "id": "4447",
+                            "join": "",
+                            "name": "Twisted Pair",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "7:53",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "Dano \u0026 Joeski",
+                            "id": "6490",
+                            "join": "",
+                            "name": "Joeski \u0026 Dano",
+                            "role": "Written-By, Producer",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "1",
+                    "title": "Twisted Horns"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "174",
+                            "join": "",
+                            "name": "Peace Division",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "2:59",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "C Henry",
+                                "id": "41179",
+                                "join": "",
+                                "name": "Clive Henry",
+                                "role": "Written-By, Producer",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "J Drake",
+                                "id": "41180",
+                                "join": "",
+                                "name": "Justin Drake",
+                                "role": "Written-By, Producer",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "2",
+                    "title": "Be U 4 T (Peace Dub)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "817",
+                            "join": "",
+                            "name": "Terry Francis",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:23",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "817",
+                            "join": "",
+                            "name": "Terry Francis",
+                            "role": "Written-By, Producer",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "3",
+                    "title": "Notice Board"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "18825",
+                            "join": "",
+                            "name": "C \u0026 M Productions",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "3:19",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "C. Kistler",
+                                "id": "507349",
+                                "join": "",
+                                "name": "Christian Kistler",
+                                "role": "Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "M. Zehnder",
+                                "id": "507347",
+                                "join": "",
+                                "name": "Marc Zehnder",
+                                "role": "Written-By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "M. Schooler",
+                                "id": "30991",
+                                "join": "",
+                                "name": "Marcel Schooler",
+                                "role": "Written-By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "4",
+                    "title": "True House (Hard Steppin' Dub)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "37282",
+                            "join": "",
+                            "name": "Marino Berardi",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:25",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "37282",
+                            "join": "",
+                            "name": "Marino Berardi",
+                            "role": "Written-By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "5",
+                    "title": "Class Of '94"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "53741",
+                            "join": "",
+                            "name": "Session #9",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "3:50",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "Ted",
+                                "id": "5838",
+                                "join": "",
+                                "name": "Tedd Patterson",
+                                "role": "Remix",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "T.Patterson",
+                                "id": "5838",
+                                "join": "",
+                                "name": "Tedd Patterson",
+                                "role": "Written-By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "6",
+                    "title": "Welcome To The Magic Sessions (Tedd's Big Room Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "858",
+                            "join": "",
+                            "name": "Hardfloor",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:11",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "4864",
+                                "join": "",
+                                "name": "Oliver Bondzio",
+                                "role": "Written-By, Producer",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "13665",
+                                "join": "",
+                                "name": "Ramon Zenker",
+                                "role": "Written-By, Producer",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "7",
+                    "title": "Communication To None"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "10425",
+                            "join": "",
+                            "name": "D-Culture",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:26",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "G. Engels",
+                            "id": "525405",
+                            "join": "",
+                            "name": "Geoffrey Engels",
+                            "role": "Written-By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "8",
+                    "title": "Revieuw"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1605",
+                            "join": "",
+                            "name": "Deetron",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "3:41",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "429475",
+                            "join": "",
+                            "name": "Sam Geiser",
+                            "role": "Written-By, Producer",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "9",
+                    "title": "Silk Cut"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1519",
+                            "join": "",
+                            "name": "Bryan Zentz",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "2:28",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1519",
+                            "join": "",
+                            "name": "Bryan Zentz",
+                            "role": "Written-By, Producer",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "10",
+                    "title": "With Incident"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "8870",
+                            "join": "",
+                            "name": "Michel De Hey vs. Literon",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:17",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "Michel De Heij \u0026 William Literon",
+                            "id": "8870",
+                            "join": "",
+                            "name": "Michel De Hey vs. Literon",
+                            "role": "Written-By, Producer",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "11",
+                    "title": "Cloaked (Original Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "20",
+                            "join": "",
+                            "name": "Percy X",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "3:57",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "T. Scott",
+                            "id": "529343",
+                            "join": "",
+                            "name": "Tony Scott (4)",
+                            "role": "Written-By, Producer, Arranged By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "12",
+                    "title": "Worklife"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "3390",
+                            "join": "",
+                            "name": "Jark Prongo",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "2:19",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "3390",
+                            "join": "",
+                            "name": "Jark Prongo",
+                            "role": "Written-By, Producer",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "13",
+                    "title": "Vibra 9000-3"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "110474",
+                            "join": "",
+                            "name": "Perpetual Two",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:06",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "E. Overdijk",
+                                "id": "78438",
+                                "join": "",
+                                "name": "Etienne Overdijk",
+                                "role": "Written-By, Producer",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "F. van Eck",
+                                "id": "482033",
+                                "join": "",
+                                "name": "Fred van Eck",
+                                "role": "Written-By, Producer",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "14",
+                    "title": "Tribal Quest (Tribal Dub)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "6856",
+                            "join": "",
+                            "name": "Andy Ling",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "7:09",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "A. Ling",
+                                "id": "6856",
+                                "join": "",
+                                "name": "Andy Ling",
+                                "role": "Written-By, Producer",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "B. Jamieson",
+                                "id": "200324",
+                                "join": "",
+                                "name": "Barry Jamieson",
+                                "role": "Written-By, Producer",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "J. Sutton",
+                                "id": "441578",
+                                "join": "",
+                                "name": "Jon Sutton",
+                                "role": "Written-By, Producer",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "15",
+                    "title": "Fixation"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "Tribal Trouble",
+                            "id": "809627",
+                            "join": "",
+                            "name": "Tribal Truble",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:26",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "Tribal Trouble",
+                            "id": "809627",
+                            "join": "",
+                            "name": "Tribal Truble",
+                            "role": "Written-By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "16",
+                    "title": "The Yob (Original Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "6059",
+                            "join": "",
+                            "name": "Mainline",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:09",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "4214",
+                            "join": "",
+                            "name": "James Holden",
+                            "role": "Written-By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "17",
+                    "title": "Innerspace"
+                }
+            ]
+        }
+    }
+}

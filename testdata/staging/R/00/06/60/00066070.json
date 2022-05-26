@@ -1,0 +1,213 @@
+{
+    "release": {
+        "_id": "66070",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "9592",
+                "join": "",
+                "name": "Pizzaman",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": {
+                "catno": "22758",
+                "entity_type": "17",
+                "entity_type_name": "Pressed By",
+                "id": "207420",
+                "name": "SMA",
+                "resource_url": "https://api.discogs.com/labels/207420"
+            }
+        },
+        "country": "Australia",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "59261",
+                    "join": "",
+                    "name": "Simon Thornton",
+                    "role": "Engineer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "9592",
+                    "join": "",
+                    "name": "Pizzaman",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "9592",
+                    "join": "",
+                    "name": "Pizzaman",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1755570",
+                    "join": "",
+                    "name": "St Hill",
+                    "role": "Written-By",
+                    "tracks": "4"
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "Single"
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Barcode",
+                    "_value": "9399600148122"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "D 1481 SMA 22758"
+                }
+            ]
+        },
+        "images": {
+            "image": {
+                "_height": "250",
+                "_type": "primary",
+                "_uri": "",
+                "_uri150": "",
+                "_width": "285"
+            }
+        },
+        "labels": {
+            "label": [
+                {
+                    "_catno": "D1481",
+                    "_id": "40",
+                    "_name": "Loaded Records"
+                },
+                {
+                    "_catno": "D1481",
+                    "_id": "6580",
+                    "_name": "Liberation Records"
+                },
+                {
+                    "_catno": "D1481",
+                    "_id": "5495",
+                    "_name": "Cowboy Records"
+                }
+            ]
+        },
+        "master_id": {
+            "_is_main_release": "false",
+            "content": "100624"
+        },
+        "notes": "Radio Edit by Simon Sadler for Kiss 100 FM\r\nTracks 2 \u0026 Recorded at The Brewrey",
+        "released": "1996",
+        "styles": {
+            "style": "Big Beat"
+        },
+        "title": "Hello Honky Tonks (Rock Your Body)",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "3:56",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "283647",
+                            "join": "",
+                            "name": "Simon Sadler",
+                            "role": "Edited By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "1",
+                    "title": "Hello Honky Tonks (Rock Your Body) (Radio Edit)"
+                },
+                {
+                    "duration": "7:33",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "229902",
+                            "join": "",
+                            "name": "Cotton Club",
+                            "role": "Remix, Producer [Additional]",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "2",
+                    "title": "Hello Honky Tonks (Rock Your Body) (Cotton Club Dub)"
+                },
+                {
+                    "duration": "6:51",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "229902",
+                            "join": "",
+                            "name": "Cotton Club",
+                            "role": "Remix, Producer [Additional]",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "3",
+                    "title": "Hello Honky Tonks (Rock Your Body) (Cotton Club Brewery Dub)"
+                },
+                {
+                    "duration": "6:35",
+                    "position": "4",
+                    "title": "The Feeling (Pizzaman Mix)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "235",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=nmk6yB4LEyk",
+                    "description": "✖ TO OWNERS \u0026 COPYRIGHT HOLDERS:\nThis channel is created to promote magnificent songs, and as well, producers. Absolutely, NO COPYRIGHT INFRINGEMENT INTENDED. This CHANNEL CLAIMS NO RIGHTS OR OWNERSHIP over the contents posted. If you wish for a track t",
+                    "title": "Pizzaman - Hello Honky Tonks (Rock Your Body) [Official Music Video]"
+                },
+                {
+                    "_duration": "398",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=YBmA1eIDVYE",
+                    "description": "Pizzaman\nPizzamania\n006. The Feeling\n(1995)",
+                    "title": "Pizzaman - The Feeling"
+                },
+                {
+                    "_duration": "422",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=6LhRUspAH6g",
+                    "description": "The Cool Cuts Selection Part 25\n1996 Loaded Records (LOAD 39) If You like it ,buy it! (www.pulserecords.co.uk)",
+                    "title": "Pizzaman -- Hello Honky Tonks (Rock Your Body) (Cotton Club Brewery Dub)"
+                },
+                {
+                    "_duration": "244",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=DT9XOl8bWb0",
+                    "description": "Loaded records",
+                    "title": "Hello Honky Tonks by Pizzaman (high res\\official video)"
+                }
+            ]
+        }
+    }
+}

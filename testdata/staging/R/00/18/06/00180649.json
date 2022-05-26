@@ -1,0 +1,387 @@
+{
+    "release": {
+        "_id": "180649",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "245660",
+                "join": "",
+                "name": "Mark Riva",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "US",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "245660",
+                "join": "",
+                "name": "Mark Riva",
+                "role": "Presenter",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "Compilation"
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": {
+                "_height": "310",
+                "_type": "secondary",
+                "_uri": "",
+                "_uri150": "",
+                "_width": "330"
+            }
+        },
+        "labels": {
+            "label": {
+                "_catno": "KRI-CD-3005",
+                "_id": "6949",
+                "_name": "Kriztal Entertainment"
+            }
+        },
+        "notes": "Full title given on the release as 'Mark Riva presents Sungrooves'",
+        "released": "2003-08-12",
+        "styles": {
+            "style": [
+                "Future Jazz",
+                "Deep House",
+                "Latin"
+            ]
+        },
+        "title": "Sungrooves",
+        "tracklist": {
+            "track": [
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "4083",
+                            "join": "",
+                            "name": "P'Taah",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "83",
+                                "join": "",
+                                "name": "Atjazz",
+                                "role": "Remix",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "62885",
+                                "join": "",
+                                "name": "Sylvia Gordon",
+                                "role": "Vocals",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "1",
+                    "title": "Staring At The Sun (Atjazz Remix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "75685",
+                            "join": "",
+                            "name": "Cassady",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "Staci",
+                            "id": "80408",
+                            "join": "",
+                            "name": "Staci Smith",
+                            "role": "Featuring",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "2",
+                    "title": "Isabella Sunshine"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "40",
+                            "join": "",
+                            "name": "Dave Warrin",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "49922",
+                            "join": "",
+                            "name": "Carol C",
+                            "role": "Vocals",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "3",
+                    "title": "Shine On"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "François K",
+                            "id": "20662",
+                            "join": "",
+                            "name": "François Kevorkian",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "25833",
+                            "join": "",
+                            "name": "Needs",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "4",
+                    "title": "Awakening (Needs Remix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "76",
+                            "join": "",
+                            "name": "Kevin Yost",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "5",
+                    "title": "Feeling"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "17189",
+                            "join": "",
+                            "name": "Mr. Hermano",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "6",
+                    "title": "Como Um Sol (Extended Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "8789",
+                            "join": "",
+                            "name": "Wagon Cookin'",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "31",
+                            "join": "",
+                            "name": "Swag",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "7",
+                    "title": "Mar (Swag Remix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1023",
+                            "join": "",
+                            "name": "Russ Gabriel",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "8",
+                    "title": "Second Summer"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "5881",
+                            "join": "",
+                            "name": "John Beltran",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "9",
+                    "title": "Felicidad Nova"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "9288",
+                            "join": "",
+                            "name": "Rivera Rotation",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "10",
+                    "title": "Dedicado (House Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "119476",
+                            "join": "",
+                            "name": "La Casa Menthe",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "11",
+                    "title": "Haitari"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "63322",
+                            "join": "",
+                            "name": "Ive Mendes",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "203294",
+                            "join": "",
+                            "name": "S.U.M.O.",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "12",
+                    "title": "Natural High (S.U.M.O. Rebounce)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "46616",
+                            "join": "",
+                            "name": "Cuica",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "13",
+                    "title": "Nights Over Vauxhall"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "15085",
+                            "join": "",
+                            "name": "Harry Morse Project",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "14",
+                    "title": "Brazilou (Hmp Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "493896",
+                            "join": "",
+                            "name": "Afro-Mystik",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "19116",
+                            "join": "",
+                            "name": "Kaskade",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "15",
+                    "title": "Natural (Kaskade Remix)"
+                }
+            ]
+        },
+        "videos": {
+            "video": {
+                "_duration": "4723",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=iylCjioRsEw",
+                "description": "Label: Kriztal Entertainment ‎– KRI-CD-3005\nFormat: CD, Compilation\nCountry: US\nReleased: 12 Aug 2003\nGenre: Electronic\nStyle: Future Jazz, Deep House, Latin\n\nTracklist\n1. P'Taah - Staring At The Sun (Atjazz Remix) \n2. Cassady - Isabella Sunshine \n3.",
+                "title": "Mark Riva presents Sungrooves"
+            }
+        }
+    }
+}

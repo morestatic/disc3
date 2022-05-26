@@ -1,0 +1,162 @@
+{
+    "release": {
+        "_id": "128843",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "2910",
+                "join": "",
+                "name": "Hearts Of Space",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "Germany",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "1584729",
+                    "join": "",
+                    "name": "SST (8)",
+                    "role": "Mastered By [Vinyl Cut]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "4865",
+                    "join": "",
+                    "name": "Pascal F.E.O.S.",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                },
+                {
+                    "_description": "Run-out Side A",
+                    "_type": "Matrix / Runout",
+                    "_value": "PK 08/20 A SST = PRODUCED AT SONIC STUDIOS FRANKFURT FOR NAMLOOK PRODUCTIONS ="
+                },
+                {
+                    "_description": "Run-out Side B",
+                    "_type": "Matrix / Runout",
+                    "_value": "PK 08/20 B SST = NO REMIX SIDE ="
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/20",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "1099511"
+        },
+        "notes": "Mastered at Schallplatten Schneid-Technik Brüggemann GmbH.\r\n\r\nLimitation : 500",
+        "released": "1992-11-02",
+        "styles": {
+            "style": [
+                "Acid",
+                "Techno",
+                "Trance"
+            ]
+        },
+        "title": "Hearts Of Space",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "",
+                    "title": "This Side"
+                },
+                {
+                    "duration": "6:00",
+                    "position": "A",
+                    "title": "With A Medium Into Trance (Sequence 4 Mix)"
+                },
+                {
+                    "duration": "",
+                    "position": "",
+                    "title": "Other Side"
+                },
+                {
+                    "duration": "6:14",
+                    "position": "B",
+                    "title": "With A Medium Into Trance (Drop Out Mix)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "365",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=qk8qq7s7r3U",
+                    "description": "Well heres the Sequence 4 mix (side A)\r\n\r\n\r\n\r\n\r\nOriginally On Fax recs\r\n\r\nLabel:Music Man Records\r\nCatalog#:MMI 9359\r\nFormat:Vinyl, 12\r\nCountry:Belgium\r\nReleased:1993\r\nGenre:Electronic\r\nStyle:Trance, Hard Trance\r\nCredits:Producer, Written-By - Pascal F.E",
+                    "title": "Hearts Of Space - With A Medium Into Trance (Sequence 4 Mix)"
+                },
+                {
+                    "_duration": "374",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=0yaoVoSsdgs",
+                    "description": "Label: Music Man Records\nReleased: 1993\nGenre: Electronic\nStyle: Trance, Hard Trance",
+                    "title": "Hearts Of Space - With A Medium Into Trance (Drop Out Mix)"
+                }
+            ]
+        }
+    }
+}

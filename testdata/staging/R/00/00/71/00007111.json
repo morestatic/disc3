@@ -1,0 +1,364 @@
+{
+    "release": {
+        "_id": "7111",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "8123",
+                "join": "",
+                "name": "Central Living",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "364860",
+                    "name": "Diastolic Music",
+                    "resource_url": "https://api.discogs.com/labels/364860"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "272720",
+                    "name": "Naked Music NYC Recordings, LLC",
+                    "resource_url": "https://api.discogs.com/labels/272720"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "27",
+                    "entity_type_name": "Mixed At",
+                    "id": "467023",
+                    "name": "The Flipside",
+                    "resource_url": "https://api.discogs.com/labels/467023"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "28",
+                    "entity_type_name": "Remixed At",
+                    "id": "1501591",
+                    "name": "Wingate Studios",
+                    "resource_url": "https://api.discogs.com/labels/1501591"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "30",
+                    "entity_type_name": "Lacquer Cut At",
+                    "id": "190672",
+                    "name": "Heathmans Mastering",
+                    "resource_url": "https://api.discogs.com/labels/190672"
+                }
+            ]
+        },
+        "country": "US",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "74994",
+                    "join": "",
+                    "name": "Bruno Ybarra",
+                    "role": "Administrator [Label Director]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "Dave Boonshoft",
+                    "id": "209463",
+                    "join": "",
+                    "name": "David Boonshoft",
+                    "role": "Executive-Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "Chris A",
+                    "id": "354214",
+                    "join": "",
+                    "name": "Chris Alexander",
+                    "role": "Lacquer Cut By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "64003",
+                    "join": "",
+                    "name": "J. Mark Andrus",
+                    "role": "Mastered By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "670",
+                    "join": "",
+                    "name": "Lisa Shaw",
+                    "role": "Vocals",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "40",
+                    "join": "",
+                    "name": "Dave Warrin",
+                    "role": "Written-By, Arranged By, Producer",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM",
+                        "EP"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Side A, hand-etched runout",
+                    "_type": "Matrix / Runout",
+                    "_value": "NM. 015A"
+                },
+                {
+                    "_description": "Side B, hand-etched runout",
+                    "_type": "Matrix / Runout",
+                    "_value": "NM. 015 B .CHRIS A. .HEATHMANS."
+                },
+                {
+                    "_type": "Rights Society",
+                    "_value": "ASCAP"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "587"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "587"
+                },
+                {
+                    "_height": "601",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "597",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "NM015",
+                "_id": "10",
+                "_name": "Naked Music Recordings"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "271674"
+        },
+        "notes": "Track A1: remix and arrangement for Bougie Soliterre Productions. Mixed at The Flipside, London 2001.\nTrack B1: remix and arrangement at Wingate Studios Heaton Moor, Stockport, UK. A Crazy Penis Production.\n\nC Naked Music NYC Recordings, LLC\nP Diastolic Music (ASCAP)",
+        "released": "2001",
+        "styles": {
+            "style": "Deep House"
+        },
+        "title": "Everyday",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "5:55",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "72436",
+                                "join": "",
+                                "name": "Mike Patto",
+                                "role": "Bass, Keyboards, Remix [Additional]",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "235561",
+                                "join": "",
+                                "name": "Al Robertson",
+                                "role": "Engineer",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "1507",
+                                "join": "",
+                                "name": "Bougie Soliterre",
+                                "role": "Remix",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "Bettina Costanzo",
+                                "id": "16175",
+                                "join": "",
+                                "name": "Bettina Constanzo",
+                                "role": "Remix, Arranged By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "A1",
+                    "title": "Everyday (Bougie Soliterre Main Mix)"
+                },
+                {
+                    "duration": "7:15",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "670",
+                                "join": "",
+                                "name": "Lisa Shaw",
+                                "role": "Vocals",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "40",
+                                "join": "",
+                                "name": "Dave Warrin",
+                                "role": "Written-By, Producer",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "A2",
+                    "title": "Everyday (Central Living Original)"
+                },
+                {
+                    "duration": "7:54",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "JMA",
+                                "id": "48643",
+                                "join": "",
+                                "name": "Miss JMA",
+                                "role": "Edited By [Re-edit]",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "82",
+                                "join": "",
+                                "name": "Crazy Penis",
+                                "role": "Producer",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "Naked Penis",
+                                "id": "82",
+                                "join": "",
+                                "name": "Crazy Penis",
+                                "role": "Remix",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "28675",
+                                "join": "",
+                                "name": "Chris Todd",
+                                "role": "Remix, Arranged By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "28674",
+                                "join": "",
+                                "name": "James Baron",
+                                "role": "Remix, Arranged By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "B1",
+                    "title": "Everyday (The Naked Penis Remix)"
+                },
+                {
+                    "duration": "4:58",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "2659",
+                            "join": "",
+                            "name": "Sven Van Hees",
+                            "role": "Remix, Arranged By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "B2",
+                    "title": "Everyday (Sven's Version D'Amour)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "412",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Ut4PnGoY9FA",
+                    "description": "© Naked Music Recordings 2001, Central Living ''Everyday''\r\nStyle: Deep House\r\n\r\nhttp://www.naked-music.com/",
+                    "title": "Central Living - Everyday (Central Living Original)"
+                },
+                {
+                    "_duration": "354",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=BatByv6grjw",
+                    "description": "Central Living - Everyday (Bougie Solitere Main Mix)\nhttp://www.beatport.com/label/naked-m...",
+                    "title": "Central Living - Everyday (Bougie Solitere Main Mix)"
+                },
+                {
+                    "_duration": "468",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=hBFf6N2wXeI",
+                    "description": "",
+                    "title": "Central Living - Everyday (The Naked Penis Remix)"
+                },
+                {
+                    "_duration": "298",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=ShOvg7g35Dc",
+                    "description": "© Naked Music Recordings 2001, Central Living ''Everyday''\r\nStyle: Deep House\r\n\r\nhttp://www.naked-music.com/",
+                    "title": "Central Living - Everyday (Sven's Version D'Amour)"
+                }
+            ]
+        }
+    }
+}

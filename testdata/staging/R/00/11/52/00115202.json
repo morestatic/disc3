@@ -1,0 +1,226 @@
+{
+    "release": {
+        "_id": "115202",
+        "_status": "Accepted",
+        "artists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "17799",
+                    "join": "Feat.",
+                    "name": "Bad Boy Bill",
+                    "role": "",
+                    "tracks": ""
+                },
+                {
+                    "anv": "Nadine Renee",
+                    "id": "53250",
+                    "join": "",
+                    "name": "Nadine Renée",
+                    "role": "",
+                    "tracks": ""
+                }
+            ]
+        },
+        "companies": "",
+        "country": "US",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": {
+                "anv": "Nadine Renee",
+                "id": "53250",
+                "join": "",
+                "name": "Nadine Renée",
+                "role": "Featuring [Vocals]",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "2",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM",
+                        "Promo"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "MDR9656-1",
+                "_id": "20",
+                "_name": "Moody Recordings"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "413401"
+        },
+        "released": "2002",
+        "styles": {
+            "style": [
+                "House",
+                "Deep House"
+            ]
+        },
+        "title": "Costa Del Sol",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "17799",
+                                "join": "",
+                                "name": "Bad Boy Bill",
+                                "role": "Mixed By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "3021",
+                                "join": "",
+                                "name": "JJ Flores",
+                                "role": "Mixed By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "A1",
+                    "title": "Costa Del Sol (Original Club Mix)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "77055",
+                            "join": "",
+                            "name": "Andres Mijangos",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "B1",
+                    "title": "Costa Del Sol (Mijangos - Puesta Del Sol Mix)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "229",
+                            "join": "",
+                            "name": "Lego",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "C1",
+                    "title": "Costa Del Sol (Légo's Vocal Mix)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "229",
+                            "join": "",
+                            "name": "Lego",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "C2",
+                    "title": "Costa Del Sol (Légo's Chantapella)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "17799",
+                                "join": "",
+                                "name": "Bad Boy Bill",
+                                "role": "Remix",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "3021",
+                                "join": "",
+                                "name": "JJ Flores",
+                                "role": "Remix",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "4267",
+                                "join": "",
+                                "name": "Steve Smooth",
+                                "role": "Remix",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "D",
+                    "title": "Costa Del Sol (Sol Dub)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "372",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=yr6lte9IEWw",
+                    "description": "BAD BOY BILL - Costa del sol (Lego Mix) 2003",
+                    "title": "BAD BOY BILL - Costa del sol (Lego Mix)"
+                },
+                {
+                    "_duration": "575",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=HidKPbgUW7Q",
+                    "description": "House Music (Latin)",
+                    "title": "Bad Boy Bill - Costa Del Sol (Mijangos Puesta Del Sol Mix)"
+                }
+            ]
+        }
+    }
+}

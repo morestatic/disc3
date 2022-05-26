@@ -1,0 +1,216 @@
+{
+    "release": {
+        "_id": "7685",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "171221",
+                "join": "",
+                "name": "Hemisphere (3)",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": {
+                "catno": "",
+                "entity_type": "10",
+                "entity_type_name": "Manufactured By",
+                "id": "291931",
+                "name": "CD Plant MFG",
+                "resource_url": "https://api.discogs.com/labels/291931"
+            }
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1344",
+                    "join": "",
+                    "name": "Steve Stoll",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "CD PLANT MFG PW 08 CDM01"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "585"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "587"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "588"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "587"
+                },
+                {
+                    "_height": "478",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "585"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PW 08",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "146289"
+        },
+        "notes": "∞\r\n\r\nWhen one sees Eternity in things that pass away and infinity in finite things, then one has pure knowledge.\r\n\r\nBhagavad Gita\r\n\r\nHemisphere\r\nFRANKFURT 1993\r\n\r\nSpecial thanks to:\r\n\r\nElisabeth\r\nFABiA\r\nLudwig Rehberg of EMS\r\n\r\nDaria\r\nSri Sathya Sai Baba\r\n\r\nLimitation: 500",
+        "released": "1993-10-18",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Downtempo",
+                "Experimental"
+            ]
+        },
+        "title": "Hemisphere",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "18:11",
+                    "position": "1",
+                    "title": "Hemisphere"
+                },
+                {
+                    "duration": "9:49",
+                    "position": "2",
+                    "title": "Carbon Theory"
+                },
+                {
+                    "duration": "23:35",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "666188",
+                            "join": "",
+                            "name": "Daria Stollmeyer",
+                            "role": "Voice",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "3",
+                    "title": "Cloud Of Orion"
+                },
+                {
+                    "duration": "9:09",
+                    "position": "4",
+                    "title": "It's Not My Way"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "3655",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=o13yTA7OZN8",
+                    "description": "Hemisphere 18:11\nCarbon Theory 9:49\nCloud Of Orion 23:35\nIt's Not My Way 9:09\n\nLABEL; FAX",
+                    "title": "Pete Namlook \u0026 Steve Stoll  -  Hemisphere 1993"
+                },
+                {
+                    "_duration": "1095",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=jw7zn7UjlgE",
+                    "description": "Album: Hemisphere   ;  1st track: Hemisphere  ;  Artists: Pete Namlook and Steve Stoll   ;   Release: 1993  ;  Style: Ambient",
+                    "title": "Pete Namlook \u0026 Steve Stoll - Hemisphere"
+                },
+                {
+                    "_duration": "585",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=1rWRyfJtpZg",
+                    "description": "http://www.discogs.com/Hemisphere-Hemisphere/release/7685\n\r\n\r-uploaded in HD at http://www.TunesToTube.com",
+                    "title": "Hemisphere - Carbon Theory (Ambient 1993)"
+                },
+                {
+                    "_duration": "1410",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=7X7UbRYAxFo",
+                    "description": "http://www.discogs.com/Hemisphere-Hemisphere/release/7685\n\r\n\r-uploaded in HD at http://www.TunesToTube.com",
+                    "title": "Hemisphere - Cloud of Orion (Ambient 1993)"
+                },
+                {
+                    "_duration": "549",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Erpm4fkTnD0",
+                    "description": "Hemisphere - Hemisphere, 1993, Fax +49-69/450464",
+                    "title": "Hemisphere - It's Not My Way"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,201 @@
+{
+    "release": {
+        "_id": "16617",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "15317",
+                "join": "",
+                "name": "Jet Chamber",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": {
+                "catno": "",
+                "entity_type": "10",
+                "entity_type_name": "Manufactured By",
+                "id": "267946",
+                "name": "CD Plant AB",
+                "resource_url": "https://api.discogs.com/labels/267946"
+            }
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "24",
+                    "join": "",
+                    "name": "Atom Heart",
+                    "role": "Composed By [Music Composed By]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Composed By [Music Composed By]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "24",
+                    "join": "",
+                    "name": "Atom Heart",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "CD PLANT AB PK 08/102 CDM01"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "596",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "466",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "592",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "598",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/102",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "JET CHAMBER\r\nFRANKFURT 1995\r\n\r\nLimited to 1,000 copies.",
+        "released": "1995-07-17",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Downtempo"
+            ]
+        },
+        "title": "Jet Chamber",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "30:51",
+                    "position": "1",
+                    "title": "Split Wide"
+                },
+                {
+                    "duration": "12:25",
+                    "position": "2",
+                    "title": "Rotor Cabinet"
+                },
+                {
+                    "duration": "4:08",
+                    "position": "3",
+                    "title": "Chaos Impuls"
+                },
+                {
+                    "duration": "10:13",
+                    "position": "4",
+                    "title": "Feedback Fluctuation"
+                },
+                {
+                    "duration": "11:22",
+                    "position": "5",
+                    "title": "Streamline"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "4142",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=46BmHJNpdKs",
+                    "description": "Released in July, 1995 on FAX +49-69/450464\n\n \n00:00 Split Wide\n30:52 Rotor Cabinet \n43:17 Chaos Impuls\n47:26 Feedback Fluctuation\n57:39 Streamline",
+                    "title": "[PK 08/102] Pete Namlook \u0026 Atom Heart - Jet Chamber"
+                },
+                {
+                    "_duration": "684",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=cgwC2x8xs0k",
+                    "description": "Taken from Jet Chamber (Fax +49-69/450464 - PK 08/102, Germany 1995).\nhttp://www.discogs.com/artist/15317-Jet-Chamber",
+                    "title": "Jet Chamber - Streamline"
+                },
+                {
+                    "_duration": "4152",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=lP9Nat3Fgxc",
+                    "description": "Pete Namlook \u0026 Atom Heart - Jet Chamber [1995]\n\n1. Split Wide (00:00)\n2. Rotor Cabinet (30:52)\n3. Chaos Impuls (43:17)\n4. Feedback Fluctuation (47:26)\n5. Streamline (57:39)",
+                    "title": "Pete Namlook \u0026 Atom Heart - Jet Chamber [full album]"
+                }
+            ]
+        }
+    }
+}

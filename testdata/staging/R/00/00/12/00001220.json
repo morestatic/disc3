@@ -1,0 +1,439 @@
+{
+    "release": {
+        "_id": "1220",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "239",
+                "join": "",
+                "name": "Jesper Dahlbäck",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "271046",
+                    "name": "The Globe Studios",
+                    "resource_url": "https://api.discogs.com/labels/271046"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "9",
+                    "entity_type_name": "Distributed By",
+                    "id": "11354",
+                    "name": "Koch International",
+                    "resource_url": "https://api.discogs.com/labels/11354"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "10",
+                    "entity_type_name": "Manufactured By",
+                    "id": "264131",
+                    "name": "Cinram",
+                    "resource_url": "https://api.discogs.com/labels/264131"
+                }
+            ]
+        },
+        "country": "Canada",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "1543",
+                    "join": "",
+                    "name": "Tiga",
+                    "role": "Art Direction",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "400111",
+                    "join": "",
+                    "name": "Benno (2)",
+                    "role": "Art Direction, Design [Graphic]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "239",
+                    "join": "",
+                    "name": "Jesper Dahlbäck",
+                    "role": "DJ Mix",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "2271690",
+                    "join": "",
+                    "name": "Marek Vogel",
+                    "role": "Photography By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Compilation",
+                        "Mixed"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Barcode",
+                    "_value": "671665000423"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "//990413XF MAR-CD-004 L386 MFG BY CINRAM"
+                },
+                {
+                    "_type": "Mould SID Code",
+                    "_value": "IFPI 8000"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "601",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "513",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "601",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": [
+                {
+                    "_catno": "MARCD-004",
+                    "_id": "242",
+                    "_name": "Turbo"
+                },
+                {
+                    "_catno": "MARCD00042",
+                    "_id": "242",
+                    "_name": "Turbo"
+                }
+            ]
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "4207"
+        },
+        "notes": "\"///M International Series\"\n\nTrack 5 tittle appears as \"Elevate Your Fellow Man\"; track 8 tittle named \"Slussen (Erot Rmx)\"",
+        "released": "1999",
+        "styles": {
+            "style": [
+                "House",
+                "Deep House"
+            ]
+        },
+        "title": "Stockholm Mix Sessions",
+        "tracklist": {
+            "track": [
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "672",
+                            "join": "",
+                            "name": "Nordelius \u0026 Ressle",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:24",
+                    "position": "1",
+                    "title": "With Us Around"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "Blue 6",
+                            "id": "33",
+                            "join": "",
+                            "name": "Blue Six",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:39",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "Jay",
+                            "id": "32",
+                            "join": "",
+                            "name": "Jay Denes",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "2",
+                    "title": "Sweeter Love (Jay's Full Vocal)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "Isolee",
+                            "id": "1656",
+                            "join": "",
+                            "name": "Isolée",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "2:47",
+                    "position": "3",
+                    "title": "Beau Mot Plage"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "183",
+                            "join": "",
+                            "name": "Natural Rhythm",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:00",
+                    "position": "4",
+                    "title": "Eclectic Dub"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1745",
+                            "join": "",
+                            "name": "Gemini Sounds",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "2:30",
+                    "position": "5",
+                    "title": "Relaxing"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "665",
+                            "join": "",
+                            "name": "The Rurals",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "3:30",
+                    "position": "6",
+                    "title": "No Sunshine"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1746",
+                            "join": "",
+                            "name": "Jii Hoo",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:17",
+                    "position": "7",
+                    "title": "Let Me Luv U"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1",
+                            "join": "",
+                            "name": "The Persuader",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:54",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "190",
+                            "join": "",
+                            "name": "Erot",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "8",
+                    "title": "Slussen (Go Dub Mix By Erot)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1",
+                            "join": "",
+                            "name": "The Persuader",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:00",
+                    "position": "9",
+                    "title": "Djurgardsbron"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "50",
+                            "join": "",
+                            "name": "ADNY",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:14",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "Dahlbäck",
+                            "id": "239",
+                            "join": "",
+                            "name": "Jesper Dahlbäck",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "10",
+                    "title": "Life (Dahlback Rmx)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "676",
+                            "join": "",
+                            "name": "Peter Benisch",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:45",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "Dahlbäck",
+                            "id": "239",
+                            "join": "",
+                            "name": "Jesper Dahlbäck",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "11",
+                    "title": "Lindego (Dahlback Rmx)"
+                },
+                {
+                    "artists": {
+                        "artist": [
+                            {
+                                "anv": "JD",
+                                "id": "239",
+                                "join": "\u0026",
+                                "name": "Jesper Dahlbäck",
+                                "role": "",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "AD",
+                                "id": "26",
+                                "join": "",
+                                "name": "Alexi Delano",
+                                "role": "",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "duration": "4:56",
+                    "position": "12",
+                    "title": "Make It Right"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "707",
+                            "join": "",
+                            "name": "Solaris Heights",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "7:15",
+                    "position": "13",
+                    "title": "Off The Beaten Track"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "35",
+                            "join": "",
+                            "name": "Attaboy",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "7:34",
+                    "position": "14",
+                    "title": "New World"
+                }
+            ]
+        },
+        "videos": {
+            "video": {
+                "_duration": "4310",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=MI0CWxG-YnY",
+                "description": "00:00 Nordelius \u0026 Ressle — With us around\n06:32 Blue Six — Sweeter Love (Jay's full vocal)\n12:05 Isolee — Beau mot plage\n14:54 Natural Rhythm — Eclectic dub\n18:47 Gemini Sounds — Elevate your fellow man\n22:00 The Rurals — No sunshine\n26:06 Jii",
+                "title": "Jesper Dahlbäck — Stockholm mix sessions • Deep House"
+            }
+        }
+    }
+}

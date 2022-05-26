@@ -1,0 +1,115 @@
+{
+    "release": {
+        "_id": "234797",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "2161",
+                "join": "",
+                "name": "Pieter K",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "US",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "Kris P",
+                    "id": "39210",
+                    "join": "",
+                    "name": "Chris Potter",
+                    "role": "Mastered By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "588317",
+                    "join": "",
+                    "name": "Amy Jacobs",
+                    "role": "Vocals [Samples]",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "12\""
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "595",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "595",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PAL028",
+                "_id": "30",
+                "_name": "Palette Recordings"
+            }
+        },
+        "notes": "\"Special thanks for inspiration and vocal samples to Amy Jacobs.\"",
+        "released": "2004-02-13",
+        "styles": {
+            "style": [
+                "House",
+                "Tech House"
+            ]
+        },
+        "title": "Communication",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A",
+                    "title": "Communication"
+                },
+                {
+                    "duration": "",
+                    "position": "B1",
+                    "title": "Schism"
+                },
+                {
+                    "duration": "",
+                    "position": "B2",
+                    "title": "Communication (110 North Mix)"
+                }
+            ]
+        },
+        "videos": {
+            "video": {
+                "_duration": "317",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=g4cNHP7rOPM",
+                "description": "Pieter K ‎-- Communication (110 North Mix)\n\nLabel: Palette Recordings ‎-- PAL028\nFormat: Vinyl, 12 \nCountry: US\nReleased: 13 Feb \n\nMastered By -- Kris P\nVocals [Samples] -- Amy Jacobs",
+                "title": "Pieter K ‎-- Communication (110 North Mix)"
+            }
+        }
+    }
+}

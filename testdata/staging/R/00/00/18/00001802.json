@@ -1,0 +1,182 @@
+{
+    "release": {
+        "_id": "1802",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "60",
+                "join": "",
+                "name": "Pete Moss",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "29",
+                    "entity_type_name": "Mastered At",
+                    "id": "282902",
+                    "name": "Masterwork Recording",
+                    "resource_url": "https://api.discogs.com/labels/282902"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "35",
+                    "name": "Ovum Recordings",
+                    "resource_url": "https://api.discogs.com/labels/35"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "35",
+                    "name": "Ovum Recordings",
+                    "resource_url": "https://api.discogs.com/labels/35"
+                }
+            ]
+        },
+        "country": "US",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "J. Wink",
+                    "id": "3",
+                    "join": "",
+                    "name": "Josh Wink",
+                    "role": "Executive-Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "M. Brookman",
+                    "id": "581564",
+                    "join": "",
+                    "name": "Matt Brookman",
+                    "role": "Executive-Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "Pete Humphries",
+                    "id": "374405",
+                    "join": "",
+                    "name": "Peter Humphreys",
+                    "role": "Mastered By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "60",
+                    "join": "",
+                    "name": "Pete Moss",
+                    "role": "Producer, Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "EP",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "598",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "OVM129",
+                "_id": "35",
+                "_name": "Ovum Recordings"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "144153"
+        },
+        "notes": "Mastered at Masterwork Recording Inc.\n\nIssued in black and and blue Ovum Recordings jacket with hole and an info sticker attached on front cover.",
+        "released": "2000-00-00",
+        "styles": {
+            "style": [
+                "House",
+                "Tech House"
+            ]
+        },
+        "title": "Connective EP",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A1",
+                    "title": "Slim Pickins"
+                },
+                {
+                    "duration": "",
+                    "position": "A2",
+                    "title": "The Getaway"
+                },
+                {
+                    "duration": "",
+                    "position": "B",
+                    "title": "Connective"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "420",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=TDo_ywwSrfc",
+                    "description": "—\n\n\n\nhttps://www.discogs.com/Pete-Moss-Connective-EP/release/1802 ➤ My links:\nhttps://www.instagram.com/venard__/\nhttps://soundcloud.com/venardd",
+                    "title": "Pete Moss - Slim Pickins [OVM129]"
+                },
+                {
+                    "_duration": "356",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=ySwk7W9CCs8",
+                    "description": "—\n\n\n\nhttps://www.discogs.com/Pete-Moss-Connective-EP/release/1802 ➤ My links:\nhttps://www.instagram.com/venard__/\nhttps://soundcloud.com/venardd",
+                    "title": "Pete Moss - The Getaway [OVM129]"
+                },
+                {
+                    "_duration": "440",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=pWrUxJyswjU",
+                    "description": "—\n\n\n\nhttps://www.discogs.com/Pete-Moss-Connective-EP/release/1802 ➤ My links:\nhttps://www.instagram.com/venard__/\nhttps://soundcloud.com/venardd",
+                    "title": "Pete Moss - Connective [OVM129]"
+                }
+            ]
+        }
+    }
+}

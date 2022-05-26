@@ -1,0 +1,532 @@
+{
+    "release": {
+        "_id": "53992",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "97",
+                "join": "",
+                "name": "Super_Collider",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "40",
+                    "name": "Loaded Records",
+                    "resource_url": "https://api.discogs.com/labels/40"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "40",
+                    "name": "Loaded Records",
+                    "resource_url": "https://api.discogs.com/labels/40"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "333404",
+                    "name": "No Future Studio",
+                    "resource_url": "https://api.discogs.com/labels/333404"
+                },
+                {
+                    "catno": "S0100283087-0102",
+                    "entity_type": "16",
+                    "entity_type_name": "Made By",
+                    "id": "25487",
+                    "name": "Sony Music",
+                    "resource_url": "https://api.discogs.com/labels/25487"
+                },
+                {
+                    "catno": "S4944492000-0202",
+                    "entity_type": "16",
+                    "entity_type_name": "Made By",
+                    "id": "25487",
+                    "name": "Sony Music",
+                    "resource_url": "https://api.discogs.com/labels/25487"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "916581",
+                    "name": "Original Artists (2)",
+                    "resource_url": "https://api.discogs.com/labels/916581"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "25487",
+                    "name": "Sony Music",
+                    "resource_url": "https://api.discogs.com/labels/25487"
+                }
+            ]
+        },
+        "country": "Europe",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "804752",
+                    "join": "",
+                    "name": "Red Design",
+                    "role": "Design",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "2245297",
+                    "join": "",
+                    "name": "Ben Cowlin",
+                    "role": "Photography By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "344",
+                    "join": "",
+                    "name": "Cristian Vogel",
+                    "role": "Written-By, Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "345",
+                    "join": "",
+                    "name": "Jamie Lidell",
+                    "role": "Written-By, Producer",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": [
+                {
+                    "_name": "CD",
+                    "_qty": "1",
+                    "_text": "",
+                    "descriptions": {
+                        "description": [
+                            "Album",
+                            "Enhanced"
+                        ]
+                    }
+                },
+                {
+                    "_name": "File",
+                    "_qty": "2",
+                    "_text": "128kbps",
+                    "descriptions": {
+                        "description": "MP3"
+                    }
+                },
+                {
+                    "_name": "CD",
+                    "_qty": "1",
+                    "_text": "",
+                    "descriptions": {
+                        "description": "Single"
+                    }
+                }
+            ]
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Text",
+                    "_type": "Barcode",
+                    "_value": "5 099749 444928"
+                },
+                {
+                    "_description": "Scanned",
+                    "_type": "Barcode",
+                    "_value": "5099749444928"
+                },
+                {
+                    "_type": "Rights Society",
+                    "_value": "SACEM SDRM SACD SGDL"
+                },
+                {
+                    "_type": "Rights Society",
+                    "_value": "BIEM"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 01407"
+                },
+                {
+                    "_description": "CD1 - Var.1",
+                    "_type": "Matrix / Runout",
+                    "_value": "Sony Music S0100283087-0102 24"
+                },
+                {
+                    "_description": "CD1 - Var.2",
+                    "_type": "Matrix / Runout",
+                    "_value": "Sony Music S0100283087-0102 24 A1"
+                },
+                {
+                    "_description": "CD2",
+                    "_type": "Matrix / Runout",
+                    "_value": "Sony Music S4944492000-0202 14 A2"
+                },
+                {
+                    "_type": "Mastering SID Code",
+                    "_value": "IFPI L554"
+                },
+                {
+                    "_description": "CD1 - Var.1",
+                    "_type": "Mould SID Code",
+                    "_value": "IFPI 94B1"
+                },
+                {
+                    "_description": "CD1 - Var.2",
+                    "_type": "Mould SID Code",
+                    "_value": "IFPI 94G1"
+                },
+                {
+                    "_description": "CD2",
+                    "_type": "Mould SID Code",
+                    "_value": "IFPI 94D3"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "591",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "470",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "592",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "465",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": [
+                {
+                    "_catno": "LOA 494449 2",
+                    "_id": "40",
+                    "_name": "Loaded Records"
+                },
+                {
+                    "_catno": "4944492000",
+                    "_id": "40",
+                    "_name": "Loaded Records"
+                }
+            ]
+        },
+        "master_id": {
+            "_is_main_release": "false",
+            "content": "43892"
+        },
+        "notes": "The first CD contains an interactive area (PowerMac + CDRom drive needed) and also features two bonus tracks in MP3 format.\r\n\r\nPublished by Original Artists/Sony Music.\r\nRecorded at No Future Studios, Brighton.\r\n℗ Loaded Records 1999. © Loaded Records.",
+        "released": "1999",
+        "styles": {
+            "style": [
+                "House",
+                "Abstract",
+                "IDM",
+                "Electro",
+                "Breaks",
+                "Experimental"
+            ]
+        },
+        "title": "Head On",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "3:40",
+                    "position": "1-1",
+                    "title": "Cut The Phone"
+                },
+                {
+                    "duration": "5:57",
+                    "position": "1-2",
+                    "title": "Darn (Cold Way O' Lovin')"
+                },
+                {
+                    "duration": "5:29",
+                    "position": "1-3",
+                    "title": "Hide In From The Day"
+                },
+                {
+                    "duration": "5:27",
+                    "position": "1-4",
+                    "title": "It Won't Be Long"
+                },
+                {
+                    "duration": "5:37",
+                    "position": "1-5",
+                    "title": "Pay It Away"
+                },
+                {
+                    "duration": "5:54",
+                    "position": "1-6",
+                    "title": "Under My Nose"
+                },
+                {
+                    "duration": "4:06",
+                    "position": "1-7",
+                    "title": "Close To A Change"
+                },
+                {
+                    "duration": "6:06",
+                    "position": "1-8",
+                    "title": "Take Me Home"
+                },
+                {
+                    "duration": "4:08",
+                    "position": "1-9",
+                    "title": "Alchemical Confession"
+                },
+                {
+                    "duration": "7:11",
+                    "position": "1-10",
+                    "title": "You Loosen Me Human"
+                },
+                {
+                    "duration": "4:32",
+                    "position": "1-mp3.1",
+                    "title": "Darn (Dawn Of Lidell Mix)"
+                },
+                {
+                    "duration": "6:35",
+                    "position": "1-mp3.2",
+                    "title": "Take Me Home (Walpole Dub)"
+                },
+                {
+                    "duration": "7:40",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "Harvey",
+                            "id": "44101",
+                            "join": "",
+                            "name": "DJ Harvey",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "2-1",
+                    "title": "Darn (Cold Way O' Lovin') (Harvey's Collision Course Mix)"
+                },
+                {
+                    "duration": "6:30",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "Harvey",
+                            "id": "44101",
+                            "join": "",
+                            "name": "DJ Harvey",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "2-2",
+                    "title": "Darn (Cold Way O' Lovin') (Harvey's Sudden Impact Dub)"
+                },
+                {
+                    "duration": "6:50",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "487",
+                            "join": "",
+                            "name": "Buckfunk 3000",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "2-3",
+                    "title": "Take Me Home (Buckfunk 3000 Mix)"
+                },
+                {
+                    "duration": "6:07",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "7211",
+                            "join": "",
+                            "name": "Midfield General",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "2-4",
+                    "title": "It Won't Be Long (Midfield General Remix)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "220",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Dbkjpg4nZD0",
+                    "description": "Provided to YouTube by Loaded Records\n\nCut the Phone · Super Collider\n\nHead On\n\n℗ 1999 Loaded Records Limited, a BMG Company\n\nPerformance: Cristian Vogel\nPerformance: Jamie Lidderdale\n\nAuto-generated by YouTube.",
+                    "title": "Cut the Phone"
+                },
+                {
+                    "_duration": "393",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=ib3_4xFcbAg",
+                    "description": ".",
+                    "title": "Super Collider.Darn Cold Way Of Lovin.Harveys Sudden Impact Dub.."
+                },
+                {
+                    "_duration": "365",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=lNbM1_5y4hc",
+                    "description": "(C) Loaded",
+                    "title": "Super Collider - Take Me Home (Head On)"
+                },
+                {
+                    "_duration": "357",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=dh2kauFcGpw",
+                    "description": "Head on 1999",
+                    "title": "Super Collider - Darn (Cold Way O'Lovin)"
+                },
+                {
+                    "_duration": "356",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=jtHi1g-oFG8",
+                    "description": "Provided to YouTube by Loaded records\n\nDarn (Cold Way O' Lovin) (Harvey's Sudden Impact Mix) · Super Collider\n\nArchives\n\n℗ 1998 Loaded Records Limited, a BMG Company\n\nPerformance: Cristian Vogel\nPerformance: Jamie Lidderdale\n\nAuto-generated by YouTube.",
+                    "title": "Darn (Cold Way O' Lovin) (Harvey's Sudden Impact Mix)"
+                },
+                {
+                    "_duration": "368",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=F9PJjFz9nuE",
+                    "description": "(C) Loaded\r\n\r\nhttp://www.youtube.com/user/7e51en",
+                    "title": "Super Collider - It Won't Be Long |Midfield General Remix| (Head On)"
+                },
+                {
+                    "_duration": "257",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=X-aKKYYkb4w",
+                    "description": "",
+                    "title": "Super Collider - It Won't Be Long (High res/ Official video)"
+                },
+                {
+                    "_duration": "410",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Mh9xkyEfSGc",
+                    "description": "It Won't Be Long/Take Me Home 12\r\nLoaded Records\r\n1999.",
+                    "title": "Super_Collider - Take Me Home (Buckfunk 3000 Mix)"
+                },
+                {
+                    "_duration": "331",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=gQohNc167Ks",
+                    "description": "Head On\nLoaded Records\n1999.",
+                    "title": "Super_Collider - Hide In From The Day"
+                },
+                {
+                    "_duration": "335",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=qZBcWVRWLvg",
+                    "description": "Provided to YouTube by Loaded Records\n\nPay It Away · Super Collider\n\nHead On\n\n℗ 1999 Loaded Records Limited, a BMG Company\n\nPerformance: Cristian Vogel\nPerformance: Jamie Lidderdale\n\nAuto-generated by YouTube.",
+                    "title": "Pay It Away"
+                },
+                {
+                    "_duration": "359",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=lx0uQCMWsTo",
+                    "description": "if someone thinks i  made a mistake by uploading this melody here, please let me know.",
+                    "title": "Super Collider - Under My Nose"
+                },
+                {
+                    "_duration": "247",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=bcvnoNNqDOo",
+                    "description": "",
+                    "title": "super_collider - close to a change"
+                },
+                {
+                    "_duration": "243",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=L9F5n4yYEVw",
+                    "description": "",
+                    "title": "Super Collider - Alchemical Confession"
+                }
+            ]
+        }
+    }
+}

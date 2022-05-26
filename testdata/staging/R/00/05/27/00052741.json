@@ -1,0 +1,282 @@
+{
+    "release": {
+        "_id": "52741",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "13462",
+                "join": "",
+                "name": "Spyra",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "314582",
+                    "name": "Phön-Studio",
+                    "resource_url": "https://api.discogs.com/labels/314582"
+                },
+                {
+                    "catno": "37952",
+                    "entity_type": "17",
+                    "entity_type_name": "Pressed By",
+                    "id": "277449",
+                    "name": "P+O Pallas",
+                    "resource_url": "https://api.discogs.com/labels/277449"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "2379615",
+                    "join": "",
+                    "name": "Sebastian \"HAL9000\" Fries",
+                    "role": "Graphics [Covergraphics], Graphics",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "2118078",
+                    "join": "",
+                    "name": "PEK (3)",
+                    "role": "Layout",
+                    "tracks": ""
+                },
+                {
+                    "anv": "Wolfram Der Spyra",
+                    "id": "13462",
+                    "join": "",
+                    "name": "Spyra",
+                    "role": "Producer, Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "157496",
+                    "join": "",
+                    "name": "Christiane Winning",
+                    "role": "Vocals",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Limited Edition",
+                        "Album"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Barcode",
+                    "_value": "none"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "PS 08/91 P+O-37952-A1 05-98"
+                },
+                {
+                    "_type": "Mastering SID Code",
+                    "_value": "IFPI L961"
+                },
+                {
+                    "_type": "Mould SID Code",
+                    "_value": "IFPI 3J02"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "593",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "468",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "608",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "611",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "593",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "612",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PS 08/91",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Recorded at Phön-Studio, Kassel.\nLimitation: 2,000\n\nSamples: Long wave distortion, Pirate radio DJ",
+        "released": "1998-05-18",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Downtempo",
+                "Dub",
+                "Experimental"
+            ]
+        },
+        "title": "Sferics",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "3:06",
+                    "position": "1",
+                    "title": "Mechanic Piano"
+                },
+                {
+                    "duration": "7:35",
+                    "position": "2",
+                    "title": "Sferics"
+                },
+                {
+                    "duration": "11:59",
+                    "position": "3",
+                    "title": "Interzen"
+                },
+                {
+                    "duration": "10:45",
+                    "position": "4",
+                    "title": "10⁻¹² Meters"
+                },
+                {
+                    "duration": "11:59",
+                    "position": "5",
+                    "title": "Gentle Machines"
+                },
+                {
+                    "duration": "16:06",
+                    "position": "6",
+                    "title": "Crossing The Channel"
+                },
+                {
+                    "duration": "9:17",
+                    "position": "7",
+                    "title": "Vinyl Vs Cards"
+                },
+                {
+                    "duration": "3:10",
+                    "position": "8",
+                    "title": "V.C. Piano"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "187",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=g3TnqYjaa0Q",
+                    "description": "Track 1 - Mechanic Piano\nArtist : Spyra\nAlbum : Sferics\n1998 FAX +49-69/450464",
+                    "title": "Spyra - Mechanic Piano (Sferics)"
+                },
+                {
+                    "_duration": "455",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=kBU_NlvjCO4",
+                    "description": "Written By: Wolfram der Spyra",
+                    "title": "Spyra - Sferics"
+                },
+                {
+                    "_duration": "721",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=O6BkKlF8oXw",
+                    "description": "Track 3 - Interzen\nArtist : Spyra\nAlbum : Sferics\n1998 FAX +49-69/450464",
+                    "title": "Spyra - Interzen (Sferics)"
+                },
+                {
+                    "_duration": "646",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=ECyiEKJI32M",
+                    "description": "Track 4 - 10-12 Meters\nArtist : Spyra\nAlbum : Sferics\n1998 FAX +49-69/450464",
+                    "title": "Spyra - 10⁻¹² Meters (Sferics)"
+                },
+                {
+                    "_duration": "719",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=hJjeJrGkLYY",
+                    "description": "Track 5 - Gentle Machines\nArtist : Spyra\nAlbum : Sferics\n1998 FAX +49-69/450464",
+                    "title": "Spyra - Gentle Machines (Sferics)"
+                },
+                {
+                    "_duration": "967",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=VCSQcWUF7tc",
+                    "description": "Track 6 - Crossing The Channel\nArtist : Spyra\nAlbum : Sferics\n1998 FAX +49-69/450464",
+                    "title": "Spyra - Crossing The Channel (Sferics)"
+                },
+                {
+                    "_duration": "558",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=fSpIIbbSBSE",
+                    "description": "http://www.discogs.com/Spyra-Sferics/release/52741",
+                    "title": "Spyra - Vinyl vs Cards"
+                },
+                {
+                    "_duration": "191",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=0dlH3EXkDSw",
+                    "description": "Track 8 - V.C. Piano\nArtist : Spyra\nAlbum : Sferics\n1998 FAX +49-69/450464",
+                    "title": "Spyra - V.C. Piano (Sferics)"
+                }
+            ]
+        }
+    }
+}

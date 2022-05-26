@@ -1,0 +1,118 @@
+{
+    "release": {
+        "_id": "163377",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "265",
+                "join": "",
+                "name": "Julius Papp \u0026 Dave Warrin",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "US",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "11233",
+                    "join": "",
+                    "name": "Chris Lum",
+                    "role": "Engineer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "625505",
+                    "join": "",
+                    "name": "J.W. (3)",
+                    "role": "Guitar",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "40",
+                    "join": "",
+                    "name": "Dave Warrin",
+                    "role": "Keyboards",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "40",
+                    "join": "",
+                    "name": "Dave Warrin",
+                    "role": "Written-By, Producer, Arranged By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "5615",
+                    "join": "",
+                    "name": "Julius Papp",
+                    "role": "Written-By, Producer, Arranged By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "12\""
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": {
+                "_height": "600",
+                "_type": "primary",
+                "_uri": "",
+                "_uri150": "",
+                "_width": "600"
+            }
+        },
+        "labels": {
+            "label": {
+                "_catno": "IR-259",
+                "_id": "39",
+                "_name": "i! Records"
+            }
+        },
+        "notes": "Engineered at Moulton Studios, San Francisco.\r\nPublished by Calvent Music (ASCAP)\r\n(C)\u0026(P) 2003 i! Records / I Recordings",
+        "released": "2003-03-13",
+        "styles": {
+            "style": "Deep House"
+        },
+        "title": "Over Easy",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A",
+                    "title": "Over Easy (Main Mix)"
+                },
+                {
+                    "duration": "",
+                    "position": "B1",
+                    "title": "Over Easy (Dubbed Keys Version)"
+                },
+                {
+                    "duration": "",
+                    "position": "B2",
+                    "title": "Over Easy (Beats Version)"
+                }
+            ]
+        }
+    }
+}

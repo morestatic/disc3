@@ -1,0 +1,174 @@
+{
+    "release": {
+        "_id": "69386",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "30",
+                "join": "",
+                "name": "Groove Collective",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "US",
+        "data_quality": "Needs Vote",
+        "extraartists": "",
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "Maxi-Single"
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_type": "Barcode",
+                "_value": "093624178927"
+            }
+        },
+        "images": {
+            "image": {
+                "_height": "515",
+                "_type": "primary",
+                "_uri": "",
+                "_uri150": "",
+                "_width": "515"
+            }
+        },
+        "labels": {
+            "label": {
+                "_catno": "9 41789-2",
+                "_id": "157",
+                "_name": "Reprise Records"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "false",
+            "content": "169353"
+        },
+        "notes": "Digipak",
+        "released": "1994",
+        "styles": {
+            "style": [
+                "Deep House",
+                "Garage House"
+            ]
+        },
+        "title": "Whatchugot / Buddha Head",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "4:00",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "\"Little\" Louie Vega",
+                            "id": "161487",
+                            "join": "",
+                            "name": "Louie Vega",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "1",
+                    "title": "Whatchugot (Radio Mix)"
+                },
+                {
+                    "duration": "7:11",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "\"Little\" Louie Vega",
+                            "id": "161487",
+                            "join": "",
+                            "name": "Louie Vega",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "2",
+                    "title": "Whatchugot (Alternate Vocal Mix)"
+                },
+                {
+                    "duration": "3:57",
+                    "position": "3",
+                    "title": "Buddha Head (Album Version)"
+                },
+                {
+                    "duration": "7:40",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "\"Little\" Louie Vega",
+                            "id": "161487",
+                            "join": "",
+                            "name": "Louie Vega",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "4",
+                    "title": "Whatchugot (Main Mix)"
+                },
+                {
+                    "duration": "7:40",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "\"Little\" Louie Vega",
+                            "id": "161487",
+                            "join": "",
+                            "name": "Louie Vega",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "5",
+                    "title": "Whatchugot (Bass Dub)"
+                },
+                {
+                    "duration": "6:11",
+                    "position": "6",
+                    "title": "Whatchugot (Album Version)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "449",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=d1Zx3HBMNx4",
+                    "description": "",
+                    "title": "Groove Collective - Whatchugot(Sax Mix)"
+                },
+                {
+                    "_duration": "469",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=HWo4x682GlI",
+                    "description": "Genre: Electronic \nStyle: Deep House, Garage House \nYear: 1994",
+                    "title": "Groove Collective - Whatchugot  (main mix)"
+                },
+                {
+                    "_duration": "465",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=M_3T8M0iCUw",
+                    "description": "Track remixed by Little Louie Vega. Year 1994.",
+                    "title": "Groove Collective - Whatchugot (Bass Dub)"
+                },
+                {
+                    "_duration": "433",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=IxQB0d6FHMY",
+                    "description": "(Promotional Use Only. All Rights belong to their respective owners.\nSupport Artists, if You like, buy the Music. 'Please' if You want to remove a song just leave me a message and I will do it. Thanks!)\n\nhttp://www.youtube.com/user/DancinDeep - Dancin Dee",
+                    "title": "(1994) Groove Collective - Watchugot ['Little' Louie Vega Alternate Vocal RMX]"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,143 @@
+{
+    "release": {
+        "_id": "162367",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "76047",
+                "join": "",
+                "name": "The Tomorrow People (2)",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "Germany",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "1584729",
+                    "join": "",
+                    "name": "SST (8)",
+                    "role": "Mastered By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "7649",
+                    "join": "",
+                    "name": "DJ Criss",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "4865",
+                    "join": "",
+                    "name": "Pascal F.E.O.S.",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PS  08/22",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Limitation: 500\r\nMastered at Schallplatten Schneid-Technik Brüggemann GmbH.\r\n\r\nEtched into the run-out groove of side A: Produced at ? for F.E.O.S. Productions\r\nEtched into the run-out groove of side B: No more violence anywhere!!",
+        "released": "1993-05-17",
+        "styles": {
+            "style": [
+                "Trance",
+                "Techno",
+                "Acid"
+            ]
+        },
+        "title": "The Tomorrow People",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "6:35",
+                    "position": "A",
+                    "title": "Chamber Of Dreams"
+                },
+                {
+                    "duration": "7:47",
+                    "position": "B1",
+                    "title": "Lost In Motion"
+                },
+                {
+                    "duration": "7:17",
+                    "position": "B2",
+                    "title": "Unknown Tracid"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "384",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=4VgK5jCd1ek",
+                    "description": "",
+                    "title": "THE TOMORROW PEOPLE - CHAMBER OF DREAMS - Fax+49/69450464"
+                },
+                {
+                    "_duration": "471",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=o8T9vqKJ1wo",
+                    "description": "",
+                    "title": "The Tomorrow People - Lost In Motion (Acid Trance 1993)"
+                },
+                {
+                    "_duration": "422",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=JPQepzfj3K4",
+                    "description": "",
+                    "title": "THE TOMORROW PEOPLE - UNKNOWN TRACID - Fax +49-69/450464"
+                }
+            ]
+        }
+    }
+}

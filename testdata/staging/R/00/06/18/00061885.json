@@ -1,0 +1,266 @@
+{
+    "release": {
+        "_id": "61885",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "Pete Namlook / DJ Dag",
+                "id": "119681",
+                "join": "",
+                "name": "Adlernebel",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "294386",
+                    "name": "Klanglabor Frankfurt",
+                    "resource_url": "https://api.discogs.com/labels/294386"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "267440",
+                    "name": "ICM (2)",
+                    "resource_url": "https://api.discogs.com/labels/267440"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "467944",
+                    "name": "Brother Mix Music",
+                    "resource_url": "https://api.discogs.com/labels/467944"
+                },
+                {
+                    "catno": "48477",
+                    "entity_type": "10",
+                    "entity_type_name": "Manufactured By",
+                    "id": "277449",
+                    "name": "P+O Pallas",
+                    "resource_url": "https://api.discogs.com/labels/277449"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "Andre@faxlabel.com",
+                    "id": "2022694",
+                    "join": "",
+                    "name": "Andre Ruello",
+                    "role": "Graphics",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "24008",
+                    "join": "",
+                    "name": "DJ Dag",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "58657",
+                    "join": "",
+                    "name": "Peter Kuhlmann",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "24008",
+                    "join": "",
+                    "name": "DJ Dag",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "PK 08/153 P+O-48477-A1 06-00"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "585",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "302",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "464",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "597"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/153",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "79236"
+        },
+        "notes": "ALDERNEBEL\nTRABEN-TRARBACH/MOSEL 2000\n\nRecorded at Klanglabor, Traben-Trarbach.\n\n\"The Forgotten Trail\" uses melody parts of [m287836].\n\nLimitation: 3000",
+        "released": "2000-07-03",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Dub",
+                "Trance"
+            ]
+        },
+        "title": "Adlernebel",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "8:38",
+                    "position": "1",
+                    "title": "The Forgotten Trail"
+                },
+                {
+                    "duration": "6:30",
+                    "position": "2",
+                    "title": "Raum Und Zeit"
+                },
+                {
+                    "duration": "5:18",
+                    "position": "3",
+                    "title": "The West Is The Best"
+                },
+                {
+                    "duration": "6:45",
+                    "position": "4",
+                    "title": "Pure Energy"
+                },
+                {
+                    "duration": "8:39",
+                    "position": "5",
+                    "title": "Dagar"
+                },
+                {
+                    "duration": "7:08",
+                    "position": "6",
+                    "title": "You Gotta Hold It In Your Lungs Longer, George"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "520",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=l86YheIZPZo",
+                    "description": "Released on the Adlernebel  Album (PK 08/153 ),\nMusic: Pete Namlook \u0026 DJ Dag,\nVideo: Abstructure",
+                    "title": "Adlernebel - Dagar"
+                },
+                {
+                    "_duration": "519",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=uQJ6WnVAJB0",
+                    "description": "pete namlook \u0026 dj dag - the forgotten trail\n\nhttp://www.discogs.com/Adlernebel-Adlernebel/release/61885",
+                    "title": "Adlernebel  - the forgotten trail"
+                },
+                {
+                    "_duration": "389",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=ZFT90GYttBc",
+                    "description": "Members:  Dag Lerner, Peter Kuhlmann",
+                    "title": "Adlernebel - 2000 - Raum Und Zeit"
+                },
+                {
+                    "_duration": "317",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=YyxJYsMhZlc",
+                    "description": "Members:  Dag Lerner, Peter Kuhlmann",
+                    "title": "Adlernebel - 2000 - The West Is The Best"
+                },
+                {
+                    "_duration": "404",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=u_T-eCdc8iw",
+                    "description": "Members:  Dag Lerner, Peter Kuhlmann",
+                    "title": "Adlernebel - 2000 - Pure Energy"
+                },
+                {
+                    "_duration": "428",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=vFSk15KmUKo",
+                    "description": "Pete Namlook \u0026 DJ Dag..last song from the Adlernebel CD",
+                    "title": "Adlernebel - You Gotta Hold It In Your Lungs Longer, George"
+                }
+            ]
+        }
+    }
+}

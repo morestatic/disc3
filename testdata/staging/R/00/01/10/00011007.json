@@ -1,0 +1,267 @@
+{
+    "release": {
+        "_id": "11007",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "6030",
+                "join": "",
+                "name": "Flunky",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "363773",
+                    "name": "Under Cover Publishing",
+                    "resource_url": "https://api.discogs.com/labels/363773"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "26126",
+                    "name": "EMI",
+                    "resource_url": "https://api.discogs.com/labels/26126"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "9",
+                    "entity_type_name": "Distributed By",
+                    "id": "149122",
+                    "name": "3MV",
+                    "resource_url": "https://api.discogs.com/labels/149122"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "9",
+                    "entity_type_name": "Distributed By",
+                    "id": "264522",
+                    "name": "Pinnacle (3)",
+                    "resource_url": "https://api.discogs.com/labels/264522"
+                }
+            ]
+        },
+        "country": "UK",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "6030",
+                    "join": "",
+                    "name": "Flunky",
+                    "role": "Producer, Mixed By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "195390",
+                    "join": "",
+                    "name": "Webb",
+                    "role": "Written By",
+                    "tracks": "AA1, AA2"
+                },
+                {
+                    "anv": "Burchill",
+                    "id": "285913",
+                    "join": "",
+                    "name": "Charlie Burchill",
+                    "role": "Written-By",
+                    "tracks": "AA1, AA2"
+                },
+                {
+                    "anv": "D.Coker",
+                    "id": "11336",
+                    "join": "",
+                    "name": "Dave Coker",
+                    "role": "Written-By",
+                    "tracks": "A1, A2"
+                },
+                {
+                    "anv": "Forbes",
+                    "id": "287983",
+                    "join": "",
+                    "name": "Derek Forbes",
+                    "role": "Written-By",
+                    "tracks": "AA1, AA2"
+                },
+                {
+                    "anv": "Kerr",
+                    "id": "109287",
+                    "join": "",
+                    "name": "Jim Kerr",
+                    "role": "Written-By",
+                    "tracks": "AA1, AA2"
+                },
+                {
+                    "anv": "L.Webb",
+                    "id": "166095",
+                    "join": "",
+                    "name": "Laurant Webb",
+                    "role": "Written-By",
+                    "tracks": "A1, A2"
+                },
+                {
+                    "anv": "N.Coles",
+                    "id": "10645",
+                    "join": "",
+                    "name": "Nathan Coles",
+                    "role": "Written-By",
+                    "tracks": "A1, A2"
+                },
+                {
+                    "anv": "N.Hess",
+                    "id": "8333",
+                    "join": "",
+                    "name": "Nils Hess",
+                    "role": "Written-By",
+                    "tracks": "A1, A2"
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM",
+                        "Single"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_type": "Barcode",
+                "_value": "5025425406126"
+            }
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "451",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "448"
+                },
+                {
+                    "_height": "463",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "517"
+                },
+                {
+                    "_height": "460",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "464"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "LOAD 61",
+                "_id": "40",
+                "_name": "Loaded Records"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "1480046"
+        },
+        "released": "2000-05-00",
+        "styles": {
+            "style": [
+                "Tribal House",
+                "Tech House"
+            ]
+        },
+        "title": "Flunky's Party Trick",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A1",
+                    "title": "Put That In Your Pipe And Smoke It"
+                },
+                {
+                    "duration": "",
+                    "position": "A2",
+                    "title": "Hey Marvin"
+                },
+                {
+                    "duration": "",
+                    "position": "AA1",
+                    "title": "Love Song (Dub)"
+                },
+                {
+                    "duration": "",
+                    "position": "AA2",
+                    "title": "Love Song (Vocal)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "415",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=aZNkxLaeXDc",
+                    "description": "Provided to YouTube by Warner Music Group\n\nPut That in Your Pipe and Smoke It · Flunky\n\nPut That in Your Pipe\n\n℗ 2000 Loaded Records Limited, a BMG Company\n\nPerformance: Flunky\n\nAuto-generated by YouTube.",
+                    "title": "Put That in Your Pipe and Smoke It"
+                },
+                {
+                    "_duration": "388",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=8tlgJyU1PFY",
+                    "description": "Provided to YouTube by Warner Music Group\n\nHey Marvin · Flunky\n\nPut That in Your Pipe\n\n℗ 2000 Loaded Records Limited, a BMG Company\n\nPerformance: Flunky\n\nAuto-generated by YouTube.",
+                    "title": "Hey Marvin"
+                },
+                {
+                    "_duration": "402",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=aDbjdiKJuAo",
+                    "description": "Provided to YouTube by Warner Music Group\n\nLove Song (Dub) · Flunky\n\nPut That in Your Pipe\n\n℗ 2000 Loaded Records Limited, a BMG Company\n\nPerformance: Flunky\n\nAuto-generated by YouTube.",
+                    "title": "Love Song (Dub)"
+                },
+                {
+                    "_duration": "444",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=LT9P4DE-AIE",
+                    "description": "Provided to YouTube by Warner Music Group\n\nLove Song · Flunky\n\nPut That in Your Pipe\n\n℗ 2000 Loaded Records Limited, a BMG Company\n\nPerformance: Flunky\n\nAuto-generated by YouTube.",
+                    "title": "Love Song"
+                },
+                {
+                    "_duration": "385",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=_fFshwjdsBA",
+                    "description": "Flunky is a collaboration of Nils Hess, Nathan Coles, Dave Corker and Laurant Webb.\n\nI have this track on a classic club compilation of Loaded Records called Fine House Music Vol. 1. Also features Groove Y'All by Bert Drunk and the amazing Motocross Madne",
+                    "title": "Flunky - Hey Marvin [Fine House Music Volume 1 - Loaded Records]"
+                },
+                {
+                    "_duration": "405",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=v0p7ZhW57TA",
+                    "description": "2000",
+                    "title": "Flunkys Party Trick.Love Song Vocal.Loaded.."
+                }
+            ]
+        }
+    }
+}

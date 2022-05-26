@@ -1,0 +1,280 @@
+{
+    "release": {
+        "_id": "16610",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "Namlook",
+                "id": "1910",
+                "join": "",
+                "name": "Pete Namlook",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "10",
+                    "entity_type_name": "Manufactured By",
+                    "id": "291931",
+                    "name": "CD Plant MFG",
+                    "resource_url": "https://api.discogs.com/labels/291931"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "282994",
+                    "name": "Fuse Club",
+                    "resource_url": "https://api.discogs.com/labels/282994"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "270055",
+                    "name": "Melkweg, Amsterdam",
+                    "resource_url": "https://api.discogs.com/labels/270055"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Composed By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "Namlook",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Liner Notes",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "2",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "CD 1",
+                    "_type": "Matrix / Runout",
+                    "_value": "CD PLANT MFG PK 08/97 CD1 CDM01"
+                },
+                {
+                    "_description": "CD 2",
+                    "_type": "Matrix / Runout",
+                    "_value": "CD PLANT MFG PK 08/97 CD2 CDM01"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC6269"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "597",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "595",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "591",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "467",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "467",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/97",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Limited to 1000 copies.\r\n\r\nBoth tracks feature several index points, usually every 5 minutes. However they are considered one musical piece (per CD) as on a lot of other FAX CD releases.\r\n\r\n\"The music originated instinctively whilst playing live.\r\nThere was no concept for the composition before and a kaleidoscope of sounds stemming from the given instruments.\r\n\r\nThe sensitive process of life composing depends on a large number of environmental influences. I would like to thank everybody at the Melkweg for providing the perfect environment for my life-appearance [sic!] in Amsterdam.\"\r\n\r\nNamlook, Frankfurt 1994\r\n\r\nRecorded and composed live at the Fuse in Brussels on October 1st, 1994 from 00:45 am to 1.35 am and at the Melkweg in Amsterdam on October 8th, 1994 from 00:30 am to 1:30 am.",
+        "released": "1994-12-19",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Downtempo",
+                "Electro"
+            ]
+        },
+        "title": "Namlook VIII + IX",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "34:21",
+                    "position": "",
+                    "sub_tracks": {
+                        "track": [
+                            {
+                                "duration": "5:00",
+                                "position": "1-1",
+                                "title": "Blow The Fuse Part 1"
+                            },
+                            {
+                                "duration": "5:00",
+                                "position": "1-2",
+                                "title": "Blow The Fuse Part 2"
+                            },
+                            {
+                                "duration": "5:00",
+                                "position": "1-3",
+                                "title": "Blow The Fuse Part 3"
+                            },
+                            {
+                                "duration": "4:59",
+                                "position": "1-4",
+                                "title": "Blow The Fuse Part 4"
+                            },
+                            {
+                                "duration": "5:00",
+                                "position": "1-5",
+                                "title": "Blow The Fuse Part 5"
+                            },
+                            {
+                                "duration": "4:59",
+                                "position": "1-6",
+                                "title": "Blow The Fuse Part 6"
+                            },
+                            {
+                                "duration": "4:18",
+                                "position": "1-7",
+                                "title": "Blow The Fuse Part 7"
+                            }
+                        ]
+                    },
+                    "title": "Blow The Fuse"
+                },
+                {
+                    "duration": "62:23",
+                    "position": "",
+                    "sub_tracks": {
+                        "track": [
+                            {
+                                "duration": "5:00",
+                                "position": "2-1",
+                                "title": "The Gate To The Milky Way Part 1"
+                            },
+                            {
+                                "duration": "5:00",
+                                "position": "2-2",
+                                "title": "The Gate To The Milky Way Part 2"
+                            },
+                            {
+                                "duration": "4:59",
+                                "position": "2-3",
+                                "title": "The Gate To The Milky Way Part 3"
+                            },
+                            {
+                                "duration": "5:00",
+                                "position": "2-4",
+                                "title": "The Gate To The Milky Way Part 4"
+                            },
+                            {
+                                "duration": "4:59",
+                                "position": "2-5",
+                                "title": "The Gate To The Milky Way Part 5"
+                            },
+                            {
+                                "duration": "4:59",
+                                "position": "2-6",
+                                "title": "The Gate To The Milky Way Part 6"
+                            },
+                            {
+                                "duration": "5:00",
+                                "position": "2-7",
+                                "title": "The Gate To The Milky Way Part 7"
+                            },
+                            {
+                                "duration": "5:00",
+                                "position": "2-8",
+                                "title": "The Gate To The Milky Way Part 8"
+                            },
+                            {
+                                "duration": "4:59",
+                                "position": "2-9",
+                                "title": "The Gate To The Milky Way Part 9"
+                            },
+                            {
+                                "duration": "4:59",
+                                "position": "2-10",
+                                "title": "The Gate To The Milky Way Part 10"
+                            },
+                            {
+                                "duration": "5:00",
+                                "position": "2-11",
+                                "title": "The Gate To The Milky Way Part 11"
+                            },
+                            {
+                                "duration": "7:20",
+                                "position": "2-12",
+                                "title": "The Gate To The Milky Way Part 12"
+                            }
+                        ]
+                    },
+                    "title": "The Gate To The Milky Way"
+                }
+            ]
+        }
+    }
+}

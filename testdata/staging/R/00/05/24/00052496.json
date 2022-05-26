@@ -1,0 +1,633 @@
+{
+    "release": {
+        "_id": "52496",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "194",
+                "join": "",
+                "name": "Various",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "9",
+                    "entity_type_name": "Distributed By",
+                    "id": "1614",
+                    "name": "Arcade",
+                    "resource_url": "https://api.discogs.com/labels/1614"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "43314",
+                    "name": "Javelin Ltd",
+                    "resource_url": "https://api.discogs.com/labels/43314"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "43314",
+                    "name": "Javelin Ltd",
+                    "resource_url": "https://api.discogs.com/labels/43314"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "8",
+                    "entity_type_name": "Marketed By",
+                    "id": "4106",
+                    "name": "Fairway Record",
+                    "resource_url": "https://api.discogs.com/labels/4106"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "16",
+                    "entity_type_name": "Made By",
+                    "id": "344385",
+                    "name": "Dureco France",
+                    "resource_url": "https://api.discogs.com/labels/344385"
+                }
+            ]
+        },
+        "country": "France",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "343990",
+                "join": "",
+                "name": "Jean-Marie K",
+                "role": "DJ Mix, Concept By",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "Mixed"
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Barcode",
+                    "_value": "3 483901 004723"
+                },
+                {
+                    "_description": "Distribution Code",
+                    "_type": "Other",
+                    "_value": "ARC 332"
+                },
+                {
+                    "_type": "Rights Society",
+                    "_value": "mcps"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "150",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "150"
+                },
+                {
+                    "_height": "460",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": [
+                {
+                    "_catno": "3000472",
+                    "_id": "43314",
+                    "_name": "Javelin Ltd"
+                },
+                {
+                    "_catno": "3000472",
+                    "_id": "29637",
+                    "_name": "Gravit Records"
+                }
+            ]
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "37412"
+        },
+        "released": "1995",
+        "styles": {
+            "style": [
+                "Trance",
+                "Techno"
+            ]
+        },
+        "title": "After Trance Vol. 2 (Techno Morning Mix Party)",
+        "tracklist": {
+            "track": [
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1866",
+                            "join": "",
+                            "name": "Leftfield",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "1",
+                    "title": "Song Of Life"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "12613",
+                            "join": "",
+                            "name": "Brother Grim",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "2",
+                    "title": "Survive"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "18108",
+                            "join": "",
+                            "name": "Yum Yum",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "3",
+                    "title": "3 Minutes Warning  (Nuked Up Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "Lazonby",
+                            "id": "5929",
+                            "join": "",
+                            "name": "Pete Lazonby",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "18108",
+                            "join": "",
+                            "name": "Yum Yum",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "4",
+                    "title": "Sacred Cycles  (Yum Yum Remix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "4664",
+                            "join": "",
+                            "name": "The Wavecatcher",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "5",
+                    "title": "Flight DH2126"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "41039",
+                            "join": "",
+                            "name": "Caesar",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "6",
+                    "title": "Situations"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "41931",
+                            "join": "",
+                            "name": "Nostalgia Freaks",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "7",
+                    "title": "Stop Two"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "19667",
+                            "join": "",
+                            "name": "Miss Jones",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "8",
+                    "title": "Passion"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "50978",
+                            "join": "",
+                            "name": "Adrian \u0026 Alfarez",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "9",
+                    "title": "La Casa"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "88608",
+                            "join": "",
+                            "name": "Cygnus Loop",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "10",
+                    "title": "Golgotta"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "18735",
+                            "join": "",
+                            "name": "6 Bells All",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "11",
+                    "title": "Lift Off"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "20",
+                            "join": "",
+                            "name": "Percy X",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "12",
+                    "title": "X Trak 1"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1280",
+                            "join": "",
+                            "name": "Underworld",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "13",
+                    "title": "Dark Train"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "3414",
+                            "join": "",
+                            "name": "Guillaume La Tortue",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1015",
+                            "join": "",
+                            "name": "Slam",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "14",
+                    "title": "Salinas  (Slam Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "127962",
+                            "join": "",
+                            "name": "Spy vs. Spy (4)",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "15",
+                    "title": "Final Alignment"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "42272",
+                            "join": "",
+                            "name": "Culture Progress",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "16",
+                    "title": "Young"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "42273",
+                            "join": "",
+                            "name": "Nocturnal High",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "17",
+                    "title": "Aries Phase One"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "42274",
+                            "join": "",
+                            "name": "Positive Thinking",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "18",
+                    "title": "Infinity"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "426",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=lNKFqJKHHRs",
+                    "description": "Leftism\r\nHard Hands\r\n1995",
+                    "title": "Leftfield - Song Of Life"
+                },
+                {
+                    "_duration": "421",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=SS5JMYL3ens",
+                    "description": "Label:X-Gate Records\nCatalog#:XGT015\nFormat:Vinyl, 12, 45 RPM\nCountry:UK\nReleased:1995\nGenre:Electronic\nStyle:Trance, Acid\nCredits:Written-By, Producer, Arranged By - Matthew Clayden* , Toney Grimley*\nNotes:Published by Sub-Base Music Ltd\nRating:  4.2/5",
+                    "title": "Brothers Grimm Survive"
+                },
+                {
+                    "_duration": "513",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=1QUumgx21x8",
+                    "description": "",
+                    "title": "Yum Yum - 3 Minute Warning"
+                },
+                {
+                    "_duration": "517",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=4mfocj865ps",
+                    "description": "Goa Trance",
+                    "title": "Lazonby - Sacred Cycles (Yum Yum Rmx)"
+                },
+                {
+                    "_duration": "393",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=dmb1nC1UeM8",
+                    "description": "The Wavecatcher - Flight DH2126 (Remixes)\nLabel:Taste Recordings\nCatalog#:TASTE 004\nFormat:Vinyl, 12\nCountry:Netherlands\nReleased:1995\nGenre:Electronic\nStyle:Trance, Progressive Trance\n\nTracklist\n--------------\nA Flight DH2126 (Remy \u0026 Gregor Remix)\nB1 Fl",
+                    "title": "The Wavecatcher - Flight DH2126 (Original)"
+                },
+                {
+                    "_duration": "227",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=0F9B6E1uyV4",
+                    "description": "Video for Situations Complications by Caesar, taken from the album No Rest For The Alonely. Video directed by Wim van der Aar.",
+                    "title": "Caesar - Situations Complications"
+                },
+                {
+                    "_duration": "418",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Qy-U0h83gQw",
+                    "description": "Nostalgia Freaks - Beat Beat\r\nLabel:Effective Records\r\nCatalog#:EFFS 019\r\nFormat:Vinyl, 12\r\n\r\nCountry:UK\r\nReleased:1994\r\nGenre:Electronic \r\nStyle:House",
+                    "title": "Nostalgia Freaks - Stop Two"
+                },
+                {
+                    "_duration": "244",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=j4g0ngr7pV0",
+                    "description": "Label:New Meal Power\nCatalog#:MP 074\nFormat:Vinyl, 12\nCountry:Italy\nReleased:1994\nGenre:Electronic\nStyle:House",
+                    "title": "Miss Jones - Passion"
+                },
+                {
+                    "_duration": "322",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=O2PXus0CVLY",
+                    "description": "",
+                    "title": "Adrian \u0026 Alfarez - La Casa (original edit) (1995)"
+                },
+                {
+                    "_duration": "328",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Ob5QXkGCzd0",
+                    "description": "Excellent for the beach",
+                    "title": "Cygnus Loop - Nyhabingi  Golgotta (Tribal Trance)"
+                },
+                {
+                    "_duration": "407",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=QTOGXbRxhog",
+                    "description": "",
+                    "title": "6 Bells All -  Lift Off"
+                },
+                {
+                    "_duration": "357",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=5n7gXu1d0Jg",
+                    "description": "http://www.discogs.com/Percy-X-X-Trak-1/release/12391",
+                    "title": "Percy X - X-Trak 1"
+                },
+                {
+                    "_duration": "585",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=OUuV7nOWGM8",
+                    "description": "Website: https://www.underworldlive.com\nFacebook: https://www.facebook.com/underworldlive\nTwitter: https://twitter.com/underworldlive\nInstagram: https://instagram.com/underworld\nSpotify: https://po.st/UnderworldSpotify",
+                    "title": "Underworld - Dark Train"
+                },
+                {
+                    "_duration": "721",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=b2pfpppQJiI",
+                    "description": "Label: Music Man Records\nReleased: 1994\nGenre: Electronic\nStyle: Trance, Techno",
+                    "title": "Guillaume La Tortue - Salinas (Slam Mix)"
+                },
+                {
+                    "_duration": "439",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=IiFa7MVMq8s",
+                    "description": "Label:Ind-X Records\r\nCatalog#:INDX004\r\nFormat:Vinyl, 12\r\n\r\nCountry:US\r\nReleased:1994\r\nGenre:Electronic \r\nStyle:Trance, Techno",
+                    "title": "Spy vs Spy - Final Alignment (1994 Ind-X Records Detroit)"
+                },
+                {
+                    "_duration": "471",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=eSb7kYpeDDY",
+                    "description": "info: http://www.discogs.com/release/1877474",
+                    "title": "Nocturnal High - Aries Phase One (1995)"
+                },
+                {
+                    "_duration": "609",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=L-yO3w9d0bk",
+                    "description": "",
+                    "title": "White Dopes On Funk   Ne Plus Ultra Original"
+                },
+                {
+                    "_duration": "424",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=D90YJk6Sens",
+                    "description": "Outline (2) - Exotic Mind\nLabel:\nTaste Recordings\nCatalog#:\nTASTE 003\nFormat:\nVinyl, 12\nCountry:\nNetherlands\nReleased:\n1994\nGenre:\nElectronic\nStyle:\nProgressive House, Trance",
+                    "title": "Outline - Exotic Mind (Vox Edit)"
+                },
+                {
+                    "_duration": "435",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=FTRApuqh8wo",
+                    "description": "It's time, for great acidic old school trance. Release: Ultrahigh - The View Of Ultrahigh / Force Inc. Music Works",
+                    "title": "Ultrahigh - It's Time (1994)"
+                },
+                {
+                    "_duration": "654",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=YB03TDaYVR0",
+                    "description": "",
+                    "title": "Positive Thinking - Infinite Orbit (1994)"
+                },
+                {
+                    "_duration": "366",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=LCErp_cPfQM",
+                    "description": "Motorman -- Nightfall\nLabel:\nSubconscious Records (UK) -- eeg 003\nFormat:\nVinyl, 12\nCountry:\nUK\nReleased:\n1994\nGenre:\nElectronic\nStyle:\nProgressive House, Progressive Trance",
+                    "title": "Motorman - Nightfall (Reeperbahn Remix)"
+                },
+                {
+                    "_duration": "600",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=ynwNWBlUywA",
+                    "description": "A     A Taste Of Your Own Medicine (Mix 1)   \r\n    Remix - Robert Leiner\r\nB1   A Taste Of Your Own Medicine (Mix 2) \r\n    Remix - Robert Leiner\r\nB2   A Taste Of Your Own Medicine (Midi-Evil Mix) \r\n    Remix - Midi - Evil\r\n\r\nLabel:\r\nR \u0026 S Records\r\nCatalog#",
+                    "title": "Elements Of Trance - A Taste Of Your Own Medicine (Midi - Evil Mix)"
+                },
+                {
+                    "_duration": "492",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=80Kfox7EPFY",
+                    "description": "Tribal Trance 1993",
+                    "title": "Quark - Emphasis (12 Mix)"
+                },
+                {
+                    "_duration": "613",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=1up6MijWv3A",
+                    "description": "Various - The Gaia EP\nLabel:Gaia Tonträger",
+                    "title": "Cybersnack - Inner-Chi"
+                },
+                {
+                    "_duration": "163",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=2tmdkw6wrYE",
+                    "description": "1993",
+                    "title": "2 Phases - Quest For Trance (A Man Mix)"
+                },
+                {
+                    "_duration": "344",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Gkb-yaBa-nM",
+                    "description": "Blue Dot Technique, The ‎-- Untitled\nLabel: EXperimental ‎-- EX-32\nFormat:Vinyl, 12, 33 ⅓ RPM \nCountry: US\nReleased: 1994\nGenre: Electronic\nStyle: Techno, Acid",
+                    "title": "The Blue Dot Technique -- Exhale ( 1994 )"
+                },
+                {
+                    "_duration": "548",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=A9fG5iuuN8s",
+                    "description": "Soma, 1994",
+                    "title": "Desert Storm - Desert Storm"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,168 @@
+{
+    "release": {
+        "_id": "30718",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "244",
+                "join": "",
+                "name": "H-Foundation",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "20",
+                    "name": "Moody Recordings",
+                    "resource_url": "https://api.discogs.com/labels/20"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "10",
+                    "entity_type_name": "Manufactured By",
+                    "id": "321147",
+                    "name": "Mix Connection",
+                    "resource_url": "https://api.discogs.com/labels/321147"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "9",
+                    "entity_type_name": "Distributed By",
+                    "id": "321147",
+                    "name": "Mix Connection",
+                    "resource_url": "https://api.discogs.com/labels/321147"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "363762",
+                    "name": "Mixcon Music",
+                    "resource_url": "https://api.discogs.com/labels/363762"
+                }
+            ]
+        },
+        "country": "US",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "12898",
+                "join": "",
+                "name": "Halo \u0026 Hipp-E",
+                "role": "Producer",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "12\""
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Text",
+                    "_type": "Barcode",
+                    "_value": "7 13405 96291 9"
+                },
+                {
+                    "_description": "Scanned",
+                    "_type": "Barcode",
+                    "_value": "713405962919"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "599",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "608",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "1834",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "MDR9629-1",
+                "_id": "20",
+                "_name": "Moody Recordings"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "277702"
+        },
+        "notes": "Shouts to: Doc Martin, Terry Mullan, Onionz, Tony, Joeski, Mark Quark, Martin from The Gathering.\n\nB2 presented on cover as Dancin Dub while on inner label is Dancin Dubb",
+        "released": "2000-05-00",
+        "styles": {
+            "style": "House"
+        },
+        "title": "Da Sounds Of Now",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A",
+                    "title": "X-Tra Large"
+                },
+                {
+                    "duration": "",
+                    "position": "B1",
+                    "title": "Keep On Dancin"
+                },
+                {
+                    "duration": "",
+                    "position": "B2",
+                    "title": "Dancin Dub"
+                }
+            ]
+        },
+        "videos": {
+            "video": {
+                "_duration": "595",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=prQp6QtDpZg",
+                "description": "Coleccion Discos Deejay Harry\nhttp://www.djharry.es",
+                "title": "H-Foundation ‎- X Tra Large"
+            }
+        }
+    }
+}

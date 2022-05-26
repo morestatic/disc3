@@ -1,0 +1,112 @@
+{
+    "release": {
+        "_id": "172676",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "11491",
+                "join": "",
+                "name": "Jason Nevins",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "UK",
+        "data_quality": "Needs Vote",
+        "extraartists": "",
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "12\""
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_type": "Barcode",
+                "_value": "5 025425 001369"
+            }
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "592",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "598"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "583"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "LOAD 13",
+                "_id": "40",
+                "_name": "Loaded Records"
+            }
+        },
+        "released": "1994",
+        "styles": {
+            "style": [
+                "House",
+                "Deep House"
+            ]
+        },
+        "title": "The Viper Room",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A1",
+                    "title": "Mayorca"
+                },
+                {
+                    "duration": "",
+                    "position": "A2",
+                    "title": "Alright, Alright"
+                },
+                {
+                    "duration": "",
+                    "position": "B1",
+                    "title": "Good Inside"
+                },
+                {
+                    "duration": "",
+                    "position": "B2",
+                    "title": "Anyone Who's Anyone (Let's Go)"
+                }
+            ]
+        },
+        "videos": {
+            "video": {
+                "_duration": "526",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=8CyTZizMeyw",
+                "description": "https://www.discogs.com/sell/item/1206066777",
+                "title": "HOUSE - Jason Nevins ‎– The Viper Room"
+            }
+        }
+    }
+}

@@ -1,0 +1,203 @@
+{
+    "release": {
+        "_id": "1360",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "Namlook",
+                "id": "1910",
+                "join": "",
+                "name": "Pete Namlook",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "17",
+                    "entity_type_name": "Pressed By",
+                    "id": "291931",
+                    "name": "CD Plant MFG",
+                    "resource_url": "https://api.discogs.com/labels/291931"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "752092",
+                    "name": "Kings Street Garage",
+                    "resource_url": "https://api.discogs.com/labels/752092"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "1910",
+                "join": "",
+                "name": "Pete Namlook",
+                "role": "Composed By",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "CD PLANT MFG PK 08/89 CDM01"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "517",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/89",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "The music originated instinctively whilst being played live.\r\nThere was no concept for the composition before, only a kaleidoscope of sounds stemming from the given instruments.\r\n\r\nThe music of this CD is \"dedicated\" to the missing 220V power supply, the broken EMS synthi which I dropped during the setting-up of my equipment, the SE-1 which instantly created its own sounds during the live recording and the Studio 440 with 2 faulty pads and a disk drive which had to be convinced to cooperate.\r\n\r\nNAMLOOK\r\nFRANKFURT 1993\r\n\r\nRecorded and composed live at Kings Street Garage, (back of Townsend), San Francisco on March 27th, 1994 from 1.30 am to 2.20 am.\r\n\r\nSpecial thanks to:\r\n\r\nElisabeth / Fabia / Kathrin\r\nLudwig Rehberg of EMS\r\nCharles / Nick\r\nJonah Sharp\r\nMixmaster Morris\r\nMad Mia / Iona\r\nMatt Isaacson\r\nVictor Critchfield of Audio Images, SFO\r\n\r\nLimitation: 1000\r\n\r\nThe tracklisting only states one title, \"Power Supply\" , which is spread over 9 tracks.",
+        "released": "1994-05-13",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Downtempo",
+                "Experimental",
+                "Techno"
+            ]
+        },
+        "title": "Namlook IV",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "46:44",
+                    "position": "",
+                    "title": "Power Supply"
+                },
+                {
+                    "duration": "5:01",
+                    "position": "1",
+                    "title": "Untitled"
+                },
+                {
+                    "duration": "5:00",
+                    "position": "2",
+                    "title": "Untitled"
+                },
+                {
+                    "duration": "4:59",
+                    "position": "3",
+                    "title": "Untitled"
+                },
+                {
+                    "duration": "5:00",
+                    "position": "4",
+                    "title": "Untitled"
+                },
+                {
+                    "duration": "4:59",
+                    "position": "5",
+                    "title": "Untitled"
+                },
+                {
+                    "duration": "5:00",
+                    "position": "6",
+                    "title": "Untitled"
+                },
+                {
+                    "duration": "4:59",
+                    "position": "7",
+                    "title": "Untitled"
+                },
+                {
+                    "duration": "4:59",
+                    "position": "8",
+                    "title": "Untitled"
+                },
+                {
+                    "duration": "6:40",
+                    "position": "9",
+                    "title": "Untitled"
+                }
+            ]
+        },
+        "videos": {
+            "video": {
+                "_duration": "2800",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=BLlqDMCr9fE",
+                "description": "Artist: Pete Namlook\nAlbum: Namlook IV\nLabel: Fax +49-69/450464\nYear: 1994\n\nTracklist:\n1. Power Supply [0:00]\n\nRequest album(s) here: https://goo.gl/forms/S5Iqb6ukrSH2MobC3\n\nAll music uploaded to this channel is available for educational and informative p",
+                "title": "Pete Namlook - Namlook IV (Full Album) [1994]"
+            }
+        }
+    }
+}

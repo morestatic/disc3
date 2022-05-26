@@ -1,0 +1,225 @@
+{
+    "release": {
+        "_id": "239323",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "1344",
+                "join": "",
+                "name": "Steve Stoll",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "2136082",
+                    "join": "",
+                    "name": "Sansserifgrafik",
+                    "role": "Design [Graphics]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Mastered By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1344",
+                    "join": "",
+                    "name": "Steve Stoll",
+                    "role": "Written-By, Producer",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_description": "Scanned",
+                "_type": "Barcode",
+                "_value": "807297037920"
+            }
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "500",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "498"
+                },
+                {
+                    "_height": "500",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "489"
+                },
+                {
+                    "_height": "500",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                },
+                {
+                    "_height": "500",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PS 08/106",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Limited to 1000 copies.\r\nMixed and recorded at Kai No Uchi Staaten Island, NY.",
+        "released": "2004-02-16",
+        "styles": {
+            "style": [
+                "Techno",
+                "Experimental",
+                "Ambient"
+            ]
+        },
+        "title": "Earthling",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "8:14",
+                    "position": "1",
+                    "title": "Intuition (1st Movement)"
+                },
+                {
+                    "duration": "3:38",
+                    "position": "2",
+                    "title": "Rnd.Ply."
+                },
+                {
+                    "duration": "2:30",
+                    "position": "3",
+                    "title": "Atonal Memory"
+                },
+                {
+                    "duration": "3:05",
+                    "position": "4",
+                    "title": "Ballet Mechanic"
+                },
+                {
+                    "duration": "6:44",
+                    "position": "5",
+                    "title": "Intuition (2nd Movement)"
+                },
+                {
+                    "duration": "3:09",
+                    "position": "6",
+                    "title": "Unionsquare"
+                },
+                {
+                    "duration": "5:31",
+                    "position": "7",
+                    "title": "Navigation Of K"
+                },
+                {
+                    "duration": "4:18",
+                    "position": "8",
+                    "title": "Data Clouds (Into The Nature Pt.2)"
+                },
+                {
+                    "duration": "5:02",
+                    "position": "9",
+                    "title": "Radiodiffusion"
+                },
+                {
+                    "duration": "2:26",
+                    "position": "10",
+                    "title": "Dockstader"
+                },
+                {
+                    "duration": "5:44",
+                    "position": "11",
+                    "title": "Epilogue (?)"
+                },
+                {
+                    "duration": "5:09",
+                    "position": "12",
+                    "title": "Dust Ver.1"
+                },
+                {
+                    "duration": "2:57",
+                    "position": "13",
+                    "title": "Chance-Meeting"
+                },
+                {
+                    "duration": "2:55",
+                    "position": "14",
+                    "title": "Suguni"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "409",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=bRmppQA0qoE",
+                    "description": "Taken from Earthling (Fax +49-69/450464 - PS 08/106)\nhttp://www.discogs.com/artist/Steve+Stoll",
+                    "title": "Steve Stoll - Intuition (2nd Movement)"
+                },
+                {
+                    "_duration": "154",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=zkjK_O1cqFo",
+                    "description": "https://www.discogs.com/de/Steve-Stoll-Earthling/release/239323",
+                    "title": "Steve Stoll - Atonal Memory"
+                },
+                {
+                    "_duration": "263",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=xD_XdzbjZuw",
+                    "description": "https://www.discogs.com/de/Steve-Stoll-Earthling/release/239323",
+                    "title": "Steve Stoll - Data Clouds (Into The Nature Pt.2)"
+                }
+            ]
+        }
+    }
+}

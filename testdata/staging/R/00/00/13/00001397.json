@@ -1,0 +1,608 @@
+{
+    "release": {
+        "_id": "1397",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "194",
+                "join": "",
+                "name": "Various",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "270709",
+                    "name": "Soma Recordings Ltd.",
+                    "resource_url": "https://api.discogs.com/labels/270709"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "270709",
+                    "name": "Soma Recordings Ltd.",
+                    "resource_url": "https://api.discogs.com/labels/270709"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "37",
+                    "entity_type_name": "Produced For",
+                    "id": "56025",
+                    "name": "MPO",
+                    "resource_url": "https://api.discogs.com/labels/56025"
+                }
+            ]
+        },
+        "country": "UK",
+        "data_quality": "Needs Vote",
+        "extraartists": "",
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "Compilation"
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Text",
+                    "_type": "Barcode",
+                    "_value": "7 96122 00222 9"
+                },
+                {
+                    "_description": "String",
+                    "_type": "Barcode",
+                    "_value": "796122002229"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "[MPO logo] SOMACD 22 @@@ 02"
+                },
+                {
+                    "_type": "Mastering SID Code",
+                    "_value": "IFPI L033"
+                },
+                {
+                    "_type": "Mould SID Code",
+                    "_value": "IFPI 1222"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "468",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "593",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "297",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "soma CD 22",
+                "_id": "18",
+                "_name": "Soma Quality Recordings"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "113818"
+        },
+        "notes": "All tracks published by Soma Music except track 7 published by Ewan Andrew Pearson and track 8 by Copyright Control.",
+        "released": "2000-11-13",
+        "styles": {
+            "style": [
+                "Techno",
+                "Deep House",
+                "Tech House"
+            ]
+        },
+        "title": "Soma Compilation Seven",
+        "tracklist": {
+            "track": [
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "208",
+                            "join": "",
+                            "name": "Chaser",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:51",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "686",
+                                "join": "",
+                                "name": "Abacus",
+                                "role": "Remix, Producer [Additional]",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "193661",
+                                "join": "",
+                                "name": "Lars Sandberg",
+                                "role": "Written-By, Producer, Arranged By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "692",
+                                "join": "",
+                                "name": "Nigel Hayes",
+                                "role": "Written-By, Producer, Arranged By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "1",
+                    "title": "Blue Planet (Abacus Remix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "56",
+                            "join": "",
+                            "name": "E.B.E. (2)",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:07",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "57176",
+                            "join": "",
+                            "name": "Lucas Rodenbush",
+                            "role": "Written-By, Producer, Arranged By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "2",
+                    "title": "Serenity"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1938",
+                            "join": "",
+                            "name": "Universal Principles",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:46",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "1942",
+                                "join": "",
+                                "name": "Sidewinder",
+                                "role": "Remix, Producer [Additional]",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "463942",
+                                "join": "",
+                                "name": "Glenn Gibbons",
+                                "role": "Written-By, Producer, Arranged By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "156711",
+                                "join": "",
+                                "name": "Nick Peacock",
+                                "role": "Written-By, Producer, Arranged By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "78458",
+                                "join": "",
+                                "name": "Stuart McMillan",
+                                "role": "Written-By, Producer, Arranged By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "3",
+                    "title": "Flyin' High (Sidewinder Remix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1939",
+                            "join": "",
+                            "name": "Mfon",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:36",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "1943",
+                                "join": "",
+                                "name": "Studio 54",
+                                "role": "Remix, Producer [Additional]",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "3285350",
+                                "join": "",
+                                "name": "Mfon Akpan",
+                                "role": "Written-By, Producer, Arranged By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "4",
+                    "title": "Rubberlegs (Studio 54 Remix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1940",
+                            "join": "",
+                            "name": "Silicone Soul",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "8:30",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "468511",
+                                "join": "",
+                                "name": "Craig Morrison",
+                                "role": "Written-By, Producer, Arranged By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "468510",
+                                "join": "",
+                                "name": "Graeme Reedie",
+                                "role": "Written-By, Producer, Arranged By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "5",
+                    "title": "Right On, Right On"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1028",
+                            "join": "",
+                            "name": "Hutton Drive",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:20",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "697675",
+                            "join": "",
+                            "name": "Domenic Cappello",
+                            "role": "Written-By, Producer, Arranged By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "6",
+                    "title": "Push It"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1017",
+                            "join": "",
+                            "name": "Maas",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "7:33",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "19221",
+                            "join": "",
+                            "name": "Ewan Pearson",
+                            "role": "Written-By, Producer, Arranged By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "7",
+                    "title": "Powers Of Ten"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1286",
+                            "join": "",
+                            "name": "Gene Farris",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:20",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1286",
+                            "join": "",
+                            "name": "Gene Farris",
+                            "role": "Written-By, Producer, Arranged By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "8",
+                    "title": "Confession"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "77787",
+                            "join": "",
+                            "name": "Soul Interactive",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "8:10",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "684780",
+                                "join": "",
+                                "name": "Eric Galavis",
+                                "role": "Written-By, Producer, Arranged By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "8152",
+                                "join": "",
+                                "name": "Tony Hewitt",
+                                "role": "Written-By, Producer, Arranged By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "9",
+                    "title": "Riddem Control"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "20",
+                            "join": "",
+                            "name": "Percy X",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:42",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "27",
+                                "join": "",
+                                "name": "Cari Lekebusch",
+                                "role": "Remix, Producer [Additional]",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "20",
+                                "join": "",
+                                "name": "Percy X",
+                                "role": "Written-By, Producer, Arranged By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "10",
+                    "title": "Break It Down (Cari Lekebusch Remix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "164",
+                            "join": "",
+                            "name": "Pressure Funk",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:45",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "1944",
+                                "join": "",
+                                "name": "Marco Carola",
+                                "role": "Remix, Producer [Additional]",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "225760",
+                                "join": "",
+                                "name": "Orde Meikle",
+                                "role": "Written-By, Producer, Arranged By",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "78458",
+                                "join": "",
+                                "name": "Stuart McMillan",
+                                "role": "Written-By, Producer, Arranged By",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "11",
+                    "title": "Pressure Theme (Marco Carola Remix)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "409",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=A-Kx5Lr38kE",
+                    "description": "",
+                    "title": "SEXY JAZZY CHILL OUT-Chaser-Blue Planet (Abacus Remix)"
+                },
+                {
+                    "_duration": "351",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=hsB7Pw0Q27w",
+                    "description": "Released:\r\n2000",
+                    "title": "[LP22] A1 - Universal Principles - Flying High (Sidewinder Remix)"
+                },
+                {
+                    "_duration": "371",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=jqov1Jhn6cU",
+                    "description": "Released:\r\n2000",
+                    "title": "[LP22] A2 - E.B.E. - Serenity"
+                },
+                {
+                    "_duration": "396",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=wV-K4UGQJMY",
+                    "description": "Released:\r\n2000",
+                    "title": "[LP22] A3 - Mfon - Rubberlegs (Studio 54 Remix)"
+                },
+                {
+                    "_duration": "511",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=tLEjSlENFHM",
+                    "description": "Released:\r\n2000",
+                    "title": "[LP22] B1 - Silicone Soul - Right On, Right On"
+                },
+                {
+                    "_duration": "381",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=OXybJLR5MXU",
+                    "description": "Released:\r\n2000",
+                    "title": "[LP22] B2 - Gene Farris - Confession"
+                },
+                {
+                    "_duration": "381",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=qQ3BWOT2V3Q",
+                    "description": "Released:\r\n2000",
+                    "title": "[LP22] C1 - Hutton Drive - Push It"
+                },
+                {
+                    "_duration": "491",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=IkYFbMQaUuU",
+                    "description": "Released:\r\n2000",
+                    "title": "[LP22] C2 - Hipp-E \u0026 Tony present Soul Interactive - Riddem Control"
+                },
+                {
+                    "_duration": "456",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=5l7JAkbAChQ",
+                    "description": "Released:\r\n2000",
+                    "title": "[LP22] D1 - Maas - Powers Of Ten"
+                },
+                {
+                    "_duration": "346",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=OaIOIt6SFHk",
+                    "description": "Released:\r\n2000",
+                    "title": "[LP22] D2 - Percy X - Break It Down (Cari Lekebusch Remix)"
+                },
+                {
+                    "_duration": "346",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=bqbYX65pkGM",
+                    "description": "Released:\r\n2000",
+                    "title": "[LP22] D3 - Pressure Funk - Pressure Theme (Marco Carola Remix)"
+                }
+            ]
+        }
+    }
+}

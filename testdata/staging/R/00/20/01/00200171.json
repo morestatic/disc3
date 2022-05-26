@@ -1,0 +1,207 @@
+{
+    "release": {
+        "_id": "200171",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "41720",
+                "join": "",
+                "name": "Gorn",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": {
+                "catno": "",
+                "entity_type": "10",
+                "entity_type_name": "Manufactured By",
+                "id": "291931",
+                "name": "CD Plant MFG",
+                "resource_url": "https://api.discogs.com/labels/291931"
+            }
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "145578",
+                    "join": "",
+                    "name": "Bela Cox",
+                    "role": "Written-By",
+                    "tracks": "1, 2"
+                },
+                {
+                    "anv": "",
+                    "id": "16732",
+                    "join": "",
+                    "name": "Massimo Vivona",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "CD PLANT MFG PS 08/29 CDM01"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "468",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "300",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PS 08/29",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "il signore manda il pane alla gente che non ha i denti per masticare\r\n\r\nGorn\r\nFRANKFURT 1993\r\n\r\nSpecial thanks to:\r\n\r\nGod\r\nHeike\r\nDr. Atmo\r\nDJ Criss\r\n\r\nLimitation: 500",
+        "released": "1993-11-08",
+        "styles": {
+            "style": [
+                "Trance",
+                "Techno"
+            ]
+        },
+        "title": "Gorn",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "7:00",
+                    "position": "1",
+                    "title": "Giovenes"
+                },
+                {
+                    "duration": "9:26",
+                    "position": "2",
+                    "title": "Delargo 1"
+                },
+                {
+                    "duration": "7:01",
+                    "position": "3",
+                    "title": "Trancesub"
+                },
+                {
+                    "duration": "4:31",
+                    "position": "4",
+                    "title": "Sub"
+                },
+                {
+                    "duration": "7:27",
+                    "position": "5",
+                    "title": "Move The Face"
+                },
+                {
+                    "duration": "6:01",
+                    "position": "6",
+                    "title": "Sea Of Love"
+                },
+                {
+                    "duration": "5:44",
+                    "position": "7",
+                    "title": "A Lucinazion"
+                },
+                {
+                    "duration": "20:02",
+                    "position": "8",
+                    "title": "Acult"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "426",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=AEFHhL5Mg1g",
+                    "description": "",
+                    "title": "Gorn   Move The Face Techno 1993"
+                },
+                {
+                    "_duration": "421",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=QrHBqhlkSRE",
+                    "description": "Trance 1993",
+                    "title": "Gorn - Giovenes.wmv"
+                },
+                {
+                    "_duration": "261",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=vpLYzWLfUKA",
+                    "description": "",
+                    "title": "GORN - SUB - Fax 49+69-450464"
+                },
+                {
+                    "_duration": "1206",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Yo5UiwCl1F4",
+                    "description": "http://www.discogs.com/Gorn-Gorn/release/200171\n\r\n\r-uploaded in HD at http://www.TunesToTube.com",
+                    "title": "Gorn - Acult (Ambient 1993)"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,206 @@
+{
+    "release": {
+        "_id": "57034",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "47682",
+                "join": "",
+                "name": "Sad World",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": {
+                "catno": "17392",
+                "entity_type": "10",
+                "entity_type_name": "Manufactured By",
+                "id": "277449",
+                "name": "P+O Pallas",
+                "resource_url": "https://api.discogs.com/labels/277449"
+            }
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "8521",
+                    "join": "",
+                    "name": "Dr. Atmo",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "Ramin",
+                    "id": "62865",
+                    "join": "",
+                    "name": "Ramin Naghachian",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Limited Edition",
+                        "Album"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "PS 08/23 P+O-17392-A1 07-93"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "465",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PS 08/23",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "What then is all the harvest\r\nof this workshop of generation\r\nand corruption ?\r\n\r\nNot much.\r\n\r\nBring wine then\r\nfor all the world's provisions\r\ndon't amount\r\n\r\nto much.\r\n\r\nFive days or so\r\nyou rest here: rest well,\r\nmy friend. Your stay\r\n\r\nis short.\r\n\r\nWe wait on the lip\r\nof the Sea of Nothing. () Saki,\r\none cup ! What space between the lip and mouth ?\r\n\r\nHafez (fourteenth century)\r\n\r\nSAD WORLD\r\nFRANKFURT 1993\r\n\r\nVery special thanks to:\r\n\r\nAllah\r\nRadio Orient\r\n\"Dad Naghi\"\r\n\r\nVoice on Harsin by \"Dad Naghi\"\r\nRecorded at Pars Studio\r\n\r\nLimitation: 500",
+        "released": "1993-08-16",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Tribal"
+            ]
+        },
+        "title": "Sad World",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "5:10",
+                    "position": "1",
+                    "title": "Apadana"
+                },
+                {
+                    "duration": "30:40",
+                    "position": "2",
+                    "title": "Giyan"
+                },
+                {
+                    "duration": "17:41",
+                    "position": "3",
+                    "title": "Harsin"
+                },
+                {
+                    "duration": "14:32",
+                    "position": "4",
+                    "title": "Kirkuk"
+                },
+                {
+                    "duration": "10:10",
+                    "position": "5",
+                    "title": "Terasury"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "324",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=5trVt5hpJSQ",
+                    "description": "Music : Sad World ( Dr. Atmo alias Amir Abadi \u0026 Ramin Naghachian ) - Apadana\nLabel : Fax +49-69/450464  \nVideo : Persepolis Recreated, produced by Sunrise Film Co.\nVideocut : https://www.facebook.com/JimBeanDJ/",
+                    "title": "Sad World - Apadana"
+                },
+                {
+                    "_duration": "1845",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=4zCpHnS2uD0",
+                    "description": "Track 2 - Glyan\nArtists : Dr. Atmo \u0026 Ramin\nAlbum : Sad World\n1995 FAX +49-69/450464",
+                    "title": "Dr. Atmo \u0026 Ramin - Glyan (Sad World)"
+                },
+                {
+                    "_duration": "1066",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=ZhlcGvIcP3Y",
+                    "description": "Track 3 - Harsin\nArtists : Dr. Atmo \u0026 Ramin\nAlbum : Sad World\n1995 FAX +49-69/450464",
+                    "title": "Dr. Atmo \u0026 Ramin - Harsin (Sad World)"
+                },
+                {
+                    "_duration": "876",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=O8K2XlPwwss",
+                    "description": "Track 4 - Kirkuk\nArtists : Dr. Atmo \u0026 Ramin\nAlbum : Sad World\n1995 FAX +49-69/450464",
+                    "title": "Dr. Atmo \u0026 Ramin - Kirkuk (Sad World)"
+                },
+                {
+                    "_duration": "610",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=9-j0R-43iZs",
+                    "description": "Released on the Sad World Album, PS 08/23\nMusic by Dr Atmo (Amir Abadi) and Ramin Naghachian, 1993\nVideo: Abstructure\n\n3/2020 - R.I.P  Ramin Naghachian :-(",
+                    "title": "Sad World - Terasury"
+                }
+            ]
+        }
+    }
+}

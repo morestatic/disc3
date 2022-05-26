@@ -1,0 +1,244 @@
+{
+    "release": {
+        "_id": "52490",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "32557",
+                "join": "",
+                "name": "XJacks",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "457432",
+                    "name": "Noitect",
+                    "resource_url": "https://api.discogs.com/labels/457432"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "10",
+                    "entity_type_name": "Manufactured By",
+                    "id": "291931",
+                    "name": "CD Plant MFG",
+                    "resource_url": "https://api.discogs.com/labels/291931"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "9847",
+                    "join": "",
+                    "name": "Dandy Jack",
+                    "role": "Musician [XJacks Are]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "32614",
+                    "join": "",
+                    "name": "Victor Sol",
+                    "role": "Musician [XJacks Are]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "3041857",
+                    "join": "",
+                    "name": "Captain Panama",
+                    "role": "Photography By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "9847",
+                    "join": "",
+                    "name": "Dandy Jack",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "32614",
+                    "join": "",
+                    "name": "Victor Sol",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "CD PLANT MFG PS 08/59 CDM01"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "596",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "465",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "297",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "591",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PS 08/59",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Recorded 1994 at Noitect/Barcelona.\r\n\r\nLimitation: 1000 copies.",
+        "released": "1995-01-09",
+        "styles": {
+            "style": [
+                "Abstract",
+                "Techno",
+                "Ambient"
+            ]
+        },
+        "title": "Solid Pressure",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "9:47",
+                    "position": "1",
+                    "title": "Bonefactory"
+                },
+                {
+                    "duration": "13:33",
+                    "position": "2",
+                    "title": "Lunar Icing"
+                },
+                {
+                    "duration": "8:42",
+                    "position": "3",
+                    "title": "Spaced Out"
+                },
+                {
+                    "duration": "9:44",
+                    "position": "4",
+                    "title": "Snap Jack"
+                },
+                {
+                    "duration": "11:15",
+                    "position": "5",
+                    "title": "X-O-Lyde"
+                },
+                {
+                    "duration": "8:33",
+                    "position": "6",
+                    "title": "Solid Pressure"
+                },
+                {
+                    "duration": "10:59",
+                    "position": "7",
+                    "title": "Celophane"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "4360",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=8g5KyNZHixc",
+                    "description": "Artist: XJacks\nAlbum: Solid Pressure\nLabel: Fax +49-69/450464\nYear: 1995\n\nTracklist:\n1. Bonefactory [0:00]\n2. Lunar Icing [9:46]\n3. Spaced Out [23:21]\n4. Snap Jack [32:05] **\n5. X-O-Lyde [41:51] **\n6. Solid Pressure [53:05] **\n7. Celophane [1:01:40]\n\n** T",
+                    "title": "XJacks - Solid Pressure (Full Album) [1995]"
+                },
+                {
+                    "_duration": "582",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=5ZFFf1PHk4A",
+                    "description": "XJacks -- Solid Pressure\nLabel:\nFax +49-69/450464 -- PS 08/59\nFormat:\nCD, Limited Edition, Album\nCountry:\nGermany\nReleased:\n09 Jan 1995\nGenre:\nElectronic\nStyle:\nAbstract, Techno, Ambient",
+                    "title": "XJacks - Bonefactory"
+                },
+                {
+                    "_duration": "816",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=tNOK6ZpZ3LE",
+                    "description": "From Solid Pressure (Fax +49-69/450464 - PS 08/59).\nhttp://www.cue-records.com/product_info.php?info=p692_dandy-jack---victor-sol---xjacks.html\nhttp://www.discogs.com/artist/XJacks",
+                    "title": "XJacks - Lunar Icing"
+                },
+                {
+                    "_duration": "516",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=o9NUIp7jKpU",
+                    "description": "XJacks -- Solid Pressure\nLabel:\nFax +49-69/450464 -- PS 08/59\nFormat:\nCD, Limited Edition, Album\nCountry:\nGermany\nReleased:\n09 Jan 1995\nGenre:\nElectronic\nStyle:\nAbstract, Techno, Ambient",
+                    "title": "XJacks - Spaced Out"
+                },
+                {
+                    "_duration": "658",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=L7JfwkDo_7g",
+                    "description": "XJacks ‎– Solid Pressure\nFax +49-69/450464\n1995\n\nhttps://www.discogs.com/XJacks-Solid-Pressure/release/52490",
+                    "title": "XJacks – Celophane"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,254 @@
+{
+    "release": {
+        "_id": "52069",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "38287",
+                "join": "",
+                "name": "Transonic",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "10",
+                    "entity_type_name": "Manufactured By",
+                    "id": "291931",
+                    "name": "CD Plant MFG",
+                    "resource_url": "https://api.discogs.com/labels/291931"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "277133",
+                    "name": "Greenpoint Studios",
+                    "resource_url": "https://api.discogs.com/labels/277133"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "661",
+                    "join": "",
+                    "name": "Bill Laswell",
+                    "role": "Bass",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "13227",
+                    "join": "",
+                    "name": "Robert Musso",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "CD PLANT MFG PS 08/49 CDM01"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "479",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "616",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "614",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PS 08/49",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "16679"
+        },
+        "notes": "Recorded at Greenpoint Brooklyn\n\nTRANSONIC\nNEW YORK 1994\n\nSpecial thanks to: Bill Laswell, Jeremy Probber, Peter Wetherbee, Layng Martine, Tracy McNight\n\nMade in Germany\n\nBack inlay and spine has black type on gold as opposed to the Fax sublabel's then standard gold type on black. This is the only release in the catalog that features this.\n\nLimited edition of 1,000 (not specified on the release).",
+        "released": "1994-07-04",
+        "styles": {
+            "style": [
+                "Downtempo",
+                "Dub"
+            ]
+        },
+        "title": "Downstream Illusion",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "7:27",
+                    "position": "1",
+                    "title": "Time Wave"
+                },
+                {
+                    "duration": "6:16",
+                    "position": "2",
+                    "title": "Low Space Monitor"
+                },
+                {
+                    "duration": "7:16",
+                    "position": "3",
+                    "title": "Time Span Zero"
+                },
+                {
+                    "duration": "9:23",
+                    "position": "4",
+                    "title": "Space After"
+                },
+                {
+                    "duration": "5:36",
+                    "position": "5",
+                    "title": "Over The Next Rise"
+                },
+                {
+                    "duration": "5:08",
+                    "position": "6",
+                    "title": "Dream To Dream"
+                },
+                {
+                    "duration": "8:52",
+                    "position": "7",
+                    "title": "Cascading Down Illusion"
+                },
+                {
+                    "duration": "4:11",
+                    "position": "8",
+                    "title": "Outerzone (Space After)"
+                },
+                {
+                    "duration": "5:02",
+                    "position": "9",
+                    "title": "Under Flow"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "448",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=O40hhH-ZsTA",
+                    "description": "Track 1 - Time Wave\nArtist : Transonic\nAlbum : Downstream Illusion\n1994 FAX +49-69/450464",
+                    "title": "Transonic - Time Wave (Downstream Illusion)"
+                },
+                {
+                    "_duration": "376",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=FRUCZ_NwblY",
+                    "description": "Track 2 - Low Space Monitor\nArtist : Transonic\nAlbum : Downstream Illusion\n1994 FAX +49-69/450464",
+                    "title": "Transonic - Low Space Monitor (Downstream Illusion)"
+                },
+                {
+                    "_duration": "437",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=aJGv33rdspo",
+                    "description": "Track 3 - Time Span Zero\nArtist : Transonic\nAlbum : Downstream Illusion\n1994 FAX +49-69/450464",
+                    "title": "Transonic - Time Span Zero (Downstream Illusion)"
+                },
+                {
+                    "_duration": "564",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=BxRtjqhMELw",
+                    "description": "Track 4 - Space After\nArtist : Transonic\nAlbum : Downstream Illusion\n1994 FAX +49-69/450464",
+                    "title": "Transonic - Space After (Downstream Illusion)"
+                },
+                {
+                    "_duration": "336",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=50nt4FlLc4s",
+                    "description": "Track 5 - Over The Next Rise\nArtist : Transonic\nAlbum : Downstream Illusion\n1994 FAX +49-69/450464",
+                    "title": "Transonic - Over The Next Rise (Downstream Illusion)"
+                },
+                {
+                    "_duration": "308",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=fnBMcKaY21I",
+                    "description": "Track 6 - Dream To Dream\nArtist : Transonic\nAlbum : Downstream Illusion\n1994 FAX +49-69/450464",
+                    "title": "Transonic - Dream To Dream (Downstream Illusion)"
+                },
+                {
+                    "_duration": "533",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=rFEAYAiX9aQ",
+                    "description": "Track 7 - Cascading Down Illusion\nArtist : Transonic\nAlbum : Downstream Illusion\n1994 FAX +49-69/450464",
+                    "title": "Transonic - Cascading Down Illusion (Downstream Illusion)"
+                },
+                {
+                    "_duration": "252",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=o6ka_2nMjdo",
+                    "description": "Track 8 - Outerzone (Space After)\nArtist : Transonic\nAlbum : Downstream Illusion\n1994 FAX +49-69/450464",
+                    "title": "Transonic - Outerzone (Space After) (Downstream Illusion)"
+                },
+                {
+                    "_duration": "302",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=D7jx7U9CtO4",
+                    "description": "Track 9 - Under Flow\nArtist : Transonic\nAlbum : Downstream Illusion\n1994 FAX +49-69/450464",
+                    "title": "Transonic - Under Flow (Downstream Illusion)"
+                }
+            ]
+        }
+    }
+}

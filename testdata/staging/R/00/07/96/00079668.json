@@ -1,0 +1,204 @@
+{
+    "release": {
+        "_id": "79668",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "30",
+                "join": "",
+                "name": "Groove Collective",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "US",
+        "data_quality": "Needs Vote",
+        "extraartists": "",
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "LSL 220",
+                "_id": "5432",
+                "_name": "Liquid Sound Lounge"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "false",
+            "content": "169358"
+        },
+        "notes": "B2 also exists on Naked Music EP (NM 004).",
+        "released": "1999",
+        "styles": {
+            "style": [
+                "Acid Jazz",
+                "Future Jazz",
+                "Deep House"
+            ]
+        },
+        "title": "Declassified",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "",
+                    "title": "Liquid Side"
+                },
+                {
+                    "duration": "3:51",
+                    "position": "A1",
+                    "title": "On A Feeling"
+                },
+                {
+                    "duration": "4:08",
+                    "position": "A2",
+                    "title": "End Transmission"
+                },
+                {
+                    "duration": "1:01",
+                    "position": "A3",
+                    "title": "Valiha"
+                },
+                {
+                    "duration": "1:10",
+                    "position": "A4",
+                    "title": "Sabrosona Reprise"
+                },
+                {
+                    "duration": "1:01",
+                    "position": "A5",
+                    "title": "Guararumba"
+                },
+                {
+                    "duration": "",
+                    "position": "",
+                    "title": "Lounge Side"
+                },
+                {
+                    "duration": "4:34",
+                    "position": "B1",
+                    "title": "Up All Night"
+                },
+                {
+                    "duration": "5:49",
+                    "position": "B2",
+                    "title": "Everything Is Changing"
+                },
+                {
+                    "duration": "4:24",
+                    "position": "B3",
+                    "title": "Undercover Life"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "254",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=-a_YSbBs3UI",
+                    "description": "",
+                    "title": "Groove Collective - End Transmission"
+                },
+                {
+                    "_duration": "347",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=687SJmaHuUk",
+                    "description": "The Turntable Series Presents ~\nArtist ~ Groove Collective ~\nSong ~ Everything Is Changing ~\nAlbum ~ Declassified ~",
+                    "title": "Groove Collective ~ Everything Is Changing"
+                },
+                {
+                    "_duration": "209",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=hvfyC-8L_44",
+                    "description": "",
+                    "title": "Martha My Dear - Groove Collective"
+                },
+                {
+                    "_duration": "277",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=9RfC2VWhS3M",
+                    "description": "NU JAZZ / FUNK from the 1999 album 'DECLASSIFIED'",
+                    "title": "GROOVE COLLECTIVE - Up all Night"
+                },
+                {
+                    "_duration": "233",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=1MVKTAgsCz4",
+                    "description": "Provided to YouTube by Ingrooves\n\nOn A Feeling · Groove Collective\n\nDeclassified\n\n℗ 1999 Shanachie\n\nReleased on: 1999-07-20\n\nWriter: Jonathan Maron\nWriter: Genji Siraisi\nWriter: Gordon Nappy G Clay\n\nAuto-generated by YouTube.",
+                    "title": "On A Feeling"
+                },
+                {
+                    "_duration": "66",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=pdV2dTWeYm8",
+                    "description": "Provided to YouTube by Ingrooves\n\nValiha · Groove Collective\n\nDeclassified\n\n℗ 1999 Shanachie\n\nReleased on: 1999-07-20\n\nWriter: Jonathan Maron\nWriter: Genji Siraisi\nWriter: Chris Theberge\n\nAuto-generated by YouTube.",
+                    "title": "Valiha"
+                },
+                {
+                    "_duration": "71",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=YuLdgFVy280",
+                    "description": "Provided to YouTube by Ingrooves\n\nSabrosona (Reprise) · Groove Collective\n\nDeclassified\n\n℗ 1999 Shanachie\n\nReleased on: 1999-07-20\n\nComposer, Writer: Jay Rodriguez\nComposer, Writer: Eddie Bobe\n\nAuto-generated by YouTube.",
+                    "title": "Sabrosona (Reprise)"
+                },
+                {
+                    "_duration": "63",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=rI5QQITZKkc",
+                    "description": "Provided to YouTube by Ingrooves\n\nGuara Rumba · Groove Collective\n\nDeclassified\n\n℗ 1999 Shanachie\n\nReleased on: 1999-07-20\n\nWriter: Gordon Nappy G Clay\nWriter: Chris Theberge\n\nAuto-generated by YouTube.",
+                    "title": "Guara Rumba"
+                },
+                {
+                    "_duration": "266",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=ZYMt16nRIsI",
+                    "description": "Provided to YouTube by Ingrooves\n\nUndercover Life · Groove Collective\n\nDeclassified\n\n℗ 1999 Shanachie\n\nReleased on: 1999-07-20\n\nWriter: Jonathan Maron\nWriter: Genji Siraisi\nWriter: Gordon Nappy G Clay\n\nAuto-generated by YouTube.",
+                    "title": "Undercover Life"
+                }
+            ]
+        }
+    }
+}

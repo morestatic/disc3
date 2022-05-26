@@ -1,0 +1,197 @@
+{
+    "release": {
+        "_id": "16573",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "5279",
+                "join": "",
+                "name": "Air (2)",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": {
+                "catno": "15867",
+                "entity_type": "10",
+                "entity_type_name": "Manufactured By",
+                "id": "277449",
+                "name": "P+O Pallas",
+                "resource_url": "https://api.discogs.com/labels/277449"
+            }
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": "",
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_type": "Matrix / Runout",
+                "_value": "PK 08/54 P+O-15867-A2 03-93"
+            }
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "465",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/54",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "183501"
+        },
+        "notes": "YOU ARE THE AIR\r\n\r\nThe story of two people searching for each other.\r\n\r\nNo compromise - The holy grail\r\n\r\nNeverending fascination ... Passion\r\n\r\nPete Namlook\r\nFRANKFURT 1993\r\n\r\nSpecial thanks to:\r\n\r\nAlexa Spielmann - Sopran\r\nKathrin Kruse - Flute\r\n\r\nMartin Haas / Robert Sattler / Arthur / Lieven / Hassel / Christian / Amir / Pascal / Alex / Elisabeth / Fabia / Emil Fuhrmann / Bernhard Eis\r\n\r\nLimitation: 500",
+        "released": "1993-03-29",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Downtempo",
+                "Experimental"
+            ]
+        },
+        "title": "Air",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "",
+                    "title": "You 60:00"
+                },
+                {
+                    "duration": "7:53",
+                    "position": "1",
+                    "title": "Wind"
+                },
+                {
+                    "duration": "4:35",
+                    "position": "2",
+                    "title": "1st Impression"
+                },
+                {
+                    "duration": "0:39",
+                    "position": "3",
+                    "title": "Breeze"
+                },
+                {
+                    "duration": "7:35",
+                    "position": "4",
+                    "title": "Je Suis Triste Et Seul Ici"
+                },
+                {
+                    "duration": "3:12",
+                    "position": "5",
+                    "title": "Spiritual Invocation"
+                },
+                {
+                    "duration": "11:41",
+                    "position": "6",
+                    "title": "Arc"
+                },
+                {
+                    "duration": "2:55",
+                    "position": "7",
+                    "title": "Mystical Appearance"
+                },
+                {
+                    "duration": "9:30",
+                    "position": "8",
+                    "title": "Chaque Ligne De Ta Peau Fut Aimée"
+                },
+                {
+                    "duration": "12:04",
+                    "position": "9",
+                    "title": "Lost In Passion"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "727",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Us1bbABikFA",
+                    "description": "Air - Arc  (1993)\n\nAlbum: Air (2) ‎– Air\nSello: Fax +49-69/450464 ‎– PK 08/54\nFormato: CD, Album, Limited Edition\nPaís: Germany\nPublicado: 29 Mar 1993\nGénero: Electronic\nEstilo: Ambient, Downtempo, Experimental\n\n        Written By -- Peter Kuhlm",
+                    "title": "Air - Arc  (1993)"
+                },
+                {
+                    "_duration": "506",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=cp-x8q71hVI",
+                    "description": "Air - Je Suis Triste Et Seul Ici  (1993)\n\nAir - Estoy Triste y Solo Aquí\n\nAlbum:  Air (2) - Air\nSello: Fax +49-69/450464 ‎– PK 08/54\nFormato: CD, Album, Limited Edition\nPaís: Germany\nPublicado: 29 Mar 1993\nGénero: Electronic\nEstilo: Ambient, Downte",
+                    "title": "Air - Je Suis Triste Et Seul Ici  (1993)"
+                },
+                {
+                    "_duration": "3601",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=tuNE4Pfttpg",
+                    "description": "Artist: Pete Namlook\nAlbum: Air\nLabel: Fax +49-69/450464\nYear: 1993\n\nTracklist:\n1. Wind [0:00]\n2. 1st Impression [7:53]\n3. Breeze [12:29]\n4. Je Suis Triste Et Seul Ici [13:07]\n5. Spiritual Invocation [20:41]\n6. Arc [23:53]\n7. Mystical Appearance [35:34]\n8",
+                    "title": "Pete Namlook - Air (Full Album) [1993]"
+                }
+            ]
+        }
+    }
+}

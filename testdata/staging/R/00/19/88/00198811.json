@@ -1,0 +1,199 @@
+{
+    "release": {
+        "_id": "198811",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "60",
+                "join": "",
+                "name": "Pete Moss",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "UK",
+        "data_quality": "Correct",
+        "extraartists": "",
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "2",
+                "_text": "",
+                "descriptions": {
+                    "description": "LP"
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "598",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "599"
+                },
+                {
+                    "_height": "598",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "598",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "ALO LP008",
+                "_id": "93",
+                "_name": "Alola"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "144154"
+        },
+        "released": "2003-00-00",
+        "styles": {
+            "style": [
+                "House",
+                "Deep House",
+                "Tech House"
+            ]
+        },
+        "title": "In Your Dreams",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A1",
+                    "title": "Give You Love"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "38508",
+                            "join": "",
+                            "name": "Denise De La Cruz",
+                            "role": "Vocals",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "A2",
+                    "title": "Lookin' 4 Love"
+                },
+                {
+                    "duration": "",
+                    "position": "B1",
+                    "title": "In Your Dreams"
+                },
+                {
+                    "duration": "",
+                    "position": "B2",
+                    "title": "Right On"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "99355",
+                            "join": "",
+                            "name": "Erica Stone",
+                            "role": "Vocals",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "C1",
+                    "title": "Strive To Live"
+                },
+                {
+                    "duration": "",
+                    "position": "C2",
+                    "title": "Patience"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "21474",
+                            "join": "",
+                            "name": "Terra Deva",
+                            "role": "Vocals",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "D1",
+                    "title": "Those Days"
+                },
+                {
+                    "duration": "",
+                    "position": "D2",
+                    "title": "Mixed Messages"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "415",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=KWUd1-pbzmM",
+                    "description": "Alola Records - 2003",
+                    "title": "Pete Moss - In Your Dreams"
+                },
+                {
+                    "_duration": "418",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=KGMGKI2BQ3I",
+                    "description": "i can't find the orginal mix here in youtube, so... \r\nnice tune, i used to listen to it all night long by the seaside..enjoy\r\n\r\n\r\nPete Moss - Strive To Live\r\nLabel:Alola\r\nCatalog#:ALO 052\r\nFormat:Vinyl, 12\r\nCountry:UK\r\nReleased:2003\r\nGenre:Electronic\r\nSt",
+                    "title": "Pete Moss - Strive To Live (orginal mix)"
+                },
+                {
+                    "_duration": "361",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=njqOc5RVN4E",
+                    "description": "Pete Moss ‎– In Your Dreams\nLabel:\nAlola ‎– ALO LP008\nFormat:\n2 × Vinyl, LP \nCountry:\nUK\nReleased:\n2003\nGenre:\nElectronic\nStyle:\nHouse, Deep House, Tech House",
+                    "title": "Pete Moss - Patience (Original Mix)"
+                }
+            ]
+        }
+    }
+}

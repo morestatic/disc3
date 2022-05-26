@@ -1,0 +1,204 @@
+{
+    "release": {
+        "_id": "132282",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "265",
+                "join": "",
+                "name": "Julius Papp \u0026 Dave Warrin",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "US",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "40",
+                    "join": "",
+                    "name": "Dave Warrin",
+                    "role": "Keyboards",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "265",
+                    "join": "",
+                    "name": "Julius Papp \u0026 Dave Warrin",
+                    "role": "Producer, Written-By, Arranged By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "480846",
+                    "join": "",
+                    "name": "Breze",
+                    "role": "Vocals",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "Misprint"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "IR-PLT 013",
+                "_id": "10195",
+                "_name": "Plate"
+            }
+        },
+        "notes": "Julius Papp's name spelled incorrectly as \"Juilus\" on Side A",
+        "released": "2003",
+        "styles": {
+            "style": [
+                "House",
+                "Deep House"
+            ]
+        },
+        "title": "Feel You",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "700",
+                            "join": "",
+                            "name": "Mark Grant",
+                            "role": "Remix, Producer [Additional]",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "A1",
+                    "title": "Feel You (Mark Grant Remix)"
+                },
+                {
+                    "duration": "",
+                    "position": "A2",
+                    "title": "Feel You (Tender Moments Version)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "4633",
+                                "join": "",
+                                "name": "Hanna",
+                                "role": "Remix",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "Warren Harris A/K/A Hanna",
+                                "id": "172864",
+                                "join": "",
+                                "name": "Warren Harris",
+                                "role": "Remix [Credited To], Producer [Additional]",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "B1",
+                    "title": "Feel You (Hanna's \"Designer Feel For You\" Remix)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "4633",
+                                "join": "",
+                                "name": "Hanna",
+                                "role": "Remix",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "Warren Harris A/K/A Hanna",
+                                "id": "172864",
+                                "join": "",
+                                "name": "Warren Harris",
+                                "role": "Remix [Credited To], Producer [Additional]",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "B2",
+                    "title": "Feel You (Hanna's \"Deep Down Feel\" Remix)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "371",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=WziNWHKmb1I",
+                    "description": "Julius Papp \u0026 Dave Warrin - Feel You (Mark Grant Remix)",
+                    "title": "Julius Papp \u0026 Dave Warrin - Feel You (Mark Grant Remix)"
+                },
+                {
+                    "_duration": "374",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=I-XT-dTq3r4",
+                    "description": "(i! Records) US 1998",
+                    "title": "Julius Papp \u0026 Dave Warrin: Feel You (Tender Moments)"
+                },
+                {
+                    "_duration": "355",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=0OSYuuzN6gI",
+                    "description": "https://www.discogs.com/Julius-Papp-Dave-Warrin-Feel-You/release/132282\n\n\n\n\nPlate Records.",
+                    "title": "Julius Papp \u0026 Dave Warrin – Feel You (Hanna's Designer Feel For You Remix) [Feel You, 2003]"
+                },
+                {
+                    "_duration": "327",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=p3qYfuUycp0",
+                    "description": "https://www.discogs.com/Julius-Papp-Dave-Warrin-Feel-You/release/132282\n\n\n\n\nPlate Records.",
+                    "title": "Julius Papp \u0026 Dave Warrin – Feel You (Hanna's Deep Down Feel Remix) [Feel You, 2003]"
+                }
+            ]
+        }
+    }
+}

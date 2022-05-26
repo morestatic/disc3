@@ -1,0 +1,256 @@
+{
+    "release": {
+        "_id": "38243",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "29599",
+                "join": "",
+                "name": "The Dark Side Of The Moog",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "265012",
+                    "name": "Klanglabor Hödeshof",
+                    "resource_url": "https://api.discogs.com/labels/265012"
+                },
+                {
+                    "catno": "56431",
+                    "entity_type": "17",
+                    "entity_type_name": "Pressed By",
+                    "id": "277449",
+                    "name": "P+O Pallas",
+                    "resource_url": "https://api.discogs.com/labels/277449"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "2118078",
+                    "join": "",
+                    "name": "PEK (3)",
+                    "role": "Graphics",
+                    "tracks": ""
+                },
+                {
+                    "anv": "grafik@pixelpanzer.com",
+                    "id": "2022694",
+                    "join": "",
+                    "name": "Andre Ruello",
+                    "role": "Graphics [Booklet Inside Graphics]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "58657",
+                    "join": "",
+                    "name": "Peter Kuhlmann",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "39678",
+                    "join": "",
+                    "name": "Jenny Gibbert",
+                    "role": "Vocals",
+                    "tracks": "1.5"
+                },
+                {
+                    "anv": "",
+                    "id": "10360",
+                    "join": "",
+                    "name": "Klaus Schulze",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Barcode",
+                    "_value": "8 07297 02152 3"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "PK 08/163 P+O-56431-A2 05-02"
+                },
+                {
+                    "_type": "Mastering SID Code",
+                    "_value": "IFPI L962"
+                },
+                {
+                    "_type": "Mould SID Code",
+                    "_value": "IFPI 3J01"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "594",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "471",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "596",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "597",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "596",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "590"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/163",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "14032"
+        },
+        "notes": "Recorded at Klanglabor, Traben-Trarbach.\n\nLimitation: 3000.\n\nMade in Germany\n\nDuration of sub-tracks was taken from cd-player.",
+        "released": "2002-05-10",
+        "styles": {
+            "style": [
+                "Electro",
+                "Experimental",
+                "Ambient"
+            ]
+        },
+        "title": "The Dark Side Of The Moog IX",
+        "tracklist": {
+            "track": {
+                "duration": "54:32",
+                "position": "",
+                "sub_tracks": {
+                    "track": [
+                        {
+                            "duration": "19:27",
+                            "position": "1",
+                            "title": "Part I"
+                        },
+                        {
+                            "duration": "4:28",
+                            "position": "2",
+                            "title": "Part II"
+                        },
+                        {
+                            "duration": "12:17",
+                            "position": "3",
+                            "title": "Part III"
+                        },
+                        {
+                            "duration": "1:30",
+                            "position": "4",
+                            "title": "Part IV"
+                        },
+                        {
+                            "duration": "11:42",
+                            "position": "5",
+                            "title": "Part V"
+                        },
+                        {
+                            "duration": "5:08",
+                            "position": "6",
+                            "title": "Part VI"
+                        }
+                    ]
+                },
+                "title": "Set The Controls For The Heart Of The Mother"
+            }
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "739",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=ETCyo4G29F4",
+                    "description": "Klaus Schulze \u0026 Pete Namlook - Set The Controls For The Heart of The Mother Part III\nPlaylist: https://tinyurl.com/y4nuslcr",
+                    "title": "Klaus Schulze \u0026 Pete Namlook - Set The Controls For The Heart of The Mother Part III"
+                },
+                {
+                    "_duration": "3273",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Wsa3gMyTpXc",
+                    "description": "The Dark Side Of The Moog 9.",
+                    "title": "Klaus Schulze \u0026 Pete Namlook - Set the Controls for the Heart of the Mother"
+                }
+            ]
+        }
+    }
+}

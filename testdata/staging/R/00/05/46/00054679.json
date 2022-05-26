@@ -1,0 +1,135 @@
+{
+    "release": {
+        "_id": "54679",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "429",
+                "join": "",
+                "name": "The Rip-Off Artist",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "US",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "Grazz",
+                    "id": "399393",
+                    "join": "",
+                    "name": "Graeme Durham",
+                    "role": "Mastered By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "M. Haines",
+                    "id": "48570",
+                    "join": "",
+                    "name": "Matt Haines",
+                    "role": "Producer, Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "EP"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "599",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "598",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PAL022",
+                "_id": "30",
+                "_name": "Palette Recordings"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "1254813"
+        },
+        "released": "2002",
+        "styles": {
+            "style": [
+                "Abstract",
+                "Techno"
+            ]
+        },
+        "title": "Copper Blue EP",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A1",
+                    "title": "Mercury... Is That A Metal?"
+                },
+                {
+                    "duration": "",
+                    "position": "A2",
+                    "title": "Au"
+                },
+                {
+                    "duration": "",
+                    "position": "B1",
+                    "title": "Ti"
+                },
+                {
+                    "duration": "",
+                    "position": "B2",
+                    "title": "Tc"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "327",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=0MbqH9k4DuU",
+                    "description": "",
+                    "title": "The Rip-Off Artist - Au"
+                },
+                {
+                    "_duration": "324",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=2ckitToq7W4",
+                    "description": "",
+                    "title": "The Rip-Off Artist - Mercury... Is That A Metal?"
+                }
+            ]
+        }
+    }
+}

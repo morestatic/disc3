@@ -1,0 +1,144 @@
+{
+    "release": {
+        "_id": "8365",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "61",
+                "join": "",
+                "name": "John Tejada \u0026 Arian Leviste",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "9",
+                    "entity_type_name": "Distributed By",
+                    "id": "199013",
+                    "name": "Integrale Muzique Limited",
+                    "resource_url": "https://api.discogs.com/labels/199013"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "314115",
+                    "name": "Parallax Muzik",
+                    "resource_url": "https://api.discogs.com/labels/314115"
+                }
+            ]
+        },
+        "country": "US",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "2591950",
+                "join": "",
+                "name": "Chris Woodcock (2)",
+                "role": "Photography By",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "12\""
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_type": "Rights Society",
+                "_value": "BMI"
+            }
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "337",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "340"
+                },
+                {
+                    "_height": "338",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "340"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PAL-14",
+                "_id": "30",
+                "_name": "Palette Recordings"
+            }
+        },
+        "released": "2000",
+        "styles": {
+            "style": "Tech House"
+        },
+        "title": "Firefly",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "",
+                    "title": "Top Side"
+                },
+                {
+                    "duration": "",
+                    "position": "A",
+                    "title": "Firefly"
+                },
+                {
+                    "duration": "",
+                    "position": "",
+                    "title": "Bottom Side"
+                },
+                {
+                    "duration": "",
+                    "position": "B1",
+                    "title": "10 Cents Short Of Nothing"
+                },
+                {
+                    "duration": "",
+                    "position": "B2",
+                    "title": "Swipe"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "311",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=YHtu42jNNh0",
+                    "description": "",
+                    "title": "John Tejada\u0026Aria Leviste - Firefly"
+                },
+                {
+                    "_duration": "327",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=6V7U97GqjAE",
+                    "description": "John Tejada \u0026 Arian Leviste- 10 Cents Short Of Nothing (Palette 014)",
+                    "title": "John Tejada \u0026 Arian Leviste- 10 Cents Short Of Nothing"
+                }
+            ]
+        }
+    }
+}

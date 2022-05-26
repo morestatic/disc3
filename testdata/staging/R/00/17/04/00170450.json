@@ -1,0 +1,408 @@
+{
+    "release": {
+        "_id": "170450",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "194",
+                "join": "",
+                "name": "Various",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "Canada",
+        "data_quality": "Needs Vote",
+        "extraartists": "",
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Compilation",
+                        "Reissue"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Printed",
+                    "_type": "Barcode",
+                    "_value": "6 17465 60072 2"
+                },
+                {
+                    "_description": "Scanned",
+                    "_type": "Barcode",
+                    "_value": "0617465600722"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "596",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "510"
+                },
+                {
+                    "_height": "604",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "TRB60072",
+                "_id": "242",
+                "_name": "Turbo"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "false",
+            "content": "4337"
+        },
+        "notes": "Reissue of original [url=http://www.discogs.com/release/2947]release[/url].",
+        "released": "2001",
+        "styles": {
+            "style": [
+                "Electro",
+                "Deep House",
+                "Tech House"
+            ]
+        },
+        "title": "Turbo Studio Sessions Vol. 2",
+        "tracklist": {
+            "track": [
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1538",
+                            "join": "",
+                            "name": "Thomas Schumacher",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "3:22",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "43949",
+                            "join": "",
+                            "name": "Kaori",
+                            "role": "Featuring",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "1",
+                    "title": "Good Life"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "671",
+                            "join": "",
+                            "name": "Brommage Dub",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:56",
+                    "position": "2",
+                    "title": "Disolving Cities (Dub)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1548",
+                            "join": "",
+                            "name": "Shawn Ward",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:51",
+                    "position": "3",
+                    "title": "Cruiseship"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1547",
+                            "join": "",
+                            "name": "Snaporaz",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "3:16",
+                    "position": "4",
+                    "title": "She Said"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "3584",
+                            "join": "",
+                            "name": "Hijack",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:35",
+                    "position": "5",
+                    "title": "The Teaser"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "739",
+                            "join": "",
+                            "name": "Jori Hulkkonen",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "8:12",
+                    "position": "6",
+                    "title": "Whispers (Extended Dance Version)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1356",
+                            "join": "",
+                            "name": "Joel Mull",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:53",
+                    "position": "7",
+                    "title": "Don't Go"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1360",
+                            "join": "",
+                            "name": "Adam Beyer",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:24",
+                    "position": "8",
+                    "title": "Those Funny Moments"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "50",
+                            "join": "",
+                            "name": "ADNY",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:12",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "1356",
+                                "join": "",
+                                "name": "Joel Mull",
+                                "role": "Remix",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "1617",
+                                "join": "",
+                                "name": "Steve Rachmad",
+                                "role": "Remix",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "9",
+                    "title": "Never Leave You (Mull \u0026 Rachmad Remix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1542",
+                            "join": "",
+                            "name": "FPU",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "4:50",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1543",
+                            "join": "",
+                            "name": "Tiga",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "10",
+                    "title": "Crockett's Theme (Tiga's White Linen Instrumental)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "232",
+                            "join": "",
+                            "name": "Swayzak",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:40",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "1399",
+                                "join": "",
+                                "name": "Kirsty Hawkshaw",
+                                "role": "Featuring",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "5055",
+                                "join": "",
+                                "name": "Silicon Scally",
+                                "role": "Remix",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "11",
+                    "title": "State Of Grace (Silicon Scally Remix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1161583",
+                            "join": "",
+                            "name": "The Vandal (3)",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "5:49",
+                    "position": "12",
+                    "title": "New Year's Day"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "676",
+                            "join": "",
+                            "name": "Peter Benisch",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "6:56",
+                    "position": "13",
+                    "title": "Love Theme"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "277",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=2XwAR0roBf8",
+                    "description": "Hijack -- The Teaser\n\nVarious ‎-- Turbo Studio Sessions Vol. 2\nHijack -- The Teaser\n\nLabel: Turbo ‎-- TURBO-007\nFormat: 2 × Vinyl, LP, White Label, Promo \nCountry: Canada\nReleased: 2001",
+                    "title": "Hijack -- The Teaser"
+                },
+                {
+                    "_duration": "291",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=ld2xKxFjTVg",
+                    "description": "Joel Mull - Don't Go - Turbo Studio Sessions Vol. 2\n\nre-upload\n\nhttp://www.discogs.com/Various-Turbo-Studio-Sessions-Vol-2/release/8009\nhttp://www.discogs.com/sell/list?release_id=8009\u0026ev=rb\nhttp://www.insiderecords.net/\nhttp://www.turborecordings.com/",
+                    "title": "Joel Mull - Don't Go - Turbo Studio Sessions Vol. 2 (2001)"
+                },
+                {
+                    "_duration": "270",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=S8OmNQaLOAI",
+                    "description": "Jori Hulkkonen - Whispers (Original Mix) [F Communications, 2000]",
+                    "title": "Jori Hulkkonen - Whispers (Original Mix) [F Communications, 2000]"
+                },
+                {
+                    "_duration": "304",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=58oeXCIFXj4",
+                    "description": "Adam Beyer - Those Funny Moments - Ignition Key \nReleased on Truesoul (TRUECD01) 25 Sept 2002.\n\nCredits:\nWritten \u0026 Produced By - Adam Beyer\n\nRelease/Liner Notes:\nIn memory of my father, Thomas Beyer. Rest in peace.\n\n'Stay true to your soul' \n\nre-upload\n\nh",
+                    "title": "Adam Beyer - Those Funny Moments (TRUECD01)"
+                },
+                {
+                    "_duration": "289",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=5H6eEq4_F2I",
+                    "description": "FPU - Crockett's Theme (Tiga's White Linen Instrumental)\n\nhttp://www.discogs.com/Various-Turbo-Studio-Sessions-Vol2/release/2947\nhttp://www.discogs.com/sell/list?release_id=2947\u0026ev=rb",
+                    "title": "FPU - Crockett's Theme (Tiga's White Linen Instrumental)"
+                },
+                {
+                    "_duration": "336",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=O2XuoVWrcgU",
+                    "description": "Label:\r\nSwayzak Recordings -- SWZ012\r\nFormat:\r\nVinyl, 12\r\nCountry:\r\nUK\r\nReleased:\r\n2003\r\nGenre:\r\nElectronic\r\nStyle:\r\nElectro, Tech House",
+                    "title": "Swayzak - State Of Grace (Silicon Scally Rework) A2"
+                },
+                {
+                    "_duration": "350",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=_IxE-tJPgVQ",
+                    "description": "Written by U2. Produced by Jori Hulkkonen and Tiga Sontag.\nFrom Turbo Studio Sessions (Vol. 2)\n© Turbo Recordings Inc. 2001\n\nhttp://tiga.ca\nhttp://jorihulkkonen.com\nhttp://shop-turbo.com",
+                    "title": "The Vandal aka Tiga \u0026 Zyntherius - New Year's Day"
+                }
+            ]
+        }
+    }
+}

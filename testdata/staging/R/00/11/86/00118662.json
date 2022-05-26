@@ -1,0 +1,192 @@
+{
+    "release": {
+        "_id": "118662",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "60",
+                "join": "",
+                "name": "Pete Moss",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "93",
+                    "name": "Alola",
+                    "resource_url": "https://api.discogs.com/labels/93"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "93",
+                    "name": "Alola",
+                    "resource_url": "https://api.discogs.com/labels/93"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "272756",
+                    "name": "Alola Music",
+                    "resource_url": "https://api.discogs.com/labels/272756"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "269220",
+                    "name": "Westbury Music Ltd.",
+                    "resource_url": "https://api.discogs.com/labels/269220"
+                }
+            ]
+        },
+        "country": "UK",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "JD",
+                    "id": "366507",
+                    "join": "",
+                    "name": "John Davis (4)",
+                    "role": "Mastered By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "60",
+                    "join": "",
+                    "name": "Pete Moss",
+                    "role": "Producer, Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Text",
+                    "_type": "Barcode",
+                    "_value": "8 00505 1171 3"
+                },
+                {
+                    "_description": "Scanned",
+                    "_type": "Barcode",
+                    "_value": "80050511713"
+                },
+                {
+                    "_description": "Runout etched, side A",
+                    "_type": "Matrix / Runout",
+                    "_value": "ALO 48 A1 JD"
+                },
+                {
+                    "_description": "Runout etched, side B",
+                    "_type": "Matrix / Runout",
+                    "_value": "ALO 48 B1"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "596",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "598",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "ALO 048",
+                "_id": "93",
+                "_name": "Alola"
+            }
+        },
+        "released": "2003-02-00",
+        "styles": {
+            "style": [
+                "Deep House",
+                "Tribal House",
+                "Tech House"
+            ]
+        },
+        "title": "Give U Love",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "6:41",
+                    "position": "A",
+                    "title": "Give U Love"
+                },
+                {
+                    "duration": "6:03",
+                    "position": "B1",
+                    "title": "Patience"
+                },
+                {
+                    "duration": "6:52",
+                    "position": "B2",
+                    "title": "In Your Dreams"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "415",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=KWUd1-pbzmM",
+                    "description": "Alola Records - 2003",
+                    "title": "Pete Moss - In Your Dreams"
+                },
+                {
+                    "_duration": "398",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=UxqYIRakHg8",
+                    "description": "Label:\nAlola ‎– ALO 048\nFormat:\nVinyl, 12\nCountry:\nUK\nReleased:\nFeb 2003\nGenre:\nElectronic",
+                    "title": "Pete Moss - Give Your Love"
+                },
+                {
+                    "_duration": "358",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=rxaQxQQeFuM",
+                    "description": "Provided to YouTube by IIP-DDS\n\nPatience · Pete Moss\n\nIn Your Dreams\n\n℗ Alola Records\n\nReleased on: 2013-03-18\n\nArtist: Pete Moss\n\nAuto-generated by YouTube.",
+                    "title": "Patience"
+                }
+            ]
+        }
+    }
+}

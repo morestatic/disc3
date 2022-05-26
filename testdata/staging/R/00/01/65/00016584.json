@@ -1,0 +1,307 @@
+{
+    "release": {
+        "_id": "16584",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "2907",
+                "join": "",
+                "name": "Escape",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": {
+                "catno": "",
+                "entity_type": "31",
+                "entity_type_name": "Glass Mastered At",
+                "id": "291931",
+                "name": "CD Plant MFG",
+                "resource_url": "https://api.discogs.com/labels/291931"
+            }
+        },
+        "country": "Germany",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "8521",
+                    "join": "",
+                    "name": "Dr. Atmo",
+                    "role": "Written-By",
+                    "tracks": "1-1, 1-2, 1-4 to 2-9"
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": [
+                {
+                    "_name": "CD",
+                    "_qty": "1",
+                    "_text": "",
+                    "descriptions": {
+                        "description": [
+                            "Album",
+                            "Compilation",
+                            "Limited Edition",
+                            "Partially Mixed"
+                        ]
+                    }
+                },
+                {
+                    "_name": "CD",
+                    "_qty": "1",
+                    "_text": "",
+                    "descriptions": {
+                        "description": "Limited Edition"
+                    }
+                }
+            ]
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "CD I",
+                    "_type": "Matrix / Runout",
+                    "_value": "CD PLANT MFG PK08/87 CD1 CDM01"
+                },
+                {
+                    "_description": "CD II",
+                    "_type": "Matrix / Runout",
+                    "_value": "CD PLANT MFG PK08/87 CD2 CDM02"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "595",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "463",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "602",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "602",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "603",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "593",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "591",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "464",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/87",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Is that right ?\n\nESCAPE\nFRANKFURT 1994\n\nSpecial thanks from Dr. Atmo to:\nMadar and Pedaram\nMirella my venus\nOmid, Parinaz, Nazpari\n\nSpecial thanks from Pete Namlook to:\nElisabeth / Fabia\nMixmaster Morris / Amy\nLars Müller / Herbert Horneck\nTurgay of Turgay Audio\nLudwig Rehberg of EMS\n\nThe tracklisting for the second CD only states one title, \"The Futurescape, Part 1 - 9\", which is spread over 9 tracks.\nThe listed durations were taken from the discs' table of contents.\n\nLimitation: 1000",
+        "released": "1994-03-10",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Hard Trance"
+            ]
+        },
+        "title": "Escape",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "8:27",
+                    "position": "1-1",
+                    "title": "Escape To Earth"
+                },
+                {
+                    "duration": "5:41",
+                    "position": "1-2",
+                    "title": "Escape To Mars"
+                },
+                {
+                    "duration": "6:14",
+                    "position": "1-3",
+                    "title": "Escape To Neptune"
+                },
+                {
+                    "duration": "6:41",
+                    "position": "1-4",
+                    "title": "Escape To Polaris"
+                },
+                {
+                    "duration": "5:37",
+                    "position": "1-5",
+                    "title": "Trip To Mars"
+                },
+                {
+                    "duration": "5:28",
+                    "position": "1-6",
+                    "title": "Trip From Mars"
+                },
+                {
+                    "duration": "17:53",
+                    "position": "1-7",
+                    "title": "Atmosphere Processor"
+                },
+                {
+                    "duration": "7:55",
+                    "position": "1-8",
+                    "title": "Trip To Polaris"
+                },
+                {
+                    "duration": "57:46",
+                    "position": "",
+                    "sub_tracks": {
+                        "track": [
+                            {
+                                "duration": "5:22",
+                                "position": "2-1",
+                                "title": "The Futurescape (Part 1)"
+                            },
+                            {
+                                "duration": "9:48",
+                                "position": "2-2",
+                                "title": "The Futurescape (Part 2)"
+                            },
+                            {
+                                "duration": "5:39",
+                                "position": "2-3",
+                                "title": "The Futurescape (Part 3)"
+                            },
+                            {
+                                "duration": "1:21",
+                                "position": "2-4",
+                                "title": "The Futurescape (Part 4)"
+                            },
+                            {
+                                "duration": "2:28",
+                                "position": "2-5",
+                                "title": "The Futurescape (Part 5)"
+                            },
+                            {
+                                "duration": "2:34",
+                                "position": "2-6",
+                                "title": "The Futurescape (Part 6)"
+                            },
+                            {
+                                "duration": "10:18",
+                                "position": "2-7",
+                                "title": "The Futurescape (Part 7)"
+                            },
+                            {
+                                "duration": "11:43",
+                                "position": "2-8",
+                                "title": "The Futurescape (Part 8)"
+                            },
+                            {
+                                "duration": "8:27",
+                                "position": "2-9",
+                                "title": "The Futurescape (Part 9)"
+                            }
+                        ]
+                    },
+                    "title": "The Futurescape"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "509",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=p_i3fqqsKCo",
+                    "description": "Pete Namlook and Dr Atmo\r\nEscape To Earth\r\nFax Records\r\n1994\r\n(Also released on Trance Europe Express 2)",
+                    "title": "Pete Namlook's Escape Escape To Earth"
+                },
+                {
+                    "_duration": "367",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Zn7QXnig6xA",
+                    "description": "Label: Sapho  \r\nCatalog#: SAPH 17  \r\nFormat: Vinyl, 12\r\n \r\nCountry: UK \r\nReleased: 1993 \r\nGenre: Electronic  \r\nStyle: Abstract, Techno, Ambient  \r\nCredits: Composed By - Pete Namlook  \r\nNotes: Produced At Sonic Studios Frankfurt For Namlook Productions.",
+                    "title": "Escape - Escape To Neptune"
+                },
+                {
+                    "_duration": "396",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=WPjYI47gS_s",
+                    "description": "Label: Sapho\r\nCatalog#: SAPH 24\r\nFormat: Vinyl, 12\r\n\r\nCountry: UK\r\nReleased: 1993\r\nGenre: Electronic \r\nStyle: Techno, Experimental, Ambient\r\n\r\nWritten-By - Dr. Atmo , Pete Namlook\r\n\r\nLicensed from FAX +49 69 / 450464 \r\n(C)(P) Sapho Records LTD 1993",
+                    "title": "Escape - Escape To Polaris"
+                },
+                {
+                    "_duration": "3840",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=x5Ud4qw_PNg",
+                    "description": "Pete Namlook is an ambient and electronic-music producer and composer. In 1992, he founded the German record label FAX +49-69/450464, which he oversees. Inspired by the music of Eberhard Weber, Miles Davis, Antonio Carlos Jobim, Chopin, Wendy Carlos, Tang",
+                    "title": "Pete Namlook \u0026 Dr Atmo - Escape (Volume One)"
+                },
+                {
+                    "_duration": "3464",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=7Wbq_kab9z4",
+                    "description": "In its 1990's heyday the post-dance ambient label Fax Records attracted some of the most gifted e-musicians in the world. The German DJ and composer Dr. Atmo (real name Amir Abadi) was one of Fax's brightest talents. He was fairly prolific and usually col",
+                    "title": "Pete Namlook \u0026 Dr Atmo - Escape (Volume Two)"
+                }
+            ]
+        }
+    }
+}

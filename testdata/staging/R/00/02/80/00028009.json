@@ -1,0 +1,287 @@
+{
+    "release": {
+        "_id": "28009",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "5511",
+                "join": "",
+                "name": "Slacker",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "9",
+                    "entity_type_name": "Distributed By",
+                    "id": "22328",
+                    "name": "Warner Music UK Ltd.",
+                    "resource_url": "https://api.discogs.com/labels/22328"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "5",
+                    "entity_type_name": "Licensed To",
+                    "id": "160",
+                    "name": "XL Recordings",
+                    "resource_url": "https://api.discogs.com/labels/160"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "40",
+                    "name": "Loaded Records",
+                    "resource_url": "https://api.discogs.com/labels/40"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "160",
+                    "name": "XL Recordings",
+                    "resource_url": "https://api.discogs.com/labels/160"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "160",
+                    "name": "XL Recordings",
+                    "resource_url": "https://api.discogs.com/labels/160"
+                },
+                {
+                    "catno": "C5466",
+                    "entity_type": "31",
+                    "entity_type_name": "Glass Mastered At",
+                    "id": "93218",
+                    "name": "Nimbus",
+                    "resource_url": "https://api.discogs.com/labels/93218"
+                }
+            ]
+        },
+        "country": "UK",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "5511",
+                    "join": "",
+                    "name": "Slacker",
+                    "role": "Mixed By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "231610",
+                    "join": "",
+                    "name": "Shem McCauley",
+                    "role": "Written-By, Producer",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "Single"
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Text",
+                    "_type": "Barcode",
+                    "_value": "6 07618 10842 7"
+                },
+                {
+                    "_description": "String",
+                    "_type": "Barcode",
+                    "_value": "607618108427"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "C5466 XLS 84 CD : 1:0 ‧MASTERED BY NIMBUS‧"
+                },
+                {
+                    "_type": "Mastering SID Code",
+                    "_value": "IFPI L123"
+                },
+                {
+                    "_type": "Mould SID Code",
+                    "_value": "ifpi 2304"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "463",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "533",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "570"
+                }
+            ]
+        },
+        "labels": {
+            "label": [
+                {
+                    "_catno": "XLS 84 CD",
+                    "_id": "160",
+                    "_name": "XL Recordings"
+                },
+                {
+                    "_catno": "XLS 84 CD",
+                    "_id": "40",
+                    "_name": "Loaded Records"
+                }
+            ]
+        },
+        "master_id": {
+            "_is_main_release": "false",
+            "content": "77185"
+        },
+        "notes": "Track 3 contains a sample from \"Of These Hope- Reprise\" by [a=Peter Gabriel] from [m29882]\r\nMade in England.\r\n\r\nTrack durations differ from inlay.",
+        "released": "1997-04-14",
+        "styles": {
+            "style": [
+                "Progressive House",
+                "Techno",
+                "Breaks"
+            ]
+        },
+        "title": "Scared",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "3:53",
+                    "position": "1",
+                    "title": "Scared (Edit)"
+                },
+                {
+                    "duration": "7:16",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "4227",
+                                "join": "",
+                                "name": "Pob",
+                                "role": "Remix",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "17127",
+                                "join": "",
+                                "name": "Paul Brogden",
+                                "role": "Remix, Producer [Additional]",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "2",
+                    "title": "Scared (Pob Seismix)"
+                },
+                {
+                    "duration": "5:14",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "6521",
+                            "join": "",
+                            "name": "Dylan Rhymes",
+                            "role": "Remix, Producer [Additional]",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "3",
+                    "title": "Scared (Dylan Rhymes Remix)"
+                },
+                {
+                    "duration": "8:36",
+                    "position": "4",
+                    "title": "Scared (The Lonely Traveller)"
+                },
+                {
+                    "duration": "6:52",
+                    "position": "5",
+                    "title": "Scared (Scared Of Tomorrow)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "520",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=x4TrgstAzrI",
+                    "description": "Label: XL Recordings\r\n\r\nCatalog#: XLT 84\r\n\r\nFormat: Vinyl, 12, 33 ⅓ RPM\r\n\r\nCountry: UK\r\n\r\nReleased: 1996\r\n\r\nGenre: Electronic\r\n\r\nStyle: Progressive House, Trance",
+                    "title": "SLACKER SCARED 'THE LONELY TRAVELLER'"
+                },
+                {
+                    "_duration": "211",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=n170xejyUUY",
+                    "description": "Slacker Scared.  1997 single charting at #36 in the UK in April 1997, and #99 in Australia in August 1997.  Kirsty Hawkshaw from Opus III appears in the video.  Official music video HQ 90s 90's progressive house dance I'm just you know everybody is pretty",
+                    "title": "Slacker - Scared"
+                },
+                {
+                    "_duration": "408",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=oodhG2qT9AU",
+                    "description": "Old School 90",
+                    "title": "Slacker - Scared (Scared Of Tomorrow)"
+                },
+                {
+                    "_duration": "440",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=fq4c_pPra7M",
+                    "description": "Taken from CD compilation: A.R.C. - Artist Remix Collection (One)\n\n__ track 1 __\n\nCompilation: Platipus 1998  __ PLAT 45 CD __\nTrack: XL - Recordings 1997\n\nhttp://www.discogs.com/Various-ARC-Artist-Remix-Collection-One/release/23077",
+                    "title": "Slacker - Scared [ Pob Seismix ]"
+                },
+                {
+                    "_duration": "412",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=SQoi0mSQOHw",
+                    "description": "[XL]",
+                    "title": "Slacker - Scared (Scared Of Tomorrow) 1996"
+                },
+                {
+                    "_duration": "313",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Pk-vv690FNE",
+                    "description": "Track contains a sample from Of These Hope- Reprise by Peter Gabriel \nLabel: XL Recordings ‎-- XLS 84 CD\nFormat: CD, Single\nCountry: UK\nReleased: Jan 1997",
+                    "title": "Slacker - Scared (Dylan Rhymes Remix)"
+                }
+            ]
+        }
+    }
+}

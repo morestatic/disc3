@@ -1,0 +1,145 @@
+{
+    "release": {
+        "_id": "233266",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "82210",
+                "join": "",
+                "name": "Moisture Control",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "US",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "1327792",
+                    "join": "",
+                    "name": "JD Northrup",
+                    "role": "Mastered By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "173901",
+                    "join": "",
+                    "name": "Mike Constantino",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "80629",
+                    "join": "",
+                    "name": "Waric Cameron",
+                    "role": "Producer",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "EP",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": {
+                "_height": "150",
+                "_type": "primary",
+                "_uri": "",
+                "_uri150": "",
+                "_width": "150"
+            }
+        },
+        "labels": {
+            "label": {
+                "_catno": "FPR 021",
+                "_id": "50",
+                "_name": "Fair Park"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "1881627"
+        },
+        "released": "2004-02-05",
+        "styles": {
+            "style": [
+                "House",
+                "Deep House"
+            ]
+        },
+        "title": "The Tokyo EP",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A1",
+                    "title": "Kiss Your Dreams"
+                },
+                {
+                    "duration": "",
+                    "position": "A2",
+                    "title": "Dreamin' Dub"
+                },
+                {
+                    "duration": "",
+                    "position": "B1",
+                    "title": "Passing Saturn"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1327791",
+                            "join": "",
+                            "name": "Matt Sharp (3)",
+                            "role": "Producer [Additional Production]",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "B2",
+                    "title": "Trellis Groove"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "416",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=0FBXLXizO9o",
+                    "description": "https://www.discogs.com/Moisture-Control-The-Tokyo-EP/release/233266\n\nNo lucrative purpose nor disrespect intended.\nIf the copyrights owner disapprove this, please let me know and I will remove the video.",
+                    "title": "Moisture Control - Trellis Groove"
+                },
+                {
+                    "_duration": "495",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=e5n7jjITW14",
+                    "description": "2004. The Tokyo Vinyl, 12, EP  -  Fair Park\nProduced by Waric Cameron and Mike Constantino",
+                    "title": "Moisture Control  -  Kiss Your Dreams"
+                }
+            ]
+        }
+    }
+}

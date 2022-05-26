@@ -1,0 +1,170 @@
+{
+    "release": {
+        "_id": "94743",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "14805",
+                "join": "",
+                "name": "The Fires Of Ork",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": {
+                "catno": "17921",
+                "entity_type": "10",
+                "entity_type_name": "Manufactured By",
+                "id": "277449",
+                "name": "P+O Pallas",
+                "resource_url": "https://api.discogs.com/labels/277449"
+            }
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "25441",
+                    "join": "",
+                    "name": "Geir Jenssen",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "PW 07 P+O-17921-A1 09-93"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "514",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "520"
+                },
+                {
+                    "_height": "566",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "570"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PW 07",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "21694"
+        },
+        "notes": "MAKE LOVE TO THE WIND AND TALK TO THE STARS\r\n\r\nAus schweigsamem Gebirge und dumpfen Gewittern rauscht meine Seele in die Täler\r\n\r\nThe Fires of Ork\r\nFRANKFURT 1993\r\n\r\nSpecial thanks to:\r\n\r\nElisabeth\r\nFABiA\r\nLudwig Rehberg of EMS\r\n\r\nKatrien Klausing\r\nRenaat Vandepapeliere (Geir Jenssen appears by courtesy of R\u0026S Records)\r\nKatrien Kruse\r\n\r\nVoice on \"Talk to the Stars\" by Kathrin Kruse\r\n\r\nLimitation: 500\r\n \r\nLater reissued on Apollo (cat. number [url=http://www.discogs.com/release/306735]aw 035[/url]).",
+        "released": "1993-09-20",
+        "styles": {
+            "style": [
+                "Abstract",
+                "Techno",
+                "Ambient"
+            ]
+        },
+        "title": "The Fires Of Ork",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "7:45",
+                    "position": "1",
+                    "title": "The Fires Of Ork I"
+                },
+                {
+                    "duration": "21:23",
+                    "position": "2",
+                    "title": "Gebirge"
+                },
+                {
+                    "duration": "11:43",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "424669",
+                            "join": "",
+                            "name": "Kathrin Kruse",
+                            "role": "Vocals",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "3",
+                    "title": "Talk To The Stars"
+                },
+                {
+                    "duration": "18:25",
+                    "position": "4",
+                    "title": "The Facts Of Life"
+                },
+                {
+                    "duration": "6:26",
+                    "position": "5",
+                    "title": "The Fires Of Ork II"
+                }
+            ]
+        },
+        "videos": {
+            "video": {
+                "_duration": "3955",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=yzs9TeyO_Q8",
+                "description": "Artist: Pete Namlook \u0026 Geir Jenssen\nAlbum: The Fires Of Ork\nLabel: Fax +49-69/450464\nYear: 1993\n\nBuy the album here: https://firesofork.bandcamp.com/album/the-fires-of-ork\n\nTracklist:\n1. The Fires Of Ork I [0:00]\n2. Gebirge [7:45]\n3. Talk To The Stars [29",
+                "title": "Pete Namlook \u0026 Geir Jenssen - The Fires Of Ork (Full Album) [1993]"
+            }
+        }
+    }
+}

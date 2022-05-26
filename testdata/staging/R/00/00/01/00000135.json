@@ -1,0 +1,156 @@
+{
+    "release": {
+        "_id": "135",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "60",
+                "join": "",
+                "name": "Pete Moss",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "26",
+                    "entity_type_name": "Produced At",
+                    "id": "1566086",
+                    "name": "The Recline Center",
+                    "resource_url": "https://api.discogs.com/labels/1566086"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "362370",
+                    "name": "Music, Soul, Nature Publishing",
+                    "resource_url": "https://api.discogs.com/labels/362370"
+                }
+            ]
+        },
+        "country": "US",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "60",
+                "join": "",
+                "name": "Pete Moss",
+                "role": "Producer, Arranged By",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "EP"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "595",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "ET12-002",
+                "_id": "2",
+                "_name": "Earthtones Recordings"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "264016"
+        },
+        "notes": "All songs produced and arranged @ the Recline Center in Philly.\nMusic, Soul, Nature Publishing.",
+        "released": "1999-02-00",
+        "styles": {
+            "style": "Deep House"
+        },
+        "title": "The Infrared EP",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A1",
+                    "title": "Infrared"
+                },
+                {
+                    "duration": "",
+                    "position": "A2",
+                    "title": "Infra-Dub"
+                },
+                {
+                    "duration": "",
+                    "position": "B1",
+                    "title": "Changing Wave"
+                },
+                {
+                    "duration": "",
+                    "position": "B2",
+                    "title": "Earthtones 002"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "457",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=KUqcaDXU2q0",
+                    "description": "Label: Earthtones Recordings ‎– ET12-002\nFormat: Vinyl, 12, EP \nCountry: US\nReleased: Feb 1999\nGenre: Electronic\nStyle: Deep House",
+                    "title": "Pete Moss - Infrared"
+                },
+                {
+                    "_duration": "396",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=7cEv5EhEGm0",
+                    "description": "Label: Earthtones Recordings ‎– ET12-002\nFormat: Vinyl, 12, EP \nCountry: US\nReleased: Feb 1999\nGenre: Electronic\nStyle: Deep House",
+                    "title": "Pete Moss - Changing Wave"
+                },
+                {
+                    "_duration": "369",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=-pPAlkXKdcE",
+                    "description": "Label: Earthtones Recordings ‎– ET12-002\nFormat: Vinyl, 12, EP \nCountry: US\nReleased: Feb 1999\nGenre: Electronic\nStyle: Deep House",
+                    "title": "Pete Moss - Earthtones 002"
+                },
+                {
+                    "_duration": "460",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=L2Gnj92ctbU",
+                    "description": "http://www.discogs.com/master/264016\nLabel:Earthtones Recordings ‎– ET12-002\nFormat:Vinyl, 12, EP \nCountry:US\nReleased:Feb 1999\nStyle:Deep House",
+                    "title": "Pete Moss - Changing Wave"
+                }
+            ]
+        }
+    }
+}

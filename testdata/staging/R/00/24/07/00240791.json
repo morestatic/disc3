@@ -1,0 +1,114 @@
+{
+    "release": {
+        "_id": "240791",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "169902",
+                "join": "",
+                "name": "John Walker",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "US",
+        "data_quality": "Correct",
+        "extraartists": "",
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "EP"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": {
+                "_height": "150",
+                "_type": "primary",
+                "_uri": "",
+                "_uri150": "",
+                "_width": "150"
+            }
+        },
+        "labels": {
+            "label": {
+                "_catno": "FPR 020",
+                "_id": "50",
+                "_name": "Fair Park"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "84572"
+        },
+        "released": "2004",
+        "styles": {
+            "style": [
+                "Deep House",
+                "Minimal"
+            ]
+        },
+        "title": "The Turn@round EP",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A1",
+                    "title": "Spinach"
+                },
+                {
+                    "duration": "",
+                    "position": "A2",
+                    "title": "Ease"
+                },
+                {
+                    "duration": "",
+                    "position": "B1",
+                    "title": "Dub Wash"
+                },
+                {
+                    "duration": "",
+                    "position": "B2",
+                    "title": "Giggle"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "311",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=yfPrlOFFFMA",
+                    "description": "https://www.discogs.com/John-Walker-The-Turnround-EP/release/1462655\n\r\n\r- video upload powered by https://www.TunesToTube.com ---\nDear producer/owner, the only purpose of this channel is to give you/artists the recognition they deserve. No copyright inten",
+                    "title": "John Walker - Spinach [FPR020]"
+                },
+                {
+                    "_duration": "341",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=kFZxq5P93-U",
+                    "description": "https://www.discogs.com/John-Walker-The-Turnround-EP/release/1462655\n\r\n\r- video upload powered by https://www.TunesToTube.com ---\nDear producer/owner, the only purpose of this channel is to give you/artists the recognition they deserve. No copyright inten",
+                    "title": "John Walker - Dub Wash [FPR020]"
+                },
+                {
+                    "_duration": "271",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=AMZey47Lxy4",
+                    "description": "https://www.discogs.com/John-Walker-The-Turnround-EP/release/1462655\n\r\n\r- video upload powered by https://www.TunesToTube.com ---\nDear producer/owner, the only purpose of this channel is to give you/artists the recognition they deserve. No copyright inten",
+                    "title": "John Walker - Giggle [FPR020]"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,310 @@
+{
+    "release": {
+        "_id": "125879",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "33",
+                "join": "",
+                "name": "Blue Six",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "UK",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "D Boonshoft",
+                    "id": "209463",
+                    "join": "",
+                    "name": "David Boonshoft",
+                    "role": "Bass",
+                    "tracks": ""
+                },
+                {
+                    "anv": "D Warrin",
+                    "id": "40",
+                    "join": "",
+                    "name": "Dave Warrin",
+                    "role": "Clavinet",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "74994",
+                    "join": "",
+                    "name": "Bruno Ybarra",
+                    "role": "Executive Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "209463",
+                    "join": "",
+                    "name": "David Boonshoft",
+                    "role": "Executive Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "M.A. Jones",
+                    "id": "352023",
+                    "join": "",
+                    "name": "Mark Anthony Jones",
+                    "role": "Guitar",
+                    "tracks": ""
+                },
+                {
+                    "anv": "J. Marks Andrus",
+                    "id": "64003",
+                    "join": "",
+                    "name": "J. Mark Andrus",
+                    "role": "Mastered By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "D Jensen",
+                    "id": "320005",
+                    "join": "",
+                    "name": "Dave Jensen",
+                    "role": "Saxophone",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "670",
+                    "join": "",
+                    "name": "Lisa Shaw",
+                    "role": "Vocals",
+                    "tracks": ""
+                },
+                {
+                    "anv": "J Denes",
+                    "id": "32",
+                    "join": "",
+                    "name": "Jay Denes",
+                    "role": "Written-By, Producer",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "Maxi-Single"
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "500",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "500"
+                },
+                {
+                    "_height": "536",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "7243 5 46343 2 1",
+                "_id": "750",
+                "_name": "Virgin"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "false",
+            "content": "104409"
+        },
+        "released": "2002",
+        "styles": {
+            "style": "Deep House"
+        },
+        "title": "Let's Do It Together",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "3:30",
+                    "position": "1",
+                    "title": "Let's Do It Together (Radio Edit)"
+                },
+                {
+                    "duration": "6:05",
+                    "position": "2",
+                    "title": "Let's Do It Together (Jay's Besoul Vocal)"
+                },
+                {
+                    "duration": "6:20",
+                    "position": "3",
+                    "title": "Let's Do It Together (Jay's Latin Lovers Mix Extended)"
+                },
+                {
+                    "duration": "5:55",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "669",
+                                "join": "",
+                                "name": "Petalpusher",
+                                "role": "Remix",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "34",
+                                "join": "",
+                                "name": "Miguel Migs",
+                                "role": "Remix [Credited To]",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "4",
+                    "title": "Let's Do It Together (Petalpusher Dub)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "409",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=LCSt1OoPmVE",
+                    "description": "Track 1 Beautiful Tomorrow",
+                    "title": "Blue Six-Let's do it together"
+                },
+                {
+                    "_duration": "376",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=AEsbuADx4E4",
+                    "description": "Provided to YouTube by The Orchard Enterprises\n\nLet's Do It Together · Jay Denes · Blue Six · Jay Denes\n\nLet's Do It Together\n\n℗ 2002 Naked Music NYC Recordings LLC\n\nReleased on: 2009-01-23\n\nMusic Publisher: Fur And Femur Music\n\nAuto-generated by You",
+                    "title": "Let's Do It Together (Jay's Besoul Vocal)"
+                },
+                {
+                    "_duration": "382",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=oCZpz3_EoVI",
+                    "description": "© Naked Music Recordings 2002, Blue Six ''Let's Do It Together''\nStyle: Deep House\n\nhttp://www.naked-music.com/",
+                    "title": "Blue Six - Let's Do It Together (Jay's Latin Lovers Mix Extended)"
+                },
+                {
+                    "_duration": "374",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=_h5SMNazAz0",
+                    "description": "Provided to YouTube by The Orchard Enterprises\n\nLet's Do It Together · Jay Denes · Blue Six · Miguel Migs\n\nLet's Do It Together\n\n℗ 2002 Naked Music NYC Recordings LLC\n\nReleased on: 2009-01-23\n\nMusic Publisher: Fur And Femur Music\n\nAuto-generated by Y",
+                    "title": "Let's Do It Together (Petalpusher Dub)"
+                },
+                {
+                    "_duration": "361",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=oa6vpPWHCnc",
+                    "description": "Provided to YouTube by The Orchard Enterprises\n\nLet's Do It Together · Jay Denes · Blue Six · Eric Stamile · Gaelle Adisson\n\nLet's Do It Together\n\n℗ 2002 Naked Music NYC Recordings LLC\n\nReleased on: 2009-01-23\n\nMusic Publisher: Fur And Femur Music",
+                    "title": "Let's Do It Together (Speakeasy Remix)"
+                },
+                {
+                    "_duration": "407",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=6FL--XgLMf8",
+                    "description": "",
+                    "title": "Blue 6 - Lets Do It Together"
+                },
+                {
+                    "_duration": "408",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=8IpCEQJSOEQ",
+                    "description": "Please set the thumb, if you like it. Is nice to know what style you like most.\n\nSubscribe: Fomix Sound - https://bit.ly/33ySS4j\n\nFor the Mix - Subscribe: Fomix DJ Set - https://bit.ly/3keErJz\n\n#ClubBar #FomixSound #FomixDJSet #BlueSix \n\nENJOY\n\nThis chann",
+                    "title": "Blue Six - Let's do it together"
+                },
+                {
+                    "_duration": "343",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=rszqQ0MkbiA",
+                    "description": "US House.....classic Speakeasy.....u rock dude!! Breakbeat science!!!!",
+                    "title": "Lets do It Together - Blue 6- Speakeasy Remix - Naked Music"
+                },
+                {
+                    "_duration": "417",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=MfSru0daIL4",
+                    "description": "UK single off the 2002 album, 'Beautiful Tomorrow'.",
+                    "title": "Blue Six - Let's Do It Together"
+                },
+                {
+                    "_duration": "354",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=rcwKD_bhBHg",
+                    "description": "US House. Pure silk",
+                    "title": "Lets do It Together - Blue 6- Petalpusher Dub - Naked Music"
+                },
+                {
+                    "_duration": "405",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=1lFTzNmagD4",
+                    "description": "A groove by Blue Six, something I'm sure you can chill out and vibe to.\nFor those of you who like to groove out,",
+                    "title": "Let's Do This Together - Blue Six"
+                },
+                {
+                    "_duration": "359",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=JAYMwQLwViU",
+                    "description": "US House. Pure niceness!!!! Bro 1:38 reminds me of massages from the stars....what u say!!!",
+                    "title": "Lets do It Together - Blue 6- Jay`s Besoul Vocal - Naked Music"
+                },
+                {
+                    "_duration": "395",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=jtibBtw33gA",
+                    "description": "Us House.",
+                    "title": "Lets do It Together - Blue 6- Albuum vertion - Naked Music"
+                },
+                {
+                    "_duration": "406",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=zvEf330ZaiA",
+                    "description": "Provided to YouTube by The Orchard Enterprises\n\nLet's Do It Together · Jay Denes · Blue Six\n\nLet's Do It Together\n\n℗ 2002 Naked Music NYC Recordings LLC\n\nReleased on: 2009-01-23\n\nMusic Publisher: Fur And Femur Music\n\nAuto-generated by YouTube.",
+                    "title": "Let's Do It Together"
+                },
+                {
+                    "_duration": "407",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=CiQjHOKj-vk",
+                    "description": "Deep Houseification!\n\nBlue Six - Lets Do It Together\n\nLIKE DEEPHOUSEIFICATION ON FACEBOOK! THANKS FOR THE SUPPORT!!!\nhttp://www.facebook.com/pages/DeepHouseification/178981202143819",
+                    "title": "Blue Six - Lets Do It Together DEEP HOUSE"
+                },
+                {
+                    "_duration": "376",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=iuMaIqFbsvY",
+                    "description": "© Naked Music Recordings 2002, Blue Six ''Let's Do It Together''\nStyle: Deep House\n\nhttp://www.naked-music.com/",
+                    "title": "Blue Six - Let's Do It Together (Jay's Besoul Vocal)"
+                },
+                {
+                    "_duration": "408",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=60IuT4QPbmU",
+                    "description": "This channel is created to promote and support artists!\n\nIf any producer, label or copyright owner is unhappy with this upload, please contact us at dhmedallas@gmail.com and the content will be removed immediately.\n\nEnjoy the music!",
+                    "title": "dhme - blue six - let's do it together"
+                }
+            ]
+        }
+    }
+}

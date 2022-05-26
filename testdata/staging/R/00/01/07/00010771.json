@@ -1,0 +1,230 @@
+{
+    "release": {
+        "_id": "10771",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "265",
+                "join": "",
+                "name": "Julius Papp \u0026 Dave Warrin",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "39",
+                    "name": "i! Records",
+                    "resource_url": "https://api.discogs.com/labels/39"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "39",
+                    "name": "i! Records",
+                    "resource_url": "https://api.discogs.com/labels/39"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "356122",
+                    "name": "Oskris Toons",
+                    "resource_url": "https://api.discogs.com/labels/356122"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "337145",
+                    "name": "Cal Vent Music",
+                    "resource_url": "https://api.discogs.com/labels/337145"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "29",
+                    "entity_type_name": "Mastered At",
+                    "id": "199325",
+                    "name": "Frankford/Wayne Mastering Labs",
+                    "resource_url": "https://api.discogs.com/labels/199325"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "37",
+                    "entity_type_name": "Produced For",
+                    "id": "829863",
+                    "name": "Multivitamin Productions",
+                    "resource_url": "https://api.discogs.com/labels/829863"
+                }
+            ]
+        },
+        "country": "US",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "40",
+                    "join": "",
+                    "name": "Dave Warrin",
+                    "role": "Keyboards",
+                    "tracks": ""
+                },
+                {
+                    "anv": "RCE",
+                    "id": "280843",
+                    "join": "",
+                    "name": "Rick Essig",
+                    "role": "Mastered By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "265",
+                    "join": "",
+                    "name": "Julius Papp \u0026 Dave Warrin",
+                    "role": "Producer, Written-By, Arranged By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "480846",
+                    "join": "",
+                    "name": "Breze",
+                    "role": "Vocals",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Side A",
+                    "_type": "Matrix / Runout",
+                    "_value": "IR-154 A | FW/RCE"
+                },
+                {
+                    "_description": "Side B",
+                    "_type": "Matrix / Runout",
+                    "_value": "IR-154 B"
+                },
+                {
+                    "_type": "Rights Society",
+                    "_value": "ASCAP"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "599"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "IR-154",
+                "_id": "39",
+                "_name": "i! Records"
+            }
+        },
+        "notes": "Produced, written and arranged for Multivitamin Productions.\r\nCalVent Music (ASCAP) / Oskris Toons (ASCAP)\r\n(C)\u0026 (P) 1998 i! Records",
+        "released": "1998",
+        "styles": {
+            "style": "Deep House"
+        },
+        "title": "Feel You",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A1",
+                    "title": "Feel You (Excursion Mix)"
+                },
+                {
+                    "duration": "",
+                    "position": "A2",
+                    "title": "Watercolors"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "700",
+                            "join": "",
+                            "name": "Mark Grant",
+                            "role": "Remix, Producer [Additional]",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "B1",
+                    "title": "Feel You (Mark Grant Re-mix)"
+                },
+                {
+                    "duration": "",
+                    "position": "B2",
+                    "title": "Feel You (Tender Moments)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "313",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=tkOsYQ0hD0I",
+                    "description": "Artist: Julius Papp \u0026 Dave Warrin\nAlbum: Feel You EP\nLabel: i! Records\nCatalogue: IR-154\nReleased: 1998\n\nPromotional Use Only. All Rights belong to their respective owners.",
+                    "title": "Julius Papp \u0026 Dave Warrin - Feel You (Excursion Mix)"
+                },
+                {
+                    "_duration": "374",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=I-XT-dTq3r4",
+                    "description": "(i! Records) US 1998",
+                    "title": "Julius Papp \u0026 Dave Warrin: Feel You (Tender Moments)"
+                },
+                {
+                    "_duration": "371",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=WziNWHKmb1I",
+                    "description": "Julius Papp \u0026 Dave Warrin - Feel You (Mark Grant Remix)",
+                    "title": "Julius Papp \u0026 Dave Warrin - Feel You (Mark Grant Remix)"
+                }
+            ]
+        }
+    }
+}

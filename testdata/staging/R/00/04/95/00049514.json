@@ -1,0 +1,236 @@
+{
+    "release": {
+        "_id": "49514",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "264879",
+                "join": "",
+                "name": "Outland (2)",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "294386",
+                    "name": "Klanglabor Frankfurt",
+                    "resource_url": "https://api.discogs.com/labels/294386"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "17",
+                    "entity_type_name": "Pressed By",
+                    "id": "267946",
+                    "name": "CD Plant AB",
+                    "resource_url": "https://api.discogs.com/labels/267946"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "58657",
+                    "join": "",
+                    "name": "Peter Kuhlmann",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "196031",
+                    "join": "",
+                    "name": "Oz Fritz",
+                    "role": "Recorded By [Ethnic Sounds]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "661",
+                    "join": "",
+                    "name": "Bill Laswell",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                },
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "CD PLANT AB PW 28 CDM01"
+                },
+                {
+                    "_type": "Mastering SID Code",
+                    "_value": "IFPI LB01"
+                },
+                {
+                    "_type": "Mould SID Code",
+                    "_value": "ifpi 8413"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "464",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "299",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "591",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "609",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PW 28",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "16656"
+        },
+        "notes": "Recorded at Klanglabor, Frankfurt.\nLimitation: 2000\n\nDurations of sub-tracks from CD-player",
+        "released": "1996-04-08",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Techno",
+                "Tribal"
+            ]
+        },
+        "title": "Outland 2",
+        "tracklist": {
+            "track": {
+                "duration": "59:20",
+                "position": "",
+                "sub_tracks": {
+                    "track": [
+                        {
+                            "duration": "9:30",
+                            "position": "1",
+                            "title": "Part I"
+                        },
+                        {
+                            "duration": "9:28",
+                            "position": "2",
+                            "title": "Part II"
+                        },
+                        {
+                            "duration": "18:09",
+                            "position": "3",
+                            "title": "Part III"
+                        },
+                        {
+                            "duration": "5:48",
+                            "position": "4",
+                            "title": "Part IV"
+                        },
+                        {
+                            "duration": "6:08",
+                            "position": "5",
+                            "title": "Part V"
+                        },
+                        {
+                            "duration": "10:15",
+                            "position": "6",
+                            "title": "Part VI"
+                        }
+                    ]
+                },
+                "title": "African Virus (Electronic Sonata With A Cold Loved By Nature)"
+            }
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "620",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=uVwetGkHMhM",
+                    "description": "From Outland 2",
+                    "title": "Pete Namlook \u0026 Bill Laswell - African Virus Part 1"
+                },
+                {
+                    "_duration": "1091",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=eRGT7A1fzBk",
+                    "description": "part 3 from the second Outland collaboration between Pete Namlook and Bill Laswell, released 1996.",
+                    "title": "Outland - African Virus (Electronic Sonata With A Cold Loved By Nature) -  Part III"
+                },
+                {
+                    "_duration": "370",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=XFb2o9JZ3xY",
+                    "description": "Taken from Outland 2 (Fax +49-69/450464 - PW 28).\nhttp://www.discogs.com/artist/264879-Outland-2",
+                    "title": "Outland - African Virus (Electronic Sonata With A Cold Loved By Nature) Part V"
+                }
+            ]
+        }
+    }
+}

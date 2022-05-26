@@ -1,0 +1,159 @@
+{
+    "release": {
+        "_id": "127",
+        "_status": "Accepted",
+        "artists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "185",
+                    "join": "\u0026",
+                    "name": "J.T. Donaldson",
+                    "role": "",
+                    "tracks": ""
+                },
+                {
+                    "anv": "Lance De Sardi",
+                    "id": "1911",
+                    "join": "",
+                    "name": "Lance DeSardi",
+                    "role": "",
+                    "tracks": ""
+                }
+            ]
+        },
+        "companies": "",
+        "country": "US",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "185",
+                    "join": "",
+                    "name": "J.T. Donaldson",
+                    "role": "Written-By, Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "Lance De Sardi",
+                    "id": "1911",
+                    "join": "",
+                    "name": "Lance DeSardi",
+                    "role": "Written-By, Producer",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "EP"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "599"
+                },
+                {
+                    "_height": "598",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "FPR 009",
+                "_id": "50",
+                "_name": "Fair Park"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "435673"
+        },
+        "released": "1998",
+        "styles": {
+            "style": "Deep House"
+        },
+        "title": "Decked Out EP",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "598287",
+                            "join": "",
+                            "name": "Face (11)",
+                            "role": "Trumpet",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "A1",
+                    "title": "Shifting Gears"
+                },
+                {
+                    "duration": "",
+                    "position": "A2",
+                    "title": "Nothing To See, Hear"
+                },
+                {
+                    "duration": "",
+                    "position": "B1",
+                    "title": "More Than A Little Bit"
+                },
+                {
+                    "duration": "",
+                    "position": "B2",
+                    "title": "The Dub (A Little Less)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "507",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=-gwklOxz6j8",
+                    "description": "https://www.discogs.com/JT-Donaldson-Lance-DeSardi-Decked-Out-EP/release/127\n\nNo lucrative purpose nor disrespect intended.\nIf the copyrights owner disapprove this, please let me know and I will remove the video.",
+                    "title": "J.T. Donaldson \u0026 Lance De Sardi - Shifting Gears"
+                },
+                {
+                    "_duration": "353",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=iJSBwItr9Iw",
+                    "description": "https://www.discogs.com/JT-Donaldson-Lance-DeSardi-Decked-Out-EP/release/127\n\nNo lucrative purpose nor disrespect intended.\nIf the copyrights owner disapprove this, please let me know and I will remove the video.",
+                    "title": "J.T. Donaldson \u0026 Lance De Sardi - Nothing To See, Hear"
+                },
+                {
+                    "_duration": "399",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=XFPrQpqMFbg",
+                    "description": "https://www.discogs.com/JT-Donaldson-Lance-DeSardi-Decked-Out-EP/release/127\n\nNo lucrative purpose nor disrespect intended.\nIf the copyrights owner disapprove this, please let me know and I will remove the video.",
+                    "title": "J.T. Donaldson \u0026 Lance De Sardi - The Dub (A Little Less)"
+                }
+            ]
+        }
+    }
+}

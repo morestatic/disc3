@@ -1,0 +1,313 @@
+{
+    "release": {
+        "_id": "52699",
+        "_status": "Accepted",
+        "artists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "32563",
+                    "join": "Sp. Guest",
+                    "name": "New Composers",
+                    "role": "",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "634",
+                    "join": "",
+                    "name": "Brian Eno",
+                    "role": "",
+                    "tracks": ""
+                }
+            ]
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "391788",
+                    "name": "New Composers Studio",
+                    "resource_url": "https://api.discogs.com/labels/391788"
+                },
+                {
+                    "catno": "44766",
+                    "entity_type": "31",
+                    "entity_type_name": "Glass Mastered At",
+                    "id": "277449",
+                    "name": "P+O Pallas",
+                    "resource_url": "https://api.discogs.com/labels/277449"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "2118078",
+                    "join": "",
+                    "name": "PEK (3)",
+                    "role": "Graphics",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "634",
+                    "join": "",
+                    "name": "Brian Eno",
+                    "role": "Guest",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "32563",
+                    "join": "",
+                    "name": "New Composers",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "634",
+                    "join": "",
+                    "name": "Brian Eno",
+                    "role": "Written-By",
+                    "tracks": "8, 11, 12"
+                },
+                {
+                    "anv": "Igr. Ver",
+                    "id": "264444",
+                    "join": "",
+                    "name": "Igor Ver",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "405349",
+                    "join": "",
+                    "name": "Igor Vorotnikov",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "Valery Lakoff",
+                    "id": "264443",
+                    "join": "",
+                    "name": "Valery Alakhov",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "PS 08/95 P+O-44766-B2 09-99"
+                },
+                {
+                    "_type": "Mastering SID Code",
+                    "_value": "IFPI L962"
+                },
+                {
+                    "_description": "Variant 1",
+                    "_type": "Mould SID Code",
+                    "_value": "IFPI 3J07"
+                },
+                {
+                    "_description": "Variant 2",
+                    "_type": "Mould SID Code",
+                    "_value": "none"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "246",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "247"
+                },
+                {
+                    "_height": "248",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "491"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PS 08/95",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "164594"
+        },
+        "notes": "Limitation: 2000\r\nRecorded at St Petersburg Studio, Russia from 1997-99. \r\n\r\nSpecial thanks to:\r\nBrian Eno (for samples and technical support)\r\nEeropekka Rislakki (for connecting us with the outside world)",
+        "released": "1999-09-27",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Downtempo",
+                "Modern Classical"
+            ]
+        },
+        "title": "Smart",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "2:50",
+                    "position": "1",
+                    "title": "Strakita"
+                },
+                {
+                    "duration": "4:33",
+                    "position": "2",
+                    "title": "Sirens Of Titan"
+                },
+                {
+                    "duration": "3:01",
+                    "position": "3",
+                    "title": "Lovestory"
+                },
+                {
+                    "duration": "4:15",
+                    "position": "4",
+                    "title": "Palace Of Friendship On Fontanka"
+                },
+                {
+                    "duration": "2:53",
+                    "position": "5",
+                    "title": "Wodnay"
+                },
+                {
+                    "duration": "3:24",
+                    "position": "6",
+                    "title": "Fokstrot"
+                },
+                {
+                    "duration": "4:15",
+                    "position": "7",
+                    "title": "324-A"
+                },
+                {
+                    "duration": "9:39",
+                    "position": "8",
+                    "title": "Long SQ"
+                },
+                {
+                    "duration": "3:31",
+                    "position": "9",
+                    "title": "Adept"
+                },
+                {
+                    "duration": "3:15",
+                    "position": "10",
+                    "title": "Ekzotek"
+                },
+                {
+                    "duration": "3:27",
+                    "position": "11",
+                    "title": "Short SQ"
+                },
+                {
+                    "duration": "5:13",
+                    "position": "12",
+                    "title": "La-La-La"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "580",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=SfxLZp9u67Q",
+                    "description": "from Smart on Fax +49-69/450464 (1999)\nhttp://www.discogs.com/New-Composers-Sp-Guest-Brian-Eno-Smart/release/52699\nhttp://www.namlook.de/",
+                    "title": "New Composers feat. Brian Eno - Long SQ"
+                },
+                {
+                    "_duration": "209",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=AcPb-sJhi1o",
+                    "description": "Smart (1999)",
+                    "title": "Short SQ - New Composers Sp. Guest Brian Eno"
+                },
+                {
+                    "_duration": "183",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=PgqavhCemoU",
+                    "description": "https://www.discogs.com/New-Composers-Sp-Guest-Brian-Eno-Smart/master/164594\n\n\n***I do NOT own the copyright to this content***",
+                    "title": "New Composers sp. guest Brian Eno - Lovestory"
+                },
+                {
+                    "_duration": "315",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=bcsEueUps8o",
+                    "description": "Taken from Smart (Fax +49-69/450464 - PS 08/95, 1999).\nhttps://itunes.apple.com/us/album/smart/id338885842\nhttp://psychonavigation.com/post/111410803061/psy106-new-composers-w-brian-eno-smart-the\nhttp://www.discogs.com/artist/32563-New-Composers",
+                    "title": "New Composers feat. Brian Eno - La-La-La"
+                },
+                {
+                    "_duration": "259",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=pqDc60fJOY0",
+                    "description": "New Composers \u0026 Brian Eno - Palace Of Friendship On Fontanka\nAlbum: Smart\nLabel: Elektrus ‎– EL 005\nCountry: Russia\nYear: 1999\n\nMembers:\nBrian Eno\nТимур Новиков\nIgor Ver\nValery Alakhov\n\nElectronic, Ambient\n\nhttp://www.discogs.com/artist/32",
+                    "title": "New Composers \u0026 Brian Eno - Palace Of Friendship On Fontanka"
+                },
+                {
+                    "_duration": "314",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=9bMeWYzXHaI",
+                    "description": "https://www.discogs.com/New-Composers-Sp-Guest-Brian-Eno-Smart/master/164594\n\n\n\n***I do NOT own the copyright to this content***",
+                    "title": "New Composers sp. guest Brian Eno - La-La-La"
+                },
+                {
+                    "_duration": "274",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=EZexD0WwTH8",
+                    "description": "https://www.discogs.com/New-Composers-Sp-Guest-Brian-Eno-Smart/release/52699\n\n\n***I do NOT own the copyright to this content***",
+                    "title": "New Composers sp. guest Brian Eno - Sirens of Titan"
+                }
+            ]
+        }
+    }
+}

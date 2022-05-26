@@ -1,0 +1,224 @@
+{
+    "release": {
+        "_id": "52703",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "192391",
+                "join": "",
+                "name": "Octopus",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": {
+                "catno": "",
+                "entity_type": "23",
+                "entity_type_name": "Recorded At",
+                "id": "724580",
+                "name": "Octopus 3",
+                "resource_url": "https://api.discogs.com/labels/724580"
+            }
+        },
+        "country": "Germany",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "CUE",
+                    "id": "41714",
+                    "join": "",
+                    "name": "Charles Uzzell-Edwards",
+                    "role": "Graphics",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "474390",
+                    "join": "",
+                    "name": "Martha",
+                    "role": "Photography",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "41714",
+                    "join": "",
+                    "name": "Charles Uzzell-Edwards",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "3796",
+                    "join": "",
+                    "name": "Daniel Pemberton",
+                    "role": "Written-By",
+                    "tracks": "12"
+                },
+                {
+                    "anv": "",
+                    "id": "42339",
+                    "join": "",
+                    "name": "Jason Rivera",
+                    "role": "Written-By",
+                    "tracks": "4, 6"
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "588",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "216",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "248"
+                },
+                {
+                    "_height": "602",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "318",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PS 08/89",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Recorded at Octopus 3 studio, Chill Valley CA.\r\nLimitation: 1000\r\n\r\nDespite having 12 song titles listed (no track numbers) on the sleeve, the CD only has 11 tracks. Due to an apparent production error, titles 7 and 8 were never split in two.",
+        "released": "1998-02-02",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Dub",
+                "Experimental",
+                "Trip Hop"
+            ]
+        },
+        "title": "Octopus 3",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "3:06",
+                    "position": "1",
+                    "title": "Song For A Mutant"
+                },
+                {
+                    "duration": "5:38",
+                    "position": "2",
+                    "title": "On The Mountain (Touchteach)"
+                },
+                {
+                    "duration": "10:08",
+                    "position": "3",
+                    "title": "Bass Drum Test (1-5)"
+                },
+                {
+                    "duration": "2:36",
+                    "position": "4",
+                    "title": "Catching A Groove (Waiting)"
+                },
+                {
+                    "duration": "7:00",
+                    "position": "5",
+                    "title": "Dirty Vinyl In The Desert"
+                },
+                {
+                    "duration": "8:05",
+                    "position": "6",
+                    "title": "Glue Sniffing Beats"
+                },
+                {
+                    "duration": "13:32",
+                    "position": "7",
+                    "title": "Dont You Want My Baby? Vers. 4 / Sam Peckinpah"
+                },
+                {
+                    "duration": "6:26",
+                    "position": "8",
+                    "title": "Throbbing Modulating Beat"
+                },
+                {
+                    "duration": "2:23",
+                    "position": "9",
+                    "title": "I Used To Listen To That"
+                },
+                {
+                    "duration": "7:15",
+                    "position": "10",
+                    "title": "Coca Leaves"
+                },
+                {
+                    "duration": "8:11",
+                    "position": "11",
+                    "title": "A Mile Away"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "4434",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=b8ONbD1kdbo",
+                    "description": "Charlie! Stop messin' around with those machines and go ta bed, god-darn-ya!! :P\nSome of the wackiest ambient-techno noodling ever put to record. Another one from the venerable FAX roster! This guy's eclectic, nutso style is a huge inspiration for me! E",
+                    "title": "Octopus - Octopus 3 [Full album]"
+                },
+                {
+                    "_duration": "654",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=uw1Id-xh-uw",
+                    "description": "Underground TECHNO, ebm, new beat,industrial,hyperdhelia,trance, skate, graffitis, rollo urbano.\n\nOctopus 3 Sam Peckinpah. Dont You Want My...\n\nWilliam S. B. Just Say No To Drug Hysteria",
+                    "title": "Say NO"
+                }
+            ]
+        }
+    }
+}

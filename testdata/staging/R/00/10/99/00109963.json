@@ -1,0 +1,166 @@
+{
+    "release": {
+        "_id": "109963",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "194",
+                "join": "",
+                "name": "Various",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "US",
+        "data_quality": "Correct",
+        "extraartists": "",
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "12\""
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "122",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "603",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "MDR9639-1",
+                "_id": "20",
+                "_name": "Moody Recordings"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "139257"
+        },
+        "released": "2002",
+        "styles": {
+            "style": "House"
+        },
+        "title": "Sol Muzik Volume 1",
+        "tracklist": {
+            "track": [
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "88989",
+                            "join": "",
+                            "name": "Denver",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "47766",
+                            "join": "",
+                            "name": "Derek Conyer",
+                            "role": "Featuring",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "A1",
+                    "title": "Life Gets Better"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "866",
+                            "join": "",
+                            "name": "Paul Johnson",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "A2",
+                    "title": "The Way He Plays (Dub)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "9880",
+                            "join": "",
+                            "name": "DJ Rhythm",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "B",
+                    "title": "It Must Be You"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "431",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=0pRGGKppEKU",
+                    "description": "Provided to YouTube by Symphonic Distribution\n\nThe Way He Plays · Paul Johnson\n\nThe Groove I Have LP\n\n℗ 2013 Moody Recordings\n\nReleased on: 2013-08-25\n\nAuto-generated by YouTube.",
+                    "title": "The Way He Plays (Original Mix)"
+                },
+                {
+                    "_duration": "393",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=zNIE8kHYNfY",
+                    "description": "Provided to YouTube by Symphonic Distribution\n\nIt Must Be You · DJ Rhythm\n\nSol Muzik, Vol. 1\n\n℗ 2013 Moody Recordings\n\nReleased on: 2013-08-25\n\nAuto-generated by YouTube.",
+                    "title": "It Must Be You (Original Mix)"
+                }
+            ]
+        }
+    }
+}

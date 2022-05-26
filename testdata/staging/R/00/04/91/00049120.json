@@ -1,0 +1,131 @@
+{
+    "release": {
+        "_id": "49120",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "8021",
+                "join": "",
+                "name": "Soul Grabber",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "96",
+                    "name": "Stickman Records",
+                    "resource_url": "https://api.discogs.com/labels/96"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "40",
+                    "name": "Loaded Records",
+                    "resource_url": "https://api.discogs.com/labels/40"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "40",
+                    "name": "Loaded Records",
+                    "resource_url": "https://api.discogs.com/labels/40"
+                }
+            ]
+        },
+        "country": "UK",
+        "data_quality": "Needs Vote",
+        "extraartists": "",
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "Single"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "111",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "113"
+                },
+                {
+                    "_height": "605",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "LOAD 081",
+                "_id": "40",
+                "_name": "Loaded Records"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "268304"
+        },
+        "notes": "(P) Stickman Records 2000.\r\n(P) Loaded Records 2001.\r\n(C) Loaded Records 2001.\r\n\r\nStickered label picture sleeve.",
+        "released": "2001",
+        "styles": {
+            "style": "House"
+        },
+        "title": "Release",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A",
+                    "title": "Release"
+                },
+                {
+                    "duration": "",
+                    "position": "AA",
+                    "title": "Part 3"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "677",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=lN_qAdtHmX0",
+                    "description": "",
+                    "title": "Soul Grabber - Release (Original Mix)"
+                },
+                {
+                    "_duration": "485",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=3JDb8UKfwBU",
+                    "description": "Artist : Paul jacobs\nLabel: Aquarius Recordings -- disco 12, Aquarius Recordings -- 1978\nFormat: Vinyl, 12, 45 RPM\nCountry: Canada\nReleased: 1997\nGenre: Electronic\nStyle: House",
+                    "title": "Soul Grabber - Part 3 - 1997"
+                }
+            ]
+        }
+    }
+}

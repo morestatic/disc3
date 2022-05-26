@@ -1,0 +1,329 @@
+{
+    "release": {
+        "_id": "126075",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "194",
+                "join": "",
+                "name": "Various",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "US",
+        "data_quality": "Correct",
+        "extraartists": "",
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "Compilation"
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_type": "Barcode",
+                "_value": "659057097626"
+            }
+        },
+        "images": {
+            "image": {
+                "_height": "595",
+                "_type": "primary",
+                "_uri": "",
+                "_uri150": "",
+                "_width": "590"
+            }
+        },
+        "labels": {
+            "label": {
+                "_catno": "NMCD003",
+                "_id": "10",
+                "_name": "Naked Music Recordings"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "false",
+            "content": "346405"
+        },
+        "released": "2000-06-20",
+        "styles": {
+            "style": [
+                "Deep House",
+                "Future Jazz",
+                "Downtempo"
+            ]
+        },
+        "title": "Midnight Snack (Volume One)",
+        "tracklist": {
+            "track": [
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "83",
+                            "join": "",
+                            "name": "Atjazz",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "1",
+                    "title": "Everything"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1037",
+                            "join": "",
+                            "name": "Extended Spirit",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "2",
+                    "title": "Propulsion"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "18548",
+                            "join": "",
+                            "name": "Robin Jones",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "582",
+                            "join": "",
+                            "name": "Jimpster",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "3",
+                    "title": "Royal Conga (Jimpster's Haribo Starmix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "3272",
+                            "join": "",
+                            "name": "Aim",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "4",
+                    "title": "Cold Water Music"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "Pimprekker",
+                            "id": "40835",
+                            "join": "",
+                            "name": "Pimp Rekker",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "5",
+                    "title": "Let It Go"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "40",
+                            "join": "",
+                            "name": "Dave Warrin",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "6",
+                    "title": "Central Living"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "To-ka Project",
+                            "id": "158",
+                            "join": "",
+                            "name": "Toka Project",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "7",
+                    "title": "Losin' You"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "35",
+                            "join": "",
+                            "name": "Attaboy",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "8",
+                    "title": "Buck Fast"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "669",
+                            "join": "",
+                            "name": "Petalpusher",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "58405",
+                            "join": "",
+                            "name": "Ledisi",
+                            "role": "Vocals",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "9",
+                    "title": "Breakin It Down"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "2092",
+                            "join": "",
+                            "name": "Moss",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "10",
+                    "title": "Retread Lightly"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "92196",
+                            "join": "",
+                            "name": "Jonathan Maron",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "11",
+                    "title": "Natural High"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "665",
+                            "join": "",
+                            "name": "The Rurals",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "12",
+                    "title": "I've Traveled The World"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "36",
+                            "join": "",
+                            "name": "Lovetronic",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "670",
+                            "join": "",
+                            "name": "Lisa Shaw",
+                            "role": "Vocals",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "13",
+                    "title": "Always (Original)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "264",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=4u-9tKt8FKQ",
+                    "description": "Sweet Coltrane..I'm gonna owe you guys the next vids as WMM is blocking me awfully.. will try to check a better program for that...enjoy this delightful supper jazzy tune, as always I'll try to share stuff not found on the tube...share the love!\n\ntill nex",
+                    "title": "Everything -Atjazz-"
+                },
+                {
+                    "_duration": "4136",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=e-AanohGy-Y",
+                    "description": "Naked Music Presents Midnight Snack Vol. 1 (2000) from Naked Music in San Francisco",
+                    "title": "Naked Music Presents Midnight Snack Vol. 1 (2000) - Downtempo/ Chill Out/ Deep House"
+                },
+                {
+                    "_duration": "4128",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=6cnwy7OTRUM",
+                    "description": "Video created by SunShine.",
+                    "title": "Naked Music - Midnight Snack"
+                },
+                {
+                    "_duration": "379",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=4KYzkUrtjiw",
+                    "description": "Moss - Midnight Snack, Vol. 1\n\nhttp://www.amazon.com/Naked-Music-Presents-Midnight-Snack/dp/B00004T20N\nLabel: Naked Music",
+                    "title": "Retreated Lightly"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,263 @@
+{
+    "release": {
+        "_id": "41496",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "15714",
+                "join": "",
+                "name": "Ransom",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "30",
+                    "entity_type_name": "Lacquer Cut At",
+                    "id": "158759",
+                    "name": "The Exchange",
+                    "resource_url": "https://api.discogs.com/labels/158759"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "17",
+                    "entity_type_name": "Pressed By",
+                    "id": "56025",
+                    "name": "MPO",
+                    "resource_url": "https://api.discogs.com/labels/56025"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "362251",
+                    "name": "Original Artists Music",
+                    "resource_url": "https://api.discogs.com/labels/362251"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "26",
+                    "entity_type_name": "Produced At",
+                    "id": "267036",
+                    "name": "Monroe Studios",
+                    "resource_url": "https://api.discogs.com/labels/267036"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "27",
+                    "entity_type_name": "Mixed At",
+                    "id": "267036",
+                    "name": "Monroe Studios",
+                    "resource_url": "https://api.discogs.com/labels/267036"
+                }
+            ]
+        },
+        "country": "UK",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "Mike",
+                    "id": "325174",
+                    "join": "",
+                    "name": "Mike Marsh",
+                    "role": "Lacquer Cut By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1006835",
+                    "join": "",
+                    "name": "Alex Wynn-Green",
+                    "role": "Written-By, Producer, Mixed By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1384153",
+                    "join": "",
+                    "name": "Steve Manotai",
+                    "role": "Written-By, Producer, Mixed By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Text",
+                    "_type": "Barcode",
+                    "_value": "5 025425 450761"
+                },
+                {
+                    "_description": "Etchings Side A",
+                    "_type": "Matrix / Runout",
+                    "_value": "LOAD7A1 MIKE'S - THE EXCHANGE MPO"
+                },
+                {
+                    "_description": "Etchings Side AA",
+                    "_type": "Matrix / Runout",
+                    "_value": "LOAD7AA1 MIKE'S - THE EXCHANGE MPO"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "LOAD7",
+                "_id": "40",
+                "_name": "Loaded Records"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "169110"
+        },
+        "notes": "Written, produced \u0026 mixed at Monroe Studios.\r\nPublished by Original Music.\r\n\r\nTrack durations not given on release.",
+        "released": "1993",
+        "styles": {
+            "style": "House"
+        },
+        "title": "My Dance",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "7:12",
+                    "position": "A1",
+                    "title": "My Dance (Original Mix)"
+                },
+                {
+                    "duration": "6:54",
+                    "position": "A2",
+                    "title": "My Dance (Version)"
+                },
+                {
+                    "duration": "8:58",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "28522",
+                            "join": "",
+                            "name": "Play Boys",
+                            "role": "Remix, Producer [Additional]",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "AA",
+                    "title": "My Dance (Play Boys Extension)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "386",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=nES2r835LR8",
+                    "description": "Ransom - My Dance (Version) (1993)\n\nAlbum: My Dance\nSello: Loaded Records – LOAD7\nFormato: Vinilo, 12, 33 ⅓ RPM\nPaís: UK\nPublicado: 1993\nGénero: Electronic\nEstilo: House\n\n      Written-By, Producer, Mixed By – Alex Wynn-Green, Steve Manotai\n\nBuy",
+                    "title": "Ransom - My Dance (Version) (1993)"
+                },
+                {
+                    "_duration": "412",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=zKIOE8wWgLc",
+                    "description": "Ransom - My Dance",
+                    "title": "Ransom - My Dance"
+                },
+                {
+                    "_duration": "418",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=PrpSEfpmiK0",
+                    "description": "Label:Tsunami\r\nCatalog#:TSU 6030\r\nCountry:Netherlands\r\nReleased:2001\r\nGenre:Electronic \r\nStyle:Trance \r\n192 kBit CBR",
+                    "title": "Ransom - My Dance (Ferry Corsten Remix) (2001)"
+                },
+                {
+                    "_duration": "410",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=3CuFygmIkXE",
+                    "description": "house",
+                    "title": "ransom - my dance (version)"
+                },
+                {
+                    "_duration": "539",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=RS7Ch498KLE",
+                    "description": "http://itunes.apple.com/gb/album/my-dance-ep/id379268648",
+                    "title": "Ransom - My dance (Playboys Remix)"
+                },
+                {
+                    "_duration": "406",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=uX-jZIDHR84",
+                    "description": "",
+                    "title": "Ransom   My Dance"
+                },
+                {
+                    "_duration": "431",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=QOOSmdtx2eU",
+                    "description": "From Dabruck \u0026 Klein - Hands On Armada, Vol. 2 - Unmixed\r\nListen to the unmixed version on Spotify: http://bit.ly/HandsOn2SF\r\nDownload on iTunes: http://bit.ly/HandsOn2IT\r\nDownload on Beatport: http://bit.ly/HandsOnUnmixedBP\r\n\r\nGet the mixed version here:",
+                    "title": "Ransom - My Dance (Dabruck \u0026 Klein Remix)"
+                },
+                {
+                    "_duration": "304",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=CHmLxmGZO9o",
+                    "description": "Old Techno",
+                    "title": "Ransom - My Dance"
+                },
+                {
+                    "_duration": "379",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=5BHk7xI6MTc",
+                    "description": "Download on Beatport: http://bit.ly/RansomMyDance\r\nDownload on iTunes: http://bit.ly/l6khUm",
+                    "title": "Ransom - My Dance (Original Mix)"
+                }
+            ]
+        }
+    }
+}

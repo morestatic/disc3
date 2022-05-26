@@ -1,0 +1,138 @@
+{
+    "release": {
+        "_id": "85824",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "866",
+                "join": "",
+                "name": "Paul Johnson",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "US",
+        "data_quality": "Needs Vote",
+        "extraartists": "",
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_description": "Scanned",
+                "_type": "Barcode",
+                "_value": "713405965316"
+            }
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "110",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "599",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "262",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "258"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "MDR9653-1",
+                "_id": "20",
+                "_name": "Moody Recordings"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "132264"
+        },
+        "released": "2002-03-00",
+        "styles": {
+            "style": [
+                "House",
+                "Deep House"
+            ]
+        },
+        "title": "Good Time",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A",
+                    "title": "Go Crazy"
+                },
+                {
+                    "duration": "",
+                    "position": "B1",
+                    "title": "Good Time"
+                },
+                {
+                    "duration": "",
+                    "position": "B2",
+                    "title": "Women Masturbate Too"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "563",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=V6odfdV0ENc",
+                    "description": "Track taken from the Good Time CDM (2002) and used in my late Erotic Mastermix (https://youtu.be/OOTokM3nIi0) : enjoy !",
+                    "title": "Paul Johnson - Women Masturbate Too"
+                },
+                {
+                    "_duration": "387",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=oTr8iCyzA9o",
+                    "description": "Favorite House Track\r\n\r\nPaul Johnson - Good Time\r\n\r\nhttp://www.discogs.com/Paul-Johnson-Good-Time/release/85824\r\n\r\nLabel: Moody Recordings\r\nCatalog#: MDR9653-1\r\nFormat: Vinyl, 12\r\nCountry: US\r\nReleased: 2002\r\nGenre: Electronic\r\nStyle: House",
+                    "title": "Paul Johnson - Good Time"
+                },
+                {
+                    "_duration": "441",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=XCqTZ02furs",
+                    "description": "Favorite House Track\r\n\r\nPaul Johnson - Go Crazy\r\n\r\nhttp://www.discogs.com/Paul-Johnson-Good-Time/release/85824\r\n\r\nLabel: Moody Recordings\r\nCatalog#: MDR9653-1\r\nFormat: Vinyl, 12\r\nCountry: US\r\nReleased: 2002\r\nGenre: Electronic\r\nStyle: House",
+                    "title": "Paul Johnson - Go Crazy"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,178 @@
+{
+    "release": {
+        "_id": "52486",
+        "_status": "Accepted",
+        "artists": {
+            "artist": [
+                {
+                    "anv": "Gate",
+                    "id": "32556",
+                    "join": "/",
+                    "name": "Charles Gate",
+                    "role": "",
+                    "tracks": ""
+                },
+                {
+                    "anv": "Sol",
+                    "id": "32614",
+                    "join": "",
+                    "name": "Victor Sol",
+                    "role": "",
+                    "tracks": ""
+                }
+            ]
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "26",
+                    "entity_type_name": "Produced At",
+                    "id": "457432",
+                    "name": "Noitect",
+                    "resource_url": "https://api.discogs.com/labels/457432"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "10",
+                    "entity_type_name": "Manufactured By",
+                    "id": "291931",
+                    "name": "CD Plant MFG",
+                    "resource_url": "https://api.discogs.com/labels/291931"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "2274359",
+                    "join": "",
+                    "name": "Peter Voigt",
+                    "role": "Photography By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "32614",
+                    "join": "",
+                    "name": "Victor Sol",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "32556",
+                    "join": "",
+                    "name": "Charles Gate",
+                    "role": "Written-By, Composed By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "32614",
+                    "join": "",
+                    "name": "Victor Sol",
+                    "role": "Written-By, Composed By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Limited Edition",
+                        "Album"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "CD PLANT MFG PS 08/47 CDM01"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "591",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "598"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PS 08/47",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Produced at Noitect, Sector A.\r\n\r\nThank you - Chandra for additional tablas, sel i/s/c for digital mastering facilities, Ramon Rojas, Juan Antonio + Luciano Alvarez for instrument support, Pink Elln + Niko Heyduck for recording equipment, Angela Jaeger for love and support.\r\n\r\nPhotographs by Peter Voigt/Captain Panama.\r\n\r\nLimitation: 1000",
+        "released": "1994-05-09",
+        "styles": {
+            "style": [
+                "Acoustic",
+                "Ambient",
+                "Modern Classical",
+                "New Age"
+            ]
+        },
+        "title": "Gate/Sol",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "28:28",
+                    "position": "1",
+                    "title": "Red"
+                },
+                {
+                    "duration": "28:48",
+                    "position": "2",
+                    "title": "Blue"
+                }
+            ]
+        },
+        "videos": {
+            "video": {
+                "_duration": "3455",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=NPZguqQYR7c",
+                "description": "Artist: Charles Gate \u0026 Victor Sol\nAlbum: Gate / Sol\nLabel: Fax\nYear: 1994\n\n1. Red [00:00]\n2. Blue [28:29]\n\n\nAll music uploaded to this channel is available for educational and informative purposes only.",
+                "title": "Charles Gate \u0026 Victor Sol - Gate / Sol (Full Album) [1994]"
+            }
+        }
+    }
+}

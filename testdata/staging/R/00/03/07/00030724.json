@@ -1,0 +1,183 @@
+{
+    "release": {
+        "_id": "30724",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "96",
+                "join": "",
+                "name": "Håkan Lidbo",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "UK",
+        "data_quality": "Needs Vote",
+        "extraartists": "",
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "12\""
+                }
+            }
+        },
+        "genres": {
+            "genre": [
+                "Electronic",
+                "Hip Hop"
+            ]
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "594",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "593",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "LOAD 66x",
+                "_id": "40",
+                "_name": "Loaded Records"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "72093"
+        },
+        "released": "2000-06-01",
+        "styles": {
+            "style": [
+                "RnB/Swing",
+                "House",
+                "UK Garage",
+                "Garage House"
+            ]
+        },
+        "title": "Walk Away",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "161",
+                            "join": "",
+                            "name": "Todd Edwards",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "A1",
+                    "title": "Walk Away (Todd's 'Walked This Way' Vocal Remix)"
+                },
+                {
+                    "duration": "",
+                    "position": "A2",
+                    "title": "Walk Away (Håkan's Straight Up House Mix)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "161",
+                            "join": "",
+                            "name": "Todd Edwards",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "AA1",
+                    "title": "Walk Away (Todd's 'Tell Someone' Dub Remix)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "574",
+                            "join": "",
+                            "name": "Monophone",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "AA2",
+                    "title": "Walk Away (Monophone Remix)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "525",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=yNVW3gJPq0o",
+                    "description": "Hakan Lidbo - Walk Away (20:20 Vision Vocal Mix) [Loaded, 2000]",
+                    "title": "Hakan Lidbo - Walk Away (20:20 Vision Vocal Mix) [Loaded, 2000]"
+                },
+                {
+                    "_duration": "386",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=2MxPDEq1Sfc",
+                    "description": "Beatport: http://www.beatport.com/release/walk-away-2020-vision-mixes/184344\n\niTunes: http://itunes.apple.com/gb/album/walk-away-20-20-vision-mixes/id379432902",
+                    "title": "Hakan Lidbo - Walk Away (Todd Edwards Remix)"
+                },
+                {
+                    "_duration": "435",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=lPmU6akYP6Q",
+                    "description": "Provided to YouTube by Warner Music Group\n\nWalk Away (20:20 Vision Unreleased Dub One) · Håkan Lidbo\n\nEstereo Dubbed\n\n℗ 2003 Loaded Records Limited, a BMG Company\n\nPerformance: Håkan Lidbo\n\nAuto-generated by YouTube.",
+                    "title": "Walk Away (20:20 Vision Unreleased Dub One)"
+                },
+                {
+                    "_duration": "357",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=JGKccXEXsIY",
+                    "description": "Provided to YouTube by Warner Music Group\n\nWalk Away (Hakan's Straight Up House Mix) · Håkan Lidbo\n\nWalk Away\n\n℗ 2000 Loaded Records Limited, a BMG Company\n\nPerformance: Håkan Lidbo\n\nAuto-generated by YouTube.",
+                    "title": "Walk Away (Hakan's Straight Up House Mix)"
+                },
+                {
+                    "_duration": "313",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=B9iqtl0YcmQ",
+                    "description": "Provided to YouTube by Warner Music Group\n\nWalk Away (20:20 Vision Unreleased Dub Two) · Håkan Lidbo\n\nEstereo Dubbed\n\n℗ 2003 Loaded Records Limited, a BMG Company\n\nPerformance: Håkan Lidbo\n\nAuto-generated by YouTube.",
+                    "title": "Walk Away (20:20 Vision Unreleased Dub Two)"
+                },
+                {
+                    "_duration": "415",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=WAAZGiJXA1Q",
+                    "description": "Provided to YouTube by Warner Music Group\n\nWalk Away (Todd's Tell Someone Dub Remix) · Håkan Lidbo\n\nWalk Away\n\n℗ 2000 Loaded Records Limited, a BMG Company\n\nProducer: Håkan Lidbo\nRemixer: Todd Edwards\n\nAuto-generated by YouTube.",
+                    "title": "Walk Away (Todd's Tell Someone Dub Remix)"
+                },
+                {
+                    "_duration": "219",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=5EQmq6Fi_nc",
+                    "description": "Provided to YouTube by Warner Music Group\n\nWalk Away (Monophone Remix) · Håkan Lidbo\n\nWalk Away\n\n℗ 2000 Loaded Records Limited, a BMG Company\n\nPerformance: Håkan Lidbo\n\nAuto-generated by YouTube.",
+                    "title": "Walk Away (Monophone Remix)"
+                }
+            ]
+        }
+    }
+}

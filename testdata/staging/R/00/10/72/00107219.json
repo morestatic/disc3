@@ -1,0 +1,139 @@
+{
+    "release": {
+        "_id": "107219",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "Namlook",
+                "id": "1910",
+                "join": "",
+                "name": "Pete Namlook",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": {
+                "catno": "",
+                "entity_type": "10",
+                "entity_type_name": "Manufactured By",
+                "id": "291931",
+                "name": "CD Plant MFG",
+                "resource_url": "https://api.discogs.com/labels/291931"
+            }
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "1910",
+                "join": "",
+                "name": "Pete Namlook",
+                "role": "Composed By",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition",
+                        "Mixed"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "CD PLANT MFG SEA 01 CDM01"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                }
+            ]
+        },
+        "images": {
+            "image": {
+                "_height": "602",
+                "_type": "primary",
+                "_uri": "",
+                "_uri150": "",
+                "_width": "600"
+            }
+        },
+        "labels": {
+            "label": {
+                "_catno": "SEA 01",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Limitation: 500\n\nFirst CD of a series of four \"Musical Postcards\" released in 1994, except for the fourth, \"Summer\", which was released in 1995.\n\nReleased in a clear plastic sleeve with no notes or tracklisting. \nThe artwork on the CD gives only one title, \"Seasons Greetings =Winter= (60:00)\", which is split into six tracks on the CD.",
+        "released": "1994-01-00",
+        "styles": {
+            "style": "Ambient"
+        },
+        "title": "Seasons Greetings =Winter=",
+        "tracklist": {
+            "track": {
+                "duration": "61:05",
+                "position": "",
+                "sub_tracks": {
+                    "track": [
+                        {
+                            "duration": "10:00",
+                            "position": "1",
+                            "title": "Untitled"
+                        },
+                        {
+                            "duration": "10:00",
+                            "position": "2",
+                            "title": "Untitled"
+                        },
+                        {
+                            "duration": "10:00",
+                            "position": "3",
+                            "title": "Untitled"
+                        },
+                        {
+                            "duration": "10:00",
+                            "position": "4",
+                            "title": "Untitled"
+                        },
+                        {
+                            "duration": "10:00",
+                            "position": "5",
+                            "title": "Untitled"
+                        },
+                        {
+                            "duration": "11:05",
+                            "position": "6",
+                            "title": "Untitled"
+                        }
+                    ]
+                },
+                "title": "Winter"
+            }
+        },
+        "videos": {
+            "video": {
+                "_duration": "3666",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=6I3B3xLAhSE",
+                "description": "ambient",
+                "title": "Pete Namlook - Season Greetings - Winter"
+            }
+        }
+    }
+}

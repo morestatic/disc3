@@ -1,0 +1,174 @@
+{
+    "release": {
+        "_id": "119190",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "15290",
+                "join": "",
+                "name": "Crypt Corp.",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "17",
+                    "entity_type_name": "Pressed By",
+                    "id": "265113",
+                    "name": "SST Brüggemann GmbH",
+                    "resource_url": "https://api.discogs.com/labels/265113"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "26",
+                    "entity_type_name": "Produced At",
+                    "id": "294391",
+                    "name": "Sonic Studios Frankfurt",
+                    "resource_url": "https://api.discogs.com/labels/294391"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "785018",
+                    "join": "",
+                    "name": "Redrum (9)",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Side A",
+                    "_type": "Matrix / Runout",
+                    "_value": "= PRODUCED AT SONIC STUDIOS FRANKFURT FOR NAMLOOK PRODUCTIONS ="
+                },
+                {
+                    "_description": "Side B",
+                    "_type": "Matrix / Runout",
+                    "_value": "SPECIAL THANKS TO G.O.D FOR NOT COMPLETELY BURNING DOWN MY STUDIO"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "6269"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "498",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "494"
+                },
+                {
+                    "_height": "498",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "495"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK  08/38",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "779079"
+        },
+        "notes": "Limited to 500 copies.",
+        "released": "1993-01-25",
+        "styles": {
+            "style": [
+                "Hard Trance",
+                "Ambient"
+            ]
+        },
+        "title": "Crypt Corp. 3",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "5:53",
+                    "position": "A1",
+                    "title": "It's Getting Strength"
+                },
+                {
+                    "duration": "5:23",
+                    "position": "B1",
+                    "title": "It's All Around Us"
+                },
+                {
+                    "duration": "6:57",
+                    "position": "B2",
+                    "title": "Greenpoint"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "341",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=sOrCIVtudls",
+                    "description": "Crypt Corp. - Crypt Corp. 3\r\n\r\nLabel:\r\nFax +49-69/450464\r\nCatalog#:\r\nPK 08/038\r\nFormat:\r\nVinyl, 12, Limited Edition\r\nCountry:\r\nGermany\r\nReleased:\r\n25 Jan 1993\r\nGenre:\r\nElectronic\r\nStyle:\r\nHard Trance, Ambient\r\n\r\nTracklist\r\nA1   It's Getting Strength 5:53",
+                    "title": "Crypt Corp - Its Getting Strenght"
+                },
+                {
+                    "_duration": "380",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Gfv3QcMgwac",
+                    "description": "http://www.discogs.com/Crypt-Corp-Crypt-Corp-3/release/119190\n\r\n\r-uploaded in HD at http://www.TunesToTube.com",
+                    "title": "Crypt Corp. - Greenpoint (Ambient 1993)"
+                },
+                {
+                    "_duration": "320",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=rgkWpRO_4xE",
+                    "description": "http://www.discogs.com/Crypt-Corp-Crypt-Corp-3/release/119190\n\r\n\r-uploaded in HD at http://www.TunesToTube.com",
+                    "title": "Crypt Corp. - It's All Around Us (Hard Trance 1993)"
+                }
+            ]
+        }
+    }
+}

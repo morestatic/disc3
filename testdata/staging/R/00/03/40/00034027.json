@@ -1,0 +1,365 @@
+{
+    "release": {
+        "_id": "34027",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "97",
+                "join": "",
+                "name": "Super_Collider",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "40",
+                    "name": "Loaded Records",
+                    "resource_url": "https://api.discogs.com/labels/40"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "40",
+                    "name": "Loaded Records",
+                    "resource_url": "https://api.discogs.com/labels/40"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "4",
+                    "entity_type_name": "Record Company",
+                    "id": "2378017",
+                    "name": "No Future (5)",
+                    "resource_url": "https://api.discogs.com/labels/2378017"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "916581",
+                    "name": "Original Artists (2)",
+                    "resource_url": "https://api.discogs.com/labels/916581"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "21",
+                    "entity_type_name": "Published By",
+                    "id": "19882",
+                    "name": "Sony",
+                    "resource_url": "https://api.discogs.com/labels/19882"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "26",
+                    "entity_type_name": "Produced At",
+                    "id": "333404",
+                    "name": "No Future Studio",
+                    "resource_url": "https://api.discogs.com/labels/333404"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "30",
+                    "entity_type_name": "Lacquer Cut At",
+                    "id": "158759",
+                    "name": "The Exchange",
+                    "resource_url": "https://api.discogs.com/labels/158759"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "17",
+                    "entity_type_name": "Pressed By",
+                    "id": "754",
+                    "name": "EMI Records",
+                    "resource_url": "https://api.discogs.com/labels/754"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "9",
+                    "entity_type_name": "Distributed By",
+                    "id": "149122",
+                    "name": "3MV",
+                    "resource_url": "https://api.discogs.com/labels/149122"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "9",
+                    "entity_type_name": "Distributed By",
+                    "id": "264522",
+                    "name": "Pinnacle (3)",
+                    "resource_url": "https://api.discogs.com/labels/264522"
+                }
+            ]
+        },
+        "country": "UK",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "5495225",
+                    "join": "",
+                    "name": "Jason Brashill",
+                    "role": "Artwork [Backdrop Sprayed By]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "2924450",
+                    "join": "",
+                    "name": "Pablo Fiasco (2)",
+                    "role": "Artwork [Backdrop Sprayed By]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "804752",
+                    "join": "",
+                    "name": "Red Design",
+                    "role": "Design",
+                    "tracks": ""
+                },
+                {
+                    "anv": "Guy's",
+                    "id": "369860",
+                    "join": "",
+                    "name": "Guy Davie",
+                    "role": "Lacquer Cut By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "344",
+                    "join": "",
+                    "name": "Cristian Vogel",
+                    "role": "Written-By, Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "345",
+                    "join": "",
+                    "name": "Jamie Lidell",
+                    "role": "Written-By, Producer",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Barcode",
+                    "_value": "5 099766 714868"
+                },
+                {
+                    "_type": "Price Code",
+                    "_value": "CB 181"
+                },
+                {
+                    "_type": "Distribution Code",
+                    "_value": "66714860000"
+                },
+                {
+                    "_description": "3MV / Pinnacle",
+                    "_type": "Distribution Code",
+                    "_value": "0171 378 8866"
+                },
+                {
+                    "_description": "Etched / Machine stamp side A",
+                    "_type": "Matrix / Runout",
+                    "_value": "GUY'S THE EXCHANGE WWW.NOFUTURE.COM LOAD 51 A-1-1- -1"
+                },
+                {
+                    "_description": "Machine stamp side B",
+                    "_type": "Matrix / Runout",
+                    "_value": "LOAD 51 B-1-1-1"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "601",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "Load 51",
+                "_id": "40",
+                "_name": "Loaded Records"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "43894"
+        },
+        "notes": "The URL etched in runout side A is missing a \"-\" between no and future and leads to a different label.\nCorrect URL was www.no-future.com",
+        "released": "1999-06-07",
+        "styles": {
+            "style": [
+                "Downtempo",
+                "Techno",
+                "Big Beat",
+                "Freestyle"
+            ]
+        },
+        "title": "It Won't Be Long / Take Me Home",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A1",
+                    "title": "It Wont Be Long"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "Vogel",
+                                "id": "344",
+                                "join": "",
+                                "name": "Cristian Vogel",
+                                "role": "Remix",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "26237",
+                                "join": "",
+                                "name": "The Lidettes",
+                                "role": "Remix",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "A2",
+                    "title": "It Wont Be Long (Vogel And The Lidettes)"
+                },
+                {
+                    "duration": "",
+                    "position": "B1",
+                    "title": "Take Me Home"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "487",
+                                "join": "",
+                                "name": "Buckfunk 3000",
+                                "role": "Remix",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "340",
+                                "join": "",
+                                "name": "Si Begg",
+                                "role": "Remix, Producer [Additional]",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "B2",
+                    "title": "Take Me Home (Buckfunk 3000 Mix)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "248",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=hUgtLCdQyf4",
+                    "description": "",
+                    "title": "Super Collider - It Won't Be Long"
+                },
+                {
+                    "_duration": "410",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Mh9xkyEfSGc",
+                    "description": "It Won't Be Long/Take Me Home 12\r\nLoaded Records\r\n1999.",
+                    "title": "Super_Collider - Take Me Home (Buckfunk 3000 Mix)"
+                },
+                {
+                    "_duration": "368",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=F9PJjFz9nuE",
+                    "description": "(C) Loaded\r\n\r\nhttp://www.youtube.com/user/7e51en",
+                    "title": "Super Collider - It Won't Be Long |Midfield General Remix| (Head On)"
+                },
+                {
+                    "_duration": "405",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=izLkKA_Hotk",
+                    "description": "",
+                    "title": "It Won't Be Long (Neil Landstrumm Remix)"
+                },
+                {
+                    "_duration": "257",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=X-aKKYYkb4w",
+                    "description": "",
+                    "title": "Super Collider - It Won't Be Long (High res/ Official video)"
+                },
+                {
+                    "_duration": "365",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=lNbM1_5y4hc",
+                    "description": "(C) Loaded",
+                    "title": "Super Collider - Take Me Home (Head On)"
+                }
+            ]
+        }
+    }
+}

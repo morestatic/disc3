@@ -1,0 +1,192 @@
+{
+    "release": {
+        "_id": "130084",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "41720",
+                "join": "",
+                "name": "Gorn",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "26",
+                    "entity_type_name": "Produced At",
+                    "id": "698732",
+                    "name": "The Trance-Lab Studio",
+                    "resource_url": "https://api.discogs.com/labels/698732"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "30",
+                    "entity_type_name": "Lacquer Cut At",
+                    "id": "265113",
+                    "name": "SST Brüggemann GmbH",
+                    "resource_url": "https://api.discogs.com/labels/265113"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "1584729",
+                    "join": "",
+                    "name": "SST (8)",
+                    "role": "Lacquer Cut By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "16732",
+                    "join": "",
+                    "name": "Massimo Vivona",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM",
+                        "45 RPM",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "This Side A",
+                    "_type": "Matrix / Runout",
+                    "_value": "PS 08/44 A SST = PRODUCED AT TRANCELAB STUDIO ="
+                },
+                {
+                    "_description": "Other Side B",
+                    "_type": "Matrix / Runout",
+                    "_value": "PS 08/44 B SST PANEM ET CIRCENSES"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PS 08/44",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "notes": "Limited to 1000 copies.\nMade In Germany.",
+        "released": "1994-04-18",
+        "styles": {
+            "style": [
+                "Trance",
+                "Techno"
+            ]
+        },
+        "title": "Gorn 3",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "",
+                    "title": "This Side"
+                },
+                {
+                    "duration": "7:47",
+                    "position": "A",
+                    "title": "E.I.LA."
+                },
+                {
+                    "duration": "",
+                    "position": "",
+                    "title": "Other Side"
+                },
+                {
+                    "duration": "5:33",
+                    "position": "B1",
+                    "title": "The Confusion 1"
+                },
+                {
+                    "duration": "5:48",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "145578",
+                            "join": "",
+                            "name": "Bela Cox",
+                            "role": "Written-By",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "B2",
+                    "title": "The Confusion 2"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "472",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=IpcocfQW1fE",
+                    "description": "Descrizione",
+                    "title": "Gorn - E.I.LA."
+                },
+                {
+                    "_duration": "321",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=8MxTLByNPG0",
+                    "description": "dedicated to Darkstrønaut",
+                    "title": "Gorn - The Confusion 1"
+                },
+                {
+                    "_duration": "345",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=ml-s_IBUWsI",
+                    "description": "Techno 1994",
+                    "title": "Gorn - The Confusion 2"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,309 @@
+{
+    "release": {
+        "_id": "112242",
+        "_status": "Accepted",
+        "artists": {
+            "artist": [
+                {
+                    "anv": "Holden",
+                    "id": "4214",
+                    "join": "\u0026",
+                    "name": "James Holden",
+                    "role": "",
+                    "tracks": ""
+                },
+                {
+                    "anv": "Thompson",
+                    "id": "114493",
+                    "join": "",
+                    "name": "Julie Thompson",
+                    "role": "",
+                    "tracks": ""
+                }
+            ]
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "13",
+                    "entity_type_name": "Phonographic Copyright (p)",
+                    "id": "40",
+                    "name": "Loaded Records",
+                    "resource_url": "https://api.discogs.com/labels/40"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "14",
+                    "entity_type_name": "Copyright (c)",
+                    "id": "40",
+                    "name": "Loaded Records",
+                    "resource_url": "https://api.discogs.com/labels/40"
+                }
+            ]
+        },
+        "country": "UK",
+        "data_quality": "Correct",
+        "extraartists": "",
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "2",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "610",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "609",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "606",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "607",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "608",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "606",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": [
+                {
+                    "_catno": "LOAD98",
+                    "_id": "40",
+                    "_name": "Loaded Records"
+                },
+                {
+                    "_catno": "LOAD98X",
+                    "_id": "40",
+                    "_name": "Loaded Records"
+                }
+            ]
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "37565"
+        },
+        "notes": "Made in England.\nNo durations appear on release.",
+        "released": "2003",
+        "styles": {
+            "style": "Progressive House"
+        },
+        "title": "Nothing",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "",
+                    "title": "LOAD98"
+                },
+                {
+                    "duration": "9:14",
+                    "position": "A",
+                    "title": "Nothing (Original)"
+                },
+                {
+                    "duration": "8:54",
+                    "position": "B",
+                    "title": "Nothing (93 Returning Mix)"
+                },
+                {
+                    "duration": "",
+                    "position": "",
+                    "title": "LOAD98X"
+                },
+                {
+                    "duration": "5:55",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "13359",
+                            "join": "",
+                            "name": "Silver City",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "C1",
+                    "title": "Nothing (Silver City Remix)"
+                },
+                {
+                    "duration": "6:31",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "13359",
+                            "join": "",
+                            "name": "Silver City",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "C2",
+                    "title": "Nothing (Silver City Dub)"
+                },
+                {
+                    "duration": "9:22",
+                    "position": "D1",
+                    "title": "Nothing (Instrumental)"
+                },
+                {
+                    "duration": "3:23",
+                    "position": "D2",
+                    "title": "Nothing (Dub)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "347",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=wDxoQERyc9s",
+                    "description": "Holden \u0026 Thompson - Nothing (Chris Porter's Ode to 03 Respray)",
+                    "title": "Holden \u0026 Thompson - Nothing (Chris Porter's Ode to 03 Respray)"
+                },
+                {
+                    "_duration": "446",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=vvQgIG-k3Us",
+                    "description": "Heard this wonderful track on Radio Unity 058 by DJ Orkidea! Enjoy!\n\nPs: check the whole episode out, one of the most beautiful sets of 2013 IMO.\nhttps://soundcloud.com/orkidea/radio-...",
+                    "title": "Holden \u0026 Thompson - Nothing (Victor Dinaire \u0026 Bissen Remix)"
+                },
+                {
+                    "_duration": "623",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=IwddqJoUL-8",
+                    "description": "James Holden feat Julie Thompson - Nothing (Cream \u0026 Deep Fog Unofficial 2014 Remix)\n\nThis is a great remix of this all-time classic track\n\nFollow Cream \u0026 Deep Fog:\nhttps://www.facebook.com/pages/Cream-Deep-Fog/572451656207391\nhttps://soundcloud.com/creamd",
+                    "title": "James Holden feat Julie Thompson - Nothing (Cream \u0026 Deep Fog Unofficial 2014 Remix)"
+                },
+                {
+                    "_duration": "572",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=DhKs1UuPvY4",
+                    "description": "Vinyl recording (Discogs release code r141379)\nhttps://www.discogs.com/Holden-Thompson-Nothing/release/141379\n\nTechnics SL-D2 turntable\nShure R25XT cartridge\nJico 774-DEJ stylus\nDenon AVR5700 phono preamp stage",
+                    "title": "{Vinyl} Holden \u0026 Thompson - Nothing (Original)"
+                },
+                {
+                    "_duration": "624",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=JHUBbeHS3IA",
+                    "description": "Loaded Legends\n\nAvailable now in all stores.\n\nBeatport: btprt.dj/1c6so72\niTunes: bit.ly/1lCncS9",
+                    "title": "Holden \u0026 Thompson - Nothing - MYNC Vocal Mix"
+                },
+                {
+                    "_duration": "338",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=z9c-_i2Z_JI",
+                    "description": "3. Holden \u0026 Thompson - Nothing (Breakfast Remix) \n\nFeatured at:\n\nBreakfast Exclusive - A Free 60 Minute Mix-Tape\n\nDownload at www.breakfastexclusive.com\n\nwww.caseykeyworth.com\nwww.breakfastexclusive.com\n\nBecome a fan at:\nwww.facebook.com/pages/Breakfast/1",
+                    "title": "Holden \u0026 Thompson - Nothing (Breakfast Remix)"
+                },
+                {
+                    "_duration": "483",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=rWGowE8d6QE",
+                    "description": "Provided to YouTube by Loaded Records\n\nNothing (93 Returning Remix) · Holden\n\nNothing - EP\n\n℗ 2003 Loaded Records Limited, a BMG Company\n\nPerformance: Holden \u0026 Thompson\n\nAuto-generated by YouTube.",
+                    "title": "Nothing (93 Returning Remix)"
+                },
+                {
+                    "_duration": "454",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=-n2UInsoVUY",
+                    "description": "Produced by James Holden, written by James Holden and Julie Thompson. Remixed by Fernando Pulichino and Julian Sanza aka Silver City. Released on Loaded Records in 2003.",
+                    "title": "Holden \u0026 Thompson - Nothing (Silver City Remix) [HQ]"
+                },
+                {
+                    "_duration": "519",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=_zlfB6FIqVg",
+                    "description": "Holden \u0026 Thompson - Nothing (Hiver \u0026 Hammer RMX)\nLabel: Cookies 'n Cream Recordings\nReleased: 2003",
+                    "title": "Holden \u0026 Thompson - Nothing (Hiver \u0026 Hammer Remix) [Cookies 'n Cream Recordings 2003]"
+                },
+                {
+                    "_duration": "433",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=cR81Nmie8tk",
+                    "description": "http://www.discogs.com/Holden-Thompson-Nothing-Remixes/release/161240",
+                    "title": "Holden \u0026 Thompson - Nothing (Laid Vocal)"
+                },
+                {
+                    "_duration": "202",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=lbAFKWOo3WQ",
+                    "description": "d-_-b",
+                    "title": "JAMES HOLDEN and THOMPSON - Nothing (Radio Edit)"
+                },
+                {
+                    "_duration": "454",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=IDiW2GSthVY",
+                    "description": "Provided to YouTube by Loaded Records\n\nNothing (Silver City Dub) · Holden\n\nNothing\n\n℗ 2003 Loaded Records Limited, a BMG Company\n\nPerformance: Holden \u0026 Thompson\n\nAuto-generated by YouTube.",
+                    "title": "Nothing (Silver City Dub)"
+                },
+                {
+                    "_duration": "251",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=nyVHHQTcQoQ",
+                    "description": ":)",
+                    "title": "James Holden  - Nothing (Acapella).wmv"
+                },
+                {
+                    "_duration": "583",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=l6k3Rff7yFY",
+                    "description": "Provided to YouTube by Loaded Records\n\nNothing (Instrumental) · Holden\n\nNothing - EP\n\n℗ 2003 Loaded Records Limited, a BMG Company\n\nPerformance: Holden \u0026 Thompson\n\nAuto-generated by YouTube.",
+                    "title": "Nothing (Instrumental)"
+                },
+                {
+                    "_duration": "216",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=0UEgLJznJDc",
+                    "description": "http://www.jamesholden.org/\nhttp://www.jamesholden-djkicks.com/\nhttp://www.myspace.com/76802360/shows",
+                    "title": "James Holden - Nothing (Dub Mix)"
+                }
+            ]
+        }
+    }
+}

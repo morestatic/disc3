@@ -1,0 +1,470 @@
+{
+    "release": {
+        "_id": "12244",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "800",
+                "join": "",
+                "name": "Terry Lee Brown Jr.",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "Germany",
+        "data_quality": "Complete and Correct",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "800",
+                "join": "",
+                "name": "Terry Lee Brown Jr.",
+                "role": "DJ Mix",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Compilation",
+                        "Mixed"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Printed",
+                    "_type": "Barcode",
+                    "_value": "8 08287 00152 5"
+                },
+                {
+                    "_description": "Scanned",
+                    "_type": "Barcode",
+                    "_value": "0808287001525"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "598"
+                },
+                {
+                    "_height": "469",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PLACCD025-2",
+                "_id": "244",
+                "_name": "Plastic City"
+            }
+        },
+        "released": "2001-09-28",
+        "styles": {
+            "style": [
+                "Deep House",
+                "Tech House"
+            ]
+        },
+        "title": "Terry's Café 4",
+        "tracklist": {
+            "track": [
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "3757",
+                            "join": "",
+                            "name": "Alphawezen",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "800",
+                            "join": "",
+                            "name": "Terry Lee Brown Jr.",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "1",
+                    "title": "Gai Soleil (Terry Lee Brown Jr. Dub Remix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "50",
+                            "join": "",
+                            "name": "ADNY",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1526",
+                            "join": "",
+                            "name": "Mateo Murphy",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "2",
+                    "title": "Never Leave You (Mateo Murphy Remix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "3313",
+                            "join": "",
+                            "name": "Reset",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "96",
+                            "join": "",
+                            "name": "Håkan Lidbo",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "3",
+                    "title": "Pickpocket (Hakan Lidbo Remix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1758",
+                            "join": "",
+                            "name": "The Ananda Project",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "extraartists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "30678",
+                                "join": "",
+                                "name": "Terrance Downs",
+                                "role": "Featuring",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "30256",
+                                "join": "",
+                                "name": "The Timewriter",
+                                "role": "Remix",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "position": "4",
+                    "title": "Glory Glory (Timewriter's Sexy Way Dub)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "8988",
+                            "join": "",
+                            "name": "The Kelly Project",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "5",
+                    "title": "Home At Last"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "2509",
+                            "join": "",
+                            "name": "Yann Fontaine",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "4471",
+                            "join": "",
+                            "name": "New Phunk Theory",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "6",
+                    "title": "Open Your Eyes (New Phunk Theory Remix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "10610",
+                            "join": "",
+                            "name": "Sono",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "800",
+                            "join": "",
+                            "name": "Terry Lee Brown Jr.",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "7",
+                    "title": "Keep Control (Terry Lee Brown Jr.'s Vocal Mix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "53",
+                            "join": "",
+                            "name": "Casey Hogan",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "8",
+                    "title": "Swollen"
+                },
+                {
+                    "artists": {
+                        "artist": [
+                            {
+                                "anv": "",
+                                "id": "15166",
+                                "join": "vs.",
+                                "name": "KC Flightt",
+                                "role": "",
+                                "tracks": ""
+                            },
+                            {
+                                "anv": "",
+                                "id": "71519",
+                                "join": "",
+                                "name": "Funky Junction",
+                                "role": "",
+                                "tracks": ""
+                            }
+                        ]
+                    },
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "5558",
+                            "join": "",
+                            "name": "Fata Morgana",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "9",
+                    "title": "Voices (Fata Morgana Remix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "15105",
+                            "join": "",
+                            "name": "Wondabraa",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "7048",
+                            "join": "",
+                            "name": "Shape Shifter",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "10",
+                    "title": "Discohead (Shape Shifter Remix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "704",
+                            "join": "",
+                            "name": "Deep Sensation",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "11",
+                    "title": "Can't Give You Up"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "3056",
+                            "join": "",
+                            "name": "Drain Pipe",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "12",
+                    "title": "New Life"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "2637",
+                            "join": "",
+                            "name": "G-Pal",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "13",
+                    "title": "Anyway From You"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "2496",
+                            "join": "",
+                            "name": "Joe Silva",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "14",
+                    "title": "Silent Voices"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "648",
+                            "join": "",
+                            "name": "Hi-Lo",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "15",
+                    "title": "Blow Out Connection"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "11968",
+                            "join": "",
+                            "name": "Crave",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1849",
+                            "join": "",
+                            "name": "Sunkissed",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "16",
+                    "title": "Microdots (Sunkissed Remix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "25349",
+                            "join": "",
+                            "name": "Journeyman (3)",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "17",
+                    "title": "Kiss"
+                }
+            ]
+        },
+        "videos": {
+            "video": {
+                "_duration": "4664",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=6dvWO8vnczY",
+                "description": "TRACKLIST:\n\n1 –Alphawezen  Gai Soleil (Terry Lee Brown Jr. Dub Remix)\n2 –ADNY  Never Leave You (Mateo Murphy Remix)\n3 –Reset  Pickpocket (Hakan Lidbo Remix)\n4 –The Ananda Project  Glory Glory (Timewriter's Sexy Way Dub)\n5 –The Kelly Project  Hom",
+                "title": "Terry's Café 4"
+            }
+        }
+    }
+}

@@ -1,0 +1,326 @@
+{
+    "release": {
+        "_id": "89955",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "717227",
+                "join": "",
+                "name": "Whiplash (6)",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "UK",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "1227",
+                    "join": "",
+                    "name": "DJ Assault",
+                    "role": "Producer",
+                    "tracks": "AA2"
+                },
+                {
+                    "anv": "",
+                    "id": "1529",
+                    "join": "",
+                    "name": "Martin Venetjoki",
+                    "role": "Producer",
+                    "tracks": "A1 to AA1"
+                },
+                {
+                    "anv": "",
+                    "id": "504031",
+                    "join": "",
+                    "name": "C. Adams",
+                    "role": "Vocals",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1227",
+                    "join": "",
+                    "name": "DJ Assault",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1529",
+                    "join": "",
+                    "name": "Martin Venetjoki",
+                    "role": "Written-By",
+                    "tracks": "A1 to AA1"
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "12\""
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "LOAD 090",
+                "_id": "40",
+                "_name": "Loaded Records"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "false",
+            "content": "141506"
+        },
+        "notes": "'Ghetto Tears' contains a sample from DJ Assault.",
+        "released": "2002",
+        "styles": {
+            "style": "Tech House"
+        },
+        "title": "Ghetto Tears",
+        "tracklist": {
+            "track": [
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "717227",
+                            "join": "",
+                            "name": "Whiplash (6)",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "5485",
+                            "join": "",
+                            "name": "Erick Morillo",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "A1",
+                    "title": "Ghetto Tears (Erick Morillo Remix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "717227",
+                            "join": "",
+                            "name": "Whiplash (6)",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "5485",
+                            "join": "",
+                            "name": "Erick Morillo",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "A2",
+                    "title": "Ghetto Tears (Erick Morillo Acapella No. 1)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "717227",
+                            "join": "",
+                            "name": "Whiplash (6)",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "5485",
+                            "join": "",
+                            "name": "Erick Morillo",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "A3",
+                    "title": "Ghetto Tears (Erick Morillo Acapella No. 2)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "717227",
+                            "join": "",
+                            "name": "Whiplash (6)",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "3006",
+                            "join": "",
+                            "name": "Phil Kieran",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "AA1",
+                    "title": "Ghetto Tears (Phil Kieran Breaks Remix)"
+                },
+                {
+                    "artists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "1227",
+                            "join": "",
+                            "name": "DJ Assault",
+                            "role": "",
+                            "tracks": ""
+                        }
+                    },
+                    "duration": "",
+                    "position": "AA2",
+                    "title": "Tear The Club Up"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "375",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=c59Zl05hjpM",
+                    "description": "Tear The F**king Club Up",
+                    "title": "Whiplash - Ghetto Tears [House]"
+                },
+                {
+                    "_duration": "196",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Tuael8ti1-g",
+                    "description": "store.jeffersonave.com/track/tear-the-club-up\n\nDJ Assault:\nfacebook.com/jeffersonavellc\ntwitter.com/djassault\ninstagram.com/djassault1",
+                    "title": "DJ Assault - Tear The Club Up"
+                },
+                {
+                    "_duration": "381",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Ocq60bGJpFQ",
+                    "description": "",
+                    "title": "Whiplash - Ghetto Tears - Erick Morillo Remix"
+                },
+                {
+                    "_duration": "436",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=LBifq6zh7-o",
+                    "description": "Provided to YouTube by Loaded records\n\nGhetto Tears (Red Moon No Fucking Remix) · Whiplash\n\nGhetto Tears\n\n℗ 2001 Loaded Records Limited, a BMG Company\n\nPerformance: Whiplash\n\nAuto-generated by YouTube.",
+                    "title": "Ghetto Tears (Red Moon No Fucking Remix)"
+                },
+                {
+                    "_duration": "421",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=W7KNdTdfVmc",
+                    "description": "Provided to YouTube by Loaded records\n\nCryin' · Whiplash\n\nGhetto Tears\n\n℗ 2001 Loaded Records Limited, a BMG Company\n\nPerformance: Whiplash\n\nAuto-generated by YouTube.",
+                    "title": "Cryin'"
+                },
+                {
+                    "_duration": "377",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=aHnqcF2tHYU",
+                    "description": "Provided to YouTube by Loaded Records\n\nGhetto Tears (Erick Morillo Remix) · Whiplash\n\nFine House Music, Vol. 2\n\n℗ 2002 Loaded Records Limited, a BMG Company\n\nPerformance: Whiplash\n\nAuto-generated by YouTube.",
+                    "title": "Ghetto Tears (Erick Morillo Remix)"
+                },
+                {
+                    "_duration": "118",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=r66TEllCw6w",
+                    "description": "Provided to YouTube by Loaded Records\n\nGhetto Tears (Erick Morillo Accapella No. 2) · Whiplash\n\nGhetto Tears\n\n℗ 2002 Loaded Records Limited, a BMG Company\n\nPerformance: Whiplash\n\nAuto-generated by YouTube.",
+                    "title": "Ghetto Tears (Erick Morillo Accapella No. 2)"
+                },
+                {
+                    "_duration": "444",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Zn_UAIl5Xc4",
+                    "description": "",
+                    "title": "Whiplash - Ghetto Tears (Red Moon ''No Fucking'' Remix)"
+                },
+                {
+                    "_duration": "351",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=nwYFZwi6x-Y",
+                    "description": "Provided to YouTube by Loaded records\n\nGhetto Tears · Whiplash\n\nGhetto Tears\n\n℗ 2001 Loaded Records Limited, a BMG Company\n\nPerformance: Whiplash\n\nAuto-generated by YouTube.",
+                    "title": "Ghetto Tears"
+                },
+                {
+                    "_duration": "378",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=aRzGVrFtm0M",
+                    "description": "Provided to YouTube by Loaded Records\n\nGhetto Tears (Erick Morillo Remix) · Whiplash\n\nGhetto Tears\n\n℗ 2002 Loaded Records Limited, a BMG Company\n\nPerformance: Whiplash\n\nAuto-generated by YouTube.",
+                    "title": "Ghetto Tears (Erick Morillo Remix)"
+                },
+                {
+                    "_duration": "476",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=qHvGQBKbmLw",
+                    "description": "https://www.discogs.com/es/Whiplash-Ghetto-Tears/release/89955",
+                    "title": "Whiplash - Ghetto Tears (Phil Kieran Breaks Remix)"
+                },
+                {
+                    "_duration": "473",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Ba9H7uqvMx8",
+                    "description": "Provided to YouTube by BMG Rights Management (UK) Limited\n\nGhetto Tears (Phil Kieran Breaks Mix) · Whiplash\n\nGhetto Tears\n\n℗ 2002 Loaded Records Limited, a BMG Company\n\nReleased on: 2002-04-15\n\nPerformer: Whiplash\nComposer: Martin Venetjoki\nComposer: C",
+                    "title": "Ghetto Tears (Phil Kieran Breaks Mix)"
+                }
+            ]
+        }
+    }
+}

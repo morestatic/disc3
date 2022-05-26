@@ -1,0 +1,139 @@
+{
+    "release": {
+        "_id": "116920",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "15288",
+                "join": "",
+                "name": "Limelight",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "233178",
+                    "join": "",
+                    "name": "DJ Brainwave",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": "",
+        "images": {
+            "image": [
+                {
+                    "_height": "498",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "493"
+                },
+                {
+                    "_height": "498",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "493"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK  08/36",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "129337"
+        },
+        "notes": "Limitation: 500\r\n\"POENAE LOCO 7 SONUS LINGUAE LATINAE\"\r\nIs Etched On Runout Groove On Side B",
+        "released": "1993-01-25",
+        "styles": {
+            "style": [
+                "Trance",
+                "Acid",
+                "Ambient"
+            ]
+        },
+        "title": "Limelight 3",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "7:08",
+                    "position": "A1",
+                    "title": "Rerum Natura (Pluris Costare Mix)"
+                },
+                {
+                    "duration": "6:42",
+                    "position": "A2",
+                    "title": "Natura (Vita Somnium Breve Mix)"
+                },
+                {
+                    "duration": "5:54",
+                    "position": "B",
+                    "title": "Sorti Destinatus"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "431",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=sexmWK3vASA",
+                    "description": "LIMELIGHT - RERUM NATURA (PLURIS COSTARE MIX) - LIMELIGHT 3 [FAX RECORDS]",
+                    "title": "Limelight - Rerum Natura (Pluris Costare Mix)"
+                },
+                {
+                    "_duration": "406",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=3aRpO-fxa4Y",
+                    "description": "http://www.discogs.com/Limelight-Limelight-3/release/116920\n\r\n\r-uploaded in HD at http://www.TunesToTube.com",
+                    "title": "Limelight - Natura (Vita Somnium Breve Mix) (Acid Trance 1993)"
+                },
+                {
+                    "_duration": "500",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Segt71dKlvk",
+                    "description": "",
+                    "title": "Limelight : Sorti Destinatus : The Definitive Ambient Collection"
+                }
+            ]
+        }
+    }
+}

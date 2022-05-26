@@ -1,0 +1,204 @@
+{
+    "release": {
+        "_id": "76311",
+        "_status": "Accepted",
+        "artists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "62853",
+                    "join": "Featuring",
+                    "name": "Underground Soul",
+                    "role": "",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "62854",
+                    "join": "",
+                    "name": "John Minnis",
+                    "role": "",
+                    "tracks": ""
+                }
+            ]
+        },
+        "companies": "",
+        "country": "UK",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "268212",
+                    "join": "",
+                    "name": "Joe Granda",
+                    "role": "Executive Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "325137",
+                    "join": "",
+                    "name": "Juan Bartet",
+                    "role": "Producer, Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "62854",
+                    "join": "",
+                    "name": "John Minnis",
+                    "role": "Vocals, Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "12\""
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": {
+                "_type": "Barcode",
+                "_value": "5 025425 601965"
+            }
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "300",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "300"
+                },
+                {
+                    "_height": "300",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "300"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "LOAD 19",
+                "_id": "40",
+                "_name": "Loaded Records"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "false",
+            "content": "269567"
+        },
+        "notes": "Published by Mokafur/Eyes Of An Angel (BMI).\r\nLicenced from Angel Eye Records (USA).",
+        "released": "1994",
+        "styles": {
+            "style": "House"
+        },
+        "title": "Let The Rhythm Get You",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "28522",
+                            "join": "",
+                            "name": "Play Boys",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "A1",
+                    "title": "Let The Rhythm Get You (Play Boys Fully Loaded Dub)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "28522",
+                            "join": "",
+                            "name": "Play Boys",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "A2",
+                    "title": "Let The Rhythm Get You (Play Boys Acapella)"
+                },
+                {
+                    "duration": "",
+                    "position": "B1",
+                    "title": "Let The Rhythm Get You (Original Club Vocal)"
+                },
+                {
+                    "duration": "",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "28522",
+                            "join": "",
+                            "name": "Play Boys",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "B2",
+                    "title": "Let The Rhythm Get You (Play Boys Fully Loaded Vocal)"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "498",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=M_TXMs6r0BM",
+                    "description": "Loaded Records ‎– LOAD 19 UK 1994",
+                    "title": "Underground Soul feat John Minnis - Let The Rhythm Get You (Play Boys Fully Loaded Vocal)"
+                },
+                {
+                    "_duration": "502",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=x3A9yjyuuPc",
+                    "description": "Underground Soul Featuring John Minnis ‎-- Let The Rhythm Get You\nLabel:\nLoaded Records ‎-- LOAD 19\nFormat:\nVinyl, 12\nCountry:\nUK\nReleased:\n1994\nGenre:\nElectronic\nStyle:\nHouse\nTracklist▼\nA1   Let The Rhythm Get You (Play Boys Fully Loaded Dub)\nA2",
+                    "title": "Underground Soul Ft. John Minnis - Let The Rhythm Get You (Play Boys Fully Loaded Dub)"
+                },
+                {
+                    "_duration": "381",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=-OZxibTxlbo",
+                    "description": "http://itunes.apple.com/gb/album/let-the-rhythm-get-you-ep/id379266645",
+                    "title": "Underground soul - Let the rhythm get you"
+                },
+                {
+                    "_duration": "501",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=gKTVQSta540",
+                    "description": "Provided to YouTube by Loaded records\n\nLet the Rhythm Get You (Playboys Fully Loaded Dub) · Underground Soul\n\nLet the Rhythm Get You\n\n℗ 1995 Loaded Records Limited, a BMG Company\n\nPerformance: Underground Soul\n\nAuto-generated by YouTube.",
+                    "title": "Let the Rhythm Get You (Playboys Fully Loaded Dub)"
+                },
+                {
+                    "_duration": "484",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=wkvDh5rXOOI",
+                    "description": "Provided to YouTube by Loaded records\n\nLet the Rhythm Get You (Playboys Fully Loaded Vocal) · Underground Soul\n\nLet the Rhythm Get You\n\n℗ 1995 Loaded Records Limited, a BMG Company\n\nPerformance: Underground Soul\n\nAuto-generated by YouTube.",
+                    "title": "Let the Rhythm Get You (Playboys Fully Loaded Vocal)"
+                }
+            ]
+        }
+    }
+}

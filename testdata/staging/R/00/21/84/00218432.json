@@ -1,0 +1,143 @@
+{
+    "release": {
+        "_id": "218432",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "26020",
+                "join": "",
+                "name": "Patrick Alavi",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "US",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": {
+                "anv": "",
+                "id": "26020",
+                "join": "",
+                "name": "Patrick Alavi",
+                "role": "Written-By, Producer",
+                "tracks": ""
+            }
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": "12\""
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "Text",
+                    "_type": "Barcode",
+                    "_value": "7 13405 96631 3"
+                },
+                {
+                    "_description": "Scanned",
+                    "_type": "Barcode",
+                    "_value": "713405966313"
+                }
+            ]
+        },
+        "images": {
+            "image": {
+                "_height": "180",
+                "_type": "secondary",
+                "_uri": "",
+                "_uri150": "",
+                "_width": "180"
+            }
+        },
+        "labels": {
+            "label": {
+                "_catno": "MDR9663-1",
+                "_id": "20",
+                "_name": "Moody Recordings"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "278653"
+        },
+        "released": "2003-12-00",
+        "styles": {
+            "style": [
+                "House",
+                "Deep House",
+                "Acid House"
+            ]
+        },
+        "title": "My Last Touch",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "7:07",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "68856",
+                            "join": "",
+                            "name": "Synthique",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "A",
+                    "title": "My Last Touch (Synthique Rmx)"
+                },
+                {
+                    "duration": "4:59",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "68856",
+                            "join": "",
+                            "name": "Synthique",
+                            "role": "Remix",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "B1",
+                    "title": "My Last Touch (Synthique Freakmix)"
+                },
+                {
+                    "duration": "4:49",
+                    "extraartists": {
+                        "artist": {
+                            "anv": "",
+                            "id": "26020",
+                            "join": "",
+                            "name": "Patrick Alavi",
+                            "role": "Vocals [Uncredited]",
+                            "tracks": ""
+                        }
+                    },
+                    "position": "B2",
+                    "title": "My Last Touch (Original Mix)"
+                }
+            ]
+        },
+        "videos": {
+            "video": {
+                "_duration": "301",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=_9gLxJiAPg0",
+                "description": "ENJOY TRUE HOUSEMUSIC!",
+                "title": "Patrick Alavi - My last touch (Synthique Freakmix)   (upped by DJ tHuG)"
+            }
+        }
+    }
+}

@@ -1,0 +1,272 @@
+{
+    "release": {
+        "_id": "13832",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "292991",
+                "join": "",
+                "name": "Sultan (2)",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": [
+                {
+                    "catno": "",
+                    "entity_type": "23",
+                    "entity_type_name": "Recorded At",
+                    "id": "294386",
+                    "name": "Klanglabor Frankfurt",
+                    "resource_url": "https://api.discogs.com/labels/294386"
+                },
+                {
+                    "catno": "",
+                    "entity_type": "10",
+                    "entity_type_name": "Manufactured By",
+                    "id": "267946",
+                    "name": "CD Plant AB",
+                    "resource_url": "https://api.discogs.com/labels/267946"
+                }
+            ]
+        },
+        "country": "Germany",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "2246351",
+                    "join": "",
+                    "name": "Reiner Pfisterer",
+                    "role": "Photography By [Namlook Photo]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "58657",
+                    "join": "",
+                    "name": "Peter Kuhlmann",
+                    "role": "Producer",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "72002",
+                    "join": "",
+                    "name": "Pete Namlook \u0026 Burhan Öçal",
+                    "role": "Written By [Tracks]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "243724",
+                    "join": "",
+                    "name": "Burhan Öçal",
+                    "role": "Written-By [Tracks]",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By [Tracks]",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "CD",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "Album",
+                        "Limited Edition"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Matrix / Runout",
+                    "_value": "CD PLANT AB PW 27 CDM01"
+                },
+                {
+                    "_type": "Label Code",
+                    "_value": "LC 6269"
+                },
+                {
+                    "_type": "Mastering SID Code",
+                    "_value": "IFPI LB01"
+                },
+                {
+                    "_type": "Mould SID Code",
+                    "_value": "ifpi 8406"
+                }
+            ]
+        },
+        "images": {
+            "image": {
+                "_height": "600",
+                "_type": "primary",
+                "_uri": "",
+                "_uri150": "",
+                "_width": "600"
+            }
+        },
+        "labels": {
+            "label": {
+                "_catno": "PW 27",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "139454"
+        },
+        "notes": "Recorded at Klanglabor, Frankfurt\nLimitation: 1000\n\nThe artwork and CD body list only two tracks with the first one having supposedly 9 parts. There are only 8 index tracks for that track though.\nDurations only listed for the two tracks. Other durations taken by computer.\nJewel case packaging with 4-page booklet",
+        "released": "1996-03-25",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Tribal"
+            ]
+        },
+        "title": "Sultan",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "33:21",
+                    "position": "",
+                    "sub_tracks": {
+                        "track": [
+                            {
+                                "duration": "6:44",
+                                "position": "1",
+                                "title": "Yenilik (Part I)"
+                            },
+                            {
+                                "duration": "5:04",
+                                "position": "2",
+                                "title": "Yenilik (Part II)"
+                            },
+                            {
+                                "duration": "1:17",
+                                "position": "3",
+                                "title": "Yenilik (Part III)"
+                            },
+                            {
+                                "duration": "11:59",
+                                "position": "4",
+                                "title": "Yenilik (Part IV)"
+                            },
+                            {
+                                "duration": "1:40",
+                                "position": "5",
+                                "title": "Yenilik (Part V)"
+                            },
+                            {
+                                "duration": "1:52",
+                                "position": "6",
+                                "title": "Yenilik (Part VI)"
+                            },
+                            {
+                                "duration": "3:36",
+                                "position": "7",
+                                "title": "Yenilik (Part VII)"
+                            },
+                            {
+                                "duration": "1:10",
+                                "position": "8",
+                                "title": "Yenilik (Part VIII)"
+                            }
+                        ]
+                    },
+                    "title": "Yenilik (Part I - IX)"
+                },
+                {
+                    "duration": "19:17",
+                    "position": "9",
+                    "title": "Gel Gör Beni Ask N'eyledi"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "405",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=TV1moYaxWh4",
+                    "description": "Provided to YouTube by Netd Müzik Video Dijital Platform A.Ş.\n\nYenilik, Pt. 1 · Burhan Öçal, Pete Namlook · Burhan Öçal · Pete Namlook · Anonim\n\nSultan\n\n℗ ADA MÜZİK\n\nReleased on: 1997-01-21\n\nAuto-generated by YouTube.",
+                    "title": "Yenilik, Pt. 1"
+                },
+                {
+                    "_duration": "305",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=Wg8RNOl9HVI",
+                    "description": "Provided to YouTube by Netd Müzik Video Dijital Platform A.Ş.\n\nYenilik, Pt. 2 · Burhan Öçal, Pete Namlook · Burhan Öçal · Pete Namlook · Anonim\n\nSultan\n\n℗ ADA MÜZİK\n\nReleased on: 1997-01-21\n\nAuto-generated by YouTube.",
+                    "title": "Yenilik, Pt. 2"
+                },
+                {
+                    "_duration": "78",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=RLuaXYuJFYE",
+                    "description": "Provided to YouTube by Netd Müzik Video Dijital Platform A.Ş.\n\nYenilik, Pt. 3 · Burhan Öçal, Pete Namlook · Burhan Öçal · Pete Namlook · Anonim\n\nSultan\n\n℗ ADA MÜZİK\n\nReleased on: 1997-01-21\n\nAuto-generated by YouTube.",
+                    "title": "Yenilik, Pt. 3"
+                },
+                {
+                    "_duration": "719",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=9wH9jbOgU3Q",
+                    "description": "Provided to YouTube by Netd Müzik Video Dijital Platform A.Ş.\n\nYenilik, Pt. 4 · Burhan Öçal, Pete Namlook · Burhan Öçal · Pete Namlook · Anonim\n\nSultan\n\n℗ ADA MÜZİK\n\nReleased on: 1997-01-21\n\nAuto-generated by YouTube.",
+                    "title": "Yenilik, Pt. 4"
+                },
+                {
+                    "_duration": "100",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=WDaOwaPx8pY",
+                    "description": "Provided to YouTube by Netd Müzik Video Dijital Platform A.Ş.\n\nYenilik, Pt. 5 · Burhan Öçal, Pete Namlook · Burhan Öçal · Pete Namlook · Anonim\n\nSultan\n\n℗ ADA MÜZİK\n\nReleased on: 1997-01-21\n\nAuto-generated by YouTube.",
+                    "title": "Yenilik, Pt. 5"
+                },
+                {
+                    "_duration": "113",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=V8DDBTWjZb8",
+                    "description": "Provided to YouTube by Netd Müzik Video Dijital Platform A.Ş.\n\nYenilik, Pt. 6 · Burhan Öçal, Pete Namlook · Burhan Öçal · Pete Namlook · Anonim\n\nSultan\n\n℗ ADA MÜZİK\n\nReleased on: 1997-01-21\n\nAuto-generated by YouTube.",
+                    "title": "Yenilik, Pt. 6"
+                },
+                {
+                    "_duration": "217",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=UBLmrh2VVlk",
+                    "description": "Provided to YouTube by Netd Müzik Video Dijital Platform A.Ş.\n\nYenilik, Pt. 7 · Burhan Öçal, Pete Namlook · Burhan Öçal · Pete Namlook · Anonim\n\nSultan\n\n℗ ADA MÜZİK\n\nReleased on: 1997-01-21\n\nAuto-generated by YouTube.",
+                    "title": "Yenilik, Pt. 7"
+                },
+                {
+                    "_duration": "70",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=g8JHZqbq1IQ",
+                    "description": "Provided to YouTube by Netd Müzik Video Dijital Platform A.Ş.\n\nYenilik, Pt. 8 · Burhan Öçal, Pete Namlook · Burhan Öçal · Pete Namlook · Anonim\n\nSultan\n\n℗ ADA MÜZİK\n\nReleased on: 1997-01-21\n\nAuto-generated by YouTube.",
+                    "title": "Yenilik, Pt. 8"
+                },
+                {
+                    "_duration": "1159",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=JvRVK4PlROA",
+                    "description": "Provided to YouTube by Netd Müzik Video Dijital Platform A.Ş.\n\nGel Gör Beni Aşk Neyledi · Burhan Öçal, Pete Namlook · Burhan Öçal · Pete Namlook · Anonim\n\nSultan\n\n℗ ADA MÜZİK\n\nReleased on: 1997-01-21\n\nAuto-generated by YouTube.",
+                    "title": "Gel Gör Beni Aşk Neyledi"
+                }
+            ]
+        }
+    }
+}

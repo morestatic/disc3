@@ -1,0 +1,142 @@
+{
+    "release": {
+        "_id": "74069",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "292994",
+                "join": "",
+                "name": "Amp (5)",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": "",
+        "country": "Germany",
+        "data_quality": "Needs Vote",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "9847",
+                    "join": "",
+                    "name": "Dandy Jack",
+                    "role": "Written-By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "1910",
+                    "join": "",
+                    "name": "Pete Namlook",
+                    "role": "Written-By",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "Limited Edition",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_description": "A-Side",
+                    "_type": "Matrix / Runout",
+                    "_value": "Produced By Pete Namlook + Dandy Jack At Klanglab -FAX - PK 08/118 A"
+                },
+                {
+                    "_description": "B-Side",
+                    "_type": "Matrix / Runout",
+                    "_value": "Analog Information Processing PK 08/118 B"
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "485",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "485"
+                },
+                {
+                    "_height": "485",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "485"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "PK 08/118",
+                "_id": "60",
+                "_name": "Fax +49-69/450464"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "1702588"
+        },
+        "notes": "Limitation: 500",
+        "released": "1996-06-01",
+        "styles": {
+            "style": [
+                "Ambient",
+                "Electro",
+                "Techno"
+            ]
+        },
+        "title": "Amp",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "11:35",
+                    "position": "A1",
+                    "title": "Staircase"
+                },
+                {
+                    "duration": "7:36",
+                    "position": "A2",
+                    "title": "Chica"
+                },
+                {
+                    "duration": "7:02",
+                    "position": "B1",
+                    "title": "Strahl"
+                },
+                {
+                    "duration": "9:41",
+                    "position": "B2",
+                    "title": "Kuch"
+                }
+            ]
+        },
+        "videos": {
+            "video": {
+                "_duration": "455",
+                "_embed": "true",
+                "_src": "https://www.youtube.com/watch?v=hOjsbUphZSQ",
+                "description": "Label: Fax +49-69/450464 ‎– PK 08/118\nFormat: Vinyl, 12, Limited Edition, 33 ⅓ RPM\nCountry: Germany\nReleased: 01 Jun 1996\nGenre: Electronic\nStyle: Ambient, Electro, Techno",
+                "title": "Amp - Chica"
+            }
+        }
+    }
+}

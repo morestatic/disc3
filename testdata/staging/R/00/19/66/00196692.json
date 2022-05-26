@@ -1,0 +1,183 @@
+{
+    "release": {
+        "_id": "196692",
+        "_status": "Accepted",
+        "artists": {
+            "artist": {
+                "anv": "",
+                "id": "9880",
+                "join": "",
+                "name": "DJ Rhythm",
+                "role": "",
+                "tracks": ""
+            }
+        },
+        "companies": {
+            "company": {
+                "catno": "",
+                "entity_type": "29",
+                "entity_type_name": "Mastered At",
+                "id": "270907",
+                "name": "Metropolis Mastering, Ltd",
+                "resource_url": "https://api.discogs.com/labels/270907"
+            }
+        },
+        "country": "US",
+        "data_quality": "Correct",
+        "extraartists": {
+            "artist": [
+                {
+                    "anv": "",
+                    "id": "471429",
+                    "join": "",
+                    "name": "Mark Richardson (3)",
+                    "role": "Mastered By",
+                    "tracks": ""
+                },
+                {
+                    "anv": "",
+                    "id": "9880",
+                    "join": "",
+                    "name": "DJ Rhythm",
+                    "role": "Mixed By, Producer",
+                    "tracks": ""
+                }
+            ]
+        },
+        "formats": {
+            "format": {
+                "_name": "Vinyl",
+                "_qty": "1",
+                "_text": "",
+                "descriptions": {
+                    "description": [
+                        "12\"",
+                        "33 ⅓ RPM"
+                    ]
+                }
+            }
+        },
+        "genres": {
+            "genre": "Electronic"
+        },
+        "identifiers": {
+            "identifier": [
+                {
+                    "_type": "Barcode",
+                    "_value": "7 13405 96041 0"
+                },
+                {
+                    "_description": "Run-out Side A",
+                    "_type": "Matrix / Runout",
+                    "_value": "MDR 9604-A RE M.M.M.J.R."
+                },
+                {
+                    "_description": "Run-out Side B",
+                    "_type": "Matrix / Runout",
+                    "_value": "MDR 9604-B RE M.M.M.J.R."
+                }
+            ]
+        },
+        "images": {
+            "image": [
+                {
+                    "_height": "604",
+                    "_type": "primary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "600",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "600"
+                },
+                {
+                    "_height": "459",
+                    "_type": "secondary",
+                    "_uri": "",
+                    "_uri150": "",
+                    "_width": "454"
+                }
+            ]
+        },
+        "labels": {
+            "label": {
+                "_catno": "MDR9604-1",
+                "_id": "20",
+                "_name": "Moody Recordings"
+            }
+        },
+        "master_id": {
+            "_is_main_release": "true",
+            "content": "164169"
+        },
+        "notes": "Special thanx to Johnny D and Nicky P for the beats.\r\n\r\nMastered at Metropolis Mastering, IL.",
+        "released": "1999",
+        "styles": {
+            "style": [
+                "House",
+                "Disco"
+            ]
+        },
+        "title": "Disco Ingredients 2 (The Second Batch)",
+        "tracklist": {
+            "track": [
+                {
+                    "duration": "",
+                    "position": "A1",
+                    "title": "Funkin Disko"
+                },
+                {
+                    "duration": "",
+                    "position": "A2",
+                    "title": "Subterranean Funk"
+                },
+                {
+                    "duration": "",
+                    "position": "B1",
+                    "title": "Disco Frenzy"
+                },
+                {
+                    "duration": "",
+                    "position": "B2",
+                    "title": "I Need More"
+                }
+            ]
+        },
+        "videos": {
+            "video": [
+                {
+                    "_duration": "379",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=u7WhjHrPChg",
+                    "description": "DJ Rhythm - Disco Frenzy",
+                    "title": "DJ Rhythm - Disco Frenzy"
+                },
+                {
+                    "_duration": "386",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=9gLiV82pAZc",
+                    "description": "DJ Rhythm - Subterranean Funk",
+                    "title": "DJ Rhythm - Subterranean Funk"
+                },
+                {
+                    "_duration": "421",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=O2rdWkZMIL8",
+                    "description": "DJ Rhythm - Funkin Disko",
+                    "title": "DJ Rhythm - Funkin Disko"
+                },
+                {
+                    "_duration": "400",
+                    "_embed": "true",
+                    "_src": "https://www.youtube.com/watch?v=_NgoV-rugWw",
+                    "description": "DJ Rhythm - I Need More",
+                    "title": "DJ Rhythm - I Need More"
+                }
+            ]
+        }
+    }
+}
