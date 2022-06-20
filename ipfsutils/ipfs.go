@@ -7,8 +7,8 @@ import (
 
 	gopath "path"
 
-	"deepsolutionsvn.com/disc/archives"
-	"deepsolutionsvn.com/disc/documents"
+	archives "deepsolutionsvn.com/disc/discogs/archives"
+	documents "deepsolutionsvn.com/disc/discogs/documents"
 
 	// "deepsolutionsvn.com/disc/ipfsutils"
 	"github.com/ipfs/go-cid"

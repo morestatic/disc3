@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"os"
 
-	"deepsolutionsvn.com/disc/archives"
-	"deepsolutionsvn.com/disc/indexes"
+	archives "deepsolutionsvn.com/disc/discogs/archives"
+	indexes "deepsolutionsvn.com/disc/discogs/indexes"
 	"deepsolutionsvn.com/disc/progress"
 )
 
@@ -18,19 +18,19 @@ type standardOpts struct {
 	quiet      bool
 }
 
-type indexCtx struct {
+type discogsIndexCtx struct {
 	d *archives.DiscogsFileDecoder
 	i indexes.DiscogsArchiveIndexer
 	m progress.Meter
 }
 
-type stageCtx struct {
+type discogsStageCtx struct {
 	f *os.File
 	i indexes.DiscogsArchiveIndexer
 	m progress.Meter
 }
 
-func prepareDiscogsIndex(ctx context.Context, dt archives.DocumentType, opts *standardOpts) (*indexCtx, error) {
+func prepareDiscogsIndex(ctx context.Context, dt archives.DocumentType, opts *standardOpts) (*discogsIndexCtx, error) {
 
 	d, err := archives.NewDiscogsFileDecoder(dt, opts.dropId, opts.dropPath)
 	if err != nil || d == nil {
@@ -53,11 +53,11 @@ func prepareDiscogsIndex(ctx context.Context, dt archives.DocumentType, opts *st
 		m = progress.Setup(ctx)
 	}
 
-	return &indexCtx{d: d, i: i, m: m}, err
+	return &discogsIndexCtx{d: d, i: i, m: m}, err
 }
 
-func prepareDiscogsStaging(dt archives.DocumentType, opts *standardOpts) (*stageCtx, error) {
-	f, err := archives.NewFileReader(dt, opts.dropId, opts.dropPath)
+func prepareDiscogsStaging(dt archives.DocumentType, opts *standardOpts) (*discogsStageCtx, error) {
+	f, err := archives.NewDiscogsFileReader(dt, opts.dropId, opts.dropPath)
 	if err != nil {
 		return nil, fmt.Errorf("unable to read archive file: %w", err)
 	}
@@ -78,5 +78,5 @@ func prepareDiscogsStaging(dt archives.DocumentType, opts *standardOpts) (*stage
 		m = progress.Setup(context.Background())
 	}
 
-	return &stageCtx{f: f, i: i, m: m}, err
+	return &discogsStageCtx{f: f, i: i, m: m}, err
 }

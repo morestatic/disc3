@@ -7,8 +7,8 @@ import (
 )
 
 type ArchiveOptions struct {
-	DropId   string `short:"d" long:"drop" description:"discogs drop id (usually date)"`
-	DropPath string `short:"p" long:"path" description:"discogs drop path"`
+	DropId   string `short:"d" long:"drop" description:"music metadata drop id (usually date)"`
+	DropPath string `short:"p" long:"path" description:"music metadata drop path"`
 }
 
 type IndexOptions struct {
@@ -17,7 +17,7 @@ type IndexOptions struct {
 }
 
 type StagingOptions struct {
-	LibStagingPath string `short:"l" long:"lib" description:"discogs json document staging path"`
+	LibStagingPath string `short:"l" long:"lib" description:"music metadata json document staging path"`
 }
 
 type GeneralOptions struct {
@@ -98,35 +98,56 @@ type ExtractReleaseJsonOptions struct {
 	IndexOptions
 }
 
-type PutArtistJsonOptions struct {
+type DiscogsPutArtistJsonOptions struct {
 	DiscId string `short:"a" long:"did" description:"artist id (required)" required:"true"`
 	ArchiveOptions
 	IndexOptions
 	StagingOptions
 }
 
-type PutArtistsJsonOptions struct {
+type DiscogsPutArtistsJsonOptions struct {
 	ArchiveOptions
 	IndexOptions
 	GeneralOptions
 	StagingOptions
 }
 
-type PutArtistsReleasesJsonOptions struct {
+type MusicBrainzPutArtistsJsonOptions struct {
 	ArchiveOptions
 	IndexOptions
 	GeneralOptions
 	StagingOptions
 }
 
-type PutLabelsJsonOptions struct {
+type DiscogsPutArtistsReleasesJsonOptions struct {
 	ArchiveOptions
 	IndexOptions
 	GeneralOptions
 	StagingOptions
 }
 
-type PutReleaseJsonOptions struct {
+type MusicBrainzPutArtistsReleasesJsonOptions struct {
+	ArchiveOptions
+	IndexOptions
+	GeneralOptions
+	StagingOptions
+}
+
+type DiscogsPutLabelsJsonOptions struct {
+	ArchiveOptions
+	IndexOptions
+	GeneralOptions
+	StagingOptions
+}
+
+type MusicBrainzPutLabelsJsonOptions struct {
+	ArchiveOptions
+	IndexOptions
+	GeneralOptions
+	StagingOptions
+}
+
+type DiscogsPutReleaseJsonOptions struct {
 	DiscId string `short:"r" long:"did" description:"release id (required)" required:"true"`
 	ArchiveOptions
 	IndexOptions
@@ -134,21 +155,35 @@ type PutReleaseJsonOptions struct {
 	StagingOptions
 }
 
-type PutReleasesJsonOptions struct {
+type DiscogsPutReleasesJsonOptions struct {
 	ArchiveOptions
 	IndexOptions
 	GeneralOptions
 	StagingOptions
 }
 
-type PutMastersJsonOptions struct {
+type MusicBrainzPutReleasesJsonOptions struct {
 	ArchiveOptions
 	IndexOptions
 	GeneralOptions
 	StagingOptions
 }
 
-type PutArtistReleasesJsonOptions struct {
+type DiscogsPutMastersJsonOptions struct {
+	ArchiveOptions
+	IndexOptions
+	GeneralOptions
+	StagingOptions
+}
+
+type MusicBrainzPutMastersJsonOptions struct {
+	ArchiveOptions
+	IndexOptions
+	GeneralOptions
+	StagingOptions
+}
+
+type DiscogsPutArtistReleasesJsonOptions struct {
 	DiscId string `short:"a" long:"did" description:"artist id (required)" required:"true"`
 	ArchiveOptions
 	IndexOptions
@@ -202,14 +237,22 @@ type DiscogsIndexCommands struct {
 }
 
 type DiscogsStagingCommands struct {
-	PutArtistJson          PutArtistJsonOptions          `command:"artist" description:"Put json from artist archive in json staging" required:"true"`
-	PutArtistReleasesJson  PutArtistReleasesJsonOptions  `command:"artist-releases" description:"Put json from releases archive in json staging for the artist" required:"true"`
-	PutArtistsJson         PutArtistsJsonOptions         `command:"artists" description:"Put json for all artists from the artists archive in json staging" required:"true"`
-	PutArtistsReleasesJson PutArtistsReleasesJsonOptions `command:"artists-releases" description:"Put artist releases json in json staging for all artists" required:"true"`
-	PutLabelsJson          PutLabelsJsonOptions          `command:"labels" description:"Put json for all labels from the labels archive in json staging" required:"true"`
-	PutReleaseJson         PutReleaseJsonOptions         `command:"release" description:"Put json from release archive in json staging" required:"true"`
-	PutReleasesJson        PutReleasesJsonOptions        `command:"releases" description:"Put json for all releases from the release archive in json staging" required:"true"`
-	PutMastersJson         PutMastersJsonOptions         `command:"masters" description:"Put json for all masters from the masters archive in json staging" required:"true"`
+	DiscogsPutArtistJson          DiscogsPutArtistJsonOptions          `command:"artist" description:"Put json from artist archive in json staging" required:"true"`
+	DiscogsPutArtistReleasesJson  DiscogsPutArtistReleasesJsonOptions  `command:"artist-releases" description:"Put json from releases archive in json staging for the artist" required:"true"`
+	DiscogsPutArtistsJson         DiscogsPutArtistsJsonOptions         `command:"artists" description:"Put json for all artists from the artists archive in json staging" required:"true"`
+	DiscogsPutArtistsReleasesJson DiscogsPutArtistsReleasesJsonOptions `command:"artists-releases" description:"Put artist releases json in json staging for all artists" required:"true"`
+	DiscogsPutLabelsJson          DiscogsPutLabelsJsonOptions          `command:"labels" description:"Put json for all labels from the labels archive in json staging" required:"true"`
+	DiscogsPutReleaseJson         DiscogsPutReleaseJsonOptions         `command:"release" description:"Put json from release archive in json staging" required:"true"`
+	DiscogsPutReleasesJson        DiscogsPutReleasesJsonOptions        `command:"releases" description:"Put json for all releases from the release archive in json staging" required:"true"`
+	DiscogsPutMastersJson         DiscogsPutMastersJsonOptions         `command:"masters" description:"Put json for all masters from the masters archive in json staging" required:"true"`
+}
+
+type MusicBrainzStagingCommands struct {
+	MusicBrainzPutArtistsJson         MusicBrainzPutArtistsJsonOptions         `command:"artists" description:"Put json for all artists from the artists archive in json staging" required:"true"`
+	MusicBrainzPutArtistsReleasesJson MusicBrainzPutArtistsReleasesJsonOptions `command:"artists-releases" description:"Put artist releases json in json staging for all artists" required:"true"`
+	MusicBrainzPutLabelsJson          MusicBrainzPutLabelsJsonOptions          `command:"labels" description:"Put json for all labels from the labels archive in json staging" required:"true"`
+	MusicBrainzPutReleasesJson        MusicBrainzPutReleasesJsonOptions        `command:"releases" description:"Put json for all releases from the release archive in json staging" required:"true"`
+	MusicBrainzPutMastersJson         MusicBrainzPutMastersJsonOptions         `command:"masters" description:"Put json for all masters from the masters archive in json staging" required:"true"`
 }
 
 type IpfsCommands struct {
@@ -235,7 +278,8 @@ type IndexingCommands struct {
 }
 
 type StagingCommands struct {
-	DiscogsStagingCmds DiscogsStagingCommands `command:"discogs"`
+	DiscogsStagingCmds     DiscogsStagingCommands     `command:"discogs"`
+	MusicBrainzStagingCmds MusicBrainzStagingCommands `command:"musicbrainz"`
 }
 
 type Options struct {

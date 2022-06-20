@@ -8,8 +8,8 @@ import (
 	"net/http"
 	"strconv"
 
-	"deepsolutionsvn.com/disc/archives"
-	"deepsolutionsvn.com/disc/documents"
+	archives "deepsolutionsvn.com/disc/discogs/archives"
+	documents "deepsolutionsvn.com/disc/discogs/documents"
 	"deepsolutionsvn.com/disc/ipfsutils"
 
 	"github.com/gin-contrib/cors"
