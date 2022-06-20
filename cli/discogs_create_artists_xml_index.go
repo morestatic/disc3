@@ -4,8 +4,8 @@ import (
 	"context"
 	"fmt"
 
-	archives "deepsolutionsvn.com/disc/discogs/archives"
-	commands "deepsolutionsvn.com/disc/discogs/commands"
+	archives "deepsolutionsvn.com/disc/providers/discogs/archives"
+	commands "deepsolutionsvn.com/disc/providers/discogs/commands"
 )
 
 func (opts *CreateArtistsXmlIndexOptions) Execute(args []string) error {

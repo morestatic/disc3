@@ -8,9 +8,9 @@ import (
 	"net/http"
 	"strconv"
 
-	archives "deepsolutionsvn.com/disc/discogs/archives"
-	documents "deepsolutionsvn.com/disc/discogs/documents"
 	"deepsolutionsvn.com/disc/ipfsutils"
+	archives "deepsolutionsvn.com/disc/providers/discogs/archives"
+	documents "deepsolutionsvn.com/disc/providers/discogs/documents"
 
 	"github.com/gin-contrib/cors"
 	"github.com/gin-gonic/gin"

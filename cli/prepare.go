@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"os"
 
-	archives "deepsolutionsvn.com/disc/discogs/archives"
-	indexes "deepsolutionsvn.com/disc/discogs/indexes"
 	"deepsolutionsvn.com/disc/progress"
+	archives "deepsolutionsvn.com/disc/providers/discogs/archives"
+	indexes "deepsolutionsvn.com/disc/providers/discogs/indexes"
 )
 
 type standardOpts struct {

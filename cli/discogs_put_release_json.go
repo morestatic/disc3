@@ -5,9 +5,9 @@ import (
 	"log"
 	"strconv"
 
-	archives "deepsolutionsvn.com/disc/discogs/archives"
-	commands "deepsolutionsvn.com/disc/discogs/commands"
-	indexes "deepsolutionsvn.com/disc/discogs/indexes"
+	archives "deepsolutionsvn.com/disc/providers/discogs/archives"
+	commands "deepsolutionsvn.com/disc/providers/discogs/commands"
+	indexes "deepsolutionsvn.com/disc/providers/discogs/indexes"
 )
 
 func (opts *DiscogsPutReleaseJsonOptions) Execute(args []string) error {

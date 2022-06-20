@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"strconv"
 
-	archives "deepsolutionsvn.com/disc/discogs/archives"
-	commands "deepsolutionsvn.com/disc/discogs/commands"
-	indexes "deepsolutionsvn.com/disc/discogs/indexes"
+	archives "deepsolutionsvn.com/disc/providers/discogs/archives"
+	commands "deepsolutionsvn.com/disc/providers/discogs/commands"
+	indexes "deepsolutionsvn.com/disc/providers/discogs/indexes"
 )
 
 func (opts *DiscogsPutArtistReleasesJsonOptions) Execute(args []string) error {
