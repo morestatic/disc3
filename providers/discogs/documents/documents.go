@@ -40,7 +40,7 @@ func CalcBuckets(did int64) (int32, int32, int32) {
 
 func GetStagingPath(stagingPath string) string {
 	if stagingPath == "" {
-		stagingPath = os.Getenv("STAGING_PATH")
+		stagingPath = os.Getenv("DISCOGS_STAGING_PATH")
 	}
 	return stagingPath
 }
