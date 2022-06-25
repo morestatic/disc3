@@ -3,8 +3,9 @@ package commands
 import (
 	"context"
 	"encoding/json"
+	"fmt"
+	"sync"
 
-	"deepsolutionsvn.com/disc/progress"
 	"deepsolutionsvn.com/disc/providers/musicbrainz/archives"
 	"deepsolutionsvn.com/disc/providers/musicbrainz/documents"
 	"deepsolutionsvn.com/disc/providers/musicbrainz/scanner"
@@ -15,19 +16,13 @@ type LabelInfo struct {
 	Id string `json:"id"`
 }
 
-func SaveMusicBrainzLabelsJson(ctx context.Context, archivePath string, stagingBasePath string, dropVersion string, es *scanner.JSONEntityStream, m progress.Meter, done chan struct{}) error {
-
-	// start the stream of json entities to save
-	go es.Start(archivePath)
-
-	count := int64(1)
-	if m != nil {
-		m.AddUnboundedBar("stage", "staging", func() string {
-			return utils.Format(count)
-		})
-	}
+func SaveLabelsJson(ctx context.Context, archivePath string, stagingBasePath string, dropVersion string, es *scanner.JSONEntityStream, interrupt chan struct{}, done chan struct{}, closer *sync.Once) {
 
 	for entity := range es.Watch() {
+		if entity.Error != nil {
+			fmt.Printf("%s\n\n", entity.Error)
+			break
+		}
 
 		prettyEntity, _ := json.MarshalIndent(entity.Value, "", "    ")
 
@@ -42,23 +37,15 @@ func SaveMusicBrainzLabelsJson(ctx context.Context, archivePath string, stagingB
 			string(prettyEntity))
 
 		if err != nil {
-			return err
+			fmt.Printf("%s\n\n", err)
+			break
 		}
 
-		if m != nil {
-			m.IncrUnboundedProgress("stage", count)
+		if utils.WasCancelled(ctx, interrupt, nil, done) {
+			break
 		}
-		count++
-
-		if utils.WasCancelled(ctx, done) {
-			return utils.ErrCancelled
-		}
-
 	}
 
-	if m != nil {
-		m.SetTotal("stage", 0, true)
-	}
-
-	return nil
+	// ensure the the other goroutinues exit
+	closer.Do(func() { close(done) })
 }

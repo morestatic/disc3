@@ -24,7 +24,7 @@ type Meter interface {
 	IncrUnboundedProgress(barId string, count int64)
 }
 
-var WrapCount int64 = 1000000
+var WrapCount int64 = 10000
 
 type ProgressFunc func() string
 
@@ -45,8 +45,7 @@ func Setup(ctx context.Context) *MbpMeter {
 
 func (m *MbpMeter) getOverallProgress(stats decor.Statistics) string {
 	if m.getOverallProgressFn != nil {
-		progress := m.getOverallProgressFn()
-		return progress
+		return m.getOverallProgressFn()
 	}
 	return ""
 }

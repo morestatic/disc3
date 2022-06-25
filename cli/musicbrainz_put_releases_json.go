@@ -2,18 +2,18 @@ package cli
 
 import (
 	"context"
+	"fmt"
 	"time"
 
 	archives "deepsolutionsvn.com/disc/providers/musicbrainz/archives"
 	commands "deepsolutionsvn.com/disc/providers/musicbrainz/commands"
-	"deepsolutionsvn.com/disc/providers/musicbrainz/scanner"
 )
 
 func (opts *MusicBrainzPutReleasesJsonOptions) Execute(args []string) error {
 	ctx, cancel := context.WithCancel(context.Background())
 	defer cancel()
 
-	done := ctrlcInit()
+	interrupt := ctrlcInit()
 
 	stageCtx, err := prepareMusicBrainzStaging(archives.Releases, &standardOpts{
 		dropPath:       opts.DropPath,
@@ -25,10 +25,9 @@ func (opts *MusicBrainzPutReleasesJsonOptions) Execute(args []string) error {
 		return err
 	}
 
-	es := scanner.NewJSONEntityStream()
-	defer es.Close()
+	fmt.Printf("%+v", stageCtx)
 
-	err = commands.SaveMusicBrainzReleasesJson(ctx, stageCtx.archiveName, stageCtx.stagingBasePath, stageCtx.dropVersion, es, stageCtx.meter, done)
+	err = commands.SaveJsonEntities(ctx, commands.SaveReleasesJson, stageCtx.archiveName, stageCtx.stagingBasePath, stageCtx.dropVersion, stageCtx.meter, interrupt)
 
 	// if using progress meter, allow time for meter to update before exiting
 	if stageCtx.meter != nil {

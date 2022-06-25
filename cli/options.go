@@ -300,10 +300,10 @@ func isDefaultIndexer(storeType string) bool {
 func ctrlcInit() chan struct{} {
 	ctrlcChan := make(chan os.Signal, 1)
 	signal.Notify(ctrlcChan, os.Interrupt, syscall.SIGTERM)
-	done := make(chan struct{}, 1)
+	interrupt := make(chan struct{}, 1)
 	go func() {
 		<-ctrlcChan
-		close(done)
+		close(interrupt)
 	}()
-	return done
+	return interrupt
 }

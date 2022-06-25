@@ -6,14 +6,13 @@ import (
 
 	archives "deepsolutionsvn.com/disc/providers/musicbrainz/archives"
 	commands "deepsolutionsvn.com/disc/providers/musicbrainz/commands"
-	"deepsolutionsvn.com/disc/providers/musicbrainz/scanner"
 )
 
 func (opts *MusicBrainzPutArtistsJsonOptions) Execute(args []string) error {
 	ctx, cancel := context.WithCancel(context.Background())
 	defer cancel()
 
-	done := ctrlcInit()
+	interrupt := ctrlcInit()
 
 	stageCtx, err := prepareMusicBrainzStaging(archives.Artists, &standardOpts{
 		dropPath:       opts.DropPath,
@@ -25,10 +24,9 @@ func (opts *MusicBrainzPutArtistsJsonOptions) Execute(args []string) error {
 		return err
 	}
 
-	es := scanner.NewJSONEntityStream()
-	defer es.Close()
+	// fmt.Printf("%+v", stageCtx)
 
-	err = commands.SaveMusicBrainzArtistsJson(ctx, stageCtx.archiveName, stageCtx.stagingBasePath, stageCtx.dropVersion, es, stageCtx.meter, done)
+	err = commands.SaveJsonEntities(ctx, commands.SaveArtistsJson, stageCtx.archiveName, stageCtx.stagingBasePath, stageCtx.dropVersion, stageCtx.meter, interrupt)
 
 	// if using progress meter, allow time for meter to update before exiting
 	if stageCtx.meter != nil {

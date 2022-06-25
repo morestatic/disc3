@@ -4,7 +4,29 @@ import (
 	"encoding/json"
 	"fmt"
 	"os"
+	"sync"
 )
+
+const (
+	EntityChannelBufferSize = 12
+)
+
+type EntityOpenFileErr struct {
+	Err error
+}
+
+func (e EntityOpenFileErr) Error() string {
+	return e.Err.Error()
+}
+
+type EntityStreamDecodeErr struct {
+	Count int64
+	Err   error
+}
+
+func (e EntityStreamDecodeErr) Error() string {
+	return fmt.Sprintf("decode error at entity %d: %v", e.Count, e.Err.Error())
+}
 
 type EntityInterface interface{}
 
@@ -16,37 +38,41 @@ type Entity struct {
 type JSONEntityStream struct {
 	stream chan Entity
 	count  int64
-	closed bool
+	mut    sync.RWMutex
 }
 
 func NewJSONEntityStream() *JSONEntityStream {
 	return &JSONEntityStream{
-		stream: make(chan Entity, 6),
+		stream: make(chan Entity, EntityChannelBufferSize),
 		count:  1,
-		closed: false,
 	}
 }
 
-func (es JSONEntityStream) Watch() <-chan Entity {
+func (es *JSONEntityStream) Watch() <-chan Entity {
 	return es.stream
+}
+
+func (es *JSONEntityStream) GetCount() int64 {
+	es.mut.RLock()
+	defer es.mut.RUnlock()
+	return es.count
 }
 
 func (es *JSONEntityStream) Start(entityFile string) {
 	f, err := os.Open(entityFile)
 	if err != nil {
-		es.stream <- Entity{Error: fmt.Errorf("open file: %w", err)}
+		es.stream <- Entity{Error: EntityOpenFileErr{Err: err}}
 		return
 	}
 	defer f.Close()
 
 	decoder := json.NewDecoder(f)
 
-	es.count = int64(1)
 	for decoder.More() {
 
 		var e EntityInterface
 		if err := decoder.Decode(&e); err != nil {
-			es.stream <- Entity{Error: fmt.Errorf("decode line %d: %w", es.count, err)}
+			es.stream <- Entity{Error: &EntityStreamDecodeErr{Count: es.count, Err: err}}
 			return
 		}
 
@@ -54,18 +80,16 @@ func (es *JSONEntityStream) Start(entityFile string) {
 			Value: e,
 		}
 
+		es.mut.Lock()
 		es.count++
-		// if es.count >= 10000 {
+		// if es.count >= 1000 {
+		// 	es.mut.Unlock()
+		// 	es.stream <- Entity{Error: fmt.Errorf("break %d", es.count)}
+		// 	close(es.stream)
 		// 	break
 		// }
+		es.mut.Unlock()
 	}
 
-	es.Close()
-}
-
-func (es *JSONEntityStream) Close() {
-	if !es.closed {
-		close(es.stream)
-		es.closed = true
-	}
+	close(es.stream)
 }
